@@ -207,7 +207,7 @@ def main():
 
     rcpts = send_mail(subject, html_body, text_body)
     write_last_date(today)  # 发送成功才推进日期游标，失败则下次重发
-    print(f"[ok] 日报已发送至 {', '.join(rcpts)}; 状态游标推进至 {today.isoformat()}")
+    print(f"[ok] 日报已发送（{len(rcpts)} 个收件人，地址已脱敏不打印）; 游标推进至 {today.isoformat()}")
 
 
 if __name__ == "__main__":
