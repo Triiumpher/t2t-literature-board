@@ -70,7 +70,7 @@
     "url": "https://europepmc.org/article/MED/42636802",
     "doi": "10.1016/j.cub.2026.07.071",
     "pmid": "42636802",
-    "abstract": "The banana family (Musaceae) exhibits remarkable diversity in karyotype structure and bract coloration, yet the evolutionary dynamics of chromosome rearrangements and the regulatory basis underlying color diversification remain poorly understood. Here, we present a telomere-to-telomere (T2T), gap-free genome assembly of Musa exotica, an ornamental species with brightly colored bracts, representing an early-branching lineage within sect. Callimusa (Musa L.). By integrating this high-quality genome with available Musaceae genomes, we reconstruct the ancestral Musaceae karyotype (AMK) with a haploid chromosome number of n = 17. Comparative genomic analyses reveal recurrent, lineage-specific inter-chromosomal rearrangements across extant Musaceae lineages, resulting in stepwise chromosome number reductions to n = 11, 10, and 9. This karyotype trajectory is consistent with DNA-based phylogenetic relationships and suggests that chromosomal reorganization contributed to early lineage diversification within the family. Notably, rearrangement-associated regions are enriched for functionally important genes, particularly structural genes (chalcone synthase [CHS] and flavanone 3-hydroxylase [F3H]) and regulatory transcription factors (MYB and basic-helix-loop-helix [bHLH]) involved in anthocyanin biosynthesis. Integrating transcriptomic and regulatory analyses demonstrate coordinated activation of anthocyanin biosynthetic genes (CHS, CHI, F3'5'H, and ANS) in brightly colored bracts, with expression divergence largely decoupled from gene dosage and predominantly driven by transcriptional regulation. Co-expression analyses reveal extensive MYB- and bHLH-enzyme interactions, underscoring their central role in modulating pathway activity and color diversification. Collectively, our results provide a comprehensive evolutionary framework for Musaceae genomic evolution and lineage divergence and link chromosome structural evolution to regulatory rewiring and phenotypic diversification.",
+    "abstract": "The banana family (Musaceae) exhibits remarkable diversity in karyotype structure and bract coloration, yet the evolutionary dynamics of chromosome rearrangements and the regulatory basis underlying color diversification remain poorly understood. Here, we present a telomere-to-telomere (T2T), gap-free genome assembly of Musa exotica, an ornamental species with brightly colored bracts, representing an early-branching lineage within sect. Callimusa (Musa L.). By integrating this high-quality genome with available Musaceae genomes, we reconstruct the ancestral Musaceae karyotype (AMK) with a haploid chromosome number of n = 17. Comparative genomic analyses reveal recurrent, lineage-specific inter-chromosomal rearrangements across extant Musaceae lineages, resulting in stepwise chromosome number reductions to n = 11, 10, and 9. This karyotype trajectory is consistent with DNA-based phylogenetic relationships and suggests that chromosomal reorganization contributed to early lineage diversification within the family. Notably, rearrangement-associated regions are enriched for functionally important genes, particularly structural genes (chalcone synthase [CHS] and flavanone 3-hydroxylase [F3H]) and regulatory transcription factors (MYB and basic-helix-loop-helix [bHLH]) involved in anthocyanin biosynthesis. Integrative transcriptomic and regulatory analyses demonstrate coordinated activation of anthocyanin biosynthetic genes (CHS, CHI, F3'5'H, and ANS) in brightly colored bracts, with expression divergence largely decoupled from gene dosage and predominantly driven by transcriptional regulation. Co-expression analyses reveal extensive MYB- and bHLH-enzyme interactions, underscoring their central role in modulating pathway activity and color diversification. Collectively, our results provide a comprehensive evolutionary framework for Musaceae genomic evolution and lineage divergence and link chromosome structural evolution to regulatory rewiring and phenotypic diversification.",
     "keywords": ["T2T", "telomere-to-telomere"],
     "via": "EuropePMC;PubMed"
   },
@@ -164,6 +164,34 @@
     "via": "PubMed"
   },
   {
+    "id": "manual-20260901-rhesus-t2t",
+    "title": "上海交大《Cell》：恒河猴基因组实现“近乎完美”端粒到端粒组装 T2T-MMU8v2.0",
+    "type": "wechat",
+    "source": "生物谷",
+    "authors": "",
+    "publish_date": "2026-08-10",
+    "added_at": "2026-09-01",
+    "url": "https://news.bioon.com/article/3b5b94609040.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "上海交通大学团队实现恒河猴（Macaca mulatta）近乎完美的 T2T 组装 T2T-MMU8v2.0，达到基因组完整性检查器（GCI）100 分、共识序列零错误 k-mer（k=21），并提出判定完整且近乎完美基因组的三条标准。",
+    "keywords": ["T2T", "动物基因组", "灵长类"]
+  },
+  {
+    "id": "manual-20260901-wuzhishan-pig",
+    "title": "补齐基因拼图！我国首次完成五指山小型猪端粒到端粒（T2T）无间隙基因组组装 T2T-pig1.0（Nature Genetics）",
+    "type": "wechat",
+    "source": "科普中国（科行札记）",
+    "authors": "",
+    "publish_date": "2026-08-09",
+    "added_at": "2026-09-01",
+    "url": "https://cloud.kepuchina.cn/h5/detail?id=7491904421176238080",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农业大学方美英团队在 Nature Genetics 发表成果，整合超长 ONT 等多平台数据，首次完成中国五指山小型猪 T2T 无间隙基因组 T2T-pig1.0，完整覆盖着丝粒与 Y 染色体，补齐家猪参考基因组空白，服务精准育种与生物医学研究。",
+    "keywords": ["T2T", "动物基因组", "家猪"]
+  },
+  {
     "id": "manual-cell-diploid-ebiotrade",
     "title": "Cell：迄今最高质量的二倍体人类基因组构建完成，同时包含父母双方全套染色体序列",
     "type": "wechat",
@@ -176,6 +204,34 @@
     "pmid": "",
     "abstract": "端粒到端粒（T2T）联盟联合约翰斯·霍普金斯大学、NHGRI、NIST 构建真正意义上包含父母双方全套染色体序列的人类完整基因组，2026年8月6日以12篇论文形式发表于 Cell 及 Cell Genomics，有望推进遗传病诊断。",
     "keywords": ["T2T", "人类基因组", "Cell"]
+  },
+  {
+    "id": "manual-20260901-zebra-finch",
+    "title": "《Cell》斑胸草雀首个完整基因组图谱绘出，为迄今最完整的鸟类 T2T 基因组之一",
+    "type": "wechat",
+    "source": "云南网",
+    "authors": "",
+    "publish_date": "2026-08-07",
+    "added_at": "2026-09-01",
+    "url": "https://m.yunnan.cn/system/2026/08/07/034113646.shtml",
+    "doi": "",
+    "pmid": "",
+    "abstract": "洛克菲勒大学团队作为 T2T 联盟多机构合作的一部分，绘制出斑胸草雀首个可区分父母双方遗传信息的完整基因组，发现数千个此前隐藏的基因并揭示染色体结构，是迄今最完整、最精确的鸟类基因组之一，成果发表于 Cell。",
+    "keywords": ["T2T", "动物基因组", "鸟类"]
+  },
+  {
+    "id": "manual-20260901-rainbow-trout",
+    "title": "【Scientific Data】中国养殖虹鳟（Oncorhynchus mykiss）近端粒到端粒（T2T）基因组组装",
+    "type": "wechat",
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-08-05",
+    "added_at": "2026-09-01",
+    "url": "https://m.ebiotrade.com/newsf/2026-8/20260805001524463.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对虹鳟由罗伯逊易位导致的广泛核型多样性（2n=58–64）及现有参考基因组偏向北美谱系的问题，研究整合多平台测序数据组装出中国养殖群体的近 T2T 基因组，为鱼类核型演化与遗传育种提供高质量参考。",
+    "keywords": ["T2T", "动物基因组", "鱼类"]
   },
   {
     "id": "manual-lotus-t2t-whbg",
