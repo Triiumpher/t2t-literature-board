@@ -1,0 +1,58 @@
+name: daily-t2t-digest
+
+# ===== 触发时机 =====
+# schedule cron 使用 UTC 时间；'20 0 * * *' = UTC 00:20 = 北京时间 08:20
+# （刻意避开整点，GitHub Actions 整点排队严重；实际可能延迟数分钟）
+# workflow_dispatch = 可在 Actions 页面手动点 “Run workflow” 测试
+on:
+  schedule:
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+
+# 自动提交回仓库需要写权限
+permissions:
+  contents: write
+
+# 防止上一次没跑完下一次又启动
+concurrency:
+  group: daily-t2t-digest
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-mail:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          # 采集/邮件脚本只用标准库，无需 pip install
+
+      - name: Fetch newly published T2T papers (Europe PMC)
+        run: python3 scripts/fetch_literature.py --days 3
+
+      - name: Send daily digest email
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          SKIP_IF_EMPTY: ${{ secrets.SKIP_IF_EMPTY }}
+        run: python3 scripts/send_digest.py
+
+      - name: Commit updated data back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add literature.json state/
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "chore: daily T2T digest $(date -u +%Y-%m-%d)"
+            git push
+          fi
