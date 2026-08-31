@@ -8,11 +8,12 @@
 | 时间 | 执行者 | 动作 |
 |---|---|---|
 | 07:35 | 豆包定时任务 | 检索微信生态/中文科研媒体的 T2T 文章，去重后追加到 `literature.json` |
-| 08:20 | GitHub Actions | ① 从 Europe PMC/PubMed 拉取最近 3 天正式论文（已排除预印本）② 合并去重写回 `literature.json` ③ 把全部新增汇总成邮件日报发出 ④ 自动 commit 回仓库 |
+| 08:20 | GitHub Actions | ① 同时从 Europe PMC、PubMed、OpenAlex 三个源拉取最近 3 天正式论文（已排除预印本，跨源按 DOI/PMID/标题去重并互补字段）② 合并写回 `literature.json` ③ 把全部新增汇总成邮件日报发出 ④ 自动 commit 回仓库 |
 | 全天 | GitHub Pages | 看板网页随时可看，数据随仓库自动更新 |
 
 > 说明：
-> - 正式论文走 **Europe PMC 免费公开 API**，无需任何 API Key，覆盖 PubMed/MEDLINE；Bing 学术 API 已停止服务，故不采用。
+> - 正式论文同时走 **Europe PMC + PubMed(E-utilities) + OpenAlex** 三个免费公开接口，均无需 API Key；三源交叉去重、互补摘要/刊名，单源故障不影响其他源。Bing 学术 API 已停止服务，故不采用。
+> - **知网(CNKI)** 没有面向个人的公开合法 API（仅对采购机构授权），不做爬取；中文文献可由你把知网链接/题录发来手动补录。**Elsevier(Scopus/ScienceDirect)** 接口需申请 key 且完整权限依赖机构订阅，需要时再在脚本中按 key 启用。
 > - 微信公众号没有公开检索 API、`mp.weixin.qq.com` 原始链接也基本不被外网搜索引擎收录，因此微信部分由豆包每日检索"公众号镜像/中文科研媒体"补录；你自己看到好的公众号文章，也可按文末模板手动加一条。
 
 ## 二、目录结构
@@ -22,7 +23,7 @@ t2t-literature-board/
 ├── index.html                  # 文献看板网页（GitHub Pages 托管）
 ├── literature.json             # 全部文献数据（脚本自动更新 + 手动补录）
 ├── scripts/
-│   ├── fetch_literature.py     # 每日采集正式论文（纯标准库，零依赖）
+│   ├── fetch_literature.py     # 每日多源采集正式论文（纯标准库，零依赖）
 │   └── send_digest.py          # 生成并发送邮件日报（支持 --dry-run 预览）
 ├── state/                      # 运行状态（last_digest_date.txt 记录已发到哪天）
 ├── .github/workflows/daily.yml # GitHub Actions 每日工作流
@@ -60,7 +61,7 @@ git push -u origin main
 
 ### Step 3：手动测试一次 Actions
 仓库 **Actions** 标签页 → 左侧 `daily-t2t-digest` → 右侧 **Run workflow**。
-等 1 分钟左右刷新，绿色对勾即成功；点进运行记录可看到拉到几篇论文、邮件发给了谁。
+等 1 分钟左右刷新，绿色对勾即成功；点进运行记录可看到各源命中条数、是否发送成功。
 此时你的邮箱应收到第一封日报。
 
 ### Step 4：开启看板网页
@@ -95,10 +96,8 @@ git push -u origin main
 ```bash
 # 拉取最近 14 天论文并合并
 python3 scripts/fetch_literature.py --days 14
-
 # 只生成邮件预览（state/digest_preview.html），不真正发信
 python3 scripts/send_digest.py --dry-run
-
 # 本地看板预览
 python3 -m http.server 8000
 # 浏览器打开 http://127.0.0.1:8000/
@@ -106,7 +105,7 @@ python3 -m http.server 8000
 
 ## 六、自定义
 
-- **检索关键词/范围**：改 `scripts/fetch_literature.py` 顶部 `EPMC_QUERY`（例如限定昆虫：加 `AND (insect OR Lepidoptera OR ...)`）。
+- **检索关键词/范围**：改 `scripts/fetch_literature.py` 顶部三个源各自的检索词 `EPMC_QUERY` / `PUBMED_TERM` / `OPENALEX_SEARCH`（例如限定昆虫方向，可同时加入 insect / Lepidoptera 等词）。
 - **回溯天数**：Actions 里 `--days 3`，改大可容忍周末/服务波动。
 - **发送时间**：改 `.github/workflows/daily.yml` 的 cron（UTC！北京时间减 8 小时；当前 `20 0 * * *` = 北京 08:20）。
 - **不想公开看板**：GitHub Pages 免费版不支持私密访问；可不开 Pages，只保留邮件日报，仓库保持私有（Actions 仍可运行）。
@@ -115,5 +114,6 @@ python3 -m http.server 8000
 
 1. **Actions 没按时跑？** GitHub 免费账号的 schedule 在高峰期会延迟，属平台行为；`--days 3` 的冗余窗口可保证不漏文献。
 2. **邮件发送失败报 535？** 基本都是授权码错误/未开启 SMTP 服务，重新生成授权码并更新 Secret。
-3. **某篇论文不想看？** 直接从 `literature.json` 删除该条即可；想长期屏蔽某方向就收窄 `EPMC_QUERY`。
-4. **预印本去哪了？** 脚本只保留 source 为 MED/PMC 的正式发表文献，bioRxiv 等预印本（PPR）按需求被过滤。
+3. **某篇论文不想看？** 直接从 `literature.json` 删除该条即可；想长期屏蔽某方向就同步收窄三个源的检索词。
+4. **预印本去哪了？** 三个源均显式过滤预印本：Europe PMC 排除 PPR、PubMed 排除 Preprint 文献类型、OpenAlex 只取期刊论文（type=article）并排除预印本仓库来源。
+5. **单源挂了会怎样？** 任一源失败只在日志告警并跳过，其余源照常；只有三个源全部失败本次任务才报错。

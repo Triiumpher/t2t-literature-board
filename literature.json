@@ -11,7 +11,8 @@
     "doi": "10.1016/j.jgg.2026.08.001",
     "pmid": "42665227",
     "abstract": "",
-    "keywords": ["T2T", "telomere-to-telomere"]
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "EuropePMC;PubMed"
   },
   {
     "id": "pmid-42663746",
@@ -25,7 +26,8 @@
     "doi": "10.1007/s11103-026-01745-3",
     "pmid": "42663746",
     "abstract": "The satellitome of Triticum aestivum cv. Chinese Spring consists of 36 satellite DNA (satDNA) families that were previously molecularly characterized and chromosomally mapped. The recent release of a complete gap-free telomere-to-telomere (T2T) assembly of the species offers a unique opportunity to refine the physical map and evolutionary interpretation of these sequences. Here, we re-evaluate the organization of the wheat satellitome by analyzing the T2T assembly with RepeatMasker and visualizing the results using the CHRISMAPP script. This research strengthens the notion that more than half of wheat satDNAs are connected to transposable elements (TEs) and enables us to propose a model of satDNA origin and evolution driven by TEs and other random genome sequences. By integrating T2T based physical mapping with previous FISH analyses, we refine the genomic distribution of tandem repeats, identify complex satellite organizations and length variants, and resolve several discrepancies between cytogenetic and genomic analyses. Finally, the detailed mapping of satDNA in centromeric and the subtelomeric regions highlight clear chromosome and subgenome specific patterns, suggesting potential roles of satellites in chromosome architecture. Together these findings provide the most complete and accurate satellitome map available for bread wheat, offering new insights into repeat evolution and genome organization in polyploid species.",
-    "keywords": ["T2T", "telomere-to-telomere"]
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "EuropePMC;OpenAlex;PubMed"
   },
   {
     "id": "pmid-42663732",
@@ -39,7 +41,8 @@
     "doi": "10.1007/s00299-026-03948-w",
     "pmid": "42663732",
     "abstract": "Key message The first T2T reference genome of Guazuma ulmifolia is reported, which serves as a core genomic resource for stress adaptation research and stress-tolerant breeding in cacao wild relatives. Climate change, particularly increased incidence of drought, poses a major threat to food security. Understanding the genomic basis of environmental adaptation in crop wild relatives can provide valuable resources for improving stress resilience. Guazuma ulmifolia, a wild relative of Theobroma cacao with important ecological and medicinal value, lacks high-quality reference genomic resources. Here, we report the first telomere-to-telomere (T2T) chromosome-level genome assembly of G. ulmifolia, with a genome size of 311.31 Mb, contig N50 of 35.19 Mb, and 98.70% BUSCO completeness. Repetitive sequences constitute 27.43% of the G. ulmifolia genome, with LTR retrotransposons as the predominant class. Comparative genomic analyses revealed that genome-size variation among Malvaceae species is associated with differences in polyploidization history and TE dynamics. Ancestral karyotype reconstruction identified five lineage-specific chromosome fusion events distinguishing G. ulmifolia from T. cacao. Comparative analyses further identified tandem duplication-associated expansion of stress-related LEA and GST gene families, suggesting potential genomic features associated with stress responses. Flavonoid biosynthesis genes were largely conserved in copy number but showed tissue-specific expression patterns, providing candidate genes for investigating secondary metabolism. Together, this study establishes a high-quality T2T genome resource for exploring genome evolution, chromosome organization, and stress-related genomic features in Malvaceae.",
-    "keywords": ["T2T", "telomere-to-telomere"]
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "EuropePMC;PubMed"
   },
   {
     "id": "pmid-42657995",
@@ -53,7 +56,8 @@
     "doi": "10.1093/gbe/evag220",
     "pmid": "42657995",
     "abstract": "The use of Saccharomyces cerevisiae to ferment alcoholic beverages is an ancient tradition, with genetic evidence indicating origins in Neolithic Asia, although the domestication process of the species is not fully understood. Kveik is a group of traditional yeasts used for farmhouse brewing in western Norway preserved through generations of rural brewing practice. While recent studies have highlighted the distinctiveness of kveik, its precise phylogenetic position, genetic diversity, and domestication history remain unclear. We performed whole-genome sequencing on 64 isolates from 25 traditional brewing cultures from Western Norway selected using cultural heritage criteria, and generated telomere-to-telomere (T2T) assemblies for selected strains. Phylogenomic and population genetic analyses reveal that kveik strains form a paraphyletic and early diverging group with respect to other domesticated S. cerevisiae strains. Most strains exhibit low diversity among isolates from the same brewing culture, strong geographic clustering, and little evidence of gene-flow or admixture. Mitochondrial genomes and Ty1 retrotransposon profiles corroborate this distinct lineage history. We further show that previously reported signals of gene flow between kveik and Asian fermentation strains are likely artifacts caused by population structure and selection. Divergence time estimates suggest that the common ancestor of beer, kveik, and other liquid-phase fermenting strains originated from ancestral populations 4,000 to 8,000 years ago. Our genomic resource sheds light on yeast evolution and domestication. Kveik likely comprises some of the oldest domesticated lineages in continuous use until today, connecting intangible cultural heritage to an early genetic origin.",
-    "keywords": ["T2T", "telomere-to-telomere"]
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "EuropePMC;PubMed"
   },
   {
     "id": "pmid-42636802",
@@ -67,7 +71,38 @@
     "doi": "10.1016/j.cub.2026.07.071",
     "pmid": "42636802",
     "abstract": "The banana family (Musaceae) exhibits remarkable diversity in karyotype structure and bract coloration, yet the evolutionary dynamics of chromosome rearrangements and the regulatory basis underlying color diversification remain poorly understood. Here, we present a telomere-to-telomere (T2T), gap-free genome assembly of Musa exotica, an ornamental species with brightly colored bracts, representing an early-branching lineage within sect. Callimusa (Musa L.). By integrating this high-quality genome with available Musaceae genomes, we reconstruct the ancestral Musaceae karyotype (AMK) with a haploid chromosome number of n = 17. Comparative genomic analyses reveal recurrent, lineage-specific inter-chromosomal rearrangements across extant Musaceae lineages, resulting in stepwise chromosome number reductions to n = 11, 10, and 9. This karyotype trajectory is consistent with DNA-based phylogenetic relationships and suggests that chromosomal reorganization contributed to early lineage diversification within the family. Notably, rearrangement-associated regions are enriched for functionally important genes, particularly structural genes (chalcone synthase [CHS] and flavanone 3-hydroxylase [F3H]) and regulatory transcription factors (MYB and basic-helix-loop-helix [bHLH]) involved in anthocyanin biosynthesis. Integrating transcriptomic and regulatory analyses demonstrate coordinated activation of anthocyanin biosynthetic genes (CHS, CHI, F3'5'H, and ANS) in brightly colored bracts, with expression divergence largely decoupled from gene dosage and predominantly driven by transcriptional regulation. Co-expression analyses reveal extensive MYB- and bHLH-enzyme interactions, underscoring their central role in modulating pathway activity and color diversification. Collectively, our results provide a comprehensive evolutionary framework for Musaceae genomic evolution and lineage divergence and link chromosome structural evolution to regulatory rewiring and phenotypic diversification.",
-    "keywords": ["T2T", "telomere-to-telomere"]
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "EuropePMC;PubMed"
+  },
+  {
+    "id": "doi-10.3390/agronomy16171624",
+    "title": "T2T Genome-Based Identification of the PLR Gene Family in Flax (Linum usitatissimum L.) Reveals Candidate Genes Associated with Seed Lignan Accumulation",
+    "type": "paper",
+    "source": "Agronomy",
+    "authors": "Hang Wang, Jinxi Li, Fu Wang, Zhenyuan Zang, Michael K. Deyholos, Dawei Jiang, Ruidong Sun, Jian Zhang",
+    "publish_date": "2026-08-24",
+    "added_at": "2026-09-01",
+    "url": "https://doi.org/10.3390/agronomy16171624",
+    "doi": "10.3390/agronomy16171624",
+    "pmid": "",
+    "abstract": "Pinoresinol–lariciresinol reductase (PLR) catalyzes a key reductive step in plant lignan biosynthesis. Although flax (Linum usitatissimum L.) seeds are rich in lignans, the PLR gene family and its relationship with lignan accumulation during seed development remain insufficiently characterized. Here, 18 LuPLR genes were identified from the telomere-to-telomere genome assembly of the flax cultivar ‘Gaosi’ using BLASTP and HMMER searches. Their phylogenetic relationships, gene structures, conserved motifs, chromosomal distribution, duplication and syntenic relationships, promoter cis-acting elements, predicted microRNA targets, and expression profiles were analyzed. Seed lignan content at 5, 10, 20, 30, and 40 days after flowering was quantified by high-performance liquid chromatography, and candidate genes were screened using quantitative real-time PCR and Pearson correlation analysis. The LuPLR genes were unevenly distributed across eight chromosomes and exhibited substantial structural and regulatory diversity. Seed lignan content varied dynamically and reached its highest level at 40 days after flowering. LuPLR10, LuPLR11, and LuPLR16 showed positive correlations with lignan content. Among them, LuPLR10 was prioritized because its developmental expression pattern most closely paralleled lignan accumulation. Subcellular localization analysis indicated that the LuPLR10 protein was predominantly associated with chloroplasts. These findings provide a genomic framework for the LuPLR family and identify LuPLR10 as a priority candidate for further functional investigation.",
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "OpenAlex"
+  },
+  {
+    "id": "doi-10.1093/hr/uhag360",
+    "title": "A telomere-to-telomere genome assembly of Asparagus cochinchinensis reveals the evolution of centromere and steroidal saponin biosynthesis",
+    "type": "paper",
+    "source": "Horticulture Research",
+    "authors": "Mingjiang Huang, Yawen Yang, Liying Feng, Yun Peng, Yanluo Xie, Can Wang, Feifan Zhao, Xin Tang, Shilin Chen, Heng Yin, Xiaoli Ye, Anqiang Jia",
+    "publish_date": "2026-08-23",
+    "added_at": "2026-09-01",
+    "url": "https://doi.org/10.1093/hr/uhag360",
+    "doi": "10.1093/hr/uhag360",
+    "pmid": "",
+    "abstract": "Abstract Asparagus cochinchinensis is a perennial medicinal plant that accumulates bioactive steroidal saponins in enlarged tuberous roots, yet the genomic basis of its specialized metabolism and the regulatory mechanisms underlying steroidal saponin biosynthesis remain poorly understood. Here, we present the first telomere-to-telomere genome assembly for this species, generated by integrating PacBio HiFi, Oxford Nanopore Technologies, and Hi-C data. The ~ 1.50-Gb assembly revealed uniformly organized centromeres, where tandem repeats and Gypsy retrotransposons are evenly distributed across megabase-scale domains—a pattern appears to contrast with the heterogeneous architecture commonly observed in sexually reproducing plants, potentially reflecting an adaptation associated with its vegetative propagation lifestyle. Comparative genomic analyses uncovered an ancient whole-genome duplication shared across the genus Asparagus, together with lineage-specific expansion of gene families involved in specialized metabolism. Notably, we identified a nine-gene UDP-glycosyltransferase cluster on Chr05 implicated in steroidal saponin biosynthesis, six of which showed tuber-specific expression. This cluster is activated by the Myb67 transcription factor. Together, this T2T genome provides a foundational resource for Asparagus genomics, illuminating both centromere evolution and the genomic basis of steroidal saponin biosynthesis.",
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "OpenAlex"
   },
   {
     "id": "pmid-42613155",
@@ -81,7 +116,23 @@
     "doi": "10.1101/gr.280875.125",
     "pmid": "42613155",
     "abstract": "Mitochondrial sequences have integrated into the nuclear genome since the origin of eukaryotes. Recent insertions that retain homology to extant mitochondrial DNA (mtDNA), termed NUMTs, confound mtDNA sequence analysis. Here, we use great ape Telomere-to-Telomere (T2T) genomes to study NUMTs in bonobo, chimpanzee, human, gorilla, and Bornean and Sumatran orangutans. A phylogeny based on shared and lineage-specific NUMTs accurately recapitulates the great ape species tree topology. NUMTs are enriched at nonfunctional nonrepetitive regions of the nuclear genome, and depleted within enhancers and coding sequences, suggesting negative selection. We validate the presence of a 76-kilobase-long heterozygous NUMT in chimpanzee, which is larger than any other NUMT observed in great apes, and find that dozens of NUMTs on the Pan Y Chromosome expanded together with palindromes. Finally, by analyzing intraspecific variation, we confirm that the vast majority of species-specific NUMTs identified in T2T assemblies are fixed or present at high frequencies in each species. Our study highlights NUMTs as a dynamic evolutionary force contributing to shaping ape genomes, and is valuable for characterizing mtDNA in great apes.",
-    "keywords": ["T2T", "telomere-to-telomere"]
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "EuropePMC;PubMed"
+  },
+  {
+    "id": "doi-10.1002/qub2.70051",
+    "title": "Telomere‐to‐telomere CHM13 reference reveals missing truth variants and improves deep learning‐based variant calling in long‐read sequencing data",
+    "type": "paper",
+    "source": "Quantitative Biology",
+    "authors": "Zhenxian Zheng, Minggao He, Xian Yu, Lei Chen, Junzhe Li, Jingcheng Zhang, Ruibang Luo",
+    "publish_date": "2026-08-18",
+    "added_at": "2026-09-01",
+    "url": "https://doi.org/10.1002/qub2.70051",
+    "doi": "10.1002/qub2.70051",
+    "pmid": "",
+    "abstract": "Abstract Although long‐read sequencing enables comprehensive genomic analysis, its potential is hindered by its reliance on the incomplete GRCh38 reference genome. GRCh38’s unresolved bases, structural errors, and haplotype mosaics introduce reference biases, leading to missed variants and false-positive calls. This limitation creates a circular dependency because benchmarks derived from GRCh38 exclude about 15% of complex genomic regions, thereby restricting the training and evaluation of state-of-the-art variant callers. The complete telomere‐to‐telomere (T2T-CHM13) assembly resolves these gaps and provides an accurate genome-wide coordinate system. To bridge this transition, we present a variant training framework that integrates high-confidence variants from both GRCh38 and T2T-CHM13. Our hybrid training strategy combines rigorous variant filtering and multi-caller aggregation to produce more reliable variants for model training. This mixed-reference model demonstrates superior accuracy across sequencing technologies, coverage depths, and diverse samples. Notably, the model trained solely on a single CHM13-specific sample outperformed models trained on multiple GRCh38-specific samples on the Oxford Nanopore Technologies platform. Our findings not only confirm the advantages of complete reference genomes but also reveal new challenges and opportunities for variant discovery in complex genomic regions.",
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "OpenAlex"
   },
   {
     "id": "manual-cell-hg002-2026",
@@ -96,6 +147,21 @@
     "pmid": "",
     "abstract": "T2T联盟在 Cell 与 Cell Genomics 以12篇系列论文形式发布通用标准样本 HG002 的分相二倍体完整基因组 T2T-HG002v1.1，是目前覆盖度、准确度最高的人类基因组基准，首次实现对全基因组（除rDNA阵列外）的准确评估。",
     "keywords": ["T2T", "人类基因组", "二倍体"]
+  },
+  {
+    "id": "pmid-42580335",
+    "title": "Pangenome-guided breeding restores high-altitude adaptation and improves yield in Tartary buckwheat",
+    "type": "paper",
+    "source": "Cell",
+    "authors": "Zhang K, He Y, Lin H, He J, Wang Z, Li W, Chen Y, Li J, Shi Y, Huang X, Ding M, Yang P, Chen Z, Chitikineni A, Li J, Gao J, Feng B, Zhang Z, Hao M, Mir RR, Liu D, Woo SH, Janovská D, Quinet M, Fernie AR, Liao W, Feng X, Gauchan DP, Dhami N, Kreft I, Piński A, Betekhtin A, Spannagl M, Liu X, Varshney RK, Liu J, Zhou M.",
+    "publish_date": "2026-08-11",
+    "added_at": "2026-09-01",
+    "url": "https://europepmc.org/article/MED/42580335",
+    "doi": "10.1016/j.cell.2026.07.035",
+    "pmid": "42580335",
+    "abstract": "Tartary buckwheat is a nutritionally important crop of the Himalayas and is crucial for local economies and food security. However, key genes and superior alleles for high-altitude adaptability and yield remain poorly defined, constraining the breeding of high-altitude buckwheat varieties. Here, we generated a telomere-to-telomere reference genome and a 16-accession pangenome spanning Himalayan wild populations and globally distributed landraces. We identified 123,131 non-redundant structural variations in 16 accessions, including gene copy-number variations. The graph-based pangenome revealed FtRNH, a wild-specific gene that enhances high-altitude adaptability. We also identified a copy-number variation at the FtPLATZ locus and a 28-bp insertion in the FtPLATZ3 promoter that together contribute to seed-size variation across wild buckwheat and landraces. Leveraging these superior FtRNH and FtPLATZ alleles, we developed buckwheat lines with enhanced high-altitude adaptability and improved yields across sites. These findings establish a pangenome-guided strategy for recovering wild alleles and combining stress adaptation with yield improvement in crops.",
+    "keywords": ["T2T", "telomere-to-telomere"],
+    "via": "PubMed"
   },
   {
     "id": "manual-cell-diploid-ebiotrade",

@@ -38,7 +38,7 @@
 <div class="wrap">
   <header>
     <h1>T2T（Telomere-to-Telomere / 端粒到端粒）基因组文献看板</h1>
-    <div class="sub">正式论文由 GitHub Actions 每日从 Europe PMC/PubMed 自动采集；微信公众号与中文资讯每日补录。点击标题跳转原文。</div>
+    <div class="sub">正式论文由 GitHub Actions 每日从 Europe PMC / PubMed / OpenAlex 三源自动采集去重；微信公众号与中文资讯每日补录。点击标题跳转原文。</div>
   </header>
 
   <div class="stats">
@@ -64,7 +64,7 @@
   <div class="list" id="list"></div>
 
   <footer>
-    数据源：Europe PMC（正式发表，已排除预印本）+ 人工/助手补录的微信中文资讯<br>
+    数据源：Europe PMC + PubMed + OpenAlex（仅正式发表，已排除预印本）+ 每日补录的微信/中文资讯<br>
     本地预览：在本目录执行 <code>python3 -m http.server 8000</code> 后访问 localhost:8000
   </footer>
 </div>
@@ -114,6 +114,7 @@ function render(){
         <span>发表：${esc(it.publish_date||'–')}</span>
         <span>入库：${esc(it.added_at||'–')}</span>
         ${it.doi?`<span>DOI：${esc(it.doi)}</span>`:''}
+        ${it.via?`<span>检索源：${esc(it.via)}</span>`:''}
       </div>
       ${it.authors?`<div class="authors">${esc(it.authors)}</div>`:''}
       ${it.abstract?`<details><summary>展开摘要</summary><div style="margin-top:6px;">${esc(it.abstract)}</div></details>`:''}
