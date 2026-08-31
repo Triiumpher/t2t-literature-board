@@ -7,7 +7,8 @@ T2T (Telomere-to-Telomere / 端粒到端粒) 已发表文献每日多源采集�
   1. Europe PMC   https://www.ebi.ac.uk/europepmc/  覆盖 PubMed/MEDLINE、带摘要，主源
   2. PubMed       NCBI E-utilities (esearch+efetch)，官方源、收录最快，冗余校验
   3. OpenAlex     https://openalex.org/ 开放学术全库，能抓到 MEDLINE 之外出版商条目
-  4. (可选) Elsevier Scopus：检测到环境变量 ELSEVIER_API_KEY 才启用，无 key 自动跳过
+  4. (预留, 尚未实现) Elsevier Scopus：需申请 ELSEVIER_API_KEY 且完整权限依赖机构订阅；
+     取得 key 后可按前三源同样模式新增 fetch_elsevier() 并加入 sources 列表
 
 设计原则:
   - 只保留正式发表期刊论文，显式排除预印本 (preprint)
