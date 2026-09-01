@@ -43,6 +43,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -299,25 +300,41 @@ def title_fingerprint(title):
     return "title:" + re.sub(r"\W+", "", (title or "").lower())
 
 
-def http_request(url, accept="application/json", headers=None, raw=False, data=None):
-    last_err = None
+def http_request(url, accept="application/json", headers=None, raw=False, data=None,
+                 timeout=TIMEOUT, retries=RETRY):
     base_headers = {"User-Agent": f"{TOOL_NAME}/3.0 (academic digest; mailto:{CONTACT_MAIL})",
                     "Accept": accept}
     if headers:
         base_headers.update(headers)
-    for attempt in range(1, RETRY + 1):
+    last_err = None
+    for attempt in range(1, retries + 1):
         try:
             req = urllib.request.Request(url, headers=base_headers, data=data)
-            with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
                 content = resp.read().decode("utf-8")
                 return content if raw else json.loads(content)
+        except urllib.error.HTTPError as e:
+            # 把 Elsevier/LLM 网关返回的错误体带出来, 便于在 Actions 日志定位(key 权限/字段/配额)
+            body = ""
+            try:
+                body = (e.read() or b"").decode("utf-8", "ignore")[:400]
+            except Exception:  # noqa: BLE001
+                pass
+            # 429 与 5xx 值得重试; 其余 4xx(400/401/403/404/422)重试无意义, 直接抛出
+            if e.code not in (429, 500, 502, 503, 504):
+                raise RuntimeError(f"HTTP {e.code} for {url[:90]} ; resp={body}") from e
+            last_err = f"HTTP {e.code} {body}".strip()
+            wait = 2 ** attempt
+            print(f"[warn] 可重试错误({attempt}/{retries}) {url[:90]}... : {last_err}; {wait}s 重试",
+                  file=sys.stderr)
+            time.sleep(wait)
         except Exception as e:  # noqa: BLE001
             last_err = e
             wait = 2 ** attempt
-            print(f"[warn] 请求失败({attempt}/{RETRY}) {url[:90]}... : {e}; {wait}s 重试",
+            print(f"[warn] 请求失败({attempt}/{retries}) {url[:90]}... : {e}; {wait}s 重试",
                   file=sys.stderr)
             time.sleep(wait)
-    raise RuntimeError(f"连续 {RETRY} 次请求失败: {last_err}")
+    raise RuntimeError(f"连续 {retries} 次请求失败: {last_err}")
 
 
 def split_sentences(text):
@@ -591,32 +608,55 @@ def fetch_scopus(board, days, added):
         return None                                     # 未配置 -> 调用方跳过该源
     end = today_cn()
     start = end - timedelta(days=days)
-    # Scopus 用 query 内日期范围(coverdate) 更精确
+    # Scopus 用 query 内 PUBYEAR 限定年份, 本地再按 coverDate 精确到天
     date_clause = f'AND PUBYEAR IS {end.year}'
     query = f"{board['scopus']} {date_clause}"
-    headers = {"X-ELS-ApiKey": key}
+    headers = {"X-ELS-ApiKey": key, "Accept": "application/json"}
     inst = os.environ.get("ELSEVIER_INSTTOKEN", "").strip()
     if inst:
         headers["X-ELS-Insttoken"] = inst
-    params = {"query": query, "count": str(PAGE_SIZE), "sort": "-coverDate",
-              "view": "STANDARD", "field": ("dc:title,prism:doi,prism:publicationName,"
-                                            "prism:coverDate,dc:creator,dc:description,"
-                                            "subtype,eid,dc:identifier")}
-    data = http_request(SCOPUS_API + "?" + urllib.parse.urlencode(params), headers=headers)
+
+    def _get(use_standard_view):
+        # 关键: 不传 field 参数(field 会覆盖 view, 且非订阅 key 请求 dc:description 等
+        # 未授权字段会直接 400, 导致整个源 0 结果)。只用 view=STANDARD 取该权限下可得元数据。
+        params = {"query": query, "count": str(PAGE_SIZE), "sort": "-coverDate"}
+        if use_standard_view:
+            params["view"] = "STANDARD"
+        return http_request(SCOPUS_API + "?" + urllib.parse.urlencode(params),
+                            headers=headers, timeout=45)
+
+    try:
+        try:
+            data = _get(True)
+        except RuntimeError as first_err:
+            # STANDARD 视图若因 entitlement 报错, 降级为默认视图再试一次
+            print(f"[warn] [scopus/{board['key']}] STANDARD 视图失败: {first_err}; "
+                  f"降级默认视图重试", file=sys.stderr)
+            data = _get(False)
+    except Exception as e:  # noqa: BLE001
+        # 打印明确原因(401=key无效/403=无Scopus权限或需insttoken/429=超配额), 交由上层记为该源失败
+        print(f"[error] [scopus/{board['key']}] Scopus 请求失败, 请核对 key 权限/配额/insttoken: {e}",
+              file=sys.stderr)
+        raise
+
     entries = (data.get("search-results", {}) or {}).get("entry", []) or []
+    # Scopus 在“0 命中”时会返回一条仅含 error 的伪 entry, 需剔除
+    entries = [r for r in entries if r.get("dc:title") or r.get("eid")]
+    print(f"[info] [scopus/{board['key']}] 原始返回 {len(entries)} 条")
     out = []
     for rec in entries:
         subtype = (rec.get("subtype") or "").lower()
         if subtype and subtype not in {"ar", "re", "cp"}:    # 仅 Article/Review/会议论文
             continue
         title = rec.get("dc:title", "") or ""
+        # 非订阅 key 通常拿不到 dc:description 摘要; 留空后由其他源(EuropePMC/PubMed)跨源互补
         abstract = rec.get("dc:description", "") or ""
         cover = (rec.get("prism:coverDate", "") or "")[:10]
         # 本地按天再过滤一次(PUBYEAR 只到年)
         if cover and cover < start.isoformat():
             continue
         if not relevant(board, title, abstract):
-            # Scopus 非订阅常缺摘要, 标题命中板块词即保留(require 至少标题命中核心词)
+            # Scopus 非订阅常缺摘要, 标题命中板块核心词即保留
             if not all(rx.search(title) for rx in board["require"][:1]):
                 continue
         doi = (rec.get("prism:doi", "") or "")
@@ -631,47 +671,86 @@ def fetch_scopus(board, days, added):
         if url:
             it["url"] = url
         out.append(it)
+    print(f"[info] [scopus/{board['key']}] 通过过滤入库候选 {len(out)} 条")
     return out
 
 
 # ==================== 可选 LLM 中文增强 ====================
+CN_CHAR_RE = re.compile(r"[一-鿿]")
+
+
+def _strip_code_fence(s):
+    s = (s or "").strip()
+    if s.startswith("```"):
+        s = re.sub(r"^```[a-zA-Z]*\s*", "", s)
+        s = re.sub(r"\s*```$", "", s)
+    return s.strip()
+
+
 def llm_enhance(items):
-    """对规则抽取结果做中文精炼。无 key / 任何异常都原样返回, 绝不阻断主流程。"""
+    """用大模型把英文标题/摘要【改写式】概括为中文一句话总结与主要结论, 并判定研究物种。
+    - 严禁照抄/逐句翻译: prompt 明确要求用自己的话重新概括
+    - 兼容 OpenAI / DeepSeek / 火山方舟豆包(均为 OpenAI Chat Completions 协议)
+    - 单条失败自动回退规则结果, 绝不阻断; 返回成功增强条数
+    """
     key = os.environ.get("OPENAI_API_KEY", "").strip()
     if not key or not items:
-        return items
+        return 0
     base = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1").strip().rstrip("/")
     model = os.environ.get("LLM_MODEL", "gpt-4o-mini").strip()
     url = base + "/chat/completions"
-    max_n = int(os.environ.get("LLM_MAX_ITEMS", "40"))
-    for it in items[:max_n]:
-        try:
-            prompt = (
-                "你是生命科学文献编辑。根据下面的英文标题与摘要, 输出严格 JSON(不要 markdown, 不要多余文字), 字段:\n"
-                '{"takeaway":"一句话中文总结(≤60字)","conclusion":"主要结论中文(≤120字)",'
-                '"species_zh":"研究物种中文名(无则空串)","species_en":"研究物种英文名(无则空串)",'
-                '"species_latin":"研究物种拉丁学名(无则空串)"}\n'
-                f"标题: {it.get('title','')}\n摘要: {it.get('abstract','')[:1800]}")
-            body = json.dumps({
-                "model": model,
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.2,
-                "response_format": {"type": "json_object"},
-            }).encode("utf-8")
-            resp = http_request(
-                url, headers={"Authorization": f"Bearer {key}",
-                              "Content-Type": "application/json"},
-                data=body)
-            content = resp["choices"][0]["message"]["content"]
-            obj = json.loads(content)
-            for k in ("takeaway", "conclusion", "species_zh", "species_en", "species_latin"):
-                v = (obj.get(k) or "").strip()
-                if v:
-                    it[k] = v
-            time.sleep(0.3)
-        except Exception as e:  # noqa: BLE001  单条失败不影响其它条目
-            print(f"[warn] LLM 增强失败一条, 保留规则结果: {e}", file=sys.stderr)
-    return items
+    headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json"}
+    todo = [it for it in items if it.get("title")]
+    ok = 0
+    for it in todo:
+        abstract = (it.get("abstract") or "").strip()
+        prompt = (
+            "你是资深生命科学与昆虫遗传学文献编辑。请阅读下面论文的【标题】与【摘要】,"
+            "用你自己的话重新概括, 严禁直接照抄英文原句、严禁逐句硬译。\n"
+            "只输出一个严格 JSON 对象(不要 markdown、不要解释、不要多余文字), 字段如下:\n"
+            '{"takeaway":"一句话中文总结, 不超过60字, 需点出研究对象/技术手段与最关键发现",'
+            '"conclusion":"主要结论中文, 不超过120字, 说明核心结论、机制或科学意义",'
+            '"species_zh":"研究物种中文名, 无法确定就空字符串",'
+            '"species_en":"研究物种通用英文名, 无法确定就空字符串",'
+            '"species_latin":"研究物种拉丁学名(双名法, 属名首字母大写), 无法确定就空字符串"}\n'
+            "要求: 信息必须来自给定材料, 不得编造; 摘要缺失时仅依据标题谨慎概括, 物种不确定一律留空。\n"
+            f"【标题】{it.get('title','')}\n"
+            f"【摘要】{abstract[:2200] if abstract else '(无摘要, 请仅依据标题谨慎概括)'}")
+        messages = [{"role": "user", "content": prompt}]
+        # 先请求 JSON 模式; 若该网关不支持 response_format, 自动退化为普通对话
+        payload_variants = [
+            json.dumps({"model": model, "messages": messages, "temperature": 0.2,
+                        "response_format": {"type": "json_object"}}).encode("utf-8"),
+            json.dumps({"model": model, "messages": messages, "temperature": 0.2}).encode("utf-8"),
+        ]
+        obj = None
+        last_e = None
+        for body in payload_variants:
+            for attempt in (1, 2):
+                try:
+                    resp = http_request(url, headers=headers, data=body,
+                                        timeout=60, retries=1)
+                    content = resp["choices"][0]["message"]["content"]
+                    obj = json.loads(_strip_code_fence(content))
+                    break
+                except Exception as e:  # noqa: BLE001
+                    last_e = e
+                    time.sleep(1.2 * attempt)
+            if obj is not None:
+                break
+        if obj is None:
+            print(f"[warn] LLM 总结失败一条, 保留规则结果《{it.get('title','')[:40]}...》: {last_e}",
+                  file=sys.stderr)
+            continue
+        for k in ("takeaway", "conclusion", "species_zh", "species_en", "species_latin"):
+            v = (obj.get(k) or "").strip()
+            if v:
+                it[k] = v
+        it["llm_enhanced"] = True
+        ok += 1
+        time.sleep(0.25)
+    print(f"[info] LLM 中文改写完成: 成功 {ok}/{len(todo)} 条")
+    return ok
 
 
 # ==================== 全局去重入库器(支持多板块) ====================
@@ -816,14 +895,31 @@ def main():
         print("[error] 所有数据源均失败, literature.json 保持不变", file=sys.stderr)
         sys.exit(1)
 
-    # LLM 中文增强(可选)
-    if ing.new_items and os.environ.get("OPENAI_API_KEY", "").strip():
-        print("[info] 检测到 LLM key, 对本次新增做中文精炼...")
-        llm_enhance(ing.new_items)
-
-    changed = bool(ing.new_items) or legacy_changed
     if ing.new_items:
         existing.extend(ing.new_items)
+
+    # LLM 中文改写式总结(可选): 本次新增优先, 并回填“总结仍是英文规则版”的历史条目
+    n_llm = 0
+    if os.environ.get("OPENAI_API_KEY", "").strip():
+        max_n = int(os.environ.get("LLM_MAX_ITEMS", "60"))
+        new_ids = {id(x) for x in ing.new_items}
+
+        def _needs_llm(x):
+            if x.get("llm_enhanced") or not x.get("title"):
+                return False
+            return not CN_CHAR_RE.search(x.get("takeaway") or "")  # 总结还没有中文 -> 需大模型改写
+
+        cand_new = [x for x in existing if id(x) in new_ids and _needs_llm(x)]
+        cand_old = [x for x in existing if id(x) not in new_ids and _needs_llm(x)]
+        cand_old.sort(key=lambda x: x.get("publish_date", ""), reverse=True)
+        n_back = max(0, min(max_n, len(cand_new) + len(cand_old)) - len(cand_new))
+        todo = (cand_new + cand_old)[:max_n]
+        if todo:
+            print(f"[info] 检测到 LLM key, 对 {len(todo)} 条做中文改写式总结"
+                  f"(本次新增 {len(cand_new)} + 历史回填 {n_back})")
+            n_llm = llm_enhance(todo)
+
+    changed = bool(ing.new_items) or legacy_changed or n_llm > 0
     if changed:
         existing.sort(key=lambda x: (x.get("publish_date", ""), x.get("added_at", "")),
                        reverse=True)
