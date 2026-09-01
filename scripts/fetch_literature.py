@@ -5,21 +5,21 @@
 ================================
 为 5 个研究板块分别从多个公开学术源检索“已正式发表”的最新文献，跨源去重、
 字段互补后合并入 literature.json，供分板块邮件日报与网页看板使用。
-
 研究板块 (BOARDS):
   t2t          T2T（端粒到端粒）基因组
   cmed         稻纵卷叶螟功能基因组学 (Cnaphalocrocis medinalis)
   sexdet       昆虫性别决定演化机制
   ppi          蛋白互作预测
   insecticide  新型杀虫剂
-
 数据源:
   1. Europe PMC   (免费, 无 key, 覆盖 PubMed/MEDLINE, 摘要全)        主源
   2. PubMed       NCBI E-utilities (免费, 无 key, 收录最快)
   3. OpenAlex     (免费, 无 key, 全学科开放库)
   4. Elsevier Scopus (需环境变量 ELSEVIER_API_KEY; 无 key 自动跳过;
                       订阅级摘要/全文依赖机构 IP 或 ELSEVIER_INSTTOKEN)
-
+人工补录:
+  manual_inbox/*.json 为人工/定时任务检索的中文公众号与科研资讯分片,
+  运行时按 doi/pmid/标题/URL 去重后并入主库(boards 由分片自带)。
 每条记录在原 schema 上扩展:
   boards        所属板块 key 列表(一篇可同时属于多个板块)
   species_latin 研究物种拉丁学名(自动识别)
@@ -27,12 +27,10 @@
   species_zh    研究物种中文名(内置词典映射)
   takeaway      一句话总结(规则抽取; 若配置 LLM 则为中文精炼总结)
   conclusion    主要结论(规则抽取; 若配置 LLM 则为中文)
-
 可选 LLM 中文增强(默认关闭, 配置后自动启用, 任何失败都回退规则版、不阻断):
   OPENAI_API_KEY  兼容 OpenAI Chat Completions 协议的 key(DeepSeek/豆包/OpenAI 等)
   OPENAI_BASE_URL 接口地址(可选)
   LLM_MODEL       模型名(可选)
-
 手动运行:
   python3 scripts/fetch_literature.py --days 3
 退出码: 0 成功(无论是否新增) ; 1 所有数据源对所有板块均失败
@@ -281,13 +279,11 @@ CONCL_RE = re.compile(
 def today_cn():
     return datetime.now(CN_TZ).date()
 
-
 def strip_html(text):
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     return re.sub(r"\s+", " ", text).strip()
-
 
 def norm_doi(doi):
     if not doi:
@@ -295,10 +291,8 @@ def norm_doi(doi):
     doi = doi.strip().lower()
     return re.sub(r"^https?://(dx\.)?doi\.org/", "", doi)
 
-
 def title_fingerprint(title):
     return "title:" + re.sub(r"\W+", "", (title or "").lower())
-
 
 def http_request(url, accept="application/json", headers=None, raw=False, data=None,
                  timeout=TIMEOUT, retries=RETRY):
@@ -336,14 +330,12 @@ def http_request(url, accept="application/json", headers=None, raw=False, data=N
             time.sleep(wait)
     raise RuntimeError(f"连续 {retries} 次请求失败: {last_err}")
 
-
 def split_sentences(text):
     text = strip_html(text)
     if not text:
         return []
     parts = re.split(r"(?<=[.!?])\s+", text)
     return [p.strip() for p in parts if len(p.strip()) > 15]
-
 
 def extract_takeaway(abstract):
     sents = split_sentences(abstract)
@@ -353,7 +345,6 @@ def extract_takeaway(abstract):
         if TAKE_LEAD_RE.search(s):
             return s[:280].strip()
     return sents[0][:280].strip()
-
 
 def extract_conclusion(abstract):
     sents = split_sentences(abstract)
@@ -366,7 +357,6 @@ def extract_conclusion(abstract):
         if CONCL_RE.search(s):
             return s[:320].strip()
     return sents[-1][:320].strip() if len(sents) > 1 else ""
-
 
 def detect_species(title, abstract):
     """返回 (latin, en, zh)。优先匹配内置词典; 否则仅在高置信(种加词像拉丁词、
@@ -392,7 +382,6 @@ def detect_species(title, abstract):
             return whole, "", ""
     return "", "", ""
 
-
 def relevant(board, title, abstract):
     t, a = title or "", abstract or ""
     if board.get("strict_t2t"):
@@ -410,7 +399,6 @@ def relevant(board, title, abstract):
         if rx.search(blob):
             return False
     return True
-
 
 def make_item(*, title, source, authors, publish_date, doi, pmid, abstract, via, added, board_key):
     doi = norm_doi(doi)
@@ -487,7 +475,6 @@ def fetch_epmc(board, days, added):
 MONTHS = {m: f"{i:02d}" for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], 1)}
 
-
 def _pubmed_date(art):
     ad = art.find(".//Article/ArticleDate")
     if ad is not None:
@@ -506,7 +493,6 @@ def _pubmed_date(art):
         if y:
             return f"{y}-01-01"
     return ""
-
 
 def fetch_pubmed(board, days, added):
     params = {"db": "pubmed", "term": board["pubmed"], "reldate": str(days),
@@ -564,7 +550,6 @@ def _rebuild_abstract(inv):
             pos[i] = word
     return " ".join(pos[i] for i in sorted(pos))
 
-
 def fetch_openalex(board, days, added):
     end = today_cn()
     start = end - timedelta(days=days)
@@ -601,7 +586,6 @@ def fetch_openalex(board, days, added):
 def scopus_configured():
     return bool(os.environ.get("ELSEVIER_API_KEY", "").strip())
 
-
 def fetch_scopus(board, days, added):
     key = os.environ.get("ELSEVIER_API_KEY", "").strip()
     if not key:
@@ -615,7 +599,6 @@ def fetch_scopus(board, days, added):
     inst = os.environ.get("ELSEVIER_INSTTOKEN", "").strip()
     if inst:
         headers["X-ELS-Insttoken"] = inst
-
     def _get(use_standard_view):
         # 关键: 不传 field 参数(field 会覆盖 view, 且非订阅 key 请求 dc:description 等
         # 未授权字段会直接 400, 导致整个源 0 结果)。只用 view=STANDARD 取该权限下可得元数据。
@@ -624,7 +607,6 @@ def fetch_scopus(board, days, added):
             params["view"] = "STANDARD"
         return http_request(SCOPUS_API + "?" + urllib.parse.urlencode(params),
                             headers=headers, timeout=45)
-
     try:
         try:
             data = _get(True)
@@ -638,7 +620,6 @@ def fetch_scopus(board, days, added):
         print(f"[error] [scopus/{board['key']}] Scopus 请求失败, 请核对 key 权限/配额/insttoken: {e}",
               file=sys.stderr)
         raise
-
     entries = (data.get("search-results", {}) or {}).get("entry", []) or []
     # Scopus 在“0 命中”时会返回一条仅含 error 的伪 entry, 需剔除
     entries = [r for r in entries if r.get("dc:title") or r.get("eid")]
@@ -678,14 +659,12 @@ def fetch_scopus(board, days, added):
 # ==================== 可选 LLM 中文增强 ====================
 CN_CHAR_RE = re.compile(r"[一-鿿]")
 
-
 def _strip_code_fence(s):
     s = (s or "").strip()
     if s.startswith("```"):
         s = re.sub(r"^```[a-zA-Z]*\s*", "", s)
         s = re.sub(r"\s*```$", "", s)
     return s.strip()
-
 
 def llm_enhance(items):
     """用大模型把英文标题/摘要【改写式】概括为中文一句话总结与主要结论, 并判定研究物种。
@@ -758,17 +737,17 @@ class Ingestor:
     def __init__(self, existing):
         self.existing = existing
         self.new_items = []
-        self.doi_idx, self.pmid_idx, self.title_idx = {}, {}, {}
+        self.doi_idx, self.pmid_idx, self.title_idx, self.url_idx = {}, {}, {}, {}
         for i, x in enumerate(existing):
             self._index(x, ("old", i))
-
     def _index(self, it, ref):
         if it.get("doi"):
             self.doi_idx[it["doi"]] = ref
         if it.get("pmid"):
             self.pmid_idx[it["pmid"]] = ref
+        if it.get("url"):
+            self.url_idx[it["url"]] = ref
         self.title_idx.setdefault(title_fingerprint(it.get("title", "")), ref)
-
     def add(self, it, board_key):
         if not it.get("title"):
             return False
@@ -803,6 +782,31 @@ class Ingestor:
         if target.get("pmid"):
             self.pmid_idx.setdefault(target["pmid"], hit)
         return False
+    def add_manual(self, it):
+        """合并人工/中文补录分片(manual_inbox): 沿用 doi/pmid/标题/URL 四重去重,
+        但保留条目自带的 boards 与全部字段(不被单一板块覆盖)。全新条目返回 True。"""
+        if not it.get("title"):
+            return False
+        if it.get("doi") and it["doi"] in self.doi_idx:
+            return False
+        if it.get("pmid") and it["pmid"] in self.pmid_idx:
+            return False
+        if it.get("url") and it["url"] in self.url_idx:
+            return False
+        if title_fingerprint(it.get("title", "")) in self.title_idx:
+            return False
+        # 补齐 schema 默认值, 保证下游字段齐全
+        it.setdefault("boards", [])
+        it["boards"] = sorted({b for b in it["boards"] if b})
+        defaults = (("type", "wechat"), ("authors", ""), ("doi", ""), ("pmid", ""),
+                    ("abstract", ""), ("species_latin", ""), ("species_en", ""),
+                    ("species_zh", ""), ("takeaway", ""), ("conclusion", ""),
+                    ("keywords", []), ("source", "manual_inbox"))
+        for f, d in defaults:
+            it.setdefault(f, d)
+        self.new_items.append(it)
+        self._index(it, ("new", len(self.new_items) - 1))
+        return True
 
 
 def migrate_legacy(existing):
@@ -829,7 +833,6 @@ def migrate_legacy(existing):
                 x["takeaway"] = x["abstract"][:120]
     return changed
 
-
 def load_existing(path):
     if not os.path.exists(path):
         return []
@@ -839,6 +842,25 @@ def load_existing(path):
         raise ValueError(f"{path} 顶层结构必须是数组 list")
     return data
 
+def load_manual_inbox(data_path):
+    """读取与 literature.json 同目录的 manual_inbox/*.json 人工补录分片。
+    每个分片为一个条目数组(可跨板块, boards 由分片自带); 由主流程去重后并入主库。
+    分片合并后保留在仓库作为来源凭证, 靠去重保证幂等, 不会重复入库。"""
+    inbox_dir = os.path.join(os.path.dirname(data_path), "manual_inbox")
+    out = []
+    if not os.path.isdir(inbox_dir):
+        return out
+    for fn in sorted(os.listdir(inbox_dir)):
+        if not fn.endswith(".json"):
+            continue
+        try:
+            with open(os.path.join(inbox_dir, fn), "r", encoding="utf-8") as f:
+                arr = json.load(f)
+            if isinstance(arr, list):
+                out.extend(x for x in arr if isinstance(x, dict))
+        except Exception as e:  # noqa: BLE001 单个分片损坏不影响主流程
+            print(f"[warn] 读取人工补录分片 {fn} 失败, 跳过: {e}", file=sys.stderr)
+    return out
 
 # ==================== 主流程 ====================
 def main():
@@ -862,6 +884,11 @@ def main():
         source_fns = [s for s in source_fns if s[0] != "Scopus"]
 
     ing = Ingestor(existing)
+    # 先合并人工中文资讯补录分片(manual_inbox/*.json), 保留其自带 boards 并纳入同一去重索引
+    manual_items = load_manual_inbox(data_path)
+    n_manual = sum(1 for mit in manual_items if ing.add_manual(mit))
+    if n_manual:
+        print(f"[info] manual_inbox 合并新增人工补录 {n_manual} 条(收到分片 {len(manual_items)} 条)")
     failed_sources, board_new_count = set(), {b["key"]: 0 for b in BOARDS}
     any_stream_ok = False
 
@@ -891,8 +918,8 @@ def main():
                 break
             window = min(window * 2 + 1, cap_days)
 
-    if not any_stream_ok:
-        print("[error] 所有数据源均失败, literature.json 保持不变", file=sys.stderr)
+    if not any_stream_ok and n_manual == 0:
+        print("[error] 所有数据源均失败且无人工补录, literature.json 保持不变", file=sys.stderr)
         sys.exit(1)
 
     if ing.new_items:

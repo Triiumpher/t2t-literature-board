@@ -1,0 +1,148 @@
+[
+  {
+    "id": "manual-20260902-marmoset-t2t",
+    "title": "《Cell》公布狨猴首个完整（端粒到端粒）基因组，为阿尔茨海默病等研究提供高精度参照",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "网易（科技媒体转载）",
+    "authors": "",
+    "publish_date": "2026-08-27",
+    "added_at": "2026-09-02",
+    "url": "https://www.163.com/dy/article/L5BV68R205349C3G.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "加州大学圣克鲁兹分校团队在《Cell》公布普通狨猴的首个完整基因组，补齐了既往参考基因组中大量缺口与结构复杂、难以解析的区域，并可区分来自父母双方的遗传信息。该高精度资源将支撑以狨猴为模式动物的神经科学、衰老与阿尔茨海默病等研究。",
+    "species_latin": "Callithrix jacchus",
+    "species_en": "Common marmoset",
+    "species_zh": "普通狨（狨猴）",
+    "takeaway": "UCSC在Cell发布普通狨猴首个T2T级完整基因组，补齐复杂区域并可区分父母本单倍型。",
+    "conclusion": "完整狨猴基因组显著提升序列精度与完整性，为脑科学、衰老与神经退行性疾病机制研究提供关键参照。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "狨猴",
+      "完整基因组",
+      "Cell"
+    ]
+  },
+  {
+    "id": "manual-20260902-t2t-pangenome",
+    "title": "前沿速览：长读长与T2T组装驱动超级/图形/亚泛基因组研究最新进展",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "搜狐号（基因组学前沿镜像）",
+    "authors": "",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-02",
+    "url": "https://m.sohu.com/a/1070293051_121374742/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "该前沿速览梳理长读长测序与端粒到端粒（T2T）组装技术突破如何推动真核生物泛基因组研究：借助图形泛基因组系统构建跨个体的结构变异（SV）与基因存在-缺失变异（PAV）目录，并界定物种普遍存在的核心基因组与可变基因组。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "长读长与T2T无缺口组装使图形/超级/亚泛基因组得以全面刻画结构变异与PAV。",
+    "conclusion": "T2T级组装是构建高质量泛基因组、界定核心与可变基因组并解析物种变异全貌的方法学基础。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "泛基因组",
+      "图形基因组",
+      "结构变异",
+      "长读长"
+    ]
+  },
+  {
+    "id": "manual-20260902-gecko-sexchrom",
+    "title": "《Science》：浙大张国捷等解析19种壁虎基因组，提出性染色体“四阶段”演化假说",
+    "type": "wechat",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "腾讯新闻（学术媒体解读）",
+    "authors": "",
+    "publish_date": "2026-08-28",
+    "added_at": "2026-09-02",
+    "url": "http://news.qq.com/rain/a/20260828A03JOM00",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江大学张国捷团队联合中科院昆明动物所施鹏团队等，对19种壁虎开展染色体级基因组解析，比较XY与ZW两类性别决定系统的形成，提出性染色体“四阶段”演化假说，打破性染色体演化随机的传统认识。虽以爬行动物为对象，其性染色体起源与演化框架对理解昆虫性别决定系统的多样性与上下游保守性具比较演化参考价值。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "张国捷/施鹏团队基于19种壁虎染色体级基因组在Science提出性染色体四阶段演化假说。",
+    "conclusion": "研究提示性染色体演化受环境压力与祖先状态约束而非随机，为比较不同动物类群（含昆虫）性别决定机制提供统一演化框架。",
+    "keywords": [
+      "性别决定",
+      "性染色体演化",
+      "XY",
+      "ZW",
+      "壁虎",
+      "Science",
+      "比较演化"
+    ]
+  },
+  {
+    "id": "manual-20260902-humanppi-model",
+    "title": "技术解读：Science发布迄今最全人类蛋白质互作（PPI）高精度预测模型与互作图谱",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "中国科学院分子细胞科学卓越创新中心",
+    "authors": "",
+    "publish_date": "2026-08-09",
+    "added_at": "2026-09-02",
+    "url": "http://www.sibcb.ac.cn/gtp/newsdetail.jsp?ID=1483",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中科院分子细胞卓越中心技术分享解读2025年10月Science的人类PPI高精度预测工作：挖掘21415种真核生物约30PB基因组构建omicMSA以增强协同进化信号，结合AlphaFold DB结构域互作数据训练RF2-PPI深度学习网络，对约1.91亿对蛋白无偏搜索，预测出17849对90%精度高置信PPI（含3631对全新互作），覆盖人类互作组约12–32%。",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "Science工作以omicMSA协同进化+RF2-PPI深度学习在蛋白质组尺度预测17849对高置信人类PPI。",
+    "conclusion": "扩大物种多样性的配对多序列比对与结构域互作训练可显著提升PPI判别精度，为复合物结构与疾病机制研究提供全互作组级资源。",
+    "keywords": [
+      "蛋白互作预测",
+      "PPI",
+      "深度学习",
+      "AlphaFold",
+      "协同进化",
+      "RF2-PPI",
+      "互作组"
+    ]
+  },
+  {
+    "id": "manual-20260902-greensilencer-dsrna",
+    "title": "GreenSilencer：用工程菌“细菌工厂”规模化生产dsRNA，让绿色RNA农药自己长出来",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "腾讯新闻（科普专栏）",
+    "authors": "",
+    "publish_date": "2026-08-16",
+    "added_at": "2026-09-02",
+    "url": "http://news.qq.com/rain/a/20260816A08QPC00",
+    "doi": "",
+    "pmid": "",
+    "abstract": "科普专栏介绍RNA干扰（RNAi）绿色农药原理与GreenSilencer平台：通过基因工程改造微生物作为“细胞工厂”发酵生产靶向害虫关键基因的dsRNA；dsRNA进入虫体被加工为siRNA并切割互补mRNA、关闭靶基因致害虫死亡，为可规模化、低残留的新型核酸农药提供路径。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "GreenSilencer以工程菌发酵规模化制备dsRNA，推动RNAi绿色农药低成本落地。",
+    "conclusion": "工程菌量产dsRNA突破核酸农药制备成本与规模瓶颈，提供区别于传统化学杀虫剂的全新作用机制。",
+    "keywords": [
+      "新型杀虫剂",
+      "RNAi",
+      "dsRNA",
+      "核酸农药",
+      "生物农药",
+      "工程菌"
+    ]
+  }
+]
