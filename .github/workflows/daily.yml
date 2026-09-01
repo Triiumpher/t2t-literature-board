@@ -1,25 +1,19 @@
-name: daily-t2t-digest
+name: Daily Multi-Board Literature Fetch & Mail
 
-# ===== 触发时机 =====
-# schedule cron 使用 UTC 时间；'20 23 * * *' = UTC 前一天23:20 = 北京时间 07:20
-# （刻意避开整点，GitHub Actions 整点排队严重；实际可能延迟数分钟）
-# workflow_dispatch = 可在 Actions 页面手动点 “Run workflow” 测试
 on:
   schedule:
-    # 主触发 UTC 前一天23:20 = 北京 07:20；兜底触发 UTC 00:47 = 北京 08:47
-    # （整体比上一版前移1小时；助手微信补录 06:35，仍早于主触发）
-    # GitHub 定时在高负载时可能延迟甚至漏跑，两个时间点 + 脚本当日幂等，确保当天至少发一次且不重复
+    # GitHub Actions 用 UTC。双时间点冗余, 缓解平台高负载下偶发漏跑:
+    #   23:20 UTC = 北京 07:20(主) ; 00:47 UTC = 北京 08:47(兜底)
+    # 当日幂等由 send_digest.py 保证, 重复触发不会发两封邮件
     - cron: '20 23 * * *'
     - cron: '47 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: {}
 
-# 自动提交回仓库需要写权限
 permissions:
   contents: write
 
-# 防止上一次没跑完下一次又启动
 concurrency:
-  group: daily-t2t-digest
+  group: daily-lit-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -32,13 +26,18 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v7
         with:
-          python-version: '3.12'
-          # 采集/邮件脚本只用标准库，无需 pip install
+          python-version: '3.11'
 
-      - name: Fetch newly published T2T papers (Europe PMC + PubMed + OpenAlex)
+      - name: Fetch multi-board papers (Europe PMC + PubMed + OpenAlex + Scopus)
+        env:
+          ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
+          ELSEVIER_INSTTOKEN: ${{ secrets.ELSEVIER_INSTTOKEN }}
+          OPENAI_API_KEY: ${{ secrets.LLM_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
         run: python3 scripts/fetch_literature.py --days 3
 
-      - name: Send daily digest email
+      - name: Send daily multi-board digest email
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -46,17 +45,17 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
-          SKIP_IF_EMPTY: ${{ secrets.SKIP_IF_EMPTY }}
+          SKIP_IF_EMPTY: '1'
         run: python3 scripts/send_digest.py
 
-      - name: Commit updated data back to repo
+      - name: Commit updated literature.json and digest cursor
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add literature.json state/
-          if git diff --staged --quiet; then
-            echo "Nothing changed."
+          git add literature.json state/last_digest_date.txt
+          if git diff --cached --quiet; then
+            echo "无变更, 跳过提交"
           else
-            git commit -m "chore: daily T2T digest $(date -u +%Y-%m-%d)"
+            git commit -m "chore: daily multi-board literature update $(date -u +%Y-%m-%d)"
             git push
           fi

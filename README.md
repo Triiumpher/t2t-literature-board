@@ -1,119 +1,114 @@
-# T2T（端粒到端粒）基因组文献日报看板
+# T2T & 昆虫功能基因组 · 多专题科研文献看板
 
-每天自动检索 T2T / Telomere-to-Telomere 基因组**正式发表论文**，汇集微信公众号/中文资讯，
-在网页看板展示，并把"学术日报"通过邮件推送给你。
+一个纯静态、零后端、零数据库的**个人科研文献追踪系统**：GitHub Actions 每天从多个公开学术源自动检索 5 个研究方向的**已正式发表**论文，生成可筛选的网页看板，并通过你自己的 SMTP 邮箱把分专题学术日报发到指定邮箱；微信公众号 / 中文资讯由每日补录任务汇入。
 
-## 一、它每天怎么工作（时间线，北京时间）
+- 在线看板：<https://triiumpher.github.io/t2t-literature-board/>
+- 纯前端：`index.html` + `literature.json`，托管于 GitHub Pages
+- 定时采集与发信：`.github/workflows/daily.yml`（GitHub Actions，免费额度内）
 
-| 时间 | 执行者 | 动作 |
+## 五个研究板块
+
+| key | 板块名称 | 检索侧重 |
 |---|---|---|
-| 07:35 | 豆包定时任务 | 检索微信生态/中文科研媒体的 T2T 文章，去重后追加到 `literature.json` |
-| 08:20 | GitHub Actions | ① 同时从 Europe PMC、PubMed、OpenAlex 三个源拉取最近 3 天正式论文（已排除预印本，跨源按 DOI/PMID/标题去重并互补字段）② 合并写回 `literature.json` ③ 把全部新增汇总成邮件日报发出 ④ 自动 commit 回仓库 |
-| 全天 | GitHub Pages | 看板网页随时可看，数据随仓库自动更新 |
+| `t2t` | T2T 端粒到端粒基因组 | telomere-to-telomere / gap-free / 无缺口组装 |
+| `cmed` | 稻纵卷叶螟功能基因组学 | *Cnaphalocrocis medinalis* / rice leaffolder，基因组·转录组·基因功能（回溯窗口放宽到 45 天） |
+| `sexdet` | 昆虫性别决定演化机制 | sex determination / doublesex / transformer / Wolbachia / 性染色体 |
+| `ppi` | 蛋白互作预测 | PPI / interactome / complex，预测·深度学习·对接·结构（已剔除网络药理学/中药对接噪音） |
+| `insecticide` | 新型杀虫剂 | 新化合物·作用靶标·机制·抗性·毒理（已剔除水体残留监测类环境文章） |
 
-> 说明：
-> - 正式论文同时走 **Europe PMC + PubMed(E-utilities) + OpenAlex** 三个免费公开接口，均无需 API Key；三源交叉去重、互补摘要/刊名，单源故障不影响其他源。Bing 学术 API 已停止服务，故不采用。
-> - **知网(CNKI)** 没有面向个人的公开合法 API（仅对采购机构授权），不做爬取；中文文献可由你把知网链接/题录发来手动补录。**Elsevier(Scopus/ScienceDirect)** 接口需申请 key 且完整权限依赖机构订阅，需要时再在脚本中按 key 启用。
-> - 微信公众号没有公开检索 API、`mp.weixin.qq.com` 原始链接也基本不被外网搜索引擎收录，因此微信部分由豆包每日检索"公众号镜像/中文科研媒体"补录；你自己看到好的公众号文章，也可按文末模板手动加一条。
+一篇文章可同时归入多个板块（`boards` 数组）。某板块当天无新增时，**邮件里该板块整段不出现**。
 
-## 二、目录结构
+## 数据源
 
-```
-t2t-literature-board/
-├── index.html                  # 文献看板网页（GitHub Pages 托管）
-├── literature.json             # 全部文献数据（脚本自动更新 + 手动补录）
-├── scripts/
-│   ├── fetch_literature.py     # 每日多源采集正式论文（纯标准库，零依赖）
-│   └── send_digest.py          # 生成并发送邮件日报（支持 --dry-run 预览）
-├── state/                      # 运行状态（last_digest_date.txt 记录已发到哪天）
-├── .github/workflows/daily.yml # GitHub Actions 每日工作流
-└── README.md
-```
+| 源 | 是否需 Key | 说明 |
+|---|---|---|
+| Europe PMC | 否 | 主源，覆盖 PubMed/MEDLINE，摘要较全，排除预印本 |
+| PubMed (E-utilities) | 否 | NCBI，收录最快 |
+| OpenAlex | 否 | 全学科开放库，排除预印本仓库 |
+| **Elsevier Scopus** | **是 `ELSEVIER_API_KEY`** | 第四源；未配 key 时自动跳过、不影响其余三源 |
+| 微信公众号 / 中文资讯 | — | 无合法公开 API，由每日补录任务检索后写入 `literature.json` |
 
-## 三、部署步骤（约 10 分钟，全程免费）
+> 每板块设“目标条数”（默认 5）：不足时自动把回溯窗口从 3 天逐步扩大到 7→15 天上限（`cmed` 为 45 天）以尽量凑够；若该方向真实发文不足，则以实际为准，不编造。
 
-### Step 1：新建 GitHub 公开仓库
-GitHub 右上角 New repository，仓库名建议 `t2t-literature-board`，选 **Public**（免费账号开 Pages 要求公开），
-不要勾选自动生成 README。把本目录所有文件推上去：
+## 每条文献的字段
+
+`id, title, type(paper/wechat), boards[], source, authors, publish_date, added_at, url, doi, pmid, abstract`，以及本次新增：
+
+- `species_latin / species_en / species_zh`：研究物种**拉丁学名 / 英文名 / 中文名**（内置昆虫词典 + 双名法高置信识别，宁空勿错）
+- `takeaway`：**一句话总结**
+- `conclusion`：**主要结论**
+
+> Actions runner 内不内置大模型，默认用规则从摘要抽取英文要点；若配置可选 LLM（见下），则自动精炼为中文。
+
+## 每日时间线（北京时间）
+
+1. **06:35** 助手「每日中文资讯补录」任务检索微信/中文媒体，去重后提交 `literature.json`
+2. **07:20** GitHub Actions 主触发（UTC `20 23 * * *`）：四源采集 → 分板块发邮件 → 提交数据
+3. **08:47** 兜底触发（UTC `47 0 * * *`）：防止 GitHub 高负载漏跑；脚本当日幂等，不会重复发信
+
+## 一次性配置（Repository Settings → Secrets and variables → Actions）
+
+| Secret 名 | 必填 | 内容 |
+|---|---|---|
+| `SMTP_HOST` | 是 | 如 `smtp.126.com` |
+| `SMTP_PORT` | 是 | `465`（SSL）或 `587`（STARTTLS） |
+| `SMTP_USER` | 是 | 发信邮箱登录名 |
+| `SMTP_PASS` | 是 | 邮箱 **SMTP 授权码**（不是登录密码） |
+| `MAIL_FROM` | 是 | 发信邮箱地址 |
+| `MAIL_TO` | 是 | 收件邮箱（多个用英文逗号分隔） |
+| `ELSEVIER_API_KEY` | 启用 Scopus 必填 | dev.elsevier.com 申请的 API Key |
+| `ELSEVIER_INSTTOKEN` | 否 | 机构 instToken，用于订阅级摘要/全文 |
+| `LLM_API_KEY` / `LLM_BASE_URL` / `LLM_MODEL` | 否 | 兼容 OpenAI 协议的中文精炼（如 DeepSeek/豆包），把英文要点转成中文一句话总结/结论 |
+
+### Elsevier API Key 申请与填写
+1. 登录 <https://dev.elsevier.com/> → `My API Key` 创建；Website URL 填本看板地址 `https://triiumpher.github.io/t2t-literature-board/` 即可（仅作应用标识，不校验归属）。
+2. 复制 API Key，在上图 Secrets 页面新建 `ELSEVIER_API_KEY` 粘贴保存。**只放进 Secret，绝不写进代码或提交记录。**
+3. 配置后在 Actions 页手动 `Run workflow` 一次，日志出现 `[scopus]` 相关行即生效。
+
+> 说明：Elsevier 默认按调用方出口 IP 判断机构订阅；Actions 海外动态 IP 通常只有 non-subscriber 权限（题录元数据可得，摘要/全文可能缺）。如需订阅级权限，向学校图书馆申请 instToken 填入 `ELSEVIER_INSTTOKEN`。
+
+## 手动运行（本地调试）
 
 ```bash
-cd t2t-literature-board
-git init
-git add .
-git commit -m "init: T2T literature board"
-git branch -M main
-git remote add origin https://github.com/<你的用户名>/t2t-literature-board.git
-git push -u origin main
+pip install pyyaml                         # 仅校验 workflow 时需要, 采集/发信纯标准库
+python3 scripts/fetch_literature.py --days 3   # 四源采集并入 literature.json
+python3 scripts/send_digest.py --dry-run       # 生成 state/digest_preview.html 预览, 不发信
+python3 -m http.server 8000                    # 浏览器打开 http://localhost:8000 查看看板
 ```
 
-### Step 2：配置邮箱 Secrets（发日报用）
-仓库页面 → **Settings → Secrets and variables → Actions → New repository secret**，逐个添加：
+## 手动补录一条中文资讯
 
-| Secret 名 | 值示例（QQ 邮箱） | 说明 |
-|---|---|---|
-| `SMTP_HOST` | `smtp.qq.com` | 163/126 邮箱填 `smtp.163.com` / `smtp.126.com`，Outlook 填 `smtp.office365.com` |
-| `SMTP_PORT` | `465` | QQ/163/126 用 465(SSL)；Outlook 用 587 |
-| `SMTP_USER` | `你的邮箱账号` | 发件邮箱账号 |
-| `SMTP_PASS` | 邮箱**授权码** | 不是登录密码！邮箱设置→POP3/SMTP/IMAP→开启 SMTP 服务后生成授权码 |
-| `MAIL_FROM` | `你的邮箱账号` | 一般与 SMTP_USER 相同 |
-| `MAIL_TO` | `收信邮箱@xx.com` | 多个收件人用英文逗号分隔 |
-| `SKIP_IF_EMPTY`（可选） | `1` | 填 1 则当天无新增时不发邮件；不填则每天都发（无新增会发简报） |
-
-### Step 3：手动测试一次 Actions
-仓库 **Actions** 标签页 → 左侧 `daily-t2t-digest` → 右侧 **Run workflow**。
-等 1 分钟左右刷新，绿色对勾即成功；点进运行记录可看到各源命中条数、是否发送成功。
-此时你的邮箱应收到第一封日报。
-
-### Step 4：开启看板网页
-仓库 **Settings → Pages**：Source 选 `Deploy from a branch`，Branch 选 `main` / 根目录 `/ (root)`，Save。
-1~2 分钟后得到网址：`https://<你的用户名>.github.io/t2t-literature-board/`，全网公开（页面已带 noindex，不会被搜索引擎主动收录，但拿到链接的人可访问，**不要在 json 里放未发表敏感数据**）。
-
-完成。之后每天 08:20（GitHub 定时可能有数分钟到数十分钟延迟，属正常现象）自动运行。
-
-## 四、手动补录一篇微信文章
-
-打开 `literature.json`，在数组最前面按下面格式加一条（注意逗号），commit 后看板与次日邮件都会带上：
+往 `literature.json` 数组里加一条对象即可（注意 `boards` 决定它进哪个板块/邮件段落）：
 
 ```json
 {
-  "id": "manual-20260831-xxx",
-  "title": "文章完整标题",
+  "id": "manual-20260901-shorttag",
+  "title": "完整中文标题",
   "type": "wechat",
+  "boards": ["t2t"],
   "source": "公众号名称",
   "authors": "",
-  "publish_date": "2026-08-31",
-  "added_at": "2026-08-31",
+  "publish_date": "2026-09-01",
+  "added_at": "2026-09-01",
   "url": "https://mp.weixin.qq.com/s/xxxx",
-  "doi": "",
-  "pmid": "",
-  "abstract": "一两句话摘要，会显示在卡片和邮件里。",
+  "doi": "", "pmid": "",
+  "abstract": "1-3 句中文摘要",
+  "species_latin": "", "species_en": "", "species_zh": "",
+  "takeaway": "一句话总结",
+  "conclusion": "主要结论",
   "keywords": ["T2T"]
 }
 ```
 
-## 五、本地运行 / 预览
+## 新增 / 修改板块要改三处
 
-```bash
-# 拉取最近 14 天论文并合并
-python3 scripts/fetch_literature.py --days 14
-# 只生成邮件预览（state/digest_preview.html），不真正发信
-python3 scripts/send_digest.py --dry-run
-# 本地看板预览
-python3 -m http.server 8000
-# 浏览器打开 http://127.0.0.1:8000/
-```
+1. `scripts/fetch_literature.py` 的 `BOARDS`（四源检索式与相关性规则）
+2. `scripts/send_digest.py` 的 `BOARD_ORDER / BOARD_NAMES / BOARD_COLOR`
+3. `index.html` 的 `BOARDS / BOARD_ORDER`
 
-## 六、自定义
+## 常见问题
 
-- **检索关键词/范围**：改 `scripts/fetch_literature.py` 顶部三个源各自的检索词 `EPMC_QUERY` / `PUBMED_TERM` / `OPENALEX_SEARCH`（例如限定昆虫方向，可同时加入 insect / Lepidoptera 等词）。
-- **回溯天数**：Actions 里 `--days 3`，改大可容忍周末/服务波动。
-- **发送时间**：改 `.github/workflows/daily.yml` 的 cron（UTC！北京时间减 8 小时；当前 `20 0 * * *` = 北京 08:20）。
-- **不想公开看板**：GitHub Pages 免费版不支持私密访问；可不开 Pages，只保留邮件日报，仓库保持私有（Actions 仍可运行）。
-
-## 七、常见问题
-
-1. **Actions 没按时跑？** GitHub 免费账号的 schedule 在高峰期会延迟，属平台行为；`--days 3` 的冗余窗口可保证不漏文献。
-2. **邮件发送失败报 535？** 基本都是授权码错误/未开启 SMTP 服务，重新生成授权码并更新 Secret。
-3. **某篇论文不想看？** 直接从 `literature.json` 删除该条即可；想长期屏蔽某方向就同步收窄三个源的检索词。
-4. **预印本去哪了？** 三个源均显式过滤预印本：Europe PMC 排除 PPR、PubMed 排除 Preprint 文献类型、OpenAlex 只取期刊论文（type=article）并排除预印本仓库来源。
-5. **单源挂了会怎样？** 任一源失败只在日志告警并跳过，其余源照常；只有三个源全部失败本次任务才报错。
+- **没收到邮件？** 先看 Actions 运行记录；GitHub 的 schedule 在高负载时可能延迟甚至漏跑，本项目用双时间点 + 当日幂等缓解。
+- **Scopus 没结果？** 未配 `ELSEVIER_API_KEY` 会自动跳过；配了仍少是因为 non-subscriber 缺摘要或当日确无相关文献。
+- **某板块条数不到 5？** 冷门方向真实发文有限（如稻纵卷叶螟 45 天仅数篇），以实际为准，不会凑数。
+- **想要中文一句话总结？** 配置可选 `LLM_API_KEY/LLM_BASE_URL/LLM_MODEL`；否则为规则抽取的英文要点。
