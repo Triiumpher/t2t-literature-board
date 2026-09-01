@@ -1,15 +1,16 @@
 name: daily-t2t-digest
 
 # ===== 触发时机 =====
-# schedule cron 使用 UTC 时间；'20 0 * * *' = UTC 00:20 = 北京时间 08:20
+# schedule cron 使用 UTC 时间；'20 23 * * *' = UTC 前一天23:20 = 北京时间 07:20
 # （刻意避开整点，GitHub Actions 整点排队严重；实际可能延迟数分钟）
 # workflow_dispatch = 可在 Actions 页面手动点 “Run workflow” 测试
 on:
   schedule:
-    # 主触发 UTC 00:20 = 北京 08:20；兜底触发 UTC 01:47 = 北京 09:47
+    # 主触发 UTC 前一天23:20 = 北京 07:20；兜底触发 UTC 00:47 = 北京 08:47
+    # （整体比上一版前移1小时；助手微信补录 06:35，仍早于主触发）
     # GitHub 定时在高负载时可能延迟甚至漏跑，两个时间点 + 脚本当日幂等，确保当天至少发一次且不重复
-    - cron: '20 0 * * *'
-    - cron: '47 1 * * *'
+    - cron: '20 23 * * *'
+    - cron: '47 0 * * *'
   workflow_dispatch:
 
 # 自动提交回仓库需要写权限
