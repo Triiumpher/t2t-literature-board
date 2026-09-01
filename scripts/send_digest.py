@@ -105,7 +105,7 @@ def render_html(today, papers, wechats):
   <div style="max-width:760px;margin:0 auto;background:#ffffff;border-radius:10px;
               padding:24px 28px;font-family:-apple-system,'Segoe UI','Microsoft YaHei',sans-serif;">
     <h1 style="font-size:20px;margin:0 0 4px;color:#0f172a;">T2T（端粒到端粒）基因组学术日报</h1>
-    <div style="font-size:13px;color:#64748b;margin-bottom:8px;">{today.isoformat()} · 数据自动汇总，正式论文来自 Europe PMC / PubMed</div>
+    <div style="font-size:13px;color:#64748b;margin-bottom:8px;">{today.isoformat()} · 数据自动汇总，正式论文来自 Europe PMC / PubMed / OpenAlex</div>
     {empty_tip}
     {block("📄 正式发表论文", papers, "#2563eb")}
     {block("💬 微信公众号 / 中文资讯", wechats, "#d97706")}
@@ -178,6 +178,10 @@ def main():
 
     today = today_cn()
     last = read_last_date()
+    # 硬幂等：当天已成功发过（游标已到今天）则直接跳过，保证多个 schedule 兜底点不会重复发信
+    if not args.dry_run and last >= today:
+        print(f"[ok] 今日({today.isoformat()})日报已发送过（游标={last.isoformat()}），本次跳过以避免重复")
+        return
     papers, wechats = pick_new_items(last)
     total = len(papers) + len(wechats)
     print(f"[info] 自 {last.isoformat()} 以来新增: 论文 {len(papers)} 条, 微信/资讯 {len(wechats)} 条")

@@ -6,7 +6,10 @@ name: daily-t2t-digest
 # workflow_dispatch = 可在 Actions 页面手动点 “Run workflow” 测试
 on:
   schedule:
+    # 主触发 UTC 00:20 = 北京 08:20；兜底触发 UTC 01:47 = 北京 09:47
+    # GitHub 定时在高负载时可能延迟甚至漏跑，两个时间点 + 脚本当日幂等，确保当天至少发一次且不重复
     - cron: '20 0 * * *'
+    - cron: '47 1 * * *'
   workflow_dispatch:
 
 # 自动提交回仓库需要写权限
@@ -31,7 +34,7 @@ jobs:
           python-version: '3.12'
           # 采集/邮件脚本只用标准库，无需 pip install
 
-      - name: Fetch newly published T2T papers (Europe PMC)
+      - name: Fetch newly published T2T papers (Europe PMC + PubMed + OpenAlex)
         run: python3 scripts/fetch_literature.py --days 3
 
       - name: Send daily digest email
