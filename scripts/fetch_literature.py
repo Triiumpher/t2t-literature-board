@@ -1,25 +1,41 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-T2T (Telomere-to-Telomere / 端粒到端粒) 已发表文献每日多源采集脚本
-=====================================================================
-数据源（全部免费；前三个无需 API Key）:
-  1. Europe PMC   https://www.ebi.ac.uk/europepmc/  覆盖 PubMed/MEDLINE、带摘要，主源
-  2. PubMed       NCBI E-utilities (esearch+efetch)，官方源、收录最快，冗余校验
-  3. OpenAlex     https://openalex.org/ 开放学术全库，能抓到 MEDLINE 之外出版商条目
-  4. (预留, 尚未实现) Elsevier Scopus：需申请 ELSEVIER_API_KEY 且完整权限依赖机构订阅；
-     取得 key 后可按前三源同样模式新增 fetch_elsevier() 并加入 sources 列表
+多专题科研文献每日多源采集脚本
+================================
+为 5 个研究板块分别从多个公开学术源检索“已正式发表”的最新文献，跨源去重、
+字段互补后合并入 literature.json，供分板块邮件日报与网页看板使用。
 
-设计原则:
-  - 只保留正式发表期刊论文，显式排除预印本 (preprint)
-  - 跨源按 DOI / PMID / 标题指纹去重，同一篇被多源命中时互补空缺字段
-  - 任一单源故障只告警不中断；全部源失败才以非零退出
-  - 新增条目 added_at=运行当天(Asia/Shanghai)，供邮件日报挑选
+研究板块 (BOARDS):
+  t2t          T2T（端粒到端粒）基因组
+  cmed         稻纵卷叶螟功能基因组学 (Cnaphalocrocis medinalis)
+  sexdet       昆虫性别决定演化机制
+  ppi          蛋白互作预测
+  insecticide  新型杀虫剂
+
+数据源:
+  1. Europe PMC   (免费, 无 key, 覆盖 PubMed/MEDLINE, 摘要全)        主源
+  2. PubMed       NCBI E-utilities (免费, 无 key, 收录最快)
+  3. OpenAlex     (免费, 无 key, 全学科开放库)
+  4. Elsevier Scopus (需环境变量 ELSEVIER_API_KEY; 无 key 自动跳过;
+                      订阅级摘要/全文依赖机构 IP 或 ELSEVIER_INSTTOKEN)
+
+每条记录在原 schema 上扩展:
+  boards        所属板块 key 列表(一篇可同时属于多个板块)
+  species_latin 研究物种拉丁学名(自动识别)
+  species_en    研究物种英文名(内置词典映射)
+  species_zh    研究物种中文名(内置词典映射)
+  takeaway      一句话总结(规则抽取; 若配置 LLM 则为中文精炼总结)
+  conclusion    主要结论(规则抽取; 若配置 LLM 则为中文)
+
+可选 LLM 中文增强(默认关闭, 配置后自动启用, 任何失败都回退规则版、不阻断):
+  OPENAI_API_KEY  兼容 OpenAI Chat Completions 协议的 key(DeepSeek/豆包/OpenAI 等)
+  OPENAI_BASE_URL 接口地址(可选)
+  LLM_MODEL       模型名(可选)
 
 手动运行:
-  python3 scripts/fetch_literature.py --days 7
-退出码:
-  0 成功(无论是否有新增) ; 1 所有数据源均失败
+  python3 scripts/fetch_literature.py --days 3
+退出码: 0 成功(无论是否新增) ; 1 所有数据源对所有板块均失败
 """
 import argparse
 import json
@@ -32,45 +48,235 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-# ---------- 常量配置 ----------
-CN_TZ = timezone(timedelta(hours=8))  # 北京时间
+# ---------------- 常量 ----------------
+CN_TZ = timezone(timedelta(hours=8))
 EPMC_API = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
 PUBMED_SEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_FETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 OPENALEX_API = "https://api.openalex.org/works"
-# NCBI/OpenAlex 礼貌池建议留联系方式（可被环境变量覆盖，不涉及隐私）
+SCOPUS_API = "https://api.elsevier.com/content/search/scopus"
 CONTACT_MAIL = os.environ.get("CONTACT_MAIL", "t2t-board@example.com")
 TOOL_NAME = "t2t-literature-board"
-
-# 与基因组组装相关的统一检索词
-EPMC_QUERY = ('(T2T OR "telomere-to-telomere") '
-              'AND (genome OR genomic OR assembly OR chromosome OR sequencing)')
-PUBMED_TERM = ('(telomere-to-telomere[tiab] OR T2T[tiab]) '
-               'AND (genome[tiab] OR genomic[tiab] OR assembly[tiab] '
-               'OR chromosome[tiab] OR sequencing[tiab])')
-OPENALEX_SEARCH = "telomere-to-telomere T2T genome assembly chromosome"
-
-FORMAL_SOURCES = {"MED", "PMC"}                  # Europe PMC 正式来源（排除 PPR 预印本）
-RELEVANCE_RE = re.compile(r"telomere[\s\-]*to[\s\-]*telomere|t2t|gap[\s\-]?free|gapless", re.I)
-FULLNAME_RE = re.compile(r"telomere[\s\-]*to[\s\-]*telomere", re.I)
-CONTEXT_RE = re.compile(r"assembl|genome|chromosom", re.I)
-
-
-def is_relevant(title, abstract):
-    """相关性把关：标题直接命中 T2T 词即收；否则要求摘要以全称讨论 T2T 基因组/组装，
-    排除仅把 T2T-CHM13 当作比对参考的无关文章。"""
-    t, a = title or "", abstract or ""
-    if RELEVANCE_RE.search(t):
-        return True
-    return bool(FULLNAME_RE.search(a)) and bool(CONTEXT_RE.search(a))
-
-
-PAGE_SIZE = 80
-MAX_PAGES = 3
+FORMAL_SOURCES = {"MED", "PMC"}           # Europe PMC 正式来源(排除 PPR 预印本)
+PAGE_SIZE = 50
+MAX_PAGES = 2
 RETRY = 3
 TIMEOUT = 30
+PER_BOARD_TARGET = 5                      # 每板块期望的最少新增条数
+MAX_EXPAND_DAYS = 14                      # 为凑够目标条数, 窗口最多自适应扩展到的天数
+
+# ==================== 板块配置 ====================
+def _re(pat):
+    return re.compile(pat, re.I)
 
 
+# T2T 严格相关性: 标题命中 T2T 词即收; 否则要求摘要以“全称”讨论基因组/组装,
+# 以排除仅把 T2T-CHM13 当比对参考的无关文章
+T2T_TITLE_RE = _re(r"telomere[\s\-]*to[\s\-]*telomere|t2t|gap[\s\-]?free|gapless")
+T2T_FULLNAME_RE = _re(r"telomere[\s\-]*to[\s\-]*telomere")
+T2T_CONTEXT_RE = _re(r"assembl|genome|chromosom")
+
+# 每个板块给出四个源各自的检索式, 以及本地相关性把关正则 require(需全部命中)
+BOARDS = [
+    {
+        "key": "t2t",
+        "name": "T2T 端粒到端粒基因组",
+        "epmc": ('(T2T OR "telomere-to-telomere" OR gap-free OR gapless) '
+                 'AND (genome OR genomic OR assembly OR chromosome OR sequencing)'),
+        "pubmed": ('(telomere-to-telomere[tiab] OR T2T[tiab] OR gap-free[tiab] OR gapless[tiab]) '
+                   'AND (genome[tiab] OR genomic[tiab] OR assembly[tiab] '
+                   'OR chromosome[tiab] OR sequencing[tiab])'),
+        "openalex": "telomere-to-telomere T2T gap-free genome assembly chromosome",
+        "scopus": ('TITLE-ABS-KEY("telomere-to-telomere" OR T2T OR "gap-free" OR gapless) '
+                   'AND TITLE-ABS-KEY(genome OR genomic OR assembly OR chromosome OR sequencing)'),
+        "require": [_re(r"telomere[\s\-]*to[\s\-]*telomere|t2t|gap[\s\-]?free|gapless")],
+        "strict_t2t": True,
+    },
+    {
+        "key": "cmed",
+        "name": "稻纵卷叶螟功能基因组学",
+        "epmc": ('("Cnaphalocrocis medinalis" OR "rice leaffolder" OR "rice leaf folder" '
+                 'OR "rice leaf roller" OR "rice leafroller") '
+                 'AND (genome OR genomic OR transcriptome OR gene OR genes OR protein OR '
+                 'functional OR CRISPR OR RNAi OR detoxification OR olfactory OR chitin OR '
+                 'development OR resistance OR enzyme OR receptor)'),
+        "pubmed": ('("Cnaphalocrocis medinalis"[tiab] OR "rice leaffolder"[tiab] OR '
+                   '"rice leaf folder"[tiab] OR "rice leaf roller"[tiab]) '
+                   'AND (genome[tiab] OR genomic[tiab] OR transcriptome[tiab] OR gene[tiab] '
+                   'OR protein[tiab] OR functional[tiab] OR CRISPR[tiab] OR RNAi[tiab] OR '
+                   'detoxification[tiab] OR olfactory[tiab] OR chitin[tiab] OR receptor[tiab])'),
+        "openalex": "Cnaphalocrocis medinalis rice leaffolder genome gene functional",
+        "scopus": ('TITLE-ABS-KEY("Cnaphalocrocis medinalis" OR "rice leaffolder" OR '
+                   '"rice leaf folder" OR "rice leaf roller") '
+                   'AND TITLE-ABS-KEY(genome OR genomic OR transcriptome OR gene OR protein OR '
+                   'functional OR CRISPR OR RNAi OR detoxification OR olfactory OR receptor)'),
+        "require": [_re(r"cnaphalocrocis medinalis|rice\s*leaf[\s\-]?(folder|roller)")],
+        "max_days": 45,                  # 该物种发文较少, 允许回溯更久以凑够条数
+    },
+    {
+        "key": "sexdet",
+        "name": "昆虫性别决定演化机制",
+        "epmc": ('(insect OR lepidoptera OR diptera OR hymenoptera OR coleoptera OR mosquito OR '
+                 'fly OR flies OR moth OR silkworm OR aphid OR wasp OR beetle OR butterfly OR '
+                 'planthopper OR locust) '
+                 'AND ("sex determination" OR "sex-determining" OR sex-determination OR doublesex '
+                 'OR transformer OR "sex-lethal" OR feminizer OR "complementary sex determiner" '
+                 'OR Wolbachia OR "sex chromosome" OR haplodiploid OR "sex ratio" OR masculinize '
+                 'OR feminize) '
+                 'AND (evolution OR evolutionary OR mechanism OR pathway OR cascade OR gene OR '
+                 'splicing OR regulation OR conserved OR divergent)'),
+        "pubmed": ('(insect[tiab] OR lepidoptera[tiab] OR diptera[tiab] OR hymenoptera[tiab] OR '
+                   'mosquito[tiab] OR moth[tiab] OR silkworm[tiab] OR aphid[tiab] OR beetle[tiab] '
+                   'OR planthopper[tiab]) '
+                   'AND ("sex determination"[tiab] OR doublesex[tiab] OR transformer[tiab] OR '
+                   '"sex-lethal"[tiab] OR feminizer[tiab] OR Wolbachia[tiab] OR '
+                   '"sex chromosome"[tiab] OR haplodiploid[tiab] OR "sex ratio"[tiab]) '
+                   'AND (evolution[tiab] OR evolutionary[tiab] OR mechanism[tiab] OR pathway[tiab] '
+                   'OR gene[tiab] OR splicing[tiab] OR regulation[tiab])'),
+        "openalex": ("insect sex determination evolution doublesex transformer Wolbachia "
+                     "sex chromosome mechanism"),
+        "scopus": ('TITLE-ABS-KEY(insect OR lepidoptera OR diptera OR hymenoptera OR mosquito OR '
+                   'moth OR silkworm OR aphid OR beetle) '
+                   'AND TITLE-ABS-KEY("sex determination" OR doublesex OR transformer OR '
+                   '"sex-lethal" OR feminizer OR Wolbachia OR "sex chromosome" OR haplodiploid) '
+                   'AND TITLE-ABS-KEY(evolution OR mechanism OR pathway OR gene OR splicing OR '
+                   'regulation OR conserved)'),
+        "require": [_re(r"sex[\s\-]?determin|doublesex|\bdsx\b|transformer|\btra\b|sex[\s\-]?lethal|"
+                        r"femini[sz]er|wolbachia|haplodiploid|sex chromosome|sex ratio"),
+                    _re(r"insect|lepidoptera|diptera|hymenoptera|coleoptera|mosquito|moth|silkworm|"
+                        r"aphid|beetle|fly|flies|wasp|butterfly|planthopper|locust|drosophila|"
+                        r"bombyx|cnaphalocrocis")],
+    },
+    {
+        "key": "ppi",
+        "name": "蛋白互作预测",
+        "epmc": ('("protein-protein interaction" OR "protein–protein interaction" OR '
+                 '"protein interaction network" OR PPI OR interactome OR "protein complex") '
+                 'AND (predict* OR forecast OR "deep learning" OR "machine learning" OR network '
+                 'OR AlphaFold OR docking OR interolog OR co-expression OR "contact prediction" '
+                 'OR computational OR model OR algorithm)'),
+        "pubmed": ('("protein-protein interaction"[tiab] OR PPI[tiab] OR interactome[tiab] OR '
+                   '"protein complex"[tiab]) '
+                   'AND (predict*[tiab] OR "deep learning"[tiab] OR "machine learning"[tiab] OR '
+                   'network[tiab] OR AlphaFold[tiab] OR docking[tiab] OR interolog[tiab] OR '
+                   'co-expression[tiab] OR computational[tiab] OR algorithm[tiab])'),
+        "openalex": ("protein-protein interaction prediction deep learning network AlphaFold "
+                     "interactome computational"),
+        "scopus": ('TITLE-ABS-KEY("protein-protein interaction" OR PPI OR interactome OR '
+                   '"protein complex") '
+                   'AND TITLE-ABS-KEY(predict OR prediction OR "deep learning" OR '
+                   '"machine learning" OR network OR AlphaFold OR docking OR interolog OR '
+                   'co-expression OR computational OR algorithm)'),
+        "require": [_re(r"protein[\s–\-]*protein interaction|\bppi\b|interactome|protein complex|"
+                        r"protein interaction"),
+                    _re(r"predict|deep learning|machine learning|network|alphafold|docking|"
+                        r"interolog|co.expression|computational|algorithm|model|evolution|"
+                        r"conservation|structure")],
+        # 标题需落在“互作/复合物/网络/结构”方法学范畴
+        "require_title": [_re(
+            r"protein.protein|\bppi\b|interactome|protein complex|interaction|docking|"
+            r"contact|complex structure|binding")],
+        # 排除人类疾病网络药理学/中药分子对接/临床生物标志物范式
+        "exclude": [_re(
+            r"network pharmacology|network toxicology|traditional chinese medicine|\btcm\b|"
+            r"herbal?|serum|urine|diagnostic (marker|value|signature)|therapeutic intervention|"
+            r"anti-inflammatory|osteoarthritis|parkinson|alzheimer|\bcancer\b|tumo[ur]|carcinoma|"
+            r"fibrosis|clinical trial|\bpatients?\b|drug.target|mesangial|endothelial dysfunction|"
+            r"hepatotoxic|nephrotoxic|cardiotoxic")],
+    },
+    {
+        "key": "insecticide",
+        "name": "新型杀虫剂",
+        "epmc": ('(insecticide OR insecticidal OR pesticide OR pesticidal OR biopesticide OR '
+                 '"pest control" OR acaricide) '
+                 'AND (novel OR new OR discovery OR target OR "mode of action" OR resistance OR '
+                 'mechanism OR efficacy OR toxicity OR compound OR molecule OR dsRNA OR '
+                 '"RNAi-based" OR diamide OR neonicotinoid OR "Bacillus thuringiensis" OR '
+                 'botanical OR synergist OR formulation)'),
+        "pubmed": ('(insecticide[tiab] OR insecticidal[tiab] OR pesticide[tiab] OR '
+                   'biopesticide[tiab] OR acaricide[tiab]) '
+                   'AND (novel[tiab] OR new[tiab] OR discovery[tiab] OR target[tiab] OR '
+                   '"mode of action"[tiab] OR resistance[tiab] OR mechanism[tiab] OR '
+                   'efficacy[tiab] OR toxicity[tiab] OR dsRNA[tiab] OR diamide[tiab] OR '
+                   'neonicotinoid[tiab] OR "Bacillus thuringiensis"[tiab] OR botanical[tiab])'),
+        "openalex": ("novel insecticide pesticide mode of action target resistance discovery "
+                     "biopesticide dsRNA"),
+        "scopus": ('TITLE-ABS-KEY(insecticide OR insecticidal OR pesticide OR biopesticide OR '
+                   'acaricide) '
+                   'AND TITLE-ABS-KEY(novel OR new OR discovery OR target OR "mode of action" OR '
+                   'resistance OR mechanism OR efficacy OR toxicity OR dsRNA OR diamide OR '
+                   'neonicotinoid OR "Bacillus thuringiensis" OR botanical OR compound)'),
+        "require": [_re(r"insecticid|pesticid|biopesticide|acaricid|pest control")],
+        # 标题需体现“新型/机制/毒理/抗性/化合物”等研发属性, 排除水体残留监测等环境类文章
+        "require_title": [_re(
+            r"novel|new |discovery|target|mode of action|mechanism|efficacy|toxic|bioactiv|"
+            r"compound|molecule|synthesi|synerg|formulation|resistan|larvicid|adulticid|"
+            r"bioassay|mortality|dsrna|diamide|neonicotinoid|botanical|essential oil|"
+            r"metabolite|receptor|enzyme|inhibitor|agonist|antagonist|knockdown|insecticid|"
+            r"acaricid|biopesticide")],
+    },
+]
+BOARD_BY_KEY = {b["key"]: b for b in BOARDS}
+
+# ==================== 物种词典(拉丁 -> [中文名, 英文名]) ====================
+SPECIES_DICT = {
+    "cnaphalocrocis medinalis": ("稻纵卷叶螟", "Rice leaffolder"),
+    "bombyx mori": ("家蚕", "Domestic silkworm"),
+    "bombyx mandarina": ("野桑蚕", "Wild silkworm"),
+    "drosophila melanogaster": ("黑腹果蝇", "Fruit fly"),
+    "tribolium castaneum": ("赤拟谷盗", "Red flour beetle"),
+    "spodoptera frugiperda": ("草地贪夜蛾", "Fall armyworm"),
+    "spodoptera litura": ("斜纹夜蛾", "Tobacco cutworm"),
+    "helicoverpa armigera": ("棉铃虫", "Cotton bollworm"),
+    "nilaparvata lugens": ("褐飞虱", "Brown planthopper"),
+    "sogatella furcifera": ("白背飞虱", "White-backed planthopper"),
+    "laodelphax striatellus": ("灰飞虱", "Small brown planthopper"),
+    "apis mellifera": ("西方蜜蜂", "Western honey bee"),
+    "anopheles gambiae": ("冈比亚按蚊", "African malaria mosquito"),
+    "aedes aegypti": ("埃及伊蚊", "Yellow fever mosquito"),
+    "culex pipiens": ("尖音库蚊", "Northern house mosquito"),
+    "plutella xylostella": ("小菜蛾", "Diamondback moth"),
+    "manduca sexta": ("烟草天蛾", "Tobacco hornworm"),
+    "locusta migratoria": ("飞蝗", "Migratory locust"),
+    "homo sapiens": ("人", "Human"),
+    "mus musculus": ("小家鼠", "House mouse"),
+    "oryza sativa": ("水稻", "Asian rice"),
+    "arabidopsis thaliana": ("拟南芥", "Thale cress"),
+    "zea mays": ("玉米", "Maize"),
+}
+# 双名法正则(属名首字母大写 + 种加词小写)
+BINOMIAL_RE = re.compile(r"\b([A-Z][a-z]{2,}(?:\.\s?|\s)([a-z][a-z\-]{2,}))\b")
+# 常见学术英语词, 出现在“属名/种加词”位置时判定为误抓
+SPECIES_STOP = {
+    "mixed","these","those","their","which","where","while","based","using","novel","new","first",
+    "high","low","global","drive","drives","driven","major","general","specific","different","various",
+    "evidence","occurrence","occurrences","results","result","study","studies","analysis","analyses",
+    "treatment","treatments","networks","network","systems","system","transport","transformation",
+    "wastewater","across","among","between","within","without","through","into","from","with","such",
+    "this","that","here","thus","therefore","however","although","overall","total","using","based",
+    "pesticide","pesticides","insecticide","insecticides","insecticidal","pesticidal","chemical",
+    "protein","proteins","gene","genes","genome","genomes","protein-protein","interaction","recent",
+    "multiple","several","many","most","both","each","every","some","any","associated","related",
+    "increased","decreased","reduced","induced","mediated","regulated","controlled","combined",
+    "integrated","enhanced","improved","detected","identified","reported","characterized","compared",
+    "two","three","four","five","one","non","anti","post","pre","sub","super","inter","intra","cross",
+    "role","roles","effect","effects","impact","impacts","response","responses","activity","activities",
+    "expression","exposure","application","evaluation","assessment","management","control","controls",
+}
+# 典型拉丁种加词后缀(命中才对“非词典物种”给予置信)
+LATIN_SUFFIX_RE = re.compile(
+    r"(us|a|um|is|ii|i|ae|ana|anum|ata|atum|ella|ina|icus|ica|icum|ense|ensis|oides|oides|"
+    r"vorus|vorum|phila|philus|ceps|cornis|penis|fer|ger|pennis|cauda|derma|soma|stoma)$", re.I)
+TAKE_LEAD_RE = re.compile(
+    r"(we show|we report|we found|we identify|we demonstrate|we reveal|we present|we propose|"
+    r"here we|this study shows|this study reveals|these results|results show|results revealed|"
+    r"our findings|we characterize|we assembled|we generated)", re.I)
+CONCL_RE = re.compile(
+    r"(conclusion[s]?|taken together|overall,|in summary|collectively,|these findings|"
+    r"our results suggest|our data suggest|we conclude|altogether,)", re.I)
+
+
+# ==================== 工具函数 ====================
 def today_cn():
     return datetime.now(CN_TZ).date()
 
@@ -93,29 +299,106 @@ def title_fingerprint(title):
     return "title:" + re.sub(r"\W+", "", (title or "").lower())
 
 
-def http_get(url, accept="application/json", raw=False):
+def http_request(url, accept="application/json", headers=None, raw=False, data=None):
     last_err = None
+    base_headers = {"User-Agent": f"{TOOL_NAME}/3.0 (academic digest; mailto:{CONTACT_MAIL})",
+                    "Accept": accept}
+    if headers:
+        base_headers.update(headers)
     for attempt in range(1, RETRY + 1):
         try:
-            req = urllib.request.Request(url, headers={
-                "User-Agent": f"{TOOL_NAME}/2.0 (academic digest; mailto:{CONTACT_MAIL})",
-                "Accept": accept,
-            })
+            req = urllib.request.Request(url, headers=base_headers, data=data)
             with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
                 content = resp.read().decode("utf-8")
                 return content if raw else json.loads(content)
         except Exception as e:  # noqa: BLE001
             last_err = e
             wait = 2 ** attempt
-            print(f"[warn] 请求失败({attempt}/{RETRY}) {url[:90]}... : {e}; {wait}s 重试", file=sys.stderr)
+            print(f"[warn] 请求失败({attempt}/{RETRY}) {url[:90]}... : {e}; {wait}s 重试",
+                  file=sys.stderr)
             time.sleep(wait)
     raise RuntimeError(f"连续 {RETRY} 次请求失败: {last_err}")
 
 
-def make_item(*, title, source, authors, publish_date, doi, pmid, abstract, via, added):
-    """统一 schema。"""
+def split_sentences(text):
+    text = strip_html(text)
+    if not text:
+        return []
+    parts = re.split(r"(?<=[.!?])\s+", text)
+    return [p.strip() for p in parts if len(p.strip()) > 15]
+
+
+def extract_takeaway(abstract):
+    sents = split_sentences(abstract)
+    if not sents:
+        return ""
+    for s in sents:
+        if TAKE_LEAD_RE.search(s):
+            return s[:280].strip()
+    return sents[0][:280].strip()
+
+
+def extract_conclusion(abstract):
+    sents = split_sentences(abstract)
+    if not sents:
+        return ""
+    for s in reversed(sents):          # 结论通常在末段
+        if CONCL_RE.search(s):
+            return s[:320].strip()
+    for s in sents:
+        if CONCL_RE.search(s):
+            return s[:320].strip()
+    return sents[-1][:320].strip() if len(sents) > 1 else ""
+
+
+def detect_species(title, abstract):
+    """返回 (latin, en, zh)。优先匹配内置词典; 否则仅在高置信(种加词像拉丁词、
+    且两个词都不是常见英语词)时回填双名法, 宁空勿错。"""
+    blob = f"{title or ''} {abstract or ''}"
+    low = blob.lower()
+    # 1) 词典最高优先
+    for latin, (zh, en) in SPECIES_DICT.items():
+        if latin in low:
+            words = latin.split()
+            cap = words[0].capitalize() + (" " + " ".join(w.lower() for w in words[1:]) if len(words) > 1 else "")
+            return cap, en, zh
+    # 2) 正则候选, 用 STOP 词表与拉丁后缀双重把关; 仅接受“种加词带典型拉丁后缀”的高置信结果, 宁空勿错
+    for m in BINOMIAL_RE.finditer(blob):
+        whole = re.sub(r"\s+", " ", m.group(1)).strip()
+        words = whole.split()
+        genus, epithet = words[0].rstrip("."), words[-1].lower()
+        if genus.lower() in SPECIES_STOP or epithet in SPECIES_STOP:
+            continue
+        if len(genus) < 3 or len(epithet) < 3:
+            continue
+        if LATIN_SUFFIX_RE.search(epithet):
+            return whole, "", ""
+    return "", "", ""
+
+
+def relevant(board, title, abstract):
+    t, a = title or "", abstract or ""
+    if board.get("strict_t2t"):
+        # 标题命中 T2T 词即收; 否则摘要须以全称讨论基因组/组装
+        if T2T_TITLE_RE.search(t):
+            return True
+        return bool(T2T_FULLNAME_RE.search(a) and T2T_CONTEXT_RE.search(a))
+    blob = f"{t} {a}"
+    if not all(rx.search(blob) for rx in board["require"]):
+        return False
+    for rx in board.get("require_title", []):       # 若指定, 标题必须命中其一
+        if not rx.search(t):
+            return False
+    for rx in board.get("exclude", []):             # 若指定, 命中任一即排除
+        if rx.search(blob):
+            return False
+    return True
+
+
+def make_item(*, title, source, authors, publish_date, doi, pmid, abstract, via, added, board_key):
     doi = norm_doi(doi)
     pmid = str(pmid or "").strip()
+    abstract = strip_html(abstract or "")
     if pmid:
         url = f"https://europepmc.org/article/MED/{pmid}"
         rid = f"pmid-{pmid}"
@@ -124,11 +407,13 @@ def make_item(*, title, source, authors, publish_date, doi, pmid, abstract, via,
         rid = f"doi-{doi}"
     else:
         url = ""
-        rid = "title-" + re.sub(r"\W+", "", title.lower())[:60]
+        rid = "title-" + re.sub(r"\W+", "", (title or "").lower())[:60]
+    latin, en, zh = detect_species(title, abstract)
     return {
         "id": rid,
-        "title": title.strip().rstrip("."),
+        "title": (title or "").strip().rstrip("."),
         "type": "paper",
+        "boards": [board_key],
         "source": source,
         "authors": authors or "",
         "publish_date": publish_date or "",
@@ -136,38 +421,44 @@ def make_item(*, title, source, authors, publish_date, doi, pmid, abstract, via,
         "url": url,
         "doi": doi,
         "pmid": pmid,
-        "abstract": strip_html(abstract or ""),
-        "keywords": ["T2T", "telomere-to-telomere"],
+        "abstract": abstract,
+        "species_latin": latin,
+        "species_en": en,
+        "species_zh": zh,
+        "takeaway": extract_takeaway(abstract),
+        "conclusion": extract_conclusion(abstract),
+        "keywords": [BOARD_BY_KEY[board_key]["name"]],
         "via": via,
     }
 
 
-# ---------------- 数据源 1: Europe PMC ----------------
-def fetch_epmc(days, added):
+# ==================== 数据源 1: Europe PMC ====================
+def fetch_epmc(board, days, added):
     end = today_cn()
     start = end - timedelta(days=days)
-    query = f"{EPMC_QUERY} AND FIRST_PDATE:[{start.isoformat()} TO {end.isoformat()}]"
+    query = f"({board['epmc']}) AND FIRST_PDATE:[{start.isoformat()} TO {end.isoformat()}]"
     out, cursor = [], "*"
     for _ in range(MAX_PAGES):
         params = {"query": query, "format": "json", "resultType": "core",
                   "pageSize": str(PAGE_SIZE), "sort": "FIRST_PDATE_D desc", "cursorMark": cursor}
-        data = http_get(EPMC_API + "?" + urllib.parse.urlencode(params))
+        data = http_request(EPMC_API + "?" + urllib.parse.urlencode(params))
         batch = data.get("resultList", {}).get("result", [])
         for rec in batch:
-            if rec.get("source") not in FORMAL_SOURCES:      # 排除 PPR 预印本
+            if rec.get("source") not in FORMAL_SOURCES:
                 continue
-            if not is_relevant(rec.get("title", ""), rec.get("abstractText", "")):
+            title, ab = rec.get("title", ""), rec.get("abstractText", "")
+            if not relevant(board, title, ab):
                 continue
             jinfo = rec.get("journalInfo", {}) or {}
             journal = jinfo.get("journal", {}).get("title", "") if isinstance(jinfo.get("journal"), dict) else ""
             journal = journal or rec.get("journalTitle", "")
-            journal = re.sub(r"\s*=\s*[^=]+$", "", journal).strip()   # 去 NLM 双语刊名后缀
+            journal = re.sub(r"\s*=\s*[^=]+$", "", journal).strip()
             out.append(make_item(
-                title=rec.get("title", "") or "", source=journal or rec.get("source", ""),
+                title=title, source=journal or rec.get("source", ""),
                 authors=rec.get("authorString", ""),
                 publish_date=rec.get("firstPublicationDate", ""),
                 doi=rec.get("doi", ""), pmid=rec.get("pmid", ""),
-                abstract=rec.get("abstractText", ""), via="EuropePMC", added=added))
+                abstract=ab, via="EuropePMC", added=added, board_key=board["key"]))
         nxt = data.get("nextCursorMark", "")
         if not nxt or nxt == cursor or len(batch) < PAGE_SIZE:
             break
@@ -175,7 +466,7 @@ def fetch_epmc(days, added):
     return out
 
 
-# ---------------- 数据源 2: PubMed E-utilities ----------------
+# ==================== 数据源 2: PubMed ====================
 MONTHS = {m: f"{i:02d}" for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], 1)}
 
@@ -188,9 +479,7 @@ def _pubmed_date(art):
             return f"{y}-{int(m):02d}-{int(d):02d}" if m and d else f"{y}-{int(m or 1):02d}-01"
     pd_ = art.find(".//Journal/JournalIssue/PubDate")
     if pd_ is not None:
-        y = pd_.findtext("Year")
-        mo = pd_.findtext("Month")
-        d = pd_.findtext("Day")
+        y, mo, d = pd_.findtext("Year"), pd_.findtext("Month"), pd_.findtext("Day")
         if y and mo:
             return f"{y}-{MONTHS.get(mo[:3], '01')}-{int(d) if d else 1:02d}"
         med = pd_.findtext("MedlineDate") or ""
@@ -202,24 +491,24 @@ def _pubmed_date(art):
     return ""
 
 
-def fetch_pubmed(days, added):
-    params = {"db": "pubmed", "term": PUBMED_TERM, "reldate": str(days),
+def fetch_pubmed(board, days, added):
+    params = {"db": "pubmed", "term": board["pubmed"], "reldate": str(days),
               "datetype": "pdat", "retmax": str(PAGE_SIZE), "retmode": "json",
               "tool": TOOL_NAME, "email": CONTACT_MAIL}
-    data = http_get(PUBMED_SEARCH + "?" + urllib.parse.urlencode(params))
+    data = http_request(PUBMED_SEARCH + "?" + urllib.parse.urlencode(params))
     ids = data.get("esearchresult", {}).get("idlist", [])
     if not ids:
         return []
-    time.sleep(0.4)  # 无 key 限速 ≤3 次/秒
+    time.sleep(0.4)
     fparams = {"db": "pubmed", "id": ",".join(ids), "retmode": "xml",
                "tool": TOOL_NAME, "email": CONTACT_MAIL}
-    xml_text = http_get(PUBMED_FETCH + "?" + urllib.parse.urlencode(fparams),
-                        accept="application/xml", raw=True)
+    xml_text = http_request(PUBMED_FETCH + "?" + urllib.parse.urlencode(fparams),
+                            accept="application/xml", raw=True)
     root = ET.fromstring(xml_text)
     out = []
     for art in root.findall(".//PubmedArticle"):
         ptypes = [(pt.text or "").lower() for pt in art.findall(".//PublicationType")]
-        if "preprint" in ptypes:                              # 排除预印本
+        if "preprint" in ptypes:
             continue
         title_el = art.find(".//Article/ArticleTitle")
         title = "".join(title_el.itertext()) if title_el is not None else ""
@@ -232,23 +521,23 @@ def fetch_pubmed(days, added):
         for aid in art.findall(".//PubmedData/ArticleIdList/ArticleId"):
             if aid.get("IdType") == "doi":
                 doi = aid.text or ""
-        abstract_parts = []
+        ab_parts = []
         for ab in art.findall(".//Abstract/AbstractText"):
             label = ab.get("Label")
-            txt = "".join(ab.itertext())
-            abstract_parts.append(f"{label}: {txt}" if label else txt)
-        if not is_relevant(title, " ".join(abstract_parts)):
+            ab_parts.append(f"{label}: {''.join(ab.itertext())}" if label else "".join(ab.itertext()))
+        abstract = " ".join(ab_parts)
+        if not relevant(board, title, abstract):
             continue
         out.append(make_item(
             title=title, source=art.findtext(".//Article/Journal/Title") or "",
             authors=", ".join(authors) + ("." if authors else ""),
             publish_date=_pubmed_date(art), doi=doi,
             pmid=art.findtext(".//MedlineCitation/PMID"),
-            abstract=" ".join(abstract_parts), via="PubMed", added=added))
+            abstract=abstract, via="PubMed", added=added, board_key=board["key"]))
     return out
 
 
-# ---------------- 数据源 3: OpenAlex ----------------
+# ==================== 数据源 3: OpenAlex ====================
 def _rebuild_abstract(inv):
     if not inv:
         return ""
@@ -259,24 +548,23 @@ def _rebuild_abstract(inv):
     return " ".join(pos[i] for i in sorted(pos))
 
 
-def fetch_openalex(days, added):
+def fetch_openalex(board, days, added):
     end = today_cn()
     start = end - timedelta(days=days)
-    params = {"search": OPENALEX_SEARCH,
+    params = {"search": board["openalex"],
               "filter": f"from_publication_date:{start.isoformat()},"
                         f"to_publication_date:{end.isoformat()},type:article",
-              "per-page": "50", "mailto": CONTACT_MAIL}
-    data = http_get(OPENALEX_API + "?" + urllib.parse.urlencode(params))
+              "per-page": str(PAGE_SIZE), "mailto": CONTACT_MAIL}
+    data = http_request(OPENALEX_API + "?" + urllib.parse.urlencode(params))
     out = []
     for w in data.get("results", []):
         title = w.get("display_name", "") or ""
         abstract = _rebuild_abstract(w.get("abstract_inverted_index"))
-        # OpenAlex 为宽召回，本地统一做相关性把关
-        if not is_relevant(title, abstract):
+        if not relevant(board, title, abstract):
             continue
         loc = w.get("primary_location") or {}
         src = (loc.get("source") or {}) if isinstance(loc, dict) else {}
-        if src.get("type") == "repository":                  # 排除预印本仓库条目
+        if src.get("type") == "repository":           # 排除预印本仓库
             continue
         authors = []
         for a in w.get("authorships", [])[:15]:
@@ -288,63 +576,179 @@ def fetch_openalex(days, added):
             authors=", ".join(authors),
             publish_date=w.get("publication_date", ""),
             doi=w.get("doi", ""), pmid="",
-            abstract=abstract, via="OpenAlex", added=added))
+            abstract=abstract, via="OpenAlex", added=added, board_key=board["key"]))
     return out
 
 
-# ---------------- 跨源合并去重 ----------------
-def merge_candidates(existing, streams):
-    """streams: [(源名, [items])]；返回 (全部新条目列表, 每源统计)。"""
-    doi_idx, pmid_idx, title_idx = {}, {}, {}
-    # 给已有条目建索引
-    for i, x in enumerate(existing):
-        if x.get("doi"):
-            doi_idx[x["doi"]] = ("old", i)
-        if x.get("pmid"):
-            pmid_idx[x["pmid"]] = ("old", i)
-        tf = title_fingerprint(x.get("title", ""))
-        title_idx.setdefault(tf, ("old", i))
+# ==================== 数据源 4: Elsevier Scopus ====================
+def scopus_configured():
+    return bool(os.environ.get("ELSEVIER_API_KEY", "").strip())
 
-    new_items, stats = [], {}
-    for src_name, items in streams:
-        cnt = 0
-        for it in items:
-            if not it["title"]:
+
+def fetch_scopus(board, days, added):
+    key = os.environ.get("ELSEVIER_API_KEY", "").strip()
+    if not key:
+        return None                                     # 未配置 -> 调用方跳过该源
+    end = today_cn()
+    start = end - timedelta(days=days)
+    # Scopus 用 query 内日期范围(coverdate) 更精确
+    date_clause = f'AND PUBYEAR IS {end.year}'
+    query = f"{board['scopus']} {date_clause}"
+    headers = {"X-ELS-ApiKey": key}
+    inst = os.environ.get("ELSEVIER_INSTTOKEN", "").strip()
+    if inst:
+        headers["X-ELS-Insttoken"] = inst
+    params = {"query": query, "count": str(PAGE_SIZE), "sort": "-coverDate",
+              "view": "STANDARD", "field": ("dc:title,prism:doi,prism:publicationName,"
+                                            "prism:coverDate,dc:creator,dc:description,"
+                                            "subtype,eid,dc:identifier")}
+    data = http_request(SCOPUS_API + "?" + urllib.parse.urlencode(params), headers=headers)
+    entries = (data.get("search-results", {}) or {}).get("entry", []) or []
+    out = []
+    for rec in entries:
+        subtype = (rec.get("subtype") or "").lower()
+        if subtype and subtype not in {"ar", "re", "cp"}:    # 仅 Article/Review/会议论文
+            continue
+        title = rec.get("dc:title", "") or ""
+        abstract = rec.get("dc:description", "") or ""
+        cover = (rec.get("prism:coverDate", "") or "")[:10]
+        # 本地按天再过滤一次(PUBYEAR 只到年)
+        if cover and cover < start.isoformat():
+            continue
+        if not relevant(board, title, abstract):
+            # Scopus 非订阅常缺摘要, 标题命中板块词即保留(require 至少标题命中核心词)
+            if not all(rx.search(title) for rx in board["require"][:1]):
                 continue
-            hit = None
-            if it["doi"] and it["doi"] in doi_idx:
-                hit = doi_idx[it["doi"]]
-            elif it["pmid"] and it["pmid"] in pmid_idx:
-                hit = pmid_idx[it["pmid"]]
+        doi = (rec.get("prism:doi", "") or "")
+        eid = rec.get("eid", "") or ""
+        url = f"https://doi.org/{norm_doi(doi)}" if doi else \
+            (f"https://www.scopus.com/record/display.uri?eid={eid}" if eid else "")
+        it = make_item(
+            title=title, source=rec.get("prism:publicationName", "") or "Scopus",
+            authors=rec.get("dc:creator", "") or "",
+            publish_date=cover, doi=doi, pmid="",
+            abstract=abstract, via="Scopus", added=added, board_key=board["key"])
+        if url:
+            it["url"] = url
+        out.append(it)
+    return out
+
+
+# ==================== 可选 LLM 中文增强 ====================
+def llm_enhance(items):
+    """对规则抽取结果做中文精炼。无 key / 任何异常都原样返回, 绝不阻断主流程。"""
+    key = os.environ.get("OPENAI_API_KEY", "").strip()
+    if not key or not items:
+        return items
+    base = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1").strip().rstrip("/")
+    model = os.environ.get("LLM_MODEL", "gpt-4o-mini").strip()
+    url = base + "/chat/completions"
+    max_n = int(os.environ.get("LLM_MAX_ITEMS", "40"))
+    for it in items[:max_n]:
+        try:
+            prompt = (
+                "你是生命科学文献编辑。根据下面的英文标题与摘要, 输出严格 JSON(不要 markdown, 不要多余文字), 字段:\n"
+                '{"takeaway":"一句话中文总结(≤60字)","conclusion":"主要结论中文(≤120字)",'
+                '"species_zh":"研究物种中文名(无则空串)","species_en":"研究物种英文名(无则空串)",'
+                '"species_latin":"研究物种拉丁学名(无则空串)"}\n'
+                f"标题: {it.get('title','')}\n摘要: {it.get('abstract','')[:1800]}")
+            body = json.dumps({
+                "model": model,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.2,
+                "response_format": {"type": "json_object"},
+            }).encode("utf-8")
+            resp = http_request(
+                url, headers={"Authorization": f"Bearer {key}",
+                              "Content-Type": "application/json"},
+                data=body)
+            content = resp["choices"][0]["message"]["content"]
+            obj = json.loads(content)
+            for k in ("takeaway", "conclusion", "species_zh", "species_en", "species_latin"):
+                v = (obj.get(k) or "").strip()
+                if v:
+                    it[k] = v
+            time.sleep(0.3)
+        except Exception as e:  # noqa: BLE001  单条失败不影响其它条目
+            print(f"[warn] LLM 增强失败一条, 保留规则结果: {e}", file=sys.stderr)
+    return items
+
+
+# ==================== 全局去重入库器(支持多板块) ====================
+class Ingestor:
+    def __init__(self, existing):
+        self.existing = existing
+        self.new_items = []
+        self.doi_idx, self.pmid_idx, self.title_idx = {}, {}, {}
+        for i, x in enumerate(existing):
+            self._index(x, ("old", i))
+
+    def _index(self, it, ref):
+        if it.get("doi"):
+            self.doi_idx[it["doi"]] = ref
+        if it.get("pmid"):
+            self.pmid_idx[it["pmid"]] = ref
+        self.title_idx.setdefault(title_fingerprint(it.get("title", "")), ref)
+
+    def add(self, it, board_key):
+        if not it.get("title"):
+            return False
+        hit = None
+        if it["doi"] and it["doi"] in self.doi_idx:
+            hit = self.doi_idx[it["doi"]]
+        elif it["pmid"] and it["pmid"] in self.pmid_idx:
+            hit = self.pmid_idx[it["pmid"]]
+        else:
+            hit = self.title_idx.get(title_fingerprint(it["title"]))
+        if hit is None:  # 全新
+            it["boards"] = sorted({board_key})
+            self.new_items.append(it)
+            self._index(it, ("new", len(self.new_items) - 1))
+            return True
+        bucket, j = hit
+        target = self.existing[j] if bucket == "old" else self.new_items[j]
+        # 并入板块
+        boards = set(target.get("boards", [])) | {board_key}
+        target["boards"] = sorted(boards)
+        # 互补空缺字段
+        for field in ("abstract", "source", "authors", "url", "doi", "pmid",
+                      "publish_date", "species_latin", "species_en", "species_zh",
+                      "takeaway", "conclusion"):
+            if not target.get(field) and it.get(field):
+                target[field] = it[field]
+        vias = {v.strip() for v in (target.get("via", "") or "").split(";") if v.strip()}
+        vias.add(it["via"])
+        target["via"] = ";".join(sorted(v for v in vias if v))
+        if target.get("doi"):
+            self.doi_idx.setdefault(target["doi"], hit)
+        if target.get("pmid"):
+            self.pmid_idx.setdefault(target["pmid"], hit)
+        return False
+
+
+def migrate_legacy(existing):
+    """旧版单板块数据平滑迁移: 补 boards 与新字段。"""
+    changed = False
+    for x in existing:
+        if not x.get("boards"):
+            x["boards"] = ["t2t"]            # 历史库均为 T2T 主题
+            changed = True
+        for f, default in (("species_latin", ""), ("species_en", ""), ("species_zh", ""),
+                           ("takeaway", ""), ("conclusion", "")):
+            if f not in x:
+                x[f] = default
+                changed = True
+        if not x.get("takeaway") and x.get("abstract"):
+            if x.get("type") == "paper":
+                x["takeaway"] = extract_takeaway(x["abstract"])
+                x["conclusion"] = extract_conclusion(x["abstract"])
+                latin, en, zh = detect_species(x.get("title", ""), x["abstract"])
+                x["species_latin"] = x.get("species_latin") or latin
+                x["species_en"] = x.get("species_en") or en
+                x["species_zh"] = x.get("species_zh") or zh
             else:
-                hit = title_idx.get(title_fingerprint(it["title"]))
-            if hit is None:
-                # 全新条目
-                new_items.append(it)
-                idx = len(new_items) - 1
-                if it["doi"]:
-                    doi_idx[it["doi"]] = ("new", idx)
-                if it["pmid"]:
-                    pmid_idx[it["pmid"]] = ("new", idx)
-                title_idx[title_fingerprint(it["title"])] = ("new", idx)
-                cnt += 1
-            else:
-                # 同篇已存在：互补空缺字段、追加 via
-                bucket, j = hit
-                target = existing[j] if bucket == "old" else new_items[j]
-                for field in ("abstract", "source", "authors", "url", "doi", "pmid", "publish_date"):
-                    if not target.get(field) and it.get(field):
-                        target[field] = it[field]
-                vias = {v.strip() for v in (target.get("via", "") or "").split(";") if v.strip()}
-                vias.add(it["via"])
-                target["via"] = ";".join(sorted(vias))
-                # 索引可能因补字段而新增
-                if target.get("doi"):
-                    doi_idx.setdefault(target["doi"], hit)
-                if target.get("pmid"):
-                    pmid_idx.setdefault(target["pmid"], hit)
-        stats[src_name] = cnt
-    return new_items, stats
+                x["takeaway"] = x["abstract"][:120]
+    return changed
 
 
 def load_existing(path):
@@ -352,54 +756,84 @@ def load_existing(path):
         return []
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
-        if not isinstance(data, list):
-            raise ValueError(f"{path} 顶层结构必须是数组 list")
-        return data
+    if not isinstance(data, list):
+        raise ValueError(f"{path} 顶层结构必须是数组 list")
+    return data
 
 
+# ==================== 主流程 ====================
 def main():
-    ap = argparse.ArgumentParser(description="多源采集最近 N 天 T2T 正式发表文献并合并入 literature.json")
-    ap.add_argument("--days", type=int, default=3, help="回溯天数 (默认 3，配合每日任务留冗余)")
+    ap = argparse.ArgumentParser(description="多专题多源采集已发表文献并入 literature.json")
+    ap.add_argument("--days", type=int, default=3, help="初始回溯天数(默认3)")
     ap.add_argument("--data", default=os.path.join(os.path.dirname(__file__), "..", "literature.json"))
     args = ap.parse_args()
     data_path = os.path.abspath(args.data)
-
     existing = load_existing(data_path)
+    legacy_changed = migrate_legacy(existing)
     added = today_cn()
-    print(f"[info] 已有记录 {len(existing)} 条；多源检索最近 {args.days} 天文献...")
 
-    sources = [
-        ("EuropePMC", lambda: fetch_epmc(args.days, added)),
-        ("PubMed",    lambda: fetch_pubmed(args.days, added)),
-        ("OpenAlex",  lambda: fetch_openalex(args.days, added)),
+    source_fns = [
+        ("EuropePMC", lambda b, d: fetch_epmc(b, d, added)),
+        ("PubMed", lambda b, d: fetch_pubmed(b, d, added)),
+        ("OpenAlex", lambda b, d: fetch_openalex(b, d, added)),
+        ("Scopus", lambda b, d: fetch_scopus(b, d, added)),
     ]
-    streams, failed = [], []
-    for name, fn in sources:
-        try:
-            items = fn()
-            print(f"[info] 源 {name}: 命中 {len(items)} 条候选")
-            streams.append((name, items))
-        except Exception as e:  # noqa: BLE001  单源失败不拖垮全局
-            failed.append(name)
-            print(f"[warn] 源 {name} 拉取失败，已跳过: {e}", file=sys.stderr)
-    if not streams:
-        print("[error] 所有数据源均失败，literature.json 保持不变", file=sys.stderr)
+    if not scopus_configured():
+        print("[info] 未配置 ELSEVIER_API_KEY, 本次跳过 Elsevier Scopus 源(其余三源正常)")
+        source_fns = [s for s in source_fns if s[0] != "Scopus"]
+
+    ing = Ingestor(existing)
+    failed_sources, board_new_count = set(), {b["key"]: 0 for b in BOARDS}
+    any_stream_ok = False
+
+    for board in BOARDS:
+        cap_days = board.get("max_days", MAX_EXPAND_DAYS)
+        window = args.days
+        # 自适应扩窗: 该板块新增不足目标条数时, 按 3->7->15... 逐步扩大回溯窗口,
+        # 直到凑够 PER_BOARD_TARGET 条或达到该板块窗口上限 cap_days
+        while True:
+            for name, fn in source_fns:
+                try:
+                    items = fn(board, window)
+                    if items is None:
+                        continue
+                    any_stream_ok = True
+                    added_here = 0
+                    for it in items:
+                        if ing.add(it, board["key"]):
+                            added_here += 1
+                    board_new_count[board["key"]] += added_here
+                    print(f"[info] [{board['key']}] {name} 窗口{window}天 候选{len(items)} "
+                          f"新入{added_here}")
+                except Exception as e:  # noqa: BLE001 单源失败不拖垮
+                    failed_sources.add(name)
+                    print(f"[warn] [{board['key']}] 源 {name} 失败跳过: {e}", file=sys.stderr)
+            if board_new_count[board["key"]] >= PER_BOARD_TARGET or window >= cap_days:
+                break
+            window = min(window * 2 + 1, cap_days)
+
+    if not any_stream_ok:
+        print("[error] 所有数据源均失败, literature.json 保持不变", file=sys.stderr)
         sys.exit(1)
 
-    new_items, stats = merge_candidates(existing, streams)
-    if new_items:
-        existing.extend(new_items)
-        existing.sort(key=lambda x: x.get("publish_date", ""), reverse=True)
+    # LLM 中文增强(可选)
+    if ing.new_items and os.environ.get("OPENAI_API_KEY", "").strip():
+        print("[info] 检测到 LLM key, 对本次新增做中文精炼...")
+        llm_enhance(ing.new_items)
+
+    changed = bool(ing.new_items) or legacy_changed
+    if ing.new_items:
+        existing.extend(ing.new_items)
+    if changed:
+        existing.sort(key=lambda x: (x.get("publish_date", ""), x.get("added_at", "")),
+                       reverse=True)
         with open(data_path, "w", encoding="utf-8") as f:
             json.dump(existing, f, ensure_ascii=False, indent=2)
-        print(f"[ok] 各源新增（去重后）: {stats}")
-        print(f"[ok] 本次共新增 {len(new_items)} 条，当前总计 {len(existing)} 条 -> {data_path}")
-    else:
-        print(f"[ok] 各源新增（去重后）: {stats}")
-        print("[ok] 未发现新增文献，literature.json 保持不变")
-    if failed:
-        print(f"[warn] 本次失败源: {', '.join(failed)}（明日自动重试）", file=sys.stderr)
-    print(f"NEW_COUNT={len(new_items)}")
+    print("[ok] 各板块本次新增:", {BOARD_BY_KEY[k]["name"]: v for k, v in board_new_count.items()})
+    print(f"[ok] 本次新增合计 {len(ing.new_items)} 条, 当前总计 {len(existing)} 条 -> {data_path}")
+    if failed_sources:
+        print(f"[warn] 本次失败源: {', '.join(sorted(failed_sources))}(明日自动重试)", file=sys.stderr)
+    print(f"NEW_COUNT={len(ing.new_items)}")
 
 
 if __name__ == "__main__":
