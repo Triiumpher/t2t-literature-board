@@ -81,6 +81,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42680104",
+    "title": "Multicomplex Integrative Structural Modeling of a Human Histone Deacetylase Interactome",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Molecular & cellular proteomics : MCP",
+    "authors": "Nde J, Majila K, Zimmermann RC, Kempf C, Zhang Y, Cesare J, Thornton JL, Workman JL, Florens L, Viswanath S, Washburn MP.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42680104",
+    "doi": "10.1016/j.mcpro.2026.101651",
+    "pmid": "42680104",
+    "abstract": "Histone Deacetylase (HDAC) 1 and 2 are key enzymatic components in multiple large chromatin remodeling complexes including NuRD, SIN3, and CoREST. In addition, both HDAC 1 and 2 contain a large intrinsically disordered region (IDR) within their C-terminal domain (CTD). How HDAC1/2 assemble into these complexes and the structure of the CTD IDR remains poorly understood. Here, we used HDAC1/2 to isolate their protein interaction networks from cells and used crosslinking mass spectrometry (XL-MS) coupled with the Integrative Modeling Platform to build structural models of the NuRD, SIN3A, and CoREST complexes. Next, we implemented an AlphaFold-enabled XL-MS constrained modeling approach to investigate how HDAC1 could assemble into these complexes. We show that the CTD IDR of HDAC1 folds into alpha helices in these complexes. Finally, we built a complete integrative structural model of a NuRD subcomplex including the abundant HDAC1:MBD3:MTA1:GATAD2B:RBBP4 subunits, which included 6 IDRs. The approaches used herein are broadly applicable for the study of protein complexes and protein interaction networks that can provide important insights into IDRs.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "利用交联质谱与整合建模平台解析人组蛋白去乙酰化酶HDAC1/2复合物结构，揭示其C端无序区折叠为α螺旋。",
+    "conclusion": "通过XL-MS和AlphaFold辅助建模，构建了NuRD、SIN3A和CoREST复合物的结构模型，发现HDAC1的CTD IDR在复合物中折叠成α螺旋，并完成含6个IDR的NuRD亚复合物完整模型，方法可推广至其他蛋白复合物研究。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42665558",
     "title": "Structure-Based Discovery of Fumiquinazolines as Skp2-Cks1 Protein-Protein Interaction Disruptors: Mechanistic Computational Insights and Experimental Validation",
     "type": "paper",
@@ -1235,6 +1261,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42668966",
+    "title": "Methomyl resistance in &lt;i&gt;Musca domestica&lt;/i&gt;: mechanisms and inheritance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PeerJ",
+    "authors": "Khan HAA.",
+    "publish_date": "2026-08-24",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42668966",
+    "doi": "10.7717/peerj.21646",
+    "pmid": "42668966",
+    "abstract": "Methomyl resistance is a documented problem in Musca domestica field strains worldwide, including Pakistan, where the insecticide is commonly used. To address this, a methomyl-resistant near-isogenic line (Meth-R) was created specifically to determine its resistance inheritance mode and cross-resistance profile. Analysis of reciprocal F 1 and F 1' crosses demonstrated autosomal inheritance of methomyl resistance in the Meth-R strain, as evidenced by similar median lethal dose (LD 50 ) values and the absence of sex linkage or maternal effects. Resistance expression was incompletely dominant, with dominance values of 0.7 (F 1 ) and 0.6 (F 1' ). Significant deviations between observed and expected mortality in self-bred (F 2 and F 2' ) and backcross (BC 1 -BC 4 ) progenies (chi-square analyses) indicate resistance is likely controlled by multiple genes. The Meth-R strain showed no cross-resistance to alpha-cypermethrin, fluralaner, pirimiphos-methyl, or clothianidin. Additionally, observing significant synergism of methomyl with both piperonyl butoxide (PBO; oxidase inhibitor) and S,S,S -tributyl phosphorotrithioate (DEF; esterase inhibitor) implicates metabolic detoxification as a key mechanism of methomyl resistance. The Meth-R strain exhibits methomyl resistance inherited as an autosomal, incompletely dominant trait under polygenic control. Although there was cross-resistance in the Meth-SEL strain to alpha-cypermethrin, fluralaner, pirimiphos-methyl, and clothianidin versus the lab susceptible strain, selection with methomyl did not increase the level of cross-resistance. These results offer a foundation for combating methomyl resistance.",
+    "species_latin": "Musca domestica",
+    "species_en": "house fly",
+    "species_zh": "家蝇",
+    "takeaway": "通过构建家蝇抗甲硫威近等基因系，发现其抗性为常染色体、不完全显性、多基因控制，且与代谢解毒相关。",
+    "conclusion": "家蝇对甲硫威的抗性由常染色体上多个基因控制，呈不完全显性遗传，PBO和DEF的增效作用表明氧化酶和酯酶参与的代谢解毒是重要机制。该抗性品系对多种其他杀虫剂无交互抗性，为抗性治理提供基础。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.3390/agronomy16171624",
     "title": "T2T Genome-Based Identification of the PLR Gene Family in Flax (Linum usitatissimum L.) Reveals Candidate Genes Associated with Seed Lignan Accumulation",
     "type": "paper",
@@ -1393,6 +1445,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42641513",
+    "title": "Occurrence and environmental risk assessment of neonicotinoids, fipronil, sulfoxaflor, and their transformation products in European coastal and riverine ecosystems",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Debler F, Bento CPM, Ferreira CSS, Wittmann A, Joerss H.",
+    "publish_date": "2026-08-23",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42641513",
+    "doi": "10.1016/j.jhazmat.2026.143360",
+    "pmid": "42641513",
+    "abstract": "The widespread use of neonicotinoid insecticides and fipronil has raised concerns regarding their occurrence and environmental impacts in aquatic ecosystems. This study investigates nine neonicotinoids, fipronil, sulfoxaflor and four transformation products (TPs) in surface waters from the Portuguese Mondego River, the German rivers Elbe, Ems, and Weser, and coastal waters of the North Sea, English Channel and Iberian Atlantic Coast. Neonicotinoids, fipronil and their TPs were frequently detected in freshwater (detection frequency 52 - 95%) and seawater (2 - 53%). Median total insecticide concentrations were higher in German rivers (4.1 ng/L) compared to the Mondego River (0.64 ng/L), largely driven by imidacloprid and desnitro-imidacloprid. In seawater, total insecticide concentrations ranged from 0.02 to 3.9 ng/L, with the TPs FIP-desulfinyl, FIP-sulfide, FIP-sulfone, and desnitro-imidacloprid detected for the first time. Thiacloprid (53%) and FIP-desulfinyl (47%) were the most prevalent compounds. An environmental risk assessment revealed potential risks from imidacloprid, fipronil and its TPs to freshwater and marine species, and from clothianidin and thiacloprid to marine organisms. These findings highlight the ecological relevance of fipronil and imidacloprid TPs and support their inclusion in monitoring programs. The widespread occurrence of fipronil-related compounds suggests veterinary ectoparasiticides as an important contamination source in European surface waters.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究欧洲河流与近岸海域中吡虫啉等新烟碱类、氟虫腈及转化产物，发现其普遍存在且具生态风险。",
+    "conclusion": "淡水与海水中均检出多种杀虫剂及转化产物，德国河流浓度较高。首次在海水中发现氟虫腈和吡虫啉的转化产物。风险评估显示吡虫啉、氟虫腈及其转化产物对淡水和海洋生物有潜在风险，噻虫胺和噻虫啉对海洋生物有风险。氟虫腈类化合物广泛存在，提示兽用外寄生虫药是重要污染源。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42633977",
+    "title": "Organophosphate Pesticides Promote Cardiovascular Toxicity via NF-κB/NLRP3 Inflammasome Activation and Endothelial Dysfunction: Integrated In Vivo and In Vitro Evidence",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Jan J, Shamas S, Sheikh WM, Bashir SM, Dar AH, Zargar MA, Bhat OM, Wani NA.",
+    "publish_date": "2026-08-23",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42633977",
+    "doi": "10.1002/jat.70388",
+    "pmid": "42633977",
+    "abstract": "Cardiovascular diseases are increasingly linked to environmental toxicants, including widely used organophosphate pesticides. This study investigates the cardiotoxic potential of chlorpyrifos (CPF) and dimethoate (DM) using complementary in vivo and in vitro models. Female Wistar rats were orally exposed to CPF, DM and their combination for 30 days. Histopathological analyses revealed myocardial disarray, interstitial edema, inflammatory infiltration and aortic endothelial disruption, with combination group showing the most severe injury. Haematological alterations including reduced RBC and haemoglobin, elevated leukocyte and platelet counts were accompanied by significantly increased hydroxyproline content in heart and aorta, indicating early fibrotic remodelling. Molecular analysis demonstrated marked upregulation of NF-κB, NLRP3, IL-1β, IL-18 and TNF-α, along with suppression of eNOS, confirming activation of NF-κB/NLRP3 inflammasome axis and endothelial dysfunction. In vitro, CPF but not DM reduced endothelial cell viability and induced ROS generation and lactate dehydrogenase (LDH) release in HUVECs. CPF also elevated inflammatory and cell adhesion markers while downregulating eNOS and tight-junction proteins. Notably, NLRP3 inhibition by MCC950 mitigated CPF-induced inflammatory signaling and restored endothelial function. Collectively, these findings demonstrate that CPF and DM exposure induces cardiovascular injury mediated through oxidative stress, inflammasome activation and nitric oxide dysregulation, highlighting NLRP3 as a potential therapeutic target in pesticide-associated vascular toxicity.",
+    "species_latin": "Toxicity via",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "通过大鼠体内实验和HUVEC细胞实验，揭示有机磷农药毒死蜱和乐果经NF-κB/NLRP3通路激活炎症并损伤内皮，导致心血管毒性。",
+    "conclusion": "毒死蜱和乐果暴露可致大鼠心肌紊乱、主动脉内皮损伤及纤维化，上调NF-κB/NLRP3炎症因子并抑制eNOS；体外毒死蜱诱导内皮氧化应激和炎症，NLRP3抑制剂MCC950可缓解，提示NLRP3为潜在治疗靶点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.1093/hr/uhag360",
     "title": "A telomere-to-telomere genome assembly of Asparagus cochinchinensis reveals the evolution of centromere and steroidal saponin biosynthesis",
     "type": "paper",
@@ -1446,6 +1550,110 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42673794",
+    "title": "Unraveling the exposure pathways and toxicity mechanisms of representative systemic insecticides in amphibians",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Lu Y, Wang Y, Hu Z, Mou C, Wang C, Zhang J, Zhao M, Zhang Q.",
+    "publish_date": "2026-08-22",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42673794",
+    "doi": "10.1016/j.jhazmat.2026.143368",
+    "pmid": "42673794",
+    "abstract": "Systemic insecticides, comprising neonicotinoids, systemic organophosphates, phenylpyrazoles (fipronil), and anthranilic diamides, now dominate global insecticide use. Their high water solubility and systemic translocation also drive migration into paddy fields, wetlands, and agricultural waterways and persistence in soils and sediments, the habitats amphibians depend on. Permeable skin, gill-dominated respiration, and obligate aquatic larval phases make amphibians especially vulnerable, yet assessments linking field exposure to internal toxicity remain limited. Focusing on these four classes, this review synthesizes 103 peer-reviewed studies (2005-2025) across environmental occurrence, toxicokinetics, sublethal effects, and toxicity mechanisms. Concentrations in amphibian-occupied waters span several orders of magnitude, yet amphibian-specific threshold comparisons are supported for only a subset of compounds; toxicokinetic profiles differ by compound in tissue accumulation, metabolic activation, and elimination. Sublethal evidence consistently documents neurobehavioral impairment, developmental disruption, endocrine interference, and multi-organ histopathology at environmentally relevant concentrations, with non-monotonic dose-response and species- and stage-specific sensitivity recurring throughout. Oxidative stress emerges as a consistently supported mechanistic node across all four classes; calcium dysregulation is proposed as a shared downstream pathway converging from their distinct primary targets, but rests largely on cross-taxon extrapolation. The field's core limitation lies less in study volume than in unverified mechanistic extrapolation and exposure-effect correspondence.",
+    "species_latin": "",
+    "species_en": "amphibians",
+    "species_zh": "",
+    "takeaway": "综述2005-2025年103篇研究，揭示新烟碱类等四类系统性杀虫剂在两栖动物中的暴露途径与毒性机制，氧化应激为共同节点。",
+    "conclusion": "系统性杀虫剂因高水溶性迁移至两栖动物栖息地，其可渗透皮肤和 aquatic 幼体阶段使其易感。综述发现环境浓度下引起神经行为、发育、内分泌及多器官组织病理损伤，氧化应激是共同机制，钙失调为可能下游通路，但机制外推和暴露-效应关联需验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42632099",
+    "title": "The first RNAi-based biopesticide approved in the United States: regulatory implications for the European Union - the case of Ledprona (Calantha™)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Koch A, Krczal G.",
+    "publish_date": "2026-08-22",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42632099",
+    "doi": "10.1002/ps.71219",
+    "pmid": "42632099",
+    "abstract": "RNA interference (RNAi), a naturally occurring gene-silencing mechanism, has emerged as a promising platform for developing innovative, non-genetically modified (GM) plant protection products. In the context of climate change, biodiversity loss, and growing resistance to traditional pesticides, the need for highly specific, environmentally compatible alternatives for sustainable pest management is increasing. RNAi-based sprays are a novel approach in which double-stranded RNA (dsRNA) molecules silence essential genes in target pests without acting like toxic conventional compounds. A significant advancement in this technology occurred with the 2023 approval of Calantha™ (Ledprona) in the USA, marking the first authorization of an RNAi-based biopesticide for agricultural use. Ledprona targets the Colorado potato beetle by silencing specific genes following foliar dsRNA application. Here, we summarize the mechanism of action, efficacy, environmental behavior, and safety assessment of Ledprona as evaluated by the US Environmental Protection Agency. In addition, we discuss the broader regulatory implications of this approval and highlight key challenges and opportunities for assessing and implementing RNAi-based plant protection products within the European Union's regulatory framework. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Leptinotarsa decemlineata",
+    "species_en": "Colorado potato beetle",
+    "species_zh": "马铃薯甲虫",
+    "takeaway": "以RNAi技术研发的首个生物农药Ledprona在美国获批，用于防治马铃薯甲虫，为欧盟农药监管提供参考。",
+    "conclusion": "Ledprona作为首个RNAi生物农药，通过叶面施用dsRNA沉默马铃薯甲虫关键基因，具有高特异性和环境友好性。其在美国获批标志着RNAi农药监管先例，对欧盟评估此类产品提出挑战与机遇，需完善监管框架以应对新型生物农药。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42631766",
+    "title": "Status of insecticide resistance and detoxification enzymes activity in pink bollworm, Pectinophora gossypiella (Saunders) populations from India",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology (London, England)",
+    "authors": "Srilekha K, Sreenivas AG, Jagdish J, Katti P, Hanchinal SG, Amaresh YS, Lakshmikanth M, Kumbhare S, Verma P, Shah V, Behere GT, Prasad YG, Waghmare VN.",
+    "publish_date": "2026-08-22",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42631766",
+    "doi": "10.1007/s10646-026-03138-0",
+    "pmid": "42631766",
+    "abstract": "The pink bollworm, Pectinophora gossypiella (Saunders), is one of the most destructive pests of cotton, causing substantial yield losses and threatening the long-term sustainability of cotton cultivation in India. The introduction of transgenic Bt cotton expressing Cry1Ac and subsequently stacked Cry1Ac+Cry2Ab toxins initially provided effective control of bollworm infestations. However, over time, pink bollworm has developed significant resistance, not only to Bt toxins but also to several classes of chemical insecticides, posing a major challenge to effective management. Insecticide bioassays conducted across major cotton-growing regions of India revealed a notable increase in LC 50 values in field populations compared to the laboratory-susceptible strain, confirming reduced susceptibility and development of resistance. The highest resistance ratios were recorded in Nagpur (Profenophos-4 fold), Adilabad (Chlorantraniliprole-6.81 fold), Sriganganagar (Emamectin benzoate-24.86 fold), Adilabad (Lambda-cyhalothrin-8.09 fold), Sriganganagar (Indoxacarb-2.53 fold) and Bathinda (Spinetoram-15.45 fold). Conversely, the Coimbatore and Surat populations exhibited the lowest resistance across all the tested insecticides. Biochemical assays further indicated the involvement of detoxification enzymes in resistance mechanisms, showing elevated esterase (2.83-5.29 µmol/min/µg protein) and glutathione S-transferase (GST) activities (11.29-21.43 µmol/min/µg protein) compared to the laboratory susceptible strain that recorded value of 2.49 and 2.78 µmol/min/µg protein respectively. These enhanced enzymatic activities align with known metabolic resistance pathways in insects. The findings underscore the urgent need for implementing integrated resistance management (IRM) strategies to sustain cotton productivity and manage further resistance development for long term sustainability.",
+    "species_latin": "Pectinophora gossypiella",
+    "species_en": "Pink bollworm",
+    "species_zh": "红铃虫",
+    "takeaway": "研究印度棉铃虫对多种杀虫剂的抗性及解毒酶活性，发现田间种群抗性显著升高，酯酶和谷胱甘肽S-转移酶活性增强。",
+    "conclusion": "印度棉铃虫田间种群对多种杀虫剂产生抗性，抗性倍数最高达24.86倍，解毒酶活性升高与代谢抗性相关，需实施综合抗性管理策略以保障棉花生产。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42629419",
+    "title": "Sex-specific responses to repeated dose of abamectin in albino rats: a focus on cytotoxicity, genotoxicity, and pro-inflammatory signaling",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "authors": "Abdelhafez HEDH, Amer MM, El Shenawy N, Safina F, Kalmosh FS, Elshatory A, Soliman RA.",
+    "publish_date": "2026-08-22",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42629419",
+    "doi": "10.1007/s00210-026-05832-6",
+    "pmid": "42629419",
+    "abstract": "Abamectin (AB) is a widely used biopesticide in agricultural and public health applications, and its extensive use has heightened the risk of environmental contamination. Although sex is a critical factor influencing toxicant susceptibility, the mechanisms underlying AB toxicity, particularly the role of sex-related differences, remain largely unexplored. This study investigated the toxicological outcomes of repeated oral exposure to AB (1 mg/kg body weight; 1/10 LD50) for 28 days in male and female Wister albino rats, with an emphasis on sex-dependent responses. Plasma oxidative stress biomarkers, blood cell DNA damage, bone marrow cell mutagenicity, and hepatic inflammatory responses were evaluated. Administration of AB resulted in significant (p ≤ 0.05) lipid peroxidation in both sexes, as evidenced by elevated plasma malondialdehyde (MDA) levels (52.05% in males; 57.40% in females) and a concomitant depletion of total antioxidant capacity (TAC) (24.34% and 30.07% reductions, respectively). This oxidative imbalance was paralleled by a surge in circulating 8-hydroxy-2'-deoxyguanosine (8-OHdG) levels, which rose by 137.56% in males and 208.55% in females. Bone marrow toxicity evaluations confirmed pronounced clastogenic and mutagenic effects, reflected by marked elevations in comet assay parameters (tail DNA %, tail length, and tail moment) and micronucleated polychromatic erythrocyte (MN-PCE) frequencies (134.33% in males vs. 214.75% in females). Additionally, AB triggered a robust hepatic inflammatory response, significantly elevating liver tissue levels of interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNF-alpha) in males (14.92% and 43.18%, respectively) and females (20.64% and 34.62%, respectively). Notably, female rats exhibited greater overall sensitivity than males across all evaluated endpoints. AB drives oxidative stress-mediated genotoxicity and inflammation in a sex-dependent manner, with females demonstrating heightened susceptibility. These findings emphasize the urgent need to account for sex as a biological variable in pesticide toxicology and warrant further molecular studies to unravel the mechanisms driving differential susceptibility.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "albino rat",
+    "species_zh": "白化大鼠",
+    "takeaway": "以阿维菌素重复给药白化大鼠，发现其诱导氧化应激、遗传损伤及炎症，且雌性比雄性更敏感。",
+    "conclusion": "阿维菌素经口重复暴露28天可致大鼠脂质过氧化、DNA损伤、骨髓微核率升高及肝脏炎症，且雌性大鼠在各指标上均表现出更高的敏感性，提示性别是影响其毒性的重要生物学因素。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42633732",
     "title": "Structure-guided delineation of umbelliferyl phosphate-based disruptors of the c-Myb-CBP/p300 KIX protein-protein interaction",
     "type": "paper",
@@ -1469,6 +1677,110 @@
       "蛋白互作预测"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42657987",
+    "title": "Global Status of Insecticide Resistance in Malaria Vectors: A Comprehensive Review",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of vector borne diseases",
+    "authors": "Sinha S, Tripathi PK, Singh D, Kumar V, Kumari S, Ghosh RK, Rani S, Toppo J, Manjhi N, Rao MRK, Shrinivasa BM, Anvikar AR, Bharti PK.",
+    "publish_date": "2026-08-21",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42657987",
+    "doi": "10.4103/jvbd.jvbd_123_26",
+    "pmid": "42657987",
+    "abstract": "Insecticidal Residual Spray (IRS) is a long-standing preventive measure in Mosquito vector control. The widespread use of insecticides for malaria vector control has led to increasing resistance in malaria vectors, creating a major global challenge. This article addresses the current situation and geographical patterns of pesticide resistance, as well as the consequences for global malaria control and eradication efforts. Information from surveillance and monitoring programmes is synthesised to provide a summary of resistance patterns to commonly used pesticides, including pyrethroids, organochlorines, carbamates and organophosphates. The assessment highlights the impact of resistance on malaria transmission and on the effectiveness of vector control, and emphasises the urgent need for integrated resistance management, strengthened surveillance and novel vector control methods to sustain and advance global malaria control efforts.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述全球疟疾媒介昆虫对常用杀虫剂的抗性现状与地理分布，强调抗性对防控成效的威胁及综合管理需求。",
+    "conclusion": "全球疟疾媒介对拟除虫菊酯、有机氯、氨基甲酸酯和有机磷等杀虫剂抗性日益严重，呈地理差异，削弱室内滞留喷洒等防控效果，威胁疟疾消除目标。亟需整合抗性管理、加强监测并开发新型媒介控制策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42657986",
+    "title": "Toxicity Analysis from Leaves to Latex: Nano-Biomosquitocide as a Game-Changer",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of vector borne diseases",
+    "authors": "Nimoria S, Kachhwaha N.",
+    "publish_date": "2026-08-21",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42657986",
+    "doi": "10.4103/jvbd.jvbd_34_26",
+    "pmid": "42657986",
+    "abstract": "Over time, the use of chemically synthesized insecticides increased rapidly, leading to environmental harm, human health hazards, and the emergence of insecticidal resistance in insects. Sustainable development is critically needed, and innovative technology is essential for efficient mosquito control. A thorough analysis of 118 research and review papers from databases such as Scopus, Web of Science, Google Scholar and PubMed was conducted to compare the efficacy (LC values) of plant-derived extract and nanoparticle-based formulations. Nanoparticles (NPs) synthesized from plants using green nanotechnology represent a viable strategy for reducing mosquito vector populations. Plant-mediated nanoparticles derived from leaves, stems, flowers, latex, seeds, etc. exhibit high larvicidal and adulticidal characteristics against mosquito vector species, such as Aedes , the transmitter of dengue, Anopheles , the transmitter of malaria, and Culex , transmitting filariasis and others. Plant-derived nanoparticles like silver, copper, titanium, zinc, gold, etc. have shown promising results in combating potentially damaging insects. These nanoparticles maximize potency while minimizing non-target toxicity by utilizing bioactive phytochemicals present in plants. In terms of mechanism, nanoparticles and extract doses were tested for 24-74 hours for their activity, which resulted in the disruption of essential physiological processes in mosquito larvae, including cellular integrity, oxidative stress-mediated enzyme function, and physical harm to the exoskeleton and internal tissues. Furthermore, plant-derived nanoparticles offer affordability, stability, scalability, and biocompatibility, and the use of green nanoparticles could be an essential part of sustainable strategies to manage vectors. Despite promising laboratory results, extensive environmental impact studies and field testing are still necessary to translate these technologies into practical applications.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述118篇文献，比较植物提取物与纳米制剂杀蚊效果，发现绿色合成纳米颗粒高效低毒，可防控登革热、疟疾等媒介蚊虫。",
+    "conclusion": "植物源纳米颗粒（如银、铜、钛、锌、金）通过破坏蚊幼虫细胞完整性、诱导氧化应激及损伤外骨骼等机制，展现高杀幼虫和成蚊活性，兼具经济、稳定、可规模化及生物相容性优势，但需进一步开展环境安全评估和现场试验以推动实际应用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42656854",
+    "title": "Modified cone bioassay methods for evaluating chlorfenapyr indoor residual spray",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "MalariaWorld journal",
+    "authors": "Benson J, Tenywa FSC, Ngonyani S, Lugenge AG, Mseti JJ, Sauli E, Facchinelli L, Moore SJ, Odufuwa OG.",
+    "publish_date": "2026-08-21",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42656854",
+    "doi": "10.5281/zenodo.22045349",
+    "pmid": "42656854",
+    "abstract": "BACKGROUND: Chlorfenapyr-based indoor residual spraying (IRS) has been prequalified for malaria control. Residual efficacy (mosquito mortality) of IRS applied to houses is typically assessed using forced-contact cone bioassays. However, chlorfenapyr is a pro-insecticide that requires mosquito metabolic activity for conversion to its toxic metabolite, tralopyril. Cone bioassays consistently underestimate mortality compared to free-flying bioassays. This study evaluated whether increasing mosquito activity during cone bioassays could better capture chlorfenapyr-induced mortality on mud surface using scalable methods. MATERIALS AND METHODS: The bioefficacy of chlorfenapyr (Sylando® 240 SC) sprayed on mud surfaces was assessed in two experiments using cone bioassays against sugar-fed, laboratory-reared pyrethroid-resistant Anopheles arabiensis and An. funestus. Experiment 1 evaluated six exposure scenarios varying cone contact time (30 vs. 120 min) and post-exposure activity using clean CDC bottles (none, 1-hr vs. 12-hrs). Experiment 2 assessed the interaction between exposure duration (30-min vs. 12-hrs) and the presence or absence of a host (rabbit). Delayed mortality was monitored up to 120 hrs. An indicative mortality threshold was estimated using a random-effect meta-analysis of three free-flying semi-field studies. RESULTS: Mortality remained low across all treatments in experiment 1 (7.8-15.4% at 72 hrs; 14.1-23.1% at 120 hrs), with no consistent improvement from post-exposure activity. In Experiment 2, mortality increased with 12-hrs exposure, particularly in the presence of a host (23.5% at 72 hrs; OR 2.25, 95% CI 1.71-2.97, p < 0.001). However, mortality remained well below the indicative value (52%). CONCLUSIONS: Prolonged exposure and host presence modestly increased mortality, but did not produce values consistent with expected chlorfenapyr bioefficacy against free-flying mosquitoes. These findings suggest that modified cone bioassays are unlikely to provide reliable estimates of chlorfenapyr-IRS performance. Further validation is required to assess whether overnight cone tests in people's homes can provide a more realistic measure of residual bioefficacy.",
+    "species_latin": "Anopheles arabiensis and Anopheles funestus",
+    "species_en": "Anopheles arabiensis and Anopheles funestus",
+    "species_zh": "阿拉伯按蚊和芬氏按蚊",
+    "takeaway": "改良锥形生物测定法无法准确评估氯芬apyr室内滞留喷洒效果，死亡率远低于预期。",
+    "conclusion": "延长暴露时间和宿主存在仅略微提高死亡率，但仍远低于自由飞行试验的预期值，表明改良锥形法不可靠，需进一步验证过夜测试的可行性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42652531",
+    "title": "Allelic Survey and Population Genomics in a Hotspot of Diflubenzuron Resistance in the Mosquito Culex pipiens",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Piras F, Lucchesi V, Puggioli A, Bellini R, Porretta D, Mastrantonio V.",
+    "publish_date": "2026-08-21",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42652531",
+    "doi": "10.3390/insects17080877",
+    "pmid": "42652531",
+    "abstract": "The long-term efficacy of vector control programs is seriously hampered by the evolution of insecticide resistance. In this scenario, assessing the distribution, frequency, and drivers of resistance spread is crucial to planning effective control programs. Here, we addressed these issues in the mosquito Culex pipiens, focusing on the Emilia-Romagna region (Italy), a known hotspot of diflubenzuron (DFB) resistance. First, Cx. pipiens larvae were screened for point mutations conferring DFB resistance to capture the distribution and frequency of resistance-associated alleles across the region. To this end, a fragment of the chitin synthase 1 gene spanning the mutated site was sequenced. Then, by using population genomics, we investigated the vector population structure in this area. Our findings revealed that resistance-associated alleles maintain a focal geographic distribution in the region, with higher mutation frequencies in the central-eastern than in the western provinces. Also, we observed that the populations of Cx. pipiens are a highly homogeneous gene pool and can be interconnected across the region, highlighting the risk of resistance alleles spread across Emilia-Romagna. Overall, this study stresses the importance of systematically surveying resistance-associated alleles and their integration with population genomic data to gain relevant information for resistance management.",
+    "species_latin": "Culex pipiens",
+    "species_en": "Culex pipiens",
+    "species_zh": "淡色库蚊",
+    "takeaway": "对意大利艾米利亚-罗马涅大区淡色库蚊进行等位基因调查与群体基因组分析，发现抗除虫脲突变等位基因呈局部分布且种群高度同质，有扩散风险。",
+    "conclusion": "该地区淡色库蚊抗除虫脲等位基因频率呈中心-东部高于西部的局部分布，但种群基因池高度同质且可能相互连通，提示抗性等位基因存在扩散风险。研究强调系统监测抗性等位基因并结合群体基因组数据对制定抗性管理策略至关重要。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -1545,6 +1857,32 @@
     "conclusion": "研究鉴定出 36 个 BITC 与 COVID-19 的共享靶点，富集分析显示其参与炎症、血管调节等通路，分子对接显示与六个靶点有结合潜力，提示 BITC 可能作为免疫调节候选分子，但需进一步实验验证。",
     "keywords": [
       "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42653980",
+    "title": "In Silico Methods Applied in Drug and Pesticide Discovery",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Molecules (Basel, Switzerland)",
+    "authors": "Borota A, Stegarus DP, Rivera Sanchez G.",
+    "publish_date": "2026-08-20",
+    "added_at": "2026-09-02",
+    "url": "https://europepmc.org/article/MED/42653980",
+    "doi": "10.3390/molecules31162899",
+    "pmid": "42653980",
+    "abstract": "In recent decades, the integration of computational approaches into drug discovery has transformed the identification and optimization of biologically active molecules [...].",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述计算机模拟方法在药物与农药发现中的应用，强调其加速活性分子筛选与优化。",
+    "conclusion": "计算机模拟方法已深度融入药物与农药发现流程，显著提升活性分子识别与优化效率，成为现代研发不可或缺的工具。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
