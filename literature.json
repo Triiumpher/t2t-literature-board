@@ -1,5 +1,165 @@
 [
   {
+    "id": "manual-20260903-t2t-yao-v2",
+    "title": "The Innovation | 从“完整”到“可靠”：国家生物信息中心康禹团队合作构建接近无组装错误的二倍体人类基因组 T2T-YAO v2.0（“唐尧”升级版）",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "中国科学院北京基因组研究所（国家生物信息中心）官网",
+    "authors": "",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-03",
+    "url": "https://www.big.ac.cn/xwdt/kyjz/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "国家生物信息中心联合北京大学人民医院、中国食品药品检定研究院、临汾市中心医院及瑞士日内瓦大学等单位，在 The Innovation 发表题为 Approaching an error-free diploid human genome using a support-vector approach 的研究，将汉族中国人“唐尧”T2T 二倍体参考基因组升级到 v2.0，重点从追求序列“完整”转向把组装错误压到极低、追求“可靠/近无错”。",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "中国人“唐尧”二倍体 T2T 基因组升级到 v2.0，目标从无缺口完整进一步走向近零组装错误的高可靠参考序列。",
+    "conclusion": "借助支持向量等纠错策略，T2T-YAO v2.0 在区分父母本两套单倍型的同时显著降低二倍体组装错误率，为汉族人群精准医学与个性化基因组学提供更可靠的高质量参考基因组。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "T2T-YAO",
+      "唐尧",
+      "二倍体基因组",
+      "人类参考基因组",
+      "组装纠错"
+    ]
+  },
+  {
+    "id": "pmid-42391496",
+    "title": "Genomes of the ex-type strains of Elsinoë mangiferae and E. perseae, the causal agents of scab on mango and avocado",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "G3 (Bethesda, Md.)",
+    "authors": "Chaverri P, Escudero-Leyva E, Kooij PW, Morales-Lemus C, Salgado-Salazar C.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-03",
+    "url": "https://europepmc.org/article/MED/42391496",
+    "doi": "10.1093/g3journal/jkag177",
+    "pmid": "42391496",
+    "abstract": "Elsinoë species are slow-growing, hemibiotrophic to necrotrophic fungi that cause scab diseases on economically important fruit crops. Genome resources for many host-specific species remain limited. We report high-quality draft genome assemblies for the ex-type strains of Elsinoë mangiferae (CBS 226.50) and E. perseae (CBS 406.34), causal agents of mango and avocado scab, respectively. Among 5 approaches tested, a Nanopore-only NextDenovo assembly produced the most contiguous genomes, yielding 24.5 Mb (E. mangiferae) and 25.1 Mb (E. perseae) assemblies with 13 and 18 contigs, respectively, BUSCO completeness scores of ∼94%, and multiple putative telomere-to-telomere chromosomes. Gene prediction identified 9,134 and 9,243 genes, respectively. Functional annotation revealed enrichment of metabolic and regulatory pathways, including those involved in posttranslational modification, protein transport, and secondary metabolism. Carbohydrate-active enzyme repertoires were small but conserved, consistent with stealth pathogenicity strategies and low plant cell wall degradation. Both genomes encoded large secretomes (>850 proteins), diverse protease repertoires (>300 proteins), Ecp2-like effector proteins, and multiple biosynthetic gene clusters, including clusters with similarity to those associated with elsinochrome and ACT-toxin II biosynthesis, some of which may contribute to host-pathogen interactions and disease development. A large fraction of genes lacked functional characterization, suggesting incomplete databases and/or the presence of lineage-specific genes potentially involved in virulence or host adaptation. These genome resources fill critical gaps for underrepresented Elsinoë species and provide taxonomically anchored references essential for diagnostics, comparative genomics, and research into the molecular basis of host specificity and pathogenicity in scab-causing fungi.",
+    "species_latin": "Elsinoë mangiferae, Elsinoë perseae",
+    "species_en": "",
+    "species_zh": "芒果疮痂病菌、鳄梨疮痂病菌",
+    "takeaway": "解析芒果疮痂病菌与鳄梨疮痂病菌外模式株基因组，揭示其致病相关基因与代谢特征。",
+    "conclusion": "两种病菌基因组约24.5-25.1 Mb，编码约9000个基因，含大量分泌蛋白、蛋白酶及效应蛋白，碳水化合物酶较少，符合隐蔽致病策略，并携带光敏色素及毒素合成基因簇，为致病机制研究提供参考。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42376870",
+    "title": "The complete sequence of the silkworm W chromosome uncovers its rapid evolution by large-scale duplications/deletions and translocation of W-linked genes",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "G3 (Bethesda, Md.)",
+    "authors": "Li W, Abe H, Chen Y, Liu J, Wang Y, Ajimura M, Li S, Xiao Y, Guo H, Wu J, Xu Y, Yang X, Yang X, Hao S, He Q, Fujii T, Sahara K, Yoshido A, Takehana Y, Naruse K, Arunkumar KP, Goldsmith MR, Smagghe G, Marec F, Xia Q, Mita K.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-03",
+    "url": "https://europepmc.org/article/MED/42376870",
+    "doi": "10.1093/g3journal/jkag170",
+    "pmid": "42376870",
+    "abstract": "The complete sequence of the W chromosome, which carries feminization activity in the silkworm, is crucial for understanding the sex-determination system in Lepidoptera. However, extensive accumulation of transposons due to lack of recombination, the very rare protein-coding genes and almost no information about molecular markers has hindered full W sequencing. We report the first complete silkworm W sequence (T2T_W, 11683305 bp) obtained by combining sequencing-assembly technologies and newly developed error detection methods, evaluated with genetically mapped W-RAPD markers, W-mutants, and W-derived BAC clones. The T2T_W sequence showed that the W is composed of a massive 92% accumulation of transposons and repeat sequences, among which the main constituents are intact LTR/LINE retrotransposons indicating recent expansions. In addition to Fem clusters producing Fem piRNA (Feminizer-derived PIWI-interacting RNA), we found 26 protein-coding genes in the W sequence. These include four gene pairs encoding zinc-finger motifs designated z1:z20 and a gene encoding serine/arginine repetitive matrix protein 1-like (SRRM1-like). To identify candidate genes for female sex-determination and differentiation we also sequenced the shortest W (3.8 Mb) from a translocation mutant with feminizing activity, which harbored four conventional genes: a Fem cluster, a pair of z1:z20 isoforms, z20-S, and a SRRM1-like gene. Phylogenetic analysis revealed that z1:z20 originated from a copy of an autosomal zinc-finger gene pair, z2:z21, translocated onto the W around 2.43 Mya and subsequently amplified to yield 4 W-linked zinc-finger gene pairs. The complete W sequence revealed that large-scale deletions and amplifications played a significant role in W chromosome evolution.",
+    "species_latin": "Bombyx mori",
+    "species_en": "silkworm",
+    "species_zh": "家蚕",
+    "takeaway": "家蚕W染色体完整测序，发现其由大量转座子构成，并鉴定出与雌性决定相关的基因及快速进化机制。",
+    "conclusion": "家蚕W染色体全长11.68 Mb，92%为转座子。除Fem基因簇外，还发现26个蛋白编码基因，其中z1:z20锌指基因对源自常染色体z2:z21的转座，约243万年前插入W并扩增。W染色体通过大规模缺失和扩增快速进化。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42680804",
+    "title": "Comprehensive proximity proteomics expand the known interactome of the oncoprotein β-catenin",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Scientific reports",
+    "authors": "Moparthi L, Zhong W, Koch S.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-03",
+    "url": "https://europepmc.org/article/MED/42680804",
+    "doi": "10.1038/s41598-026-68008-5",
+    "pmid": "42680804",
+    "abstract": "The oncoprotein β-catenin has critical roles in cell adhesion and cell signalling. β-catenin affects human physiology and pathology through numerous interaction partners, of which many have been discovered by standard affinity purification-based proteomics. However, the interaction landscape of β-catenin remains incompletely understood, highlighting a need for new experimental approaches for the exploration of β-catenin biology. Proximity proteomics, which facilitate the discovery of molecules vicinal to proteins-of-interest by mass spectrometry, have recently emerged as a powerful complementary tool for the study of protein-protein interactions, but have not been applied to β-catenin so far. We investigated the interactome of β-catenin in model cell lines by proximity proteomics using expression constructs with the biotin ligases BioID and TurboID. Mass spectrometry analyses following biotin labelling identified numerous candidate interactors of β-catenin, including many that had not been observed in earlier studies using standard proteomics. Enrichment analyses suggested that proximity proteomics capture proteins associated with the known biological functions of β-catenin, including cell adhesion, Wnt/β-catenin signalling, and transcription regulation. The molecular tools and data generated in this study provide new insights into β-catenin biology and highlight potential new regulators of β-catenin function that warrant further exploration.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "利用BioID/TurboID邻近标记蛋白质组学，系统绘制癌蛋白β-catenin互作网络，发现众多此前未知的候选互作因子。",
+    "conclusion": "邻近蛋白质组学可捕获与β-catenin已知功能（细胞黏附、Wnt信号、转录调控）相关的蛋白，并鉴定出大量传统亲和纯化未发现的候选互作因子，为β-catenin生物学提供新见解及潜在调控因子。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42681171",
+    "title": "Beyond mortality: A fungicide mixture alters physiology and causes impaired behavior in zebrafish",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology (London, England)",
+    "authors": "Pompermaier A, Chagas FB, Tamagno WA, Galon L, Hartmann PA, Hartmann M.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-03",
+    "url": "https://europepmc.org/article/MED/42681171",
+    "doi": "10.1007/s10646-026-03147-z",
+    "pmid": "42681171",
+    "abstract": "Pesticides have been widely used to ensure high productivity in monoculture systems. However, due to pathogen resistance and the need to improve the safety and sustainability of these substances, new compounds have emerged on the market. One example is pesticide mixtures, which aim to provide a broader spectrum of functionality within a single product. The azoxystrobin- and tebuconazole-based fungicide (ATBF) is a commercial premix fungicide containing two active ingredients. Nevertheless, studies investigating the effects of such mixtures on non-target organisms remain a significant gap in literature. Therefore, the main goal of this study was to investigate the toxicological effects of this fungicide mixture on the physiology and behavior of zebrafish. Developmental exposure (3-120 h post-fertilization [hpf]) to environmentally relevant concentrations was evaluated through assessments of survival, hatching, spontaneous movement, heart rate, and behavior (shoaling and antipredator response). Exposure to ATBF impaired survival, reduced spontaneous movement, altered heart rate, and affected shoaling behavior in zebrafish larvae. These findings highlight the importance of research on pesticide mixtures, as these products may exert additive or synergistic effects on aquatic fauna.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "研究杀菌剂混合物(ATBF)对斑马鱼幼鱼生理与行为的影响,发现其损害存活、自发运动、心率及群游行为。",
+    "conclusion": "环境相关浓度的ATBF暴露(3-120小时)显著降低斑马鱼幼鱼存活率,减少自发运动,改变心率,并影响群游行为,表明该杀菌剂混合物对非靶标水生生物具有潜在毒性,凸显研究农药混合物生态风险的重要性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42680775",
+    "title": "A multi-omics systems toxicology framework reveals amino acid-mediated stress adaptation to deltamethrin exposure in a yeast model",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Scientific reports",
+    "authors": "Yavuz M, Yavuz HG, Oksuzoglu AD, Bereketoglu C, Mardinoglu A, Calimlioglu B.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-03",
+    "url": "https://europepmc.org/article/MED/42680775",
+    "doi": "10.1038/s41598-026-66841-2",
+    "pmid": "42680775",
+    "abstract": "Deltamethrin (DLM) is a widely used synthetic pyrethroid insecticide known for its neurotoxic effects through interactions with voltage-gated sodium channels in insects. Despite its extensive application in agriculture, aquaculture, household settings, and animal husbandry, accumulating evidence indicates that DLM poses significant health risks to non-target organisms, including neurotoxicity, hepatotoxicity, nephrotoxicity, reproductive toxicity, metabolic disorders, and oxidative stress. Elucidating the cellular mode of action of DLM exposure is therefore critical. Previous studies have linked DLM exposure to endoplasmic reticulum (ER) stress and disrupted iron homeostasis; however, the metabolic adaptations underlying these responses remain poorly understood. In this study, we employed an integrated multi-omics approach to investigate the metabolic and transcriptomic responses of Saccharomyces cerevisiae exposed to non-lethal, chronic DLM doses over 30 days. Metabolomic profiling revealed significant alterations in amino acid metabolism, with notable accumulation of glycine and serine, amino acids known to mitigate ER stress. Transcriptomic analysis showed upregulation of iron deprivation response genes (FRE3, SIT1) and amino acid permease genes (PUT4, AGP1), indicating enhanced amino acid transport and iron uptake. Our findings demonstrate a coordinated adaptive response in which amino acid trafficking and iron homeostasis act in concert to alleviate DLM-induced ER stress, highlighting conserved stress adaptation mechanisms with potential relevance to human health.",
+    "species_latin": "Saccharomyces cerevisiae",
+    "species_en": "Baker's yeast",
+    "species_zh": "酿酒酵母",
+    "takeaway": "利用多组学方法研究酵母长期暴露溴氰菊酯的适应机制，发现氨基酸代谢与铁稳态协同缓解内质网应激。",
+    "conclusion": "酵母在慢性溴氰菊酯暴露下，通过积累甘氨酸和丝氨酸、上调铁缺乏应答基因及氨基酸通透酶基因，增强氨基酸转运和铁摄取，从而协同缓解内质网应激，揭示保守的应激适应机制，对人类健康研究有潜在意义。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260902-t2t-pangenome",
     "title": "前沿速览：长读长与T2T组装驱动超级/图形/亚泛基因组研究最新进展",
     "type": "wechat",
@@ -51,7 +211,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -103,7 +263,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -684,6 +844,36 @@
     "takeaway": "首个T2T级别瓜祖马染色体基因组，揭示耐旱与类黄酮合成相关基因及染色体演化机制。",
     "conclusion": "构建了首个T2T染色体级瓜祖马基因组，发现其基因组大小与多倍化和转座子动态相关，鉴定出5次染色体融合事件，并发现LEA和GST基因家族通过串联复制扩张，与胁迫响应相关；类黄酮合成基因拷贝数保守但表达具组织特异性，为锦葵科进化及抗逆育种提供核心资源。",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20260903-vital-ppi",
+    "title": "Nature子刊：厦门大学纪志梁/林琛团队开发 VITAL，定量预测多肽-蛋白相互作用并映射结合界面",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "澎湃新闻·生物世界（湃客）",
+    "authors": "",
+    "publish_date": "2026-08-27",
+    "added_at": "2026-09-03",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33853572",
+    "doi": "",
+    "pmid": "",
+    "abstract": "厦门大学纪志梁、林琛团队在 Nature Machine Intelligence（2026-08-19 在线）发表 VITAL：一种界面感知的全局-局部协同学习深度学习框架，融合蛋白质语言模型嵌入与几何感知编码器，可同时完成多肽-蛋白相互作用预测、近残基分辨率界面映射与定量亲和力评估，基准 AUC 最高 0.87，并对新预测互作做了实验验证，已开源并提供在线服务器。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "VITAL 用双通道深度学习把多肽-蛋白互作从“有没有结合”推进到界面定位与结合强度定量。",
+    "conclusion": "VITAL 在多基准达到 SOTA（AUC≤0.87）、界面映射精度>60% 并提出与实验相关的结合强度单位，推动多肽类药物发现从定性筛选转向定量、基于结构的分析。",
+    "keywords": [
+      "蛋白互作预测",
+      "多肽-蛋白相互作用",
+      "深度学习",
+      "蛋白质语言模型",
+      "结合界面",
+      "亲和力预测",
+      "PPI"
+    ]
   },
   {
     "id": "manual-20260902-marmoset-t2t",
@@ -2020,6 +2210,36 @@
       "核酸农药",
       "生物农药",
       "工程菌"
+    ]
+  },
+  {
+    "id": "manual-20260903-msapairformer",
+    "title": "Cell | MIT Ovchinnikov 团队提出 MSA Pairformer：仅用单链训练即可建模蛋白质-蛋白质相互作用协同进化",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "网易（学术媒体解读）",
+    "authors": "",
+    "publish_date": "2026-08-13",
+    "added_at": "2026-09-03",
+    "url": "https://www.163.com/dy/article/L47SEFMU0532BT7X.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "MIT Sergey Ovchinnikov 团队在 Cell 发表 MSA Pairformer，建立在 AlphaFold2/3 序列与成对表示双向细化之上，通过“查询偏置注意力”对多序列比对中的同源序列按与目标序列的进化相关性加权；模型仅用单条蛋白链的 MSA 训练，推理时即可处理配对比对、识别跨蛋白界面的协同进化，界面接触预测较既有方法提升近 3 倍，而参数量仅 1.11 亿（比前沿模型小两个数量级以上）。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "MSA Pairformer 只用单链数据训练就迁移到蛋白-蛋白互作建模，以小两个数量级的参数取得近 3 倍界面接触提升。",
+    "conclusion": "信息丰富的 MSA 架构加查询偏置注意力可提取亚家族特异接触位点、区分结合与非结合序列对，并随序列库扩充免重训提升预测，为低成本发现蛋白互作与界面突变效应提供可迁移工具。",
+    "keywords": [
+      "蛋白互作预测",
+      "蛋白质语言模型",
+      "多序列比对",
+      "MSA Pairformer",
+      "界面接触",
+      "协同进化",
+      "PPI"
     ]
   },
   {
