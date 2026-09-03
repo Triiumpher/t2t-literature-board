@@ -28,6 +28,14 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Safeguard restore literature.json if invalid
+        run: |
+          if ! python3 -c "import json; json.load(open('literature.json'))" 2>/dev/null; then
+            echo "literature.json is invalid/missing; restoring from last known-good commit"
+            git fetch --no-tags --depth=1 origin 621ee121135991d41859abe35c3fd62b8c4ecee1
+            git checkout 621ee121135991d41859abe35c3fd62b8c4ecee1 -- literature.json
+          fi
+
       - name: Fetch multi-board papers (Europe PMC + PubMed + OpenAlex + Scopus)
         env:
           ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
