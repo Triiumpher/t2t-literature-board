@@ -1,0 +1,54 @@
+name: One-shot restore literature.json
+
+on:
+  push:
+    paths:
+      - '.github/workflows/restore-lit.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  restore-and-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+
+      - name: Restore literature.json from last known-good commit if invalid
+        run: |
+          if ! python3 -c "import json; json.load(open('literature.json'))" 2>/dev/null; then
+            echo "literature.json invalid; restoring from 621ee12"
+            git fetch --no-tags --depth=1 origin 621ee121135991d41859abe35c3fd62b8c4ecee1
+            git checkout 621ee121135991d41859abe35c3fd62b8c4ecee1 -- literature.json
+          else
+            echo "literature.json already valid; no restore needed"
+          fi
+
+      - name: Merge manual_inbox shards and fetch recent papers
+        env:
+          ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
+          ELSEVIER_INSTTOKEN: ${{ secrets.ELSEVIER_INSTTOKEN }}
+          OPENAI_API_KEY: ${{ secrets.LLM_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python3 scripts/fetch_literature.py --days 3
+
+      - name: Commit restored literature.json
+        run: |
+          python3 -c "import json; d=json.load(open('literature.json')); print('entries after merge:', len(d))"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add literature.json
+          if git diff --cached --quiet; then
+            echo "无变更, 跳过提交"
+          else
+            git commit -m "chore: restore literature.json and merge manual_inbox 2026-09-04"
+            git push
+          fi
