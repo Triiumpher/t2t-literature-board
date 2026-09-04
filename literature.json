@@ -52,6 +52,110 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42691836",
+    "title": "Neurodevelopmental toxicity of 2-(Methylthio)benzothiazole (MTBT) in zebrafish: Insights into PTGS2- associated dysregulation of the neuroactive ligand-receptor interaction pathway",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Guo L, Ye F, Lei T, Shen Y, Zhang X, Sun L, Zhang Y, Gu J, Ji G.",
+    "publish_date": "2026-09-03",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42691836",
+    "doi": "10.1016/j.ecoenv.2026.120606",
+    "pmid": "42691836",
+    "abstract": "2-(Methylthio)benzothiazole (MTBT), an important derivative of benzothiazoles, has extensive applications in industrial processes, pharmaceuticals, and environmental monitoring. It can enter aquatic environments through surface runoff and has been detected at relatively high concentrations in various environmental systems. However, studies investigating the aquatic toxicity of MTBT remain limited. In this study, zebrafish embryos were exposed to MTBT at concentrations of 0, 10, 100, and 1000 μg/L for 144 h to evaluate its developmental and neurotoxic effects. MTBT exposure significantly reduced the survival rate, hatching rate, spontaneous movement, and body length of zebrafish larvae. MTBT also impaired locomotor behavior, reduced fluorescence of Tg(huc:eGFP) larvae in the central nervous system and inhibited motor neuron axonal development. Protein-protein interaction network and Kyoto Encyclopedia of Genes and Genomes pathway enrichment analyses indicated that MTBT-induced neurotoxicity may be associated with disruption of the neuroactive ligand-receptor interaction pathway. Further validation experiments revealed that MTBT induced oxidative stress, inflammation, and apoptosis, suggesting that these adverse effects may underlie its neurodevelopmental toxicity. Collectively, these findings provide biological evidence that MTBT induces neurodevelopmental toxicity in zebrafish larvae and suggest that dysregulation of the PTGS2-related neuroactive ligand-receptor interaction pathway may be involved in this process.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "斑马鱼胚胎暴露于MTBT后出现发育与神经毒性，涉及PTGS2相关神经活性配体-受体通路失调。",
+    "conclusion": "MTBT暴露降低斑马鱼幼鱼存活率、孵化率、自发运动及体长，损害运动行为、中枢神经荧光和运动神经元轴突发育。机制上，MTBT诱导氧化应激、炎症和凋亡，并通过PTGS2相关神经活性配体-受体相互作用通路失调介导神经毒性。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42692392",
+    "title": "Joint Toxicity and Molecular Mechanisms of Dinotefuran and Pymetrozine to Daphnia magna: An Experimental and Computational Toxicology Study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Wu C, He M, Yuan S, Zhang L, Mao L, Zhu L, Liu X, Chen L.",
+    "publish_date": "2026-09-03",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42692392",
+    "doi": "10.1016/j.envpol.2026.129066",
+    "pmid": "42692392",
+    "abstract": "Combined pesticide applications are ubiquitous in agricultural production, yet the joint toxic effects and associated molecular mechanisms of such mixtures remain largely elusive. Herein, we assessed the acute and chronic toxicities of dinotefuran (DNT) and pymetrozine (PMZ) to Daphnia magna under single-compound and binary-mixture exposures, quantified mixture interaction patterns via the MIXTOX model with Independent Action (IA) model, and elucidated the underlying molecular mechanisms by computational toxicology approaches. Results showed PMZ was 274-fold more acutely toxic than DNT, and mixture toxicity was strictly additive, consistent with IA predictions. Chronic co-exposure to PMZ and DNT induced severe additive reproductive toxicity: total offspring dropped from 497 ± 20 (control) to 27 ± 11, first brood was delayed to day 11, and brood number reduced to 3-5. Acetylcholinesterase (AChE) was suggested as a putative shared target, with binding free energies of DNT-AChE (-14.62 ± 1.74 kcal/mol) and PMZ-AChE (-18.34 ± 2.82 kcal/mol); DFT calculations revealed electronic differences explaining their binding discrepancies. This study addresses the critical data gap in understanding the joint toxicity of DNT and PMZ mixtures, and provides robust experimental and theoretical support for the ecological risk assessment of pesticide co-exposures in aquatic environments.",
+    "species_latin": "Daphnia magna",
+    "species_en": "Water flea",
+    "species_zh": "大型蚤",
+    "takeaway": "以大型蚤为对象，结合实验与计算毒理学揭示呋虫胺和吡蚜酮混合物的加和毒性及分子机制。",
+    "conclusion": "呋虫胺和吡蚜酮对大型蚤的急性毒性呈严格加和，慢性暴露导致繁殖毒性显著加剧，总后代数从497降至27。乙酰胆碱酯酶为共同作用靶点，结合自由能差异与电子结构相关，为农药联合暴露的生态风险评估提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42692218",
+    "title": "Valorization of lignin through zein Co-assembly into green nanopesticides for photostable, sustained-release abamectin delivery with insecticidal efficacy and biosafety",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of biological macromolecules",
+    "authors": "Liang Z, Zhou Z, Chen L, Qiu X.",
+    "publish_date": "2026-09-03",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42692218",
+    "doi": "10.1016/j.ijbiomac.2026.154326",
+    "pmid": "42692218",
+    "abstract": "Industrial alkali lignin is an abundant aromatic biological macromolecule with intrinsic UV shielding ability, but its structural heterogeneity and aqueous self-aggregation limit its use as a stable carrier matrix. Herein, industrial alkali lignin was valorized through zein regulated co-assembly to construct surfactant free hybrid biological macromolecular nanocapsules (LZNP@Abm) for abamectin (Abm) delivery. The composite macromolecular matrix afforded excellent colloidal stability and a loading capacity of 79.22%, and LZNP@Abm retained 74.94% Abm after 72 h of UV irradiation, effectively mitigating photolytic degradation. By integrating lignin derived UV shielding with zein mediated interfacial stabilization and pH and temperature responsive gating, LZNP@Abm suppressed release, with only 34.18% release after 180 h under weakly acidic leaf surface and soil conditions, while accelerating release at pH 9 and 35 °C, conditions relevant to alkaline and warm lepidopteran larval midguts. Molecular dynamics and density functional theory analyses identified key zein residues, including asparagine, serine, and proline, that enhanced Abm binding through cooperative hydrogen bonding and van der Waals interactions. Improved foliar wettability and liquid retention further promoted leaf deposition and reduced potential non-target pesticide loss. LZNP@Abm achieved 5.7-23.5-fold reductions in LC50 against Spodoptera frugiperda and complete mortality of S. litura, restored seed germination to 85.56%, and maintained earthworm survival at 83.33 to 96.67%. This work demonstrates a mechanism informed biopolymer carrier strategy for converting industrial lignin into a functional pesticide delivery platform with photoprotection, controlled release, and improved biosafety.",
+    "species_latin": "Spodoptera frugiperda, Spodoptera litura",
+    "species_en": "fall armyworm, tobacco cutworm",
+    "species_zh": "草地贪夜蛾、斜纹夜蛾",
+    "takeaway": "利用玉米醇溶蛋白调控工业碱木质素共组装，构建光稳定、缓释的阿维菌素纳米农药，提升杀虫效果与生物安全性。",
+    "conclusion": "该纳米胶囊负载量达79.22%，紫外照射72小时保留74.94%阿维菌素；在弱酸性叶面和土壤条件下缓释，碱性高温（pH9,35°C）加速释放。分子模拟揭示天冬酰胺、丝氨酸、脯氨酸等残基通过氢键和范德华力增强结合。对草地贪夜蛾LC50降低5.7-23.5倍，对斜纹夜蛾致死率100%，种子萌发恢复至85.56%，蚯蚓存活率83.33-96.67%，实现工业木质素高值化利用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42691840",
+    "title": "Biochemical and molecular characterization of organophosphate resistance in Aedes aegypti in the sub-Himalayan region of West Bengal, India",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Das S, Das P, Saha A, Ghosh S, Tamang A, Thakur S, Saha D.",
+    "publish_date": "2026-09-03",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42691840",
+    "doi": "10.1016/j.ecoenv.2026.120749",
+    "pmid": "42691840",
+    "abstract": "Continuous use of organophosphate for dengue vector management has increased the risk of resistance development in Aedes aegypti, threatening the effectiveness of current control programmes. This study evaluated susceptibility and mechanisms associated with organophosphate resistance in Ae. aegypti populations from five dengue-endemic districts of sub-Himalayan West Bengal, India. Larvae and adults were subjected to insecticide bioassays, synergist assays, biochemical assays, gene expression analysis, partial sequencing of the acetylcholinesterase gene (ace-1), and molecular docking. Bioassays confirmed malathion resistance (mortality 10) was detected in DAR, JAL and ALI, while UTT showed moderate resistance (RR50=7.31) and COO remained susceptible (RR50=2.52). Pre-exposure to triphenyl phosphate restored susceptibility in most populations, indicating possible carboxylesterase-mediated metabolic resistance. Resistant populations exhibited significantly elevated alpha and beta carboxylesterase activity. Stage-specific overexpression was observed, with CCEae3a (13.68-39.21-fold) overexpressed in resistant larvae, whereas CCEae6a (12.25-33.99-fold) was overexpressed in resistant adults and both positively correlating with resistance phenotypes. Enzyme activity and gene expression were significantly correlated with reduced malathion mortality and increased temephos LC50. Most individuals from JAL, COO and UTT did not exhibit altered AChE activity, while altered activity was detected in < 25% of individuals from DAR and ALI. Partial ace-1 sequence analysis identified no organophosphate resistance-associated polymorphisms within analysed region, suggesting limited role of target-site insensitivity. Molecular docking suggested possible interactions of malathion and temephos with carboxylesterase. These findings provide biochemical and molecular markers for resistance surveillance and support integrated vector management.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "研究印度次喜马拉雅地区白纹伊蚊对有机磷的抗性，发现羧酸酯酶介导的代谢抗性是主要机制。",
+    "conclusion": "该地区白纹伊蚊对马拉硫磷的抗性与羧酸酯酶活性升高及CCEae3a和CCEae6a基因过表达相关，靶标位点不敏感作用有限。研究提供了抗性监测的生化与分子标记，支持综合媒介管理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260904-t2t-banana",
     "title": "Current Biology | 中科院华南植物园联合四川大学完成观赏蕉Musa exotica端粒到端粒（T2T）基因组组装，重建芭蕉科祖先核型",
     "type": "wechat",
