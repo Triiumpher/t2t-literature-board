@@ -22,7 +22,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -48,7 +48,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +74,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -100,7 +100,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +126,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -152,7 +152,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42691695",
+    "title": "Thiol derivatives and CdTe quantum dots as larvicides and biomarkers against the yellow fever mosquito Aedes aegypti",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Chemosphere",
+    "authors": "Freitas DV, Lira-Pimentel CS, Arruda CCL, Aguiar JCROF, Marques DS, Navarro DMAF, Navarro M.",
+    "publish_date": "2026-09-03",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42691695",
+    "doi": "10.1016/j.chemosphere.2026.145080",
+    "pmid": "42691695",
+    "abstract": "The increasing resistance of the yellow fever mosquito, Aedes aegypti, to conventional larvicides underscores the critical need for novel vector control strategies. This work investigates the intrinsic larvicidal activity of free-thiol derivatives (3-mercaptopropionic acid (MPA) and cysteamine (CA)) and evaluates how their specific functional groups (carboxylic acid and amine) govern molecular interactions within the larval digestive system. The free MPA and CA compounds exhibited remarkable larvicidal efficacy against fourth-instar (L4) larvae, presenting LC50 values of 18.34 ± 0.68 mg L-1 and 8.26 ± 0.58 mg L-1, respectively. Ingestion assays revealed that spatial nanoprobe distribution is strictly regulated by the larval intestinal pH gradient and ligand pKa. While negatively charged CdTe-MPA maintained broad colloidal stability across the midgut, CdTe-CA underwent charge neutralization in the alkaline central midgut, triggering localized colloidal deposition at neutral-to-acidic boundaries. Both probes showed strong affinity for chitinous structures, compromising gut homeostasis. This study provides mechanistic proof of concept that surface-charge tailoring can exploit vector physiology for targeted pest control.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "本研究以游离巯基化合物及CdTe量子点探针作用于埃及伊蚊幼虫，发现其具显著杀蚊活性并揭示表面电荷调控靶向杀虫机制。",
+    "conclusion": "游离MPA和CA对四龄幼虫有高效杀灭作用，LC50分别为18.34和8.26 mg/L。量子点探针在幼虫肠道内的分布受pH梯度和配体pKa调控，CdTe-CA在中肠碱性区发生电荷中和并沉积，两者均结合几丁质结构，破坏肠道稳态，证明表面电荷调控可靶向害虫防治。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -391,7 +417,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -417,7 +443,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -443,7 +469,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -469,7 +495,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -495,7 +521,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -544,6 +570,32 @@
     "species_zh": "黑腹果蝇",
     "takeaway": "对40余万天然产物进行多阶段虚拟筛选，结合体外实验发现两个具乙酰胆碱酯酶抑制活性的化合物，其中一个为可优化先导物。",
     "conclusion": "通过虚拟筛选与体外验证，从天然产物中鉴定出两个对电鳗及果蝇乙酰胆碱酯酶有显著抑制作用的化合物，最强者呈混合型抑制（Ki=88.1μM），为开发可持续生物农药提供了廉价、可逆、可挥发的优化骨架。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42693671",
+    "title": "Cytotoxic and Immunological Effects of Terpinolene and 1-butyl-3,4-methylenedioxybenzene on Aedes aegypti Larvae",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Archives of insect biochemistry and physiology",
+    "authors": "Ferreira Fernandes MCDN, Cruz GDS, Silva JGMD, Navarro DMDAF, Princival JL, de Aguiar JCROF, Lapa-Neto CJC, Pontual EV, Teixeira ÁAC, Teixeira VW.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42693671",
+    "doi": "10.1002/arch.70212",
+    "pmid": "42693671",
+    "abstract": "Interactions between biomolecules and their target sites are fundamental to pest control, and such relationships can either intensify or inhibit their effects. A broader understanding of these complex interactions aids in interpreting toxicological responses, while physiological changes can elucidate insect metabolic pathways. Research involving terpinolene and 1-butyl-3,4-methylenedioxybenzene (BMDB) has demonstrated their insecticidal activity against Aedes aegypti. However, the effects of these substances on physiological and immunological parameters require further clarification; furthermore, the binary combination of these compounds may result in more significant and permanent damage. Thus, this study aimed to test the hypothesis that combining different modes of action would intensify histological and immunological alterations critical to insect survival, thereby enabling more effective control. To this end, LC50 values for the individual compounds were obtained from the literature (Silva et al. 2016), and a dose-response curve was established for the 1:1 combination, revealing an LC50 of 75.69 ± 2.37 ppm. The cytotoxic parameters evaluated included midgut histology, apoptosis, and cell proliferation in L4-stage larvae, while immunological parameters evaluated included phenoloxidase activity, nitric oxide levels, and oxidative stress markers (TBARS and GST). Histological changes in the midgut were observed in all treatment groups compared to the control; however, more severe histopathological alterations-such as vacuolization, cellular swelling, and loss of the peritrophic matrix-were observed in the combined treatment. Regarding apoptosis, a significant increase was observed only in treatments containing BMDB, whether alone (2.66 ± 0.66) or in combination (3.33 ± 0.33), compared to the control (0.5 ± 0.54). As for cell proliferation (PCNA), larvae in the combined group exhibited a lower rate (0.50 ± 0.11) compared to terpinolene (1.33 ± 0.12) and BMDB (1.40 ± 0.15). Reductions in phenoloxidase activity (1.026 ± 0.061 OD/min/mg) and nitric oxide levels (0.878 ± 0.034 µM/mL) were observed in the combined group. Regarding oxidative stress, there was no statistical difference in GST measurements (p > 0.05), whereas TBARS levels decreased in the combined group (2.497 ± 0.184 nmol MDA/mg/protein) compared to the control (3.401 ± 0.327 nmol MDA/mg/protein). Thus, despite exhibiting lower larvicidal activity compared to the isolated compounds, the binary combination caused more severe histopathological and immunological damage that compromises larval survival and recovery capacity, representing a promising strategy for integrated vector management.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "研究萜品油烯与BMDB单剂及复配对埃及伊蚊幼虫的细胞毒性与免疫毒性，复配增效更显著。",
+    "conclusion": "复配处理导致中肠组织严重损伤、细胞凋亡增加、增殖降低，酚氧化酶活性与一氧化氮水平下降，氧化应激无显著变化，表明联合用药通过多重机制增强杀虫效果。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -3459,6 +3511,32 @@
     "species_zh": "",
     "takeaway": "武汉植物园莲种质资源与遗传育种研究团队联合多家单位完成莲端粒到端粒（T2T）基因组组装，填补莲属完整无缺口高质量参考基因组空白，为莲驯化演化解析与分子育种提供基础。",
     "conclusion": ""
+  },
+  {
+    "id": "pmid-42518304",
+    "title": "Paving the Way for Plant-Based Bioproduction of (Z)-13-Octadecenoic Moth Pheromone Compounds",
+    "type": "paper",
+    "boards": [
+      "cmed"
+    ],
+    "source": "Plant biotechnology journal",
+    "authors": "Liu M, Li H, Jin H, Xiao Y, He P, Tan C, Wang HL, Lassance JM, Löfstedt C, Ding BJ.",
+    "publish_date": "2026-07-28",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42518304",
+    "doi": "10.1111/pbi.70733",
+    "pmid": "42518304",
+    "abstract": "Sex pheromones are eco-friendly agents to control pest insects. Yet, the cost of synthetic pheromone production has restricted their use essentially to high value crops. Plant-based bioproduction of pheromone compounds offers a promising and sustainable alternative, opening up for the deployment of pheromone-mediated pest control also in row crops. The rice leaffolder Cnaphalocrocis medinalis uses C18 pheromone compounds and is a major rice pest in South China. We demonstrate that the fatty acid precursor of the main C18 pheromone component of Cnaphalocrocis medinalis, (Z)-13-octadecenal, can be biotechnologically produced using the oilseed crop Camelina sativa. First, we used deuterium-labelling to establish an elongation-based pathway for pheromone precursor formation from hexadecanoic (palmitic) acid via desaturation to (Z)-11-hexadecenoic acid and elongation to (Z)-13-octadecenoic acid. Using transient expression in Nicotiana benthamiana, we identified a minimal pathway consisting of a ∆11 desaturase (CmedDES1), an elongase (CmedELO1), and a fatty acyl reductase (CmedFAR2) for the heterologous biosynthesis of long-chain monounsaturated C18 precursors in planta. Co-expression of the insect desaturases CmedDES1 or CsupYPAQ with the Camelina elongase CsaKCS1 in Nicotiana benthamiana resulted in higher production of Z13-18 products compared to co-expression with insect elongases. We finally engineered Camelina sativa seeds through seed-specific co-expression of the Z11-16-forming insect desaturase CsupYPAQ and CsaKCS1 elongase, enabling the accumulation of C18 fatty acid pheromone precursors. Our study paves the way for sustainable production of the sex pheromone of Cnaphalocrocis medinalis and other C18 monounsaturated pheromone precursors for crop protection.",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaffolder",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "利用油料作物亚麻荠种子工程化生产稻纵卷叶螟性信息素前体(Z)-13-十八碳烯酸，为可持续害虫防控提供新途径。",
+    "conclusion": "本研究通过同位素标记和瞬时表达，鉴定了昆虫脂肪酸合成途径，并在本氏烟中验证了最小通路。最终在亚麻荠种子中特异性共表达昆虫脱饱和酶和植物延长酶，成功积累C18前体，为稻纵卷叶螟性信息素的可持续生产奠定基础。",
+    "keywords": [
+      "稻纵卷叶螟功能基因组学"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42526241",
