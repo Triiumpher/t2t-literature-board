@@ -417,7 +417,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1002,6 +1002,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42687292",
+    "title": "Dual-Enzyme Capillary Flow-Driven Microfluidic Sensor for Multiplexed Screening of Occupational and Take-Home Pesticide Exposure",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS sensors",
+    "authors": "Hefner CE, Aryal P, Elam T, Brack E, Henry CS.",
+    "publish_date": "2026-08-28",
+    "added_at": "2026-09-04",
+    "url": "https://europepmc.org/article/MED/42687292",
+    "doi": "10.1021/acssensors.6c01184",
+    "pmid": "42687292",
+    "abstract": "Over 3.7 million tons of pesticides are applied each year in agriculture to maintain crop production. However, mixing, loading, and spraying expose agricultural workers to pesticide residues. Beyond occupational exposure, take-home pathways, where residues on gloves, clothing, and tools are transported into vehicles and homes, pose additional risks to families, especially vulnerable children. Pesticide exposure has been linked to nausea, respiratory distress, neurological impairment, and endocrine disruption, underscoring the need for effective monitoring in both occupational and domestic settings. Conventional analytical methods are costly, require trained personnel, and rely on bulky instruments, limiting their suitability for rapid, on-site screening. Paper-based microfluidic devices have recently emerged as low-cost, portable tools for environmental monitoring, capable of integrating colorimetric enzyme assays on disposable platforms. Yet, the most current systems detect only a single pesticide class, limiting their applicability to complex real-world mixtures. To address this, we developed a dual-enzyme microfluidic device for simultaneous colorimetric screening of representative organophosphate and dithiocarbamate pesticides dichlorvos and ziram, respectively. The system is simple (two steps), low-cost (<$1/test), and user-friendly, enabling rapid field deployment and citizen-based monitoring. Detection limits of 0.15 ppm for dichlorvos and 0.02 ppm for ziram enable environmentally relevant quantification. Testing spiked pesticide residues on leather, denim, and cotton substrates yielded recovery rates of 51-148% for dichlorvos and 29-84% for ziram, demonstrating suitability for monitoring residues on common clothing materials. This dual-enzyme platform provides a practical advance toward accessible, multi-target pesticide exposure monitoring across occupational and household settings.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "开发双酶纸基微流控传感器，一步法同时比色检测有机磷（敌敌畏）和二硫代氨基甲酸酯（代森锌）农药残留，成本低于1美元。",
+    "conclusion": "该双酶微流控平台可快速、低成本筛查职业及居家的农药暴露，检出限敌敌畏0.15 ppm、代森锌0.02 ppm，在皮革、牛仔布和棉布上的回收率分别为51-148%和29-84%，适用于衣物残留监测，为多靶点农药暴露监测提供实用方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
