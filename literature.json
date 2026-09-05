@@ -84,6 +84,84 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42697702",
+    "title": "T2T genomes of Caenorhabditis nigoni and Caenorhabditis briggsae reveal divergence in satellite DNA abundance",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genome research",
+    "authors": "Pellow R, Kotikalapudi M, Rog O.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697702",
+    "doi": "10.1101/gr.281988.126",
+    "pmid": "42697702",
+    "abstract": "The two closely related nematode species Caenorhabditis nigoni and Caenorhabditis briggsae, are commonly used to study the evolution of reproductive modes in animals, with the self-fertile C. briggsae and outcrossing C. nigoni sharing a common ancestor ~3.5 million years ago. Earlier genomic analyses revealed that selfing Caenorhabditis species have smaller genomes and proposed that at least some gene loss in C. briggsae is adaptive. However, the incomplete C. nigoni reference genome has limited most comparative analyses to genic regions. Here, we leverage long-read sequencing to generate and annotate telomere-to-telomere (T2T) assemblies for the C. nigoni strain JU1422 and the C. briggsae strain AF16. This new 139 Mb C. nigoni genome resolves 57 gaps and 149 unassigned scaffolds from the previous genome assembly. A major driver of the size difference with the 107 Mb T2T C. briggsae genome is the abundance of satellite DNA, which accounts for 12.8 Mb (9.2%) in C. nigoni and only 3. 2Mb (3.0%) in C. briggsae Notably, the C. nigoni X Chromosome is 13.4 Mb larger than in the previous assembly, making it 60% larger than the C. briggsae X Chromosome compared with 18-26% difference for the autosomes. We also document a surprising degree of plasticity in the ribosomal DNA, with the C. nigoni X Chromosome harboring a second 45S rDNA array that is absent in C. briggsae The hitherto undocumented divergence in the abundance of repetitive DNA elements makes the new genomes an invaluable resource for genomic analysis.",
+    "species_latin": "Caenorhabditis nigoni",
+    "species_en": "nematode",
+    "species_zh": "线虫",
+    "takeaway": "利用长读长测序组装线虫C. nigoni和C. briggsae的端粒到端粒基因组，发现卫星DNA丰度差异是基因组大小差异主因。",
+    "conclusion": "C. nigoni基因组139 Mb，比C. briggsae的107 Mb大，主要因卫星DNA丰度差异（9.2% vs 3.0%）。C. nigoni X染色体比C. briggsae大60%，且含第二个45S rDNA阵列。这些重复序列的差异为基因组进化提供新资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42697351",
+    "title": "Antiviral responses of Aedes mosquitoes to Old World alphaviruses",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Acta tropica",
+    "authors": "Ong YJ, Chan YF, Lee WC, Sam IC.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697351",
+    "doi": "10.1016/j.actatropica.2026.108314",
+    "pmid": "42697351",
+    "abstract": "Aedes (Ae.) aegypti and Ae. albopictus are efficient vectors of medically important Old World alphaviruses including chikungunya virus. In contrast to the well-characterized responses to orthoflavivirus infections, antiviral defense against alphaviruses in Aedes mosquitoes remains comparatively underexplored. This review summarizes current knowledge of antiviral defense mechanisms in Ae. aegypti and Ae. albopictus, integrating insights from both intrinsic immune responses and extrinsic antiviral factors to translational relevance. RNA interference (RNAi) dominates the antiviral defense against alphaviruses, whereas canonical immune signaling pathways, including Toll, IMD, JAK/STAT and JNK demonstrate relatively limited, transient or species-specific activity. To establish persistent infections, alphaviruses have developed various immune evasion strategies, such as the expression of viral suppressors of RNAi (VSRs) as an RNAi counter-mechanism. Beyond acute antiviral responses, piRNAs derived from viral-derived DNA (vDNA) and endogenous viral elements (EVE) have been proposed to contribute to long-term immune memory. In addition to intrinsic immune defenses, superinfection exclusion and Wolbachia infection further shape vector competence to alphaviruses. Together, this review describes RNAi as the central defense relative to the context-dependent canonical signaling pathways, extrinsic factors to influence vector competence such as microbial interaction and superinfection exclusion, and highlights key concepts and challenges necessary for designing effective and sustainable arbovirus control strategies.",
+    "species_latin": "Aedes aegypti, Aedes albopictus",
+    "species_en": "yellow fever mosquito, Asian tiger mosquito",
+    "species_zh": "埃及伊蚊、白纹伊蚊",
+    "takeaway": "综述埃及伊蚊和白纹伊蚊抵抗甲病毒属(如基孔肯雅病毒)的免疫机制, 指出RNA干扰为核心防御途径。",
+    "conclusion": "RNAi是伊蚊抗甲病毒的主要防御机制, 而Toll、IMD、JAK/STAT等经典信号通路作用有限且具物种特异性。甲病毒通过编码VSRs逃逸RNAi, 病毒衍生DNA和内生病毒元件产生的piRNA可能参与长期免疫记忆。此外, 超感染排斥和沃尔巴克氏体感染可影响媒介能力。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42697401",
+    "title": "Semiconductor-Noble Metal Composites for Synergistic SERS Sensing and In-situ Photocatalytic Degradation Monitoring of Novel Neonicotinoid-like Pesticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Xie Y, Chen L, Huang X, Lin W, Chen H, Li Y, Luo X, Zhang Y.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697401",
+    "doi": "10.1016/j.envres.2026.125606",
+    "pmid": "42697401",
+    "abstract": "Photochemical removal of pollutants may generate more toxic intermediates, thus, identifying the degradation products of emerging contaminants is crucial for risk assessment. Flupyradifurone (FPF) is a novel butenolide insecticide highly effective against sucking pests, including those resistant to neonicotinoids. However, its widespread use has raised environmental and food safety concerns, while studies on its environmental fate remain limited. Leveraging SERS unique fingerprinting and in-situ monitoring properties, a novel semiconductor-noble metal composite ZnO@Ag/COF was synthesized. Endowed with synergistic SERS enhancement and photocatalytic degradation performance, this ternary system achieves pronounced synergistic effect, with its performance surpassing that of the binary counterpart in both SERS enhancement and photocatalytic degradation and \"detection-degradation-monitoring\" integration, thus enabling the first direct SERS detection and in-situ monitoring of FPF's photocatalytic degradation. Through material optimization, the material exhibited a high SERS enhancement factor of up to 4.35 × 106, with excellent reproducibility and stability. Furthermore, under simulated solar irradiation, an integrated platform coupling photocatalytic degradation and multi-mode monitoring was established. SERS, UV-Vis, fluorescence and HPLC-HRMS were applied to real-time monitor FPF's concentration changes and transformation pathways, track degradation intermediate evolution, and elucidate its dominant photocatalytic transformation mechanisms. This research not only fills the gap of Raman technology in detecting FPF, but also establishes a multifunctional platform integrating rapid detection, dynamic monitoring, and efficient degradation, demonstrating significant potential for environmental applications.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "构建ZnO@Ag/COF三元复合材料，实现新型杀虫剂氟吡呋喃酮的SERS检测与光催化降解同步监测。",
+    "conclusion": "ZnO@Ag/COF复合材料兼具SERS增强和光催化降解性能，协同效应优于二元材料，增强因子达4.35×10^6。在模拟太阳光下，该平台可实时监测氟吡呋喃酮的浓度变化和降解路径，阐明其转化机制，为环境风险评估提供多功能工具。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260905-nanopesticide-size",
     "title": "Advanced Agrochem | 植保所揭示粒径是平衡纳米杀虫剂有效性与非靶标安全性的关键因素",
     "type": "wechat",
@@ -2065,6 +2143,32 @@
     ]
   },
   {
+    "id": "pmid-42697684",
+    "title": "Ailanthone exerts insecticidal activity as a non-orthosteric 20E antagonist by promoting ecdysone receptor degradation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Li B, Gao X, Sun R, He Q.",
+    "publish_date": "2026-08-26",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697684",
+    "doi": "10.1016/j.pestbp.2026.107316",
+    "pmid": "42697684",
+    "abstract": "Ailanthone, a natural quassinoid from Ailanthus altissima, has been reported to exhibit insecticidal activity, yet its molecular mechanism remains elusive. Here, we show that ailanthone acts as a non-orthosteric inhibitor of 20-hydroxyecdysone (20E) signaling by promoting ubiquitin-proteasome-dependent degradation of the ecdysone receptor (EcR). In both Drosophila melanogaster and Ostrinia furnacalis, ailanthone treatment inhibited insect growth and metamorphosis. Mechanistically, in D. melanogaster, these developmental defects were attributable to disruption of 20E signaling, as evidenced by suppressed expression of 20E early response genes. We further found that ailanthone suppresses 20E signaling not through competitive binding to the EcR ligand-binding pocket. Instead, it promotes ubiquitination and proteasomal degradation of EcR, leading to EcR depletion. This degradation is associated with reduced interaction between EcR and the chaperone Hsp83. These results identify a novel mode of 20E antagonism and highlight ailanthone as a promising lead compound for further development as an insect growth regulator.",
+    "species_latin": "Drosophila melanogaster, Ostrinia furnacalis",
+    "species_en": "fruit fly, Asian corn borer",
+    "species_zh": "黑腹果蝇、亚洲玉米螟",
+    "takeaway": "臭椿苦酮通过促进蜕皮激素受体降解，非竞争性抑制20E信号，展现杀虫活性。",
+    "conclusion": "臭椿苦酮作为非正构位点20E拮抗剂，通过促进EcR泛素-蛋白酶体降解（与Hsp83相互作用减少相关）抑制昆虫生长和变态，为新型昆虫生长调节剂开发提供先导化合物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260904-whitefly-trim37",
     "title": "PNAS | 中国农科院张友军团队揭示TRIM37泛素化“天平”同时调控烟粉虱新烟碱类抗性与生殖适合度代价",
     "type": "wechat",
@@ -2324,6 +2428,32 @@
     "species_zh": "大鼠",
     "takeaway": "研究绿色合成姜黄素包被银纳米颗粒对毒死蜱暴露青春期雄性大鼠海马组织的影响，发现其未改善毒死蜱引起的生化改变。",
     "conclusion": "毒死蜱暴露显著改变大鼠海马组织乙酰胆碱酯酶活性和丙二醛水平，但姜黄素包被银纳米颗粒未显著逆转这些变化，也未改善组织病理损伤，提示该纳米制剂在青春期大鼠中保护作用有限。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42697635",
+    "title": "Hexaconazole enantiomers drive the dissemination and risks of antibiotic resistance genes in the soil-earthworm system",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Shan M, Wang J, Chen W, Zheng C, Zhang L, Yu Y, Han L, Fang H.",
+    "publish_date": "2026-08-25",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697635",
+    "doi": "10.1016/j.pestbp.2026.107319",
+    "pmid": "42697635",
+    "abstract": "Chiral fungicides constitute a substantial proportion of commonly used pesticides; however, the spread of antibiotic resistance genes (ARGs) in agricultural settings under repeated exposure to different enantiomers is still unclear. Here, the prevalence and potential risks of ARGs were investigated in the soil-earthworm ecosystem when exposed to hexaconazole (HEX) enantiomers. Metagenomic analysis indicated that R-HEX and S-HEX facilitated the dissemination of ARGs in soil without earthworms, but this effect diminished with successive exposures. Notably, S-HEX exhibited a greater effect on ARG profiles compared to R-HEX. Furthermore, HEX enantiomers, particularly S-HEX, increased the mobility potential of ARGs and enhanced host pathogenicity, thereby contributing to elevated ecological risks. Specifically, exposure to the HEX enantiomer led to an enrichment of dominant pathogenic ARG hosts, such as Enterobacteriaceae. Importantly, earthworms alleviated the enantiomer-driven dissemination of ARGs and weakened their association with mobile genetic elements (MGEs). Overall, this study offers novel perspectives on the enantiomer-driven propagation of ARGs induced by the chiral pesticide hexaconazole in soil and highlights the role of earthworms in mitigating ARG contamination. These findings contribute significantly to the risk assessment and remediation strategies for chiral pesticides.",
+    "species_latin": "",
+    "species_en": "earthworm",
+    "species_zh": "蚯蚓",
+    "takeaway": "研究六氯康唑对映体在土壤-蚯蚓系统中对抗生素抗性基因传播的影响，发现S-型促进传播，蚯蚓可缓解。",
+    "conclusion": "六氯康唑对映体促进土壤中ARGs传播，S-型作用更强，增加ARGs移动性和宿主致病性，富集致病菌。蚯蚓可减轻对映体驱动的ARGs传播，降低其与MGEs关联，为 chiral 农药风险评估和修复提供新视角。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -2984,6 +3114,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42697681",
+    "title": "Functional characterization of ABC transporters in chlorpyrifos resistance in Nilaparvata lugens",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Xiao T, Deng M, Wang W, Lu K.",
+    "publish_date": "2026-08-20",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697681",
+    "doi": "10.1016/j.pestbp.2026.107312",
+    "pmid": "42697681",
+    "abstract": "ATP-binding cassette (ABC) transporters play important roles in insecticide resistance, but their functional contributions and structural basis of substrate recognition remain poorly understood. Here, we demonstrate that ABCG9 is an important determinant of chlorpyrifos resistance in Nilaparvata lugens, a destructive rice pest throughout Asia. Verapamil synergism suggested the involvement of active efflux, and expression profiling identified ABCB7, ABCC5, and ABCG9 as constitutively upregulated in the resistant strain and inducible by chlorpyrifos. However, only RNAi-mediated knockdown of ABCG9 significantly increased chlorpyrifos susceptibility, suggesting that this transporter plays a critical role in chlorpyrifos resistance in N. lugens. Structural analysis revealed that ABCG9 adopts a canonical ABCG half-transporter architecture with a conserved N-terminal nucleotide-binding domain (NBD) and a C-terminal transmembrane domain (TMD) containing six helices. Molecular docking and dynamics simulations showed that chlorpyrifos binds within a hydrophobic pocket at the TMD cavity entrance, stabilized primarily by van der Waals interactions (ΔGvdW = -39.04 kcal/mol), with a total binding free energy of -33.46 kcal/mol. Notably, the predicted hydrogen bond was transient, whereas hydrophobic contacts persisted throughout the 100 ns simulation, highlighting the importance of dynamic approaches over static docking alone. These findings identify ABCG9 as a phase III efflux transporter completing the chlorpyrifos detoxification cascade and provide structural insights into substrate recognition by insect ABCG transporters.",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "本研究通过功能与结构分析，发现ABCG9转运蛋白是褐飞虱对毒死蜱产生抗性的关键因子。",
+    "conclusion": "ABCG9通过主动外排毒死蜱参与解毒过程，其敲低可显著增加褐飞虱对毒死蜱的敏感性。结构分析显示毒死蜱结合于ABCG9跨膜结构域疏水口袋，主要依靠范德华力稳定，为理解昆虫ABCG转运蛋白底物识别及抗性机制提供了结构基础。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42653980",
     "title": "In Silico Methods Applied in Drug and Pesticide Discovery",
     "type": "paper",
@@ -3003,6 +3159,32 @@
     "species_zh": "",
     "takeaway": "综述计算机模拟方法在药物与农药发现中的应用，强调其加速活性分子筛选与优化。",
     "conclusion": "计算机模拟方法已深度融入药物与农药发现流程，显著提升活性分子识别与优化效率，成为现代研发不可或缺的工具。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42697680",
+    "title": "Chitosan/carboxylated multi-walled carbon nanotube nanohybrid for hymexazol delivery: synergistic antifungal mechanism, controlled release kinetics and enhanced control efficacy against Sclerotinia sclerotiorum",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Zhang Y, Ma C, Niu K, Xu M, Zhao L, Cheng C, Yang Y, Hou W.",
+    "publish_date": "2026-08-19",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697680",
+    "doi": "10.1016/j.pestbp.2026.107311",
+    "pmid": "42697680",
+    "abstract": "Nano-enabled pesticide formulations have emerged as a promising strategy to enhance fungicide bioavailability, achieve controlled release, and minimize off-target effects in sustainable agriculture. A hymexazol-loaded chitosan/carboxylated multi-walled carbon nanotube nanohybrid (Hymexazol@CS/c-MWCNTs, HCC) was developed as a nano-pesticide formulation for the green control of Sclerotinia sclerotiorum (S. sclerotiorum) in rapeseed. Chitosan/carboxylated MWCNTs (CS/c-MWCNTs) were obtained by EDC/NHS-mediated amide coupling between chitosan and carboxylated MWCNTs, and HYM was loaded at a 5:5 (w/w) ratio, affording a loading efficiency of about 61.64% and a porous three-dimensional network favorable for pesticide encapsulation and release. The sustained release of HYM from HCC was pH/temperature responsive, well described by a first-order kinetic model (R2 > 0.90). Furthermore, HCC significantly improved HYM photostability under UV irradiation and reduced its leaching in soil columns. In vitro antifungal assays revealed that HCC exhibited the strongest inhibition. At 200 μg/mL, the inhibition rates of HCC against S. sclerotiorum mycelial growth were 96.07%, with EC50 values of 11.29 μg/mL. Relative electrical conductivity, propidium iodide staining and electron microscopy confirmed that HCC severely damaged the cell wall and membrane structure of hyphae, causing electrolyte leakage and collapse. Greenhouse pot experiments on rapeseed demonstrated that HCC achieved a control efficacy of 73.33% at 200 μg/mL, superior to free HYM (63.64%) and CS/c-MWCNTs (51.67%). These results indicate that HCC is a promising nano-pesticide platform combining high antifungal efficacy, controlled release and improved environmental safety and offers a perspective for developing sustainable agriculture.",
+    "species_latin": "Sclerotinia sclerotiorum",
+    "species_en": "Sclerotinia stem rot fungus",
+    "species_zh": "油菜菌核病菌",
+    "takeaway": "构建负载恶霉灵的壳聚糖/羧基化多壁碳纳米管纳米杂化物，用于防治油菜菌核病，具pH/温度响应缓释及增效作用。",
+    "conclusion": "该纳米制剂载药效率约61.64%，缓释符合一级动力学，显著提高光稳定性并减少土壤淋溶。体外抑菌EC50为11.29 μg/mL，200 μg/mL时抑制率达96.07%，通过破坏菌丝细胞壁和膜结构发挥杀菌作用。温室试验防效达73.33%，优于游离药物和载体，为可持续农业提供高效安全纳米农药平台。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -3147,6 +3329,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42697677",
+    "title": "A co-delivery nanosystem of dsRNA and nitenpyram for insecticide resistance management in Nilaparvata lugens",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "He C, Liao Z, Li Z, Zhang H, Wu H, Wang M, Gao Y, Gao C.",
+    "publish_date": "2026-08-17",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697677",
+    "doi": "10.1016/j.pestbp.2026.107308",
+    "pmid": "42697677",
+    "abstract": "Nilaparvata lugens has evolved high resistance to neonicotinoid insecticides such as nitenpyram (NTP), driven by detoxification-associated genes. RNA interference (RNAi) can suppress these genes and restore insecticide susceptibility, but delivering double-stranded RNA (dsRNA) in the field remains a major challenge because naked dsRNA degrades within hours. To overcome this barrier, a layered double hydroxide (LDH)-based nanocarrier for co-delivery of dsRNA and NTP (dsRNA@NTP@LDH) was developed. The nanoplatform was synthesized by one-step co-precipitation and electrostatic dsRNA adsorption, then characterized for size, charge, morphology, loading efficiency, and dsRNA protection. Optimal loading occurred at a 1:4 dsRNA:NTP@LDH mass ratio. LDH encapsulation protected dsRNA from RNase A degradation (retaining ∼160-fold more intact dsRNA than free dsRNA) and promoted its foliar uptake, systemic translocation, and retention in rice plants. Microinjection confirmed that silencing NlCYP6ER1 or NlERK significantly enhanced NTP susceptibility, raising mortality from 15.0% to 91.7% and 58.3%, respectively. Foliar spray of dsNlCYP6ER1@NTP@LDH and dsNlERK@NTP@LDH achieved 4.6-fold and 1.7-fold synergistic effects, respectively. This work establishes the integrated dsRNA-insecticide co-delivery nanoplatform that enables field-applicable foliar spray RNAi to combat neonicotinoid resistance in N. lugens, offering a highly specific and environmentally compatible resistance management strategy.",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "构建LDH纳米载体共递送dsRNA与烯啶虫胺，通过RNAi抑制解毒基因，恢复褐飞虱对杀虫剂敏感性，实现田间叶面喷施抗性治理。",
+    "conclusion": "LDH纳米平台可保护dsRNA免受降解并促进植物吸收转运。沉默NlCYP6ER1或NlERK显著增强烯啶虫胺致死率，叶面喷施协同增效达4.6倍和1.7倍，为防治褐飞虱抗性提供特异环保策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260902-greensilencer-dsrna",
     "title": "GreenSilencer：用工程菌“细菌工厂”规模化生产dsRNA，让绿色RNA农药自己长出来",
     "type": "wechat",
@@ -3174,6 +3382,32 @@
       "生物农药",
       "工程菌"
     ]
+  },
+  {
+    "id": "pmid-42697666",
+    "title": "Corrigendum to \"Transcriptome analysis reveals the pheromone synthesis mechanism and mating response in Monochamus saltuarius (Coleoptera, Cerambycidae)\" [Pesticide Biochemistry and Physiology, 2024, 203, 105975]",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Niu Y, Chi Y, Xu Y, Zhang S, Shi F, Zhao Y, Li M, Zong S, Tao J.",
+    "publish_date": "2026-08-13",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697666",
+    "doi": "10.1016/j.pestbp.2026.107297",
+    "pmid": "42697666",
+    "abstract": "",
+    "species_latin": "Monochamus saltuarius",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "更正论文，涉及松褐天牛信息素合成机制与交配响应的转录组分析。",
+    "conclusion": "该文为对原文的更正，原文通过转录组分析揭示了松褐天牛的信息素合成机制及交配响应。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "manual-20260903-msapairformer",
@@ -3204,6 +3438,32 @@
       "协同进化",
       "PPI"
     ]
+  },
+  {
+    "id": "pmid-42697675",
+    "title": "Molecular docking in pesticide resistance research: Applications, advances, limitations, and experimental validation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Dong X, Li J, Zhang R, Shao B, Yang X, Zhou Q, Xu H.",
+    "publish_date": "2026-08-12",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697675",
+    "doi": "10.1016/j.pestbp.2026.107306",
+    "pmid": "42697675",
+    "abstract": "Pesticide resistance has emerged as a primary constraint on sustainable agriculture, reducing crop yields and directly menacing threatening global food security. Molecular docking, a key technique in computer-aided molecular design, offers significant advantages for addressing this challenge, including computational efficiency and capacity for high-throughput screening. These advancements have facilitated the increasingly diverse application of molecular docking in research on pesticide resistance. It can be used to aid in the analysis of resistance mechanisms and accelerate the discovery and screening of new pesticides. As a result, it has established itself as an effective tool for analyzing resistance mechanisms and supporting new pesticide development. It is worth noting that the deep integration of molecular docking with artificial intelligence has provided new insights into the mechanisms of pesticide resistance, facilitated the efficient discovery and rational design of novel pesticides, and further expanded the scope of its application in pesticide optimization and development. However, due to limitations in scoring functions, protein flexibility, and computational models, the results obtained from molecular docking are computational predictions and typically require comprehensive evaluation in conjunction with experimental data. Accordingly, this review provides a systematic analysis molecular docking in pesticide resistance research, including its core principles, specific applications, integration with artificial intelligence, limitations, and the necessity of experimental validation.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述分子对接在农药抗性研究中的应用、进展、局限及实验验证必要性，强调其与AI结合助力抗性机制解析和新农药开发。",
+    "conclusion": "分子对接是分析农药抗性机制和加速新农药筛选的有效工具，与人工智能深度融合可拓展其应用。但受评分函数、蛋白柔性等限制，结果仅为计算预测，需结合实验数据综合评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42580335",
@@ -3283,6 +3543,58 @@
     "species_zh": "",
     "takeaway": "T2T联盟在 Cell 与 Cell Genomics 以12篇系列论文形式发布通用标准样本 HG002 的分相二倍体完整基因组 T2T-HG002v1.1，是目前覆盖度、准确度最高的人类基因组基准，首次实现对全基因组（除rDNA阵列外）的",
     "conclusion": ""
+  },
+  {
+    "id": "pmid-42697674",
+    "title": "Genomic analysis of regulatory mechanisms governing EPS66A biosynthesis in Streptomyces changanensis HL-66",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Li A, Zhang J, Yu T, Wu H, Hao J, Gao J, Han L.",
+    "publish_date": "2026-08-10",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697674",
+    "doi": "10.1016/j.pestbp.2026.107305",
+    "pmid": "42697674",
+    "abstract": "Streptomyces changanensis HL-66 produces the α-(1,4)/(1,6)-glucan exopolysaccharide EPS66A, a potent plant immune elicitor with promising applications in plant protection. However, its low native fermentation yield limits large-scale application. To investigate the biosynthetic potential and regulatory mechanisms underlying EPS66A production, the whole genome of HL-66 was sequenced and analyzed. The HL-66 genome is 6.82 Mb in size, with a GC content of 74%, and encodes 6081 predicted functional genes. Among these, 1390 genes were annotated to Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways, 4187 were assigned to Gene Ontology (GO) terms, and 143 were classified into Clusters of Orthologous Groups (COG) categories. antiSMASH analysis identified 22 secondary metabolite biosynthetic gene clusters, including multiple polyketide synthase (PKS) and nonribosomal peptide synthetase (NRPS) clusters. Functional analyses revealed that the glycosyltransferase gene (GTy) and the global regulatory gene (bldD) are involved in EPS66A biosynthesis. bldD is involved in morphological development and EPS66A production, whereas GTy specifically regulates EPS66A production without affecting growth or development. In both in vivo and potted-plant experiments, EPS66A (200 μg/mL) significantly reduced the severity of tobacco mosaic virus, apple anthracnose leaf spot, walnut bacterial leaf spot, and jujube anthracnose, achieving control efficacies of 90.21%, 87.95%, 77.41%, and 68.55%, respectively, and outperforming a commercial chitosan oligosaccharide control. These findings provide new insights into the genetic architecture and regulatory mechanisms of EPS66A biosynthesis and support its development as a polysaccharide-based green pesticide.",
+    "species_latin": "Streptomyces changanensis",
+    "species_en": "Streptomyces changanensis",
+    "species_zh": "长安链霉菌",
+    "takeaway": "通过全基因组测序与功能分析，解析了长安链霉菌HL-66合成植物免疫激发子EPS66A的调控机制，发现GTy与bldD基因关键作用。",
+    "conclusion": "长安链霉菌HL-66基因组6.82 Mb，含22个次级代谢基因簇。GTy特异调控EPS66A合成，bldD影响形态发育与产量。EPS66A对多种植物病害防效达68.55%-90.21%，优于壳寡糖，可作为绿色农药候选。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42697672",
+    "title": "Development of an RPA-CRISPR/Cas12a-based rapid visual detection method for two insecticide resistance-associated mutations in Aphis gossypii: A302S in the ace1 gene and M918L in the para gene",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Kang R, Qian Y, Zuo Y, Li R, Zhang L.",
+    "publish_date": "2026-08-10",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697672",
+    "doi": "10.1016/j.pestbp.2026.107303",
+    "pmid": "42697672",
+    "abstract": "The resistance of Aphis gossypii to pyrethroids and organophosphate/carbamate insecticides has become increasingly severe. The para M918L and ace1 A302S target-site mutations are the key mechanisms conferring resistance to these two types of insecticides, respectively. However, rapid and field-deployable methods for detecting these mutations are still lacking. In this study, the genotype and allele frequencies of eight field populations collected in 2023 were investigated, and a rapid visual detection method based on RPA-CRISPR/Cas12a was developed. By optimizing the concentration of the reaction components, specific recognition of both mutations was achieved. The optimized assay could be completed within 1 h under a single-temperature condition of 37 °C, with fluorescence signals directly visualized using a portable 440-460 nm blue-light illuminator without PCR thermocyclers, fluorescence readers or sequencing platforms. Validation using the tested field samples showed complete concordance with Sanger sequencing. In addition, Sanger sequencing further showed that no homozygous susceptible genotype was detected at the para M918 locus across all populations, whereas the 302S allele frequency at the ace1 A302S locus exhibited significant geographic variation, ranging from 0% to 100%. The RPA-CRISPR-based visual detection method developed in this study is rapid, accurate, and does not require expensive instrumentation. Together with previously developed neonicotinoid resistance detection techniques, it forms a comprehensive monitoring system for multiple resistance in A. gossypii, providing a practical tool for rapid field diagnosis and more informed insecticide selection.",
+    "species_latin": "Aphis gossypii",
+    "species_en": "cotton aphid",
+    "species_zh": "棉蚜",
+    "takeaway": "针对棉蚜ace1 A302S与para M918L抗性突变，开发了RPA-CRISPR/Cas12a可视化检测法，37℃下1小时内完成，无需昂贵设备。",
+    "conclusion": "该方法特异性识别两种突变，与Sanger测序结果完全一致。检测2023年田间种群发现para M918L位点无纯合敏感型，ace1 A302S等位基因频率地理差异显著（0%-100%）。该技术结合已有新烟碱类抗性检测，构建了棉蚜多重抗性监测体系，便于田间快速诊断和用药指导。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "manual-20260904-t2t-bnapus",
@@ -3448,6 +3760,32 @@
     "species_zh": "",
     "takeaway": "端粒到端粒（T2T）联盟联合约翰斯·霍普金斯大学、NHGRI、NIST 构建真正意义上包含父母双方全套染色体序列的人类完整基因组，2026年8月6日以12篇论文形式发表于 Cell 及 Cell Genomics，有望推进遗传病诊断。",
     "conclusion": ""
+  },
+  {
+    "id": "pmid-42697667",
+    "title": "Aphid symbiotic virus engineered for in vivo expression of insecticidal effectors",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Fu Y, Cui F.",
+    "publish_date": "2026-08-07",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697667",
+    "doi": "10.1016/j.pestbp.2026.107298",
+    "pmid": "42697667",
+    "abstract": "Microbial pesticides are eco-friendly alternatives to chemical pesticides. However, few viral pesticides have been developed. Insects harbor diverse symbiotic viruses, which have the potential to be engineered for translational applications in pest control. Here, we engineered Acyrthosiphon pisum virus (APV), a symbiotic virus of the pea aphid, to deliver anti-aphid effectors using reverse genetics technology. A cytomegalovirus (CMV) promoter-driven APV infectious clone was successfully rescued in pea aphids with the assistance of nanocarrier star polymer (SPc). Based on this infectious clone, the protein coding sequence of chymotrypsin inhibitor variant 8 (Chy8) and the double-stranded RNA sequence targeting the aphid clip-domain serine protease (SPLP) were separately assembled into the APV genome to generate APV-Chy8 and APV-dsSPLP infectious clones, respectively. The recombinant APV clones reduced aphid relative survival rates by 34% and 17% by microinjection, respectively. To enhance the transcriptional efficiency, the APV-Chy8 and APV-dsSPLP clones were transcribed in vitro using the T7 promoter. The in vitro-synthesized APV-Chy8 and APV-dsSPLP clones reduced aphid relative survival rates by 48% and 45% by microinjection, respectively. These results demonstrate that engineered APV can deliver cargos and reduce aphid survival under injection-based experimental conditions, highlighting the potential of symbiotic virus-based vectors for delivering insecticidal effectors.",
+    "species_latin": "Acyrthosiphon pisum",
+    "species_en": "pea aphid",
+    "species_zh": "豌豆蚜",
+    "takeaway": "利用反向遗传学改造豌豆蚜共生病毒APV，装载杀虫效应因子，经注射可显著降低蚜虫存活率。",
+    "conclusion": "成功构建CMV启动子驱动的APV感染性克隆，并借助纳米载体SPc在豌豆蚜中拯救病毒。将Chy8蛋白和靶向SPLP的dsRNA装入APV基因组，注射后蚜虫相对存活率分别降低34%和17%；经T7启动子体外转录后，效果提升至48%和45%。表明工程化APV可作为载体递送杀虫因子，为新型病毒杀虫剂开发提供思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "manual-20260904-t2t-saac",
@@ -3643,6 +3981,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42697662",
+    "title": "Multi-organ toxicity and systemic metabolic disruption underlying low-concentration broflanilide-induced developmental and cocooning defects in Bombyx mori",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Wang S, Fu Y, Xiang Y, Chen L, Qin J, Bao L, Wang L.",
+    "publish_date": "2026-08-01",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697662",
+    "doi": "10.1016/j.pestbp.2026.107293",
+    "pmid": "42697662",
+    "abstract": "The novel meta-diamide insecticide broflanilide exhibits high efficacy against diverse agricultural pests, yet its physiological impacts at low concentration on non-target lepidopterans, particularly the economically important silkworm Bombyx mori, remain poorly defined. In this study, we systematically evaluated the low-concentration toxicity (LC10: 0.038 mg/L; LC25: 0.075 mg/L) of broflanilide in the silkworm, B. mori, and elucidated the underlying molecular mechanisms through integrated histopathological, transcriptional, and metabolomic approaches. Exposure to low-concentration broflanilide, particularly at LC25, significantly reduced mulberry consumption, body weight, survival and cocooning performance, indicating a marked decline in overall fitness. Histopathological analysis revealed severe structural damage to both the silk gland and the midgut tissues. These phenotypic alterations were accompanied by dysregulated expression of core silk protein genes, apoptosis-related genes in the silk gland, and detoxification-related genes in the midgut. Furthermore, untargeted hemolymph metabolomics identified significant shifts in the abundance of L-Carnitine, L-Proline, and lysophosphatidylserine following low-concentration broflanilide exposure. Pathway enrichment analysis revealed that arginine and proline metabolism and ABC transporters were enriched among the total differentially expressed metabolites (DEMs), aminoacyl-tRNA biosynthesis among downregulated DEMs, and histidine metabolism among upregulated DEMs. These findings identify candidate physiological and molecular markers for detecting broflanilide exposure in sericulture and contribute to the ecological risk assessment of meta-diamide insecticides in agricultural landscapes.",
+    "species_latin": "Bombyx mori",
+    "species_en": "silkworm",
+    "species_zh": "家蚕",
+    "takeaway": "低浓度溴氰虫酰胺暴露导致家蚕多器官损伤与代谢紊乱，进而抑制其发育和结茧。",
+    "conclusion": "低浓度溴氰虫酰胺（LC25）显著降低家蚕桑叶摄取、体重、存活率和结茧性能，造成丝腺和中肠组织损伤，并扰乱丝蛋白、凋亡及解毒基因表达及血淋巴代谢物（如L-肉碱、L-脯氨酸等）水平，涉及精氨酸/脯氨酸代谢和ABC转运等通路，提示其生态风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.36899/japs.2026.6.0136",
     "title": "OVERVIEW OF RICE LEAF FOLDER, CNAPHALOCROCIS MEDINALIS AND UNDERSTANDING ITS MANAGEMENT THROUGH BIOLOGICAL, CHEMICAL AND GENETIC APPROACHES",
     "type": "paper",
@@ -3666,6 +4030,32 @@
       "稻纵卷叶螟功能基因组学"
     ],
     "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42697655",
+    "title": "Mechanisms of midgut injury induced by chronic trace concentrations of chlorantraniliprole in silkworm (Bombyx mori)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Zhang S, Cheng J, Qin X, Nong G, Cui X, Lu Z, Li B.",
+    "publish_date": "2026-07-30",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697655",
+    "doi": "10.1016/j.pestbp.2026.107286",
+    "pmid": "42697655",
+    "abstract": "The diamide insecticide chlorantraniliprole (CAP) is widely applied for pest control, and its environmental residues pose toxic risks to non-target species. However, the mechanisms underlying the developmental toxicity of environmentally relevant chronic exposure to trace concentrations of CAP in non-target lepidopteran insects remain poorly characterized. Here, we used the silkworm (Bombyx mori) as a lepidopteran model to investigate the toxic effects of chronic exposure to trace concentrations of CAP on development and physiology. Chronic exposure to trace concentrations of CAP significantly inhibited larval growth, delayed larval-pupal metamorphosis, reduced cocoon quality, and caused midgut structural damage and defective remodeling. Mechanistically, CAP induced time-dependent physiological disturbances in Bombyx mori. Early exposure activated RyR-mediated Ca2+ release and caused calcium overload, whereas compensatory SERCA activation transiently alleviated Ca2+ accumulation. With prolonged exposure, CAP induced mitochondrial damage, ROS accumulation, and NADPH/ATP depletion, which impaired SERCA activity, triggered secondary calcium overload, and established a Ca2+-ROS-NADPH/ATP-SERCA dysregulation loop. This loop promoted calpain-mediated ATG5 cleavage and NtATG5 generation, thereby driving an autophagy-to-apoptosis transition in midgut cells. Moreover, substantial NADPH depletion impaired enzymes involved in 20E metabolism and, together with disrupted Ca2+ homeostasis, interfered with 20E pulse formation. These disturbances ultimately impaired midgut remodeling, delayed development, and reduced cocoon quality. This study provides mechanistic evidence for the chronic developmental toxicity of CAP and experimental support for the ecological risk assessment of diamide insecticide residues in agroecosystems.",
+    "species_latin": "Bombyx mori",
+    "species_en": "silkworm",
+    "species_zh": "家蚕",
+    "takeaway": "以家蚕为模型，揭示慢性痕量氯虫苯甲酰胺暴露通过钙稳态失衡、线粒体损伤及自噬-凋亡转换导致中肠损伤与发育毒性的机制。",
+    "conclusion": "慢性痕量CAP暴露通过激活RyR致钙超载，代偿性SERCA激活短暂缓解，但持续暴露引发线粒体损伤、ROS积累及NADPH/ATP耗竭，形成Ca2+-ROS-NADPH/ATP-SERCA失调循环，促进calpain介导的ATG5裂解，驱动自噬向凋亡转换，并干扰20E代谢，最终损害中肠重塑、延缓发育并降低茧质，为双酰胺类杀虫剂生态风险评估提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -3719,6 +4109,32 @@
     "species_zh": "",
     "takeaway": "武汉植物园莲种质资源与遗传育种研究团队联合多家单位完成莲端粒到端粒（T2T）基因组组装，填补莲属完整无缺口高质量参考基因组空白，为莲驯化演化解析与分子育种提供基础。",
     "conclusion": ""
+  },
+  {
+    "id": "pmid-42697650",
+    "title": "Identification of CYP2B6 as a principal human enzyme involved in the metabolic bioactivation of chlorfenapyr to tralopyril",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Wei Z, Cao D, Zhang J, Ba G, Zhang B, Liu C, Sun H, Chen F, Zhang J, Mao Z.",
+    "publish_date": "2026-07-28",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697650",
+    "doi": "10.1016/j.pestbp.2026.107281",
+    "pmid": "42697650",
+    "abstract": "Chlorfenapyr (Chl) poisoning is characterized by delayed clinical deterioration, high fatality, and the absence of a specific antidote, yet the metabolic mechanism underlying its severe toxicity remains incompletely understood. Chl is a pro-insecticide whose toxic effects depend on metabolic activation to the toxic metabolite tralopyril (Tral); however, the key human enzyme responsible for this process remains unidentified. Our studies confirmed the involvement of cytochrome P450s in Chl activation. Molecular docking and recombinant enzyme assays further identified CYP2B6 as the principal human enzyme catalyzing Chl bioactivation to Tral. Subsequent in vivo studies using CYP2B10, the murine ortholog of human CYP2B6, showed that CYP2B10 induction accelerated Chl clearance and increased Tral formation, whereas CYP2B10 inhibition delayed Chl clearance and reduced Tral formation. These findings support a central role of CYP2B6-mediated activation in Chl toxicity. To our knowledge, this study is the first to identify CYP2B6 as the principal human CYP isoform mediating Chl bioactivation, providing a mechanistic basis for its delayed toxicity and suggesting this pathway as a potential target for future intervention strategies.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究确定CYP2B6是人体内将杀虫剂氯芬磷代谢活化为毒性产物三氯吡啶酚的主要酶，为理解其延迟毒性提供机制基础。",
+    "conclusion": "通过分子对接和重组酶实验，确认CYP2B6是催化氯芬磷转化为三氯吡啶酚的主要人源酶。小鼠体内实验显示，诱导CYP2B10（CYP2B6同源物）加速氯芬磷清除并增加三氯吡啶酚生成，抑制则相反，证实CYP2B6介导的活化在氯芬磷毒性中起核心作用，为未来干预提供潜在靶点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42518304",
@@ -3955,6 +4371,32 @@
     "conclusion": ""
   },
   {
+    "id": "pmid-42697638",
+    "title": "Repellent and insecticidal activities of secondary metabolites from Praxelis clematidea against Solenopsis invicta (Hymenoptera: Formicidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Yao J, Shi H, Qin S, Yang H, Xu X, Luo H.",
+    "publish_date": "2026-07-22",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697638",
+    "doi": "10.1016/j.pestbp.2026.107260",
+    "pmid": "42697638",
+    "abstract": "Praxelis clematidea is a high-risk invasive species with potent insecticidal and repellent properties. This study isolated and identified its bioactive constituents against the red imported fire ant, Solenopsis invicta. Through bioassay-guided fractionation using a digging-based repellency assay, an active oily mixture (I2-[3]) was obtained, with a minimum repellent effective dose (MRED) of 0.0125 mg/g. Notably, caryophyllene oxide, a major component (22.3%), showed stronger repellency (MRED = 0.00156 mg/g) than DEET (MRED = 0.00625 mg/g). Friedelin (MRED = 0.0625 mg/g), stigmasterol, and 4',5,6,7-tetramethoxyflavone (each MRED = 0.125 mg/g), from moderately active fractions, exhibited only moderate activity. Caryophyllene oxide was selected for further evaluation. In behavioral bioassays, it significantly reduced S. invicta nesting activity for at least 15 days, reduced foraging ants within 1 h, and prolonged food transport time throughout the experiment. Moreover, in field tests, its repellency was comparable to DEET. In addition to its repellent effects, caryophyllene oxide also showed rapid contact toxicity (LT₅₀ = 1.19 h at 0.1 mg/cm2), albeit slightly less potent than DEET (LT₅₀ = 0.558 h). Enzyme assays revealed that caryophyllene oxide exhibited concentration- and time-dependent effects: at low concentrations, acetylcholinesterase (AChE) and carboxylesterase (CarE) showed initial activation followed by inhibition, unlike glutathione S-transferase (GST), which remained consistently activated; at high concentrations, both were rapidly inhibited, with GST inhibition likely due to exceeded detoxification capacity. Overall, these results indicate that P. clematidea contains active compounds against S. invicta, with caryophyllene oxide emerging as a promising dual-action (repellent and contact insecticidal) agent for S. invicta management.",
+    "species_latin": "Solenopsis invicta",
+    "species_en": "red imported fire ant",
+    "species_zh": "红火蚁",
+    "takeaway": "研究发现假臭草中的石竹烯氧化物对红火蚁具有强驱避和接触毒杀双重活性，效果优于避蚊胺。",
+    "conclusion": "假臭草提取物对红火蚁有驱避和毒杀作用，其中石竹烯氧化物为主要活性成分，驱避效果强于避蚊胺，并具接触毒性，通过影响乙酰胆碱酯酶和羧酸酯酶等酶活性发挥作用，有望用于红火蚁防治。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42485996",
     "title": "Ecotoxicological effects of combined exposure to bifenthrin and polyethylene microplastics on the earthworm Eisenia fetida",
     "type": "paper",
@@ -3974,6 +4416,32 @@
     "species_zh": "赤子爱胜蚓",
     "takeaway": "研究联苯菊酯与聚乙烯微塑料对赤子爱胜蚓的联合生态毒性，发现微塑料增强杀虫剂毒性，造成协同氧化损伤与神经毒性。",
     "conclusion": "聚乙烯微塑料可吸附联苯菊酯并增强其毒性，联合暴露显著提高活性氧水平、抑制乙酰胆碱酯酶活性，并加重组织损伤与转录扰动，呈现持续协同毒性效应，凸显复合污染风险评估的重要性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42697642",
+    "title": "Field resistance monitoring and nAChR α6 target validation support spinetoram as a candidate insecticide for rotation in Nilaparvata lugens resistance management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pesticide biochemistry and physiology",
+    "authors": "Ye WN, Xing Q, Chen RY, Zhang YC, Wu SF, Gao CF.",
+    "publish_date": "2026-07-21",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42697642",
+    "doi": "10.1016/j.pestbp.2026.107264",
+    "pmid": "42697642",
+    "abstract": "The brown planthopper (BPH), Nilaparvata lugens (Stål), is a major pest threatening rice production in Asia. Severe resistance to commonly used insecticides has become a major challenge for its effective control, highlighting the need for alternative insecticides. In this study, we evaluated the susceptibility of field populations of N. lugens to spinetoram and functionally validated the nicotinic acetylcholine receptor (nAChR) α6 subunit, Nlα6, as a molecular determinant of spinosyn susceptibility. Resistance monitoring showed that field populations remained highly susceptible to spinetoram despite exhibiting moderate to high resistance to several commonly used insecticides. A homozygous Nlα6 knockout strain generated using CRISPR/Cas9 developed high-level resistance to spinosad and spinetoram, with resistance ratios of 554.1 and 357.1, respectively, but did not show broad cross-resistance to nine other nAChR-targeting insecticides. Co-segregation analysis further confirmed tight linkage between Nlα6 loss of function and spinosyn resistance. Inheritance analysis showed that spinetoram resistance mediated by Nlα6 knockout was autosomal and completely recessive. Transcriptome analysis revealed that Nlα6 deficiency was associated with reduced expression of immune defense genes, enrichment of functions related to axonemes and neural processes, and coordinated activation of energy metabolism pathways, suggesting that Nlα6 disruption may alter neural homeostasis and energy demand. These results demonstrate that Nlα6 is a key subunit mediating spinosyn susceptibility in N. lugens and support spinetoram as a candidate rotation insecticide for resistance management.",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "监测褐飞虱田间种群对乙基多杀菌素敏感，并通过CRISPR/Cas9敲除nAChR α6亚基验证其为靶标，支持轮换用药。",
+    "conclusion": "褐飞虱田间种群对乙基多杀菌素高度敏感，而Nlα6敲除导致对多杀菌素类高抗（抗性比554.1和357.1），且为常染色体隐性遗传，不与其他烟碱型乙酰胆碱受体杀虫剂交叉抗性。Nlα6缺失影响免疫和能量代谢，表明其是介导多杀菌素敏感性的关键亚基，乙基多杀菌素适合轮换使用。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -4397,6 +4865,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42229271",
+    "title": "Reduction in copper and pesticide levels in grape musts: A new asset for the implementation of bioprotection in oenology",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of food microbiology",
+    "authors": "Tournu E, Tourdot-Maréchal R, Coelho C.",
+    "publish_date": "2026-05-30",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42229271",
+    "doi": "10.1016/j.ijfoodmicro.2026.111877",
+    "pmid": "42229271",
+    "abstract": "Phytosanitary and copper treatments in viticulture are essential to protect vines against biotic and abiotic stresses. However, residues from these treatments can persist in grape musts and wines, potentially raising risks to consumer health. Those last years, investigations aimed at reducing those compounds received a growing interest. While viticultural and oenological approaches were initially explored to achieve this goal, microbial solutions have recently emerged. This study investigates the use of lactic acid bacteria Lactiplantibacillus plantarum - known for its production of bioactive extracellular substances - in both pure culture and co-culture with non-Saccharomyces yeasts, Torulaspora delbrueckii and Metschnikowia pulcherrima, recommended for grape must bioprotection conditions for the purpose of evaluating their potential ability to reduce copper and pesticide concentrations. Cultures were conducted in two media: a commercial grape juice standardized with copper and fluopicolide and a real grape must for 72 h. The copper quantification revealed that both non-Saccharomyces strains were effective to remove copper within 48 h, specially Metschnikowia pulcherrima managed to remove at least 80%. Regarding pesticides decrease, both yeast strains enabled up to 67% of the fluopicolide to be removed within 24 h. In conclusion, the results showed that M. pulcherrima could be of interest for pesticide and copper detoxification within 48 h without altering significantly the must composition. The combination of a L. plantarum strain, producer of bioactive extracellular components, with bioprotectant strains did not improve must detoxification.",
+    "species_latin": "Lactiplantibacillus plantarum, Torulaspora delbrueckii, Metschnikowia pulcherrima",
+    "species_en": "Lactiplantibacillus plantarum, Torulaspora delbrueckii, Metschnikowia pulcherrima",
+    "species_zh": "植物乳杆菌、戴尔有孢圆酵母、美极梅奇酵母",
+    "takeaway": "研究发现Metschnikowia pulcherrima酵母可在48小时内去除葡萄汁中至少80%的铜和67%的氟吡菌胺，有望用于葡萄酒酿造中的生物防护。",
+    "conclusion": "非酵母菌M. pulcherrima能有效去除葡萄汁中的铜和农药残留，且不显著改变成分，而乳酸菌L. plantarum与生物防护菌株共培养未增强解毒效果。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42210512",
     "title": "Silencing LsAtg8 reduces female fecundity and elevates Wolbachia density in embryos of the rice planthopper Laodelphax striatellus",
     "type": "paper",
@@ -4442,6 +4936,32 @@
     "species_zh": "玉米蚜、番茄潜叶蛾",
     "takeaway": "利用甲基丙烯酸酐改性纤维素纳米晶稳定的高内相Pickering乳液，构建多刺激响应微胶囊农药递送系统，实现高效杀虫与环境安全。",
     "conclusion": "成功制备IMI@MCNCs-g-DEAAM微胶囊，具有双pH和温度响应性，包封率96.5%，载药量58.2%，在玉米和番茄叶片上表现出优异的铺展、粘附、耐雨水冲刷和光稳定性，对玉米蚜和番茄潜叶蛾杀虫效果优于商业乳油，且对种子萌发、土壤微生物和斑马鱼安全，为可持续农业提供新平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42202588",
+    "title": "Synthesis and Mosquitocidal activity of Phenylpyrazole derivatives bearing Schiff Base moiety for reduced acute aquatic toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioorganic chemistry",
+    "authors": "Li H, Chen Y, Jiang D.",
+    "publish_date": "2026-05-22",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42202588",
+    "doi": "10.1016/j.bioorg.2026.110028",
+    "pmid": "42202588",
+    "abstract": "Aedes albopictus is not only highly aggressive but also acts as a primary vector for major arboviruses, including dengue, yellow fever, and Zika viruses, posing severe global health risks and economic burdens. To develop novel mosquitocides, this study designed and synthesized a series of phenylpyrazole Schiff base compounds based on fipronil as a lead compound. Five compounds (5e, 7e, 10e, 19e, and 21e) exhibited potent larvicidal activity against Aedes albopictus, with LC50 values of 0.547, 0.456, 0.430, 0.485, and 0.324 μg/mL, respectively. Compound 21e with the most potent insecticidal activity demonstrated significantly lower toxicity to Danio rerio compared to fipronil. The results of molecular docking revealed that the -SOCF3 group at the 4-position of the fipronil pyrazole ring formed strong hydrogen bonds with Lys-35 and halogen bonds with Glu-34 of the Danio rerio GABA(A) receptor. In contrast, the thioether substitution at the 4-position of compound 21e eliminated hydrogen bonding, significantly reducing its binding affinity and likely accounting for its markedly diminished acute toxicity to Danio rerio. These results provide valuable lead compounds for developing environmentally benign insecticides against aquatic sanitary pests, while also establishing a new research avenue for designing insecticides with selective toxicity.",
+    "species_latin": "Aedes albopictus",
+    "species_en": "Asian tiger mosquito",
+    "species_zh": "白纹伊蚊",
+    "takeaway": "以氟虫腈为先导，设计合成含席夫碱的苯基吡唑类化合物，获得高效杀蚊且对斑马鱼低毒的候选物21e。",
+    "conclusion": "化合物21e对白纹伊蚊幼虫活性最强(LC50=0.324 μg/mL)，且对斑马鱼毒性显著低于氟虫腈。分子对接表明，21e的4位硫醚取代消除了与斑马鱼GABA(A)受体的氢键作用，降低结合亲和力，从而降低急性毒性，为开发环境友好型杀虫剂提供新思路。",
     "keywords": [
       "新型杀虫剂"
     ],
