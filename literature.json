@@ -1,5 +1,122 @@
 [
   {
+    "id": "manual-20260905-t2t-medicago",
+    "title": "JGG | 内蒙古大学李俊/黄建勋团队组装花苜蓿T2T完整基因组，并解析其荚果开裂抗性的遗传基础",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "BioArt植物（网易号转载）",
+    "authors": "",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-05",
+    "url": "https://www.163.com/dy/article/L5VE4MLF0512TP34.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "内蒙古大学李俊、黄建勋团队在Journal of Genetics and Genomics发表研究，以自主选育的低裂荚花苜蓿品种“内大草3号”(ND-3)为材料，构建929.3 Mb的端粒到端粒(T2T)参考基因组，完整鉴定16个端粒与8个候选着丝粒区，并结合重测序对荚果开裂性状开展QTL定位、开发KASP分子标记。",
+    "species_latin": "Medicago ruthenica",
+    "species_en": "Russian fenugreek (Medicago ruthenica)",
+    "species_zh": "花苜蓿（扁蓿豆）",
+    "takeaway": "花苜蓿ND-3获得929.3 Mb的T2T基因组，并定位抗裂荚主效位点qPS4、开发可用于早期筛选的KASP标记。",
+    "conclusion": "ND-3 T2T基因组在连续性、注释完整性与重复序列解析上优于已发表版本；第4染色体主效QTL qPS4可解释10.54%的表型变异，候选基因MrutChr4G257060（多聚半乳糖醛酸酶抑制蛋白）的关键SNP与抗裂荚密切相关，据此开发的KASP标记在不同材料中验证有效，为抗裂荚分子辅助育种提供直接可用的工具。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无缺口基因组",
+      "花苜蓿",
+      "Medicago ruthenica",
+      "豆科牧草",
+      "荚果开裂",
+      "QTL定位",
+      "KASP分子标记"
+    ]
+  },
+  {
+    "id": "pmid-42696195",
+    "title": "Protective effects of rosmarinic acid against carbaryl-exposed toxicity in honey bees (Apis mellifera): histopathological and molecular docking evidence",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary research communications",
+    "authors": "Kaya MM, Yakut S, Kaymak S, Demirağ MS, Vural N, Tutun H, Sevin S.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42696195",
+    "doi": "10.1007/s11259-026-11494-9",
+    "pmid": "42696195",
+    "abstract": "This study aimed to evaluate the potential protective role of Rosmarinic acid (RA) against Carbaryl (CRB)-induced toxicity in honey bees by assessing survival, nutrient uptake, and intestinal tissue integrity , while exploring potential CYP-mediated detoxification mechanisms via complementary in silico modelling. Honey bees were divided into six experimental groups: CRB-1, CRB-2, CRB-1 + RA, CRB-2 + RA, RA-only, and control, and treatments were administered for three days. Results showed a 100% mortality rate in the groups treated with high doses of CRB alone or in combination with RA. In contrast, the addition of RA to the low-dose CRB group resulted in surviving individuals, with a statistically significant increase in survival rate compared to the pesticide-only group (p < 0.05), while RA supplementation in the high-dose CRB group delayed mortality despite complete lethality. Food consumption decreased significantly only in the CRB-2 group; however, RA co-treatment during the first two days effectively mitigated this reduction. Histopathological examination showed severe damage to the intestinal epithelium in CRB-treated groups, while co-treatment with RA significantly reduced the severity of these low-dose pesticide-induced lesions. Furthermore, in silico molecular modelling and docking analyses suggested that RA may interact with detoxification-related cytochrome P450 enzymes in honey bees, providing preliminary computational insight into possible associations with CYP-mediated phase I metabolism. Collectively, these findings indicate that Rosmarinic acid improves physiological resilience in honey bees under Carbaryl-induced xenobiotic stress, with in silico data suggesting a potential link to detoxification pathways.",
+    "species_latin": "Apis mellifera",
+    "species_en": "Western honey bee",
+    "species_zh": "西方蜜蜂",
+    "takeaway": "迷迭香酸可缓解低剂量甲萘威对蜜蜂的毒性，提高存活率并减轻肠道损伤，可能与CYP解毒酶互作有关。",
+    "conclusion": "迷迭香酸能显著提高低剂量甲萘威暴露蜜蜂的存活率，减轻肠道上皮损伤，并缓解摄食减少；但对高剂量致死无保护作用。分子对接提示其可能通过影响CYP450酶参与解毒代谢，增强蜜蜂对农药胁迫的生理韧性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42696169",
+    "title": "High-throughput 16S rRNA sequencing reveals gut dysbiosis and linked hepatic toxicity in triflumezopyrim treated juvenile freshwater fish Labeo rohita",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "World journal of microbiology & biotechnology",
+    "authors": "Mishra B, Nayak S, Mohanty AK, Das II, Rakkannan G, Sahoo L, Kumar R, Sundaray JK.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42696169",
+    "doi": "10.1007/s11274-026-05241-0",
+    "pmid": "42696169",
+    "abstract": "Triflumezopyrim (TFM), a mesoionic insecticide widely applied in rice cultivation, poses a potential threat to non-target aquatic organisms. This study evaluated the impact of chronic sub-lethal TFM exposure 0 ppm (Control), 1.41 ppm (LSC), and 4.97 ppm (HSC) on the intestinal microbiota of juvenile rohu (Labeo rohita) over 21 days. 16 S rRNA gene amplicon sequencing analysis identified Proteobacteria, Actinobacteria, and Firmicutes as the dominant phyla. Pesticide exposure induced significant gut dysbiosis: Actinobacteria were decreased by 56.5%, whereas Proteobacteria increased by 105.14% in TFM-treated groups. While alpha diversity remained stable, Non-metric Multidimensional Scaling (NMDS) revealed distinct microbial clustering, indicating significant structural shifts in community composition. Pearson's correlation analysis linked these microbial shifts to host biochemical indices; beneficial genera such as Rhodobacter and Cetobacterium correlated positively with antioxidant enzyme activity and negatively with aspartate aminotransferase (AST). Furthermore, KEGG-based functional profiling showed a predicted enrichment of xenobiotic degradation pathways in treated fish. Specifically, higher read abundances were observed for omega transaminase (EC 2.6.1.18), alcohol dehydrogenase (EC 1.1.1.1), and various dioxygenases (EC 1.14.12.x), suggesting an active microbial response to pesticide-induced stress. Overall, sub-lethal TFM exposure disrupts the gut-microbiota axis and metabolic health of L. rohita. These findings emphasize the ecological risks of agricultural runoff in aquaculture and highlight the potential of gut microbes as biomarkers for pesticide-mediated toxicity and detoxification.",
+    "species_latin": "Labeo rohita",
+    "species_en": "Rohu",
+    "species_zh": "印度鲮鱼",
+    "takeaway": "利用16S rRNA测序研究亚致死浓度三氟甲吡醚对印度鲮鱼肠道菌群失调及肝毒性的影响。",
+    "conclusion": "慢性亚致死三氟甲吡醚暴露导致印度鲮鱼肠道菌群显著失调，放线菌减少而变形菌增加，菌群结构与功能改变，并与宿主生化指标相关，提示肠道菌群可作为农药毒性生物标志物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "manual-20260905-nanopesticide-size",
+    "title": "Advanced Agrochem | 植保所揭示粒径是平衡纳米杀虫剂有效性与非靶标安全性的关键因素",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农业科学院植物保护研究所官网",
+    "authors": "",
+    "publish_date": "2026-09-03",
+    "added_at": "2026-09-05",
+    "url": "http://www.ippcaas.cn/kyjz/4ab98911ee3a4d5d9d6bf31952c89b69.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院植保所农药分子靶标与绿色农药团队在Advanced Agrochem(IF 9.2)发表研究，以茚虫威、虫螨腈、环丙氟虫胺三种杀虫剂为模式、在化学组成一致前提下制备微米至纳米级悬浮剂，发现其对小菜蛾的杀虫活性呈显著粒径依赖（粒径越小活性越强，茚虫威48h LC50由200 nm的2.15 mg/L升至1366 nm的11.25 mg/L），但对斑马鱼的非靶标毒性尺度效应因药剂而异，不存在“越小越好”的普适规律。",
+    "species_latin": "Plutella xylostella",
+    "species_en": "diamondback moth",
+    "species_zh": "小菜蛾",
+    "takeaway": "纳米杀虫剂粒径越小对靶标小菜蛾活性越高，却可能改变对非靶标生物的毒性，200–250 nm或为活性较优区间，需按作用机制理性设计。",
+    "conclusion": "减小粒径可提升悬浮剂稳定性、叶面沉积与靶标杀虫活性，但活性—安全性权衡与有效成分的理化性质和作用机制相关：茚虫威对斑马鱼毒性随粒径减小而升高，虫螨腈与环丙氟虫胺则无显著粒径依赖。研究提出应借助AI/机器学习建立不同机制农药的粒径—活性—毒性预测模型，指导纳米农药精准设计与筛选。",
+    "keywords": [
+      "新型杀虫剂",
+      "纳米农药",
+      "悬浮剂",
+      "粒径尺度效应",
+      "茚虫威",
+      "虫螨腈",
+      "环丙氟虫胺",
+      "小菜蛾",
+      "非靶标毒性",
+      "绿色农药"
+    ]
+  },
+  {
     "id": "pmid-42691127",
     "title": "PCIPG: A comprehensive framework for protein complex identification based on a probabilistic graphical model",
     "type": "paper",
@@ -974,6 +1091,38 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20260905-t2t-horsedonkey",
+    "title": "Cell Genomics | 美国肯塔基大学利用雌性骡子DNA分相重建马和驴端粒到端粒(T2T)参考基因组",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "科技日报（环球网转载）",
+    "authors": "",
+    "publish_date": "2026-08-31",
+    "added_at": "2026-09-05",
+    "url": "https://m.huanqiu.com/article/4T13K0MFwkk",
+    "doi": "",
+    "pmid": "",
+    "abstract": "美国肯塔基大学团队利用一头雌性骡子同时携带马、驴两套染色体的特点，通过“分相”并结合高精度与超长读长测序及Hi-C空间信息，分别重建出马和驴的端粒到端粒(T2T)基因组，攻克着丝粒、端粒等高重复复杂区域，成果发表于《细胞·基因组学》(Cell Genomics)。",
+    "species_latin": "Equus caballus; Equus asinus",
+    "species_en": "horse; donkey",
+    "species_zh": "马；驴",
+    "takeaway": "借骡子基因组分相同时获得马、驴迄今最完整的T2T参考基因组，序列分别较旧版增加约11.4%与11.5%。",
+    "conclusion": "利用马与驴的序列差异在同一骡子个体中完成分相，整合多平台测序与三维构象信息获得马、驴T2T基因组；新马基因组较原参考增加约11.4%、驴增加约11.5%的序列，为染色体功能、物种演化及马属动物健康与性状遗传差异研究奠定基础。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "马",
+      "驴",
+      "骡子",
+      "基因组分相",
+      "着丝粒",
+      "端粒",
+      "Cell Genomics"
+    ]
+  },
+  {
     "id": "manual-20260904-acaricide-atpsynth",
     "title": "Science Advances | 西南大学何林/冯楷阳团队揭示ATP合成酶抑制剂选择性分子基础，构建新一代选择性杀螨剂虚拟筛选框架",
     "type": "wechat",
@@ -1883,6 +2032,39 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20260905-thrips-emamectin",
+    "title": "Journal of Pest Science | 中棉所揭示亚致死甲维盐跨代抑制棉蓟马生殖，CYP6K1与共生菌构成协同防御",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农业科学院棉花研究所官网",
+    "authors": "",
+    "publish_date": "2026-08-26",
+    "added_at": "2026-09-05",
+    "url": "http://www.cricaas.com.cn/sylm/kyjz/1d43f278a6c94842a045fc2e27abca17.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院棉花所姬继超、雒珺瑜团队在Journal of Pest Science（中科院一区）发表研究，系统评估亚致死浓度(LC20)甲维盐对棉蓟马的多代效应：显著降低F0代寿命与繁殖、抑制可延续至F1代且未引发F2代再猖獗；并发现细胞色素P450基因CYP6K1是响应药剂胁迫的关键基因，沉默后显著增敏，同时肠道共生菌群落被重塑（不动杆菌属下降、泛菌属增加）。",
+    "species_latin": "Thrips tabaci",
+    "species_en": "onion thrips",
+    "species_zh": "棉蓟马（葱蓟马/烟蓟马）",
+    "takeaway": "亚致死甲维盐可跨代抑制棉蓟马生殖而不诱发再猖獗，宿主CYP6K1与共生菌构成协同耐药网络，是潜在干预靶点。",
+    "conclusion": "甲维盐对棉蓟马急性毒力高，LC20即可跨代压低繁殖且不引起后代种群扩张；解毒酶CYP6K1与肠道共生菌协同应对药剂胁迫，沉默CYP6K1或干扰共生菌群可降低耐受，为“靶向解毒基因沉默+扰乱共生菌”的蓟马绿色精准防控提供新思路。",
+    "keywords": [
+      "新型杀虫剂",
+      "甲维盐",
+      "阿维菌素",
+      "棉蓟马",
+      "亚致死效应",
+      "细胞色素P450",
+      "CYP6K1",
+      "RNAi",
+      "抗药性",
+      "肠道共生菌"
+    ]
+  },
+  {
     "id": "manual-20260904-whitefly-trim37",
     "title": "PNAS | 中国农科院张友军团队揭示TRIM37泛素化“天平”同时调控烟粉虱新烟碱类抗性与生殖适合度代价",
     "type": "wechat",
@@ -2120,6 +2302,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42695288",
+    "title": "Effect of Green-Synthesized Curcumin-Coated Silver Nanoparticles on the Hippocampal Tissue in Chlorpyrifos-Exposed Developing Male Rats",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Central nervous system agents in medicinal chemistry",
+    "authors": "Rakhshanifard A, Samarghandian S, Shakibaie M, Rajabi S, Mesbahzadeh B, Mohaqeq A, Farkhondeh T.",
+    "publish_date": "2026-08-25",
+    "added_at": "2026-09-05",
+    "url": "https://europepmc.org/article/MED/42695288",
+    "doi": "10.2174/0118715249421329260806034835",
+    "pmid": "42695288",
+    "abstract": "INTRODUCTION: Pubertal modifications are likely to affect various regions of the central nervous system (CNS) structure and functioning by multiple mechanisms. The development of the CNS during this period makes this system highly susceptible to environmental pollutants and other toxic agents and drugs. Chlorpyrifos (CPF) is an organophosphate pesticide with well-known neurotoxic effects. It was found that natural antioxidant supplementation could ameliorate CPF-induced CNS damage. There is strong evidence regarding the protective effects of curcumin against CPF toxicity. Numerous attempts have been performed to potentiate the bioavailability of curcumin, including formulations with nanoparticles. Silver nanoparticles (AgNPs) are broadly applied in biomedicine due to their exceptional physicochemical characteristics. Nonetheless, several issues remain about their safety and efficacy, specifically in the nervous system, according to recent literature from 2022-2025. Therefore, this study aimed to investigate the effects of curcumin-coated silver nanoparticles on the hippocampus of CPF-exposed and non-exposed rats during the puberty stage. METHOD: In this experimental study, 42 male Wistar rats aged 30 days were randomly divided into 7 groups, including control, oil, and CPF (5 mg/kg) groups, as well as four groups receiving curcumin-coated green silver nanoparticles (CUR-AgNPs) at doses of 40 and 80 μg/kg, both with and without CPF administration. After 30 days, all rats were anesthetized, and blood and hippocampal samples were collected to measure biochemical parameters including acetylcholinesterase (AChE), malondialdehyde (MDA), superoxide dismutase (SOD), and nitric oxide (NO), and subjected to histopathological examination. RESULT: Significant changes were observed in the levels of tissue and serum AChE activity, as well as tissue MDA, among the CPF group compared with the control group (P<0.001). However, no statistically significant differences were found in the mean levels of tissue NO and SOD between the two groups. CUR-AgNPs did not exhibit any change in the serum AChE activity and also in the mean tissue levels of MDA, NO, and SOD, as well as histopathological findings in the CPF-exposed group compared with the non-treated CPF-exposed group. However, histopathological examination indicated the incidence of necrotic neurons and severe eosinophilic cytoplasmic contraction in the CPF, CPF+ CUR-AgNPs and CUR-AgNPs groups. DISCUSSION: Curcumin, as a potent antioxidant, could prevent AgNPs-induced oxidative stress; however, it was not able to prevent the accumulation and direct toxic effect of AgNPs in the neurons and resulted in direct toxic damage in the tissue through disruption of calcium homeostasis and mitochondrial dysfunction. Future studies are needed to determine the exact mechanisms involved in the direct toxic effect of CUR-AgNPs in the various brain regions. CONCLUSION: This study indicated that administration of CUR-AgNPs at doses of 40 and 80 μg/kg could induce neurotoxicity in the hippocampal tissue of male rats during the developmental puberty stage.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "rat",
+    "species_zh": "大鼠",
+    "takeaway": "研究绿色合成姜黄素包被银纳米颗粒对毒死蜱暴露青春期雄性大鼠海马组织的影响，发现其未改善毒死蜱引起的生化改变。",
+    "conclusion": "毒死蜱暴露显著改变大鼠海马组织乙酰胆碱酯酶活性和丙二醛水平，但姜黄素包被银纳米颗粒未显著逆转这些变化，也未改善组织病理损伤，提示该纳米制剂在青春期大鼠中保护作用有限。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
