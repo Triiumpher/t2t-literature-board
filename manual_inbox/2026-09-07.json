@@ -1,0 +1,22 @@
+[
+  {
+    "id": "manual-20260907-t2t-trypanosoma",
+    "title": "Scientific Data | 福建省农科院首次完成大黄鱼锥体虫（Trypanosoma larimichthysi）染色体水平无缺口基因组组装，25条拟染色体达到T2T",
+    "type": "wechat",
+    "boards": ["t2t"],
+    "source": "中国农网（农民日报客户端）",
+    "authors": "",
+    "publish_date": "2026-08-21",
+    "added_at": "2026-09-07",
+    "url": "https://www.farmer.com.cn/2026/08/21/wap_991026566.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "福建省农业科学院农业质量标准与检测技术研究所罗土炎团队联合海南大学等单位，利用PacBio HiFi长读长测序与Hi-C技术，首次完成海水鱼血液寄生原虫——大黄鱼锥体虫的染色体水平、无缺口全基因组组装：基因组约51.04 Mb、组装为35条拟染色体，其中25条达到端粒到端粒（T2T）完整组装，共预测10172个蛋白编码基因，成果发表于Scientific Data。",
+    "species_latin": "Trypanosoma larimichthysi",
+    "species_en": "large yellow croaker trypanosome (fish parasite Trypanosoma larimichthysi)",
+    "species_zh": "大黄鱼锥体虫",
+    "takeaway": "首个大黄鱼锥体虫染色体水平无缺口参考基因组（25/35条拟染色体达T2T），填补该物种基因组资源空白。",
+    "conclusion": "组装基因组约51.04 Mb、97.96%序列锚定至拟染色体、HiFi回贴率99.99%、BUSCO完整度超99%、重复序列占50.33%；比较基因组明确了其在锥体虫属的系统进化位置并发现515个扩张基因家族，富集于宿主-病原互作、免疫逃逸、代谢调控等通路，为筛选特异性分子检测靶标、解析致病与宿主适应机制及大黄鱼锥体虫病精准防控提供基础数据。",
+    "keywords": ["T2T", "端粒到端粒", "无缺口基因组", "gap-free", "大黄鱼锥体虫", "Trypanosoma larimichthysi", "鱼类寄生原虫", "PacBio HiFi", "Hi-C", "Scientific Data"]
+  }
+]
