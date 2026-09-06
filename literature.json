@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42698040",
+    "title": "In Saccharomyces cerevisiae ΔRIB1 and ΔRIB4 mutants, riboflavin auxotrophy is reverted by Wolbachia (wStr) infection",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "International microbiology : the official journal of the Spanish Society for Microbiology",
+    "authors": "Mendez-Romero O, Ricardez-García C, Uribe-Carvajal S.",
+    "publish_date": "2026-09-05",
+    "added_at": "2026-09-06",
+    "url": "https://europepmc.org/article/MED/42698040",
+    "doi": "10.1007/s10123-026-00884-3",
+    "pmid": "42698040",
+    "abstract": "In endosymbiosis, unicellular organisms, mostly prokaryotes, live inside the cells of a host that may be uni- or multicellular. More than half insect and arthropod species host the obligate endosymbiont Wolbachia spp., an alpha-proteobacterium that, given time, may coevolve with its host and progress from parasitism to strict mutualism, where an obligate endosymbiont avoids rejection by providing advantages to the host such as essential nutrients. It was recently found that in the wild yeasts may host both facultative and obligate endosymbionts. To model host-symbiont mutualist interactions in yeast, we tested two different Saccharomyces cerevisiae riboflavin-synthesis pathway deletion mutants (ΔRIB1 and ΔRIB4), finding that these failed to grow in the absence of exogenous riboflavin (RF), i.e., they were RF-auxotrophic strains. In both mutants Wolbachia infection cured auxotrophy. In addition, Wolbachia infection led to a mild increase in survival to exposure to 1 M NaCl or to 10 mM hydrogen peroxide. The artificial yeast/endosymbiont model proposed here may become a useful tool to explore parasitic, facultative and mutualist associations.",
+    "species_latin": "Saccharomyces cerevisiae",
+    "species_en": "Baker's yeast",
+    "species_zh": "酿酒酵母",
+    "takeaway": "以酿酒酵母核黄素合成缺陷突变体为模型，发现沃尔巴克氏体感染可恢复其核黄素自养缺陷。",
+    "conclusion": "沃尔巴克氏体感染能治愈酿酒酵母核黄素合成缺陷突变体的营养缺陷，并轻微提升其在盐和过氧化氢胁迫下的存活率，为研究内共生关系提供了新模型。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42698282",
+    "title": "Chlorantraniliprole: bioactivation in coffee seedlings and control of resistant Leucoptera coffeella populations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Coelho BS, Leite SA, Dos Santos MP, Rocha PVC, Prado NM, da Silva Sousa N, Matsumoto SN, Guedes RNC, Castellani MA, Moreira AA.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-06",
+    "url": "https://europepmc.org/article/MED/42698282",
+    "doi": "10.1002/ps.71278",
+    "pmid": "42698282",
+    "abstract": "The diamide chlorantraniliprole stands out for its high performance in controlling agricultural pests, with high selectivity and reduced environmental impact. In coffee cultivation, this insecticide has been widely employed for the management of the coffee leaf miner (Leucoptera coffeella Guérin-Méneville, 1842). However, intensive use has favored the selection of resistant populations, compromising control efficacy and intensifying biotic stress in plants. This study aimed to evaluate the morphophysiological effects of chlorantraniliprole on coffee seedlings (Coffea arabica L., cv. IAC144-Catuaí Vermelho) infested by L. coffeella populations with different resistance levels. A total of 12 treatments (six insecticide concentrations applied to two populations: susceptible and resistant) with 12 replicates were conducted. Physiological assessments (transpiration, stomatal conductance, assimilation, and internal carbon dioxide concentration) were performed at 0, 20, and 105 days after application (DAA). Growth traits (number of leaves, plant height, stem diameter, leaf area, and biomass), along with Soil Plant Analysis Development (SPAD) index and leaf miner infestation index, were quantified at 0, 20, 40, 60, 80, and 105 DAA. Indicated a positive effect of chlorantraniliprole on the number of leaves, leaf area, and both fresh and dry shoot biomass in plants infested with the susceptible population. In plants exposed to the resistant population, increasing insecticide concentration and plant age promoted stem diameter growth, which may represent a compensatory response to continuous stress caused by persistent infestation. Besides being effective in controlling susceptible L. coffeella, chlorantraniliprole may also act as a plant bioactivator, representing a strategic tool in integrated pest management. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Leucoptera coffeella",
+    "species_en": "Coffee leaf miner",
+    "species_zh": "咖啡潜叶蛾",
+    "takeaway": "研究氯虫苯甲酰胺对感染不同抗性咖啡潜叶蛾的咖啡苗的形态生理影响，发现其兼具杀虫与植物生物激活作用。",
+    "conclusion": "氯虫苯甲酰胺对敏感种群有良好防效，并促进叶片数、叶面积和地上部生物量增加；对抗性种群则通过促进茎径生长作为补偿反应。该药剂可作为植物生物激活剂，用于综合害虫管理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42698156",
+    "title": "Target to Non-Target: Exploring Indoxacarb Toxicity and Resistance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Manam M, Osborne WJ.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-06",
+    "url": "https://europepmc.org/article/MED/42698156",
+    "doi": "10.1002/jat.70419",
+    "pmid": "42698156",
+    "abstract": "Indoxacarb is a widely used oxadiazine insecticide that has a unique pro-insecticidal mode of action. It functions by metabolic activation to a sodium channel-blocking metabolite, leading to disruption of neuronal signalling and insect mortality. However, increasing evidence highlights that, beyond its target specificity, indoxacarb exerts diverse biological and environmental effects. This review provides an integrated framework linking the physicochemical properties and mode of action of indoxacarb with its toxicity, resistance development, environmental transformation and degradation while identifying key knowledge gaps and future research priorities. Indoxacarb exhibited substantial toxicity across target and non-target organisms, with reported acute LC₅₀ values ranging from 0.0521 mg/L in Labeo rohita to 5.13 μg/mL in Artemia sp., while sublethal exposure induced developmental, reproductive, behavioural, metabolic and oxidative effects. Resistance has evolved across several major pest species, with resistance levels reaching approximately 58-fold in Spodoptera litura, 472-fold in Spodoptera frugiperda, 750-fold in Plutella xylostella and 1794-fold in Tuta absoluta through mechanisms involving enhanced metabolic detoxification, reduced bioactivation, target-site mutations, sequestration and regulatory adaptations. Indoxacarb undergoes microbial, soil, plant, hydrolytic and photolytic transformation, with microbial degradation efficiencies reaching up to 95.7%-100% in some actinomycetes and approximately 68% degradation within 24 h by Priestia aryabhattai DPX-1. However, transformation does not always result in detoxification, as some metabolites, such as IN-KG433, exhibit greater toxicity than the parent compound. Overall, the evidence indicates that indoxacarb has high insecticidal efficacy with considerable ecological and resistance-related concerns. Despite extensive research, several important knowledge gaps exist, which include limited availability of field-scale data on indoxacarb degradation and remediation efficiency, insufficient information on chronic toxicity thresholds for pollinators and the absence of standardized approaches for monitoring and comparing indoxacarb resistance across pest populations. In addition, the complete molecular mechanisms underlying microbial degradation remain insufficiently characterized, particularly with respect to the genes and enzymes involved.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "Fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "综述茚虫威的毒性、抗性演化与环境归趋，揭示其非靶标生态风险及代谢物增毒现象。",
+    "conclusion": "茚虫威对靶标及非靶标生物均具显著毒性，多种害虫已演化出高达1794倍的抗性，机制涉及代谢解毒增强、靶点突变等。其环境转化产物可能毒性更强，需关注生态风险与抗性治理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260905-t2t-medicago",
     "title": "JGG | 内蒙古大学李俊/黄建勋团队组装花苜蓿T2T完整基因组，并解析其荚果开裂抗性的遗传基础",
     "type": "wechat",
@@ -54,7 +132,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -80,7 +158,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -106,7 +184,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -158,7 +236,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -217,7 +295,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -374,6 +452,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42530440",
+    "title": "De Novo Genome Sequence Assembly of the Algal Endosymbiont Micractinium conductrix Derived From Its Host Paramecium bursaria 186b",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genome biology and evolution",
+    "authors": "Leonard G, Vitonytė I, Savory FR, Hansson EM, Cameron DD, Brockhurst MA, Richards TA.",
+    "publish_date": "2026-09-02",
+    "added_at": "2026-09-06",
+    "url": "https://europepmc.org/article/MED/42530440",
+    "doi": "10.1093/gbe/evag194",
+    "pmid": "42530440",
+    "abstract": "Endosymbiosis is a major driver of evolutionary innovation and underpins the function of diverse ecosystems. The origins and evolution of endosymbiosis are challenging to study experimentally due to the short-lived culturability of many microbial strains derived from endosymbiotic interactions. The facultative endosymbiosis between the ciliate, Paramecium bursaria, and the green alga, Micractinium conductrix (Chlorellaceae, Trebouxiophyceae), is ecologically widespread and has emerged as a powerful lab-tractable model system. This endosymbiosis is founded upon a reciprocal nutrient exchange, but each of the species can be cultured independently enabling quantification of symbiotic fitness effects, new partnerships to be generated in the lab, and co-associations to be subject to experimental evolution. To date, evolve-and-resequence approaches have been limited due to a lack of high-quality genome assemblies enabling gene variants to be identified. Here, we report a near telomere-to-telomere genome assembly for M. conductrix 186b, using a range of sequencing technologies. Comparative analysis shows that this is one of the most complete Chlorellaceae algal genome assemblies available to date. To aid accurate gene calling and annotation, we conducted both RNAseq and Iso-Seq transcriptome sequencing experiments. Collectively, these 'omics datasets will facilitate: (i) comparative genomics studies of endosymbiont evolution, (ii) evolve-and-resequence experiments, (iii) genome-scale metabolic modeling studies, and (iv) identification of targets for genetic modification experiments and biotechnological applications.",
+    "species_latin": "Micractinium conductrix",
+    "species_en": "green alga Micractinium conductrix",
+    "species_zh": "小球藻（Micractinium conductrix）",
+    "takeaway": "本研究组装了来自宿主草履虫的内共生绿藻Micractinium conductrix 186b的近端粒到端粒基因组，并辅以转录组数据，为内共生研究提供高质量参考。",
+    "conclusion": "通过多种测序技术获得了M. conductrix 186b近乎完整的基因组，并利用RNAseq和Iso-Seq辅助注释，该基因组是目前最完整的栅藻科组装之一，将促进比较基因组学、进化实验、代谢建模及遗传改造等研究。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
