@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42702267",
+    "title": "Veterinary insecticides in wild bird nests: emerging contaminants in urban and protected forest habitats",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Varga-Szilay Z, Csíkvári O, Ulbert O, Pipoly I, Seress G.",
+    "publish_date": "2026-09-06",
+    "added_at": "2026-09-07",
+    "url": "https://europepmc.org/article/MED/42702267",
+    "doi": "10.1016/j.envres.2026.125621",
+    "pmid": "42702267",
+    "abstract": "Veterinary ectoparasiticides widely used on companion animals often contain synthetic insecticides whose agricultural applications have been restricted in the European Union because of environmental concerns. These neurotoxic compounds can persist on animal fur and enter surrounding environments, potentially exposing non-target organisms. The Great Tit (Parus major), a common passerine in both urban and forest habitats, frequently incorporates animal fur in nest linings, thereby creating a potential exposure route for breeding adults and nestlings. We analysed fur-containing nest material collected from 63 Great Tit nests in artificial nest boxes at an urban site and a nearby protected forest in Hungary during the 2025 breeding season, sampling at mid-nestling stage and also after fledging. Using HPLC-MS/MS and GC-MS, we detected several veterinary ectoparasiticides in nest materials, including fipronil, fipronil sulfone, imidacloprid, and permethrin. Acetamiprid was found only in urban nests, indicating additional, non-veterinary environmental sources. Multiple insecticides were present in nest material, with higher contamination levels and a greater number of detected compounds in urban compared to forest nests. Residues were present at both sampling times but declined over the course of the breeding cycle. Although contamination was not associated with the measured reproductive parameters of Great Tits, our findings show that veterinary ectoparasiticides can contaminate wild bird nests, including those in protected forest ecosystems. This highlights a previously under-recognised pathway linking companion animal treatments to wildlife exposure and underscores the need to assess the ecological risks and trade-offs associated with widespread veterinary insecticide use.",
+    "species_latin": "Parus major",
+    "species_en": "Great Tit",
+    "species_zh": "大山雀",
+    "takeaway": "研究大山雀巢内兽用杀虫剂残留，发现城市与保护区森林巢材均受污染，城市更严重，揭示宠物用药向野生动物传播的新途径。",
+    "conclusion": "匈牙利2025年繁殖季63个大山雀巢中检出氟虫腈、吡虫啉、氯菊酯等兽用杀虫剂，城市巢污染更重且含啶虫脒，残留随繁殖期下降，虽未影响繁殖参数，但表明兽用杀虫剂可污染野生鸟类巢穴，包括保护区，需评估生态风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42698040",
     "title": "In Saccharomyces cerevisiae ΔRIB1 and ΔRIB4 mutants, riboflavin auxotrophy is reverted by Wolbachia (wStr) infection",
     "type": "paper",
