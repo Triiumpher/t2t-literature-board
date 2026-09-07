@@ -1,0 +1,22 @@
+[
+  {
+    "id": "manual-20260908-rna-biopes-framework",
+    "title": "Advanced Agrochem | 江苏省农科院植保所提出下一代RNA生物农药“平台-屏障”协同设计框架",
+    "type": "wechat",
+    "boards": ["insecticide"],
+    "source": "江苏省农业科学院官网",
+    "authors": "",
+    "publish_date": "2026-09-02",
+    "added_at": "2026-09-08",
+    "url": "https://www.jaas.ac.cn/xww/xsky/art/2026/art_ba660132aedb45a3b487bdb6c335e7cb.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "江苏省农科院植保所农药应用创新团队（谭永安、肖留斌等，联合上海交大唐雪明团队）在Advanced Agrochem（中科院一区，IF 9.2）发表综述，系统梳理双链RNA（dsRNA）生产、递送与田间应用的核心瓶颈，提出下一代RNA生物农药“平台-屏障（platform-barrier）”协同设计框架，以及以“RNAi效率限制屏障”为核心、涵盖生产能力、保护能力、暴露途径匹配和生理相容性的四维评价体系。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "RNA生物农药田间防效不只取决于dsRNA产量，而取决于能否逐级突破环境暴露—摄入—体内稳定—细胞摄取—靶基因沉默屏障，平台、靶标与害虫特性须协同匹配。",
+    "conclusion": "综述比较了化学合成、体外转录/无细胞合成、细菌发酵、酵母与微藻递送、植物及叶绿体表达、病毒载体、共生菌与昆虫病原微生物递送、纳米制剂负载等多类生产与递送平台；指出对RNAi响应强的害虫提升dsRNA稳定性即可显著增效，而响应弱的害虫还需组合持续递送、抗降解保护、摄取增强和靶组织可及性等策略；RNA农药研发应从“能否大量生产dsRNA”转向“能否在特定害虫和应用场景中实现高效RNAi”。",
+    "keywords": ["新型杀虫剂", "RNA生物农药", "dsRNA", "RNA干扰", "RNAi", "递送系统", "纳米制剂", "害虫绿色防控", "Advanced Agrochem", "综述"]
+  }
+]
