@@ -3329,6 +3329,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42628531",
+    "title": "Historical metabolic adaptation potentiates the rapid evolution of flonicamid resistance in Myzus persicae",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Current biology : CB",
+    "authors": "Zeng B, Troczka BJ, Yuan J, Pym A, Hunt BJ, Bielza P, Qiao X, Huang J, Wu SF, Gao CF, Bass C.",
+    "publish_date": "2026-08-21",
+    "added_at": "2026-09-08",
+    "url": "https://europepmc.org/article/MED/42628531",
+    "doi": "10.1016/j.cub.2026.07.064",
+    "pmid": "42628531",
+    "abstract": "Rapid adaptation to novel environments is often shaped not only by newly acquired mutations but also by historical genetic backgrounds established through prior evolutionary events. However, the extent to which such historical contingency contributes to the rapid evolution of insecticide resistance remains poorly understood. Here, we investigated the emergence of resistance to flonicamid, a recently deployed insecticide, in the green peach aphid, Myzus persicae. We show that constitutive overexpression of the P450 enzymes CYP6CY3 and CYP6CY4, already widespread in populations of M. persicae before flonicamid deployment, confers a previously cryptic tolerance phenotype to flonicamid. However, biochemical and transgenic analyses demonstrated that these metabolic adaptations provide only weak protection against flonicamid. Following flonicamid deployment, however, a novel target-site mutation, NaamV251I, in the recently identified molecular target of 4-trifluoromethylnicotinamide (TFNA-AM), emerged in M. persicae on a genetic background of CYP6CY3 or CYP6CY4 overexpression. Structural modeling, enzymatic assays, and CRISPR-Cas9 genome editing demonstrated that this mutation reduces target sensitivity and independently confers moderate resistance. Strikingly, combining the nicotinamidase (Naam) mutation with pre-existing CYP6CY3 or CYP6CY4 overexpression produced substantially elevated resistance phenotypes that far exceeded the effects of either mechanism alone. Our results demonstrate that the pre-existing metabolic background did not itself evolve further following flonicamid deployment but fundamentally altered the phenotypic consequences of a subsequently acquired target-site mutation. These findings provide direct evidence that historical adaptive variation can potentiate rapid resistance evolution to newly introduced insecticides and reveal how interactions between past and contemporary adaptations shape evolutionary responses to novel environmental challenges.",
+    "species_latin": "Myzus persicae",
+    "species_en": "green peach aphid",
+    "species_zh": "桃蚜",
+    "takeaway": "研究发现桃蚜中预先存在的P450酶过表达虽仅提供弱抗性，但与新型靶位点突变NaamV251I协同，显著增强对氟啶虫酰胺的抗性进化。",
+    "conclusion": "桃蚜对氟啶虫酰胺的快速抗性进化依赖于历史代谢适应（CYP6CY3/CYP6CY4过表达）与新获得靶位点突变（NaamV251I）的协同作用，二者单独效应有限，但组合后抗性显著增强，表明历史遗传背景可改变后续突变的表型后果，促进对新杀虫剂的快速适应。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260907-t2t-trypanosoma",
     "title": "Scientific Data | 福建省农科院首次完成大黄鱼锥体虫（Trypanosoma larimichthysi）染色体水平无缺口基因组组装，25条拟染色体达到T2T",
     "type": "wechat",
@@ -5134,6 +5160,32 @@
     "conclusion": "微生物通过直接产生挥发物、提供或修饰信息素前体、影响感觉神经功能及依赖环境等途径调控昆虫化学通讯。最强证据来自德国小蠊和沃尔巴克氏体影响果蝇的研究。发酵引诱剂和微生物驱避剂有应用前景，但多数系统仍需机制验证和田间试验。微生物-化学通讯互作有望用于下一代害虫管理。",
     "keywords": [
       "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42276860",
+    "title": "The SMN locus in the T2T era: Structure, gene conversion, and clinical implications",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Trends in genetics : TIG",
+    "authors": "Gommers D, Zwartkruis MM, van der Pol WL, Groen EJN, van Haaften GW.",
+    "publish_date": "2026-06-11",
+    "added_at": "2026-09-08",
+    "url": "https://europepmc.org/article/MED/42276860",
+    "doi": "10.1016/j.tig.2026.05.009",
+    "pmid": "42276860",
+    "abstract": "Long-read sequencing, paralog-aware variant calling, and telomere-to-telomere (T2T) human genome assemblies now enable the resolution of copy-, haplotype-, and nucleotide-level complexities in segmentally duplicated loci, which were previously inaccessible with short-read sequencing. In this review, we highlight how current technologies and analysis methods reveal extensive diversity in copy number (CN), structure, and gene conversion within the spinal muscular atrophy-associated survival motor neuron (SMN) locus. We summarize how understanding population-level structural variation could be translated into clinical practice, where a nucleotide-level view of the SMN locus may refine prognostic accuracy beyond SMN2 CN and explain variable treatment responses. Finally, we discuss how the approaches and methodologies required to study the SMN locus may be applied elsewhere, providing a scaffold to characterize other complex human genetic regions.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人类",
+    "takeaway": "综述长读长测序与T2T基因组在解析SMN基因座结构、拷贝数与基因转换中的应用，及其对脊髓性肌萎缩症临床预后与治疗的启示。",
+    "conclusion": "当前技术可揭示SMN基因座在拷贝数、结构和基因转换上的广泛多样性，核苷酸级解析可超越SMN2拷贝数提升预后准确性并解释治疗反应差异，相关方法亦可推广至其他复杂基因组区域。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
     "llm_enhanced": true
