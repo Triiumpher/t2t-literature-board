@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42703973",
+    "title": "ProRB: a structure-free unified framework for joint prediction and design of protein-RNA interactions",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nucleic acids research",
+    "authors": "Xue Y, Liu X, Zhu W, Wang S, Shen HB, Pan X.",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-08",
+    "url": "https://europepmc.org/article/MED/42703973",
+    "doi": "10.1093/nar/gkag870",
+    "pmid": "42703973",
+    "abstract": "While protein-RNA interactions are fundamental to post-transcriptional processes, achieving a holistic understanding of their regulatory logic remains challenging. Current computational models often treat binding affinity, interface mapping, and RNA design as isolated tasks, thereby failing to provide a unified perspective of the protein-RNA interactome. Here, we introduce ProRB, a unified sequence-based framework that jointly estimates protein-RNA binding affinity, predicts binding interfaces in proteins and RNAs, and generates protein-binding RNA sequences from protein sequences. By fusing protein and RNA embeddings from language models via adaptive cross-modal attention, ProRB learns contextual and relational features for predicting protein-RNA binding affinity and interface contacts, outperforming or achieving competitive performance compared to structure-based methods. Notably, its cross-attention maps reveal interpretable, motif-centric binding logic hidden in protein-RNA interactions. Building on this interpretability, ProRB enables computationally prioritized design of protein-binding RNA sequences with enhanced biophysical properties and functional motifs. By unifying the prediction, interpretation, and generation tasks, ProRB provides a scalable unified model for decoding the protein-RNA interaction and engineering motif-guided RNA therapeutics.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出无结构统一框架ProRB，联合预测蛋白-RNA结合亲和力、界面并设计RNA序列，优于结构方法。",
+    "conclusion": "ProRB通过融合蛋白与RNA语言模型嵌入及自适应跨模态注意力，统一完成结合亲和力、界面预测与RNA序列生成，性能优于或媲美结构方法，且注意力图谱揭示可解释的基序结合逻辑，可用于设计增强生物物理性质与功能基序的RNA，助力RNA疗法工程。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42704490",
+    "title": "Statistical optimization and ecotoxicological assessment of carbofuran degradation by earthworm gut-associated Bacillus paralicheniformis PPH2",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biodegradation",
+    "authors": "Shit P, Jana H, Chakravorty PP, Sarangi P, Sur P, Gauri SS, Sakai Y.",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-08",
+    "url": "https://europepmc.org/article/MED/42704490",
+    "doi": "10.1007/s10532-026-10370-2",
+    "pmid": "42704490",
+    "abstract": "The environmental persistence of carbofuran, a potent methylcarbamate neurotoxin, necessitates the development of advanced biotechnological strategies to safeguard soil biodiversity. This study investigated the bioremediation potential of Bacillus paralicheniformis PPH2, a specialized symbiont isolated from a unique ecological niche, the gastrointestinal tract of the indigenous paddy field earthworm Glyphidrilus sp. Unlike traditional soil isolates, strain PPH2 exhibited superior metabolic resilience, growing on carbofuran as the sole carbon and energy source. Through Central Composite Design coupled with Response Surface Methodology, catabolic efficiency was optimized at pH 7.1, 34.7 °C, and 100 rpm, resulting in a validated degradation efficiency of 62.07 ± 1.12% within 120 h. LC-MS/MS analysis revealed the putative identification of carbofuran phenol (m/z 164.36) as the primary biotransformation intermediate, indicating that strain PPH2 likely initiates hydrolytic cleavage of the toxicophoric methylcarbamate ester bond. While the achieved biodegradation efficiency (62.07 ± 1.12%) in unsupplemented minimal medium remains modest compared to specialized multi-strain consortia, it provides substantial acute detoxification, demonstrated by a 1.66-fold reduction in 96-h acute lethality (LC50 increasing from 5.458 to 9.061 mg a.i./kg) in the sentinel earthworm Eisenia fetida. Collectively, this study provides evidence supporting a potential strategy for improving soil health and safeguarding terrestrial ecosystems from pesticide-associated toxicity by bridging microbial kinetics, statistical optimisation, and quantitative ecotoxicology.",
+    "species_latin": "Eisenia fetida",
+    "species_en": "Redworm",
+    "species_zh": "赤子爱胜蚓",
+    "takeaway": "从稻田蚯蚓肠道分离的Bacillus paralicheniformis PPH2可降解克百威，优化后120小时降解率62.07%，并显著降低其急性毒性。",
+    "conclusion": "菌株PPH2能以克百威为唯一碳源，通过水解甲基氨基甲酸酯键生成克百威酚实现降解。优化条件为pH 7.1、34.7°C、100 rpm。降解产物对赤子爱胜蚓的急性毒性降低1.66倍（LC50从5.458升至9.061 mg/kg），表明该菌株具有修复农药污染土壤的潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42702267",
     "title": "Veterinary insecticides in wild bird nests: emerging contaminants in urban and protected forest habitats",
     "type": "paper",
@@ -22,7 +74,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -533,6 +585,39 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20260908-rna-biopes-framework",
+    "title": "Advanced Agrochem | 江苏省农科院植保所提出下一代RNA生物农药“平台-屏障”协同设计框架",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "江苏省农业科学院官网",
+    "authors": "",
+    "publish_date": "2026-09-02",
+    "added_at": "2026-09-08",
+    "url": "https://www.jaas.ac.cn/xww/xsky/art/2026/art_ba660132aedb45a3b487bdb6c335e7cb.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "江苏省农科院植保所农药应用创新团队（谭永安、肖留斌等，联合上海交大唐雪明团队）在Advanced Agrochem（中科院一区，IF 9.2）发表综述，系统梳理双链RNA（dsRNA）生产、递送与田间应用的核心瓶颈，提出下一代RNA生物农药“平台-屏障（platform-barrier）”协同设计框架，以及以“RNAi效率限制屏障”为核心、涵盖生产能力、保护能力、暴露途径匹配和生理相容性的四维评价体系。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "RNA生物农药田间防效不只取决于dsRNA产量，而取决于能否逐级突破环境暴露—摄入—体内稳定—细胞摄取—靶基因沉默屏障，平台、靶标与害虫特性须协同匹配。",
+    "conclusion": "综述比较了化学合成、体外转录/无细胞合成、细菌发酵、酵母与微藻递送、植物及叶绿体表达、病毒载体、共生菌与昆虫病原微生物递送、纳米制剂负载等多类生产与递送平台；指出对RNAi响应强的害虫提升dsRNA稳定性即可显著增效，而响应弱的害虫还需组合持续递送、抗降解保护、摄取增强和靶组织可及性等策略；RNA农药研发应从“能否大量生产dsRNA”转向“能否在特定害虫和应用场景中实现高效RNAi”。",
+    "keywords": [
+      "新型杀虫剂",
+      "RNA生物农药",
+      "dsRNA",
+      "RNA干扰",
+      "RNAi",
+      "递送系统",
+      "纳米制剂",
+      "害虫绿色防控",
+      "Advanced Agrochem",
+      "综述"
+    ]
+  },
+  {
     "id": "pmid-42700629",
     "title": "Molecular basis of Fenazaquin resistance in Polyphagotarsonemus latus revealed by transcriptome profiling and real-time validation",
     "type": "paper",
@@ -951,6 +1036,84 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42640060",
+    "title": "De Novo Assembly of the Trypanosoma congolense Genome Reveals an Organization Influenced by Antigenic Variation but Distinct from Trypanosoma brucei",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genome biology and evolution",
+    "authors": "Krasiļņikova M, Munday JC, Beraldi D, Larcombe SD, Oldrieve GR, Lapsley C, Morrison LJ, Matthews KR, McCulloch R.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-08",
+    "url": "https://europepmc.org/article/MED/42640060",
+    "doi": "10.1093/gbe/evag213",
+    "pmid": "42640060",
+    "abstract": "Antigenic variation allows pathogens to evade mammalian adaptive immunity through the continuous change in exposed antigens. In African trypanosomes, antigenic variation involves changes in expressed Variant Surface Glycoproteins (VSGs). Understanding of VSG expression control and change amongst African trypanosomes is most advanced in Trypanosoma brucei. In the important animal trypanosome, Trypanosoma congolense, incomplete genome assembly has held back understanding of the mechanics of antigenic variation. Here, we have used long-read DNA sequencing and Hi-C DNA interaction analysis to provide a telomere-to-telomere assembly of the T. congolense genome. This assembly reveals a genome comprising 12 diploid chromosomes, one tetraploid chromosome, and more than 100 small chromosomes. With this assembly we reveal several features of VSG organization and expression that differ from T. brucei. The majority of the T. congolense VSG archive, estimated at ∼1,500 genes, localizes to subtelomeres in 12 of the 13 large chromosomes, but these loci are notably smaller than are found in T. brucei. Furthermore, transcriptome analysis suggests expression of VSGs across the T. congolense subtelomeres, which are not separated within the nucleus from non-VSG chromosome regions, suggesting that there is no dedicated VSG expression site. Strikingly, one chromosome contains approximately 40% of the VSG archive and is largely transcriptionally silent, potentially acting as the major reservoir of new VSG variants. Finally, we show that VSG expression can be detected from multiple small chromosomes. In summary, the new genome assembly provides a platform for understanding a potentially unusual operation of VSG expression and switching in T. congolense.",
+    "species_latin": "Trypanosoma congolense",
+    "species_en": "Trypanosoma congolense",
+    "species_zh": "刚果锥虫",
+    "takeaway": "利用长读长测序和Hi-C技术完成刚果锥虫端粒到端粒基因组组装，揭示其VSG组织与表达机制异于布氏锥虫。",
+    "conclusion": "刚果锥虫基因组含12条二倍体、1条四倍体及逾百条小染色体，约1500个VSG基因主要位于12条大染色体亚端粒区，但表达位点不独立，一条染色体含约40%VSG库且多沉默，多个小染色体可表达VSG，提示其抗原变异机制独特。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42607721",
+    "title": "Heparin Modulates SARS-CoV-2 Spike-Platelet Factor 4 Interactions through Concentration-Dependent Interface Remodeling",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "ACS applied bio materials",
+    "authors": "Satram DS, Chen LY, Ho TH, Heinrich D, Trinh TT, Nguyen TH.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-08",
+    "url": "https://europepmc.org/article/MED/42607721",
+    "doi": "10.1021/acsabm.6c00502",
+    "pmid": "42607721",
+    "abstract": "Heparin, a highly sulfated glycosaminoglycan, interacts with numerous proteins through electrostatic and multivalent binding mechanisms. In the context of SARS-CoV-2 infection, platelet factor 4 (PF4) has been proposed to form complexes with the viral spike protein (S protein), potentially contributing to immune-mediated thrombotic complications. However, the molecular mechanisms by which heparin modulates PF4-S protein interactions remain poorly understood. Here, we investigate how unfractionated heparin (UFH) influences the formation and stability of PF4-S protein complexes using a combination of ensemble binding assays, single-molecule force spectroscopy, and molecular dynamics simulations. ELISA measurements reveal concentration-dependent and partner-specific effects of UFH on S protein interactions. While low concentrations of UFH enhance ACE2-S protein binding, higher concentrations produce a modest reduction, indicating biphasic modulation of receptor engagement. In contrast, UFH inhibits PF4-S protein binding at low to intermediate concentrations, with partial restoration at higher levels. Single-molecule force spectroscopy confirms that UFH decreases the mechanical stability of the PF4-S protein complex, as reflected by reduced unbinding forces that reach saturation at concentrations ≥5 IU mL-1. Molecular dynamics simulations using the dp5 heparin fragment demonstrate energetically favorable binding to both PF4 and the S1 subunit of the S protein. In ternary S1-PF4-dp5 assemblies, heparin alters interfacial contacts and reshapes the energetic landscape of the protein-protein interaction, suggesting modulation through electrostatic reorganization and interfacial remodeling. These findings provide mechanistic insight into glycosaminoglycan-mediated regulation of PF4-S protein complexes and highlight how heparin can modulate biomacromolecular interactions at viral-host protein interfaces.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究肝素如何通过浓度依赖的界面重塑调控SARS-CoV-2刺突蛋白与血小板因子4的相互作用，揭示其双相调节机制。",
+    "conclusion": "肝素对刺突蛋白与PF4复合物的调节呈浓度依赖性：低浓度抑制结合，高浓度部分恢复，并降低复合物机械稳定性。分子模拟显示肝素通过静电重组和界面重塑改变蛋白互作能量景观，为理解糖胺聚糖调控病毒-宿主蛋白界面提供机制见解。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42233290",
+    "title": "A novel method for testing the impacts of pesticide exposure on soil-nesting insects: A case study using the ant Lasius neoniger and the neonicotinoid insecticide imidacloprid",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology and chemistry",
+    "authors": "Fairweather A, Prosser RS, Raine NE, Schmidt JM.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-08",
+    "url": "https://europepmc.org/article/MED/42233290",
+    "doi": "10.1093/etojnl/vgag146",
+    "pmid": "42233290",
+    "abstract": "Soil-nesting insects are exposed to soil drench pesticides via several routes of exposure, including through contact with the soil matrix. To date, only ∼20% of insecticide toxicity studies have investigated the impacts of insecticide exposure on nontarget insects. Our study aims to address these gaps by creating a novel method for laboratory rearing and ecotoxicological testing using a native, agriculturally common North American soil-nesting ant, Lasius neoniger. We developed a novel soil bioassay method that tests both the acute and chronic effects of exposure to the neonicotinoid insecticide imidacloprid resulting from a soil drench applied to a sandy-loam soil commonly found in southern Ontario farms, to whole colonies of a soil-dwelling eusocial insect, L. neoniger. This method could be applicable to a wide range of different pesticides, as a reliable, replicable, cost-effective tool for assessing contact toxicity in soil-dwelling insect ecotoxicology research. Our laboratory results show that soil drench applications of imidacloprid at levels below 0.06% (0.02202 μg/ml) of recommended application concentrations have deleterious sublethal or lethal impacts on L. neoniger. These impacts, following the soil drench application of imidacloprid, included significant reductions in motor function and soil excavation, and increased levels of queen and worker mortality.",
+    "species_latin": "Lasius neoniger",
+    "species_en": "lawn ant",
+    "species_zh": "草地铺道蚁",
+    "takeaway": "开发了土壤浸灌杀虫剂对地下筑巢蚂蚁的实验室毒理测试新方法，发现极低浓度吡虫啉即可致死或损害草地铺道蚁。",
+    "conclusion": "新方法可可靠、可重复、经济地评估土壤杀虫剂对地下昆虫的接触毒性。实验表明，低于推荐浓度0.06%的吡虫啉土壤浸灌即可对草地铺道蚁产生亚致死或致死效应，包括运动功能和土壤挖掘能力显著下降，蚁后和工蚁死亡率升高，凸显了非靶标土壤昆虫的生态风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
