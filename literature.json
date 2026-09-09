@@ -78,6 +78,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42710654",
+    "title": "Host detoxification and gut microbiota are associated with chlorantraniliprole resistance in Spodoptera frugiperda",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of insect physiology",
+    "authors": "Chen Y, Li Y, Chen Y, Gou C, Li H, He X, Zeng N, Du E, Chen X, Gui F.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-09",
+    "url": "https://europepmc.org/article/MED/42710654",
+    "doi": "10.1016/j.jinsphys.2026.105062",
+    "pmid": "42710654",
+    "abstract": "Spodoptera frugiperda is a major agricultural pest that causes severe damage in China. Chlorantraniliprole (CAP) is the primary insecticide used for control; however, it is yet unknown how much the intrinsic detoxification system and gut microbiota of the host contribute to resistance. In this study, we used a resistant strain (CR) with a 71.85-fold resistance ratio after 10 generations of CAP selection. The molecular and microbial changes associated with CAP resistance in S. frugiperda were systematically analyzed by integrating phenotypic and multi-omics data. Results demonstrated that detoxification enzyme activities were markedly increased in the CR strain. Host-mediated metabolic pathways driven by Cytochrome P450 and glutathione S-transferase were significantly upregulated. Furthermore, transcriptome evidence indicated that CAP-induced calcium dysregulation was mitigated via enhanced calcium sequestration and endoplasmic reticulum chaperone responses, suggesting physiological tolerance of insects to this insecticide.. Continuous CAP stress also significantly reshaped the gut microbial community structure of S. frugiperda, with Enterococcus emerging as the dominant genus. According to metagenomic annotation, the gut microbiome was enriched in candidate genes associated with CAP degradation, including dehalogenases and amidases, that could potentially break the chemical bonds in CAP and thereby contribute to resistance. Enterococcus mundtii was the most prominently contributor in terms of gene abundance. Phylogenetic analysis revealed sequence similarities and conserved domains between candidate microbial degradation genes and host metabolic detoxification genes, suggesting potential functional similarity. The integrative analyses suggested that S. frugiperda resistance may arise from correlated changes in host endogenous metabolism, calcium homeostasis, and gut-microbiota-mediated degradation potential. The gut microbiota may form a coordinated adaptive regulatory system by encoding candidate degrading enzymes and exhibiting correlative coupling with host genes, which requires further functional validation. These findings highlight the potential synergy between host detoxification and gut microbiota as a contributing factor to CAP resistance in S. frugiperda.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "草地贪夜蛾对氯虫苯甲酰胺的抗性与宿主解毒酶活性增强及肠道菌群中肠球菌富集相关，肠道菌群可能编码降解酶辅助抗性。",
+    "conclusion": "草地贪夜蛾对氯虫苯甲酰胺的抗性涉及宿主细胞色素P450和谷胱甘肽S-转移酶活性上调，以及钙稳态调节增强。持续药剂胁迫重塑肠道菌群，肠球菌成为优势属，其编码的脱卤酶和酰胺酶可能降解药剂。微生物降解基因与宿主解毒基因存在序列相似性，提示功能协同，但需进一步验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42710566",
+    "title": "Transcriptional Insights into Liver Toxicity from Mixture Effects of Pesticides and Natural Toxins: A case study of Propyzamide and Microcystins",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxicology",
+    "authors": "Kiessig S, Silva EZM, Suciu I, Leme DM, Marx-Stoelting P.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-09",
+    "url": "https://europepmc.org/article/MED/42710566",
+    "doi": "10.1016/j.tox.2026.154580",
+    "pmid": "42710566",
+    "abstract": "Humans are simultaneously exposed to multiple substances through diet and environmental sources, yet rigorously assessing the health risks of these combined exposures is challenging. New Approach Methodologies (NAMs) provide supporting tools, such as transcriptional analysis of cell models. Among relevant contaminants, pesticides and natural toxins, such as microcystins (MCs), may be of concern due to their potential co-occurrence in food. We investigated binary mixtures of two MCs (MC-LA, MC-LR) with the hepatotoxic pesticide propyzamide (PRO) using gene expression analysis in differentiated HepaRG cells. Marker genes for activity of the nuclear receptors AhR, CAR, PXR and NRF2 were analysed to model mixture effects. RT2 Profiler PCR Arrays and Ingenuity Pathway Analysis (IPA) were used to evaluate gene expression profiles and liver toxicity-related pathways. Individual MCs down-regulated the marker genes (i.e., CYP1A2, CYP2B6, CYP3A4, GPX2). IPA linked transcriptional patterns of MC-LR to cholestasis and hepatocarcinogenesis. In contrast, PRO induced the same nuclear receptors and affected liver-enriched pathways linked to inflammation, cholestasis, carcinogenesis, and oxidative stress. Based on marker genes, mixtures of MC congeners showed dose addition, whereas mixtures of MCs with PRO exhibited a functional antagonism, likely reflecting opposing effects on nuclear receptor signaling. Despite the antagonism on nuclear receptor level, pathway analysis indicated consistent or enhanced associations with liver toxicity endpoints including cholestasis, inflammation and hepatocellular carcinoma. Our findings indicate that co-exposure to pesticides and MCs may cause complex interactions including antagonism and helps to gain mechanistic knowledge on mixture toxicity.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "利用分化HepaRG细胞转录组分析，研究除草剂敌稗与微囊藻毒素二元混合物的肝脏毒性，发现核受体水平拮抗但毒性通路仍增强。",
+    "conclusion": "敌稗与微囊藻毒素混合物在核受体信号上呈功能性拮抗，但通路分析显示与胆汁淤积、炎症和肝癌等肝毒性终点关联一致或增强，提示共暴露可能产生复杂交互作用，需关注其健康风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42706637",
     "title": "Integrated cell-mouse metabolomics reveals toxicity mechanisms and biomarkers of prothioconazole exposure",
     "type": "paper",
