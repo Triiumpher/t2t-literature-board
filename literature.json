@@ -1,5 +1,109 @@
 [
   {
+    "id": "pmid-42709403",
+    "title": "A chromosome-level, haplotype-resolved genome assembly for the barn owl, Tyto alba",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "GigaScience",
+    "authors": "Corval H, Ducrest AL, Salvy MB, Burns A, Topaloudis A, Simon C, Cora E, Cavaleri D, Almasi B, Roulin A, Iseli C, Guex N, Cumer T, Goudet J.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-09",
+    "url": "https://europepmc.org/article/MED/42709403",
+    "doi": "10.1093/gigascience/giag092",
+    "pmid": "42709403",
+    "abstract": "Recent advances in long-read sequencing have enabled near telomere-to-telomere (T2T) assemblies across diverse taxa. However, avian genomes remain challenging due to numerous microchromosomes, small, typically < 20Mb, DNA molecules that are gene-, GC-, and repeat-rich. As a consequence, microchromosomes are often missing from genome assemblies. Here, we present a chromosome-level, haplotype-resolved genome assembly for the Western barn owl (Tyto alba). Using a trio-binning strategy with Illumina parental reads combined with PacBio HiFi and Oxford Nanopore Technologies data, we generated two phased contig sets. These were scaffolded into 40 linkage groups using a linkage map. Comparative analyses identified unplaced HiFi scaffolds corresponding to microchromosomes, which we integrated into six additional microchromosomes using long reads information. The two assemblies present 46 chromosomes, matching the karyotype of the species. They exhibit strong synteny between parental haplotypes, except for a ∼38 Mb complex region on chromosome 7 containing nested inversions. This high-quality reference provides a haplotype-resolved and chromosome-level genome for Strigiformes, enabling fine-scale studies of structural variation and avian genome evolution.",
+    "species_latin": "Tyto alba",
+    "species_en": "Barn owl",
+    "species_zh": "仓鸮",
+    "takeaway": "利用三亲本分型与长读长测序，构建仓鸮染色体级单倍型基因组，补全微染色体并发现7号染色体复杂倒位区。",
+    "conclusion": "获得仓鸮两个单倍型共46条染色体组装，与核型一致；除7号染色体约38Mb含嵌套倒位的复杂区域外，亲本单倍型间高度共线。该参考基因组为鸮形目结构变异与鸟类基因组进化研究提供高质量资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42708578",
+    "title": "Identification of a Common Interactome of Beta-Actin and Its Prokaryotic Homolog MreB Reveals Conserved Physiological Functions of Actin Family of Cytoskeletal Proteins",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Cytoskeleton (Hoboken, N.J.)",
+    "authors": "Roy A, Jain A, Chauhan M, Ayyanar S, Jayakumar A, Dasgupta M.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-09",
+    "url": "https://europepmc.org/article/MED/42708578",
+    "doi": "10.1002/cm.70195",
+    "pmid": "42708578",
+    "abstract": "Bacterial actin-like proteins such as MreB and FtsA have been identified through structural homology to monomeric actin and their ability to form actin-like filaments. Furthermore, recent advances in structural biology have unearthed proteins that regulate the dynamics of these bacterial actin homologs much like their eukaryotic counterparts. However, questions remain as to how the actin and actin-like proteins evolved to participate in similar functions of cell division and maintenance of cell shape. To this effect, we asked whether the bacterial and eukaryotic actin homologs share a common interactome. Using previously published literature on functional homology followed by structural alignment of functional homologs, we identified 64 unique genetic and physical interactors of actin and their corresponding 38 homologs in bacteria that also interact with MreB/FtsA. We also report for the first time the identification of 10 bacterial homologs of 14 known actin interactors. Additionally, we reasoned that the homologous interactors would be essential to the function of actin. Therefore, the homologous interactors may show a high degree of co-expression with actin during cell division and differentiation, processes essential to embryogenesis. Therefore, we analysed the single-cell RNA expression data of early stages of human embryogenesis. We observed that ~66% of the homologous actin interactors showed positive correlation with the expression of beta-actin during early human embryogenesis. Taken together, our study not just enlists a common actin/MreB interactome, but also highlights the physiological significance of these interactions.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "通过结构比对与文献整合，鉴定β-肌动蛋白与细菌MreB的共同互作组，发现约66%同源互作因子在人类早期胚胎发生中与β-肌动蛋白共表达，提示肌动蛋白家族细胞骨架蛋白的保守生理功能。",
+    "conclusion": "本研究整合文献与结构比对，鉴定出64个肌动蛋白独特互作因子及对应38个细菌同源物，首次报道10个细菌同源物对应14个已知肌动蛋白互作因子。单细胞RNA表达分析显示约66%同源互作因子在人类早期胚胎发生中与β-肌动蛋白表达正相关，表明这些保守互作在细胞分裂、形态维持及胚胎发育中具有重要生理意义，为理解肌动蛋白家族进化与功能提供新视角。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42709889",
+    "title": "Mitochondrial phylogeography and insecticide resistance of Aedes aegypti in Kenya",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Musimbi B, Hickson S, Milugo TK, Robinson-Rice E, Osalla J, Rotich G, Jiggins F, Tchouassi DP.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-09",
+    "url": "https://europepmc.org/article/MED/42709889",
+    "doi": "10.1371/journal.pntd.0014670",
+    "pmid": "42709889",
+    "abstract": "Aedes aegypti is the primary vector of arboviruses such as dengue, yellow fever, Zika, and chikungunya. Here, we investigate the mitochondrial DNA (mtDNA) structure and insecticide resistance of Ae. aegypti populations across Kenya. Using 175 newly sequenced Kenyan COI mtDNA fragments, along with global reference sequences, we assess maternal ancestry and phylogeographic structure. Genetic structure across Kenya was not well explained by isolation-by-distance alone, with several populations deviating from this pattern. Nairobi and Mombasa, separated by >400 km, showed greater maternal genetic similarity than expected under isolation-by-distance, a pattern that may reflect gene flow along transportation corridors. Conversely, Ukunda, around 30 km from Mombasa, was comparatively divergent, and populations in Western Kenya were genetically distinct. We found no evidence of non-African ancestry in mtDNA from Rabai or Mombasa despite its previous detection in the nuclear genomes of these populations. Instead, a subset of samples from Marigat and Ukunda showed the closest maternal affinity to West African and non-African lineages. Insecticide assays revealed high susceptibility to bendiocarb, deltamethrin, and fenitrothion across populations, but substantial resistance to permethrin, particularly at coastal sites. Genotyping of the kdr 1534C allele showed the highest resistance allele frequencies in coastal populations, broadly consistent with the phenotypic patterns. This variation in resistance was not associated with mitochondrial ancestry, suggesting that local selection pressures rather than shared maternal ancestry may be shaping resistance. Together, these findings describe the maternal genetic structure of Ae. aegypti in Kenya and show that localised resistance evolution, in the absence of organised Ae. aegypti-targeted control, underscores the need to monitor resistance mechanisms.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "基于线粒体COI序列和杀虫剂生测，揭示肯尼亚埃及伊蚊的母系遗传结构及局部抗药性演化，提示交通走廊促进基因流。",
+    "conclusion": "肯尼亚埃及伊蚊的母系遗传结构不完全符合距离隔离模型，内罗毕与蒙巴萨因交通走廊而相似，西部种群分化明显。未发现非非洲母系渗入，但部分样本与西非/非非洲谱系相近。各地对苄呋威、溴氰菊酯和杀螟硫磷高度敏感，但对氯菊酯抗性显著，沿海kdr等位基因频率高。抗性与母系祖先无关，表明局部选择压力驱动抗性演化，需加强监测。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42706637",
+    "title": "Integrated cell-mouse metabolomics reveals toxicity mechanisms and biomarkers of prothioconazole exposure",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Shi L, Li W, Zhu X, Zhang H, Yang L, Chen S, Xiao J, Hua X, Cao H, Fang Q.",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-09",
+    "url": "https://europepmc.org/article/MED/42706637",
+    "doi": "10.1002/ps.71286",
+    "pmid": "42706637",
+    "abstract": "Background Prothioconazole (PTC) is one of the most widely used triazole fungicides worldwide, while its major metabolite, prothioconazole-desthio (dPTC), exhibits enhanced toxicological potential. However, the metabolic perturbations induced by chronic PTC exposure and sensitive biomarkers for exposure monitoring remain poorly understood. This study aimed to elucidate the metabolic toxicity mechanisms of PTC and identify reliable biomarkers using integrated in vitro and in vivo metabolomics. Results Cytotoxicity assays demonstrated significant differences in the toxicity of eight representative pesticides toward L-02 hepatocytes, with half-maximal inhibitory concentration (IC 50 ) values of 102.8 and 167.3 μmol L -1 for PTC and dPTC, respectively. Untargeted metabolomics revealed that PTC exposure significantly disturbed lipid metabolism, nicotinate metabolism, amino acid metabolism, and mitochondrial energy homeostasis. Corticosterone, equol, and uric acid exhibited excellent discriminatory performance (area under the curve (AUC) > 0.95) and were identified as potential cellular biomarkers of exposure. In C57BL/6J mice, chronic PTC exposure for 28 days induced systemic metabolic disturbances involving the tricarboxylic acid cycle, lysine degradation, and host-microbiota co-metabolism. Targeted metabolomics further validated significant increases in succinic acid, heptanedioic acid, and 2-oxohexanedioic acid, together with a marked decrease in indole-3-propionic acid, consistent with the untargeted metabolomics results. These metabolites demonstrated high sensitivity and specificity for discriminating PTC exposure. Conclusions This study demonstrates that chronic PTC exposure disrupts mitochondrial energy metabolism and multiple metabolic pathways, leading to systemic metabolic dysfunction. The identified metabolic biomarkers provide promising tools for pesticide biomonitoring and mechanistic toxicity assessment, improving exposure surveillance and health risk evaluation of triazole fungicides. © 2026 Society of Chemical Industry.",
+    "species_latin": "Mus musculus",
+    "species_en": "mouse",
+    "species_zh": "小鼠",
+    "takeaway": "整合细胞与小鼠代谢组学揭示丙硫菌唑暴露的毒性机制，发现皮质酮、马雌酚、尿酸等可作为暴露监测的生物标志物。",
+    "conclusion": "慢性丙硫菌唑暴露会干扰线粒体能量代谢及脂质、氨基酸等多条代谢通路，导致系统性代谢紊乱。鉴定的代谢生物标志物可用于农药暴露监测和毒性评估，提升三唑类杀菌剂的风险评价能力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42703973",
     "title": "ProRB: a structure-free unified framework for joint prediction and design of protein-RNA interactions",
     "type": "paper",
@@ -1036,6 +1140,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42708737",
+    "title": "Machine Learning-Enhanced LC-HRMS Workflows for Suspect and Nontargeted Screening of Pesticide Residues in Fruits and Vegetables",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Analytical chemistry",
+    "authors": "González S, Merino G, Guerrero Dallos JA.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-09",
+    "url": "https://europepmc.org/article/MED/42708737",
+    "doi": "10.1021/acs.analchem.5c06726",
+    "pmid": "42708737",
+    "abstract": "Analytical methodologies are essential for detecting and quantifying contaminants. While methods for known compounds are well established, identifying unexpected or unknown compounds remains challenging due to the lack of reference data. Several strategies have been proposed to integrate analytical information into data analysis workflows, but their implementation often requires programming skills and results are rarely presented in a format familiar to analytical chemists, such as the uncertainty budgets used in quantitative analysis. We developed an integrated workflow for suspect screening and nontargeted identification of pesticides in fruits and vegetables using QuEChERS extraction and HPLC-ESI-HRMS (Orbitrap) analysis. The workflow was developed using variable data-independent acquisition (vDIA) data and evaluates protonated and deprotonated species for compound identification. The workflow estimates missing identification properties using machine learning and combines their contributions into a single confidence value. Validation with fortified matrix extracts at different mass concentrations and with real samples containing pesticide residues showed performance comparable to existing software, particularly improving nontargeted identification at high concentrations (>6% increase in identified compounds). This approach reduces the input required for suspect screening and estimates properties for candidate compounds in nontargeted analysis. Results are reported with explicit consideration of the influence of identification properties, analogous to uncertainty budgets in chemical metrology. This workflow improves the interpretability and reliability of chemical identification and supports data-driven decision-making in routine analysis.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "开发了结合机器学习与LC-HRMS的工作流，用于果蔬中农药残留的可疑与非靶向筛查，提升鉴定性能。",
+    "conclusion": "该工作流利用QuEChERS和HPLC-ESI-HRMS分析，通过机器学习估算缺失的鉴定属性并整合为置信值，在加标和实际样品中表现良好，尤其在高浓度下非靶向鉴定化合物数量增加超6%，结果以类似不确定度预算的方式呈现，提高了化学鉴定的可解释性和可靠性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
