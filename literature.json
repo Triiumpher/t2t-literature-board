@@ -78,6 +78,84 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42716370",
+    "title": "\"EATING TO SURVIVE… OR NOT? FEEDING COMPENSATION AND TOXICITY IN A SONGBIRD EXPOSED TO THIAMETHOXAM TREATED MILLET SEEDS\"",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Poliserpi MB, Fernandez-Vizcaino E, Brodeur JC.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42716370",
+    "doi": "10.1016/j.envpol.2026.129139",
+    "pmid": "42716370",
+    "abstract": "Thiamethoxam (TMX) is a neonicotinoid insecticide widely used for seed treatment in agriculture. Birds can be exposed to TMX by ingesting unburied seeds after sowing. This study evaluated the effects of a 21-day dietary exposure to TMX-treated millet seeds in the grayish baywing (Agelaioides badius), a farmland songbird. Birds (N=8 per group) were exposed ad libitum to seeds treated with 0.27 (Low), 0.33 (Medium) and 4.3 (High) g TMX/ kg seed; concentrations representing a concentration below the minimum recommended rate, the minimum approved rate, and a worst-case exposure scenario; respectively. A dose-dependent increase in seed consumption was observed in the latter stages of the experiment, suggesting compensatory feeding that amplifies toxicant intake. Feeding behavior was altered in medium and high treatments, while activity patterns were altered across all exposed birds. TMX reduced hematocrit in medium and high treatments, while the birds exposed to the lowest concentration presented tissue-specific modulations in enzymatic biomarkers, including elevated cholinesterase and glutathione S-transferase activities, indicating oxidative stress and cholinergic alterations. The high-dose group exhibited 50% mortality, finding of concern given TMX's classification as of low acute toxicity. High-dose survivor birds also displayed significant loss of body weight (-20.5%) and impaired anti-predator responsiveness. While the high treatment represents an unlike exposure scenario, acute concentrations can be ingested by birds gorging on spilled seeds. These findings emphasize the importance of minimizing the availability of treated seeds for birds and using the lowest effective approved seed treatment rates to reduce the risk of TMX to granivorous birds.",
+    "species_latin": "Agelaioides badius",
+    "species_en": "grayish baywing",
+    "species_zh": "灰喉拟八哥",
+    "takeaway": "灰喉拟八哥食入噻虫嗪处理小米后出现补偿性进食，加重中毒并致高剂量组半数死亡。",
+    "conclusion": "噻虫嗪处理种子会改变灰喉拟八哥的取食与活动行为，并随剂量升高造成血细胞比容下降、酶类生物标志物改变及氧化应激和胆碱能紊乱；高剂量组死亡率达50%，存活者体重明显下降且反捕食反应受损。补偿性进食会放大毒物摄入，说明应减少处理种子对鸟类的可及性并采用最低有效批准剂量。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42716353",
+    "title": "Insecticidal peptides as sustainable tools for future agriculture",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biotechnology advances",
+    "authors": "Nascimento R, Ferreira AFL, de Sá MFG, Salentim V, Franco OL.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42716353",
+    "doi": "10.1016/j.biotechadv.2026.109041",
+    "pmid": "42716353",
+    "abstract": "The increasing global human population and the intensification of agriculture present unprecedented challenges for pest control. The escalating resistance of pests to conventional synthetic insecticides, coupled with ecological and health concerns, underscores the urgent need for innovative and sustainable management approaches. Insecticidal peptides, due to their structural diversity, molecular specificity, and biodegradability, are emerging as promising candidates for the development of next-generation bioinsecticides. This strategic roadmap synthesizes recent advances in peptide architectures, ranging from pore-forming scaffolds to designs targeting enzyme inhibition and mimicking neuroendocrine actions, with a focus on the molecular mechanisms underpinning their selectivity and efficacy. By integrating structure-function insights with translational frameworks, we identify critical knowledge gaps and propose a pathway toward biotechnological tools, including bioinspired synthesis, artificial intelligence (AI)-guided peptide engineering, and nanodelivery systems for controlled release. Our analysis positions peptide-based insecticides at the forefront of sustainable agriculture, with the potential to minimize off-target effects, reduce environmental impact, and enhance crop resilience in the face of global change.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述杀虫肽的结构类型与作用机制，提出AI设计、纳米递送等策略，推动其成为可持续农业的下一代生物杀虫剂。",
+    "conclusion": "杀虫肽凭借结构多样、分子特异性强和可生物降解等优势，有望替代传统合成杀虫剂。文章梳理了成孔支架、酶抑制及模拟神经内分泌等肽结构，阐明其选择性与效力机制，并提出仿生合成、AI辅助肽工程和纳米控释递送等转化路径，以减少脱靶效应和环境危害、提升作物抗逆性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42716190",
+    "title": "Electroejaculation-Guided Analysis of Sperm Functional and Biochemical Parameters Reveals Ameliorative Effects of Chitosan-TPP-Encapsulated Quercetin on Tolfenpyrad-Induced Spermatotoxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Reproductive toxicology (Elmsford, N.Y.)",
+    "authors": "Vijayakrishnan A, Ranjith D, Diviyaanandhan S, Arpita P, Xavier A, Sujith S, Bhai L, Pradeep S, Juliet S.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42716190",
+    "doi": "10.1016/j.reprotox.2026.109355",
+    "pmid": "42716190",
+    "abstract": "Tolfenpyrad (TFP), a pyrazole carboxamide pesticide used on fruits and vegetables, raises concerns regarding male reproductive toxicity. This study investigated TFP-induced spermatotoxicity in Wistar albino rats and compared the protective effects of quercetin (QCT) versus chitosan-TPP encapsulated quercetin nanoparticles (QNP) in ameliorating the adverse effects of TFP on sperm. Rats were divided into seven groups (n=6/group): normal control, vehicle (olive oil), QCT (20mg/kg), QNP (20mg/kg), TFP (8.6mg/kg), TFP+QCT, and TFP+QNP respectively. All treatments were administered continuously for a period of 60 days. Semen samples, obtained through electroejaculation on days 15, 30, 45, and 60, were assessed for motility, viability, concentration, morphology, acrosomal integrity, and hypo-osmotic swelling test (HOST) reactivity. The epididymis was harvested to assess oxidative stress, enzymatic, and metabolic markers. TFP induced an early decline in sperm motility from day 30, followed by significant deterioration in sperm concentration, viability, HOST reactivity, and acrosomal integrity, along with increased sperm abnormalities on days 45-60. TFP also induced oxidative stress and impaired antioxidant defence, accompanied by alterations in epididymal enzymatic and metabolic markers. Co-administration of QNP significantly improved motility from day 30 and mitigated sperm quality and biochemical indices (days 45-60), providing greater protection than free quercetin. These findings indicate TFP elicits spermatotoxicity during sub-chronic exposure and that chitosan-TPP quercetin nanoparticles offer superior mitigation via improved bioavailability.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Wistar albino rat",
+    "species_zh": "Wistar白化大鼠",
+    "takeaway": "大鼠电刺激采精显示, 唑虫酰胺亚慢性暴露损伤精子质量与附睾生化, 壳聚糖-TPP包封槲皮素纳米粒保护效果优于游离槲皮素。",
+    "conclusion": "唑虫酰胺亚慢性暴露可致大鼠精子活力、浓度、存活率、顶体完整性及低渗肿胀反应下降, 畸形率升高, 并引起附睾氧化应激、抗氧化防御受损及酶与代谢标志物改变; 壳聚糖-TPP包封槲皮素纳米粒较游离槲皮素更早、更显著地改善上述指标, 提示其通过提高生物利用度发挥更优的保护作用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42711897",
     "title": "Design of bioactive peptides by amino acid combination strategy against peanut southern blight caused by Sclerotium rolfsii",
     "type": "paper",
@@ -127,6 +205,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42715887",
+    "title": "Structural basis of Nur77-CypA interaction and cyclosporine A-mediated competitive displacement",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biochemical and biophysical research communications",
+    "authors": "Chen L, Chen J, Zhu W, Li C, Jiang L, Liu Y.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42715887",
+    "doi": "10.1016/j.bbrc.2026.154553",
+    "pmid": "42715887",
+    "abstract": "Nuclear receptor Nur77, along with cyclophilin A (CypA) and cyclosporine A (CsA), has been shown to participate in crosstalk of signaling cascades associated with inflammation, apoptosis and metabolic regulation. However, the fundamental molecular mechanism governing their mutual interactions is unclear. Using NMR spectroscopy combined with AI-driven docking, we resolved the Nur77 ligand-binding domain (LBD)-CypA interface. NMR analysis mapped the binding mode, revealing a weak yet specific protein-protein interaction. Integration of experimental results with AI modeling produced a high-confidence complex structural model validated by mutational analysis and expanding investigations through the NR4A family paralogs. Strikingly, CsA does not directly bind Nur77 LBD. Rather, it occupies CypA and competitively displaces Nur77 from the same binding groove, as demonstrated by competition assays. Our findings elucidate the mechanism for the Nur77-CypA interaction and refine CsA's mode of action, with implications for therapeutic development.",
+    "species_latin": "Structural basis",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用核磁共振结合AI建模解析Nur77与CypA的弱特异性结合界面，发现CsA通过占据CypA竞争性置换Nur77。",
+    "conclusion": "Nur77配体结合域与CypA形成弱而特异的蛋白互作，其复合物模型经突变与NR4A家族旁系同源物验证；CsA并不直接结合Nur77，而是占据CypA上的同一结合槽竞争性排挤Nur77，从而修正了CsA的作用机制，为炎症、凋亡与代谢相关治疗开发提供依据。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -5316,6 +5420,32 @@
     "conclusion": "研究发现多个延长酶（Cmed092440等）催化C16底物延长为C18前体，是性信息素主要成分的直接前体。该发现首次提供了延长酶参与鳞翅目性信息素合成的实验证据，为在植物中重建该通路及可持续生产信息素前体用于害虫防治奠定基础。",
     "keywords": [
       "稻纵卷叶螟功能基因组学"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42442091",
+    "title": "Diaryl terephthalamides as small-molecule disruptors of the c-Myb-CBP/p300 KIX protein-protein interaction: Mechanistic insights and biochemical validation",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biochemical and biophysical research communications",
+    "authors": "Alfassam HE, Kamel EM, Othman SI, Alharbi HM, Allam AA, Rudayni HA, Lamsabhi AM.",
+    "publish_date": "2026-07-10",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42442091",
+    "doi": "10.1016/j.bbrc.2026.154265",
+    "pmid": "42442091",
+    "abstract": "The interaction between the transcription factor c-Myb and the CBP/p300 KIX domain is a functionally important protein-protein interface that supports oncogenic transcriptional programs in acute myeloid leukemia and therefore represents an attractive target for inhibitor discovery. Herein, we investigated diaryl terephthalamides as a new small-molecule chemotype for disruption of the c-Myb-CBP/p300 KIX interaction by integrating computational screening with experimental validation. A virtual-screening workflow was applied to a library diaryl terephthalamide derivatives affording five hit compounds (C1-C5). Docking and simulation results showed that C1 and C4 most consistently occupied the c-Myb-facing groove, whereas C5 adopted a distinct but still stable KIX-associated binding mode. Protein-protein interaction metrics calculations indicated that all five compounds weakened the c-Myb-KIX interface to varying extents, with C4 showing the strongest predicted disruptive effect and the most favorable ligand binding free energy, while C5 also exhibited substantial activity. MM/PBSA-based protein-protein interaction perturbation analysis further showed that all five compounds produced positive ΔΔGPPI values, consistent with weakening of the c-Myb-CBP/p300 KIX interface, with C4 and C5 showing the largest predicted disruptive effects (+25.85 and + 18.27 kcal/mol, respectively). Free-energy landscape analysis further supported stable low-energy binding states for C1 and C4, whereas C3 showed greater conformational heterogeneity. In silico ADMET profiling suggested that the series satisfies basic drug-likeness criteria but still carries notable developability liabilities requiring future optimization. Experimental microscale thermophoresis confirmed direct disruption of the Myb-KIX interaction, with C4 and C5 showing the best inhibitory potency, yielding IC50 values of 27.72 ± 7.80 and 27.11 ± 7.45 μM, respectively, compared with 34.74 ± 12.93 μM for Naphthol AS-E phosphate. Consistent with these biochemical findings, C4 and C5 showed the strongest reduction in AML cell viability in HL-60 and THP-1 cells. Overall, these findings identify diaryl terephthalamides as promising c-Myb-CBP/p300 KIX disruptors and establish C4 and C5 as the most compelling leads for further medicinal-chemistry development.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "研究发现二芳基对苯二甲酰胺类小分子可破坏c-Myb与CBP/p300 KIX相互作用，其中C4和C5活性最强。",
+    "conclusion": "二芳基对苯二甲酰胺是一类能直接破坏c-Myb-CBP/p300 KIX蛋白互作的新型小分子骨架。计算与实验验证表明C4和C5结合稳定、预测破坏效应最强，MST测得IC50约27 μM，优于对照Naphthol AS-E phosphate，并在HL-60和THP-1白血病细胞中显著降低活力，为靶向该互作的抗AML抑制剂开发提供了先导化合物。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
