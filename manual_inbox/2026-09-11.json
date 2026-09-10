@@ -1,0 +1,42 @@
+[
+  {
+    "id": "manual-20260911-t2t-licorice",
+    "title": "石河子大学李鸿彬团队完成甘草首个T2T基因组组装，揭示药物活性成分合成与环境适应遗传机制",
+    "type": "wechat",
+    "boards": ["t2t"],
+    "source": "石河子大学官网",
+    "authors": "",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-11",
+    "url": "https://www.shzu.edu.cn/2026/0901/c13315a235315/page.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "石河子大学生命科学学院李鸿彬团队（第一作者石善党）在《Science China Life Sciences》（中科院一区TOP，IF 9.5）发表研究，整合ONT超长、PacBio HiFi、Illumina与Hi-C完成首个乌拉尔甘草T2T无缺口基因组（8条染色体端粒到端粒，FISH验证Cen60/Cen307着丝粒核心重复），并获得胀果甘草、光果甘草高质量染色体水平基因组；结合188份野生甘草群体重测序与根茎叶多组织转录组，解析甘草属物种分化、三萜/黄酮药效成分合成与新疆荒漠干旱盐碱适应机制，GWAS锁定调控异甘草查尔酮A积累的GiPHL1–Gi4CL5模块。",
+    "species_latin": "Glycyrrhiza uralensis",
+    "species_en": "Ural licorice (Glycyrrhiza uralensis)",
+    "species_zh": "乌拉尔甘草",
+    "takeaway": "首个乌拉尔甘草T2T无缺口基因组配合三种药典甘草比较与188份群体图谱，为豆科药用植物重复序列演化、药效成分合成与分子育种提供核心资源。",
+    "conclusion": "完整破译8条染色体T2T序列并鉴定端粒重复单元与Cen60/Cen307着丝粒重复；分子钟显示甘草属分化与天山隆起高度吻合，扩张基因家族富集萜类、黄酮次生代谢通路；甘草酸、甘草苷等关键基因主要在根部特异高表达；天山地理屏障造成三物种遗传分化与广泛基因渐渗；选择性清除与GWAS揭示药效成分驯化信号，GiPHL1–Gi4CL5模块同时调控异甘草查尔酮A合成与干旱抗性。",
+    "keywords": ["T2T基因组", "端粒到端粒", "乌拉尔甘草", "甘草", "药用植物", "着丝粒重复", "群体基因组", "次生代谢", "环境适应", "Science China Life Sciences"]
+  },
+  {
+    "id": "manual-20260911-bt-hydrogel",
+    "title": "[中国科学报] 仿生水凝胶破解微生物Bt农药田间应用短板",
+    "type": "wechat",
+    "boards": ["insecticide"],
+    "source": "中国农业科学院植物保护研究所官网（转中国科学报）",
+    "authors": "",
+    "publish_date": "2026-09-02",
+    "added_at": "2026-09-11",
+    "url": "http://www.ippcaas.cn/mtjj/d16729bb225c4961ad72426564457812.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院植保所受细菌生物膜启发，研发叶酸-锌超分子水凝胶体系，将苏云金芽胞杆菌（Bt）芽胞与晶体蛋白包封于三维多孔网络，模拟生物膜的保护结构，破解Bt制剂易被紫外辐射灭活、易被雨水冲刷两大田间短板；成果发表于《Chemical Engineering Journal》，对全球性入侵害虫番茄潜叶蛾田间防效显著提升。",
+    "species_latin": "Bacillus thuringiensis",
+    "species_en": "Bacillus thuringiensis (Bt)",
+    "species_zh": "苏云金芽胞杆菌",
+    "takeaway": "叶酸-锌仿生超分子水凝胶给Bt穿上“生物膜护甲”，抗紫外、耐雨水冲刷，施药14天对番茄潜叶蛾防效仍达72%、较可湿性粉剂提高约27%。",
+    "conclusion": "叶酸与锌离子自组装形成超分子水凝胶包封Bt芽胞和伴胞晶体蛋白，模拟生物膜三维多孔保护网络，显著提升制剂抗逆性与持效期；施药4天防效接近85%、14天仍达72%（较传统可湿性粉剂提高约27个百分点），为微生物杀虫剂的抗紫外/抗冲刷缓释制剂设计提供新策略。",
+    "keywords": ["新型杀虫剂", "生物农药", "苏云金芽胞杆菌", "Bt", "仿生水凝胶", "超分子制剂", "抗紫外", "耐雨水冲刷", "番茄潜叶蛾", "Chemical Engineering Journal"]
+  }
+]
