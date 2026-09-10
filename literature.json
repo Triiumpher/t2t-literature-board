@@ -1,5 +1,135 @@
 [
   {
+    "id": "pmid-42713821",
+    "title": "Matrine-Tea Saponin Synergism Involves Suppressed Detoxification and Digestion in a Leaf Beetle",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Integrative zoology",
+    "authors": "Khan O, Li X, Zhang Y, Han R, Xu L.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42713821",
+    "doi": "10.1111/1749-4877.70203",
+    "pmid": "42713821",
+    "abstract": "Botanical pesticide mixtures offer a sustainable strategy to enhance insecticidal activity and mitigate resistance. The leaf beetle Plagiodera versicolora, a destructive defoliator in forests and urban ecosystems, poses a growing management challenge. This study investigates the individual toxicity, synergistic effects, and underlying molecular mechanisms of two representative botanical agents, matrine and tea saponin, against P. versicolora. Bioassays revealed strong individual toxicity, with 6-day LC 50 values of 1.948 µg/L for matrine and 5.589 mg/L for tea saponin. Notably, their binary mixture exhibited synergism (AI = 0.27), reducing the lethal concentrations required compared to individual treatments. Transcriptomic analysis revealed that this synergy was associated with coordinated suppression of key metabolic processes. Genes downregulated under combined exposure were enriched in detoxification-related genes (GSTs and CYP450s) and genes encoding digestive enzymes, including trypsins, chitinases, and lipases, suggesting impaired detoxification and digestive capacity. RNA interference further showed that silencing the trypsin-encoding gene Pver105950 or the chitinase-encoding gene Pver001190 significantly increased susceptibility to tea saponin or matrine, respectively, with Pver001190 knockdown producing survival comparable to that under the combined treatment. In conclusion, the synergistic toxicity of matrine and tea saponin is associated with impaired larval digestion and putative gut barrier dysfunction, together with transcriptional suppression of detoxification pathways in P. versicolora. The identification of Pver105950 and Pver001190 as critical molecular targets provides a theoretical foundation for developing high-efficiency botanical formulations for the environmentally friendly control of this pest.",
+    "species_latin": "Plagiodera versicolora",
+    "species_en": "leaf beetle",
+    "species_zh": "柳蓝叶甲",
+    "takeaway": "苦参碱与茶皂素复配可协同增效防治柳蓝叶甲，机制涉及抑制解毒与消化相关基因。",
+    "conclusion": "苦参碱与茶皂素混用对柳蓝叶甲表现出协同毒性，转录组显示解毒基因（GSTs、CYP450s）及消化酶基因（胰蛋白酶、几丁质酶、脂肪酶）被协同抑制，提示解毒与消化能力受损。RNAi证实Pver105950（胰蛋白酶）和Pver001190（几丁质酶）为关键靶标，沉默后显著提高对药剂的敏感性，为开发高效植物源复配制剂提供理论依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42715228",
+    "title": "Unveiling the hidden threat: flupyradifurone soluble liquid's toxic impact on silkworms",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Xue R, Dong C, Xu Y, Liu Y, Huang Q, Wang Q, Tang X, Shen Z, Qian H, Zhang Y.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42715228",
+    "doi": "10.1093/jee/toag231",
+    "pmid": "42715228",
+    "abstract": "Bombyx mori Linnaeus (Lepidoptera: Bombycidae) is an economically significant insect that consistently contributes to the enhancement of the national economy in all countries with predominant sericulture industries. Flupyradifurone, a butenolide insecticide, is recognized for its minimal toxic effects on bees when applied at standard dosages; however, its potential toxicity or threat to B. mori has not been fully elucidated. This study aims to investigate and evaluate the toxicity of flupyradifurone soluble liquid (SL) on B. mori by administering various concentrations to third instar silkworm larvae through oral exposure. Results from both acute and chronic toxicity assessments demonstrated that flupyradifurone SL exhibits concentration-dependent toxic effects on B. mori, with the LC50 for third instar silkworms after 24 h of treatment determined to be 21.96 mg/l. Acute toxicity testing revealed stunted larval growth, slight body shrinkage, and mortality. Chronic exposure to 17 mg/l flupyradifurone resulted in decreased cocoon and pupal weights, reduced silk production and egg laying, and mortality. Moreover, flupyradifurone SL significantly modulated the gene expression profile of B. mori, impacting genes associated with growth, development, reproduction, detoxification, stress response, and immunity. Specifically, genes encoding glutathione S-transferase delta 2, lipase 1, cuticular protein RR-1, and cecropin-B were upregulated. In contrast, genes primarily involved in detoxification, stress response, and developmental processes, such as those encoding cytochrome P450, heat shock proteins, and juvenile hormone, were notably downregulated. These findings elucidate the toxicology of flupyradifurone SL on the silkworm Bombyx mori and provide critical insights for the informed and safe application of flupyradifurone.",
+    "species_latin": "Bombyx mori",
+    "species_en": "silkworm",
+    "species_zh": "家蚕",
+    "takeaway": "氟吡呋喃酮可溶液剂经口暴露对家蚕三龄幼虫具浓度依赖性毒性,LC50为21.96 mg/l,并扰乱生长、解毒与免疫相关基因表达。",
+    "conclusion": "氟吡呋喃酮可溶液剂对家蚕具有明显急性和慢性毒性:急性暴露导致幼虫生长受阻、体缩与死亡,慢性暴露降低茧重、蛹重、产丝量与产卵量。其毒理机制涉及基因表达谱改变,如谷胱甘肽S-转移酶、脂肪酶、表皮蛋白和天蚕素B基因上调,而细胞色素P450、热激蛋白和保幼激素相关基因下调,提示生长、发育、生殖、解毒、应激与免疫通路受扰。该研究为氟吡呋喃酮的安全合理使用提供了依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42714717",
+    "title": "Identification of Differential Volatiles in Resistant/Susceptible Faba Bean and Aphis craccivora 's Behavioral Responses to These Volatiles",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of chemical ecology",
+    "authors": "Fang T, Teng C, Zhang H, Zhou X, Wen Z, Bai L, Liu Y.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42714717",
+    "doi": "10.1007/s10886-026-01760-0",
+    "pmid": "42714717",
+    "abstract": "Aphis craccivora is a major piercing-sucking pest that causes severe yield and quality losses in Vicia faba. Here, two faba bean lines with extreme aphid resistance (K, resistant; G, susceptible) were subjected to aphid-infested and uninfested treatments. Constitutive and induced volatile organic compounds (VOCs) were identified by SPME-GC-MS, and Aphis craccivora's behavioral responses to VOCs were assayed via four-arm olfactometer. ROAV and multivariate statistical analysis were used to explore the correlation between VOC profiles and aphid resistance. Results showed K had marginally more VOCs (344 ~ 345) than G (339), with a conserved core VOC library but distinct unique metabolites and category contribution ratios between the two lines. 2-methoxy-3-(2-methylpropyl) pyrazine (highest ROAV in G) and (E, Z)-2,6-nonadienal (core aroma compound in K) were the key differential VOCs. K exhibited predominant upregulation of differential metabolites after aphid infestation, and constitutive green/sweet aroma VOCs differed significantly between K and G. Behavioral assays identified 10 VOCs repellent and 4 VOCs attractive to Aphis craccivora, among which Methyl salicylate exhibited consistent repellency across all tested concentrations only eucalyptol showed concentration-dependent behavioral effects. This study elucidates the chemical ecological mechanism of faba bean mediating Aphis craccivora host selection via regulated specific VOC emission, confirming the critical roles of both constitutive and induced VOCs in aphid resistance. The findings provide a theoretical basis for aphid-resistant faba bean molecular marker-assisted breeding, plant-derived pesticide development, and Aphis craccivora ecological regulation.",
+    "species_latin": "Vicia faba",
+    "species_en": "Faba bean",
+    "species_zh": "蚕豆",
+    "takeaway": "用SPME-GC-MS和四臂嗅觉仪比较抗感蚕豆挥发物，发现关键差异物并鉴定出驱避与吸引蚜虫的挥发物。",
+    "conclusion": "抗性蚕豆K与感虫蚕豆G的挥发物组成存在差异，核心库保守但特有代谢物和类别比例不同；2-甲氧基-3-(2-甲基丙基)吡嗪和(E,Z)-2,6-壬二烯醛为关键差异物。蚜虫取食后K差异代谢物以上调为主，组成型青香/甜香挥发物差异显著。行为实验鉴定出10种驱避、4种吸引蚜虫的挥发物，其中水杨酸甲酯在各浓度均驱避，桉叶油醇呈浓度依赖效应。该研究揭示蚕豆通过调控特定挥发物介导蚜虫寄主选择的化学生态机制，为抗蚜育种和植物源农药开发提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42711897",
+    "title": "Design of bioactive peptides by amino acid combination strategy against peanut southern blight caused by Sclerotium rolfsii",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Ren Y, Hao Y, Li G, Song Y, Wang X, Wang Q, Wang M.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42711897",
+    "doi": "10.1002/ps.71272",
+    "pmid": "42711897",
+    "abstract": "Background Peanut southern blight, caused by Sclerotium rolfsii Sacc., is a destructive soil-borne disease that severely threatens peanut yield and production safety. In response to the growing demand for environmentally compatible fungicides with low resistance risk, bioactive peptides have emerged as promising alternatives for disease management. Results In this study, two novel peptides, wmz-1 and wmz-2, were designed using an amino acid combination strategy, and their bioactivities were systematically evaluated. Although both peptides exhibited moderate in vitro inhibition rates of 28.48% and 26.46% against S. rolfsii at 400 mg L -1 , they showed superior in vivo performance in pot experiments. At 200 mg L -1 , wmz-1 demonstrated protective and curative efficacies of 62.79% and 65.68%, respectively, whereas wmz-2 achieved 53.74% and 46.06%, respectively. To investigate the discrepancy between in vitro and in vivo activity, their effects on peanut plants were further examined. The results showed that both wmz-1 and the amino acid combination significantly promoted plant growth and enhanced the activities of defense-related enzymes, thereby providing experimental evidence supporting the involvement of plant growth promotion and induced defense responses. Moreover, both peptides exhibited low cytotoxicity toward human LO2 liver cells. Conclusion These findings highlight the potential of wmz-1 and wmz-2 as effective, low-toxicity and environmentally friendly biopesticide candidates for the sustainable management of peanut southern blight, providing a theoretical basis for further development of peptide-based fungicides. © 2026 Society of Chemical Industry.",
+    "species_latin": "Arachis hypogaea",
+    "species_en": "Peanut",
+    "species_zh": "花生",
+    "takeaway": "用氨基酸组合策略设计出两种新型肽wmz-1和wmz-2，可低毒高效防治花生白绢病。",
+    "conclusion": "wmz-1与wmz-2虽体外抑菌活性一般，但在盆栽中对花生白绢病表现出良好的保护与治疗作用，其机制涉及促进植株生长和诱导防御酶活性增强，且对人肝细胞毒性低，有望成为绿色低毒的生物农药候选物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42711770",
+    "title": "Reduced fitness cost accounts for the stability of a malathion-resistant heterogeneous duplication haplotype in Ceratitis capitata field populations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Arouri R, Couso-Ferrer F, López-Errasquín E, Beroiz B, Sánchez L, Hernández-Crespo P, Ortego F.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42711770",
+    "doi": "10.1002/ps.71269",
+    "pmid": "42711770",
+    "abstract": "Background Malathion resistance in the Mediterranean fruit fly, Ceratitis capitata, is associated with: (i) the mutation G328A in the target acetylcholinesterase gene (Ccace2) (R allele); and (ii) a heterogeneous duplication of the Ccace2 gene (RS haplotype, one of the copies bearing the mutation G328A and the other copy nonmutated). Results Bioassays with the resistant (R/R and RS/RS) and susceptible (S/S) genotypes, F 1 crosses and back-crosses indicated that resistance was inherited in both cases as a semi-dominant trait. We have also demonstrated that the R allele imposes a higher fitness cost than RS haplotype by three different lines of evidence: (i) individuals with genotype R/R had a reduced performance compared to RS/RS and S/S individuals for some biological traits; (ii) the stability of the RS haplotype was higher than that of the R allele under laboratory conditions in the absence of insecticide selection; and (iii) the frequency of the R allele declined in field populations, when assessed in the same seven localities in the Comunitat Valenciana (Spain) at 1, 4 and 6 years after malathion withdrawal, whereas the RS haplotype maintained its frequency during the same period. Conclusion An evolutionary model supported that the fitness cost of the different genotypes in field populations was higher for those containing the R allele than for those containing the RS haplotype, and was used to explore which resistance management strategies should be implemented if malathion or other insecticides showing cross-resistance were authorized in the future. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Ceratitis capitata",
+    "species_en": "Mediterranean fruit fly",
+    "species_zh": "地中海实蝇",
+    "takeaway": "地中海实蝇中,RS重复单倍型因适应度代价低于R等位基因,在停用马拉硫磷后仍保持稳定。",
+    "conclusion": "抗性由半显性遗传控制;含R等位基因的基因型适应度代价高于RS重复单倍型,故停药后R等位基因频率下降而RS单倍型频率稳定。该结果提示未来若重新启用马拉硫磷或存在交互抗性的药剂,应据此制定抗性治理策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42709403",
     "title": "A chromosome-level, haplotype-resolved genome assembly for the barn owl, Tyto alba",
     "type": "paper",
@@ -22,7 +152,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +204,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -100,7 +230,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +256,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1093/hr/uhag366",
+    "title": "Telomere-to-telomere genome assembly reveals the comprehensive multi-omics landscape of terpenoid synthesis and glandular trichome development in Corymbia citriodora leaves",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Horticulture Research",
+    "authors": "Shengkan Chen, Shiqi Ren, Changrong Li, Chunyan Gan, Dongqiang Guo, Qinglan Tang, Ziyu Deng, Xiaoying Fang, Qi Wu, Hui Zhu, Yuan Liu, LU Cui-xiang, Jianbo Chen, Bowen Chen",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-10",
+    "url": "https://doi.org/10.1093/hr/uhag366",
+    "doi": "10.1093/hr/uhag366",
+    "pmid": "",
+    "abstract": "Shengkan Chen, Shiqi Ren, Changrong Li, Chunyan Gan, Dongqiang Guo, Qinglan Tang, Ziyu Deng, Xiaoying Fang, Qi Wu, Hui Zhu, Yuan Liu, Cuixiang Lu, Jianbo C",
+    "species_latin": "Corymbia citriodora",
+    "species_en": "Lemon-scented gum",
+    "species_zh": "柠檬桉",
+    "takeaway": "研究完成柠檬桉端粒到端粒基因组组装，揭示叶片萜类合成与腺毛发育的多组学特征",
+    "conclusion": "该研究构建了柠檬桉端粒到端粒高质量基因组，并结合多组学数据解析了叶片萜类物质合成途径与腺毛发育的调控网络，为桉树萜类代谢的遗传改良和分子育种提供了重要资源与理论依据。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
@@ -1190,6 +1346,32 @@
     "conclusion": "所有目标物均有检出，吡虫啉平均残留最高（18.8 µg/kg，检出率44.9%）。单项危害商多低于1，但累积危害指数在所有蔬菜和年龄组中均超1，表明联合暴露存在慢性风险。辣椒和樱桃番茄为优先关注商品，6-8岁儿童最敏感。研究强调需进行累积风险评估和针对特定商品的监测。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42711426",
+    "title": "T2T-HG002v1.1 human genome benchmark",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature genetics",
+    "authors": "Li W.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-10",
+    "url": "https://europepmc.org/article/MED/42711426",
+    "doi": "10.1038/s41588-026-02761-1",
+    "pmid": "42711426",
+    "abstract": "",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "T2T-HG002v1.1 人类基因组基准发布，为基因组组装与变异检测提供参考标准。",
+    "conclusion": "该工作提出 T2T-HG002v1.1 人类基因组基准，可作为评估基因组组装质量与变异检测准确性的参照，推动人类基因组研究标准化。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
