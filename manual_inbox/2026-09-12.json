@@ -1,0 +1,42 @@
+[
+  {
+    "id": "manual-20260912-mouse-y",
+    "title": "Science丨俞晓春课题组实现小鼠Y染色体端粒到端粒完整组装",
+    "type": "wechat",
+    "boards": ["t2t"],
+    "source": "BioArt（网易号镜像）",
+    "authors": "",
+    "publish_date": "2026-09-11",
+    "added_at": "2026-09-12",
+    "url": "http://m.163.com/dy/article/L6HIC2G00532BT7X.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "西湖大学生命科学学院俞晓春团队2026年9月11日在《Science》发表“The complete telomere-to-telomere sequence of a mouse Y chromosome”：继2024年完成小鼠常染色体与X染色体T2T组装后，基于Oxford Nanopore超长测序并整合Illumina、PacBio HiFi与Pore-C，完成C57BL/6小鼠Y染色体完整序列mT2T-Y（全长95.21 Mbp），填补GRCm39参考Y染色体全部25个缺口、修正6处错误倒位，由此建立覆盖全部染色体的端粒到端粒小鼠参考基因组。",
+    "species_latin": "Mus musculus",
+    "species_en": "House mouse (Mus musculus, C57BL/6 strain)",
+    "species_zh": "小家鼠（小鼠，C57BL/6）",
+    "takeaway": "首个完整小鼠Y染色体T2T序列mT2T-Y补齐全25个缺口，使小鼠基因组全部染色体首次实现端粒到端粒无缺口。",
+    "conclusion": "mT2T-Y全长95.21 Mbp、新增约8.70 Mbp此前未组装区域，重复序列占比高达91%（常/X染色体为47.6%）；鉴定两个Y特异卫星区域——短臂CTAT/GATA微卫星阵列（旁侧睾丸成熟中上调的lncRNA）与缺失典型CENP-B结合基序的紧凑小卫星阵列，提示独特着丝粒/动粒组织；共注释2186个基因含142个新基因（多属Ssty、Rbmy家族）；20个X/Y同源基因在两性总表达相当、逃逸与失活基因具差异DNA甲基化和组蛋白修饰，提供Y染色体剂量补偿证据；约1.66 Mbp完整拟常染色体区含11单元可变重复及Spo11识别基序簇，提示其在减数分裂配对重组中的作用。",
+    "keywords": ["T2T基因组", "端粒到端粒", "小鼠Y染色体", "mT2T-Y", "性染色体", "卫星重复序列", "着丝粒", "剂量补偿", "拟常染色体区", "Science"]
+  },
+  {
+    "id": "manual-20260912-matrine-teasaponin",
+    "title": "苦参碱–茶皂素协同作用涉及叶甲中解毒与消化功能的抑制",
+    "type": "wechat",
+    "boards": ["insecticide"],
+    "source": "生物通（转 Integrative Zoology）",
+    "authors": "",
+    "publish_date": "2026-09-11",
+    "added_at": "2026-09-12",
+    "url": "https://m.ebiotrade.com/newsf/2026-9/20260911000840448.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "生物通转《Integrative Zoology》研究：以林业与城市绿地食叶害虫柳蓝叶甲（Plagiodera versicolora）为对象，测定两种代表性植物源药剂苦参碱、茶皂素的单独毒力与等毒比混配协同效应，并结合转录组和RNA干扰解析机制；二元混配加性指数AI=0.27呈明确协同增效，鉴定胰蛋白酶、几丁质酶基因为关键靶点，为绿色植物源复配制剂及RNAi杀虫提供依据。",
+    "species_latin": "Plagiodera versicolora",
+    "species_en": "Willow leaf beetle (Plagiodera versicolora)",
+    "species_zh": "柳蓝叶甲",
+    "takeaway": "苦参碱与茶皂素通过协同下调CYP450/GST解毒酶及胰蛋白酶、几丁质酶等消化酶实现增效，Pver105950、Pver001190为关键分子靶点。",
+    "conclusion": "单剂处理6天LC50苦参碱1.948 µg/L、茶皂素5.589 mg/L，等毒比混配AI=0.27、达到50%死亡所需两药浓度均显著下降；混配组共286个基因上调、226个下调，协同抑制细胞色素P450、谷胱甘肽S-转移酶等解毒通路及胰蛋白酶、几丁质酶、脂肪酶等消化酶；饲料递送dsRNA在茶皂素背景下沉默胰蛋白酶基因Pver105950、在苦参碱背景下沉默几丁质酶基因Pver001190均显著增敏，Pver001190敲低后存活率与混配组相当，其几丁质酶可能维持中肠围食膜屏障，沉默后功能上模拟茶皂素对肠屏障的破坏。",
+    "keywords": ["新型杀虫剂", "植物源农药", "苦参碱", "茶皂素", "协同增效", "解毒代谢", "CYP450", "GST", "RNAi", "柳蓝叶甲", "Integrative Zoology"]
+  }
+]
