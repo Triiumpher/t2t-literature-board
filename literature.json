@@ -1,5 +1,240 @@
 [
   {
+    "id": "pmid-42721262",
+    "title": "Fusarium oxysporum f. sp. crypti, a novel forma specialis causing Fusarium wilt of mitsuba, Cryptotaenia japonica",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant disease",
+    "authors": "Saito H, Tobata K, Kato Y, Kotera S, Asai S, Ishihara C, Miyashima S, Takeda A, Morita Y, Turgeon BG, Di Pietro A, Komatsu K, Arie T.",
+    "publish_date": "2026-09-10",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42721262",
+    "doi": "10.1094/pdis-06-26-1146-re",
+    "pmid": "42721262",
+    "abstract": "Fusarium oxysporum isolates causing Fusarium wilt in mitsuba (Cryptotaenia japonica Hassk.; also referred to as Japanese honeywort, Japanese honewort, or Japanese parsley) have traditionally been classified as f. sp. apii. However, some reports have indicated that the host-pathogenic F. oxysporum isolates derived from mitsuba are nonpathogenic to celery, the principal host of f. sp. apii. In this study, we aimed to elucidate the differences among isolates from mitsuba, coriander, and celery in terms of host range, phylogenetic relationships, genomic synteny, and effector profiles. Inoculation assays revealed a clear distinction in host range between the mitsuba, coriander, and celery isolates. Phylogenetic analyses based on the rDNA intergenic spacer and translation elongation factor sequences indicated a distant relationship between mitsuba isolates and those from coriander and celery. Whole-genome analysis based on high-quality de novo-assembled genomes, including telomere-to-telomere-level assemblies of isolates from mitsuba, coriander, and celery, showed that the mitsuba isolates possess conserved accessory chromosomal regions absent in celery and coriander isolates. Moreover, effector profiling identified a specific pattern of effector repertoires shared by the mitsuba isolates. These findings suggest that the host-pathogenic F. oxysporum isolates derived from mitsuba represent a forma specialis distinct from f. sp. apii. Thus, we propose designating the F. oxysporum isolates from mitsuba that cause Fusarium wilt as Fusarium oxysporum f. sp. crypti forma specialis nova.",
+    "species_latin": "Cryptotaenia japonica",
+    "species_en": "mitsuba (Japanese honewort)",
+    "species_zh": "三叶芹",
+    "takeaway": "研究证实三叶芹枯萎病菌在寄主范围、系统发育与基因组上均不同于芹菜专化型，应立为新专化型。",
+    "conclusion": "三叶芹、芫荽与芹菜来源的尖孢镰刀菌分离株在寄主范围上明显分化；系统发育显示三叶芹菌株与后两者亲缘较远，全基因组组装揭示其保留芹菜和芫荽菌株缺失的附属染色体区域，并具有独特的效应子组合。据此将三叶芹致病菌定为新专化型F. oxysporum f. sp. crypti。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42721245",
+    "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Science (New York, N.Y.)",
+    "authors": "Li Q, Liu J, Chen S, Hu Y, Li D, Su Z, Zhang Y, Yu X.",
+    "publish_date": "2026-09-10",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42721245",
+    "doi": "10.1126/science.aea2249",
+    "pmid": "42721245",
+    "abstract": "The mouse Y chromosome is essential for male reproduction, yet the GRCm39 reference contains 25 gaps, particularly in repetitive and complex regions. Here, we assembled a telomere-to-telomere Y chromosome (mT2T Y) of 95.21 Mb from a C57BL/6 mouse incorporating parental genomes. This assembly fills all gaps, corrects structural errors, and adds over 8.70 Mb of previously unassembled sequence to the reference genome. We annotated 142 previously unidentified genes, identified Y specific satellite arrays, and mapped homologous recombination loci in the pseudoautosomal region (PAR). Analysis of X Y homologous gene expression revealed a Y chromosome dosage compensation mechanism. By combining mT2T Y with T2T mhaESC, we completed the T2T assembly of all C57BL/6 chromosomes, designated T2T mhaESC+Y, providing a complete C57BL/6 reference genome.",
+    "species_latin": "Mus musculus",
+    "species_en": "House mouse",
+    "species_zh": "小家鼠",
+    "takeaway": "研究完成C57BL/6小鼠Y染色体端粒到端粒组装，填补全部缺口并新增超8.7 Mb序列，注释142个新基因。",
+    "conclusion": "该研究获得95.21 Mb的小鼠Y染色体完整序列，填补GRCm39参考基因组的25个缺口、纠正结构错误并新增8.70 Mb以上序列，注释142个此前未知基因，鉴定Y特异卫星阵列并定位拟常染色体区重组位点；通过X-Y同源基因表达分析揭示Y染色体剂量补偿机制，并结合T2T mhaESC完成C57BL/6全部染色体的完整参考基因组。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42720486",
+    "title": "HighMorph: De Novo Cyclic Peptide Sequence Design via Protein-Protein Interaction Recapitulation",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of medicinal chemistry",
+    "authors": "Lan M, Zhang C, Wang W, Hu H, Lin H, Cao S, Guo J, Duan H.",
+    "publish_date": "2026-09-10",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42720486",
+    "doi": "10.1021/acs.jmedchem.6c01926",
+    "pmid": "42720486",
+    "abstract": "Cyclic peptides have emerged as a compelling class of bioactive scaffolds, but de novo design of target-binding cyclic peptides from protein structures remains challenging. Here, we present HighMorph, an interaction-guided framework that combines protein-protein interaction information with artificial intelligence for rational cyclic peptide design. HighMorph integrates Monte Carlo tree search with a Transformer-based policy-value network to efficiently explore cyclic peptide sequence space, while incorporating explicit atomic-level hydrogen bond constraints extracted from reference protein-protein complexes to guide sequence optimization. The framework is systematically validated on two clinically relevant targets, programmed death-ligand 1 (PD-L1) and kallikrein-related peptidase 4 (KLK4). Notably, 33.3% and 40% of the generated candidates are active against PD-L1 and KLK4, respectively, with active cyclic peptides exhibiting micromolar binding affinities (approximately 10-6 M). These results validate our approach for cyclic peptide design. Additionally, interaction analysis provides insights for developing therapeutics targeting challenging protein interfaces.",
+    "species_latin": "Design via",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "HighMorph结合蛋白互作信息与AI，从头设计靶向PD-L1和KLK4的环肽，命中率33.3%和40%。",
+    "conclusion": "该研究提出HighMorph框架，将蛋白-蛋白相互作用信息与人工智能结合，利用蒙特卡洛树搜索和Transformer策略价值网络探索环肽序列空间，并引入原子级氢键约束指导优化。在PD-L1和KLK4两个临床相关靶点上验证，分别有33.3%和40%的候选环肽具有活性，结合亲和力达微摩尔级，证明该方法可用于环肽设计并为攻克难成药蛋白界面提供思路。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42720145",
+    "title": "Changes in alternative splicing are associated with insecticide response and resistance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Genome biology and evolution",
+    "authors": "Tabuloc CA, Hidalgo S, Carlson CR, Zhang H, Zalom FG, Chiu JC.",
+    "publish_date": "2026-09-10",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42720145",
+    "doi": "10.1093/gbe/evag227",
+    "pmid": "42720145",
+    "abstract": "Alternative splicing (AS) promotes phenotypic plasticity to adverse conditions by altering the transcripts of genes directly involved in adaptation to those conditions. Whether changes in AS occur in a few, select genes or at a larger scale is unclear. Insect pests are regularly exposed to xenobiotic stress from insecticide applications and thus develop resistance. Here, we used a genome-wide approach to show that the fruit pest Drosophila suzukii, resistant to multiple insecticides, exhibits aberrant splicing in many classes of genes, including those involved in general stress response and processes previously implicated in insecticide resistance, such as metabolic and cuticular pathways. Our results suggest that resistance is not simply a consequence of broad, transcriptome-wide increases in AS events. Instead, the specific classes of genes that are differentially spliced are better determinants of insecticide resistance. Furthermore, we observe that sublethal insecticide exposure promotes AS events even in the absence of substantial differential gene expression. Based on our results, we propose genetic accommodation could have led to the development of insecticide resistance in D. suzukii, in which repeated insecticide exposure alters the regulation of environmentally induced AS events, ultimately leading to genetic assimilation. This leads to elevated AS of specific transcripts, a phenomenon normally induced by insecticide exposure, potentially becoming genetically encoded and constitutively expressed, even in the absence of insecticide exposure. In summary, this study provides insights into the role of AS in enabling insects to diversify genome function to survive acute insecticide treatment and to develop xenobiotic resistance upon prolonged exposure.",
+    "species_latin": "Drosophila suzukii",
+    "species_en": "spotted-wing drosophila",
+    "species_zh": "斑翅果蝇",
+    "takeaway": "以基因组水平分析发现,抗多种杀虫剂的斑翅果蝇在多个基因类别中发生异常剪接,特定基因的差异剪接比整体剪接量更能决定抗性。",
+    "conclusion": "抗性并非源于转录组范围内剪接事件的普遍增加,而是取决于发生差异剪接的特定基因类别;亚致死杀虫剂暴露可在基因表达无明显变化时促进剪接事件。据此提出遗传顺应模型:反复暴露改变环境诱导剪接的调控,最终经遗传同化使特定转录本的高水平剪接被遗传编码并组成型表达,从而在无杀虫剂时也维持抗性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42717734",
+    "title": "Molecular characterization of vitellogenin and its receptor with CRISPR-based sgRNA validation in the legume pod borer, &lt;i&gt;Maruca vitrata&lt;/i&gt; (Geyer) (Lepidoptera: Crambidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bulletin of entomological research",
+    "authors": "Pradeep C, Sujatha PM, Nagesha SN, Asokan R, Karuppannasamy A.",
+    "publish_date": "2026-09-10",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42717734",
+    "doi": "10.1017/s0007485326101308",
+    "pmid": "42717734",
+    "abstract": "Maruca vitrata , the legume pod borer, causes yield losses of up to 80% in grain legumes. Increasing insecticide resistance and environmental concerns necessitate sustainable pest management alternatives. In the present study, the complete vitellogenin (Vg) coding sequence (CDS), a key reproductive gene involved in oogenesis and embryonic development, was cloned and molecularly characterised from M. vitrata . The assembled Vg CDS (∼5.3 kb) shared 99.04% sequence identity with the reported M. vitrata Vg sequence (MG799570.1). Phylogenetic analysis demonstrated close evolutionary association with related Lepidopteran species, while protein domain analysis identified three conserved domains, namely LPD_N, DUF1943, and VWD. Among these, the single exon-encoded LPD_N domain was selected as the target region for CRISPR/Cas9-mediated editing. Homology models of Vg and vitellogenin receptor (VgR) (Global Model Quality Estimation (GMQE): 0.58 and 0.51) showed a favourable interaction by protein-protein docking (score: -295.66). Three single-guide RNAs (sgRNAs) were designed, synthesised through in-vitro transcription, and evaluated using in vitro cleavage assays. sgRNA1 targeting the LPD_N domain and sgRNA2 targeting the signal peptide region exhibited efficient site-specific cleavage activity, whereas sgRNA3 failed to induce cleavage because of an unfavourable secondary structure that likely impaired Cas9-sgRNA complex formation. Overall, this study provides the first CRISPR-oriented functional characterisation and sgRNA validation of the M. vitrata Vg gene, together with structural characterisation of VgR and Vg-VgR interaction analysis, providing preliminary molecular resources for future CRISPR/Cas9 studies and supporting future embryo microinjection and heritable genome editing for sustainable management of M. vitrata .",
+    "species_latin": "Maruca vitrata",
+    "species_en": "legume pod borer",
+    "species_zh": "豆荚螟",
+    "takeaway": "克隆了豆荚螟卵黄原蛋白Vg基因并验证CRISPR sgRNA，为遗传防控提供分子基础",
+    "conclusion": "研究克隆并表征了豆荚螟Vg基因，其含LPD_N、DUF1943和VWD三个保守结构域，与VgR存在良好互作；设计的sgRNA1和sgRNA2可高效定点切割，sgRNA3因二级结构不利而失效。这是该虫Vg基因首个CRISPR导向的功能表征与sgRNA验证，为后续胚胎显微注射和可遗传基因组编辑及可持续防控奠定基础。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42720841",
+    "title": "Monitoring and Behavioral Control of Lepidopteran Pests in Soybean: Evaluation of Food-Based Attractants, Trap Performance, and Selectivity on Non-Target Organisms",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Neotropical entomology",
+    "authors": "Cesarin V, de Oliveira SC, Guedes AG, Soares JRS, Fernandes OA.",
+    "publish_date": "2026-09-10",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42720841",
+    "doi": "10.1007/s13744-026-01428-0",
+    "pmid": "42720841",
+    "abstract": "Chemically mediated behavioral strategies, including semiochemicals and food-based attractants, have gained prominence in Integrated Pest Management (IPM) programs because of their potential for selective and environmentally friendly pest control. The objective of this study is to evaluate the use of food-based attractants and two trap models (delta-ajar and funnel-ball) for monitoring adult lepidopteran pests in soybean fields. Additionally, the field performance and selectivity of an attract-and-kill (attractant + insecticide) strategy were assessed. Field trials were conducted in commercial soybean areas in Jaboticabal, São Paulo state, Brazil. Results indicated that funnel-ball traps captured a significantly higher number of target moths (36.8 ± 4.3 moths/trap/month) than delta-ajar traps (17.4 ± 2.9 moths/trap/month). However, both models presented similar species richness. Temporal patterns of moth abundance varied along the crop cycle and Helicoverpa armigera and Chrysodeixis includens populations peaked during the reproductive stages of soybean. In contrast, Spodoptera frugiperda and Elasmopalpus lignosellus were more abundant during the early vegetative stages, particularly within the first 20 days after plant emergence. The attract-and-kill application was associated with significantly higher moth mortality than the untreated control, especially for C. includens and E. lignosellus, with mortality peaking at 40 days after trap installation. Importantly, mortality among non-target organisms was relatively low (< 2% of total mortality), and was mainly restricted to a limited number of families such as Dolichopodidae, and Tachinidae (Diptera). These findings underscore the relevance of adaptive, phenology-aware pest management strategies that incorporate semiochemical tools with minimal ecological disruptions.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "Fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "在大豆田比较两种诱捕器与食诱剂，漏斗球型诱捕器捕获靶标蛾更多，诱杀策略可提高靶标害虫死亡率且对非靶标生物影响小。",
+    "conclusion": "漏斗球型诱捕器监测效率优于delta-ajar型，但两者物种丰富度相近；靶标蛾类丰度随大豆生育期变化，棉铃虫和南方银纹夜蛾在生殖期达峰，草地贪夜蛾和甘蔗蛀茎螟在苗期更丰富。食诱剂加杀虫剂的诱杀处理显著提高靶标害虫死亡率，非靶标生物死亡占比低于2%，表明该策略可选择性控制害虫并减少生态干扰。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42717435",
+    "title": "Advances in mosquito gut microbiota: Mechanisms of regulating pathogen transmission and applications in vector control",
+    "type": "paper",
+    "boards": [
+      "insecticide",
+      "sexdet"
+    ],
+    "source": "Virulence",
+    "authors": "Zhao B, Yu L, Wang J, Xia X.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42717435",
+    "doi": "10.1080/21505594.2026.2723655",
+    "pmid": "42717435",
+    "abstract": "Mosquito-borne diseases pose a threat to global public health, yet traditional control measures are constrained by insecticide resistance and vaccine development bottlenecks. The gut microbiota-mediated transmission-blocking strategy has emerged as a promising alternative. This review summarizes three symbiont mechanisms: direct pathogen inhibition, host immunomodulation, and metabolic niche competition. We highlight research progress and field efficacy of three technical routes: Wolbachia-based population replacement and suppression, paratransgenesis using engineered symbionts, and deployment of natural probiotics. In large-scale field trials, this strategy achieved a 77.1% reduction in dengue incidence and an 86.2% reduction in dengue-related hospitalizations. We analyze constraints including temperature sensitivity, viral evolutionary escape, and ecological safety risks, and propose future directions emphasizing multi-strategy synergy, multi-effector engineered symbionts, and artificial intelligence (AI)-assisted precision interventions. Aligned with the One Health framework, this microbiota-based paradigm offers a foundation for sustainable mosquito-borne disease control, although large-scale implementation depends on resolving regulatory, ecological-safety, and scalability challenges.",
+    "species_latin": "Culex pipiens",
+    "species_en": "Mosquito",
+    "species_zh": "蚊子",
+    "takeaway": "蚊肠道菌群可通过抑病原、调免疫、竞争生态位阻断传播，田间使登革热发病降77.1%。",
+    "conclusion": "蚊肠道菌群介导的传播阻断策略通过直接抑制病原体、调节宿主免疫和代谢生态位竞争三种机制发挥作用，Wolbachia种群替换与压制、工程共生菌paratransgenesis及天然益生菌三条技术路线在大规模田间试验中显著降低登革热发病与住院率；但受温度敏感性、病毒进化逃逸和生态安全风险制约，未来需多策略协同、多效应工程菌与AI精准干预，并在One Health框架下解决监管与可扩展性问题。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42717413",
+    "title": "Neonicotinoid seed treatments and early soybean planting: quantifying pest abundance, crop protection, and effects on yield",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Chhetri S, Krupke CH.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42717413",
+    "doi": "10.1093/jee/toag268",
+    "pmid": "42717413",
+    "abstract": "Soybean (Glycine max (L.) Merr.) yields have increased with advances in plant breeding and management practices, including earlier planting. Early planting in temperate climates maximizes yield potential but may increase vulnerability to certain pests and environmental stressors. Neonicotinoid seed treatments, particularly thiamethoxam, are widely marketed to protect soybean seedlings, yet their effectiveness under typical early-season field conditions in Indiana remains unexplored. This 2-year (2023 to 2024) study was conducted at 3 sites in Indiana. Soybeans were planted during 4 discrete periods (early April to late May). Seeds were treated as follows: (1) untreated seeds, (2) CruiserMaxx APX (thiamethoxam, mefenoxam, fludioxonil, picarbutrazox, and sedaxane), (3) Cruiser 5FS (thiamethoxam only), and (4) CruiserMaxx APX without thiamethoxam. Soybean pest populations and defoliation were monitored weekly. Plant stands, counts, and plot yields were also collected. Thiamethoxam seed treatments did not reduce pest populations but did lower defoliation slightly under low pest pressure. Later-May plantings reduced pest counts and damage compared to early-April plantings. Despite higher observed pest pressure and damage in the early season, early plantings produced higher yields than later plantings, with no differences between treated and untreated plots. Planting timing strongly influenced pest dynamics and yields. Although pest abundance and damage were heightened in early-season planting, observed defoliation remained well below economic thresholds and did not translate into yield loss. In our study, the minor reductions in damage observed were not associated with economic benefits, suggesting that routine insecticidal seed treatments may be unnecessary, even for early spring soybean planting.",
+    "species_latin": "Glycine max",
+    "species_en": "soybean",
+    "species_zh": "大豆",
+    "takeaway": "印第安纳两年试验表明，噻虫嗪种子处理未降低大豆害虫数量，早播虽虫害多但产量更高，处理与未处理无产量差异。",
+    "conclusion": "早播可提高大豆产量，但会伴随更多害虫与轻微落叶；噻虫嗪种子处理在低虫压下仅略微减少落叶，未降低虫口，也未带来产量收益。由于落叶远低于经济阈值，常规杀虫种子处理即便对早春大豆也可能不必要。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42717466",
+    "title": "Integrating bioassays and transcriptomics to detect neonicotinoid resistance in Australian Bemisia tabaci MEAM1",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Fang CG, Balzer J, Frese M, Tay WT, Walsh T, Hopkinson J.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42717466",
+    "doi": "10.1002/ps.71281",
+    "pmid": "42717466",
+    "abstract": "BACKGROUND: Bemisia tabaci MEAM1 is a highly invasive and polyphagous pest species of agricultural and horticultural crops worldwide. It has developed resistance to numerous insecticides, including neonicotinoids. Over-expression of the cytochrome P450 CYP6CM1 gene has been associated with neonicotinoid resistance. In this study, we used transcriptional analysis (RNAseq and RT-qPCR) to assess the expression of CYP6CM1 and bioassays to quantify levels of neonicotinoid resistance in the B. tabaci resistant GR15-1R strain and 10 field populations collected from Australian cotton in 2023. RESULTS: Foliar bioassays showed that the GR15-1R strain has partial cross-resistance to neonicotinoids with responses ranked as very high to imidacloprid, clothianidin and thiacloprid, high to thiamethoxam, moderate to acetamiprid, but susceptible to dinotefuran. The transcriptional analysis revealed constitutive over-expression of multiple cytochrome P450 genes, with CYP6CM1 being the most highly expressed. Bioassays of field populations and CYP6CM1 expression levels indicated moderate to high levels of resistance to clothianidin, while the response to imidacloprid was more variable, ranging from low to very high resistance; no resistance to dinotefuran or acetamiprid was observed. CONCLUSIONS: The over-expression of CYP6CM1 is associated with resistance to imidacloprid, clothianidin, thiacloprid and thiamethoxam. Combining molecular techniques with bioassays is useful for identifying biologically relevant levels of resistance. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Bemisia tabaci",
+    "species_en": "Sweetpotato whitefly",
+    "species_zh": "烟粉虱",
+    "takeaway": "澳大利亚烟粉虱MEAM1田间种群对新烟碱类杀虫剂抗性不一，CYP6CM1过表达与抗性相关。",
+    "conclusion": "CYP6CM1过表达与吡虫啉、噻虫胺、噻虫啉和噻虫嗪抗性相关，而呋虫胺和啶虫脒无抗性。将转录组分析与生物测定结合，有助于识别具有生物学意义的抗性水平，为抗性监测提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42713821",
     "title": "Matrine-Tea Saponin Synergism Involves Suppressed Detoxification and Digestion in a Leaf Beetle",
     "type": "paper",
@@ -48,7 +283,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +309,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -100,7 +335,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +361,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -152,7 +387,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -230,7 +465,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -256,7 +491,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1001,6 +1236,39 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20260911-bt-hydrogel",
+    "title": "[中国科学报] 仿生水凝胶破解微生物Bt农药田间应用短板",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农业科学院植物保护研究所官网（转中国科学报）",
+    "authors": "",
+    "publish_date": "2026-09-02",
+    "added_at": "2026-09-11",
+    "url": "http://www.ippcaas.cn/mtjj/d16729bb225c4961ad72426564457812.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院植保所受细菌生物膜启发，研发叶酸-锌超分子水凝胶体系，将苏云金芽胞杆菌（Bt）芽胞与晶体蛋白包封于三维多孔网络，模拟生物膜的保护结构，破解Bt制剂易被紫外辐射灭活、易被雨水冲刷两大田间短板；成果发表于《Chemical Engineering Journal》，对全球性入侵害虫番茄潜叶蛾田间防效显著提升。",
+    "species_latin": "Bacillus thuringiensis",
+    "species_en": "Bacillus thuringiensis (Bt)",
+    "species_zh": "苏云金芽胞杆菌",
+    "takeaway": "叶酸-锌仿生超分子水凝胶给Bt穿上“生物膜护甲”，抗紫外、耐雨水冲刷，施药14天对番茄潜叶蛾防效仍达72%、较可湿性粉剂提高约27%。",
+    "conclusion": "叶酸与锌离子自组装形成超分子水凝胶包封Bt芽胞和伴胞晶体蛋白，模拟生物膜三维多孔保护网络，显著提升制剂抗逆性与持效期；施药4天防效接近85%、14天仍达72%（较传统可湿性粉剂提高约27个百分点），为微生物杀虫剂的抗紫外/抗冲刷缓释制剂设计提供新策略。",
+    "keywords": [
+      "新型杀虫剂",
+      "生物农药",
+      "苏云金芽胞杆菌",
+      "Bt",
+      "仿生水凝胶",
+      "超分子制剂",
+      "抗紫外",
+      "耐雨水冲刷",
+      "番茄潜叶蛾",
+      "Chemical Engineering Journal"
+    ]
+  },
+  {
     "id": "manual-20260908-rna-biopes-framework",
     "title": "Advanced Agrochem | 江苏省农科院植保所提出下一代RNA生物农药“平台-屏障”协同设计框架",
     "type": "wechat",
@@ -1453,6 +1721,39 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20260911-t2t-licorice",
+    "title": "石河子大学李鸿彬团队完成甘草首个T2T基因组组装，揭示药物活性成分合成与环境适应遗传机制",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "石河子大学官网",
+    "authors": "",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-11",
+    "url": "https://www.shzu.edu.cn/2026/0901/c13315a235315/page.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "石河子大学生命科学学院李鸿彬团队（第一作者石善党）在《Science China Life Sciences》（中科院一区TOP，IF 9.5）发表研究，整合ONT超长、PacBio HiFi、Illumina与Hi-C完成首个乌拉尔甘草T2T无缺口基因组（8条染色体端粒到端粒，FISH验证Cen60/Cen307着丝粒核心重复），并获得胀果甘草、光果甘草高质量染色体水平基因组；结合188份野生甘草群体重测序与根茎叶多组织转录组，解析甘草属物种分化、三萜/黄酮药效成分合成与新疆荒漠干旱盐碱适应机制，GWAS锁定调控异甘草查尔酮A积累的GiPHL1–Gi4CL5模块。",
+    "species_latin": "Glycyrrhiza uralensis",
+    "species_en": "Ural licorice (Glycyrrhiza uralensis)",
+    "species_zh": "乌拉尔甘草",
+    "takeaway": "首个乌拉尔甘草T2T无缺口基因组配合三种药典甘草比较与188份群体图谱，为豆科药用植物重复序列演化、药效成分合成与分子育种提供核心资源。",
+    "conclusion": "完整破译8条染色体T2T序列并鉴定端粒重复单元与Cen60/Cen307着丝粒重复；分子钟显示甘草属分化与天山隆起高度吻合，扩张基因家族富集萜类、黄酮次生代谢通路；甘草酸、甘草苷等关键基因主要在根部特异高表达；天山地理屏障造成三物种遗传分化与广泛基因渐渗；选择性清除与GWAS揭示药效成分驯化信号，GiPHL1–Gi4CL5模块同时调控异甘草查尔酮A合成与干旱抗性。",
+    "keywords": [
+      "T2T基因组",
+      "端粒到端粒",
+      "乌拉尔甘草",
+      "甘草",
+      "药用植物",
+      "着丝粒重复",
+      "群体基因组",
+      "次生代谢",
+      "环境适应",
+      "Science China Life Sciences"
+    ]
   },
   {
     "id": "pmid-42711426",
@@ -2250,6 +2551,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42664289",
+    "title": "Effects of different X-ray irradiation dosages on Wolbachia trans-infected and uninfected Aedes aegypti mosquitoes",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Yongyai J, Thayanukul P, Kittayapong P.",
+    "publish_date": "2026-08-28",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42664289",
+    "doi": "10.1371/journal.pntd.0014563",
+    "pmid": "42664289",
+    "abstract": "Background Aedes aegypti is a primary vector of several arboviral diseases, including dengue, chikungunya, Zika, and yellow fever. Eliminating Ae. aegypti can disrupt virus transmission cycles, thereby reducing the incidence of these diseases. Releasing sterile Ae. aegypti males has been implemented to suppress their natural populations, using three approaches, i.e., ionizing radiation-induced sterilization (Sterile Insect Technique, SIT), Wolbachia-induced cytoplasmic incompatibility (Incompatible Insect Technique, IIT), and a combination of both approaches (SIT/IIT). Methodology/principal findings This study investigated effects of different X-ray radiation doses on the ecological fitness of the Thai wild-type and Wolbachia trans-infected Ae. aegypti. Both wild-type and wAlbB trans-infected Ae. aegypti were irradiated with different X-ray radiation dosages, i.e., 30, 50, and 70 Gy, at the pupal stage. Our results demonstrated reduced fitness parameters in both Ae. aegypti strains when irradiation dosages increased, with greater adverse effects observed in the Wolbachia-infected group. Interestingly, 30 Gy irradiation appeared to prolong the lifespan of wAlbB trans-infected Ae. aegypti. Male fertility in both wild-type and wAlbB trans-infected mosquitoes irradiated at 50 Gy and 70 Gy was nearly zero. Wolbachia density generally declined with increasing radiation, and higher doses were associated with reduced mating competitiveness. At 30 Gy, wild-type males outperformed wAlbB trans-infected males in mating competitiveness; but it was reversed at 50 Gy and 70 Gy. Conclusions/significance Based on the evaluation of ecological fitness parameters and mating competitiveness across various X-ray dosages under laboratory conditions, 30 Gy is recommended for sterilizing both Thai wild-type and wAlbB trans-infected Ae. aegypti. Our findings aim to improve the efficiency of sterile mosquito release programs, thereby suppressing Ae. aegypti vector populations and mitigating the risk of arboviral disease transmission.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "研究不同X射线剂量对泰国野生型与wAlbB感染埃及伊蚊适合度的影响，推荐30 Gy用于绝育。",
+    "conclusion": "X射线剂量升高会降低两种埃及伊蚊的生态适合度，Wolbachia感染组受损更明显；50和70 Gy几乎完全绝育雄蚊，且Wolbachia密度与交配竞争力随剂量下降。综合适合度与交配竞争力，30 Gy最适合用于泰国野生型和wAlbB感染型埃及伊蚊的绝育，有助于提升不育蚊释放项目效率、抑制媒介种群并降低虫媒病毒传播风险。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
