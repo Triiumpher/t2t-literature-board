@@ -156,6 +156,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42722077",
+    "title": "Toxic effects of Acetamiprid on the human microglial cell line HMC3",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Neurotoxicology",
+    "authors": "Ajmone-Cat MA, Alessi R, Trupia MG, D'Angelantonio B, Cecchetti S, Tammaro A, Varì R, Scazzocchio B, D'Archivio M, De Simone R.",
+    "publish_date": "2026-09-10",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42722077",
+    "doi": "10.1016/j.neuro.2026.103571",
+    "pmid": "42722077",
+    "abstract": "Acetamiprid (ACE), a second-generation neonicotinoid insecticide, is one of the most widely utilized pesticides globally. Recently, neonicotinoids have faced increasing scrutiny due to their potential mammalian neurotoxicity and their role as metabolism-disrupting chemicals (MDCs). Emerging evidence suggests that ACE can impair the functionality of microglia - the resident macrophages of the central nervous system (CNS), disrupting brain homeostasis, neuroinflammatory balance, and neurodevelopment. This study aimed to investigate the direct toxic effects of ACE at environmentally relevant doses on the human microglial cell line clone 3 (HMC3), under both basal and lipopolysaccharide (LPS)-induced inflammatory conditions. Furthermore, we evaluated the protective potential of protocatechuic acid (PCA), a bioactive phenolic compound found in edible plants and a major secondary metabolite of anthocyanins and other flavonoids. PCA is considered a promising neuroprotective candidate due to its potent antioxidant properties and its ability to cross the blood-brain barrier (BBB). Our findings demonstrate that ACE exposure, even at low concentrations (150nM), alters human microglial physiology, compromising both cellular viability and functional homeostasis. These results underscore the significant neurotoxic risk associated with ACE. Notably, PCA failed to counteract ACE-induced damage under our experimental conditions, despite its established anti-inflammatory properties.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "低剂量啶虫脒即可损害人小胶质细胞HMC3的活力与功能稳态，而原儿茶酸未能逆转其毒性。",
+    "conclusion": "环境相关浓度的啶虫脒即使在150nM低剂量下也会改变人小胶质细胞HMC3的生理状态，破坏细胞活力与功能稳态，提示其具有显著神经毒性风险；原儿茶酸在本实验条件下未能发挥保护作用，说明其抗氧化和抗炎特性不足以对抗啶虫脒诱导的损伤。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42717435",
     "title": "Advances in mosquito gut microbiota: Mechanisms of regulating pathogen transmission and applications in vector control",
     "type": "paper",
@@ -228,6 +254,32 @@
     "species_zh": "烟粉虱",
     "takeaway": "澳大利亚烟粉虱MEAM1田间种群对新烟碱类杀虫剂抗性不一，CYP6CM1过表达与抗性相关。",
     "conclusion": "CYP6CM1过表达与吡虫啉、噻虫胺、噻虫啉和噻虫嗪抗性相关，而呋虫胺和啶虫脒无抗性。将转录组分析与生物测定结合，有助于识别具有生物学意义的抗性水平，为抗性监测提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42721787",
+    "title": "Occurrence, mixture neurotoxicity risk, and prioritization of neonicotinoid and diamide insecticides in urban residential soils",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environment international",
+    "authors": "Chen Z, Cao J, Fu B, Zeng M, Luo Y, Lu B, Liu S, Chen Y.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42721787",
+    "doi": "10.1016/j.envint.2026.110507",
+    "pmid": "42721787",
+    "abstract": "The widespread use of neonicotinoid (NEO) and diamide (DAI) insecticides has led to their frequent environmental occurrence, yet their presence and associated health risks in urban residential soils remain poorly understood. This study collected 200 residential soils from 10 provinces of China, revealing widespread detection of both NEOs and DAIs. Concentrations of ∑11NEOs and ∑8DAIs ranged from 0.31 - 1878 ng/g and ND - 6.27 ng/g, respectively, with imidacloprid (IMI) and chlorantraniliprole (CTP) as the dominant compounds. Both NEOs and DAIs exhibited marked spatial variability across cities, with relatively higher concentrations observed in several northern cities. While conventional exposure assessment indicated negligible health risks via soil-related pathways, a field-informed computational framework integrating mixture quantitative structure-activity relationship (QSAR) and toxicological priority index (ToxPi) was developed to characterize predicted mixture neurotoxicity potential and identify priority compounds. QSAR modeling indicated that DAI mixtures exhibited higher predicted mixture neurotoxicity potential than NEO mixtures despite substantially lower environmental concentrations, whereas NEO mixtures were characterized by higher residue levels and exposure-weighted intake. ToxPi analysis identified IMI and CTP as top-ranked priority compounds within NEOs and DAIs, respectively. This study advances mixture-level risk prioritization of co-occurring insecticides by integrating exposure characterization with QSAR-based neurotoxicity predictions, providing a complementary approach to conventional concentration-based monitoring.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "中国10省200份城市住宅土壤中广泛检出新烟碱和双酰胺类杀虫剂，双酰胺类混合物预测神经毒性更高。",
+    "conclusion": "新烟碱类和双酰胺类杀虫剂在城市住宅土壤中普遍共存，浓度以吡虫啉和氯虫苯甲酰胺为主，北方城市偏高。常规暴露评估显示健康风险可忽略，但整合QSAR与ToxPi的混合物框架表明，尽管双酰胺类残留浓度远低于新烟碱类，其预测混合物神经毒性潜力更高；吡虫啉和氯虫苯甲酰胺分别为两类中的优先管控化合物。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -388,6 +440,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42721837",
+    "title": "Nationwide scaling of neonicotinoid threats in China's aquatic ecosystems: Driven by anthropogenic perturbations and landscape patterns",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Ji S, Jia Z, Li J, Ge Y, Zhu T, Cao Y, Cheng H.",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42721837",
+    "doi": "10.1016/j.jhazmat.2026.143548",
+    "pmid": "42721837",
+    "abstract": "Neonicotinoid (NEO) contamination is widespread in China's aquatic ecosystems and has attracted increasing attention. However, nationwide and long-term assessments of NEO distribution remain limited. Therefore, 1443 field concentration records (2018-2023) were analyzed to investigate the distribution, ecological risks, and drivers of six priority NEOs (acetamiprid, imidacloprid, thiamethoxam, dinotefuran, clothianidin, and thiacloprid) in China's aquatic ecosystems. NEO concentrations peaked at 1022.2 ng/L in water and 33.1 ng/g in sediment, with median values of 4.2 ng/L and 0.5 ng/g, respectively. Spatially, NEO pollution was concentrated in China's eastern and southern coastal regions. Temporally, the highest average concentrations of the six NEOs were observed in 2020 for water (12.5 ng/L) and in 2021 for sediment (5.4 ng/g). Four NEOs (viz., imidacloprid, thiamethoxam, clothianidin, and thiacloprid) posed chronic ecological risks in water and sediment. The proportions of moderate-to-high risk sites for the four NEOs ranged from 26% to 56% in water and 19% to 52% in sediment. Furthermore, population density and insecticide application positively influenced NEO concentrations in water and sediment, whereas landscape patterns negatively influenced NEO concentrations in sediments. These findings provide a scientific basis for targeted environmental policy and risk mitigation.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "分析2018-2023年中国水体与沉积物中六种新烟碱类杀虫剂数据,发现东部南部沿海污染最重,四种具慢性生态风险。",
+    "conclusion": "中国水生生态系统中新烟碱类污染集中于东部和南部沿海,浓度在2020年(水)和2021年(沉积物)达峰;吡虫啉、噻虫嗪、噻虫胺和噻虫啉在水和沉积物中构成慢性生态风险,中高风险点位比例较高。人口密度和杀虫剂施用量促进污染,而景观格局对沉积物污染有抑制作用,可为针对性环境政策与风险管控提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -596,6 +674,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42721619",
+    "title": "From nanoformulation to field performance: A sustainable biopolymer-based azadirachtin nanoemulsion for Aphis gossypii management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Colloids and surfaces. B, Biointerfaces",
+    "authors": "Murugesan V, Malaichamy K, Thirumurugan NK, Selvaraj D, Sakthiyavathi SSK, Kamalakannan M, Raga Palanisamy S, Angappan S, Alagesan S, Murugaiyan S, Kuppusamy R, Kasivelu G.",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-11",
+    "url": "https://europepmc.org/article/MED/42721619",
+    "doi": "10.1016/j.colsurfb.2026.116162",
+    "pmid": "42721619",
+    "abstract": "This study developed a chitosan polymer based azadirachtin nanoemulsion (ANE) to improve the stability and insecticidal efficacy of azadirachtin against cotton aphid Aphis gossypii under laboratory and field conditions. The optimized ANE exhibited excellent physicochemical stability, with a hydrodynamic diameter of nanoemulsion droplets size of 137.6 nm and a zeta potential of + 43.1 mV, confirming the formation of a stable nanoemulsion. The TEM micrograph showed spherical to slightly oval-shaped droplets with an average size of 32.5 nm. Laboratory bioassays ANE exhibited superior insecticidal activity of 76.67% mortality at 400 ppm after 72 h, with LC50 and LC90 values of 165.57 and 898.31 ppm, respectively, and achieved 93.33% repellency at the LC50 concentration after 24 h. Enzyme activity analysis revealed increased glutathione S-transferase (GST) activity together with suppression of mixed-function oxidase (MFO), carboxylesterase (CarE), and acetylcholinesterase (AChE), suggesting disruption of detoxification and neural functions in the aphid. Molecular docking studies further supported the findings by demonstrating strong binding affinities of azadirachtin with key detoxification enzymes, particularly carboxylesterase (-14.8 kcal/mol) and acetylcholinesterase (-6.4 kcal/mol). Field evaluation confirmed the practical effectiveness of ANE, with the 30 and 25 mL/L treatments reducing aphid populations by 91.09% and 88.00%, respectively. Overall, these findings indicate that the ANE offers enhanced biological efficacy, highlighting its potential as an environmentally safer alternative to conventional insecticides for sustainable management of A. gossypii in cotton.",
+    "species_latin": "Aphis gossypii",
+    "species_en": "cotton aphid",
+    "species_zh": "棉蚜",
+    "takeaway": "壳聚糖基印楝素纳米乳剂稳定高效，室内外均显著防控棉蚜。",
+    "conclusion": "该壳聚糖基印楝素纳米乳剂理化性质稳定，室内对棉蚜致死与驱避效果突出，并抑制其解毒与神经相关酶活性，分子对接证实印楝素与羧酸酯酶、乙酰胆碱酯酶强结合；田间施用可大幅降低蚜虫种群，是替代常规杀虫剂的环保型可持续防控方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
