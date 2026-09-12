@@ -119,6 +119,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42727915",
+    "title": "Nano-Enabled Agrochemicals as Ecological Technologies: Ecotoxicity, Non-Target Effects, and a Safe-and-Sustainable-by-Design Framework",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Ma Y, Li Z, Zhu Y, Li J, Qu Z, Zhou X, Sun J, Zhao W, Dong S.",
+    "publish_date": "2026-09-11",
+    "added_at": "2026-09-12",
+    "url": "https://europepmc.org/article/MED/42727915",
+    "doi": "10.1016/j.envres.2026.125660",
+    "pmid": "42727915",
+    "abstract": "Nanofertilizers and nanopesticides provide significant agricultural benefits through enhanced nutrient efficiency and reduced pesticide application; however, their nanoscale properties raise environmental safety concerns. As emerging ecological technologies designed to minimize environmental footprints, these nano-enabled agrochemicals require systematic safety evaluation. However, conventional ecotoxicity tests-designed for soluble chemicals-cannot adequately capture nanoparticle stability, aggregation, or time-dependent exposure, creating a 'measurement gap' in risk assessment. This review summarizes the historical development, primary application areas, and cutting-edge advancements of nanotechnology. A systematic analysis is conducted on the dose-dependent phytotoxicity of metal and metal oxide nanoparticles, including their impacts on chlorophyll content, microbial community structure, carbon and nitrogen cycling enzymes, arbuscular mycorrhizal colonization, soil respiration, and plant metabolic remodeling. Additionally, the review evaluates the effects on soil physicochemical properties, plant-microbe symbioses, and non-target organisms such as invertebrates, pollinators, and nematodes. Finally, we propose a Safe-and-Sustainable-by-Design framework that emphasizes low-hazard materials, predictable degradability, life-cycle thinking, carrier minimization, and AI-assisted risk prediction to guide responsible nano-agrochemical development.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述纳米农化品的生态毒性与非靶标效应，提出安全可持续设计框架以弥补风险评估的测量缺口。",
+    "conclusion": "纳米肥料与纳米农药虽能提升养分效率、减少农药用量，但其纳米特性带来环境安全隐忧；传统生态毒性测试难以反映纳米颗粒稳定性、聚集与时间依赖性暴露，形成测量缺口。本文系统梳理金属及金属氧化物纳米颗粒的剂量依赖性植物毒性及其对土壤微生物、碳氮循环、菌根共生、土壤呼吸和植物代谢的影响，并评估其对土壤理化性质、植物-微生物共生及非靶标生物的作用，进而提出强调低危害材料、可预测降解性、生命周期思维、载体最小化与AI辅助风险预测的安全可持续设计框架。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42727906",
+    "title": "Sublethal Bacillus thuringiensis subsp. israelensis exposure enhances the fecundity in Anopheles stephensi via TOR-mediated vitellogenin upregulation associated mechanisms",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of invertebrate pathology",
+    "authors": "Shi L, Liu T, Zhao C, Liu Z, Li X, Wang S, Zheng F, Chen H, Zhang M, Yu S, Wang Y.",
+    "publish_date": "2026-09-11",
+    "added_at": "2026-09-12",
+    "url": "https://europepmc.org/article/MED/42727906",
+    "doi": "10.1016/j.jip.2026.108747",
+    "pmid": "42727906",
+    "abstract": "Bacillus thuringiensis subsp. israelensis (Bti) is widely employed in mosquito control due to its highly potent larvicidal activity. However, few studies have investigated the sublethal effects of this biopesticide during field applications. The present study focuses on how a sublethal dose (LC50) of Bti affects the fecundity of surviving Anopheles stephensi, as well as the underlying mechanisms. It was unexpectedly found that larval exposure to sublethal Bti significantly increased laid eggs and total eggs (laid eggs plus eggs retained in the ovaries) in the surviving female adults. Further results showed that Bti-derived DNA was detected in female adults that survived larval exposure to the sublethal LC₅₀ concentration of Bti. Mechanistically, sublethal-dose Bti treatment significantly upregulated the target of rapamycin signaling pathway and vitellogenin expression in adult females, thereby enhancing fecundity. Transcriptome data revealed that autophagy and carotenoid metabolism might be involved in the physiological processes related to mosquito reproduction enhancement by sublethal Bti exposure. This study highlights the potential risks of improper Bti dosage selection in practical applications and also enriches the fundamental research on sublethal effects of biolarvicides. Importantly, our findings provide a novel theoretical reference for the optimization of sustainable mosquito vector control strategies.",
+    "species_latin": "Anopheles stephensi",
+    "species_en": "Asian malaria mosquito",
+    "species_zh": "斯氏按蚊",
+    "takeaway": "亚致死剂量Bti暴露使斯氏按蚊存活雌蚊产卵量增加，机制与TOR信号上调及卵黄原蛋白表达增强有关。",
+    "conclusion": "亚致死浓度Bti处理幼虫后，存活的斯氏按蚊雌成虫产卵量和总卵量显著增加，体内可检出Bti来源DNA；其机制为TOR信号通路及卵黄原蛋白表达上调，自噬和类胡萝卜素代谢也可能参与。该结果提示田间Bti剂量选择不当可能带来繁殖增强风险，为蚊媒可持续防控策略优化提供参考。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42723398",
     "title": "A CRISPR/Cas9 gene-editing platform for the rice leaffolder, Cnaphalocrocis medinalis",
     "type": "paper",
