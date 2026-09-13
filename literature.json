@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42728695",
+    "title": "Pervasive positive selection on X-linked ampliconic genes in primates",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genome biology and evolution",
+    "authors": "Diepeveen E, Bellés MR, Schierup MH.",
+    "publish_date": "2026-09-12",
+    "added_at": "2026-09-13",
+    "url": "https://europepmc.org/article/MED/42728695",
+    "doi": "10.1093/gbe/evag229",
+    "pmid": "42728695",
+    "abstract": "Mammalian sex chromosomes harbour ampliconic gene families, which are multi-copy genes with ≥97% sequence identity, predominantly expressed in testis tissue and essential for male fertility. The amplification of testis-specific genes is conserved across mammals, yet the specific gene families that expand show striking lineage-specific variation. Previous studies suggest a dynamic turnover with adaptive evolution for several of these families, but their analysis has been limited by the quality of reference genomes of repetitive regions. To characterise the molecular evolutionary processes of ampliconic gene families on both sex chromosomes, we analysed telomere-to-telomere genome assemblies from eight primate species spanning 25 million years of evolution. We identified 53 X-linked and 19 Y-linked ampliconic gene families with dynamic copy number variation. Gene conversion through palindromic pairing and tandem arrays maintained high sequence similarity despite accumulating mutations. X-linked families maintained conserved chromosomal positions despite copy number changes, whereas Y-linked families showed frequent positional turnover. Strikingly, multiple X-linked families (GAGE, SSX, CSAG, and VCX) showed pervasive positive selection across the primate phylogeny and multiple (MAGEB, CT45, HSFX) showed lineage specific positive selection. Y-linked families predominantly evolve under purifying selection. Examining intraspecific copy number variation of the X-linked ampliconic families in chimpanzees, humans, and gorillas, we found variation among individuals but clear differences between species, with the largest families varying the most. These patterns could suggest that sperm competition, meiotic drive, or dosage-dependent selection drive the rapid, lineage-specific evolution of testis-expressed ampliconic genes in primates.",
+    "species_latin": "Primates",
+    "species_en": "primates",
+    "species_zh": "灵长类",
+    "takeaway": "利用8种灵长类端粒到端粒基因组,发现X连锁扩增基因家族普遍受正选择,而Y连锁家族主要受纯化选择。",
+    "conclusion": "X连锁扩增基因家族通过回文配对和串联阵列的基因转换维持高序列相似性,拷贝数动态变化但染色体位置保守,其中GAGE、SSX、CSAG、VCX等家族在整个灵长类系统发育中普遍受正选择,MAGEB、CT45、HSFX等呈谱系特异性正选择;Y连锁家族则主要受纯化选择。种内拷贝数变异在个体间存在差异但种间界限清晰,最大基因家族变异最大。提示精子竞争、减数分裂驱动或剂量依赖选择驱动了灵长类睾丸表达扩增基因的快速谱系特异性演化。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42731802",
+    "title": "Biochemical, molecular cytogenetic and correlation analyses of Bacillus thuringiensis sublethal concentration toxicity on Spodoptera frugiperda larval Hemolymph",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of invertebrate pathology",
+    "authors": "Malak M, Shonouda M.",
+    "publish_date": "2026-09-12",
+    "added_at": "2026-09-13",
+    "url": "https://europepmc.org/article/MED/42731802",
+    "doi": "10.1016/j.jip.2026.108746",
+    "pmid": "42731802",
+    "abstract": "Bacillus thuringiensis is considered one of the most environmentally safe tools for controlling various insect pests, including the fall armyworm, Spodoptera frugiperda (J.E. Smith). This pest remains one of the most serious threats to global food security. Although Bacillus thuringiensis var. kurstaki (Btk) is an essential long-term pest control agent, most research has examined its lethal effects only on larval midgut tissue as the primary target organ. Accordingly, this study explored Btk toxicity on the third-instar S. frugiperda larval hemolymph as a secondary consequence using a multifaceted approach. Our findings revealed that a sublethal concentration (LC25) of Btk induced high oxidative stress in larvae. The biochemical effects were characterized by a significant increase in reactive oxygen species (ROS) and a significant decrease in the insect's primary antioxidant enzymes, including superoxide dismutase, catalase, and glutathione S-transferase. Due to the cytogenetic toxicity of Btk, enhanced micronuclei formation was observed, and the gene expression of DNA methyltransferase 2 (SfDNMT2) and inhibitor of apoptosis 2 (SfIAP2) mRNA were reduced, while autophagy-related protein 8 (SfATG8) was significantly increased in S. frugiperda hemolymph bioassays. A PCA-based bioinformatics analysis illustrated an inverse functional correlation between oxidative damage and antioxidant defensive systems, with PC1 accounting for 95.63% of the total variance. Following PCA, the cluster heatmap and dendrogram provided visualization of similarities and hierarchical relationships among the parameters mentioned. These results collectively indicate that Btk's insecticidal effects are not limited to midgut cells but rather involve a broader toxic response against the hemolymph carrier for cellular and molecular components, even at lower concentrations.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "亚致死浓度Bt处理草地贪夜蛾幼虫,血淋巴出现氧化应激、微核及自噬与凋亡相关基因表达改变。",
+    "conclusion": "Btk亚致死浓度(LC25)不仅作用于中肠,还通过血淋巴引发系统性毒性:ROS升高、抗氧化酶(SOD、CAT、GST)活性下降,微核增多,SfDNMT2与SfIAP2表达下调而SfATG8上调;PCA显示氧化损伤与抗氧化防御呈负相关,PC1解释95.63%变异。表明Bt杀虫效应涉及血淋巴层面的广泛毒性反应。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42731608",
+    "title": "Multi-target acaricidal mechanism of Myracrodruon urundeuva extracts against Rhipicephalus microplus: From reproductive interference to in silico enzyme inhibition",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Experimental parasitology",
+    "authors": "de Oliveira Vasconcelos V, Pereira da Silva MC, Alves Paulino de Azevedo EV, Figueiredo NL, Oliveira LF, Portes Caldeira AS, Maria de Almeida Alves T, Cruz JP, Duarte ER.",
+    "publish_date": "2026-09-12",
+    "added_at": "2026-09-13",
+    "url": "https://europepmc.org/article/MED/42731608",
+    "doi": "10.1016/j.exppara.2026.109204",
+    "pmid": "42731608",
+    "abstract": "The increasing resistance of the cattle tick (Rhipicephalus microplus) to synthetic acaricides necessitates the search for effective bioproducts. This study investigated the bioactive potential of Myracrodruon urundeuva leaves, integrating traditional bioassays, histological analyses, and computational modeling to elucidate its possible mechanisms of action. Adult Immersion Tests (AIT) and Larval Packet Tests (LPT) highlighted the ethanolic extract (EE) as the most promising treatment: at concentrations of 75 and 100 mg mL-1. The EE not only eliminated over 81% of the larvae but also severely compromised the reproductive capacity of the females, achieving an efficacy of 86.05%. Although the aqueous extract (AE) demonstrated strong larvicidal action (74.03%), its efficacy regarding oviposition was limited. Histological micrographs revealed that EE treatment induces critical structural disorganization and intense vacuolization in oocytes, blocking progeny viability. UHPLC-HRMS analysis identified key flavonoids, such as quercetin, vitexin-2''-O-rhamnoside, and kaempferol-7-neohesperidoside, whose biological impacts were validated across two complementary fronts. Concurrently, in silico simulations demonstrated that these compounds possess high binding affinity for vital molecular targets, specifically acetylcholinesterase (-8.212 kcal/mol) and cytochrome P450 (-8.9 kcal/mol). Altogether, these findings support the hypothesis that M. urundeuva may act through a multi-target mechanism by potentially affecting neuromuscular and metabolic homeostasis, reinforcing the interest in EE as a potential candidate for integrated R. microplus management.",
+    "species_latin": "Rhipicephalus microplus",
+    "species_en": "cattle tick",
+    "species_zh": "微小牛蜱",
+    "takeaway": "研究揭示没药树乙醇提取物通过干扰蜱虫生殖与抑制关键酶发挥多靶点杀蜱作用",
+    "conclusion": "没药树乙醇提取物对微小牛蜱幼虫具强杀灭力并严重破坏雌蜱生殖, 组织学显示卵母细胞结构紊乱与空泡化; 其黄酮类成分可高亲和结合乙酰胆碱酯酶和细胞色素P450, 提示经神经肌肉与代谢稳态的多靶点机制发挥作用, 有望用于微小牛蜱综合防治。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260912-mouse-y",
     "title": "Science丨俞晓春课题组实现小鼠Y染色体端粒到端粒完整组装",
     "type": "wechat",
@@ -1163,6 +1241,32 @@
       "昆虫性别决定演化机制"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42696588",
+    "title": "Associations between pyrethroid insecticide concentrations and dyslipidemia: Findings from the Dongfeng-Tongji cohort",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Science advances",
+    "authors": "Yin Z, Guo Y, You Y, Guan X, Zhong G, Jia C, Wang W, Jiang Q, Wen Y, Li W, Yin Y, Zhao H, Chen S, Wang X, Jing T, Guo H, Yuan Y, He M, Wu T, Long P.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-13",
+    "url": "https://europepmc.org/article/MED/42696588",
+    "doi": "10.1126/sciadv.aec1001",
+    "pmid": "42696588",
+    "abstract": "Pyrethroids are widely used insecticides worldwide, yet their effects on dyslipidemia remain incompletely understood. Our study quantified serum concentrations of seven parent pyrethroids in participants from the Dongfeng-Tongji cohort and evaluated both cross-sectional and prospective associations with lipid levels and dyslipidemia. In cross-sectional analyses, higher serum concentrations of fenvalerate and deltamethrin were consistently associated with increased odds of dyslipidemia and its subtypes, including hypercholesterolemia, hypertriglyceridemia, and hyperbetalipoproteinemia, whereas cyfluthrin was associated with higher odds of hypertriglyceridemia. Prospective analyses revealed that higher baseline serum concentrations of fenvalerate were associated with annual increases in total cholesterol and low-density lipoprotein cholesterol, as well as elevated risk of incident hypertriglyceridemia. Mixture analyses identified fenvalerate as an important contributor in several dyslipidemia subtype models. These findings suggest that pyrethroid exposure, particularly fenvalerate, may contribute to dyslipidemia and highlight the need for further mechanistic investigation and risk evaluation.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "东风-同济队列中,血清拟除虫菊酯浓度升高(尤其氰戊菊酯)与血脂异常及其亚型风险增加相关。",
+    "conclusion": "研究发现多种拟除虫菊酯暴露与血脂异常存在横断面及前瞻性关联,其中氰戊菊酯作用最突出,与总胆固醇、低密度脂蛋白胆固醇逐年升高及新发高甘油三酯血症风险相关,提示拟除虫菊酯暴露可能促进血脂异常,需进一步开展机制研究与风险评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -3762,6 +3866,32 @@
     "species_zh": "酿酒酵母",
     "takeaway": "对挪威农家酵母Kveik进行全基因组测序，发现其是早期分化的家养谱系，可能包含至今仍在使用的最古老家养酵母。",
     "conclusion": "Kveik菌株形成并系且早期分化的群体，与其它家养酿酒酵母不同；菌株间多样性低，地理聚集明显，基因流少；线粒体和Ty1转座子支持其独特谱系；与亚洲发酵菌株的基因流信号可能是群体结构和选择造成的假象；共同祖先可追溯至4000-8000年前。",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42729851",
+    "title": "Early-Stage Screening of Piperonylic Acid Analogues and Their Salts as Synergists for the Class of Pyrethroid Insecticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Pydi R, Wolf A, Bernard J, Zutz C, Bromberger B, Sosnowska A, Zdybel S, Puzyn T, Breinbauer R, Mikuni-Mester PJ.",
+    "publish_date": "2026-08-26",
+    "added_at": "2026-09-13",
+    "url": "https://europepmc.org/article/MED/42729851",
+    "doi": "10.1021/acsomega.6c05301",
+    "pmid": "42729851",
+    "abstract": "This study presents an early-stage screening of piperonylic acid analogues and their salts as synergists for the class of pyrethroid insecticides. Using the carbonate-based ionic liquid synthesis (CBILs) method, we synthesized 32 potential synergists from 4 piperonylic acid analogues in a one-step process and experimentally determined general toxicity parameters and synergistic activity in comparison with the commercial synergist piperonyl butoxide (PBO). In vitro assays revealed structure-dependent activity of synergists on detoxification enzymes of Blattella germanica, with several candidates demonstrating similar or even higher activity compared to PBO. Subsequent in vivo testing of selected compounds confirmed their overall synergistic potential but showed lower activity than PBO, underscoring the need to validate in vitro findings in vivo. The reported synergistic activity of piperonylic acid analogues and the ability for noncovalent modification can act as a starting point for future structure optimization to find alternatives for PBO in pyrethroid insecticide formulations.",
+    "species_latin": "Blattella germanica",
+    "species_en": "German cockroach",
+    "species_zh": "德国小蠊",
+    "takeaway": "用碳酸酯离子液体法一步合成32种胡椒酸类似物及盐,体外对德国小蠊解毒酶有活性,但体内增效不及PBO。",
+    "conclusion": "以胡椒酸类似物为起点,经碳酸酯离子液体法一步合成32种候选增效剂,体外对德国小蠊解毒酶表现出结构依赖性抑制,部分活性等同或超过商用增效剂PBO;但体内验证显示整体增效潜力虽在,活性却低于PBO,说明体外结果需体内确证。该策略及非共价修饰能力可为后续结构优化、寻找PBO替代物提供起点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
