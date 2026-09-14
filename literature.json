@@ -22,7 +22,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -48,7 +48,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -75,6 +75,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42725884",
+    "title": "Intersecting experimental evolution and CRISPR screens to identify novel toxin resistance loci",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "eLife",
+    "authors": "Marconcini M, Cruchet S, Goswami S, Viswanatha R, Butnaru M, De J, Roselli C, Hadjieconomou D, Perrimon N, Mohr SE, Benton R.",
+    "publish_date": "2026-09-11",
+    "added_at": "2026-09-14",
+    "url": "https://europepmc.org/article/MED/42725884",
+    "doi": "10.7554/elife.111773",
+    "pmid": "42725884",
+    "abstract": "Understanding toxin resistance in insects is key to appreciating niche adaptations but remains challenging due to its often-polygenic basis. A well-known example is the specialized association of Drosophila sechellia with noni fruit ( Morinda citrifolia ), which is toxic to other insects, including Drosophila simulans and Drosophila melanogaster . The main noni toxin is octanoic acid (OA), but the mechanisms that determine sensitivity or resistance to OA in different species remain unclear. Here, we experimentally evolved D. simulans with increased OA resistance, identifying multiple loci under selection. Cross-referencing these with a genome-wide, OA resistance CRISPR screen in a D. melanogaster cell line highlighted two proteins: Kraken, a putative detoxification enzyme expressed in digestive and renal tissues, and Alkbh7, a mitochondrial protein linked to fatty acid metabolism. Both genes show elevated expression in D. sechellia and OA-resistant D. simulans . In D. melanogaster , kraken mutants are more OA-sensitive, while Alkbh7 overexpression increased OA resistance. Mutation of these genes in D. sechellia reduced OA tolerance. Our identification of genes contributing to OA resistance in laboratory and natural contexts demonstrates how complementary selection approaches can provide insights into complex mechanisms of toxin susceptibility and adaptation. Such methods could have practical applications in the characterization of natural and artificial insecticides.",
+    "species_latin": "Drosophila sechellia",
+    "species_en": "Drosophila sechellia, Drosophila simulans, Drosophila melanogaster",
+    "species_zh": "塞舌尔果蝇、拟果蝇、黑腹果蝇",
+    "takeaway": "结合实验进化与CRISPR筛选，在果蝇中鉴定出Kraken和Alkbh7两个辛酸抗性新位点。",
+    "conclusion": "以辛酸为对象，通过实验进化获得抗性升高的拟果蝇并定位受选择位点，再结合黑腹果蝇细胞全基因组CRISPR筛选，锁定Kraken（解毒酶）与Alkbh7（线粒体脂肪酸代谢蛋白）两个抗性因子；二者在抗性物种中高表达，功能验证与表型一致，且在塞舌尔果蝇中突变降低耐受性，表明互补筛选策略可揭示复杂毒素抗性机制，并可用于杀虫剂评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -506,6 +532,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42723638",
+    "title": "ERGA-BGE chromosome-level genome assembly of the giant stream lacewing  &lt;i&gt;Osmylus fulvicephalus&lt;/i&gt; (Scopoli, 1763)",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Open research Europe",
+    "authors": "Maurstad MF, Kusy D, Undheim EAB, Jakobsen KS, Böhne A, Monteiro R, Marcussen T, Struck TH, Oomen RA, Bunikis I, Tellgren-Roth C, Heintz J, Häggqvist S, Jonsäll L, Lager N, Larva T, Mosbech MB, Pippel M, Vinnere Pettersson O, Bortoluzzi C.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-14",
+    "url": "https://europepmc.org/article/MED/42723638",
+    "doi": "10.12688/openreseurope.23457.3",
+    "pmid": "42723638",
+    "abstract": "The giant stream lacewing, Osmylus fulvicephalus (Scopoli, 1763), is a widespread European species belonging to the insect order Neuroptera. Its cryptic larvae are predators found at the banks of streams and smaller rivers where they use their piercing, lance-shaped stylets to inject venom into their arthropod prey. Here, we present the reference genome of the giant stream lacewing as a crucial resource for uncovering the genetic basis of venom evolution in Neuroptera. The chromosome-level genome encompasses 674.7 Mb and is composed of 60 contigs and 24 scaffolds where 99.2% of the assembly is distributed among the 6 contiguous chromosomal pseudomolecules and two sex chromosomes (X and Y). Contig and scaffold N50 have a value of 51.5 Mb and 116.2 Mb, respectively. This reference genome is the first genomic resource from the family of lance lacewings, providing valuable data for clarifying the phylogenetic placement of the family Osmylidae within Neuroptera.",
+    "species_latin": "Osmylus fulvicephalus",
+    "species_en": "giant stream lacewing",
+    "species_zh": "巨型溪蛉",
+    "takeaway": "巨型溪蛉染色体水平基因组组装完成，为研究脉翅目毒液演化提供首个参考基因组",
+    "conclusion": "该研究完成了巨型溪蛉的染色体水平参考基因组组装，大小为674.7 Mb，包含6条染色体假分子及X、Y性染色体，覆盖99.2%的组装序列。这是蛉科首个基因组资源，为揭示脉翅目毒液演化的遗传基础及厘清蛉科在脉翅目中的系统发育地位提供了关键数据。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -1027,6 +1079,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42707586",
+    "title": "A Deep-Learning-Based Scoring Framework for Large-Scale Multi-donor Cardiotoxicity Screening",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Computational and structural biotechnology journal",
+    "authors": "Vu D, Kowalczewski A, Burnett SD, Sakolish C, Liu X, Yang H, Rusyn I, Ma Z.",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-14",
+    "url": "https://europepmc.org/article/MED/42707586",
+    "doi": "10.34133/csbj.0217",
+    "pmid": "42707586",
+    "abstract": "Cardiotoxicity remains a major cause of drug attrition and postmarket withdrawal, yet the vast majority of environmental chemicals to which humans may be exposed remain uncharacterized for cardiotoxicity risk. Human induced pluripotent stem cell (hiPSC)-based testing has been proposed to address this gap. Here, we present an unsupervised deep learning framework for multi-donor cardiotoxicity screening using high-throughput calcium transient recordings from hiPSC-derived cardiomyocytes (hiPSC-CMs). We analyzed data from a library of 1,029 compounds tested in hiPSC-CMs from 5 donors across a concentration range. An autoencoder trained exclusively on baseline signals quantified chemically induced functional perturbations through reconstruction error, bypassing the need for labeled training data while capturing the full spectrum of calcium-handling disruptions. Aggregation of donor-specific scores revealed substantial inter-individual variability in potential cardiotoxicity, underscoring the value of this approach for multi-donor risk prediction. We identified microbiocides, dyes, and pesticides as chemical classes of potential concern, characterized by high toxicity scores and low interdonor variability. This framework establishes a scalable, human-relevant, and genetically diverse platform for cardiotoxicity surveillance across both pharmacological and environmental chemical spaces.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "用无监督深度学习分析5名供体hiPSC心肌细胞钙瞬变，筛选1029种化合物的心脏毒性。",
+    "conclusion": "该框架仅用基线信号训练自编码器，以重构误差量化化学诱导的钙处理紊乱，无需标注数据；供体间评分差异显著，提示个体易感性，并锁定杀菌剂、染料和农药为潜在高风险类别，为药物与环境化学物的规模化心脏毒性监测提供人源、遗传多样化的平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -2235,6 +2313,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42728020",
+    "title": "Endosymbiont-mediated resistance: effects of Hamiltonella defensa (Enterobacterales: Enterobacteriaceae) on parasitism of Aphidius colemani and Praon volucre (Hymenoptera: Braconidae) in Aphis craccivora (Hemiptera: Aphididae)",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Journal of insect science (Online)",
+    "authors": "Heidari Latibari M, Hance T, Arias-Penna DC, Ghafouri Moghaddam M, Thanoosing C, Chen XX, Butcher BA, Warrit N.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-14",
+    "url": "https://europepmc.org/article/MED/42728020",
+    "doi": "10.1093/jisesa/ieag102",
+    "pmid": "42728020",
+    "abstract": "The present study investigated the influence of the Hamiltonella defensa-APSE association, a functional defensive unit in aphids, on the performance of 2 aphidiine parasitoids, Aphidius colemani Viereck, 1912 and Praon volucre (Haliday, 1833), attacking the cowpea aphid, Aphis craccivora, on alfalfa. To assess the effects of H. defensa, naturally infected cowpea aphids with this bacterium (Hd+) were treated with a combination of antibiotics to eliminate the symbiont, generating uninfected cowpea aphids (Hd-). The results showed that A. colemani had similar parasitism success in Hd+ and Hd- cowpea aphids, suggesting that H. defensa had a limited effect on the overall parasitism success of this species. However, H. defensa significantly prolonged the time to mummification of A. colemani developing in Hd+ aphids, while post-mummification emergence and the mummification-to-emergence interval were not significantly affected. In P. volucre, H. defensa had a strong negative effect on parasitoid performance. Hd+ aphids showed significantly lower parasitism success and post-mummification emergence, together with significantly longer time to mummification and mummification-to-emergence interval. Neither female sex ratio nor body size showed a treatment effect that met the Bonferroni-corrected significance threshold in either parasitoid species. These findings show that the H. defensa-APSE association can influence several key components of parasitoid performance and highlight the potential importance of defensive symbionts in shaping aphid-parasitoid interactions.",
+    "species_latin": "Aphis craccivora",
+    "species_en": "cowpea aphid",
+    "species_zh": "豌豆蚜",
+    "takeaway": "豌豆蚜内共生菌Hamiltonella defensa对两种蚜茧蜂寄生表现影响不同，对Praon volucre抑制更强。",
+    "conclusion": "H. defensa-APSE防御单元对蚜茧蜂的影响具有寄生蜂特异性：Aphidius colemani总体寄生成功率不受影响，仅僵蚜形成时间延长；而Praon volucre的寄生成功率和羽化率显著降低、发育时间延长。这表明防御性内共生菌可影响寄生蜂适合度的多个关键环节，在蚜虫-寄生蜂互作中具有重要生态意义。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
