@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42732734",
+    "title": "A single exposure to an organophosphate insecticide disrupts developmental patterns of hippocampal cell proliferation and overall brain size in a migratory songbird",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Moore S, Eng ML, C Pereira PD, Wein J, Bottini CLJ, Morrissey CA, Guigueno MF.",
+    "publish_date": "2026-09-13",
+    "added_at": "2026-09-14",
+    "url": "https://europepmc.org/article/MED/42732734",
+    "doi": "10.1016/j.ecoenv.2026.120769",
+    "pmid": "42732734",
+    "abstract": "Developmental exposure to neurotoxic insecticides, such as the organophosphate chlorpyrifos (CPF), can cause deleterious effects on the brain and behaviour of non-target organisms. Migratory birds are at an increased risk of exposure due to their extensive space use across seasons. However, there is limited understanding of how acute sublethal exposure to neurotoxic insecticides affects neural development that underpin fitness-related behaviours such as migration. Successful migration relies on spatial cognition, which is controlled in part by the hippocampus, a brain region on the dorsal surface of the avian brain. In this study, we exposed a migratory population of European starling (Sturnus vulgaris) nestlings to an acute sublethal dose of CPF (6 mg/kg-body weight) or a vehicle control (sunflower oil). Nestlings were dosed soon after hatching (post-hatch day [PHD] 1-3), blood sampled to measure cholinesterase (ChE) enzyme activity approximately 16 h after dosing (PHD 2-4), and brains were collected during the early (PHD 5-7), middle (PHD 11-13) and late (PHD 19-20) phases of development. Proliferating cells were stained with the exogenous marker 5-ethynyl-2'-deoxyuridine (EdU) and counted throughout the hippocampus using unbiased stereology to produce high-resolution data across groups. In addition, DAPI staining was used to measure the volumes of the hippocampus and the telencephalon. Individuals exposed to CPF had significantly decreased (approx. one half) plasma ChE activity, confirming the efficacy of our treatment. CPF exposure did not affect growth (body mass, tarsus, and wing chord), nor did it affect hippocampal volume across age classes. However, CPF exposure resulted in an abnormal change in hippocampal cell proliferation across development, with CPF-dosed birds showing a more pronounced decrease in cell proliferation from middle to late development whereas control birds showed a more pronounced decrease from early to middle-development, indicating an altered developmental trajectory of hippocampal cell proliferation. In addition, across age classes, CPF-exposed birds had a larger telencephalon than control birds, although the mechanism behind this unexpected result is unknown. Nonetheless, these results demonstrate that even a single dose of a neurotoxic insecticide during key developmental windows can disturb normal brain developmental processes, thus providing a basis for future investigation of possible behavioural and ecological consequences.",
+    "species_latin": "Sturnus vulgaris",
+    "species_en": "European starling",
+    "species_zh": "欧洲椋鸟",
+    "takeaway": "一次亚致死剂量毒死蜱暴露改变了欧洲椋鸟雏鸟海马细胞增殖的发育轨迹并增大端脑体积",
+    "conclusion": "急性亚致死毒死蜱暴露虽不影响雏鸟生长与海马体积，却使海马细胞增殖的发育轨迹异常：对照组增殖下降主要发生在早期至中期，而暴露组推迟到中期至晚期；同时暴露组端脑体积更大。这表明神经毒性杀虫剂可扰乱迁徙鸟类与空间认知相关脑区的早期神经发育，可能影响其迁徙适应性与适合度。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42728695",
     "title": "Pervasive positive selection on X-linked ampliconic genes in primates",
     "type": "paper",
@@ -74,7 +100,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1105,6 +1131,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42732659",
+    "title": "Interaction analysis of miRNA and mRNA reveals the regulatory mechanism of immune response in golden pompano (Trachinotus ovatus) spleen to Streptococcus iniae infection",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+    "authors": "Xiong X, Dong L, Peng H.",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-14",
+    "url": "https://europepmc.org/article/MED/42732659",
+    "doi": "10.1016/j.cbd.2026.102017",
+    "pmid": "42732659",
+    "abstract": "Streptococcus iniae is a major warm-water pathogen that cause high mortality and severe economic losses in golden pompano industry. In the present study, we performed the mRNA-miRNA integrated transcriptomic analysis of spleen of golden pompano challenged with S. iniae to explore the possible regulatory mechanism to bacterial infection. In total, we excavated 5072 DEGs, of which 2765 up-regulated and 2307 down-regulated genes. KEGG enrichment analysis indicated that the DEGs were primarily enriched in immune-related pathways, such as proteasome, cytokine-cytokine receptor interaction, p53 signaling pathway, lysosome, phagosome, Herpes simplex virus 1 infection. Additionally, a protein-protein interaction (PPI) network was constructed to extract hub genes. And the result showed that 4 hub genes, comprising cd4, il10, tnfsf2, myd88, may play vital roles in response to S. iniae infection. Furthermore, a total of 46 differentially expressed miRNAs (DEMs) were identified, containing 23 known and 23 novel DEMs. By integrating mRNA and miRNA joint analysis, we established a miRNA-mRNA regulatory network, including 12 miRNAs and 14 genes. Among them, novel-miR-357 were identified as a multi-target hub miRNA. These results provide important insights into the molecular regulatory mechanisms of immune response and inflammation processes in the defense of golden pompano against S. iniae infection.",
+    "species_latin": "Trachinotus ovatus",
+    "species_en": "golden pompano",
+    "species_zh": "卵形鲳鲹",
+    "takeaway": "对海鲈鱼脾脏进行mRNA-miRNA联合转录组分析，揭示其抵抗海豚链球菌感染的免疫调控网络。",
+    "conclusion": "海豚链球菌感染后，卵形鲳鲹脾脏中大量差异表达基因富集于免疫相关通路，cd4、il10、tnfsf2、myd88等枢纽基因及以novel-miR-357为核心的多靶点miRNA-mRNA网络可能在抗菌免疫和炎症调控中发挥关键作用，为理解其抗感染分子机制提供了重要线索。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -2872,7 +2924,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "EuropePMC",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
