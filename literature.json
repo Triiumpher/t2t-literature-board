@@ -1,5 +1,109 @@
 [
   {
+    "id": "pmid-42734348",
+    "title": "Telomere-to-telomere genome assembly of &lt;i&gt;Aspergillus nidulans&lt;/i&gt; CS2498 with resolved centromeric regions",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Microbiology resource announcements",
+    "authors": "Svoboda T, Berger H, Strauss J.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42734348",
+    "doi": "10.1128/mra.00630-26",
+    "pmid": "42734348",
+    "abstract": "Aspergillus nidulans is a well-characterized fungal model organism that is used to address basic genetic, epigenetic, and cell biological questions. Here, we present a gapless telomere-to-telomere assembly of nanopore sequencing reads of the eight chromosomes of Aspergillus nidulans CS2498, including centromeric regions.",
+    "species_latin": "Aspergillus nidulans",
+    "species_en": "Aspergillus nidulans",
+    "species_zh": "构巢曲霉",
+    "takeaway": "研究用纳米孔测序完成构巢曲霉CS2498八条染色体的无间隙端粒到端粒组装，并解析了着丝粒区域。",
+    "conclusion": "该研究获得了构巢曲霉CS2498八条染色体的端粒到端粒无间隙基因组组装，成功解析了此前难以组装的着丝粒区域，为这一经典真菌模式生物的遗传学、表观遗传学和细胞生物学研究提供了更完整的基因组参考。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42734552",
+    "title": "TvTPPIMI: A Boundary-Aware Dual-View Framework for Predicting PPI-Modulator Interactions",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of chemical information and modeling",
+    "authors": "Yang L, Chen J, Tan H, Liu F, Fang Z, Yuan Y, Wang H, Sun H, Li J, Wei D.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42734552",
+    "doi": "10.1021/acs.jcim.6c01921",
+    "pmid": "42734552",
+    "abstract": "Protein-protein interactions (PPIs) regulate essential cellular processes and represent an important class of therapeutic targets; however, discovering effective modulators of PPIs remains a formidable challenge. Although deep learning approaches have been widely explored for PPI modulator discovery, many rely on simplified representations that obscure interchain boundary information and fine-grained PPI-modulator interaction (PPIMI) patterns, limiting their robustness under distribution shifts. To address this challenge, we introduce TvTPPIMI, a framework that leverages learnable boundary tokens to encode partner-aware boundary information and models PPIMI at atom-residue resolution. In a case study targeting the AURKA-TPX2 interaction, TvTPPIMI prioritized putative modulatory candidates from a small-molecule screening library. Structure-based docking, attention analysis, multireplica molecular dynamics simulations, MM/GBSA binding free-energy estimation, and noncovalent interaction analyses provided post hoc physical support for the stable AURKA binding of selected candidates, highlighting CE02-6266 as the most favorable compound among the tested hits. Together, these results suggest that TvTPPIMI provides a generalizable computational framework with coarse-grained, attention-based interpretive cues for PPIMI prediction and can be integrated with structure- and dynamics-based analyses to support PPI modulator discovery.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出边界感知双视角框架TvTPPIMI，在原子-残基层面预测PPI调节剂互作，并筛选出靶向AURKA-TPX2的候选化合物。",
+    "conclusion": "TvTPPIMI利用可学习的边界标记编码伙伴感知的界面信息，在原子-残基分辨率上建模PPI-调节剂互作，提升分布偏移下的稳健性。针对AURKA-TPX2的案例中，该框架从小分子库中优先筛选出候选物，并经对接、注意力分析、多副本分子动力学、MM/GBSA及非共价作用分析验证其与AURKA的稳定结合，其中CE02-6266表现最优。该框架可推广并可与结构与动力学分析结合，助力PPI调节剂发现。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42735089",
+    "title": "Identification of threonyl-tRNA synthetase as a potential fungicidal target of 4-fluoro-2-aryl-1H-indole",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Wang Z, Wu J, Zhou X, An X, Huo J, An Z, Chen L, Zhang J, Huo J.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42735089",
+    "doi": "10.1002/ps.71283",
+    "pmid": "42735089",
+    "abstract": "BACKGROUND: Discovering novel pesticide targets based on newly synthesized compounds is of great importance for the development of new pesticides and sustainable agricultural. 4-Fluoro-2-aryl-1H-indole (W1), a 2-arylindole derivative obtained via one-pot synthesis in our previous studies, exhibited potent antifungal activity against Botrytis cinerea B05.10, with a half-maximal effective concentration of 6.78 mg L-1. RESULTS: To discover the novel fungicide target, in this study, western blot-drug affinity responsive target stability, surface plasmon resonance and enzymatic assays were used to explore the potential target of W1, and B. cinerea threonyl-tRNA synthetase (BcThrRS) was identified as a direct target of W1 [equilibrium dissociation constant (KD) = 5.28 μm; half-maximal inhibitory concentration (IC50) = 37.55 μm]. Molecular docking and mutagenesis analyses identified Pro256 as a key residue mediating ligand binding, with mutation of this residue substantially reducing target affinity and enzymatic inhibition. Metabolomic profiling suggested that inhibition of BcThrRS by W1 disrupts threonyl-tRNA formation, resulting in defective protein translation, amino acid metabolic imbalance, and downstream perturbation of cellular metabolism. CONCLUSION: These findings indicate that BcThrRS is a promising antifungal target and highlight W1 as a privileged scaffold for the development of fungicides with a novel mode of action. They open up new avenues for the rational design of next-generation antifungals targeting aminoacyl-tRNA synthetases. © 2026 Society of Chemical Industry.",
+    "species_latin": "Botrytis cinerea",
+    "species_en": "gray mold",
+    "species_zh": "灰葡萄孢",
+    "takeaway": "研究发现4-氟-2-芳基-1H-吲哚类化合物W1以灰葡萄孢苏氨酰-tRNA合成酶为直接靶标, 具开发新型杀菌剂的潜力",
+    "conclusion": "W1通过结合BcThrRS并依赖关键残基Pro256抑制其酶活, 阻断苏氨酰-tRNA生成, 导致蛋白翻译受阻、氨基酸代谢失衡及细胞代谢紊乱, 从而发挥抗真菌作用。BcThrRS因此成为有前景的抗真菌靶点, W1可作为新型作用机制杀菌剂开发的优势骨架, 为靶向氨酰-tRNA合成酶的下一代抗真菌药物理性设计提供新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42735072",
+    "title": "Rapid evolution and genetic basis of spinetoram resistance in Phthorimaea absoluta: evidence from six years of monitoring and laboratory selection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Langa TP, Quintela V, de Oliveira M, Siqueira HAA.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42735072",
+    "doi": "10.1002/ps.71303",
+    "pmid": "42735072",
+    "abstract": "BACKGROUND: Phthorimaea absoluta (Meyrick) (Lepidoptera: Gelechiidae) is one of the most destructive pests of tomato worldwide and has repeatedly evolved resistance to insecticides. Spinosyn insecticides, particularly spinetoram, are widely used for its control due to their high efficacy and favorable selectivity. This study investigated temporal changes in susceptibility to spinetoram in Brazilian populations of Phthorimaea absoluta over a 6-year monitoring period and characterized the genetic basis, metabolic contribution, and cross-resistance patterns of a resistant population. RESULTS: Diagnostic-dose monitoring repeatedly detected resistant phenotypes across geographically distinct populations during 6 years of surveillance, indicating that resistance alleles are established in Brazilian populations despite temporal variation in their apparent frequencies. Laboratory selection of a field-derived population (PTY-Sel) resulted in a high level of resistance to spinetoram (resistance ratio (RR50) ≈ 1145). Reciprocal crosses indicated autosomal inheritance, and dominance estimates (DD50 = -0.43 to -0.57) showed that resistance was incompletely recessive. Backcross analyses supported a monofactorial basis of resistance. Synergism assays revealed significant reductions in median lethal concentration (LC50) in the resistant strain after exposure to piperonyl butoxide (PBO), diethyl maleate (DEM), and S,S,S-tributyl phosphorotrithioate (DEF) (synergism ratio (SR50) = 7.59-8.78), indicating involvement of detoxification enzymes. However, resistance remained high under synergized conditions, suggesting that metabolic detoxification alone does not fully explain the resistance phenotype. Strong cross-resistance to spinosad (RR50 ≈ 683) was observed, whereas only minor differences in susceptibility occurred for the non-spinosyn insecticides; cyclaniliprole susceptibility was similar between strains, while PTY-Sel showed increased susceptibility to isocycloseram. Effective dominance declined with increasing concentration, and resistance became functionally recessive at ≥ 15 mg L-1. CONCLUSION: Resistance to spinetoram in Phthorimaea absoluta can evolve rapidly and is primarily associated with a major recessive genetic factor, with metabolic detoxification contributing to the resistance phenotype. The cross-resistance profile provides important insights for designing resistance management strategies in tomato production systems. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Phthorimaea absoluta",
+    "species_en": "tomato leafminer",
+    "species_zh": "番茄潜叶蛾",
+    "takeaway": "巴西番茄潜叶蛾田间种群6年监测显示对乙基多杀菌素抗性等位基因已普遍存在，实验室筛选获得高抗品系，抗性为常染色体单基因不完全隐性遗传。",
+    "conclusion": "乙基多杀菌素抗性在番茄潜叶蛾中可快速进化，巴西田间种群抗性等位基因已建立。抗性由常染色体单基因控制、呈不完全隐性，解毒酶参与但非唯一机制；与多杀菌素存在强交互抗性，对非多杀菌素类药剂影响较小，抗性在高浓度下功能上转为隐性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42732734",
     "title": "A single exposure to an organophosphate insecticide disrupts developmental patterns of hippocampal cell proliferation and overall brain size in a migratory songbird",
     "type": "paper",
@@ -22,7 +126,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -6678,6 +6782,32 @@
     "conclusion": "氰戊菊酯经食物和水体暴露均能在皱纹盘鲍鳃中积累并引起毒性，但水体暴露积累更多、分子扰动更广，氧化应激、免疫炎症和凋亡相关基因表达改变更显著，综合生物标志物响应和主成分分析证实水体暴露是主要风险途径。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42294640",
+    "title": "T2T Genome Assembly and Multi-Omics Data Reveal Terrestrial Adaptation and Mucus Biosynthesis in Tropical Leatherleaf Slug (Laevicaulis alte)",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "authors": "Wang G, He S, Wang Z, Pang A, Sun X, Liu R, Wang F, Chen S, Bian Z, Wei D, Wu L, Zhao S, Ji Q, Sun Y, Sun N, Fujaya Y, Tang B, Tan K, Zhang D, Chen L.",
+    "publish_date": "2026-06-15",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42294640",
+    "doi": "10.1002/advs.76129",
+    "pmid": "42294640",
+    "abstract": "Laevichaulis alte is a slug in the order Systellommatophora that evolved from aquatic ancestors and now faces strong challenges from desiccation, respiration on land, and novel pathogens. Its mucus is essential for water retention, locomotion, and defense. To link terrestrial adaptation with mucus biosynthesis, we generated a gap-free genome assembly of L. alte using PacBio HiFi reads, Oxford Nanopore ultra-long reads, and Hi-C data. The genome shows low heterozygosity and holocentromeric chromosomes. Functional metabolomics revealed marked metabolic shifts between L. alte and the closely related aquatic species Peronia verruculata. In L. alte, differential metabolites were enriched in lipid metabolism, immune regulation, and stress response pathways, consistent with life in a dry and microbe-rich terrestrial environment. Comparative genomics and transcriptomics identified candidate genes linked to mucus secretion and physiological adaptation, including VEGF, ASGR2, and COL6A6. Further analyses highlighted the vascular endothelial growth factor (VEGF) gene family as a key regulator connecting angiogenesis, tissue remodeling, and mucus production pathways in L. alte. Together, this gap-free genome and multi-omics dataset establish a molecular framework that links genomic innovation, mucus biology, and terrestrial adaptation in Systellommatophora, and they offer a basis for understanding ecological niche specialization in land molluscs.",
+    "species_latin": "Laevicaulis alte",
+    "species_en": "Tropical leatherleaf slug",
+    "species_zh": "热带皮革叶蛞蝓",
+    "takeaway": "研究用T2T基因组和多组学揭示热带皮革叶蛞蝓陆生适应与黏液合成的分子机制",
+    "conclusion": "该研究构建了L. alte无间隙基因组，发现其杂合度低、具全着丝粒染色体；代谢组显示脂质代谢、免疫与应激通路发生适应陆生环境的改变；比较基因组与转录组锁定VEGF、ASGR2、COL6A6等黏液分泌与适应相关基因，其中VEGF家族连接血管生成、组织重塑与黏液生成，为理解陆生软体动物生态位特化提供分子框架。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
     "llm_enhanced": true
