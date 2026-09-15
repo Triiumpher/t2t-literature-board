@@ -1,0 +1,22 @@
+[
+  {
+    "id": "manual-20260916-pxgp-metabolic-clamp",
+    "title": "【科研新进展】（909）植保学院现代药物研发团队在昆虫代谢靶标验证及新型农药双靶标设计策略方面取得重要进展",
+    "type": "wechat",
+    "boards": ["insecticide"],
+    "source": "西北农林科技大学新闻网（植物保护学院）",
+    "authors": "",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-16",
+    "url": "https://news.nwsuaf.edu.cn/xscg/6ffa9923ac8f4b70b9a71300c8c656ac.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "西北农林科技大学植保学院现代药物研发团队在eLife发表研究，以重大害虫小菜蛾为对象系统验证糖原磷酸化酶（GP）作为独立杀虫靶标的可行性：人源GP抑制剂对重组PxGP酶活抑制极强（IC50=2.96 nM），但活体500 mg/L几乎无杀虫活性（死亡率12.78%）；RNAi沉默PxGP（最高敲低87.59%）结合代谢组发现，昆虫经“蛋白质降解—糖异生—海藻糖储存”两阶段代偿恢复葡萄糖稳态。研究据此提出同时阻断糖原分解（GP）与糖异生（PEPCK/G-6-Pase）的“代谢钳制”双靶标杀虫剂设计新策略。",
+    "species_latin": "Plutella xylostella",
+    "species_en": "Diamondback moth (Plutella xylostella)",
+    "species_zh": "小菜蛾",
+    "takeaway": "小菜蛾依靠糖异生代偿使GP单点抑制剂“体外强效、活体无效”，需GP与糖异生双靶标“代谢钳制”才能造成不可逆葡萄糖饥饿。",
+    "conclusion": "酶学与分子对接首次明确排除GP为BPU类杀虫剂除虫脲（DFB）的分子靶标（GPI锚定二聚体界面变构位点IC50=2.96 nM，DFB无法有效抑制PxGP）；GPI活体500 mg/L死亡率仅12.78%而DFB致死61.36%，RNAi揭示PEPCK与G-6-Pase上调3-4倍、海藻糖升高7.44倍的糖异生代谢救援机制；提出同时抑制糖原分解与糖异生的“代谢钳制”双靶标策略，并建立“体外酶学—活体功能—代谢网络—分子结构”的农药靶标系统评价体系，为下一代代谢靶向型农药理性设计提供新思路。",
+    "keywords": ["新型杀虫剂", "作用靶标", "糖原磷酸化酶", "糖异生", "代谢钳制", "双靶标杀虫剂", "小菜蛾", "BPU杀虫剂", "eLife"]
+  }
+]
