@@ -4764,7 +4764,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "EuropePMC",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -5486,6 +5486,32 @@
       "生物农药",
       "工程菌"
     ]
+  },
+  {
+    "id": "pmid-42612540",
+    "title": "Nitrilase-mediated degradation of insecticides flonicamid and thiacloprid by immobilized engineered Escherichia coli with a novel pathway",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Jiang H, He Z, Zhang M, Pei R, An X, Shi J, Dai Y, Zhang Q.",
+    "publish_date": "2026-08-15",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42612540",
+    "doi": "10.1016/j.jhazmat.2026.143314",
+    "pmid": "42612540",
+    "abstract": "The nitrile‑containing insecticides flonicamid (FLO) and thiacloprid (THI) are widely used in agriculture, posing risks to the environment and animal health. Nitrilase is a key catalyst for the degradation of nitrile compounds, and immobilized engineered bacteria are preferred in wastewater treatment. However, immobilized engineered bacteria expressing nitrilase have never been investigated for pollutant degradation. Here, engineered Escherichia coli pET28a‑VbNitA harboring the nitrilase gene VbNitA was immobilized by calcium alginate encapsulation. FLO was degraded into N-(4-trifluoromethylnicotinoyl)glycinamide and 4-(trifluoromethyl)nicotinol glycine by the immobilized cells via VbNitA. THI was converted to THI‑amide and THI‑imine using the same system. Notably, this is the first report of a nitrilase converting THI to THI‑amide and of THI‑imine as a biodegradation intermediate. Compared with free cells, the immobilized E. coli pET28a‑VbNitA showed higher tolerance to high temperature, alkaline, and acidic environments, and better long-term storage stability. The substrate inhibition model showed that the optimal initial concentrations of FLO and THI for degradation by immobilized E. coli pET28a‑VbNitA were 45.13 and 127.50 μmol/L, respectively. FLO was degraded more rapidly than THI by the immobilized cells. Molecular docking revealed that both FLO and THI formed stable interactions with VbNitA, with FLO positioned closer to Cys165 of the catalytic triad. This study presents a novel THI degradation pathway and provides a new, efficient immobilized biocatalyst for the remediation of wastewater with nitrile‑containing insecticides.",
+    "species_latin": "Escherichia coli",
+    "species_en": "Escherichia coli",
+    "species_zh": "大肠杆菌",
+    "takeaway": "固定化表达腈水解酶VbNitA的工程大肠杆菌可高效降解氟啶虫酰胺和噻虫啉，并首次揭示噻虫啉新降解途径",
+    "conclusion": "该固定化工程菌通过腈水解酶VbNitA将氟啶虫酰胺和噻虫啉转化为相应酰胺及亚胺类产物，首次报道腈水解酶催化噻虫啉生成噻虫啉酰胺及噻虫啉亚胺中间体；固定化细胞耐高温、耐酸碱且储存稳定性优于游离细胞，对氟啶虫酰胺降解更快，为含腈杀虫剂废水修复提供了高效新型生物催化剂",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42697666",
@@ -6527,6 +6553,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42480835",
+    "title": "Functional instability and community-level compensatory mechanisms in the anammox system under long-term acetamiprid stress",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Wang J, Chen JY, He YZ, Wu JJ, Li ZH.",
+    "publish_date": "2026-07-21",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42480835",
+    "doi": "10.1016/j.envres.2026.125298",
+    "pmid": "42480835",
+    "abstract": "Acetamiprid is a frequently detected neonicotinoid insecticide that is widely present in water bodies and may disrupt the stability of the anaerobic ammonium oxidation (anammox) process. This study investigated the response threshold and mechanistic transition of the anammox system under long-term acetamiprid stress. The system remained stable at 0-2.5 mg/L acetamiprid, and nitrogen removal efficiency (NRE) did not change significantly. At 5-15 mg/L acetamiprid, NRE was maintained at approximately 80%, whereas the NO3--N/NH4+-N ratio increased to 0.40, and specific anammox activity (SAA) declined. This apparent maintenance of reactor performance was likely sustained by community-level functional compensation. At 50 mg/L acetamiprid, reactive oxygen species (ROS) levels increased by 74%, the protective effect of extracellular polymeric substances (EPS) weakened, and NRE decreased by 9.11%, indicating that the compensatory capacity of the microbial community had been exceeded and that the reactor had entered an unstable state. Overall, the reactor exhibited a stage-dependent transition from apparent stability to latent functional impairment and ultimately to overt instability. Community and metagenomic analyses further suggested that acetamiprid exposure reduced the ecological dominance and functional contributions of Candidatus Kuenenia and Candidatus Jettenia, while increasing the relative importance of Candidatus Brocadia and associated populations such as Ignavibacterium, and enhancing their stress response and xenobiotic-related functions. This transition indicates that the system shifted from a mode dominated by core anammox bacteria to a more distributed, multispecies compensatory state. These findings provide new insights into the stability boundaries and failure transitions of the anammox system under pesticide stress.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "长期啶虫脒胁迫下,厌氧氨氧化系统先表观稳定、后功能受损,50 mg/L时群落补偿能力被突破而失稳。",
+    "conclusion": "该系统对啶虫脒的响应呈阶段性:低浓度下性能稳定,中浓度虽维持约80%脱氮效率但比活性下降、硝酸盐积累,靠群落功能补偿支撑;高浓度下ROS升高、EPS保护减弱、脱氮效率下降,补偿能力被超越。核心菌群由Kuenenia、Jettenia向Brocadia及Ignavibacterium等转移,系统从核心菌主导转为多物种分布式补偿,揭示了农药胁迫下厌氧氨氧化的稳定性边界与失效转变机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42697642",
     "title": "Field resistance monitoring and nAChR α6 target validation support spinetoram as a candidate insecticide for rotation in Nilaparvata lugens resistance management",
     "type": "paper",
@@ -6683,6 +6735,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42419056",
+    "title": "Design, synthesis, biological evaluation, DFT and molecular docking studies of novel isoxazolines containing cyclic amide",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioorganic chemistry",
+    "authors": "Liu X, Sheng G, Ji BY, Du Y, Gong C, Zhu QB, Li N, Zhang Q, Wang KP, Hu ZQ.",
+    "publish_date": "2026-07-05",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42419056",
+    "doi": "10.1016/j.bioorg.2026.110214",
+    "pmid": "42419056",
+    "abstract": "Using a skeleton transition strategy, a series of cyclic amide-containing isoxazoline derivatives were rationally designed and synthesized. Bioassay results revealed that several compounds exhibited potent insecticidal activity and a broad spectrum of action. Notably, compound I-22 showed remarkable insecticidal efficacy against Plutella xylostella and Tetranychus cinnabarinus, with LC50 values of 0.13 mg/L and 0.55 mg/L, respectively, significantly surpassing fluxametamide (LC50 = 0.73 mg/L and 0.81 mg/L, respectively). Moreover, the acute contact toxicity of compound I-22 to honeybees was slightly lower, with an LD50 of 1.46 μg/bee compared to fluxametamide (LD50 = 1.18 μg/bee). Molecular docking studies indicated that both fluxametamide and I-22 act on GABA receptors, and their similar docking conformations may explain the comparable honeybee toxicity. Theoretical calculations further suggested that the 5-ethylpyridine moiety plays a critical role in enhancing insecticidal activity and target selectivity. Collectively, these findings highlight compound I-22 as a promising candidate for the development of a novel isoxazoline insecticide.",
+    "species_latin": "Plutella xylostella, Tetranychus cinnabarinus, Apis mellifera",
+    "species_en": "diamondback moth, carmine spider mite, honeybee",
+    "species_zh": "小菜蛾、朱砂叶螨、蜜蜂",
+    "takeaway": "设计合成含环状酰胺异噁唑啉衍生物，I-22对小菜蛾和朱砂叶螨杀虫活性显著优于氟噻虫酰胺。",
+    "conclusion": "通过骨架跃迁策略合成的含环状酰胺异噁唑啉类化合物具有广谱杀虫活性，其中I-22对小菜蛾和朱砂叶螨的LC50分别为0.13和0.55 mg/L，优于氟噻虫酰胺，且对蜜蜂急性接触毒性略低；分子对接显示二者均作用于GABA受体，5-乙基吡啶基团对活性和选择性起关键作用，I-22有望成为新型异噁唑啉杀虫剂候选物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42398816",
     "title": "Efficacy of insecticides applied on indoor residual spraying against wild populations of Mansonia humeralis Dyar e Knab, 1916 (Diptera, Culicidae) in western Amazonia",
     "type": "paper",
@@ -6780,6 +6858,32 @@
     "species_zh": "皱纹盘鲍",
     "takeaway": "比较食物和水体暴露下氰戊菊酯对皱纹盘鲍鳃的毒性，发现水体暴露积累更高、损伤更重，涉及氧化应激、免疫和凋亡通路。",
     "conclusion": "氰戊菊酯经食物和水体暴露均能在皱纹盘鲍鳃中积累并引起毒性，但水体暴露积累更多、分子扰动更广，氧化应激、免疫炎症和凋亡相关基因表达改变更显著，综合生物标志物响应和主成分分析证实水体暴露是主要风险途径。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42349814",
+    "title": "Human and ecological burden of pesticide contamination: Toxicological impacts, detection technologies and bioremediation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Sharely I, Joshi S, Maan M, Mudgil U, Verma K, Nimble A, Saini A.",
+    "publish_date": "2026-06-25",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/42349814",
+    "doi": "10.1016/j.envres.2026.125109",
+    "pmid": "42349814",
+    "abstract": "Pesticides play an important role in modern agriculture by protecting the crops from pest infestation and preventing yield loss, thereby supporting global food security. However, their indiscriminate usage has raised serious concerns regarding environmental contamination, ecological imbalance and risks to human health. Global pesticide consumption has increased substantially over the last three decades, rising to nearly 3.7 million tonnes in 2023, according to Food and Agriculture Organization. This substantial increase represents the growing dependence on pesticides for chemical pest management in modern agricultural systems. As a consequence, large quantities of these pesticides are released into the terrestrial and aquatic ecosystems where they bioaccumulate and lead to ecological disturbance, resulting in adverse toxicological effects on humans and wildlife. Despite significant research on pesticide toxicity, environmental fate, detection methods and remediation strategies, a significant gap exists as to how these components collectively contribute to pesticide risk assessment. This review utilises current knowledge of pesticide environmental fate, persistence, toxicological mechanisms, detection and biomonitoring approaches to provide mechanistic insights into induced toxicity and provide future directions for effective pesticide risk management. By integrating environmental persistence, biomonitoring, risk assessment and remediation within a unified framework, this review aims to provide a comprehensive perspective for advancing sustainable pesticide management and guiding future research, regulatory decision-making and environmental protection strategies.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述农药污染的环境与健康负担，整合其环境归趋、毒性机制、检测与生物修复，提出统一风险评估框架。",
+    "conclusion": "农药大量使用导致其在陆地和水生生态系统中生物累积，引发生态失衡并对人类和野生动物产生毒性。现有研究虽覆盖毒性、环境归趋、检测与修复，但缺乏将这些环节整合用于风险评估。本综述将环境持久性、生物监测、风险评估与修复纳入统一框架，为可持续农药管理、监管决策和环境保护提供综合视角。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -7250,6 +7354,58 @@
     "conclusion": "该研究通过整合基因组与群体数据，提出SV-基因-着丝粒协同进化模型，解释白菜亚种和蔬菜作物在数千年内的快速辐射，并构建高精度泛基因组，为精准育种提供新框架。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-41765352",
+    "title": "PrePPI - Structure-based Prediction of Protein-protein Interactomes and Networks",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of molecular biology",
+    "authors": "Velez C, Naravane A, Robila VI, Saha A, Murray D, Honig B.",
+    "publish_date": "2026-02-27",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/41765352",
+    "doi": "10.1016/j.jmb.2026.169735",
+    "pmid": "41765352",
+    "abstract": "PrePPI is a structure-based pipeline that predicts protein-protein interactions (PPIs) between two structured domains and between structured domains and short linear motifs (SLiMs) on a proteome-wide scale. Since the 2023 Computational Resource Issue of JMB, the PrePPI website has been significantly expanded and redesigned. The resource now includes interactomes for human, yeast, and E. coli proteomes with 3D models for high-confidence domain-level complexes and PDB templates for most of the SLiM-mediated predicted interactions. A key new addition is derived from the clustering of the PrePPI interactomes based entirely on the structure-based likelihood of an interaction. Remarkably these clusters exhibit functional coherence and provide an unprecedented proteome-wide depiction of the subnetworks of PPIs that underlie biological phenomena. The new website - https://honigcomplab.c2b2.columbia.edu/PrePPI - provides convenient access to these clusters, to structural models for each pairwise complex, and to function annotations for individual proteins, enabling multiple modes of biological discovery.",
+    "species_latin": "Homo sapiens, Saccharomyces cerevisiae, Escherichia coli",
+    "species_en": "human, yeast, E. coli",
+    "species_zh": "人类、酵母、大肠杆菌",
+    "takeaway": "PrePPI基于结构预测人类、酵母和大肠杆菌的蛋白质互作网络，并通过聚类揭示功能相关的互作子网。",
+    "conclusion": "PrePPI是一个基于结构的大规模蛋白质互作预测流程，可预测结构化结构域之间以及结构域与短线性基序之间的互作。新版网站扩展至人类、酵母和大肠杆菌蛋白质组，提供高置信度复合物三维模型与PDB模板，并基于互作的结构似然性对互作组进行聚类，所得聚类具有功能一致性，为在全蛋白质组尺度上理解生物现象背后的互作子网提供了新途径。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-41520872",
+    "title": "CovInter 2.0: Comprehensive Molecular Interactome of Coronavirus Infection",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of molecular biology",
+    "authors": "Lu W, Zhang Y, Amahong K, Zhu S, Li X, Zhou Y, Zhu F, Tao L.",
+    "publish_date": "2026-01-09",
+    "added_at": "2026-09-15",
+    "url": "https://europepmc.org/article/MED/41520872",
+    "doi": "10.1016/j.jmb.2026.169633",
+    "pmid": "41520872",
+    "abstract": "The ongoing evolution of coronaviruses (CoVs) poses a long-term threat to global public health, requiring dissection of virus-host interactions to develop broad-spectrum antivirals. Existing data resources are often limited to specific interaction types, hindering a systematic understanding of the complete viral life cycle. To address this, CovInter 2.0 (https://idrblab.org/COVINTER) has been developed as a comprehensively upgraded database of coronavirus interactomics, which is the first to systematically integrate the six major classes of molecular interactions that drive the viral life cycle, compiling over 61,000 entries. Furthermore, data for 229 potential anti-CoV drugs and their targets have been included, bridging molecular interactions with therapeutic development. The platform features an interactive network visualization tool for intuitive exploration of these complex relationships. As an open-access resource, CovInter 2.0 provides a powerful tool for virology and drug discovery, computational biology, designed to accelerate the identification of novel antiviral targets and the development of next-generation therapeutics.",
+    "species_latin": "Coronavirus",
+    "species_en": "Coronavirus",
+    "species_zh": "冠状病毒",
+    "takeaway": "CovInter 2.0整合六类冠状病毒分子互作数据超6.1万条，并纳入229种潜在抗新冠药物及靶点，助力广谱抗病毒研发。",
+    "conclusion": "该数据库首次系统整合驱动冠状病毒生命周期的六大类分子互作，并关联潜在抗病毒药物与靶点，提供交互式网络可视化，为病毒学、药物发现与计算生物学研究提供开放资源，有望加速新型抗病毒靶点识别与下一代疗法开发。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
