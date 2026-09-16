@@ -136,6 +136,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42744016",
+    "title": "Toxicological mechanisms of chlorantraniliprole in Procambarus clarkii: Insight into metabolic disturbances, oxidative stress, and apoptosis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+    "authors": "Liu X, Lu X, Dai SG, Wang JL, Bian DD, Liu QN.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42744016",
+    "doi": "10.1016/j.cbpc.2026.110695",
+    "pmid": "42744016",
+    "abstract": "Chlorantraniliprole (CAP), an anthranilic diamide insecticide widely used in rice-based agroecosystems, may enter rice-crayfish culture systems and affect non-target aquatic animals. This study evaluated CAP-induced gill injury in Procambarus clarkii using histopathology, TUNEL staining, biochemical biomarkers, residue analysis, transcriptomics, qRT-PCR, and western blotting. Crayfish were exposed to 0, 15, 30, and 45 μg/L CAP for up to 96 h, and transcriptomic profiling was performed as an exploratory comparison between the control and a CAP-exposed group at 96 h. CAP accumulated in gill tissues and was associated with epithelial damage, increased apoptosis, altered total hemocyte count, and changes in ACP, AKP, MDA, CAT, POD, T-AOC, ALB, and ATPase-related indices. Several oxidative-stress biomarkers showed non-linear or biphasic responses, suggesting adaptive or hormetic responses rather than a simple monotonic toxicity pattern. RNA-seq and validation analyses indicated that CAP exposure was associated with changes in ribosome-, protein export-, protein processing in the endoplasmic reticulum-, amino-acid metabolism-, and lipid metabolism-related pathways. Western blotting supported changes in apoptosis-, inflammation-, autophagy-related, chaperone, and metabolic proteins; however, the current data do not directly demonstrate unfolded protein response activation or autophagic flux. Overall, CAP exposure caused branchial injury and broad stress-associated molecular remodeling in P. clarkii, while the proposed roles of proteostasis-related disturbance and autophagy impairment should be considered hypothesis-generating and require further validation using markers such as GRP78, CHOP, LC3-II/LC3-I, and direct flux assays.",
+    "species_latin": "Procambarus clarkii",
+    "species_en": "red swamp crayfish",
+    "species_zh": "克氏原螯虾",
+    "takeaway": "氯虫苯甲酰胺在克氏原螯虾鳃中蓄积，引发氧化应激、代谢紊乱与细胞凋亡等损伤",
+    "conclusion": "该研究表明，氯虫苯甲酰胺可在克氏原螯虾鳃组织蓄积，导致上皮损伤、凋亡增加、血细胞总数改变及多种酶与氧化应激指标变化，并伴随核糖体、蛋白加工、氨基酸与脂质代谢等通路重塑；部分指标呈非线性双相反应，提示适应性或毒物兴奋效应。蛋白稳态紊乱与自噬受损目前仅为假设，需用GRP78、CHOP、LC3-II/LC3-I及通量实验进一步验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42736560",
     "title": "Impact of mass distribution on insecticide-treated net coverage and usage in three high burden malaria provinces of Papua New Guinea",
     "type": "paper",
@@ -185,6 +211,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42743829",
+    "title": "The miRNA-ROS interactome: Orchestrating plant resilience to environmental fluxes",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Plant physiology and biochemistry : PPB",
+    "authors": "Wang J, Hao H, Wen Y, Li Z, Cao T, Wei H, Bilska-Kos A, Xie Y, Wan X.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42743829",
+    "doi": "10.1016/j.plaphy.2026.111748",
+    "pmid": "42743829",
+    "abstract": "As sessile organisms, plants constantly face environmental stresses that disrupt reactive oxygen species (ROS) homeostasis. ROS function as critical signaling molecules orchestrating stress adaptation, while microRNAs (miRNAs) have emerged as master regulators of gene expression. Accumulating evidence reveals a bidirectional regulatory network between miRNAs and ROS. In this review, we first examine how miRNAs compartment-specific regulate ROS metabolism in the apoplast, mitochondria, and chloroplasts. We then delineate the multi-layered control of miRNA biogenesis by ROS, encompassing redox-sensitive transcription factors, epigenetic modifications, and post-translational modifications. By integrating these modules into plant responses to abiotic and biotic stresses, we highlight both evolutionarily conserved patterns and stress-specific adaptations essential for ROS homeostasis. The miRNA-ROS interactome emerges as an integrative regulatory framework characterized by evolutionary conservation, spatial compartmentalization, and integration with phytohormone, nutrient, and calcium signaling networks. After identifying critical knowledge gaps in spatiotemporal dynamics and inter-organellar coordination, we propose future research directions leveraging single-cell omics, redox imaging, and synthetic biology. This provides a translational pathway for engineering stress-resilient crops through precise manipulation of miRNA-ROS modules, advancing sustainable agriculture in the context of climate change.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述揭示miRNA与ROS双向调控网络, 决定植物逆境适应与抗逆性",
+    "conclusion": "miRNA与活性氧构成双向调控网络: miRNA在质外体、线粒体和叶绿体等区室调控ROS代谢, ROS又通过氧化还原敏感转录因子、表观修饰和翻译后修饰调控miRNA生成。该网络具进化保守性、空间区室化, 并与激素、营养和钙信号整合, 为培育抗逆作物提供新思路。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -289,6 +341,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42743761",
+    "title": "Proximity labeling: A powerful tool for mapping protein interactions",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biosensors & bioelectronics",
+    "authors": "Yin HQ, Zhang S, Liu SL, Wang ZG.",
+    "publish_date": "2026-09-13",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42743761",
+    "doi": "10.1016/j.bios.2026.119226",
+    "pmid": "42743761",
+    "abstract": "Protein-protein interactions (PPIs) are fundamental to cellular regulation, and their dysregulation contributes to numerous diseases. Conventional approaches for studying PPIs often lack sufficient spatial and temporal resolution and are limited in capturing weak, transient, or context-dependent molecular associations. Proximity labeling (PL) technologies address these limitations by using labeling enzymes or photocatalysts targeted to specific proteins, subcellular compartments, membranes, or other biological locations to generate reactive intermediates that covalently label nearby biomolecules in living systems, thereby providing an unbiased view of protein neighborhoods and molecular proximity landscapes. This review summarizes recent advances in enzyme-based and photocatalytic proximity labeling (PPL) platforms. We discuss whole-enzyme systems, with emphasis on their engineering optimization and applications in dynamic interactome mapping, organelle organization, and signaling regulation. Split-enzyme strategies are further reviewed as conditional labeling approaches that improve spatial specificity for studying inducible interactions and membrane contact sites. In addition, emerging PPL platforms based on metal complexes, organic chromophores, and genetically encoded photocatalysts are highlighted for their light-controlled activation and expanded applicability in genetically inaccessible systems. Finally, we compare the advantages, limitations, and suitable applications of different PL technologies and discuss future challenges, including improving biological compatibility, expanding tissue applications, and integrating PL with advanced omics and computational approaches.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该综述总结酶基与光催化邻近标记技术,用于在活细胞中高时空分辨地绘制蛋白互作与邻近分子图谱。",
+    "conclusion": "邻近标记技术通过将标记酶或光催化剂靶向特定蛋白、亚细胞区域或膜结构,在活体内共价标记邻近生物分子,克服了传统方法在时空分辨率和捕获弱、瞬时互作上的不足。文章系统梳理了全酶系统、分裂酶策略及基于金属配合物、有机发色团和遗传编码光催化剂的新型光催化平台,并比较其优劣与适用场景,指出未来需提升生物兼容性、拓展组织应用并融合组学与计算方法。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -7573,6 +7651,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42198850",
+    "title": "Cross-linking mass spectrometry: Workflow enhancements for mapping large-scale interactomes",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biophysical journal",
+    "authors": "Balakrishnan SM, Nedjadi T, Alsiary R, Ansari HR.",
+    "publish_date": "2026-05-26",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42198850",
+    "doi": "10.1016/j.bpj.2026.05.033",
+    "pmid": "42198850",
+    "abstract": "In vivo chemical cross-linking combined with mass spectrometry analysis (XL-MS) enables the direct capture of protein-protein interactions (PPIs) within their native cellular environment. This platform provides a unique capability to capture weak or transient interactions in near-native contexts, complementing other large-scale methods that may lose these associations during cell lysis or purification. The workflow involves selection of suitable chemical cross-linkers to stabilize PPIs in biological samples, ranging from organelles and cells to whole tissues. This is followed by careful sample preparation, high-resolution MS analysis, and computational identification of cross-linked peptides. Continuous advancements at each stage of this workflow have enhanced the sensitivity, throughput, and accuracy of the technique. A pivotal development has been the design of novel multifunctional cross-linkers featuring improved cell permeability, MS-cleavable sites, enrichment tags, and multisite reactivity. Furthermore, recent advances in MS instrumentation, data acquisition strategies, and computational software have increased the depth and reliability of cross-link identification. This review focuses on general workflows and recent innovations that accelerate the impact of in vivo XL-MS, highlighting experimental strategies for proteome-wide PPI mapping. The successful standardization of methodology would enable widespread acceptance and application of XL-MS to address diverse and complex biological questions.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述体内交联质谱工作流程的改进，通过新型交联剂与质谱计算技术提升大规模蛋白互作组解析能力",
+    "conclusion": "体内交联质谱可在近天然环境中捕获弱或瞬时蛋白互作，弥补裂解纯化中易丢失互作的不足。新型多功能交联剂、质谱仪器、数据采集与计算软件的进步提升了灵敏度、通量和准确性；方法标准化将推动其广泛应用，回答复杂生物学问题。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42285667",
     "title": "Multi-stimuli responsive cellulose nanocrystal-based microcapsules with enhanced insecticidal efficacy and environmental safety",
     "type": "paper",
@@ -7750,6 +7854,32 @@
     "conclusion": "该研究通过整合基因组与群体数据，提出SV-基因-着丝粒协同进化模型，解释白菜亚种和蔬菜作物在数千年内的快速辐射，并构建高精度泛基因组，为精准育种提供新框架。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-41933901",
+    "title": "Proteome-wide structural and interaction analysis using cross-linking mass spectrometry and its applications",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biophysical journal",
+    "authors": "Balakrishnan SM, Ansari HR, Nedjadi T.",
+    "publish_date": "2026-04-02",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/41933901",
+    "doi": "10.1016/j.bpj.2026.03.062",
+    "pmid": "41933901",
+    "abstract": "Deciphering the mechanisms of protein-protein interactions (PPIs) and protein structural changes within the native cellular environment is crucial for advancing drug discovery. In vivo chemical cross-linking coupled with mass spectrometry (XL-MS) captures weak, transient, and higher-order interactions that are often dysregulated under altered physiological conditions and remain challenging to detect using conventional methods. Applications of in vivo XL-MS range from targeted mapping of PPIs to large-scale identification of interactome networks within the cells. The integration of quantitative approaches further facilitates comparison across different physiological conditions. The recent incorporation of machine learning (ML) tools into XL-MS workflows is transforming the depth and efficiency of this technology. AI-driven algorithms now enable more accurate identification of cross-linked peptides and the mapping of interaction topologies. Furthermore, the synergistic coupling of in vivo XL-MS data with AI-assisted structural modeling platforms such as AlphaFold allows dynamic and high-throughput prediction of protein networks. This review discusses the broader applications of in vivo XL-MS in complex biological samples, ranging from organelles and cells to whole tissues, and highlights how AI integration is expanding structural biology toward a systems-level understanding of proteome architecture.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述体内交联质谱结合AI，实现蛋白质互作与结构的高通量系统解析。",
+    "conclusion": "体内化学交联质谱能捕获弱、瞬时及高阶蛋白互作，结合定量方法可比较不同生理状态；机器学习提升了交联肽鉴定与互作拓扑解析的准确性和效率，与AlphaFold等AI结构建模平台联用，可动态、高通量预测蛋白网络，推动结构生物学走向蛋白质组架构的系统层面理解。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
