@@ -1,5 +1,193 @@
 [
   {
+    "id": "manual-20260916-pxgp-metabolic-clamp",
+    "title": "【科研新进展】（909）植保学院现代药物研发团队在昆虫代谢靶标验证及新型农药双靶标设计策略方面取得重要进展",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "西北农林科技大学新闻网（植物保护学院）",
+    "authors": "",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-16",
+    "url": "https://news.nwsuaf.edu.cn/xscg/6ffa9923ac8f4b70b9a71300c8c656ac.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "西北农林科技大学植保学院现代药物研发团队在eLife发表研究，以重大害虫小菜蛾为对象系统验证糖原磷酸化酶（GP）作为独立杀虫靶标的可行性：人源GP抑制剂对重组PxGP酶活抑制极强（IC50=2.96 nM），但活体500 mg/L几乎无杀虫活性（死亡率12.78%）；RNAi沉默PxGP（最高敲低87.59%）结合代谢组发现，昆虫经“蛋白质降解—糖异生—海藻糖储存”两阶段代偿恢复葡萄糖稳态。研究据此提出同时阻断糖原分解（GP）与糖异生（PEPCK/G-6-Pase）的“代谢钳制”双靶标杀虫剂设计新策略。",
+    "species_latin": "Plutella xylostella",
+    "species_en": "Diamondback moth (Plutella xylostella)",
+    "species_zh": "小菜蛾",
+    "takeaway": "小菜蛾依靠糖异生代偿使GP单点抑制剂“体外强效、活体无效”，需GP与糖异生双靶标“代谢钳制”才能造成不可逆葡萄糖饥饿。",
+    "conclusion": "酶学与分子对接首次明确排除GP为BPU类杀虫剂除虫脲（DFB）的分子靶标（GPI锚定二聚体界面变构位点IC50=2.96 nM，DFB无法有效抑制PxGP）；GPI活体500 mg/L死亡率仅12.78%而DFB致死61.36%，RNAi揭示PEPCK与G-6-Pase上调3-4倍、海藻糖升高7.44倍的糖异生代谢救援机制；提出同时抑制糖原分解与糖异生的“代谢钳制”双靶标策略，并建立“体外酶学—活体功能—代谢网络—分子结构”的农药靶标系统评价体系，为下一代代谢靶向型农药理性设计提供新思路。",
+    "keywords": [
+      "新型杀虫剂",
+      "作用靶标",
+      "糖原磷酸化酶",
+      "糖异生",
+      "代谢钳制",
+      "双靶标杀虫剂",
+      "小菜蛾",
+      "BPU杀虫剂",
+      "eLife"
+    ]
+  },
+  {
+    "id": "pmid-42743265",
+    "title": "Assessing Hardy-Weinberg equilibrium in T2T-aligned 1000 genomes project",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "PLoS genetics",
+    "authors": "Garg E, Romain J, Sun L, Paterson AD.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42743265",
+    "doi": "10.1371/journal.pgen.1012280",
+    "pmid": "42743265",
+    "abstract": "Quality control of markers in genome-wide association studies often includes testing for Hardy-Weinberg equilibrium (HWE). However, this is usually implemented in a homogeneous population without stratifying by sex. Previous work indicates sex-based selection at numerous autosomal loci in cohorts with active recruitment. Sex chromosome sequences can also interfere with autosomal SNPs. These motivate a re-examination of HWE in sex-aware analyses. Using the telomere-to-telomere (T2Tv2)-aligned high-coverage whole genome sequencing data from 2,490 individuals in the 1000 Genomes Project, we examined genome-wide sex-specific deviations from HWE across five super-populations. Our analyses were restricted to bi-allelic SNPs with non-missing genotypes and minor allele frequency (MAF) ≥5% in both sexes of the five super-populations. We applied an allele-based framework to quantify both the magnitude and direction of Hardy-Weinberg disequilibrium (HWD), followed by a second-order omnibus meta-analysis that combined HWD results across populations and sexes. At a genome-wide significance threshold of p < 5e-8, 0.9% of autosomal SNPs exhibited significant deviations from HWE. The majority of these deviations were associated with genomic features indicative of poor sequence quality. Restricting the analysis to reliable genomic regions substantially reduced the number of signals, yielding 255 autosomal SNPs and one non-pseudoautosomal chromosome X SNP. Among these, 140 autosomal SNPs displayed significant heterogeneity across populations but not across sexes. Notably, eight SNPs within a 15-bp region on chromosome 14q31.3 showed excess heterozygosity in both sexes of the African super-population (AFR). Finally, we developed a multivariate predictor of HWD based on sequence features, providing a practical tool that can be integrated into existing quality control pipelines for whole genome sequencing studies.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人类",
+    "takeaway": "用T2T比对的高覆盖全基因组数据在千人基因组五个超级人群中按性别检验哈迪-温伯格平衡，发现多数偏离源于序列质量差，可靠区域仅余少量信号。",
+    "conclusion": "全基因组显著偏离HWE的常染色体SNP多与低序列质量区域相关，限定可靠区域后信号大幅减少，其中140个SNP在人群间而非性别间存在异质性；14q31.3上8个SNP在非洲人群中表现杂合子过剩。研究还构建了基于序列特征的HWD多变量预测工具，可整合进全基因组测序质控流程。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42743057",
+    "title": "Sex-ratio distorters enable pre-zygotic sexing for sex-specific transcriptomics in Anopheles gambiae embryos",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Cell reports",
+    "authors": "Vitale M, Kranjc N, Georgiades M, Thorburn DM, Grilli S, Marston L, Crisanti A, Bernardini F.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42743057",
+    "doi": "10.1016/j.celrep.2026.117811",
+    "pmid": "42743057",
+    "abstract": "The study of sex establishment at the onset of development is difficult due to the absence of early morphological differences between male and female embryos. This challenge is particularly relevant in non-model organisms such as the malaria mosquito Anopheles gambiae, where sex-determination mechanisms are not fully understood. We employed a pre-zygotic sexing (PZS) system based on synthetic sex-ratio distorters (X- and Y-shredders) to generate large-scale male- or female-biased embryo populations. Combining the PZS system with a hybrid long- and short-read RNA sequencing, we produced a comprehensive sex-specific transcriptomic dataset of early An. gambiae embryogenesis. Comparative analysis identified four sex-specific spliced genes interacting with the sex-determination network, providing candidates for future functional investigation. Together, the PZS system and sex-specific transcriptomic dataset provide a platform for dissecting early sex differences in An. gambiae, advancing both fundamental understanding of insect sex determination and informing novel vector control strategies.",
+    "species_latin": "Anopheles gambiae",
+    "species_en": "malaria mosquito",
+    "species_zh": "冈比亚按蚊",
+    "takeaway": "利用合成性比扭曲器实现按性别分选早期胚胎，结合长短读测序获得冈比亚按蚊性别特异性转录组。",
+    "conclusion": "研究借助X、Y染色体剪切型性比扭曲器构建的合子前性别分选系统，大规模富集雄性或雌性胚胎，并结合长读与短读RNA测序，绘制了冈比亚按蚊早期胚胎发育的性别特异性转录组图谱，鉴定出四个与性别决定网络相关的性别特异性剪接基因，为解析早期性别分化机制及开发新型媒介控制策略提供了平台与候选靶点。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42736061",
+    "title": "Infrared spectroelectrochemical detection of protein - Protein interactions involved in phototransduction process in a model membrane embedding rhodopsin",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Bioelectrochemistry (Amsterdam, Netherlands)",
+    "authors": "Bożek J, Bielski PK, Koch KW, Brand I.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42736061",
+    "doi": "10.1016/j.bioelechem.2026.109442",
+    "pmid": "42736061",
+    "abstract": "A sparsely tethered membrane containing uniformly oriented rhodopsin was fabricated on a gold electrode surface by bicelles spreading. This model membrane system served to investigate a cascade of reactions involved in G-protein signaling of the phototransduction process. Electrochemical impedance spectroscopy results showed a large decrease in the capacitance of the spacer layer and an increase in the capacitance of the membrane upon binding of the G-protein (G t ), indicating membrane swelling. In situ polarization modulation infrared reflection absorption spectroscopy experiments, we observed an increase in the tilt of the helical bundle in photoactivated rhodopsin by ca. 10° towards the membrane plane. Association of G t was connected with a thinning of the membrane, a process that accompanies the bilayer swelling detected as electrochemical changes of the membrane and spacer layer capacitance and conformational/hydration changes in the helical fragments of the interacting proteins. After the addition of guanosine 5'-O-[gamma-thio]-triphosphate, nucleotide exchange, and splitting of the G t α and G t βγ subunits, the environment on the helical bundle of opsin is restored, indicating a dissociation of the protein from opsin and partially from the membrane. This transition of our membrane model system resembles the trigger steps of the phototransduction process by maintaining membrane integrity and function.",
+    "species_latin": "Bos taurus",
+    "species_en": "Rhodopsin (bovine)",
+    "species_zh": "牛视紫红质（研究体系为含视紫红质的模型膜）",
+    "takeaway": "在仿生膜中用电化学与红外光谱追踪视紫红质与G蛋白相互作用，发现光激活使螺旋束倾斜约10°并伴随膜变薄。",
+    "conclusion": "该仿生膜体系可重现光转导的触发步骤：光激活视紫红质螺旋束向膜平面倾斜约10°，Gt结合引起膜变薄与双层膨胀，核苷酸交换后Gtα与Gtβγ解离、视蛋白螺旋环境恢复，说明膜完整性得以维持并支持信号传导。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42742210",
+    "title": "Interaction with the &lt;i&gt;N&lt;/i&gt;-acetylgalactosamine moiety facilitates pore formation by Cry4Aa toxin, thereby increasing its toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Applied and environmental microbiology",
+    "authors": "Howlader MTH, Tsutsui T, Saito K, Hayakawa T.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42742210",
+    "doi": "10.1128/aem.00714-26",
+    "pmid": "42742210",
+    "abstract": "Cry4Aa is a mosquito-larvicidal toxin produced by Bacillus thuringiensis serovar israelensis . Cry4Aa exhibits a characteristic architecture comprising three domains (I, II, and III) and functions as a pore-forming toxin, consistent with many previously reported insecticidal Cry toxins. However, the mechanism preceding pore formation by Cry4Aa, including receptor recognition, remains to be elucidated. The present study examined the potential involvement of sugar moieties in the Cry4Aa mode of action, with a particular focus on the process of pore formation. Cry4Aa and the sugar N -acetylgalactosamine exhibited considerably increased binding affinity. Furthermore, N -acetylgalactosamine treatment significantly enhanced the toxicity of Cry4Aa against Culex pipiens mosquito larvae. In the presence of N -acetylgalactosamine, the binding of Cry4Aa to phosphatidylcholine liposomes increased by 1.4-fold. The presence of this sugar did not affect the single-channel conductance of Cry4Aa pores formed in artificial lipid bilayers; however, it did appear to increase the number of Cry4Aa pores per designated area. In silico molecular docking analysis revealed promising binding sites within the cavity, surrounded by the Cry4Aa domains. These results suggest that the interaction of Cry4Aa with N -acetylgalactosamine moieties is a vital step in the process of pore formation. This interaction may induce a conformational change in the Cry4Aa molecule that facilitates its insertion into the target membrane.IMPORTANCECry toxins produced by the soil bacterium Bacillus thuringiensis are used as an environmentally friendly biopesticide. Cry toxins are generally considered pore-forming toxins; however, the mechanism preceding pore formation appears to be complex and is not yet fully elucidated. This study examined the interaction between mosquito-larvicidal Cry4Aa toxin and sugar moieties, determining considerably higher binding affinity with N -acetylgalactosamine. Furthermore, treatment with this sugar significantly increased the toxicity of Cry4Aa toward Culex pipiens mosquito larvae. Subsequent analyses revealed that treatment with this sugar increases the binding of Cry4Aa to phosphatidylcholine bilayers, thereby facilitating pore formation. The findings of this study enhance our understanding of the mechanism underlying the insecticidal activity of Cry toxins.",
+    "species_latin": "Culex pipiens",
+    "species_en": "southern house mosquito",
+    "species_zh": "致倦库蚊",
+    "takeaway": "Cry4Aa毒素与N-乙酰半乳糖胺结合后增强对致倦库蚊幼虫的毒性,机制是促进孔道形成。",
+    "conclusion": "Cry4Aa与N-乙酰半乳糖胺具有较高结合亲和力,该糖处理可显著提高其对致倦库蚊幼虫的毒力,并使毒素与磷脂酰胆碱脂质体的结合增加1.4倍。该糖不影响单通道电导,但增加单位面积内孔道数量。分子对接提示结合位点位于结构域围成的空腔内。表明糖基相互作用是孔道形成的关键步骤,可能诱导构象变化以促进毒素插入靶膜。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42736560",
+    "title": "Impact of mass distribution on insecticide-treated net coverage and usage in three high burden malaria provinces of Papua New Guinea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Infectious diseases of poverty",
+    "authors": "Keven JB, Koinari M, Pombreaw C, Muri M, Figa C, Are C, Lagur S, Cowan J, Egid BR, Kisomb J, Johnson P, Ome-Kaius M, Timinao L, Robinson LJ, Laman M, Karl S.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42736560",
+    "doi": "10.1186/s40249-026-01494-x",
+    "pmid": "42736560",
+    "abstract": "Background Papua New Guinea (PNG) completed five nation-wide mass distributions of insecticide-treated nets (ITNs) in the last 15 years. Despite this considerable achievement, malaria cases in PNG are rising. Recent national-level surveys indicate unusually low ITN coverage and usage indicators, raising concerns about the continued effectiveness of this core intervention. Significant knowledge gaps remain around factors impacting ITN effectiveness in PNG, limiting interpretation of the role of ITNs in the context of rising malaria cases. This study assessed how ITN ownership and usage indicators in three of the highest burden provinces changed after the most recent mass distribution in 2024. Methods Cross-sectional surveys involving a target of 60 randomly selected households per village were conducted in 12 villages in East Sepik, West Sepik and Madang province and collected data on 5671 individuals belonging to 815 households. The surveys were conducted within 1-4 months before (September-December 2023), and 5-7 months after (May-October 2024) programmatic ITN mass distribution. Data were collected through household questionnaires, visual inspection of all ITNs present in households, and matching of ITNs to individual users. Household-level and person-level indicators of ITN ownership and use were evaluated using generalised linear mixed effects models. Results Distribution targets were achieved in two provinces but were missed by 38-42% in the third province. Overall, 94.8% of houses owned at least one ITN, before, and 99.4% after distribution (P Conclusions ITN ownership and use are high and sustained by 3-yearly distributions in the three provinces. ITN use was primarily driven by availability, with no further increases observed beyond universal coverage. Results also highlight the importance of post-distribution surveillance to confirm that programme targets are achieved.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴新三个高疟疾负担省在2024年大规模发放蚊帐后,拥有率与使用率均很高,使用主要由蚊帐可获得性驱动。",
+    "conclusion": "三年一次的大规模发放使三个高负担省的蚊帐拥有与使用维持在很高水平;使用率主要取决于家庭中蚊帐的可获得性,达到普遍覆盖后不再进一步提升。研究还表明,发放后监测对确认项目目标是否达成十分必要。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42735476",
+    "title": "Effects of neonicotinoid insecticides against grape phylloxera on vineyard soil microbial communities",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Cui S, Zhou L, Han J, Yang M, Zhu N, Huang X, Kong F, Song Y, Jin D, Xiao H, Liu Y.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42735476",
+    "doi": "10.1016/j.ecoenv.2026.120759",
+    "pmid": "42735476",
+    "abstract": "Soil microbiomes play a pivotal role in ecosystem functioning and agricultural productivity. Although insecticides effectively control grape phylloxera, their impact on vineyard soil microbial communities remains poorly understood. Here, we used amplicon sequencing to assess the responses of bacterial and fungal communities to the insecticides thiamethoxam, clothianidin, and dinotefuran. The results revealed significant compositional shifts after insecticide application, particularly in soils treated with dinotefuran. Beta diversity analysis revealed significant structural separation of bacterial communities among insecticide treatments (P 0.05). Several beneficial microbes involved in nutrient cycling and plant health (including Nitrososphaera, Planctomyces, Paenibacillus, Chitinophaga, and Clonostachys) were significantly reduced after dinotefuran and clothianidin treatments. The cyanobacterium Phormidium was more abundant in control soils. Conversely, after insecticide treatment, the relative abundance increased for numerous pathogenic fungi (Fusarium, Cylindrocladium, Cladosporium, Acrocalymma, Phaeosphaeria, Exserohilum, and multiple Cyphellophora species) may elevate the risk of disease outbreaks. Soils treated with dinotefuran were enriched in microorganisms potentially associated with pollutant degradation (e.g., Rhodoplanes, Sporosarcina, Arthrobacter, and Mycobacterium). Interestingly, the relatively high abundances of beneficial taxa involved in nutrient cycling and disease suppression were maintained after thiamethoxam and clothianidin treatments, and the entomopathogenic fungus Lecanicillium increased in clothianidin-treated soils. Tax4Fun2 functional prediction indicated higher bacterial membrane transport activity in control soils. In contrast, FUNGuild functional prediction revealed that insecticide-treated soils had increased abundances of pathotrophic and saprotrophic fungi, which may further elevate vineyard disease risk. Overall, these findings clarify the differential impacts of insecticides on vineyard soil microbial communities, highlight the importance of selecting insecticides that will maintain vineyard sustainability, and provide guidance for designing integrated pest management (IPM) strategies that balance grape phylloxera control with microbiome conservation.",
+    "species_latin": "Daktulosphaira vitifoliae",
+    "species_en": "grape phylloxera",
+    "species_zh": "葡萄根瘤蚜",
+    "takeaway": "用扩增子测序比较三种新烟碱杀虫剂对葡萄园土壤微生物的影响，呋虫胺扰动最大并富集病原真菌。",
+    "conclusion": "三种新烟碱类杀虫剂均改变土壤细菌与真菌群落结构，其中呋虫胺影响最强，噻虫嗪和噻虫胺相对温和。呋虫胺与噻虫胺显著降低参与养分循环和植物健康的益生菌，同时多类病原真菌丰度上升，可能增加葡萄园病害风险；呋虫胺还富集潜在污染物降解菌。功能预测显示处理土壤中致病与腐生真菌增多。研究提示应选择对土壤微生物扰动小、利于葡萄园可持续性的杀虫剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42734348",
     "title": "Telomere-to-telomere genome assembly of &lt;i&gt;Aspergillus nidulans&lt;/i&gt; CS2498 with resolved centromeric regions",
     "type": "paper",
@@ -74,7 +262,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -100,7 +288,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -427,7 +615,7 @@
     "keywords": [
       "稻纵卷叶螟功能基因组学"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1770,6 +1958,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42737940",
+    "title": "Amino Acid Substitutions in the C-Terminal Domains of Vip3Aa Enhance Insecticidal Toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biology",
+    "authors": "Şahin B, Hernández-Martínez P, Ferré J.",
+    "publish_date": "2026-09-03",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42737940",
+    "doi": "10.3390/biology15171508",
+    "pmid": "42737940",
+    "abstract": "Vip3 proteins secreted by the entomopathogenic bacterium Bacillus thuringiensis (Bt) have an important role in biological control against economically important lepidopteran pests. The elucidation of Vip3 protein structures has helped to address the roles of domains and amino acid positions involved in toxicity, especially in the N-terminal domains I and II, thereby supporting their more efficient utilization. In this study, we evaluated the impact of combinations of critical amino acid substitutions, selected from previous studies, in domains IV and V of the Vip3Aa90 protein on its insecticidal activity against three lepidopteran pests. The double mutant S543N/I544L, triple mutants S543N/I544L/E627A and S543N/I544L/S686R, and quadruple mutant S543N/I544L/E627A/S686R were constructed in Escherichia coli by site-directed mutagenesis. Among these, only the Vip3Aa mutant proteins S543N/I544L/E627A and S543N/I544L/E627A/S686R could be expressed and purified for bioassays. Both mutant proteins had similar toxicity against Spodoptera littoralis, showing higher insecticidal activity than the wild-type (WT) Vip3Aa90 at the LC90 level. However, at the LC50 level, only a slight improvement in toxicity was observed for the quadruple mutant. In the case of S. exigua, no significant difference in toxicity was observed for either of the two mutant proteins with respect to the WT at either LC level. Interestingly, for G. molesta, though the toxicity of the triple mutant did not differ significantly compared to that of the WT protein, that of the quadruple mutant showed a marked decrease in toxicity of over 10-fold. This study revealed that combining selected amino acid substitutions in domains IV and V can enhance Vip3Aa90 toxicity against some lepidopteran species but can be either neutral or even deleterious in others.",
+    "species_latin": "Bacillus thuringiensis",
+    "species_en": "Bacillus thuringiensis",
+    "species_zh": "苏云金芽孢杆菌",
+    "takeaway": "对Vip3Aa90蛋白IV、V结构域进行氨基酸替换组合，可提升其对部分鳞翅目害虫的毒力，但对不同物种效果不一。",
+    "conclusion": "在Vip3Aa90的IV、V结构域中组合关键氨基酸替换，能增强其对海灰翅夜蛾的杀虫活性，尤其在高致死浓度下；但对甜菜夜蛾毒力无显著变化，对梨小食心虫的四重突变体毒力反而下降逾10倍。表明此类改造具有物种特异性，可能有益也可能无效甚至有害。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260905-nanopesticide-size",
     "title": "Advanced Agrochem | 植保所揭示粒径是平衡纳米杀虫剂有效性与非靶标安全性的关键因素",
     "type": "wechat",
@@ -2469,6 +2683,84 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42742092",
+    "title": "Two New Polyketides From Streptomyces sp. SA61: Isolation, Structure Elucidation, and Insecticidal Activity Against Bemisia tabaci",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Chemistry & biodiversity",
+    "authors": "Cui P, Chen J, Zhu Z, Liu F, Yu Z.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42742092",
+    "doi": "10.1002/cbdv.71706",
+    "pmid": "42742092",
+    "abstract": "To discover novel green bio-based insecticidal lead compounds, six polyketides, including two new compounds, strekingmycin I (5) and strekingmycin J (6), together with four known analogues, were isolated and identified from the fermentation products of earthworm gut-derived Streptomyces sp. SA61. Their structures were established by comprehensive spectroscopic analysis, including NMR, HR-ESI-MS, and single-crystal x-ray diffraction. Notably, the crystallographic data of strekingmycin G (3) were obtained for the first time, which unambiguously confirmed its absolute configuration. In insecticidal activity assays against the third-instar nymphs of Bemisia tabaci, all six compounds exhibited varying degrees of toxicity. Among them, strekingmycin A (1) displayed the most potent activity, with an LC50 value of 5.58 µg/mL, which was within the same concentration range as that of the positive control spirotetramat, albeit less active than the commercial standard. This study enriches the structural diversity of strekingmycin-type polyketides by reporting two new derivatives and providing the first crystallographic evidence for compound 3. Furthermore, it demonstrates for the first time the insecticidal potential of the strekingmycin family against B. tabaci, offering a scientific basis for further research on the management of piercing-sucking pests.",
+    "species_latin": "Bemisia tabaci",
+    "species_en": "Sweet potato whitefly",
+    "species_zh": "烟粉虱",
+    "takeaway": "从蚯蚓肠道链霉菌SA61中分离出两个新聚酮strekingmycin I、J，其中strekingmycin A对烟粉虱若虫杀虫活性最强。",
+    "conclusion": "研究从蚯蚓肠道来源的Streptomyces sp. SA61发酵产物中分离鉴定了6个聚酮类化合物，包括2个新化合物strekingmycin I和J，并首次获得strekingmycin G的晶体学数据以确证其绝对构型。杀虫活性测试显示所有化合物对烟粉虱三龄若虫均有不同程度毒性，其中strekingmycin A活性最强（LC50为5.58 µg/mL），与阳性对照螺虫乙酯处于同一浓度范围。该研究丰富了strekingmycin类聚酮的结构多样性，并首次揭示该家族对烟粉虱的杀虫潜力，为刺吸式害虫防治提供了科学依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42740432",
+    "title": "Structural and Biological Evidence for Acetylcholinesterase-Targeted Insecticidal Activity in Musca domestica: A 4.5  Å Distance Correlation From Novel Benzenesulfonamide Derivatives",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Molecular informatics",
+    "authors": "Bakry MA, Kamel AA, Mahrous LN, El-Ela FIA, Fadaly WAA, Aboelhadid SM.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42740432",
+    "doi": "10.1002/minf.70054",
+    "pmid": "42740432",
+    "abstract": "House fly (Musca domestica) control faces mounting resistance to conventional insecticides, driving interest in novel chemistries targeting acetylcholinesterase (AChE). We examined eight benzenesulfonamide derivatives originally developed as carbonic anhydrase inhibitors to explore their potential as AChE-targeting insecticides and to identify structural determinants of biological activity. Using a high-quality homology model of M. domestica AChE, we performed blind docking, refined docking to the peripheral anionic site, 100 ns molecular dynamics simulations, and molecular mechanics-poisson-boltzmann surface area (MM-PBSA) binding energy calculations. All eight compounds showed favorable binding energies (-8.5 to -10.2 kcal/mol) and stable trajectories, yet bioassays revealed a stark divide: five compounds (16b, 16c, 16d, 19b, and 19f) produced no mortality at 5% concentration, while 14g and 17c achieved complete adult kill at 5% with LC50 values of 1.37% (95% CI: 1.15%-1.63%) and 1.64% (95% CI: 1.38%-1.95%), respectively. The critical difference was geometric, not thermodynamic. Active compounds 14g and 17c penetrated the ~20 Å aromatic gorge to position within 2.5-2.8 Å of the catalytic serine (Ser318), forming hydrogen bonds and halogen bonds with the triad. Inactive compounds arrested at 7.0-7.5 Å, trapped in the peripheral anionic site with negligible catalytic residue contact despite favorable overall binding. This 4.5 Å threshold correlated with biological activity and provided a quantitative filter for prioritizing AChE inhibitor candidates. Compound 14g, bearing 3,4-dichloro substituents, showed the closest approach (2.5 Å) and strongest binding energy (-37.4 kcal/mol), outperforming chlorpyrifos (-32.7 kcal/mol). Importantly, whole-organism mortality does not prove direct AChE inhibition; alternative mechanisms including cuticular penetration, metabolic disruption, or off-target effects cannot be excluded without direct enzymatic assays. These findings suggest that geometric distance to the catalytic triad, not binding energy alone, correlates with biological activity and provides a quantitative filter for prioritizing AChE inhibitor candidates.",
+    "species_latin": "Musca domestica",
+    "species_en": "house fly",
+    "species_zh": "家蝇",
+    "takeaway": "家蝇AChE同源建模与分子模拟显示，苯磺酰胺衍生物须深入催化丝氨酸2.5-2.8 Å才具杀虫活性，4.5 Å为活性阈值",
+    "conclusion": "八种苯磺酰胺衍生物中，14g与17c能深入家蝇AChE芳香峡谷、接近催化三联体Ser318并形成氢键与卤键，故在5%浓度下完全致死成蝇；其余五种仅滞留外周阴离子位点而无杀虫效果。距催化丝氨酸的几何距离（4.5 Å阈值）而非结合能高低，与生物活性相关，可作为AChE抑制剂候选物的定量筛选指标；但整体死亡率不能直接证明AChE抑制，尚需酶学实验排除其他机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42740410",
+    "title": "Delivery, Persistence, and Functional Response of dsRNA in Acyrthosiphon pisum: Progress and Remaining Barriers",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Archives of insect biochemistry and physiology",
+    "authors": "Merkel L, Vatanparast M, Will T, Erler S, Amari K.",
+    "publish_date": "2026-09-01",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42740410",
+    "doi": "10.1002/arch.70210",
+    "pmid": "42740410",
+    "abstract": "Aphids are major agricultural pests due to their rapid reproduction, insecticide resistance, and role as vectors of plant pathogens. RNA interference (RNAi) has emerged as a promising strategy for species-specific pest control. However, RNAi in aphids remains inconsistent, limited by dsRNA instability, inefficient uptake, and variable gene silencing. Here, we investigate key biological barriers limiting RNAi efficiency by evaluating the delivery, stability, and efficacy of double-stranded (ds)RNA in the pea aphid Acyrthosiphon pisum. Feeding bioassays using food dyes and Cy3-labeled dsRNA demonstrated ingestion and persistence of fluorescent signals within the aphid midgut for up to 120 h, confirming that the feeding system effectively delivers dsRNA to the insects. Ex vivo degradation assays revealed rapid dsRNA breakdown by aphid nucleases, with complete degradation within 2 h. Formulations improved stability: chitosan-protected dsRNA resisted aphid nuclease activity, and layered double hydroxide (LDH) nanosheets induced elevated expression of RNAi-associated genes. Functional assays targeting the vacuolar H+-ATPase 26 kDa-like gene (apvhal26) produced variable knockdown but consistently induced the expression of RNAi-associated genes (ago2, dicer1), suggesting activation of the RNAi pathway or recognition of exogenous dsRNA despite inconsistent gene silencing. Our results demonstrate that several key barriers to RNAi in aphids can be partially mitigated through improved delivery and nanoparticle formulations. However, rapid nuclease-mediated degradation and inconsistent target gene silencing remain major obstacles to reliable RNAi efficacy. This study highlights both the potential and limitations of RNAi for aphid control and emphasizes the need for optimized formulations, target gene selection, and delivery methods to advance RNAi as a sustainable biopesticide strategy.",
+    "species_latin": "Acyrthosiphon pisum",
+    "species_en": "pea aphid",
+    "species_zh": "豌豆蚜",
+    "takeaway": "豌豆蚜取食可摄入dsRNA并在中肠存留120小时，但核酸酶2小时内将其完全降解，壳聚糖和LDH制剂可部分改善稳定性。",
+    "conclusion": "豌豆蚜体内dsRNA递送可行且荧光信号可维持120小时，但核酸酶快速降解与靶基因沉默不稳定是主要瓶颈；壳聚糖包被可抵抗核酸酶，LDH纳米片可上调RNAi相关基因，靶向apvhal26虽敲低不稳定却持续激活ago2、dicer1，表明RNAi通路可被触发，需优化制剂、靶基因与递送方式。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -6605,6 +6897,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42735995",
+    "title": "Global genetic diversity and phylogenetic analysis of Pseudolynchia canariensis based on the COI gene with first molecular detection of Wolbachia (wsp and 16S rRNA) from Iran",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Veterinary parasitology, regional studies and reports",
+    "authors": "Moshavernia S, Shahabi S, Paksa A.",
+    "publish_date": "2026-07-19",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42735995",
+    "doi": "10.1016/j.vprsr.2026.101549",
+    "pmid": "42735995",
+    "abstract": "Pseudolynchia canariensis (Diptera: Hippoboscidae) is a hematophagous ectoparasite of pigeons with recognized veterinary and epidemiological importance due to its association with avian hemoparasites and bacterial microorganisms. Despite its wide geographic distribution, molecular data remain limited in several regions, including Iran, and Wolbachia infection has not previously been documented in Iranian populations of this species. The present study aimed to molecularly confirm P. canariensis from southern Iran, evaluate global genetic diversity based on mitochondrial COI sequences, and screen for Wolbachia infection. A total of 100 adult flies were collected from five districts of Shiraz, Iran, and identified using morphological characters and COI barcoding. Phylogenetic relationships were reconstructed using Maximum Likelihood inference, and global diversity indices were calculated from a comparative COI dataset comprising 45 sequences trimmed to a 261 bp overlapping region. Genetic diversity analysis revealed moderate haplotype diversity (Hd = 0.736) and low nucleotide diversity (π = 0.00773) at the global level, with no statistically significant deviation from neutrality. The overall mean evolutionary divergence was low (K2P = 0.01 substitutions per site), indicating limited mitochondrial differentiation among global populations. Wolbachia infection was detected in pooled samples from two districts using both wsp and 16S rRNA markers. Phylogenetic analyses of both markers consistently placed Iranian Wolbachia sequences within supergroup B. These findings represent the first molecular evidence of Wolbachia infection in P. canariensis from Iran and provide baseline genetic data supporting future investigations into host-symbiont interactions and the potential epidemiological role of this ectoparasitic fly.",
+    "species_latin": "Pseudolynchia canariensis",
+    "species_en": "pigeon louse fly",
+    "species_zh": "鸽虱蝇",
+    "takeaway": "伊朗鸽虱蝇COI条形码确认物种，全球遗传多样性中等偏低，并首次检出B超群沃尔巴克氏体。",
+    "conclusion": "研究通过COI条形码确认伊朗南部鸽虱蝇，全球种群单倍型多样性中等、核苷酸多样性低，遗传分化有限；首次在伊朗该蝇中检出沃尔巴克氏体，wsp与16S rRNA均归入B超群，为宿主-共生体互作及流行病学意义提供基础数据。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42735996",
+    "title": "Efficacy of (R)-limonene, α-terpinene, terpinolene and β-pinene against Cochliomyia hominivorax (New World screwworm) in vitro and in vivo evaluations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary parasitology, regional studies and reports",
+    "authors": "Schuindt RM, Wedy BCR, Santos BG, Giglioti R, Rodrigues L, Katiki LM.",
+    "publish_date": "2026-07-15",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42735996",
+    "doi": "10.1016/j.vprsr.2026.101550",
+    "pmid": "42735996",
+    "abstract": "Cochliomyia hominivorax (screwworm fly) has a veterinary and public health importance, as it is the primary agent of myiasis in both livestock and humans across the Americas. This fly oviposits in fresh, open wounds, where the larvae feed on living tissue, compromising animal health and livestock productivity. Furthermore, the efficacy of conventional insecticides has decreased, suggesting the development of parasite resistance. Terpenes are major constituents of essential oils known for their insecticidal properties. The objective of this study was to evaluate the terpenes (R)-limonene, α-terpinene, terpinolene, and β-pinene against the first (L1), second (L2), and third (L3) larval instars of C. hominivorax. Among the evaluated terpenes, α-terpinene exhibited the highest lethality, with the lowest concentration required to kill 95% of the larvae (LC95) and was incorporated into an ointment at a concentration of 200 mg/g for in vivo testing. Twelve Holstein cattle were used in the study. Six control animals received bilateral 3 cm incisions in the gluteal region: one side was inoculated with 50 L1 larvae (untreated control), while the contralateral side received 50 L1 larvae plus the ointment vehicle (negative control). Another six cattle, each with a single gluteal lesion inoculated with 50 L1 larvae, were treated with the α-terpinene ointment, which was reapplied after 24 and 48 h. After 72 h, the surviving L3 larvae were recovered, counted, and measured. The α-terpinene ointment treatment showed no significant efficacy, as no differences were found in larval recovery rates between groups. However, larvae exposed to α-terpinene were significantly smaller compared to those in the untreated control and the vehicle control groups suggesting a relevant sub-lethal effect on parasite development. The discrepancy between the in vitro larvicidal activity and the limited in vivo efficacy may stem from the rapid volatilization of α-terpinene or its uneven distribution within the wound environment highlighting further optimization of the vehicle to maintain therapeutic concentrations and achieve full efficacy.",
+    "species_latin": "Cochliomyia hominivorax",
+    "species_en": "New World screwworm",
+    "species_zh": "嗜人锥蝇",
+    "takeaway": "α-萜品烯在体外对嗜人锥蝇幼虫杀灭力最强，但制成软膏体内效果有限，仅使幼虫变小。",
+    "conclusion": "四种萜烯中α-萜品烯体外杀幼虫活性最高，但200 mg/g软膏在牛伤口内未能显著降低幼虫回收率，仅导致幼虫显著变小，提示存在亚致死效应；体内效力不足可能与α-萜品烯快速挥发或伤口内分布不均有关，需优化载体以维持有效浓度。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42442277",
     "title": "Dietary cypermethrin exposure reshapes the rumen microbiota and enriches antibiotic resistance genes: Metagenomic evidence of co-selection",
     "type": "paper",
@@ -6702,6 +7046,32 @@
     "species_zh": "意大利蜜蜂；管氏肿腿蜂",
     "takeaway": "研究发现吡丙醚对蜜蜂和管氏肿腿蜂具有对映体选择性毒性，S-型对两者毒性更高，且与靶昆虫JH III立体化学对应。",
     "conclusion": "吡丙醚对映体对蜜蜂和管氏肿腿蜂的毒性及JH抑制具有立体选择性，S-型对S-JH III昆虫毒性更强，R-型对R-JH III昆虫更有效，通过差异调控JH通路关键基因（如CYP15A1、JHEH、Met、Kr-h1）实现，为手性农药合理应用提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42735986",
+    "title": "A review of acaricide resistance of the Rhipicephalus sanguineus group worldwide",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary parasitology, regional studies and reports",
+    "authors": "Rodriguez-Vivas RI, Flota-Burgos GJ, Sabatini GA.",
+    "publish_date": "2026-07-08",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42735986",
+    "doi": "10.1016/j.vprsr.2026.101540",
+    "pmid": "42735986",
+    "abstract": "The brown dog tick Rhipicephalus sanguineus (included in the R. sanguineus group) is the most widespread Rhipicephalus species globally. This tick species is a vector of pathogens of veterinary and public health importance. The improper and frequent use of acaricides might have led to the development of acaricide resistance in this tick group. This review presents the status of R. sanguineus group resistance to various acaricides worldwide. Fifty studies published from 2001 to 2025 were included. Resistance is documented in multiple species, including R. sanguineus sensu lato and sensu stricto (worldwide), as well as morphologically related species such as R. rutilus (Italy) and R. linnaei (Thailand). Resistance in the R. sanguineus group to synthetic pyrethroid (SPs: permethrin, deltamethrin, cypermethrin, and etofenprox) is reported from America, Europe, Africa, and Asia. Organophosphate (coumaphos) resistance has only been reported in Brazil and Panama, as well as chlorpyriphos-methyl in Turkey. Likewise, resistance to macrocyclic lactones (ivermectin) has been reported in Argentina, Brazil, Mexico, Italy, India, and Thailand. Fipronil resistance has been reported in seven countries, while amidine (amitraz) resistance has been reported in five countries, and carbamate (propoxur) in only one country. Different mutations in the voltage-gated sodium channel have been identified and associated with synthetic pyrethroid resistance. Metabolic resistance mechanisms, involving oxidase, esterase, and glutathione S-transferase activity, have been documented in multiple populations. ATP-binding cassette (ABC) transporters were involved in fipronil and ivermectin detoxification of R. sanguineus sensu lato.",
+    "species_latin": "Rhipicephalus sanguineus",
+    "species_en": "brown dog tick",
+    "species_zh": "血红扇头蜱",
+    "takeaway": "综述2001至2025年50项研究，发现血红扇头蜱群在全球多地已对拟除虫菊酯等多类杀螨剂产生抗性。",
+    "conclusion": "血红扇头蜱群在全球广泛分布，因杀螨剂滥用和频繁使用，已在美洲、欧洲、非洲、亚洲多地演化出抗药性，涉及拟除虫菊酯、有机磷、大环内酯、氟虫腈、脒类和氨基甲酸酯等多类药剂。抗性机制包括电压门控钠通道突变，以及氧化酶、酯酶、谷胱甘肽S-转移酶介导的代谢解毒，ABC转运蛋白还参与氟虫腈和伊维菌素的解毒。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -7300,6 +7670,32 @@
     "species_zh": "菘蓝",
     "takeaway": "组装菘蓝近端粒到端粒基因组，助力芸苔族系统发育基因组学研究。",
     "conclusion": "本研究完成了菘蓝（Isatis indigotica L.）近端粒到端粒的高质量基因组组装，为芸苔族（Brassiceae）的系统发育基因组学研究提供了重要基因组资源，有助于深入理解该族的进化关系。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42130088",
+    "title": "A near-complete, haplotype-resolved telomere-to-telomere genome assembly of Cannabis sativa reveals complex higher-order repetitive structures",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant communications",
+    "authors": "Ni Y, Zhang C, Li J, Wu W, Shen G, Xie Y, Song C, Liu C.",
+    "publish_date": "2026-05-12",
+    "added_at": "2026-09-16",
+    "url": "https://europepmc.org/article/MED/42130088",
+    "doi": "10.1016/j.xplc.2026.101913",
+    "pmid": "42130088",
+    "abstract": "",
+    "species_latin": "Cannabis sativa",
+    "species_en": "Cannabis",
+    "species_zh": "大麻",
+    "takeaway": "研究完成大麻近完整、单倍型解析的端粒到端粒基因组组装，揭示其复杂高阶重复结构。",
+    "conclusion": "该研究构建了大麻近完整且区分单倍型的端粒到端粒基因组，克服了以往组装中重复区难以解析的问题，从而揭示出复杂的更高阶重复结构，为深入理解大麻基因组组织与重复序列演化提供了高质量参考。",
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
