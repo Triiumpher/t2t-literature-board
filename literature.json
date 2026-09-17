@@ -156,6 +156,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42748834",
+    "title": "Comparative transcriptomics reveals a core molecular signature of hypothyroid testis development across three TPO inhibitors",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Strand IW, Draskau MK, Axelstad M, Evrard B, Elmelund E, Pedersen M, Crisopulli S, Chalmel F, Svingen T.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42748834",
+    "doi": "10.1016/j.ecoenv.2026.120797",
+    "pmid": "42748834",
+    "abstract": "Thyroid hormone (TH) signaling is critical for normal testis development; however, the molecular mechanisms linking developmental hypothyroidism to adverse testis outcomes remain poorly understood. Improved mechanistic insight is needed to support predictive approaches in chemical risk assessment. Here, we build on previous work to define a molecular signature in testes from hypothyroid rats induced by three thyroperoxidase (TPO)-inhibiting chemicals: the pharmaceuticals propylthiouracil (PTU), and methimazole (MMI), and the pesticide amitrole (AMI). Transcriptomic data for MMI and AMI were obtained from a previously published study. For the PTU study, pregnant Sprague-Dawley rat dams were exposed by oral gavage to PTU (1.25 or 2.5 mg/kg bw/day) from gestational day (GD) 7 to pup day (PD) 28. Reproductive toxicity endpoints were assessed, and testes were collected from offspring on GD21, PD16, and PD78 for bulk RNA barcoding and sequencing (BRBseq). Comparative transcriptomic analysis across PTU, MMI, and AMI revealed substantial transcriptional disruption, with effects that were both age- and chemical-dependent. Notably, at PD16, there was an overlap of 278 differentially expressed genes between the three chemicals, a finding that was preserved when applying a previous bioinformatic pipeline. The shared transcriptional changes were associated with biological processes related to cell cycle regulation, developmental growth, and pathways involved in Sertoli cell proliferation, germ cell development, and testis morphogenesis. Collectively, these findings support the existence of a TH-mediated molecular signature that aligns with the classical morphologic phenotype of hypothyroid testis and underscores its potential value for the development of alternative, mechanism-based test methods for regulatory purposes.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "rat",
+    "species_zh": "大鼠",
+    "takeaway": "三种抑制甲状腺过氧化物酶的化学物致大鼠甲状腺功能减退，其睾丸在幼年期呈现共享的转录组特征。",
+    "conclusion": "PTU、MMI与AMI三种TPO抑制剂均造成大鼠睾丸转录组显著紊乱，效应随年龄和化学物而异；在PD16出现278个共有差异基因，富集于细胞周期、发育生长及支持细胞增殖、生殖细胞发育和睾丸形态发生等过程，提示存在与甲状腺功能减退睾丸经典形态表型一致的TH介导分子特征，可用于机制导向的替代测试方法开发。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42745468",
     "title": "A haplotype-resolved T2T genome of autotetraploid alfalfa provides insights into genome evolution and inbreeding depression",
     "type": "paper",
@@ -257,6 +283,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42748637",
+    "title": "Matrix interference-resistant acetylcholinesterase probing: Toward reliable pesticide detection in complex food matrices",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biosensors & bioelectronics",
+    "authors": "Wu Z, Geng J, Xu J, Wang C, Zhang X, Wang N, Guo L, Chen H, Hao Z.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42748637",
+    "doi": "10.1016/j.bios.2026.119235",
+    "pmid": "42748637",
+    "abstract": "Matrix interference remains a critical obstacle to reliable pesticide screening in real samples by acetylcholinesterase (AChE) inhibition assays. However, due to the lack of a holistic mechanistic understanding of matrix interferences, it is inherently difficult to identify and mitigate this issue in practice. Drawing inspiration from the electron distribution analysis of conventional AChE probes, the authors argued for the viability of mitigating the matrix-induced probe reduction by computationally-guided probe development. The xanthene-quinolinium hemicyanine acetate probe with a uniformly conjugated fluorophore was developed, which exhibited excellent stability in common fruit- and vegetable-derived reductants. The employment of newly developed probe further led to the successful identification of two major matrix-probe interactions in conventional AChE inhibition assays, including direct probe reduction and endogenous esterase-induced probe hydrolysis. Accordingly, a novel heterogeneous AChE inhibition assay was established for anti-interference screening of pesticides in real samples. This assay integrated a reduction-resistant near-infrared AChE activity probe, the organic solvent-based sample extraction, and a paper-chip platform that facilitates both sampling and the enzyme inhibition procedures involving organic solvents. It effectively eliminated matrix interferences in real sample measurement, showing only -13.71% to +0.18% signal variation (vs. +93.69% to +1121.36% with conventional method) for AChE activity measurement across nine different sample matrices compared to the blank control. Owing to its excellent anti-interference capability, this method enabled the pesticide quantification across different matrices without matrix-matched calibration. The new method proved robust and reliable for pesticide assessment in real samples in both spike-and-recovery and non-targeted screening modes.",
+    "species_latin": "The xanthene-quinolinium",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "通过计算指导设计耐还原的近红外AChE探针并结合有机相提取与纸芯片平台，实现复杂食品基质中农药的抗干扰检测。",
+    "conclusion": "研究揭示了传统AChE抑制法中探针被基质直接还原及内源酯酶水解两大干扰机制，据此开发出均一共轭荧光团探针与异相检测体系，在九种基质中信号波动仅-13.71%至+0.18%，无需基质匹配校准即可定量农药，适用于加标回收与非靶向筛查。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
