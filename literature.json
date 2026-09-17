@@ -1,5 +1,265 @@
 [
   {
+    "id": "title-aresourceefficientstructurebasedworkflowforfragmentprogressi",
+    "title": "A resource-efficient structure-based workflow for fragment progression enables parallel hit discovery and validation of functionally diverse modulators of NCS-1 protein–protein interactions",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Chemical science",
+    "authors": "Muñoz-Reyes D, Fieseler K, Winokan M, Golding M, Capkin E, Ferla M, Pérez-Suárez S, Tomlinson C, Marples P, Miró-Rodríguez C, Aguado L, Mansilla A, Fearon D, Thompson W, von Delft F, Sánchez-Barrena M.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-17",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出一种资源节约的基于结构的片段推进流程，可并行发现并验证NCS-1蛋白互作的功能多样性调节剂。",
+    "conclusion": "该工作建立了一套高效的基于结构的片段演进工作流，能在节省资源的前提下同步开展命中发现与验证，用于获得作用于NCS-1蛋白-蛋白相互作用、功能多样的调节分子，为靶向该类互作的药物发现提供新策略。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42746720",
+    "title": "Aphaereta lonchaeae (Hymenoptera: Braconidae), a novel parasitoid of Delia platura (Diptera: Anthomyiidae) in New York State",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Crowther S, Chautá A, Poveda K.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42746720",
+    "doi": "10.1093/jee/toag285",
+    "pmid": "42746720",
+    "abstract": "Delia platura (Diptera: Anthomyiidae) is a globally distributed agricultural pest that feeds on the germinating seeds of many economically significant crops. Yield loss is primarily caused by early-season generations of this pest, whose larvae are present in the soil shortly after planting corn and soybean. Current control of this pest is primarily reliant on the use of neonicotinoid pesticides, but recently passed legislation in New York State bans the use of these chemicals on corn, soybean, and wheat seeds. As part of a broader effort to develop a well-studied integrated pest management plan for the fly considering the loss of the insecticide, we looked for parasitoids that were parasitizing early-season D. platura larvae. Seed bait traps were placed at 23 field sites across New York State and left for 14 d. Traps were returned to a laboratory setting and placed into rearing cages to allow the fly larvae and parasitoids time to develop and emerge. Parasitoid wasps emerged from larvae at 1 of the 23 field sites. Wasps were identified as Aphaereta lonchaeae (Hymenoptera: Braconidae), a previously unknown parasitoid of D. platura with an extremely limited known distribution.",
+    "species_latin": "Delia platura",
+    "species_en": "seedcorn maggot",
+    "species_zh": "种蝇（灰地种蝇）",
+    "takeaway": "在纽约州通过种子诱饵陷阱发现并鉴定出寄生早季Delia platura幼虫的新寄生蜂Aphaereta lonchaeae。",
+    "conclusion": "研究在纽约州23个田间站点中仅1处发现寄生蜂，经鉴定为Aphaereta lonchaeae，此前未知其寄生于Delia platura且已知分布极窄。该发现为因新烟碱类农药被禁用而亟需替代防控手段的该害虫提供了潜在生物防治资源。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-41793768",
+    "title": "Effects of Biopesticides on the Progression of Olive Quick Decline Symptoms Caused by &lt;i&gt;Xylella fastidiosa&lt;/i&gt; subsp. &lt;i&gt;pauca&lt;/i&gt;",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plant disease",
+    "authors": "Dongiovanni C, Del Grosso C, Di Carolo M, Contaldo N, Carrieri M, Abou Kubaa R, Tagliente M, Argentieri R, Kogej T, Falcón-Piñeiro A, García-Madero J, Compant S, Saldarelli P.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/41793768",
+    "doi": "10.1094/pdis-12-25-2489-re",
+    "pmid": "41793768",
+    "abstract": "Xylella fastidiosa subsp. pauca ( Xfp ) is the causal agent of olive quick decline syndrome, a devastating disease threatening olive groves in Apulia, Italy. Efforts are underway to identify effective strategies to limit its spread. In this study, two biopesticide formulations, one derived from an onion extract rich in organosulfur compounds and the other based on the bacterium Paraburkholderia phytofirmans strain PsJN, were tested under field conditions. Treatments were applied eight times per year over a 4-year period to assess their potential to reduce Xylella populations and disease progression. The results indicated that neither formulation lowered Xylella populations. Nonetheless, after 4 years of experimentation, the formulated PsJN treatment reduced both newly developed and preexisting Xfp symptoms when applications started at the early stages of infection. In contrast, no effect was observed when treatments were applied to trees already exhibiting widespread infection and severe symptoms. Physiological analyses of stomatal conductance revealed that both treatments alleviated the drought stress associated with Xfp infection, with the formulated PsJN treatment showing statistically significant improvements. Consistently, treated olive trees exhibited higher stomatal conductance and lower canopy temperatures compared with untreated controls. Based on these encouraging results, further studies are needed to explore the use of these products under different conditions and application timings, as well as in combination with other treatments, to support the development of an integrated management strategy for controlling Xfp infections.[Formula: see text] Copyright © 2026 The Author(s). This is an open access article distributed under the CC BY 4.0 International license.",
+    "species_latin": "Olea europaea",
+    "species_en": "Olive",
+    "species_zh": "油橄榄",
+    "takeaway": "田间四年试验显示，基于PsJN菌株的生物农药在感染早期施用可减轻橄榄快速衰退症状，但两种制剂均未降低Xylella种群。",
+    "conclusion": "两种生物农药均不能减少Xylella fastidiosa subsp. pauca种群数量；但含Paraburkholderia phytofirmans PsJN的制剂在感染早期开始施用时可减轻新发及已有症状，并显著改善气孔导度、降低冠层温度，缓解干旱胁迫。对已严重感染的树木无效，提示需进一步研究施用时机与联合策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42747690",
+    "title": "Algal bioactive compounds for next-generation biopesticides: a multi-target resource for sustainable pest management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental science and pollution research international",
+    "authors": "Adetunji AI, Ojwach JD, Goswami RK, Rawat I, Bux F.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42747690",
+    "doi": "10.1007/s11356-026-38228-3",
+    "pmid": "42747690",
+    "abstract": "The rapid growth in global population and the incessant demand for food warrant greater attention to sustainable agricultural practices. To ensure adequate food security, protection of crops from exposure to biotic agents (e.g., pathogens and insects) is imperative. Over the decades, synthetic pesticides have been used to control pests in agriculture. However, excessive and uncontrolled use of these chemical compounds causes serious environmental and health hazards. Therefore, algal biopesticides are used as biological agents to control soil-borne diseases and plant pests. The algae secrete a broad spectrum of metabolites, including phenolic compounds, terpenoids, alkaloids, peptides, and others. These bioactive compounds exhibit insecticidal, nematocidal, herbicidal, antibacterial, antifungal, and antiviral activities, thereby enhancing crop protection and productivity. Algal biopesticides are effective, eco-friendly, biocompatible, sustainable, and biodegradable, with low or no toxicity to the environment and beneficial off-target organisms. Thus, the present review focuses on the mechanisms of action and biological activities of various bioactive compounds produced from macroalgae and microalgae for exploitation as biopesticides. In addition, it presents the much-needed techno-economic analysis (TEA) and conceptual scenarios for cost-effective algal biopesticide production by integrating wastewater-based cultivation systems and designing multiple biorefinery approaches. The regulatory pathways for algal biopesticides, as well as some limitations hindering their commercial production, are also discussed.",
+    "species_latin": "The algae",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述藻类活性代谢物作为多靶点生物农药的杀虫抗病机制及其低成本生产与监管路径",
+    "conclusion": "藻类可分泌酚类、萜类、生物碱、肽类等多种代谢物，兼具杀虫、杀线虫、除草、抗菌、抗真菌和抗病毒活性，是环保、可降解、对非靶标生物低毒的可持续生物农药来源；通过整合废水培养与多联产精炼模式并开展技术经济分析，有望实现低成本商业化生产，但监管路径与产业化瓶颈仍需解决。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42747590",
+    "title": "Integrating Community Practices, Vector Resistance, and Molecular Xenomonitoring of Wuchereria Bancrofti: A One Health Implementation Study in Lymphatic Filariasis-Endemic Communities",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta parasitologica",
+    "authors": "Yalwa MA, Aliyu M, Musa AI, Malami I, Abubakar MB, Ndams IS, Muhammad A.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42747590",
+    "doi": "10.1007/s11686-026-01401-2",
+    "pmid": "42747590",
+    "abstract": "PURPOSE: Lymphatic filariasis (LF), caused primarily by Wuchereria bancrofti and transmitted by mosquitoes, remains a public health challenge in Nigeria. Insecticides and insecticide-treated nets (ITNs) are used as control measures. However, limited public awareness and widespread insecticide resistance impede elimination. Molecular xenomonitoring is essential for detecting active transmission and determining when it is halted. This study assessed community knowledge, attitudes, and practices (KAPs) on LF, insecticide resistance, and xenomonitoring of W. bancrofti in Bodinga Local Government Area (LGA). METHODS: A semi-structured questionnaire was administered to 258 participants from three wards to assess KAPs. Anopheles and Culex larvae were collected, reared, and tested for susceptibility to deltamethrin, permethrin, and alphacypermethrin using the Centre for Disease Control (CDC) bioassay. Comparative expression of cytochrome P450 genes (CYP6M2, CYP9M10) was also evaluated. Blood-fed mosquitoes were collected with a Prokopack aspirator for microfilaria screening and molecular xenomonitoring using polymerase chain reactions (PCRs). RESULTS: Only 41.9% of respondents had heard of LF, indicating significant knowledge gaps. Anopheles and Culex were resistant to all pyrethroids (6-44% mortality). Piperonyl butoxide (PBO) restored susceptibility to alphacypermethrin (98-99%). Of 1,510 mosquitoes, 5 (0.33%) were detected as infected by microscopy; 3 (0.20%) were PCR-confirmed W. bancrofti, and the L3 larvae was detected using quantitative reverse transcription PCR (qRT-PCR). Real-time PCR of microscopy-negative pools showed no infections. CYP6M2 and CYP9M10 were downregulated (0.26-fold and 0.77-fold, respectively) in infected mosquitoes. CONCLUSION: The study highlights low LF knowledge, pyrethroid resistance, and possible active transmission in Bodinga LGA. Awareness campaigns, PBO-based interventions, and further resistance mechanism studies are recommended.",
+    "species_latin": "Wuchereria bancrofti",
+    "species_en": "Wuchereria bancrofti",
+    "species_zh": "班氏吴策线虫",
+    "takeaway": "尼日利亚Bodinga地区居民对淋巴丝虫病认知不足，蚊媒对拟除虫菊酯普遍抗药，并检出W. bancrofti感染蚊，提示可能存在持续传播。",
+    "conclusion": "当地社区对淋巴丝虫病认知水平低，按蚊与库蚊对多种拟除虫菊酯产生抗性，但增效醚可恢复敏感性；分子异种监测检出W. bancrofti感染蚊及L3幼虫，提示存在潜在活跃传播，建议加强宣教、采用含增效醚的干预措施并深入研究抗性机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42747573",
+    "title": "Effectiveness of incidence-based acaricide application for resistance management of the citrus red mite, Panonychus citri (Acari: Tetranychidae): a case study from Japanese citrus orchards",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Experimental & applied acarology",
+    "authors": "Tsuchida Y, Masui S.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42747573",
+    "doi": "10.1007/s10493-026-01192-1",
+    "pmid": "42747573",
+    "abstract": "Control of the citrus red mite, Panonychus citri (McGregor), is essential in citrus cultivation to prevent fruit value loss. In Shizuoka Prefecture, Japan, although synthetic acaricides have been applied to P. citri only once per year since the late 2000s, acaricide resistance remains a serious problem. Our aim was to determine the state of susceptibility of P. citri to acaricides, and confirm the effectiveness of current control strategies in citrus-producing areas. First, we clarified the ovicidal effect of 10 acaricides at field-recommended doses on 26 strains of P. citri collected from fruit-producing orchards, a scion-producing orchard, and nursery trees introduced from inside or outside the prefecture. Next, LC50 values for four acaricides were determined for the eggs and adult females of five strains collected either from orchards adopting control methods recommended by their respective agricultural cooperatives or from nursery trees. We confirmed milbemectin resistance in a strain collected from nursery trees and pyflubumide resistance in three strains from orchards where this acaricide had been applied annually for four or five consecutive years. These findings suggest that nursery trees represent a potential pathway for the introduction of milbemectin resistance from external regions, and that pyflubumide resistance can be established rapidly despite low-frequency (once-yearly) application. Notably, severe resistance was not observed in areas where producers decided on acaricide application based on mite density. These findings suggest that decision-making for acaricide application based on the incidence of P. citri may contribute to delaying or mitigating resistance development in citrus-producing areas.",
+    "species_latin": "Panonychus citri",
+    "species_en": "citrus red mite",
+    "species_zh": "柑橘全爪螨",
+    "takeaway": "日本柑橘园按虫口密度施药可延缓柑橘全爪螨抗药性，而苗圃苗木可能引入抗性。",
+    "conclusion": "研究发现，苗圃苗木可能是米尔贝霉素抗性从外部传入的途径，而连续四五年每年一次施用吡氟菌酰胺即可使柑橘全爪螨产生抗性；但在依据螨密度决定施药的产区未出现严重抗性，表明基于发生量的施药决策有助于延缓或减轻抗药性发展。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42745468",
+    "title": "A haplotype-resolved T2T genome of autotetraploid alfalfa provides insights into genome evolution and inbreeding depression",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant communications",
+    "authors": "Tian J, Zhang J, Ma Y, Wang S, Liang C, Chong K.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42745468",
+    "doi": "10.1016/j.xplc.2026.102116",
+    "pmid": "42745468",
+    "abstract": "",
+    "species_latin": "Medicago sativa",
+    "species_en": "alfalfa",
+    "species_zh": "紫花苜蓿",
+    "takeaway": "研究构建了同源四倍体紫花苜蓿的单倍型解析T2T基因组，揭示其基因组演化与近交衰退机制。",
+    "conclusion": "通过单倍型解析的端粒到端粒（T2T）基因组组装，为理解同源四倍体紫花苜蓿的基因组演化提供了高精度参考，并有助于揭示其近交衰退的遗传基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42745365",
+    "title": "A pH-responsive O-carboxymethyl chitosan nanoencapsulation improves λ-cyhalothrin efficacy and induces sex-specific responses in Conogethes punctiferalis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Chen L, Wang J, Li L, Zhang Q, Duan S, Wu Y, Yao Q.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42745365",
+    "doi": "10.1002/ps.71320",
+    "pmid": "42745365",
+    "abstract": "Background Conventional pesticides suffer from poor foliar retention, rapid degradation, and high non-target toxicity, driving the need for smarter delivery systems. To address these limitations, we encapsulated λ-cyhalothrin in O-carboxymethyl chitosan (LC@O-CMCS), and comprehensively evaluated its physicochemical properties, insecticidal activity and safety. Results LC@O-CMCS exhibited spherical morphology, uniform pesticide encapsulation, and pH-dependent release characteristics, with 40.12% cumulative release at pH 8.0 after 168 h. LC@O-CMCS significantly enhanced foliar deposition and wettability on litchi leaves, prolonging the field half-life from 8.11 to 14.17 days compared to free LC. Bioassays against Conogethes punctiferalis demonstrated stage-specific efficacy of LC@O-CMCS, with lower median lethal concentration (LC 50 ) values than free LC for larvae (0.43 mg/L versus 0.50 mg/L), female (0.99 mg/L versus 1.36 mg/L) and male (0.53 mg/L versus 0.69 mg/L) adults. Transcriptomic analysis revealed significant sex-specific responses. Free LC induced 139 differentially expressed genes (DEGs) in male moth and 3495 DEGs in female, while LC@O-CMCS treatment caused 7642 DEGs in male and 1107 DEGs in female. The carrier O-CMCS alone caused negligible DEGs in each sex, confirming that the observed sex-dependent transcriptional changes are attributable to the nanoformulation rather than to the carrier material itself. Detoxification enzyme activities were induced exclusively in female moths, with no corresponding induction observed in males, confirming a clear sex-specific response. Notably, LC@O-CMCS reduced acute contact toxicity to Eocanthecona furcellata by about 11-fold. Conclusion These findings demonstrate that O-CMCS-based nanodelivery enhances insecticidal performance through optimized physicochemical properties and sex-specific mechanisms, offering a sustainable strategy for precision pest management. © 2026 Society of Chemical Industry.",
+    "species_latin": "Conogethes punctiferalis",
+    "species_en": "yellow peach moth",
+    "species_zh": "桃蛀螟",
+    "takeaway": "将高效氯氟氰菊酯包封于O-羧甲基壳聚糖纳米载体中，可提升对桃蛀螟的杀虫效果并诱导性别特异性响应",
+    "conclusion": "O-CMCS纳米递送系统通过改善叶面沉积、延长持效期和pH响应释放，增强了对桃蛀螟幼虫及雌雄成虫的杀虫活性，并显著降低对天敌的急性毒性；转录组与解毒酶分析显示雌雄虫响应存在明显性别差异，且该差异源于纳米制剂本身而非载体，为精准害虫治理提供了可持续策略",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42744871",
+    "title": "Advancing the adoption of RNA interference-based biopesticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nature plants",
+    "authors": "Fletcher S, Gunasekara S, Narva K, De Neef E, Ashworth P, Jin H, Mitter N.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42744871",
+    "doi": "10.1038/s41477-026-02409-2",
+    "pmid": "42744871",
+    "abstract": "RNA interference (RNAi)-based biopesticides use a natural cellular mechanism to specifically silence genes essential for pest or pathogen fitness, offering a targeted and potentially safer alternative to conventional chemical sprays. The recent registration of the first products targeting Colorado potato beetle and varroa mite marks the transition of this technology from proof of concept to practical reality. With technical feasibility established, attention is shifting to the drivers determining adoption into pest management strategies. The potential for uptake by farmers can be framed within a decision-making process that weighs the choice to deploy this new tool against a backdrop of environmental concerns, widespread pesticide resistance and increasing regulatory restrictions related to conventional synthetic chemistries. Shifting dynamics have influenced the return-on-investment proposition, where agricultural utility (safe and reliable efficacy against pests and pathogens), regulatory reality (barriers to availability) and social licence (public perception and acceptance of novel biotechnologies) act as the levers shifting the cost-benefit ratio of RNAi-based biopesticides relative to conventional options. Advancements in bioinformatics-driven double-stranded RNA design, risk assessment and delivery systems position RNAi-based biopesticides as an alternative to fill the market gap created by the withdrawal of conventional chemistries. However, widespread adoption must navigate fragmented international regulatory harmonization and the challenges of developing a social licence to operate, specifically regarding public perceptions of safety, residues and the use of novel biotechnology tools.",
+    "species_latin": "Leptinotarsa decemlineata, Varroa destructor",
+    "species_en": "Colorado potato beetle, varroa mite",
+    "species_zh": "科罗拉多马铃薯甲虫、瓦螨",
+    "takeaway": "RNAi生物农药已从概念走向实用，其推广取决于成本效益、监管与公众接受度。",
+    "conclusion": "RNAi生物农药通过沉默害虫或病原体关键基因实现精准防治，首款针对科罗拉多马铃薯甲虫和瓦螨的产品获批标志其进入实用阶段。其推广受农业效用、监管现实与社会许可三方面影响，生物信息学设计、风险评估和递送系统的进步使其有望填补传统化学农药退市留下的市场空白，但仍需应对国际监管不协调和公众对安全性与新生物技术的顾虑。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42742732",
+    "title": "Plant-derived and microbial biostimulants in sustainable agriculture: mechanisms, applications, and challenges",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Archives of microbiology",
+    "authors": "Alam P, Nazneen S, Azra BH, Albalawi T, Ahmad S, Faizan M.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42742732",
+    "doi": "10.1007/s00203-026-05200-1",
+    "pmid": "42742732",
+    "abstract": "Plant biostimulants have emerged as transformative and sustainable tools for improving crop productivity, resource-use efficiency, and resilience under rapidly intensifying environmental stresses. Unlike conventional agrochemicals, biostimulants function by activating physiological, biochemical, and molecular processes that optimize plant performance without directly supplying nutrients or exerting pesticidal effects. This review comprehensively examines the integrated roles of plant-derived and microbial biostimulants in sustainable agriculture, with particular emphasis on microbial-mediated mechanisms underlying plant stress adaptation and rhizosphere functioning. Plant-derived biostimulants, including seaweed extracts, humic substances, protein hydrolysates, amino acids, and chitosan, enhance nutrient acquisition, root architecture, hormonal regulation, and antioxidant defense systems. More importantly, microbial biostimulants, such as plant growth-promoting rhizobacteria (PGPR), endophytic microorganisms, mycorrhizal fungi, actinomycetes, yeasts, and cyanobacteria, exert multifunctional effects through biological nitrogen fixation, mineral solubilization, phytohormone biosynthesis, volatile signaling, osmolyte accumulation, pathogen suppression, and modulation of stress-responsive genes. These beneficial microorganisms reshape rhizosphere microbial communities, improve nutrient cycling, and enhance plant tolerance to drought, salinity, heat, and heavy metal toxicity. Emerging evidence from genomics, transcriptomics, metabolomics, and microbiome-based investigations has further revealed the molecular networks and signaling pathways governing biostimulant-induced resilience and plant-microbe interactions. Despite their substantial promise, inconsistent field performance, formulation instability, regulatory limitations, and inadequate mechanistic understanding continue to restrict their large-scale adoption. This review highlights recent advances in microbial and plant-derived biostimulants while identifying critical knowledge gaps and future opportunities for precision biostimulant engineering, microbiome manipulation, and climate-resilient crop management. The integration of next generation biostimulant technologies into sustainable agricultural systems may significantly reduce dependence on agrochemicals while improving crop productivity, environmental sustainability, and global food security.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述植物源与微生物源生物刺激剂提升作物抗逆与养分利用的机制、应用及挑战。",
+    "conclusion": "植物源与微生物源生物刺激剂可通过激素调节、抗氧化防御、固氮溶磷、挥发物信号及调控胁迫响应基因等机制，重塑根际微生物群落、改善养分循环，增强作物对干旱、盐碱、高温和重金属的耐受性；但田间效果不稳定、制剂不稳定、监管不足及机制认识有限制约其大规模应用，未来需推进精准生物刺激剂工程与微生物组调控。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260916-pxgp-metabolic-clamp",
     "title": "【科研新进展】（909）植保学院现代药物研发团队在昆虫代谢靶标验证及新型农药双靶标设计策略方面取得重要进展",
     "type": "wechat",
@@ -54,7 +314,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -80,7 +340,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -158,7 +418,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42734856",
+    "title": "Microbial consortia for pesticide biodegradation: mechanisms, cross-class pathways, and translational challenges",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biodegradation",
+    "authors": "Lavanya E, Iruthayasamy J, Soodamani A, Petchimuthu M, Angappan S, Murugavel K, Muthusamy K.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42734856",
+    "doi": "10.1007/s10532-026-10368-w",
+    "pmid": "42734856",
+    "abstract": "The use of synthetic pesticides estimated at 4.1 million metric tons annually worldwide, has led to widespread contamination of soils and aquatic environments, with documented risks to ecosystem integrity and human health. Physicochemical remediation methods are costly and often generate secondary pollutants and toxic intermediates, making microbial bioremediation a lower-residue alternative to physicochemical treatment. Because pesticide degradation in natural environments is rarely achieved by single microbial species, this review critically synthesizes evidence on multi-species microbial consortia-natural, synthetic, and genetically engineered for the biodegradation of six major pesticide classes: organophosphates, carbamates, pyrethroids, neonicotinoids, organochlorines, and triazines. Integration of the ecological mechanisms underlying consortium synergism (sequential metabolic cooperation, metabolic division of labour, biosurfactant-mediated bioavailability enhancement, horizontal gene transfer, and extracellular enzyme cooperation) with the enzymatic and genetic basis of degradation for each pesticide class, and evaluate how emerging tools like multi-omics profiling, CRISPR-based strain engineering, immobilisation technologies, synthetic consortium design, and AI-assisted optimisation are reshaping consortium design. Reported removal efficiencies are consistently higher for consortia than for monocultures across the studies reviewed here, though direct comparisons vary by pesticide class and experimental design. The review closes by evaluating the principal barriers to field-scale translation, strain persistence, ecological risk and regulatory approval, and monitoring of introduced strains and proposes a tiered framework for matching consortium design to contamination scenario. To date, this is the review to integrate ecological interaction mechanisms, class-specific enzymatic pathways, and translational technologies for pesticide-degrading consortia within a single framework.",
+    "species_latin": "Microbial consortia",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出多物种微生物联合体降解六大类农药效率普遍高于单菌，并整合生态机制、酶学途径与转化技术。",
+    "conclusion": "微生物联合体通过顺序代谢协作、代谢分工、生物表面活性剂提高生物可利用性、水平基因转移和胞外酶协作等机制，对有机磷、氨基甲酸酯、拟除虫菊酯、新烟碱、有机氯和三嗪六类农药的去除效率普遍高于单菌培养。多组学、CRISPR工程、固定化、合成菌群设计和AI优化正推动菌群设计，但田间应用仍受菌株持久性、生态风险、监管审批及监测等瓶颈制约，作者据此提出分层框架以匹配污染场景。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -236,7 +522,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -366,7 +652,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -2275,6 +2561,39 @@
     ],
     "via": "EuropePMC",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20260917-dl-protein-modeling-review",
+    "title": "综述：蛋白质建模的深度学习：从单一结构到结合复合物与热力学系综——以架构设计为核心",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（转自 WIREs Computational Molecular Science Advanced Review）",
+    "authors": "",
+    "publish_date": "2026-09-02",
+    "added_at": "2026-09-17",
+    "url": "https://m.ebiotrade.com/newsf/2026-9/20260902001315486.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "生物通中文推介的一篇 WIREs Computational Molecular Science 高级综述，以架构设计为核心，将深度学习蛋白质建模归纳为表达力递进的三大范式：（I）单一结构预测、（II）分子结合复合物预测（蛋白质-蛋白质与蛋白质-配体，涵盖 AlphaFold-Multimer、RoseTTAFold2、AlphaFold3、RFAA、Chai-1、Boltz-1、RF3 等）、（III）构象系综生成；并系统比较 SE(3) 等变与学习对称性、MSA 共进化与蛋白质语言模型先验、确定性预测与生成式采样、显式能量监督与隐式学习、跨模态集成建模等反复出现的设计选择。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "一篇以架构为纲的权威综述，把单体结构—分子结合复合物—构象系综串成统一框架，指出蛋白复合物与热力学系综预测是当前主要短板。",
+    "conclusion": "单一结构预测已相对成熟，但分子结合复合物（含蛋白-蛋白互作与蛋白-配体对接）预测尚未达到同等成熟度，尤其是生成具有可靠群体权重的忠实热力学系综仍是开放挑战；数据可用性与保真度、实现泛化的归纳偏置选择以及严格模型评估是关键，生成式动力学被视为值得追求的前沿方向。",
+    "keywords": [
+      "蛋白互作",
+      "蛋白质复合物",
+      "深度学习",
+      "结构预测",
+      "AlphaFold-Multimer",
+      "AlphaFold3",
+      "分子对接",
+      "构象系综",
+      "热力学系综",
+      "综述"
+    ]
   },
   {
     "id": "manual-20260911-bt-hydrogel",
@@ -6427,6 +6746,32 @@
     "species_zh": "",
     "takeaway": "针对虹鳟由罗伯逊易位导致的广泛核型多样性（2n=58–64）及现有参考基因组偏向北美谱系的问题，研究整合多平台测序数据组装出中国养殖群体的近 T2T 基因组，为鱼类核型演化与遗传育种提供高质量参考。",
     "conclusion": ""
+  },
+  {
+    "id": "pmid-42621952",
+    "title": "Studies on plasmon-enhanced photocatalytic efficacy of thin Cu x O films for the degradation of imidacloprid",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nanoscale advances",
+    "authors": "Sarma M, Bora J, Jaiswal MK, Changmai I, Singh KB, Borah J, Karmakar S, Choudhury B, Sarma BK, Pal AR.",
+    "publish_date": "2026-08-04",
+    "added_at": "2026-09-17",
+    "url": "https://europepmc.org/article/MED/42621952",
+    "doi": "10.1039/d6na00520a",
+    "pmid": "42621952",
+    "abstract": "Imidacloprid (IMI), a widely used pesticide, poses significant environmental and health risks due to its toxicity to humans and aquatic life. Understanding its degradation behaviour is essential for developing effective remediation strategies. This study investigates the plasmon-enhanced photocatalytic degradation of IMI using copper oxide thin films decorated with gold nanoparticles (Cu x O/Au). Under UV-visible light, the incorporation of plasmonic Au in the Cu x O configuration enhances the photocatalytic activity by 36.6% compared to the pristine Cu x O film, with an overall degradation of more than 71%, which is maintained even after three repeated uses. Photoluminescence analysis provided evidence of reduced electron-hole recombination after the incorporation of Au, which was further validated by electrochemical analysis. The localized surface plasmon resonance (LSPR) and interband transition effects in Au-NPs increase the overall light absorption and concentration of charge carriers in the system. LC-MS analysis showed a decrease in the molecular ion signal of IMI and the appearance of several lower-m/z transformation-related ions, supporting the photocatalytic transformation of IMI.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "金纳米颗粒修饰的氧化铜薄膜在光照下可高效降解吡虫啉,降解率超71%且可重复使用。",
+    "conclusion": "将等离激元金纳米颗粒引入氧化铜薄膜可显著提升光催化活性,较纯氧化铜提高36.6%,整体降解率超过71%并可重复使用三次。金纳米颗粒的局域表面等离激元共振与带间跃迁增强了光吸收和载流子浓度,并降低电子-空穴复合;LC-MS证实吡虫啉被转化为多种低质荷比的降解产物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42580108",
