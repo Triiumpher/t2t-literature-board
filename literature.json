@@ -1,5 +1,239 @@
 [
   {
+    "id": "pmid-42752221",
+    "title": "The Chlamydia trachomatis effector CT226 directly engages LRRFIP1 to recruit a multiprotein complex that limits inclusion size and progeny production",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "mBio",
+    "authors": "Elwell CA, Diallo A, Sixt BS, Sherry J, Pha K, Valdivia RH, Rosenberg O, Verba K, Engel J.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42752221",
+    "doi": "10.1128/mbio.01953-26",
+    "pmid": "42752221",
+    "abstract": "Chlamydia species secrete a unique class of effector proteins termed inclusion membrane proteins (Incs) that are translocated into the inclusion membrane and reprogram host cell processes to support intracellular growth. Using affinity purification-mass spectrometry, we previously identified an interaction between the early expressed Inc CT226 and a human multiprotein complex comprising leucine-rich repeat Flightless-I-interacting protein 1 (LRRFIP1), LRRFIP2, Flightless-I (FLII), and tropomodulin 3 (TMOD3). Here, we define the molecular basis and functional consequences of this interaction during Chlamydia trachomatis infection. We show that CT226 is both necessary and sufficient to recruit the LRRFIP1/2:FLII:TMOD3 (LFT) complex to the inclusion membrane. In vitro reconstitution with purified proteins demonstrates that the predicted coiled-coil region of CT226 directly binds the N-terminal helix of LRRFIP1. Using in silico structural modeling with AlphaFold-Multimer coupled with mutational validation, we identify key residues that mediate an electrostatic CT226:LRRFIP1 interaction required for LFT recruitment to the inclusion. Unexpectedly, genetic disruption of CT226 or its interaction with the LFT complex results in modest increases in inclusion size and recovery of infectious progeny late in infection, demonstrating that the CT226:LFT interaction modulates C. trachomatis developmental progression. Together, these findings establish the molecular basis of CT226-mediated recruitment of the LFT complex to the inclusion membrane and uncover a previously unrecognized role for this effector-host interaction at late timepoints of the C. trachomatis intracellular developmental cycle.IMPORTANCEChlamydia trachomatis is a major cause of sexually transmitted infections and blindness worldwide. This bacterium survives by replicating inside host cells within a membrane-bound compartment, where it deploys specialized proteins to manipulate host processes. These proteins, known as inclusion membrane proteins (Incs), help organize the host-pathogen interface, but the molecular mechanisms by which many Incs engage host factors remain poorly understood. Here, we show that the Inc protein CT226 recruits a host multiprotein complex to the bacterial compartment by directly binding one of its components. Using structural modeling and targeted mutations, we define the molecular interface required for this interaction. Disruption of CT226 or its ability to engage this host complex results in modest increases in inclusion size and production of infectious progeny, suggesting a role for the CT226:host interaction in regulating Chlamydia intracellular development. These findings reveal how a bacterial effector can engage a host protein complex to influence the outcome of infection.",
+    "species_latin": "Chlamydia trachomatis",
+    "species_en": "Chlamydia trachomatis",
+    "species_zh": "沙眼衣原体",
+    "takeaway": "沙眼衣原体效应蛋白CT226通过招募LRRFIP1等宿主蛋白复合物,限制包涵体体积与子代产量。",
+    "conclusion": "CT226的卷曲螺旋区直接结合LRRFIP1 N端螺旋,以静电作用将LRRFIP1/2:FLII:TMOD3复合物招募至包涵体膜;破坏该互作会使包涵体变大、晚期感染性子代增多,表明该效应蛋白-宿主互作调控衣原体发育进程。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42750551",
+    "title": "Plant defense activators for sustainable crop protection: a mechanism-based perspective on their regulatory positioning",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of experimental botany",
+    "authors": "Arimura GI.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42750551",
+    "doi": "10.1093/jxb/erag469",
+    "pmid": "42750551",
+    "abstract": "The environmental and ecological costs of chemical pesticide use have intensified the search for alternative crop protection strategies. Among these, plant defense activators (PDAs) represent a distinct class of compounds that enhance plant resistance through activation or priming of endogenous defense pathways, rather than through direct toxicity to target organisms. However, current regulatory frameworks often classify such agents as plant protection products or equivalent regulatory categories, irrespective of their non-biocidal, host-mediated mode of action. In this review, we focus on a subset of PDAs whose primary effect is the activation or priming of plant defense responses at non-biocidal concentrations, without reliance on direct inhibition or mortality of target organisms. We examine major functional categories of PDAs, with particular emphasis on phytohormone analogues and priming agents, and plant volatile organic compounds (PVOCs), which represent well-characterized and practically relevant modes of defense activation. Based on these considerations, we propose that defense-activating agents operating through host-mediated processes can be more appropriately aligned with biostimulant-oriented frameworks. A mechanism-based classification could help resolve inconsistencies between biological modes of action and current regulatory classifications, supporting the development of sustainable, low-input crop protection strategies.",
+    "species_latin": "Plant defense",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "植物防御激活剂通过激活或启动植物自身防御而非直接毒杀靶标生物发挥作用，其机制导向的分类应更贴近生物刺激素框架。",
+    "conclusion": "植物防御激活剂在非生物杀灭浓度下通过宿主介导的防御激活或启动起效，而非直接抑制或杀死靶标生物。当前将其归入植物保护产品等监管类别与作用机制不符。基于机制的分类可将其更合理地纳入生物刺激素导向框架，有助于弥合生物学作用方式与现行监管分类之间的不一致，支持可持续、低投入的作物保护策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42610989",
+    "title": "Eco-friendly synthesis of carbon dots for the rapid detection of organophosphate and neonicotinoid pesticides: current progress and future outlook",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Analytical methods : advancing methods and applications",
+    "authors": "Soni H, Bhattu M.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42610989",
+    "doi": "10.1039/d6ay00938g",
+    "pmid": "42610989",
+    "abstract": "Pesticides are generally used in agriculture to increase the growth of crops and to protect crops from pests. Among the various classes of pesticides, organophosphates (OPPs) and neonicotinoids are widely used because of their high efficacy. However, their excessive use has resulted in residues in food items and water resources, affecting human and environmental health. The World Health Organization (WHO) has classified these pesticides as highly toxic compounds. Consequently, the development of sensitive, selective, and cost-effective fluorescence-based sensing platforms has gained considerable attention. Extensive literature is available on different types of sensors for detecting OPPs and neonicotinoid pesticides based on carbon dots (CDs). Therefore, this review particularly focuses on fluorescence-based sensors integrated with CDs. The review discusses green-synthesized CDs, and their emerging applications with particular emphasis on fluorescence-based detection of OPPs and neonicotinoid pesticides. This review covers the environmental fate of these pesticides, followed by biomass precursors for CD synthesis, their synthesis techniques and physicochemical properties. Furthermore, a comparative table highlighting the mechanisms, synthesis techniques, detection limits and key features has been reported in this study. A SWOT analysis is also presented to highlight the current status and future potential of green CDs for pesticide detection. Overall, this review provides researchers with an overview for the development of efficient, selective and sustainable CD-based fluorescent sensors for pesticide detection.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述绿色合成碳点用于荧光检测有机磷和新烟碱类农药的进展与前景",
+    "conclusion": "绿色合成碳点结合荧光传感可灵敏、选择性检测有机磷与新烟碱类农药残留，本文系统梳理其合成前体、方法、理化性质、检测机制与检出限，并通过SWOT分析指出该类传感器在可持续农药监测中的发展潜力与挑战。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42752086",
+    "title": "Protocol for telomere-to-telomere assembly of Borrelia genomes using a hybrid method",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "STAR protocols",
+    "authors": "Amin AB, Ibarra-Meneses AV, Blanchette M, Fernandez-Prada C, Langlais D.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42752086",
+    "doi": "10.1016/j.xpro.2026.104841",
+    "pmid": "42752086",
+    "abstract": "Borrelia has a linear chromosome and linear plasmids capped by hairpin telomeres that short-read sequencing cannot resolve. Here, we present a protocol for telomere-to-telomere assembly of Borrelia genomes. We describe steps for spanning B. burgdorferi culture, DNA extraction, and sequencing through hybrid genome assembly to generate complete Borrelia genomes. The pipeline integrates Oxford Nanopore long reads and Illumina short reads to assemble hairpin telomeres, resolve paralogous linear and circular plasmids, and annotate and validate the assembled complete Borrelia genome. For complete details on the use and execution of this protocol, please refer to Amin et al.1.",
+    "species_latin": "Borrelia burgdorferi",
+    "species_en": "Borrelia burgdorferi",
+    "species_zh": "伯氏疏螺旋体",
+    "takeaway": "该协议结合纳米孔长读长与Illumina短读长，实现伯氏疏螺旋体基因组的端粒到端粒完整组装。",
+    "conclusion": "通过整合Oxford Nanopore长读长与Illumina短读长，该流程可组装发夹端粒、区分旁系同源的线性质粒与环状质粒，并对完整基因组进行注释与验证，为伯氏疏螺旋体基因组研究提供端粒到端粒的完整组装方案。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42750422",
+    "title": "Sex pheromone communication and its regulation by the sex determination pathway in cockroaches",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Insect science",
+    "authors": "Yang Y, Zhou H, Li N, Li S, Chen N.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42750422",
+    "doi": "10.1111/1744-7917.70363",
+    "pmid": "42750422",
+    "abstract": "Sexual communication in animals orchestrates a series of interactive behaviors from locating and recognizing potential partners to courtship and final mating decisions and is thus critical for sexual reproduction and population fitness. Highly efficient communication between the sexes requires not only the production and emission of species-specific signals but also their precise detection and interpretation by the receiving individuals. Cockroaches, as one of the most evolutionarily ancient and successful group of insects, are quintessential chemical communicators that rely heavily on sex pheromones for sexual communication. They have long served as excellent model organisms in studies of chemical ecology. Although the biochemical characterization of sex pheromones in several species was largely accomplished during the last century, the past two decades have witnessed remarkable progress in understanding the molecular genetics of sex pheromone communication and its regulation, particularly driven by functional genomics. This review first provides an updated comparative survey of the pheromone components identified across distinct taxa. We then synthesize, but not limited to, recent advances in identification of key molecules controlling sex pheromone production, characterization of candidate chemosensory receptors and their neural processing pathways, and the regulatory roles of the sex determination cascade in shaping sexually dimorphic traits in both pheromone production and perception. Finally, we highlight key scientific questions that remain unsolved and propose future directions aimed at extending our mechanistic understanding of cockroach pheromone communication, as well as at developing behavior-based pest management strategies.",
+    "species_latin": "",
+    "species_en": "cockroach",
+    "species_zh": "蟑螂",
+    "takeaway": "综述蟑螂性信息素通讯的分子遗传机制，重点阐述性别决定通路对信息素产生与感知的调控。",
+    "conclusion": "蟑螂性信息素通讯依赖种特异性信号的产生与精准识别，其分子基础涉及信息素合成关键分子、候选化学感受受体及神经处理通路；性别决定级联通过调控这些环节塑造雌雄差异，为基于行为的害虫防治提供思路。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42747427",
+    "title": "A systematic interactome of &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; SET1C expands its functional landscape and identifies candidate regulatory connections",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "eLife",
+    "authors": "Luciano P, Park K, Audebert S, Camoin L, Niño CA, Park DK, Maudlin IE, Dubarry M, Lee L, Oeffinger M, Beggs JD, Kim YH, Kim J, Dichtl B, Geli V.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42747427",
+    "doi": "10.7554/elife.109886",
+    "pmid": "42747427",
+    "abstract": "Set1 is the catalytic subunit of SET1C or COMPASS, which methylates histone H3K4 and serves as a scaffold for the association of seven tightly bound polypeptides. We have employed yeast two-hybrid screenings to determine the interactome of Set1 and each subunit, providing a unique resource for exploring known and novel roles of the complex. Our screenings identified a multitude of potential interactors involved in chromatin regulation, DNA replication, meiotic breaks, and Ty transposition, processes previously associated with SET1C. Consistent with Set1 being an RNA-binding protein, the screens link SET1C to multiple aspects of RNA biogenesis, including pre-mRNA splicing and polyadenylation. The results reveal that several importins are candidate interactors of Set1, along with RGG motif-containing proteins, providing insights into the mechanisms by which Set1 moves between cytoplasmic and nuclear compartments. We further reveal that reconstituted SET1C interacts with the AT-hook domain of the chromatin remodeler Snf2 and methylates multiple arginines within this domain. In vivo, we report that the ARTSTRGR AT-hook motif is methylated in a Set1-dependent manner, revealing new interplay between lysine and arginine methylation.",
+    "species_latin": "Saccharomyces cerevisiae",
+    "species_en": "Baker's yeast",
+    "species_zh": "酿酒酵母",
+    "takeaway": "用酵母双杂交绘制SET1C互作组，发现其关联RNA加工、核质运输，并揭示Snf2的AT-hook精氨酸被Set1甲基化。",
+    "conclusion": "SET1C除甲基化H3K4外，还广泛参与染色质调控、DNA复制、减数分裂断裂、Ty转座及RNA剪接与多聚腺苷酸化等过程；Set1可与输入蛋白及RGG基序蛋白互作，提示其核质穿梭机制；重组SET1C能甲基化染色质重塑因子Snf2的AT-hook结构域多个精氨酸，且该修饰在体内依赖Set1，揭示了赖氨酸与精氨酸甲基化之间的新互作。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "title-influenceofanthranilicdiamideinsecticidesonemeraldashborerco",
+    "title": "Influence of anthranilic diamide insecticides on emerald ash borer (Coleoptera: Buprestidae) larvae and establishment of introduced parasitoids in central Kentucky",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of insect science (Online)",
+    "authors": "",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-18",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Agrilus planipennis",
+    "species_en": "emerald ash borer",
+    "species_zh": "白蜡窄吉丁",
+    "takeaway": "研究在肯塔基中部测试邻氨基苯甲二酰胺类杀虫剂对白蜡窄吉丁幼虫及引入寄生蜂定殖的影响。",
+    "conclusion": "标题提示该研究评估邻氨基苯甲二酰胺类杀虫剂对白蜡窄吉丁幼虫的作用，并考察其是否影响已引入寄生蜂的定殖，但无摘要，具体结果与机制无法确定。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42750404",
+    "title": "Screening of dsRNA targets in the salivary glands of Myzus persicae and development of a Trichoderma-based bio-expression system",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Hou Y, Wang X, Chen J, Han Y, Gao X, Tian Z, Liu P, Hu X, Fu X, Wang Y.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42750404",
+    "doi": "10.1002/ps.71215",
+    "pmid": "42750404",
+    "abstract": "Background Aphids are globally prevalent pests that inflict considerable harm on plants. Owing to increasing pesticide resistance, it is crucial to develop environmentally sustainable and effective control methods. RNA interference (RNAi) using double-stranded RNA (dsRNA) holds great promise for pest control, but is hindered by the instability of dsRNA and the scarcity of effective target genes. This study aimed to overcome these limitations by developing a novel bio-expression system using the beneficial fungus Trichoderma asperellum. Results This study identified several salivary gland secretory protein genes that are highly expressed during the nymphal stage of Myzus persicae through transcriptome analysis across developmental stages. These genes were confirmed as RNAi targets with substantial impacts on inhibiting aphid survival and reproduction. Additionally, we successfully developed T. asperellum strains that express targeted dsRNA, confirming the incorporation and transcription of external genes in fungus. Conclusion Our results validate salivary gland genes as effective RNAi targets for aphid control and, more importantly, establish a novel Trichoderma-based expression platform for stable dsRNA production, which holds promise as a potential delivery vehicle for future RNAi-based pest management following in vivo functional validation. This synergistic strategy represents a significant advance toward sustainable and targeted pest management. © 2026 Society of Chemical Industry.",
+    "species_latin": "Myzus persicae",
+    "species_en": "green peach aphid",
+    "species_zh": "桃蚜",
+    "takeaway": "研究筛选桃蚜唾液腺高表达基因作RNAi靶标，并用棘孢木霉构建稳定表达dsRNA的生物平台。",
+    "conclusion": "桃蚜若虫期唾液腺分泌蛋白基因经转录组筛选被证实为有效RNAi靶标，可显著抑制蚜虫存活与繁殖；同时成功构建表达目标dsRNA的棘孢木霉工程菌株，验证外源基因可整合并转录，为RNAi害虫防治提供稳定dsRNA生产与递送新平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42750218",
+    "title": "Inheritance and fitness costs of field-evolved resistance to Gpp34/Tpp35Ab1 corn by western corn rootworm, Diabrotica virgifera virgifera (Coleoptera: Chrysomelidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Smith EM, Coates BS, Gassmann AJ.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42750218",
+    "doi": "10.1002/ps.71301",
+    "pmid": "42750218",
+    "abstract": "Background The western corn rootworm, Diabrotica virgifera virgifera LeConte, is among the most serious pests of corn in the United States, and an invasive pest in parts of Europe. In the United States, feeding injury to roots by western corn rootworm larvae is managed, in part, with genetically modified corn hybrids that produce insecticidal proteins derived from the bacterium Bacillus thuringiensis (Bt). The widespread use of Bt corn has contributed to field-evolved resistance to all commercially available Bt traits by some western corn rootworm populations. Insect resistance management (IRM) plans for Bt crops in the United States use the refuge strategy to delay evolution of resistance. Mating of susceptible individuals from refuges with resistant individuals produces progeny that are heterozygous for resistance, and delays resistance compared to a scenario where refuges are absent. Two factors that strongly influence the delays in resistance achieved by the refuge strategy are the inheritance and fitness costs of resistance. Results Our research found that field-evolved resistance to plants that express the Bt protein Gpp34/Tpp35Ab1 protein by western corn rootworm was inherited in a non-recessive manner and associated with some fitness costs. Conclusion The non-recessive inheritance of Gpp34/Tpp35Ab1 likely will diminish the capacity of refuges to delay resistance and heighten the risk of resistance evolution. However, this effect may be counterbalanced to some degree by fitness costs. This evidence suggests that IRM strategies for western corn rootworm with larger refuge sizes and more diversified management approaches could reduce the risk of resistance evolution. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Diabrotica virgifera virgifera",
+    "species_en": "western corn rootworm",
+    "species_zh": "西方玉米根萤叶甲",
+    "takeaway": "西方玉米根萤叶甲对Gpp34/Tpp35Ab1 Bt玉米的抗性呈非隐性遗传并伴随适合度代价。",
+    "conclusion": "田间演化的Gpp34/Tpp35Ab1抗性为非隐性遗传，会削弱庇护所延缓抗性的效果、提高抗性进化风险；但适合度代价可在一定程度上抵消该效应，提示应采用更大庇护所面积和多样化治理策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "title-aresourceefficientstructurebasedworkflowforfragmentprogressi",
     "title": "A resource-efficient structure-based workflow for fragment progression enables parallel hit discovery and validation of functionally diverse modulators of NCS-1 protein–protein interactions",
     "type": "paper",
@@ -100,7 +334,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +360,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -152,7 +386,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -178,7 +412,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42743102",
+    "title": "Toxic and repellent effects of hemp leaf extracts and cannabidiol against adult female yellow fever mosquitoes, Aedes aegypti",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PloS one",
+    "authors": "Martínez Rodríguez EJ, Phelan PL, Canas L, Acosta N, Feliciano PN, Tubbs J, Loperena E, Rakotondraibe HL, Piermarini PM.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42743102",
+    "doi": "10.1371/journal.pone.0354696",
+    "pmid": "42743102",
+    "abstract": "Hemp (Cannabis sativa) derived products have emerged as potential sources of novel biopesticides. We recently demonstrated that a hemp leaf extract was toxic to larvae of the yellow fever mosquito Aedes aegypti, and that cannabidiol (CBD) was the primary larvicidal component of the extract. Here we evaluated the toxic and repellent effects of a hemp leaf extract and CBD against adult female Ae. aegypti. Toxicity was assessed using an acute topical assay in which mosquitoes received a 500 nL application to the thorax and mortality was recorded at 24 h. Repellency was then evaluated using two complementary bioassays: (i) a no-choice membrane blood-feeding assay to quantify feeding deterrence, and (ii) a mosquito airborne repellency test (MART) to assess spatial repellency. Topical application of CBD-rich hemp leaf extract induced dose-dependent mortality in adult Ae. aegypti with a LD50 of 22.13 µg/mosquito at 24 h. When CBD isolate was tested at its equivalent doses in the extract, it caused significantly lower mortality than the hemp extract. In the membrane blood-feeding repellency assay, the hemp leaf extract repelled mosquitoes in a dose-dependent manner, whereas CBD produced weaker effects even at higher equivalent doses. In the MART assay, the hemp extract did not elicit spatial repellency, suggesting low volatility of the repellent compounds. Taken together, our results demonstrate that CBD does not fully explain the adulticidal or repellent effects of the CBD-rich hemp leaf extract against adult female Ae. aegypti suggesting that other compounds contribute to the bioactivity of hemp leaf extracts against adult female mosquitoes.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "大麻叶提取物对埃及伊蚊成蚊具剂量依赖性毒杀与驱避作用，CBD并非唯一活性成分。",
+    "conclusion": "大麻叶提取物经胸部点滴对埃及伊蚊成蚊产生剂量依赖性致死，LD50为22.13 µg/蚊；在膜血餐实验中呈剂量依赖性驱避，但无空间驱避性，提示驱避物挥发性低。等剂量CBD单独作用明显弱于提取物，说明CBD不能完全解释成蚊毒杀与驱避效果，提取物中其他成分亦有贡献。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -308,7 +568,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -471,6 +731,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42746114",
+    "title": "In silico analysis of MALAT1 and H19 lncRNA interactions with the diabetes-related proteins ASK1 and YAP1",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "In silico pharmacology",
+    "authors": "Cabrera-Nájera LE, Rodríguez-Peña ON, Flores-Ortíz CM, Palomar-Morales M.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42746114",
+    "doi": "10.1007/s40203-026-00734-0",
+    "pmid": "42746114",
+    "abstract": "Dysregulation of RNA-protein signalling networks contributes to the progression of diabetes-associated complications, yet the structural mechanisms underlying lncRNA interactions with key signalling proteins remain largely unknown. This study investigates potential interaction interfaces between MALAT1-ASK1 and H19-YAP1 using a hypothesis-generating in silico approach. A computational pipeline integrating structure prediction, molecular docking, and molecular dynamics simulations was employed. Structural assessment showed high local confidence for both proteins and lncRNAs (PAE < 1 Å) but low global lncRNA folding reliability (pTM < 0.5), consistent with intrinsic structural flexibility. ASK1 and YAP1 exhibited multiple surface cavities and disordered regions involved in signalling regulation. Docking and simulations suggested MALAT1 binding to exposed ASK1 surfaces, while H19 was predicted to associate with YAP1 regions encompassing the TEAD-binding domain and conserved regulatory phosphorylation sites, including residues corresponding to Ser109, Ser127, and Thr119. Molecular dynamics indicated transient stabilisation with persistent conformational heterogeneity. These results identify structurally plausible RNA-protein interaction interfaces that overlap with known regulatory hotspots in YAP1. Overall, this work provides a framework for experimental validation of lncRNA-mediated regulation in diabetes-related signalling pathways.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用计算模拟预测MALAT1与ASK1、H19与YAP1存在结构上可行的互作界面。",
+    "conclusion": "MALAT1倾向结合ASK1暴露表面，H19则可能作用于YAP1的TEAD结合域及Ser109、Ser127、Thr119等调控磷酸化位点附近；复合物呈瞬时稳定与构象异质性。该结果为糖尿病相关信号通路中lncRNA调控的实验验证提供了结构假说框架。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
