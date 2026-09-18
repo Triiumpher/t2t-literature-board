@@ -78,6 +78,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42754245",
+    "title": "Insecticide Resistance Management for Mosquito Control: Mechanisms, Evidence, and Future Challenges",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Annual review of entomology",
+    "authors": "Huijben S.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42754245",
+    "doi": "10.1146/annurev-ento-022026-013626",
+    "pmid": "42754245",
+    "abstract": "Insecticide resistance threatens the durability of mosquito control. Extending the effective life span of available insecticides is therefore a key challenge. Resistance management strategies (RMS) have been proposed and incorporated into policy guidance, yet their relative effectiveness remains poorly resolved. This review synthesizes the theoretical and empirical evidence for major RMS: mixtures, rotations, mosaics, high-dose/refuge, dose moderation, and release of susceptible males. Among these RMS, mixtures currently have the strongest support, with models consistently predicting delayed resistance evolution. Evidence for rotations is more limited and context dependent, while support for other strategies remains sparse or largely theoretical in mosquito systems. Many recommendations in current resistance management frameworks remain grounded more strongly in theory than in empirical evidence. Moreover, operational implementation is complicated by heterogeneous exposure, multiple sources of insecticide selection, and logistical constraints. As new insecticides enter operational use, empirical evidence and field-realistic models are urgently needed to guide their deployment and long-term protection.",
+    "species_latin": "",
+    "species_en": "Mosquito",
+    "species_zh": "蚊",
+    "takeaway": "综述蚊虫杀虫剂抗性治理策略，混合用药证据最强，多数策略仍缺实证支持。",
+    "conclusion": "混合用药在模型与证据上最能延缓蚊虫抗性进化，轮换效果依赖情境，其他策略多为理论。当前抗性治理框架偏重理论，且受暴露异质、多重选择压力和操作限制影响。新杀虫剂应用亟需实证与贴近田间的模型指导。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42753843",
+    "title": "Receptor-mediated membrane insertion of Cry1Ac triggers cell lysis and oligomeric state remodeling",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of biological macromolecules",
+    "authors": "Cui Z, Ding W, Pu M, Qin Y, Li W, Wang M, Ye S.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42753843",
+    "doi": "10.1016/j.ijbiomac.2026.154537",
+    "pmid": "42753843",
+    "abstract": "The precise insecticidal mechanism of Cry toxins remains elusive, and the structural architecture of their transmembrane pores has yet to be elucidated. In this study, we constructed a C-terminally truncated Cry1Ac mutant, termed Cry1AcNC, which retains the N-terminal domain and toxin core. Using negative-stain electron microscopy, we visualized a tetrameric pore-ring structure formed by Cry1AcNC. To examine the functional role of helix flexibility in pore formation, we introduced disulfide bonds between the α-1 and α-2 helices to restrict their mobility. Cytotoxicity assays using Sf9 cells heterologously expressing BmABCC2, a key Cry toxin receptor, revealed that the double-site mutant Cry1AcNCLI (L42C/I63C) was completely inactive, despite retaining its ability to localize to the plasma membrane. Furthermore, electron microscopy analysis showed that Cry1AcNC formed extensive aggregates both before and after cellular infection. Collectively, these findings provide direct experimental evidence that the α-1 helix participates in ABC transporter-mediated membrane insertion and pore formation through its translocation, thereby advancing our understanding of the molecular mechanism underlying Cry toxin pore assembly.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "截短Cry1Ac在BmABCC2受体介导下形成四聚体孔道，α-1螺旋易动性为膜插入与杀虫活性所必需。",
+    "conclusion": "Cry1AcNC可形成四聚体孔环结构；限制α-1/α-2螺旋活动的二硫键突变体虽能定位到质膜却完全丧失细胞毒性，表明α-1螺旋的转位参与ABC转运蛋白介导的膜插入与孔道形成，为Cry毒素穿孔机制提供直接证据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42752086",
     "title": "Protocol for telomere-to-telomere assembly of Borrelia genomes using a hybrid method",
     "type": "paper",
@@ -2365,6 +2417,32 @@
       "昆虫性别决定演化机制"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42750151",
+    "title": "Do mosquito insecticides harm beneficial mosquitoes? Evidence from Toxorhynchites rutilus septentrionalis (Diptera: Culicidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of medical entomology",
+    "authors": "Liu YT, Chang YC, Farooq M, Blore K, Diclaro JW, Xue RD, Qualls WA, Neoh KB.",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-09-18",
+    "url": "https://europepmc.org/article/MED/42750151",
+    "doi": "10.1093/jme/tjag149",
+    "pmid": "42750151",
+    "abstract": "Chemical interventions targeting mosquito vectors may unintentionally affect non-target beneficial mosquitoes occupying similar ecological niches. This study evaluated the susceptibility of the beneficial mosquito Toxorhynchites rutilus septentrionalis (Dyar & Knab) to commonly used mosquito control products at operational field rates and compared its responses with those of Aedes aegypti L. Two adulticides, permethrin-based Aqua-Kontrol 30-30 and bifenthrin-based Talstar P Professional, and 3 larvicides, Vectobac 12AS (Bacillus thuringiensis israelensis [Bti]), Natular DT (spinosad), and Altosid Pellets WSP (methoprene), were evaluated. Permethrin ultra-low-volume space spray caused complete mortality in both adult Ae. aegypti and Tx. r. septentrionalis within 1 h post-treatment. In contrast, the bifenthrin-based barrier treatment on foliage caused 100% mortality in Ae. aegypti up to 28 d after application, whereas Tx. r. septentrionalis adults survived despite exhibiting transient signs of pyrethroid-induced neurotoxicity. Larval susceptibility varied according to developmental stage and insecticide type. Bti caused rapid mortality in Ae. aegypti larvae, particularly, early instars of Tx. r. septentrionalis showed 50 to 92% mortality and late instars showed lower mortality (4 to 66%). Spinosad caused 84 to 100% mortality in both mosquito species within 72 h post-exposure, except in early instars of Tx. r. septentrionalis at the lowest concentration (14% mortality). Methoprene inhibited adult emergence in Ae. aegypti at the highest concentration but produced minimal effects on Tx. r. septentrionalis. These findings demonstrate that mosquito control products differ substantially in their non-target impacts on beneficial mosquitoes and highlight the importance of incorporating ecological risk assessments into integrated vector management programs.",
+    "species_latin": "Toxorhynchites rutilus septentrionalis",
+    "species_en": "Yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "评估常用灭蚊剂对益蚊 Toxorhynchites rutilus septentrionalis 的影响，发现其耐受性普遍高于埃及伊蚊。",
+    "conclusion": "不同灭蚊产品对益蚊的非靶标影响差异显著：拟除虫菊酯空间喷雾可致其完全死亡，但联苯菊酯滞留处理下益蚊成虫可存活；幼虫对 Bti、spinosad 和 methoprene 的敏感性随龄期和药剂而异，整体低于埃及伊蚊。结果提示综合媒介管理需纳入生态风险评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
