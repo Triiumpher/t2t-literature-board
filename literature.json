@@ -130,6 +130,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42759620",
+    "title": "Near-infrared fluorescence probe achieves the early diagnosis and efficacy assessment of pesticide-mediated liver injury by monitoring H2O2",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Free radical biology & medicine",
+    "authors": "Wang MX, Chen N, Chen M, Zhang XY, Guo X, Sun ST, Farag MA, Dong F, Li NY, Liu C.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/42759620",
+    "doi": "10.1016/j.freeradbiomed.2026.09.018",
+    "pmid": "42759620",
+    "abstract": "Recently, pesticide residues have become a serious environmental hazard due to the widespread employment of pesticides in agricultural production. With the continuous accumulation of pesticide in vivo, liver injury caused by pesticide metabolism has become a rapidly developing disease. Although pesticide-mediated liver injury (PMLI) has attracted extensive attention, its diagnosis and treatment still face serious challenges. Previous studies have indicated that PMLI is closely related to oxidative stress caused by pesticides, in which the abnormal level of hydrogen peroxide (H2O2) is a critical biomarker. Consequently, monitoring the H2O2 level is essential for the early diagnosis and efficacy assessment in PMLI. Based on the advantages of near-infrared fluorescence imaging technology, this study designed and synthesized a novel fluorescence probe (DOA-1) to real-time image H2O2 in PMLI. DOA-1 exhibited excellent imaging capacity toward exogenous and endogenous H2O2 in living cells and zebrafish models, with high sensitivity and selectivity. At the same time, DOA-1 was successfully applied to image H2O2 in pesticide-induced cells, zebrafish and mouse models, thereby confirming that oxidative stress was the main factor causing liver injury by pesticides. Furthermore, DOA-1 facilitated the efficacy assessment of flavonoid compounds, identifying that puerarin could effectively alleviate oxidative stress caused by pesticides. Molecular mechanism studies revealed that puerarin could ameliorate lipid peroxidation and fibrosis in PMLI by regulating Keap1-Nrf2 signaling pathway. Overall, this study provides a novel tool for diagnosing and assessing the impact of oxidative stress caused by pesticide residues on liver function.",
+    "species_latin": "Danio rerio, Mus musculus",
+    "species_en": "zebrafish, mouse",
+    "species_zh": "斑马鱼、小鼠",
+    "takeaway": "研究开发近红外荧光探针DOA-1，通过实时监测H2O2实现农药致肝损伤的早期诊断与疗效评估。",
+    "conclusion": "DOA-1可高灵敏、高选择性地成像细胞、斑马鱼和小鼠模型中农药诱导的H2O2，证实氧化应激是农药致肝损伤的主因；并据此评估出葛根素能通过调控Keap1-Nrf2通路减轻脂质过氧化与纤维化，为农药残留肝毒性诊断与干预评估提供了新工具。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42751723",
     "title": "Spatial Efficacy and Economic Return Evaluations of Soil Fumigation for &lt;i&gt;Agroathelia rolfsii&lt;/i&gt; Management in Florida Plasticulture Tomato Production",
     "type": "paper",
@@ -968,6 +994,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-37603665",
+    "title": "Mercaptan Toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "MED",
+    "authors": "Awosika AO, Schaffer DH.",
+    "publish_date": "2026-09-14",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/37603665",
+    "doi": "",
+    "pmid": "37603665",
+    "abstract": "Mercaptans, or thiols, are sulfur-containing compounds with a distinctive, unpleasant odor. Mercaptans are used in various industrial processes, including petroleum refining, chemical manufacturing, and pesticide production. Occupational exposure can occur through inhalation, dermal contact, or ingestion during the production, handling, or storage of mercaptan-containing substances. Methyl mercaptan, or methanethiol, inhibits cytochrome c oxidase within complex IV of the mitochondrial electron transport chain, reducing intracellular adenosine triphosphate (ATP) levels. Organs with high metabolic rates, such as the brain and heart, are particularly vulnerable to methyl mercaptan toxicity. Prolonged methyl mercaptan exposure can cause metabolic acidosis, primarily through increased lactate production from anaerobic metabolism. This activity focuses on the toxic effects of methyl mercaptan, one of the better-characterized mercaptan compounds.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "甲基硫醇通过抑制线粒体复合物IV的细胞色素c氧化酶,降低ATP并引发代谢性酸中毒。",
+    "conclusion": "硫醇类化合物广泛用于石油精炼、化工与农药生产,职业暴露可经吸入、皮肤接触或摄入发生。甲基硫醇抑制线粒体电子传递链复合物IV中的细胞色素c氧化酶,使细胞内ATP下降,高代谢器官如脑和心脏尤为易感;长期暴露因无氧代谢乳酸增多而导致代谢性酸中毒。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42746114",
     "title": "In silico analysis of MALAT1 and H19 lncRNA interactions with the diabetes-related proteins ASK1 and YAP1",
     "type": "paper",
@@ -1199,6 +1251,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42759450",
+    "title": "Immobilization mechanisms and transport fate of neonicotinoids in biochar-amended soils: insights into sorption-desorption hysteresis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of contaminant hydrology",
+    "authors": "Zhao J, Gong J, Li J, Hu Y, Tang S.",
+    "publish_date": "2026-09-13",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/42759450",
+    "doi": "10.1016/j.jconhyd.2026.105118",
+    "pmid": "42759450",
+    "abstract": "The widespread use of neonicotinoid pesticides, characterized by high water solubility and low soil adsorption, poses a significant threat to groundwater quality due to their high leaching potential. This study investigated the efficacy of biochar as a soil amendment for immobilizing thiamethoxam (TMX) and clothianidin (CLO). Through a combination of batch adsorption-desorption experiments and dynamic soil column studies, we demonstrate that biochar amendment induces strong and nearly irreversible sorption, increasing the soil's adsorption capacity by over 20-fold at a 3% application rate. The adsorption process was governed by chemisorption and best described by the pseudo-second-order kinetic and Freundlich isotherm models, indicating multi-mechanistic synergy including pore-filling and π-π interactions. Critically, column leaching and elution experiments identified a dosage threshold of ≥1% (w/w) biochar, which achieved complete interception of freshly applied pesticides and eliminated the mobilization risk of aged residues. Mechanistic analysis revealed that adsorption promoted the formation of larger, stabilized soil-biochar-pesticide aggregates, a key colloidal-scale process for co-immobilization. These findings underscore the potential of biochar as an effective in-situ strategy to mitigate the environmental mobility of neonicotinoids and protect water resources.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "生物炭改良土壤可强吸附新烟碱类农药,1%以上用量即可完全阻控其淋溶迁移。",
+    "conclusion": "生物炭通过化学吸附、孔隙填充与π-π作用等多机制协同,使噻虫嗪和噻虫胺在土壤中形成近不可逆吸附,吸附量提升逾20倍;柱淋溶实验表明≥1%(w/w)生物炭可完全拦截新施农药并消除老化残留的迁移风险,机制在于促进形成稳定的土壤-生物炭-农药团聚体。该策略可原位降低新烟碱类农药的环境迁移性,保护地下水资源。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
