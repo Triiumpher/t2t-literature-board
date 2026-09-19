@@ -1,5 +1,161 @@
 [
   {
+    "id": "title-larvaldietmediatedmorphologicaltraitandwolbachiadensityvaria",
+    "title": "Larval diet-mediated morphological trait and Wolbachia density variation in Wolbachia-transinfected (wMel and wAlbB) and Wolbachia-free Aedes aegypti mosquitoes",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Frontiers in insect science",
+    "authors": "Revi A, Gunasekaran Y, Pachalil Thiruvoth V, Ramasamy A, Arif W, Kuppusamy M, Venugopal D, Ebinezar K, Bakianathan E, Essoudasse A, Parandamane P, Vijayan A, Anbazhagan T, Nirmala Mary E, Ramkumar H, Shriram A, Rahi M.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-19",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "研究幼虫饮食如何影响转染wMel、wAlbB及无Wolbachia埃及伊蚊的形态性状与Wolbachia密度",
+    "conclusion": "幼虫饮食可调控埃及伊蚊的形态性状及体内Wolbachia密度，且这种影响在wMel与wAlbB两种转染品系及无Wolbachia蚊中可能存在差异，提示饮食—共生菌互作对蚊虫表型具有调节作用。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "title-conformationaldynamicsoffuzzyinterfacesindisorderedproteinco",
+    "title": "Conformational dynamics of fuzzy interfaces in disordered protein complexes: mapping key residues and binding modes beyond NMR models",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Frontiers in bioinformatics",
+    "authors": "Fernández M, Bastien M, Tavolaro F, Marino-Buslje C.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-19",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究无序蛋白复合物中模糊界面的构象动态，定位关键残基与结合模式。",
+    "conclusion": "该研究聚焦无序蛋白复合物中模糊界面，通过构象动力学分析识别关键残基并刻画NMR模型之外的结合模式，为理解无序蛋白识别机制提供新视角。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42758724",
+    "title": "Host-mediated insecticide sequestration in target-site-resistant pests impacts parasitoid fitness and evolution",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Liu Z, Feng T, Guo L, Zhou T, Luo Q, Zhang X, Qiao X, Huang J, Huang J.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/42758724",
+    "doi": "10.1073/pnas.2607769123",
+    "pmid": "42758724",
+    "abstract": "Insecticide resistance poses a major challenge to global pest management, yet its cascading effects on ecological networks remain poorly understood. Here, we show that target-site-resistant herbivorous insects can accumulate unmetabolized insecticides and inadvertently function as \"toxic prey,\" impairing the fitness of their natural enemies. Using neonicotinoid- and spinosyn-resistant Myzus persicae and genetically modified Drosophila melanogaster, we demonstrate that resistant hosts surviving high-dose insecticide exposure retain substantial poison residues that are transferred to developing parasitoids. This host-mediated exposure leads to reduced parasitoid emergence, shortened adult lifespan, and smaller body size, even persisting across generations. Moreover, we identify parallel evolution of resistance-conferring Rdl (resistance to dieldrin) mutations in multiple distantly related parasitoid species that target cyclodiene- and fipronil-resistant hosts. This mirrors the coevolutionary arms race seen in natural systems, where the same genetic mutations that allow herbivores to tolerate plant toxins also enable their predators to overcome those defenses. By uncovering a consequential route of insecticide exposure via trophic transfer, and the resulting coadaptation in higher trophic levels, our study offers critical insights into the ecological costs of resistance and highlights the need for pest management strategies that integrate both chemical and biological control sustainably.",
+    "species_latin": "Myzus persicae",
+    "species_en": "green peach aphid",
+    "species_zh": "桃蚜",
+    "takeaway": "抗药性蚜虫体内滞留杀虫剂，经食物链传递降低寄生蜂适合度并驱动其平行演化。",
+    "conclusion": "靶标抗性害虫取食高剂量杀虫剂后体内残留未代谢药剂，成为“有毒猎物”，使寄生蜂羽化率下降、寿命缩短、体型变小且跨代持续；同时多种寄生蜂独立演化出Rdl抗性突变以攻击抗性宿主，揭示抗药性的生态代价及化学与生物防治需协同。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42758569",
+    "title": "Functional assessment of the vascular and translaminar systemicity of insecticides in a cucumber-cotton aphid model",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Son MG, Tak JH.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/42758569",
+    "doi": "10.1093/jee/toag292",
+    "pmid": "42758569",
+    "abstract": "It is difficult to control insect pests with piercing-sucking mouthparts such as aphids due to their concealed feeding behavior and limited exposure to foliar-applied insecticides. Although systemic insecticides with internal translocation through plant tissues provide a practical alternative to contact-based strategies, they often suffer from uneven deposition and behavioral avoidance by pests. Furthermore, conventional assays used for investigating systemicity provide useful information on insecticide performance; however, their outcomes can reflect a combination of systemic translocation and other exposure-related factors, such as contact toxicity, phytotoxicity, and behavioral responses, thereby making it difficult to attribute effects to a specific mode of delivery. Therefore, to complement these approaches with more functionally resolved methods, we developed an integrated bioassay framework comprising a vascular sap-feeding assay to determine insecticide delivery through plant vascular tissues by providing extracted plant sap as the sole feeding source. In parallel, a translaminar gel-to-leaf assay based on κ-carrageenan ensured uniform and localized delivery of insecticides to evaluate their ability to penetrate leaf tissues. By incorporating phytotoxicity imaging based on the excess green index and chemical residue analysis (LC-MS/MS, GC-MS/MS), we could distinguish functional systemicity from superficial or edge-related exposure. Using a cucumber-cotton aphid model, we demonstrated that neonicotinoid and pyridazine pyrazolecarboxamide insecticides exhibited clear vascular and/or translaminar activity, whereas organophosphate, pyrethroid, and avermectin insecticides exhibited limited systemic delivery under the tested conditions. Overall, this integrated framework enables a more reliable interpretation of systemic insecticide performance by distinguishing vascular transport and translaminar penetration from phytotoxicity- or contact-driven effects.",
+    "species_latin": "Aphis gossypii",
+    "species_en": "Cotton aphid",
+    "species_zh": "棉蚜",
+    "takeaway": "研究用黄瓜-棉蚜模型建立整合生物测定法，区分杀虫剂的内吸传导与跨层穿透作用，发现新烟碱类和哒嗪吡唑酰胺类具明显内吸性。",
+    "conclusion": "该整合框架通过植物汁液饲喂、κ-卡拉胶跨层凝胶-叶片测定，结合药害成像与残留分析，可将功能性内吸传导与表面接触或药害效应区分开。在黄瓜-棉蚜模型中，新烟碱类和哒嗪吡唑酰胺类杀虫剂表现出明显的维管或跨层活性，而有机磷、拟除虫菊酯和阿维菌素类在测试条件下内吸递送有限，为更可靠评价内吸杀虫剂性能提供了方法。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42758559",
+    "title": "Monitoring of insecticide resistance and transcriptomic analysis of detoxification gene expression in field populations of Diaphorina citri (Hemiptera: Psyllidae) in China",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Zhang N, Chen C, Yu Y, Fan C, Gao S, Hu W.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/42758559",
+    "doi": "10.1093/jee/toag290",
+    "pmid": "42758559",
+    "abstract": "Diaphorina citri is one of the most destructive pests to global citrus production. Chemical control through insecticide application has traditionally served as the primary intervention strategy for suppressing D. citri populations. However, recent field observations from China have indicated diminishing control efficacy, suggesting potential resistance development. This study assessed insecticide resistance in 10 D. citri field populations from major citrus-producing provinces across the Guangxi-Hunan-Jiangxi region and characterized transcriptomic changes. Bioassays against 6 insecticides revealed variable resistance profiles. Chlorpyrifos resistance ranged from 9- to 16-fold across 9 of 10 populations, with Huichang showing the highest ratio (16-fold). The Ganxian population showed 6.1-fold thiamethoxam, 8.3-fold imidacloprid, and 14-fold chlorpyrifos resistance. Resistance to dinotefuran (0.75 to 3.2-fold), clothianidin (0.47 to 2.2-fold), and lambda-cyhalothrin (0.95 to 4.7-fold) remained low across all populations, as did resistance in the Nanfeng population to all 6 insecticides (RR₅。 = 0.47 to 2.7). Comparative transcriptomic analysis between the resistant Ganxian and minimally resistant Nanfeng populations revealed distinct gene expression profiles. In the Ganxian population, 19 cytochrome P450 genes, 3 glutathione S-transferase genes, and 1 UDP-glycosyltransferase gene were upregulated, and gene ontology enrichment analysis identified significant enrichment of oxidoreductase activity (false discovery rate < 0.05). Quantitative real-time polymerase chain reaction validation across 4 populations confirmed that CYP4C1, GSTT1, and UGT2B9 expression was broadly consistent with resistance phenotypes, though these associations remain correlative pending functional validation. These findings provide region-specific baseline data to support targeted, population-specific resistance management for D. citri in one of China's most important citrus-producing regions.",
+    "species_latin": "Diaphorina citri",
+    "species_en": "Asian citrus psyllid",
+    "species_zh": "柑橘木虱",
+    "takeaway": "中国柑橘产区10个柑橘木虱田间种群对6种杀虫剂抗性差异明显，抗性种群中P450、GST和UGT解毒基因上调。",
+    "conclusion": "柑橘木虱田间种群对毒死蜱普遍产生9–16倍抗性，甘县种群对噻虫嗪、吡虫啉和毒死蜱抗性突出，而呋虫胺、噻虫胺和高效氯氟氰菊酯抗性仍低。抗性种群中多个P450、GST及UGT基因上调，CYP4C1、GSTT1和UGT2B9表达与抗性表型一致，提示解毒代谢增强参与抗性，但尚需功能验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42751723",
+    "title": "Spatial Efficacy and Economic Return Evaluations of Soil Fumigation for &lt;i&gt;Agroathelia rolfsii&lt;/i&gt; Management in Florida Plasticulture Tomato Production",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plant disease",
+    "authors": "Panwala R, Colee J, Hammami AM, Martins S, Vallad GE.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/42751723",
+    "doi": "10.1094/pdis-05-26-0894-re",
+    "pmid": "42751723",
+    "abstract": "Agroathelia rolfsii ( A. rolfsii ), the causal agent of southern blight (SB) of tomato, is a soilborne fungal pathogen that produces sclerotia to survive during fallow periods and is commonly managed with pre-plant soil fumigation in commercial tomato production. However, fumigant efficacy against A. rolfsii sclerotia distributed throughout raised bed soil profiles and the economic return of fumigant inputs have not been assessed for currently available fumigant systems. Across four trials, this study evaluated the efficacy of three fumigant treatments against A. rolfsii sclerotia distributed at different soil depths and placements, on SB disease incidence, and marginal economic returns in a plasticulture fresh-market tomato system. Treatments included the grower-standard chloropicrin and 1,3,-dichloropropene (Pic-Clor) applied at the bed base, metam potassium (Kpam) applied in the top half of the bed, and a combination treatment (Pic-Clor+Kpam). Beds treated with Pic-Clor+Kpam saw 2-3% sclerotia survival across all burial depths and placements, compared to the grower's standard, Pic-Clor, which had 11% recovery at 1.5 cm and 5% at 10 cm depths. Across all seasons, Pic-Clor+Kpam and Pic-Clor limited disease incidence below 2% and 4% respectively, compared to 9% for Kpam and 43% for the nonfumigated control. All fumigant treatments returned at least $20,000/hectare more than the nonfumigated control during high disease pressure seasons. Moreover, both Pic-Clor alone and Pic-Clor+Kpam returned $25,0000/hectare, suggesting that the additional cost of Kpam was not justified based on marginal economic return when only considering disease management. While additional bed-top Kpam application does lower surviving inoculum levels and improves SB disease management compared to Pic-Clor alone, the prospect of limiting other pesticidal applications may be needed to justify the additional cost as marginal returns are comparable across systems.",
+    "species_latin": "Solanum lycopersicum",
+    "species_en": "Tomato",
+    "species_zh": "番茄",
+    "takeaway": "在佛罗里达覆膜番茄中，土壤熏蒸可有效控制南方枯萎病，但加用Kpam虽降低菌核存活却未提升经济回报。",
+    "conclusion": "三种熏蒸处理均显著降低南方枯萎病发病率并带来高于未熏蒸对照的经济收益；Pic-Clor+Kpam对菌核杀灭最彻底、防病最佳，但在仅考虑病害管理时其边际收益与单用Pic-Clor相当，额外成本难以回本，需通过减少其他农药投入来体现其价值。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42752221",
     "title": "The Chlamydia trachomatis effector CT226 directly engages LRRFIP1 to recruit a multiprotein complex that limits inclusion size and progeny production",
     "type": "paper",
@@ -22,7 +178,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +230,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -100,7 +256,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +282,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42747655",
+    "title": "Oral RNAi in Euschistus heros: Evaluation of Gene Silencing Using Cationic Polymer-Stabilized dsRNA",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Neotropical entomology",
+    "authors": "Quiroga-Murcia DE, De Barros DR, De Schutter K, Zotti MJ.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-19",
+    "url": "https://europepmc.org/article/MED/42747655",
+    "doi": "10.1007/s13744-026-01440-4",
+    "pmid": "42747655",
+    "abstract": "Euschistus heros, a key pest of soybean in the Neotropical region, represents a growing challenge to sustainable agricultural production. With the urgent need for more targeted and environmentally safe control strategies, RNA interference (RNAi) emerges as an innovative tool. This study investigated the gene-silencing potential of RNAi targeting V-ATPase and act, two genes involved in essential cellular processes. The sensitivity of E. heros to RNAi in adult and immature stages was evaluated by microinjection of dsRNA, as well as the ex-vivo degradation of double-stranded RNA (dsRNA) by nucleases present in saliva and hemolymph. Additionally, an oral delivery strategy based on conjugation of dsRNA to a cationic polymer was studied. Microinjection of dsRNA resulted in high sensitivity, particularly in immature individuals, and induced strong gene-silencing effects associated with increased mortality. Intense nucleolytic activity was detected in saliva, underscoring the need for protective carriers for dsRNA. Oral exposure to conjugated dsRNA effectively protected the molecules from enzymatic degradation and, in addition, exhibited effects on insect survival and gene expression. These findings highlight the strong sensitivity of E. heros to dsRNA delivered by microinjection and underscore the potential of RNAi approaches for the development of tailor-made bio-insecticides, while emphasizing the need to refine delivery strategies to fully realize their practical applications in agricultural pest management.",
+    "species_latin": "Euschistus heros",
+    "species_en": "Neotropical brown stink bug",
+    "species_zh": "英雄蝽(新热带区大豆蝽)",
+    "takeaway": "研究以V-ATPase和act为靶标,发现Euschistus heros对注射dsRNA高度敏感,阳离子聚合物偶联可保护口服dsRNA并影响存活与基因表达。",
+    "conclusion": "微小注射dsRNA在若虫期诱导最强基因沉默并提高死亡率;唾液和血淋巴中核酸酶活性强,说明裸dsRNA易降解。将dsRNA与阳离子聚合物偶联后口服,可抵抗酶解并影响昆虫存活和基因表达,表明RNAi有望用于定制化生物杀虫剂,但需优化递送策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
