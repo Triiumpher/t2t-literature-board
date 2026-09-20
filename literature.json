@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42762127",
+    "title": "T2T genome assembly and CRISPR/Cas9 editing of Medicago lupulina",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Journal of integrative plant biology",
+    "authors": "Yuan Q, Li C, Wang G, Dai W, Eerdungaridi, Wu D, Fan Q, Yang Y, Duan Y, Sun X.",
+    "publish_date": "2026-09-19",
+    "added_at": "2026-09-20",
+    "url": "https://europepmc.org/article/MED/42762127",
+    "doi": "10.1111/jipb.70401",
+    "pmid": "42762127",
+    "abstract": "A complete, gap-free genome of Medicago lupulina, a tough, high-protein forage legume, and a gene-editing tool for this species, which was used to alter its leaf shape, provide key resources for improving alfalfa and breeding better forage crops for high-altitude environments.",
+    "species_latin": "Medicago lupulina",
+    "species_en": "black medick",
+    "species_zh": "黑苜蓿",
+    "takeaway": "研究完成黑苜蓿无间隙T2T基因组组装并建立CRISPR/Cas9编辑体系，成功改变叶形。",
+    "conclusion": "该工作提供了黑苜蓿完整基因组与基因编辑工具，并通过编辑改变叶片形态，为改良紫花苜蓿及培育适应高海拔的优质饲草作物奠定资源基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42762846",
+    "title": "AASIA: A comprehensive protein structural interactome database for agricultural animals",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of advanced research",
+    "authors": "Li J, Yuan M, Jiang L, Li D, Yin Z, Zhu F, Shi W, Hou Z, Zhang Z.",
+    "publish_date": "2026-09-19",
+    "added_at": "2026-09-20",
+    "url": "https://europepmc.org/article/MED/42762846",
+    "doi": "10.1016/j.jare.2026.09.015",
+    "pmid": "42762846",
+    "abstract": "INTRODUCTION: Agricultural animals are essential for global food production and sustainable agriculture. Improving disease resistance and economically important traits is critical for ensuring food security. Proteome-wide protein-protein interactions (PPIs), termed as interactomes, underlie key biological processes in cells, making them critical for deciphering the genome-phenome relationship. However, species-specific PPI resources remain limited for most agricultural animals. OBJECTIVES: Motivated by the rapid development of deep learning and breakthroughs in AI-driven protein structure prediction, we attempted to develop an integrated structural interactome resource for agricultural animals. METHODS: We predicted species-specific interactomes through an integrative prediction pipeline that combines interolog mapping, domain-domain interaction inference, and deep learning. The 3D complex structures of all predicted PPIs were further generated using ESMFold. RESULTS: We established AASIA (Agricultural Animals Structural Interactome Atlas; https://aasia.zzdlab.com), a user-friendly database comprising 410,421 high-confidence PPIs and corresponding complex structures across five key species, including Anas platyrhynchos, Bos taurus, Gallus gallus, Ovis aries, and Sus scrofa. CONCLUSIONS: AASIA provides the first proteome-scale structural interactome resource for five key agricultural animals. By integrating interaction prediction with structural modeling, it enables mechanistic insight into agriculturally relevant traits and supports applications in variant interpretation, multi-omics integration, and molecular breeding.",
+    "species_latin": "Anas platyrhynchos, Bos taurus, Gallus gallus, Ovis aries, Sus scrofa",
+    "species_en": "duck, cattle, chicken, sheep, pig",
+    "species_zh": "鸭、牛、鸡、绵羊、猪",
+    "takeaway": "研究构建了AASIA数据库，整合深度学习与结构预测，为五种农业动物提供全蛋白质组结构互作组资源。",
+    "conclusion": "AASIA是首个覆盖五种关键农业动物的蛋白质组规模结构互作组数据库，通过整合种间映射、结构域互作推断与深度学习预测，并结合ESMFold生成复合物三维结构，为解析农业性状机制、变异解读、多组学整合与分子育种提供支撑。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42762872",
+    "title": "Nano-enabled RNA interference at the plant-virus interface: antiviral mechanisms, nanocarrier delivery and translational challenges",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Microbial pathogenesis",
+    "authors": "Ali A.",
+    "publish_date": "2026-09-19",
+    "added_at": "2026-09-20",
+    "url": "https://europepmc.org/article/MED/42762872",
+    "doi": "10.1016/j.micpath.2026.108834",
+    "pmid": "42762872",
+    "abstract": "Viral diseases remain among the most difficult constraints in horticultural crops because they reduce yield, impair market quality, persist in vegetatively propagated material and are intensified by mixed infections, insect vectors and climate-driven shifts in disease epidemiology. Conventional measures, including resistant cultivars, sanitation, vector management, pesticide use and virus-free planting material, remain essential but often lack the precision and flexibility required for rapidly evolving plant-virus pathosystems. RNA interference (RNAi) provides a sequence-specific antiviral strategy by converting viral or exogenously supplied double-stranded RNA into small interfering RNAs that guide Argonaute/RISC complexes toward complementary viral transcripts. Nevertheless, naked RNA molecules are constrained by poor environmental stability, inconsistent uptake across plant surfaces and tissues, transient persistence, cost barriers and regulatory uncertainty. The central translation gap, however, is not whether SIGS can can function under controlled conditions, but whether laboratory efficacy can be converted into field stable, scalable formulations that retaion RNA on foliage, with UV exposure, rainfall, and nuclease degradation, faciliate entry into relevant tissues, and provide reproducible antiviral activity across crops. Nanotechnology can address these limitations by protecting dsRNA/siRNA cargoes, improving foliar and cellular delivery, enabling controlled release and supporting antiviral activity through immunomodulatory or direct nanoparticle effects. This review synthesizes current knowledge on plant virus infection and movement, host-virus interactions, antiviral RNAi pathways, viral RNAi suppressors, nanocarrier systems for RNA delivery, direct antiviral nanoparticles, postharvest integration, biosafety and regulatory considerations, and emerging opportunities in multi-virus targeting and AI-guided design. Rather than treating all nanocarrier systems as equivalently mature, the review critically compares their evidence base, biological versus formulation-driven limitations, and position along the laboratory-to-field translation pathway. The review proposes a practical translational framework in which nano-enabled RNAi is developed through mechanism-informed target selection, formulation optimization, field validation, monitoring and farmer-ready deployment for sustainable plant virus management.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述纳米载体递送RNAi防控植物病毒，强调实验室效力向田间稳定可扩展制剂转化的关键瓶颈。",
+    "conclusion": "RNAi可序列特异性地抗病毒，但裸RNA稳定性差、摄取不均、持效短且成本与监管受限。纳米载体能保护dsRNA/siRNA、改善叶面与细胞递送并实现控释，还可借免疫调节或纳米颗粒直接抗病毒。核心挑战在于把实验室效力转化为田间稳定、可扩展、可重复的制剂，而非SIGS本身能否起效。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "title-larvaldietmediatedmorphologicaltraitandwolbachiadensityvaria",
     "title": "Larval diet-mediated morphological trait and Wolbachia density variation in Wolbachia-transinfected (wMel and wAlbB) and Wolbachia-free Aedes aegypti mosquitoes",
     "type": "paper",
@@ -2619,6 +2697,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42762542",
+    "title": "Thiram-induced oxidative, genotoxic, and biochemical alterations in Pangasius fish: Implications for aquatic toxicology",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "authors": "Shaukat A, Faisal S, Fatima I, Hussain R, Mahmood Y, Momenah MA, Ahmed AE, Aljazzar A, Hazzazi Y, Sumayli M, Mehmood K.",
+    "publish_date": "2026-09-06",
+    "added_at": "2026-09-20",
+    "url": "https://europepmc.org/article/MED/42762542",
+    "doi": "10.1016/j.aquatox.2026.108012",
+    "pmid": "42762542",
+    "abstract": "The widespread use of thiram in agriculture, veterinary practices, and in pharmaceutical industries as an antifungal agent has raised significant concerns regarding its unexpected ecotoxicological impacts on non-target aquatic organisms. This study assessed the mechanisms of induction of oxidative stress, genotoxicity, biochemical alterations in tissues, and histopathological disorders of thiram in pangasius fish reared in various groups (A-D) and subjected to 5, 10, and 15 µg/L concentrations of thiram for 12 days. Visceral organs, including liver, heart, kidneys, muscles, and brain, were obtained on days 4, 8, and 12th of the experiment for assessment of antioxidant enzymes, oxidative stress biomarkers, DNA damage, and histological changes. Results showed a significant depletion (P≤0.05) in activities/concentrations of antioxidant enzymes such as superoxide dismutase (SOD), catalase (CAT), peroxidase (POD), and reduced glutathione (GSH) in all visceral organs (liver, kidneys, heart, muscles, and brain) of fish treated with higher doses of thiram. The results on the activity of acetylcholinesterase (AChE), a biomarker of neurotoxicity, significantly increased in fish exposed to thiram (15 µg/L) when compared to untreated fish. The levels of reactive oxygen species (ROS) and Thiobarbituric acid reactive substances (TBARS) were significantly enhanced in visceral organs in treated fish at higher concentrations (15 µg/L) of thiram. Genotoxicity assessment via the comet assay demonstrated significantly elevated DNA fragmentation in all organs at day 12 of the experiment in fish exposed to thiram (15 µg/L). The histopathological analysis revealed prominent changes in liver (necrosis of hepatocytes, inflammatory exudate, increased sinusoidal space, nuclear atrophy and vacuolation), kidneys (inflammatory infiltration; dilatation of Bowman's space, necrosis of renal tubules, atrophy of glomerulus, necrosis of tubular epithelial cells and melanomacrophage aggregates), heart (myocardial degeneration and edema; disruption of muscles fibers and necrotic myocytes) and brain (degeneration of neuron, eccentric nuclei of neurons, inflammatory reaction and vacuolation). These findings highlight the potential risks of thiram contamination in aquatic ecosystems and emphasize the need for regulatory evaluation and safer pesticide management practices.",
+    "species_latin": "Pangasius pangasius",
+    "species_en": "Pangasius catfish",
+    "species_zh": "鲶鱼（Pangasius属）",
+    "takeaway": "福美双暴露使鲶鱼内脏抗氧化酶耗竭、ROS与TBARS升高、DNA断裂并致组织病变",
+    "conclusion": "福美双对非靶标鲶鱼具有氧化应激、遗传毒性和组织病理损伤效应，且呈剂量与时间依赖性；抗氧化酶耗竭、ROS与TBARS升高、AChE活性改变及多器官坏死性病变提示其水生生态风险，可作为水生毒理学生物标志物依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -8615,6 +8719,32 @@
     "conclusion": "TFM与1% niclosamide混合时，总暴露浓度>1 TU表现为协同（死亡率>50%），<1 TU为拮抗，呈浓度依赖性。协同浓度接近野外使用值，肌肉中TFM积累增加而肝脏未增加，提示两者竞争肝脏解毒酶，解释了niclosamide增强TFM毒性的机制。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42235865",
+    "title": "Argonaute protein and small RNA expression patterns in Spodoptera frugiperda (Lepidoptera, Noctuidae)",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Gene",
+    "authors": "Seninet I, Gasser M, Gimenez S, Legeai F, Durand K, Nam K, Nègre N, Duvic B, d'Alençon E.",
+    "publish_date": "2026-06-02",
+    "added_at": "2026-09-20",
+    "url": "https://europepmc.org/article/MED/42235865",
+    "doi": "10.1016/j.gene.2026.150245",
+    "pmid": "42235865",
+    "abstract": "PIWI-interacting RNAs (piRNAs) and PIWI proteins were initially described as playing a role in gametogenesis and maintaining genome integrity by controlling transposable elements (TEs). Expressed also in the soma and able to regulate protein coding gene expression, they are involved in multiple biological pathways, including host-pathogens interaction, sex determination and reproductive isolation. Spodoptera frugiperda (Sf) is a major invasive insect pest species consisting of two strains with distinct host-plant ranges. To identify which pathway was regulated by piRNAs in this species, we characterized proteins and genomic regions involved in their biogenesis, as well as TE and gene transcripts regulated. By phylogenetic analysis, we identified two new Piwi genes conserved in the genus Spodoptera, compared to the Lepidopteran model Bombyx mori, one more than in Drosophila. One of them, more expressed in the gonads than in the soma, could be a functional homolog of Drosophila PIWI or replace AGO3. A pool of 11 sRNA-Seq libraries was used to annotate piRNA clusters with ShortStack in the genomes of the two Sf strains. Identification of TE targeted by putative piRNAs revealed that active transposons may differ between the two Sf strains, despite a similar TE content, as a putative cause or consequence of reproductive isolation. GO analysis of genes targeted by piRNAs shows that some are involved in protein translation initiation. A piRNA cluster in the Masc gene suggests that sex determination is regulated by piRNAs. Our analysis contributes to functional annotation of the Sf strains genomes and supports additional roles than silencing of transposable elements for piRNAs.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "研究草地贪夜蛾两种品系的Argonaute蛋白与piRNA表达，发现两个新Piwi基因及品系间活跃转座子差异。",
+    "conclusion": "草地贪夜蛾基因组编码两个在Spodoptera属中保守的新Piwi基因，其中一个在性腺高表达，可能功能上替代果蝇PIWI或AGO3。两品系虽转座子含量相似，但活跃转座子不同，可能是生殖隔离的原因或结果。piRNA靶向基因涉及翻译起始，且Masc基因中的piRNA簇提示其参与性别决定，表明piRNA功能不限于沉默转座子。",
+    "keywords": [
+      "昆虫性别决定演化机制"
     ],
     "via": "PubMed",
     "llm_enhanced": true
