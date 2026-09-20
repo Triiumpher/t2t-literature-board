@@ -74,7 +74,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -100,7 +100,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +126,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -152,7 +152,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42757236",
+    "title": "DDT and Its Metabolites in Two Marine Dried Fish Species From Bangladesh: Residue Levels, Distribution Patterns, and Health Risk Assessment",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food science & nutrition",
+    "authors": "Ghosh OK, Islam MM, Nesa F, Hasan MS, Abid AA, Arham SAA, Shoeb M, Mamun MIR.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-20",
+    "url": "https://europepmc.org/article/MED/42757236",
+    "doi": "10.1002/fsn3.72286",
+    "pmid": "42757236",
+    "abstract": "Pesticide contamination in dried fish presents a great food safety concern in Bangladesh. This study investigated the status of DDT and its metabolite levels in ninety-six samples of two commercially available and widely consumed dried fish species, Harpadon nehereus and Trichiurus lepturus , collected across the country. The samples were extracted using the solid-phase dispersion technique and analyzed by GC-ECD. The analytical methodology showed excellent sensitivity and linearity with LOD ranging from 0.30 to 0.39 μg/kg, LOQ from 0.92 to 1.18 μg/kg, and regression coefficient ( R 2 ) ≥ 0.9991. The parent pesticide, 4,4'-DDT, was found in 10 out of 96 samples, with concentrations spanning from 1.41 to 11.02 μg/kg. The two metabolites, 4,4'-DDE and 4,4'-DDD, were more frequently detected among the analyzed specimens, with total DDTs (ΣDDTs) reaching up to 29.40 μg/kg. The contamination pattern and the proportion of 4,4'-DDT to ΣDDTs suggested historical exposure to DDT in the food chain rather than recent application. The health risk assessment demonstrated no potential non-carcinogenic risk, as the hazard quotient remained well below the threshold limit ( -6 ); however, a few samples ( n = 7) showed elevated cumulative exposure (ΣILCR) but were still confined within the tolerable risk boundary (1 × 10 -6 to 1 × 10 -4 ) set by USEPA. The study provides a key insight into the current DDT contamination scenario in dried fish and aids policymakers in formulating effective and science-driven food safety legislation in Bangladesh.",
+    "species_latin": "Harpadon nehereus, Trichiurus lepturus",
+    "species_en": "Bombay duck, Largehead hairtail",
+    "species_zh": "龙头鱼、带鱼",
+    "takeaway": "孟加拉国两种常见干鱼中检出DDT及其代谢物,残留提示历史暴露,健康风险总体可控。",
+    "conclusion": "研究检测了孟加拉国两种市售干鱼中DDT及代谢物残留,发现以代谢产物DDE和DDD为主,总DDT最高达29.40 μg/kg,污染特征指向食物链的历史性暴露而非近期施用。健康风险评估显示非致癌风险很低,个别样本累积致癌风险升高但仍在美国EPA可接受范围内,为当地干鱼食品安全监管提供了科学依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -360,7 +386,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1276,7 +1302,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
