@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42764124",
+    "title": "A Novel L932F mutation in the Voltage-Gated Sodium Channel associated with Deltamethrin Resistance in Aedes aegypti (Diptera: Culicidae) from Southern Taiwan",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta tropica",
+    "authors": "Tsai IJ, Chung HH, Itokawa K, Komagata O, Kasai S, Chen SL.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-21",
+    "url": "https://europepmc.org/article/MED/42764124",
+    "doi": "10.1016/j.actatropica.2026.108331",
+    "pmid": "42764124",
+    "abstract": "Aedes aegypti is a primary vector for major arboviruses such as dengue, Zika, and chikungunya, imposes a significant disease burden in tropical and subtropical regions. The widespread application of pyrethroid insecticides for vector control has led to the global dissemination of knockdown resistance (kdr) mutations, a major resistance mechanism. Continuous surveillance of kdr mutations is therefore essential to inform and optimize vector control strategies. To characterize the kdr profile, we first employed targeted capture sequencing on 12 individual mosquitoes from three field-derived strains collected in Taiwan in 2021. Subsequently, direct Sanger sequencing was performed on 99 mosquitoes field-collected in 2024. Furthermore, topical bioassay using a series of deltamethrin concentrations were conducted on 200 mosquitoes, followed by direct sequencing to link resistance phenotypes to specific genotypes. A characterized insecticide-susceptible strain (KHSM) served as a control. We identified a novel leucine to phenylalanine substitution at position 932 (L932F) in the voltage-gated sodium channel (VGSC) of Aedes aegypti in Taiwan. The emerging mutant was initially detected in a strain carrying the double kdr genotype (S989P and V1016G) and was subsequently detected in field population across Southern Taiwan, with its presence confirmed in archived samples dating from 2020-2022. The mutation was crucially associated with reduced susceptibility to deltamethrin in topical bioassays. This study provides the first report of the L932F kdr mutation in Ae. aegypti, indicating the emergence of a novel mutation in Taiwanese populations. Furthermore, the L932F mutation may contribute to reduced deltamethrin susceptibility, even in triple-mutant individuals co-harboring the well-established S989P and V1016G resistance alleles.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "Yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "台湾南部埃及伊蚊中发现新型L932F钠通道突变，与溴氰菊酯抗性降低相关。",
+    "conclusion": "研究首次报道埃及伊蚊电压门控钠通道L932F突变，该突变在携带S989P和V1016G双突变的虫株中出现，并已扩散至台湾南部野外种群，与溴氰菊酯敏感性下降相关，提示需持续监测kdr突变以优化媒介控制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42762127",
     "title": "T2T genome assembly and CRISPR/Cas9 editing of Medicago lupulina",
     "type": "paper",
@@ -22,7 +48,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -48,7 +74,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +100,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
