@@ -1,5 +1,135 @@
 [
   {
+    "id": "pmid-42766042",
+    "title": "Formulation-dependent sugar regulation enhances biofilm-mediated stability and bioactivity of Bacillus thuringiensis formulations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "World journal of microbiology & biotechnology",
+    "authors": "Chen L, Ke W, Su H, Wang Z, Mao Y, Su Z, Zhang L, Guo Y, Hong X, Ye H, Feng R, Luo L, Lin F, Huang T.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-22",
+    "url": "https://europepmc.org/article/MED/42766042",
+    "doi": "10.1007/s11274-026-05280-7",
+    "pmid": "42766042",
+    "abstract": "Sugars are important carbon sources involved in microbial growth and functional regulation. However, how sugars with different structural characteristics regulate microbial pesticide performance in complex formulation systems remains unclear. In this study, Bacillus thuringiensis (Bt) formulations were used to systematically evaluate the effects of different sugars on functional traits. The results showed pronounced type-dependent regulatory effects. Sugars with distinct structural features modulated biofilm formation by affecting cell adhesion and extracellular polysaccharide production. An optimized sugar combination increased biofilm yield by approximately tenfold. Certain sugars further enhanced UV tolerance and insecticidal activity. For example, pectin increased the survival rate of suspension concentrates by 5.3-fold after 4 h of UV exposure, while glucose, glycerol, and maltose improved insecticidal activity by 2.72-3.91-fold. Further analysis indicated that sugar structural characteristics are critical determinants of their regulatory effects, influencing bacterial surface interactions and the microenvironment. This biofilm-centered mechanism showed consistency across different formulation types. Overall, this study provides new insights into the development of stable and efficient Bt-based biopesticides.",
+    "species_latin": "Bacillus thuringiensis",
+    "species_en": "Bacillus thuringiensis",
+    "species_zh": "苏云金芽孢杆菌",
+    "takeaway": "不同结构糖类通过调控生物膜形成，提升苏云金芽孢杆菌制剂的稳定性和杀虫活性。",
+    "conclusion": "糖类结构特征决定其对Bt制剂的调控效果，通过影响细胞黏附与胞外多糖产生促进生物膜形成，优化糖组合可使生物膜产量提高约十倍，并增强紫外耐受性和杀虫活性，该机制在不同剂型中一致，为高效稳定Bt生物农药开发提供新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42764498",
+    "title": "Inheritance and stability of Cry2Ab2 resistance in an Ostrinia nubilalis strain originating from Wisconsin, U.S",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Dwyer T, Wang Y, Head GP, Yang F.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-22",
+    "url": "https://europepmc.org/article/MED/42764498",
+    "doi": "10.1002/ps.71336",
+    "pmid": "42764498",
+    "abstract": "BACKGROUND: Transgenic corn expressing insecticidal proteins from the bacterium Bacillus thuringiensis (Bt), including Cry1Ab, Cry1Fa and/or Cry1A.105/Cry2Ab2, has been used to control Ostrinia nubilalis since 1996. Extensive reliance on Bt corn has led to practical resistance of O. nubilalis to Cry1 Bt corn in Canada and at one location in the U.S. between 2018 and 2024. Understanding the inheritance and stability of insect resistance is essential for the sustainability of Bt technology. Here, we characterized the inheritance of Cry2Ab2 resistance in an O. nubilalis strain derived from insects collected in Wisconsin, USA and evaluated the stability of this resistance over 17 generations in the absence of Cry2Ab2 selection pressure. RESULTS: Survival of Cry2Ab2-susceptible (SS), -resistant (RR), reciprocal cross and backcross strains in diet-overlay bioassays showed that Cry2Ab2 resistance in RR was not influenced by maternal effects or sex linkage. Both Stone's dominance D and effective dominance (DML) values indicated that the resistance is functionally recessive. χ2 tests comparing expected and observed mortality in F2 and backcross strains support a Mendelian monogenic mode of inheritance. Stability tests showed no significant differences in survival of RR at any Cry2Ab2 concentration in the first, sixth and seventeenth generations. CONCLUSION: Results of this study indicate that resistance to Cry2Ab2 in O. nubilalis is autosomal, functionally recessive, controlled by a single gene, and stable. These findings will improve our understanding of the risks associated with Cry2Ab2 resistance and support the development of effective strategies for the proactive management of Bt resistance in O. nubilalis. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Ostrinia nubilalis",
+    "species_en": "European corn borer",
+    "species_zh": "欧洲玉米螟",
+    "takeaway": "美国威斯康星州欧洲玉米螟对Cry2Ab2的抗性为常染色体单基因隐性遗传且稳定。",
+    "conclusion": "该欧洲玉米螟品系的Cry2Ab2抗性不受母体效应或性连锁影响，呈功能性隐性，由单基因按孟德尔方式控制；在无选择压下经17代仍保持稳定。这有助于评估抗性风险并制定Bt抗性治理策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42764377",
+    "title": "Agricultural practices drive multifactorial pyrethroid resistance in Anopheles coluzzii populations from southern Benin",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tropical medicine and health",
+    "authors": "Boko MP, Tokponnon F, Ahouandjinou MJ, Diloma SD, Hougbe SZ, Affolabi ZK, Dabou ZS, Fassinou AJ, Sagbohan H, Towakinou L, Vigninou E, Houndeton CS, Dayou SE, Namountougou M, Ossé RA, Akogbéto MC.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-22",
+    "url": "https://europepmc.org/article/MED/42764377",
+    "doi": "10.1186/s41182-026-01081-8",
+    "pmid": "42764377",
+    "abstract": "BACKGROUND: The rapid spread of insecticide resistance threatens the effectiveness of malaria vector control across sub-Saharan Africa. In southern Benin, the respective contributions of agricultural pesticide use and urban vector control interventions to the selection of resistant Anopheles populations remain poorly documented. METHODS: Pyrethroid resistance was investigated in Anopheles coluzzii populations collected in southern Benin from two zones: two agricultural areas (Sèmè-Kpodji and Abomey-Calavi) and one non-agricultural urban area (Yenawa). WHO tube bioassays were performed using deltamethrin (0.05%) and alpha-cypermethrin (0.05%). Molecular species was conducted using PCR-SINE200, whereas the kdr-West (L1014F) mutation was genotyped by PCR. The activities of cytochrome P450 monooxygenases, esterases, and glutathione S-transferases (GSTs) were quantified, while the expression levels of CYP6Z1, CYP9K1, and GSTE2 were measured by RT-qPCR. RESULTS: All populations exhibited confirmed resistance to both pyrethroids, with mortality rates ranging from 78% to 82% for deltamethrin and from 36% to 89% for alpha-cypermethrin. Resistance to alpha-cypermethrin was markedly greater in agricultural areas, particularly in Sèmè-Kpodji (36%) and Abomey-Calavi (52%), than in Yenawa (89%). Molecular analyses identified Anopheles coluzzii as the sole species detected (100%). The resistant kdr-west allele occurred at high frequencies, ranging from 73.3% to 93.3%, and no susceptible homozygotes were observed. Biochemical assays revealed significantly elevated CYP450, GST, and esterase activities, especially in Sèmè-Kpodji and Yenawa, indicating the contribution of metabolic detoxification mechanisms. In contrast, RT‒qPCR revealed no overexpression of CYP6Z1, CYP9K1, or GSTE2 relative to the susceptible N'Gousso strain (fold-change values of 0.26-0.58, 0.06-0.21, and 0.03-0.06, respectively), despite significant inter-population differences in transcript levels. CONCLUSIONS: Pyrethroid resistance in Anopheles coluzzii from southern Benin is widespread and multifactorial, involving both the near-fixation of the kdr-west mutation and increased detoxification enzyme activities. The stronger phenotypic resistance observed in agricultural areas highlights the role of agricultural pesticide exposure, whereas elevated kdr resistance markers at urban sites indicate additional selection pressure from public health and domestic insecticide use. These findings underscore the urgent need for integrated resistance management strategies that combine agricultural pesticide regulation, continuous resistance surveillance, and deployment of next-generation vector control tools.",
+    "species_latin": "Anopheles coluzzii",
+    "species_en": "Anopheles coluzzii",
+    "species_zh": "科鲁兹按蚊",
+    "takeaway": "贝宁南部按蚊对拟除虫菊酯普遍抗性，农业区抗性更强，由kdr突变与解毒酶活性共同驱动。",
+    "conclusion": "贝宁南部Anopheles coluzzii对两种拟除虫菊酯均产生抗性，农业区alpha-cypermethrin抗性显著高于城市区。抗性呈多因子特征：kdr-west突变接近固定（73.3%-93.3%），且CYP450、GST和酯酶活性升高，提示代谢解毒参与，但CYP6Z1、CYP9K1、GSTE2未过表达。农业实践是抗性选择的重要驱动力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42764437",
+    "title": "Acute toxicity and sublethal effects of neonicotinoid insecticides on the predatory ladybird Propylea japonica",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Zuo K, Li X, Zhou Y, Li H, Chen Y, Liu L, Bass C, Wang H, Song J, Kan Y.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-22",
+    "url": "https://europepmc.org/article/MED/42764437",
+    "doi": "10.1002/ps.71322",
+    "pmid": "42764437",
+    "abstract": "Neonicotinoid insecticides are widely used for pest control, but their impacts on non-target natural enemies remain insufficiently characterized, particularly at sublethal concentrations. The predatory ladybird Propylea japonica is an important biological control agent in agroecosystems. Here, we evaluated the acute toxicity, ecological risk, sublethal and transgenerational effects, and physiological and transcriptomic responses of P. japonica to multiple neonicotinoid insecticides. Seven neonicotinoid insecticides showed substantial variation in acute toxicity to second-instar larvae, with LC50 values ranging from 5.82 to 164.70 mg a.i. L-1. Risk assessment based on safety factors indicated that all tested insecticides posed moderate to high ecological risks under field-relevant exposure scenarios. Sublethal exposure to five insecticides markedly impaired parental reproduction, reducing fecundity by 45.5-71.8% and shifting the sex ratio towards males by 19.3-35.1%. Mechanistically, reproductive impairment was associated with disrupted ovarian development, including reduced ovariole number and defective vitellogenesis. Transcriptomic profiling further revealed widespread metabolic reprogramming, characterized by enrichment of xenobiotic metabolism pathways and induction of detoxification gene families. By contrast, transgenerational effects in the F1 generation were relatively limited, mainly involving modest reductions in egg hatchability and slight prolongation of embryonic duration. Acute toxicity assessment showed that seven neonicotinoid insecticides posed moderate to high ecological risks to P. japonica, while sublethal assays with five selected insecticides revealed substantial reproductive impairment, highlighting the need for more selective use of neonicotinoids to safeguard beneficial predators in agroecosystems. © 2026 Society of Chemical Industry.",
+    "species_latin": "Propylea japonica",
+    "species_en": "Japanese ladybird",
+    "species_zh": "日本龟瓢虫",
+    "takeaway": "七种新烟碱类杀虫剂对日本龟瓢虫有中高风险，亚致死剂量显著损害其生殖并引发代谢重编程。",
+    "conclusion": "新烟碱类杀虫剂对日本龟瓢虫具有中至高等生态风险；亚致死暴露通过破坏卵巢发育和卵黄生成使繁殖力下降45.5%–71.8%、雄性比例升高，并伴随解毒代谢通路激活，而跨代影响有限，提示需选择性用药以保护天敌。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42764327",
+    "title": "Star polycation nanocarrier selectively enhances mesotrione control efficacy via reduced particle size and improved foliar absorption",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Xu L, Liu R, Yuan Z, Yu H, Li D, Zhang F, Liu R, Li D.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-22",
+    "url": "https://europepmc.org/article/MED/42764327",
+    "doi": "10.1002/ps.71323",
+    "pmid": "42764327",
+    "abstract": "Nanocarrier-based formulations offer a superior means of enhancing control efficacy and increasing utilization. Star polycation (SPc) was an efficient nanocarrier of insecticides and fungicides. However, whether it could serve as an herbicide nanocarrier needs further study. Here, we evaluated the nanoformulation, permeability, and herbicidal efficacy of SPc assembled with herbicides. Results showed that SPc could spontaneously assemble with each of the three herbicides via electrostatic interactions. Only mesotrione technical concentrate (TC) and formulation (FM) could be effectively nanosized by SPc, while the particle sizes of atrazine and quizalofop-p-ethyl showed only a marginal decrease. Mesotrione self-assembled with SPc mainly through specific hydrogen bonding, achieving a loading capacity of 38.8%. SPc reversed the zeta potential of mesotrione from negative to positive (with a negligible change in absolute value), reduced the contact angle of TC and FM by 10.5% and 7.8%, respectively, increased the retention on leaves by ranges of 24.3%-65.7%, and significantly enhanced the foliar absorption of mesotrione by 12.4% after treated for 7 days. Compared with the SPc-free treatment, the fresh weight inhibition rates of mesotrione TC + SPc and FM + SPc against Digitaria sanguinalis, Setaria viridis, and Amaranthus retroflexus were increased by ranges of 17.24%-54.05% and 31.32%-39.60%, respectively. The nanosized mesotrione caused no influence on the maize biomass even at 1.5 times the recommended dose (562.5 mg/L). This study establishes SPc as a high-performance delivery platform for enhancing the bioavailability of certain herbicides, and offers a theoretical basis for the application of SPc as a tank-mix adjuvant in weed management. © 2026 Society of Chemical Industry.",
+    "species_latin": "Digitaria sanguinalis, Setaria viridis, Amaranthus retroflexus, Zea mays",
+    "species_en": "large crabgrass, green foxtail, redroot pigweed, maize",
+    "species_zh": "马唐、狗尾草、反枝苋、玉米",
+    "takeaway": "星形聚阳离子可自组装负载硝磺草酮并缩小粒径,提升叶面吸收与除草效果且对玉米安全",
+    "conclusion": "星形聚阳离子(SPc)通过静电作用与三种除草剂自组装,但仅对硝磺草酮(原药及制剂)有效纳米化,粒径显著减小;硝磺草酮主要经氢键与SPc结合,载药量达38.8%。SPc使硝磺草酮zeta电位由负转正,降低接触角、提高叶面滞留与吸收,增强对马唐、狗尾草和反枝苋的鲜重抑制率,且在1.5倍推荐剂量下不影响玉米生物量,表明SPc可作为提高特定除草剂生物利用度的桶混助剂平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42764124",
     "title": "A Novel L932F mutation in the Voltage-Gated Sodium Channel associated with Deltamethrin Resistance in Aedes aegypti (Diptera: Culicidae) from Southern Taiwan",
     "type": "paper",
@@ -22,7 +152,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
