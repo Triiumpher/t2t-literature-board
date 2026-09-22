@@ -26,6 +26,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42767004",
+    "title": "Preparation of nontoxic nano-pesticides with safe nanocarrier: First synergistic application with parasitoid enemy for shorter initial acting time and longer control persistence toward insect pests",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Fan J, Mu Q, Wu S, Zeng J, Jiang Q, Gao G, Xia Z, Yan S, Li H.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-22",
+    "url": "https://europepmc.org/article/MED/42767004",
+    "doi": "10.1016/j.ecoenv.2026.120741",
+    "pmid": "42767004",
+    "abstract": "The dual challenges of long initial acting time of natural enemies and short control persistence of pesticides underscore the urgent need to co-apply selective pesticides and natural enemies for synergistic pest management. Herein, we developed two nano-pesticides that are nontoxic to parasitoid wasps using the safe nanocarrier hydrophilic-lipophilic diblock polymer (HLDP), and their synergistic application with parasitoid wasps effectively shortened the initial acting time and prolonged the control persistence, achieving high population suppression against common cutworms. The biosafety of two polymeric nanocarriers HLDP and cationic star polymer (SPc) was evaluated toward parasitoid wasp Meteorus pulchricornis via contact and oral exposure, recording eclosion rate and adult survival. Both nanocarriers were relatively safe via contact exposure but induced dose-dependent oral toxicity at high concentrations (HLDP LC50 = 5.643 mg/mL; SPc LC50 = 2.860 mg/mL), with HLDP exhibiting superior biocompatibility. Oral feeding of HLDP at an extremely high concentration down-regulated various genes associated with metabolism and membrane, damaged the intestinal ultrastructure, and led to systemic metabolic dysfunction and gut microbiota dysbiosis in parasitoid wasps, suggesting membrane damage-mediated metabolic impairment as the primary lethal mechanism. Subsequently, using HLDP as a nanocarrier, we formulated nano‑pesticides with abamectin (AVM) and chlorantraniliprole (CTP), reducing their particle sizes to 105 nm and 215 nm and increasing zeta potentials to + 50.84 mV and + 47.57 mV, respectively. Remarkably, two nano-pesticides displayed stronger stomach and contact toxicity against common cutworms compared to AVM/CTP alone by approximately 20-30%. Notably, the parasitoid wasps were insensitive to nano-pesticides with unaffected eclosion rate (100%), and displayed strong parasitic selectivity toward alive larvae of common cutworms. The co-application of two nano-pesticides with parasitoid wasps achieved > 82% population suppression of common cutworms in the simulated environment, effectively overcoming the long initial acting time of parasitoid wasps and short control persistence of nano-pesticides. Our study provides an excellent precedent for synergistic co-application of nano-pesticides with parasitoid enemies.",
+    "species_latin": "Meteorus pulchricornis",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "以安全纳米载体HLDP制备的两种纳米农药与寄生蜂联用，可缩短起效时间并延长防效，对斜纹夜蛾类害虫压制超82%。",
+    "conclusion": "HLDP载体生物相容性优于SPc，其口服毒性机制为膜损伤介导的代谢紊乱与肠道菌群失调。以HLDP负载阿维菌素和氯虫苯甲酰胺制得的纳米农药粒径更小、zeta电位更高，对害虫毒力提升约20-30%，且对寄生蜂安全，二者协同可实现超过82%的种群压制，兼顾速效与持效。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42764498",
     "title": "Inheritance and stability of Cry2Ab2 resistance in an Ostrinia nubilalis strain originating from Wisconsin, U.S",
     "type": "paper",
