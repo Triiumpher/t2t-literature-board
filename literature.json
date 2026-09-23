@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42768123",
+    "title": "Genetic landscape of an in vivo protein interactome",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature genetics",
+    "authors": "Besse S, Sakaguchi T, Gauthier L, Sahaf Z, Ravindran R, Gonzalez L, Castellanos-Girouard X, Clermont C, Koçatug N, Péloquin O, Matta C, Hussin JG, Michnick SW, Serohijos AWR.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-23",
+    "url": "https://europepmc.org/article/MED/42768123",
+    "doi": "10.1038/s41588-026-02747-z",
+    "pmid": "42768123",
+    "abstract": "Protein-protein interaction (PPI) networks accurately map environmental perturbations to their molecular consequences in cells, yet the effects of natural genetic variation on PPIs remain poorly understood. Here we measured 61 reporter PPIs across inbred strains of Saccharomyces cerevisiae harboring ~12,000 single-nucleotide polymorphisms and identified protein-interaction quantitative trait loci (piQTLs) linking genomic variation to in vivo PPI strength. trans-acting piQTLs were significantly enriched and exhibited stronger per-variant effect sizes than cis-acting piQTLs. Consistent with the small-world architecture of PPI networks, trans-piQTLs often mapped to genes encoding proteins in close network proximity to reporter PPIs. We identified and validated piQTLs in poorly annotated regions, including noncoding RNAs and 3'UTRs, with effects comparable to coding single-nucleotide polymorphisms. piQTLs also overlapped more with protein abundance QTLs than expression QTLs, highlighting how PPI networks capture post-transcriptional and proteome-level regulation. This study provides a roadmap for dissecting complex traits through PPI network analysis.",
+    "species_latin": "Saccharomyces cerevisiae",
+    "species_en": "Baker's yeast",
+    "species_zh": "酿酒酵母",
+    "takeaway": "在酵母中测量61个报告蛋白互作，定位影响互作强度的遗传位点，发现反式位点效应更强且多位于网络邻近基因。",
+    "conclusion": "自然遗传变异显著影响体内蛋白互作强度，反式piQTL富集且单位点效应大于顺式，常映射到网络邻近蛋白的编码基因；非编码区变异效应与编码变异相当；piQTL与蛋白丰度QTL重叠多于表达QTL，表明PPI网络捕捉转录后及蛋白组层面的调控，为解析复杂性状提供路线图。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42768451",
+    "title": "Population-specific variation in temperature-dependent RNAi efficacy in the Colorado potato beetle (Leptinotarsa decemlineata)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Darrington M, Zhou SK, Rondon SI, Wang Z, Chen YH, Palli SR, Teets NM.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-23",
+    "url": "https://europepmc.org/article/MED/42768451",
+    "doi": "10.1002/ps.71335",
+    "pmid": "42768451",
+    "abstract": "The Colorado potato beetle (CPB), Leptinotarsa decemlineata Say (Coleoptera: Chrysomelidae), is a major pest of potato and other nightshades (Solanaceae). CPB's remarkable ability to rapidly evolve resistance to conventional insecticides has necessitated the development of novel management strategies, including RNA interference (RNAi)-based approaches using insecticidal dsRNA. In previous work, we demonstrated that a dsRNA insecticide targeting Actin, a highly conserved protein essential for cell structure and function, was less effective at low temperatures. Here, we evaluated the extent to which the temperature-dependence of RNAi in CPB varies among geographically distinct populations. Our goal was to quantify genotype × environment interactions underlying RNAi efficacy, which could influence regional pest management efficacy and be a pathway to resistance. We measured gene silencing and mortality for three populations of CPB (Vermont, Kentucky and Oregon) following ingestion of dsRNA targeting Actin at 18 and 25 °C. At 25 °C, gene silencing occurred more quickly in the Vermont population but mortality did not vary significantly among populations. dsActin was more toxic for all populations at 25 °C relative to 18 °C. At 18 °C, the Kentucky population died faster than those from Vermont and Oregon. The estimated consumed dose of insecticidal dsRNA was not an effective predictor of gene silencing or mortality across populations. RNAi insecticides may function less efficiently at cooler temperatures, and the precise effects of temperature could vary across CPB populations. Although all three populations reached the same levels of mortality at pupation, the rate at which larvae died varied significantly, which could impact the degree of herbivory and affect agricultural yields, particularly if applications occur early in the growing season when the weather is cooler. © 2026 Society of Chemical Industry.",
+    "species_latin": "Leptinotarsa decemlineata",
+    "species_en": "Colorado potato beetle",
+    "species_zh": "马铃薯甲虫",
+    "takeaway": "研究比较三个地理种群马铃薯甲虫在18℃与25℃下摄入靶向Actin的dsRNA后的基因沉默与死亡率，发现RNAi效果受温度和种群共同影响。",
+    "conclusion": "RNAi杀虫剂在低温下效果较差，且温度对基因沉默和致死速度的影响存在种群差异；尽管各群体最终死亡率相近，但幼虫死亡速度不同，可能影响取食危害和作物产量，尤其在生长季早期低温施药时。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42766042",
     "title": "Formulation-dependent sugar regulation enhances biofilm-mediated stability and bioactivity of Bacillus thuringiensis formulations",
     "type": "paper",
@@ -22,7 +74,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -595,6 +647,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42749836",
+    "title": "Assessing Low-Dose Copper Treatment for Dreissenid Mussels: Effects on Nontarget Organisms",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental management",
+    "authors": "Dahlberg AD, Barbour MT, Luoma JA, Severson TJ, Wise JK, Meulemans M, Hammond D, Phelps NBD, Waller DL.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-23",
+    "url": "https://europepmc.org/article/MED/42749836",
+    "doi": "10.1007/s00267-025-02354-4",
+    "pmid": "42749836",
+    "abstract": "Zebra mussels (Dreissena polymorpha), an invasive dreissenid mussel, have been established and caused considerable effects in many North American aquatic ecosystems. In response, copper-based pesticides have been used to manage zebra mussel populations. We evaluated the effects of a low-dose (60 µg Cu/L for 10 d) copper-based molluscicide for zebra mussel suppression on nontarget species in Lake Minnetonka (Minnesota, USA). Specifically, we assessed changes in four fish species, a native mussel species, adult zebra mussels, chlorophyll-a concentrations (as a proxy for phytoplankton productivity), the zooplankton community, and the benthic invertebrate community before and after treatment. Chlorophyll-a concentration increased in both the treated and reference bays 1 and 4 d posttreatment. Non-target zooplankton community composition changed in both bays over the course of this study; zooplankton abundance and diversity initially decreased in the treated bay but gradually recovered and was back to pretreatment and reference bay levels after one year. We observed no significant differences in non-target benthic invertebrate abundance or diversity between the treated and reference bays, although abundance and diversity estimates were dynamic and uncertain. Among caged non-target organisms, copper bioaccumulation was higher in both mussel species than in fish, and among fish, was highest in fathead minnow (Pimephales promelas). These findings contribute to our understanding of the potential effects of copper-based pesticides on aquatic ecosystems and provide insights for zebra mussel management.",
+    "species_latin": "Dreissena polymorpha",
+    "species_en": "Zebra mussel",
+    "species_zh": "斑马贻贝",
+    "takeaway": "低剂量铜处理斑马贻贝后，非靶标生物影响有限且可恢复，但两种贻贝铜富集高于鱼类。",
+    "conclusion": "低剂量铜基杀软体动物剂虽可抑制斑马贻贝，但对非靶标生物影响总体有限：浮游动物群落初期下降后一年内恢复，底栖无脊椎动物无显著变化；铜在贻贝中富集高于鱼类，黑头呆鱼在鱼类中最高。表明该方法对生态系统影响可控，为斑马贻贝管理提供参考。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
