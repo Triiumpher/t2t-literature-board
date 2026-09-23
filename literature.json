@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42772398",
+    "title": "Residual efficacy evaluation of the insecticides Deltamethrin WG and Etofenprox WP under different conditions and surfaces in a malaria-endemic area of the Eastern Amazon",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta tropica",
+    "authors": "Corrêa APSA, Cavalcante K, Lima LA, Câmara DCP, Muller JN, Peniche T, Furtado NVR, Fernandes T, Lobato Ó, Galardo AKR, Lima JBP.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-23",
+    "url": "https://europepmc.org/article/MED/42772398",
+    "doi": "10.1016/j.actatropica.2026.108341",
+    "pmid": "42772398",
+    "abstract": "Indoor Residual Spraying is widely used as a method of malaria control. The objective of this study was to evaluate the residual effect of Deltamethrin WG and Etofenprox WP under three different conditions: 1) laboratory panels; 2) Semi-field and 3) directly in the field and to verify the susceptibility status of An. (Nys.) albitarsis s.l.. For Etofenprox WP, mortality rates observed in CW did not exceed 80%, except in the first 24 hours in Semi-field and Field conditions. In WW, mortality was above 80% throughout the six-month period in all three conditions evaluated. For Deltamethrin WG, the pattern varied according to substrate and condition: in CW, mortality was at or above 80% during the six months in the Panel condition, but fell below the limits in the second month in Semi-field and in the third month in Field conditions. In WW, mortality also remained above 80% for six months in the Panel condition, while in Semi-field it exceeded the limits only in the first month; in the Field condition, an oscillating pattern around 80% was observed, with recurring efficacy peaks in months two, four, and six. Susceptibility bioassays in An. (Nys.) albitarsis s.l. 100% knockdown was observed among female subjected to a 0.05% concentration of Deltamethrin, with a 24-hour mortality rate of 91.1 %, indicating possible resistance. At a concentration of 0.25 %, the 24-hour mortality rate was above 98 %, indicating low resistance intensity.",
+    "species_latin": "Anopheles albitarsis",
+    "species_en": "Albitarsis complex mosquito",
+    "species_zh": "白跗按蚊复合体",
+    "takeaway": "在亚马逊东部疟疾流行区，评估溴氰菊酯WG和醚菊酯WP在不同表面与条件下的持效，并检测白跗按蚊复合体的敏感性。",
+    "conclusion": "两种杀虫剂残效受墙面材质与测试条件影响明显：水泥墙上醚菊酯效果普遍不佳，而白墙上两种药剂六个月均保持80%以上死亡率；溴氰菊酯在水泥墙半现场与现场条件下残效缩短。白跗按蚊复合体对0.05%溴氰菊酯24小时死亡率91.1%，提示可能抗性，但0.25%下死亡率超98%，抗性强度低。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42772397",
+    "title": "Comparative efficacy of nano-formulated toxic sugar baits (Nano-TSBs) combining Datura stramonium L.+ivermectin and Azadirachta indica A. Juss+boric acid against Aedes aegypti Linnaeus, Anopheles stephensi Liston, and Culex quinquefasciatus Say (Diptera: Culicidae) and their effects upon non-target Apis mellifera, Danaus chrysippus, and Coccinella septempunctata Linnaeus: laboratory assessment",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta tropica",
+    "authors": "Malik G, Akhtar S, Afzal MBS, Ahmad A.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-23",
+    "url": "https://europepmc.org/article/MED/42772397",
+    "doi": "10.1016/j.actatropica.2026.108337",
+    "pmid": "42772397",
+    "abstract": "Mosquito-borne diseases persist despite gains from long-lasting insecticidal nets (LLINs) and indoor residual spraying (IRS) which highlights the need for behaviour-based adulticides that operate outdoors and between blood meals. We evaluated two nano-formulated toxic sugar baits (Nano-TSBs) comprising Datura stramonium L.+ivermectin and Azadirachta indica A. Juss+boric acid against three mosquito species Aedes aegypti Linnaeus, Anopheles stephensi Liston, and Culex quinquefasciatus Say under laboratory conditions. Nano-carriers were used for oral delivery of different baits at concentrations ranging from 0.25-1.0 g per 100 mL, with an operational focus at concentration of 1.0 g per 100 mL. The rapid functional knockdown at 30 (KD30), 60 (KD60), 90, (KD90), and 120 min (KD₁₂₀) was estimated and delayed mortality and oviposition (eggs per female) were determined at 48-96 h exposure period in mosquito species. A non-target screen quantified abnormal behavioural incidence (ABI) and post 48-h mortality (%) in Apis mellifera Linnaeus (Hymenoptera: Apidae), Danaus chrysippus (L.) (Lepidoptera: Nymphalidae), and Coccinella septempunctata Linnaeus (Coleoptera: Coccinellidae). Both the nano-TSBs produced clear concentration dependent responses in the studied species. At the tested concentration of 1.0 g per 100 mL, D. stramonium+ivermectin delivered the fastest action (≈40% KD₁₂₀) and cumulative post 96-h mortality of ∼40-48% in all three tested mosquito species, while both D. stramonium+ivermectin and A. indica+boric acid formulations sharply depressed fecundity (∼73-84% reduction versus controls). Thus, the Nano-TSBs simultaneously reduced adult mosquito survival and curtailed population renewal. Non-target outcomes were also concentration dependent; D. stramonium+ivermectin blends elicited moderate effects, whereas A. indica+boric acid blends induced higher abnormal behavior and post 48-h mortality in all tested non-target insects, indicating the need for access-restrictive bait-station designs and careful dose discipline near pollinator/predator habitats. Nano-TSBs achieved rapid incapacitation, meaningful 4-day lethality, and profound fecundity suppression across three mosquito vector species at programmatically realistic doses. Modest increases above 1.0 g may further improve control but it necessitates further studies. Overall, these results position Nano-TSBs as effective part of integrated vector management (IVM) program.",
+    "species_latin": "Aedes aegypti, Anopheles stephensi, Culex quinquefasciatus, Apis mellifera, Danaus chrysippus, Coccinella septempunctata",
+    "species_en": "yellow fever mosquito, Asian malaria mosquito, southern house mosquito; non-target: honey bee, plain tiger, seven-spotted ladybird",
+    "species_zh": "埃及伊蚊、斯氏按蚊、致倦库蚊；非靶标：蜜蜂、金斑蝶、七星瓢虫",
+    "takeaway": "纳米毒糖饵对三种蚊虫有浓度依赖性快速击倒与杀灭效果，并大幅抑制产卵，但对非靶标昆虫有风险",
+    "conclusion": "两种纳米毒糖饵均能快速击倒并杀死埃及伊蚊、斯氏按蚊和致倦库蚊，且显著降低其产卵量，从而同时压低成蚊存活与种群更新；但印楝+硼酸配方对蜜蜂、金斑蝶和七星瓢虫等非靶标昆虫造成更多异常行为和死亡，提示需限制取食通道并控制剂量。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42771808",
+    "title": "Phytochemical characterization and in vitro, in vivo, and in silico evaluation of antihyperglycemic, antibacterial, and insecticidal activities and acute safety of decoctions of Lavandula pedunculata (mill.) cav. and Lavandula angustifolia Mill. from Ifrane, Morocco",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Natural product research",
+    "authors": "Radi FZ, Alami A, Kerouad J, Farihi A, Elrherabi A, Hachimi N, El Karkouri J, Bouhrim M, Kachkoul R, Shahat AA, R Alanzi A, N Herqash R, Miantezila Basilua J, Lairini S, Zair T.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-23",
+    "url": "https://europepmc.org/article/MED/42771808",
+    "doi": "10.1080/14786419.2026.2734557",
+    "pmid": "42771808",
+    "abstract": "Lavandula pedunculata (Mill.) Cav. and Lavandula angustifolia Mill., widely used in Moroccan traditional medicine, are valued for managing metabolic, microbial, and inflammatory disorders. This study evaluated their physicochemical composition, bioactive compounds, safety, and pharmacological activities in decoctions prepared from samples collected in Ifrane, Morocco. Mineral composition and phenolic profiling, antibacterial activity against Staphylococcus aureus and Escherichia coli, antihyperglycemic effects (oral glucose tolerance test), α-amylase inhibition, larvicidal activity, molecular docking, as well as the evaluation of absorption, distribution, metabolism, and excretion properties, and acute toxicity were assessed. L. pedunculata showed higher magnesium (35%) and phenolic content (25.2%), correlating with stronger antibacterial activity (S. aureus: 26.8 mm; E. coli: 24 mm). The minimum inhibitory concentration and minimum bactericidal concentration values confirmed the bactericidal activity of the decoctions, with L. pedunculata being more active (20 mg/mL) than L. angustifolia (40 mg/mL). Both species reduced postprandial glucose at 60-90 min and inhibited α-amylase (L. pedunculata IC50 = 0.089 mg/mL). Larvicidal activity was higher for L. pedunculata (LC50 = 328 ppm). Molecular docking analysis suggested that rutin exhibited strong binding affinity towards α-amylase (-8.8 kcal/mol) and dihydrofolate reductase (-7.1 kcal/mol), with favourable absorption, distribution, metabolism, and excretion properties. No acute toxicity was observed at 2 g/kg. These findings support the traditional use and highlight the pharmaceutical potential of these species.",
+    "species_latin": "Lavandula pedunculata, Lavandula angustifolia",
+    "species_en": "Lavender, English lavender",
+    "species_zh": "齿苞薰衣草、狭叶薰衣草",
+    "takeaway": "摩洛哥两种薰衣草水煎剂含丰富酚类与镁,具抗菌、降糖、杀幼虫活性且急性无毒。",
+    "conclusion": "L. pedunculata酚类与镁含量更高,抗菌、抑α-淀粉酶及杀幼虫活性均强于L. angustifolia;两者均能降低餐后血糖,分子对接显示芦丁与α-淀粉酶及二氢叶酸还原酶结合良好,2 g/kg下无急性毒性,支持其传统药用并具开发潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42768123",
     "title": "Genetic landscape of an in vivo protein interactome",
     "type": "paper",
@@ -97,6 +175,32 @@
     "species_zh": "",
     "takeaway": "以安全纳米载体HLDP制备的两种纳米农药与寄生蜂联用，可缩短起效时间并延长防效，对斜纹夜蛾类害虫压制超82%。",
     "conclusion": "HLDP载体生物相容性优于SPc，其口服毒性机制为膜损伤介导的代谢紊乱与肠道菌群失调。以HLDP负载阿维菌素和氯虫苯甲酰胺制得的纳米农药粒径更小、zeta电位更高，对害虫毒力提升约20-30%，且对寄生蜂安全，二者协同可实现超过82%的种群压制，兼顾速效与持效。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42772167",
+    "title": "Mixture risk assessment of pesticides with acute neurotoxic effects: a novel approach based on urinary exposure biomarkers",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environment international",
+    "authors": "Palmont P, Carsique M, Angeli K, McKeon HP, Mienné A, Spyropoulou A, Alilović A, Bruckers L, Cox B, Čupr P, Debrouwere K, Deepika D, Fillol C, Govarts E, Janoš T, Kolossa-Gehring M, Kumar V, Laeremans M, Perharič L, Remškar A, Janja Snoj Tratnik, Šulc L, Vogel N, Ratier A, Moretto A, Hernández-Jerez AF, de Boer W, Kruisselbrink J, Engel J, van Klaveren J, Machera K, Crépet A.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-23",
+    "url": "https://europepmc.org/article/MED/42772167",
+    "doi": "10.1016/j.envint.2026.110531",
+    "pmid": "42772167",
+    "abstract": "Pesticides showing neurotoxic effects, including organophosphates, pyrethroids, and N-methyl carbamates, are widely used in agriculture. Human biomonitoring (HBM) integrates exposure from multiple sources and routes by measuring pesticide levels in human biological samples. This study applied a novel MRA methodology using urinary biomarkers, focusing on two cumulative assessment groups (CAGs) of pesticides with acute neurotoxic effects, as previously established by the European Food Safety Authority (EFSA), namely, CAG-NAN on brain and/or erythrocyte acetylcholinesterase inhibition; and CAG-NAM on functional alterations of the motor, sensory and autonomic division. Available urinary pesticide metabolites were assigned to potential parent compounds within these CAGs and were converted to external exposure levels, expressed as estimated daily intakes (EDI), using reverse dosimetry. Toxicological reference points, i.e., no observed adverse effect levels (NOAEL) were obtained from EFSA report. For each parent compound, the ratio of the NOAEL to the EDI was calculated, and these ratios were used to determine the total margin of exposure (MOET). This approach was applied as a proof-of-concept to children and adults from 10 HBM studies across seven European countries. For CAG-NAN, median MOET ranged between 27 and 2485 across datasets with percentage of individuals below a threshold of 100 from 2.8 to 97%. For CAG-NAM median MOET values ranged from 34 to 220 000 and in one scenario the percentage of individuals below the threshold was between 24% for children and up to 93% for adults. Azinphos-ethyl, triazophos, omethoate, and chlorpyrifos were identified as risk drivers. This study highlights the need for improved MRA methodologies based on HBM data, including the development of pesticide-specific exposure biomarkers, and the establishment of human biomonitoring-guidance values (HBM-GVs). Incorporating HBM data strengthens human health MRA by reducing uncertainty surrounding non-dietary exposure and generating valuable evidence to inform future pesticide monitoring and regulatory strategies.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "基于欧洲10项人体生物监测研究的尿液标志物，用反向剂量学评估两类急性神经毒性农药累积暴露风险，儿童风险尤为突出。",
+    "conclusion": "该概念验证研究将尿液农药代谢物归入EFSA两类累积评估组，经反向剂量学换算为估计每日摄入量并计算总暴露边际，发现儿童和成人中部分人群暴露超过安全阈值，毒死蜱、谷硫磷等为风险驱动物；表明基于人体生物监测的混合风险评估可减少非膳食暴露不确定性，支持开发特异性暴露标志物与HBM指导值。",
     "keywords": [
       "新型杀虫剂"
     ],
