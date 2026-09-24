@@ -78,6 +78,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42777653",
+    "title": "Biointerface interactions and mechanistic ecotoxicity of polystyrene micro/nanoplastics and imidacloprid in juvenile Carassius auratus under single and combined exposure",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Zhu Z, Peng L, Guo X, Dai C, Hu G, Feng J, Wang D, Fan S, Zhu A, Guo D, Fang X, Yang P.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-24",
+    "url": "https://europepmc.org/article/MED/42777653",
+    "doi": "10.1016/j.ecoenv.2026.120823",
+    "pmid": "42777653",
+    "abstract": "Agricultural intensification zones-especially pesticide-intensive, ponded rice drainage belts-are overlooked hotspots for plastic and pesticide pollution. Rice-fish co-culture is now widely promoted; crucian carp is the principal co-stocked species that provides food and supports crop yield yet experiences high plastic-pesticide exposure. Imidacloprid (IMI) is among the most widely used crop pesticides and fish therapeutics, while polystyrene (PS) constitutes a major share of agricultural plastics. Juvenile carp were exposed for 28 days to PS microplastics (MP) or nanoplastics (NP) at 100μg/L, IMI at 200μg/L, and their mixtures; gills were assessed by histology, physiology, transcriptomics, and metabolomics. Exposure caused treatment-dependent gill injury. MP, NP, IMI, and NP + IMI showed positive oxidative-phosphorylation enrichment, accompanied by treatment-dependent increases in Rhesus (Rh)-family gene expression. In contrast, MP + IMI lacked this response and showed reduced Rh-family expression with the highest gill ammonia content. Weighted gene co-expression network analysis (WGCNA) identified a co-expression module associated with reduced glutathione (GSH) after false discovery rate correction, with enrichment in p53 and apoptosis-related pathways. Terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) and transmission electron microscopy (TEM) further supported apoptosis-associated injury of pavement cells in the MP + IMI group. Integrated omics highlighted purine-related metabolite signals in MP and MP + IMI, and xanthine oxidase activity was higher in MP + IMI than in MP. Overall, this study simulated a plastic-IMI co-exposure scenario relevant to contamination hotspots in agricultural aquaculture waters and revealed pronounced branchial structural, redox-metabolic, and ammonia-homeostatic disturbances, highlighting the potential risks of plastic-pesticide mixtures in these environments.",
+    "species_latin": "Carassius auratus",
+    "species_en": "Crucian carp",
+    "species_zh": "鲫鱼",
+    "takeaway": "28天暴露实验显示, 聚苯乙烯微/纳米塑料与吡虫啉单独及混合暴露均损伤鲫鱼幼鱼鳃组织, 混合暴露扰乱氨稳态与氧化代谢。",
+    "conclusion": "微塑料、纳米塑料、吡虫啉及其混合暴露均引起鲫鱼幼鱼鳃组织损伤, 并呈现处理依赖的氧化磷酸化富集与Rh家族基因表达变化; 唯独微塑料+吡虫啉组合缺失该响应, Rh基因表达下降、鳃氨含量最高, 并出现p53与凋亡通路富集及铺路细胞凋亡, 嘌呤代谢与黄嘌呤氧化酶活性也发生改变。结果表明塑料-农药混合物可显著扰乱鳃结构、氧化还原代谢与氨稳态, 提示农业水产养殖污染热点区存在潜在生态风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42772398",
     "title": "Residual efficacy evaluation of the insecticides Deltamethrin WG and Etofenprox WP under different conditions and surfaces in a malaria-endemic area of the Eastern Amazon",
     "type": "paper",
@@ -153,6 +179,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42777373",
+    "title": "Multi-omics integration and artificial intelligence for the conservation and utilization of local chicken genetic resources",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Poultry science",
+    "authors": "Dao W, Wu X, Zhao S, Zhu W, Fan X, Miao Y.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-24",
+    "url": "https://europepmc.org/article/MED/42777373",
+    "doi": "10.1016/j.psj.2026.107821",
+    "pmid": "42777373",
+    "abstract": "Local chicken genetic resources (LCGRs), representing a unique gene pool shaped by millennia of natural and artificial selection, not only sustain the supply of high-quality protein but also serve as useful biological models for deciphering the evolution of complex traits and environmental adaptability. However, extensive introgression from commercial breeds is causing rapid genetic erosion. Systems biology and multi-omics technologies are reshaping our understanding of the regulatory networks underlying local chicken genetic resources. This review synthesizes four advances. First, at the genomic reference level, long-read sequencing is driving a transition from single linear reference assemblies to high-quality, near-telomere-to-telomere assemblies and graph pangenomes, enabling the unbiased capture of structural variations and microchromosomes. Second, multi-omics studies have begun to integrate association-based evidence across multiple biological layers, including epigenetic variation, single-cell and spatial heterogeneity, cross-tissue metabolic relationships, and host-microbiome interactions. Third, commercial introgression is severe but strongly breed-dependent, affecting 0.64% to 21.52% of the genome across eight Chinese indigenous breeds. We examine how omics findings could be translated into conservation practice by integrating three components into a proposed closed-loop framework: dynamic early-warning monitoring based on effective population size, management of functional variants using a weighted genomic relationship matrix, and primordial germ cell cryopreservation and editing. These components sit at very different levels of evidence, and the complete pipeline has not yet been evaluated longitudinally in any conservation flock. Finally, in the realm of intelligent prediction, the mechanistic attribution provided by explainable artificial intelligence and the zero-shot variant effect prediction capabilities of cross-species genomic foundation models offer two complementary routes, neither of which has yet been applied to a local chicken population. Together, these advances are shifting local chicken genetic resources management from observation-based description toward mechanism-informed decision-making. Rather than reporting an accomplished transition, this review sets out an emerging and feasible roadmap and identifies the evidence gaps that must be closed before it can be implemented.",
+    "species_latin": "Gallus gallus",
+    "species_en": "chicken",
+    "species_zh": "鸡",
+    "takeaway": "综述多组学与AI用于地方鸡遗传资源保护，指出商业鸡种基因渗入严重且保护框架尚待验证",
+    "conclusion": "地方鸡遗传资源正因商业品种渗入而快速流失，渗入程度因品种而异（0.64%–21.52%）。长读长测序、图泛基因组与多组学整合可揭示结构变异及调控网络；作者提出结合有效群体大小预警、加权基因组关系矩阵和原始生殖细胞冷冻编辑的闭环保护框架，但各环节证据等级不一，尚未在保种群中纵向验证。可解释AI与跨物种基因组基础模型为变异效应预测提供新途径，但均未应用于地方鸡群体。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
