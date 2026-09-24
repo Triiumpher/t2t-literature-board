@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42777117",
+    "title": "Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "G3 (Bethesda, Md.)",
+    "authors": "Nikitin D.",
+    "publish_date": "2026-09-23",
+    "added_at": "2026-09-24",
+    "url": "https://europepmc.org/article/MED/42777117",
+    "doi": "10.1093/g3journal/jkag250",
+    "pmid": "42777117",
+    "abstract": "Transposable elements (TEs) have played a central role in major evolutionary transitions across the human lineage, from eukaryogenesis to the emergence of the eutherian placenta, and are currently reactivated in cancer and autoimmune diseases. The complete telomere-to-telomere (T2T) assembly enables comprehensive investigation of TE contributions to gene regulation. Using a 10 kb window around transcription start sites, we mapped 3,709,429 human TEs to 28,738 genes against a 500-permutation background and assessed the enrichment and functional associations of 6 TE classes and 44 families. We identified a 220 kb interferon-alpha domain enriched with young L1 elements: 77 of its 175 TEs are evolutionary young L1 copies from 36 subfamilies, at mean divergence 135.7 against 188.2 genome-wide. This is consistent with recent L1 activity and could indicate a recent evolutionary arms-race affecting innate immune gene regulation. Distinct TE classes exhibited specific functional associations: SVA elements were enriched near genes involved in transcription termination; Alu elements were linked to RNA processing and splicing; MIR elements were associated with zinc homeostasis and voltage-gated potassium channel genes; LINE elements were enriched near genes related to lipid metabolism and olfactory perception; and LTR elements were associated with ion transport. This correlative map provides a positional baseline against which epigenomic and functional TE studies can be normalized, and a set of candidate loci for further investigation of evolutionary arms race.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "利用T2T组装将人类转座元件与基因共定位，发现干扰素α区富集年轻L1元件，提示先天免疫基因调控存在近期进化军备竞赛。",
+    "conclusion": "基于端粒到端粒组装，将370万余个转座元件映射到28738个基因，发现220 kb干扰素α结构域显著富集来自36个亚家族的年轻L1拷贝，其平均分化度低于全基因组，提示近期L1活性及可能的进化军备竞赛；不同转座元件类别还呈现特定功能关联，为表观基因组与功能研究提供位置基线及候选位点。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42775614",
+    "title": "Nor-seco-tremulane sesquiterpenoids from the endophyte fungus of Rhododendron capitatum: dual aphicidal and nematicidal activity with multi-target toxic mechanisms",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Zhu YT, Zhang JH, Liu SX, Hou AX, Xie L, Li CH.",
+    "publish_date": "2026-09-23",
+    "added_at": "2026-09-24",
+    "url": "https://europepmc.org/article/MED/42775614",
+    "doi": "10.1002/ps.71337",
+    "pmid": "42775614",
+    "abstract": "BACKGROUND: Plant pests such as Acyrthosiphon pisum and Bursaphelenchus xylophilus pose destructive threats to crops and pine forests globally. Widespread application of synthetic pesticides has caused pest resistance and ecological risks, creating an urgent demand for eco-friendly, pesticidal natural products. Endophytic fungi of medicinal plants serve as an untapped reservoir of bioactive natural metabolites, which are a promising resource for excavating novel natural insecticides. RESULTS: Twenty-three natural derivatives, including 12 tremulane sesquiterpenoids (1-12), were isolated from Preussia, an endophytic fungus of Rhododendron capitatum. Compounds 1-4 were previously undescribed, among which preutremutin E (1) represents the first naturally occurring tremulane carbon-degraded sesquiterpenoid. Their structures were elucidated by spectroscopic data analysis and electronic circular dichroism (ECD) calculations. All compounds were tested for their toxic activities against A. pisum and B. xylophilus, respectively. Compound 1 exhibited optimal dual pesticidal activity against A. pisum and B. xylophilus, with 72 h LC50 (50% Lethal Concentration) values of 74.8 and 65.6 μg mL-1, respectively. Mechanistic assays revealed that 1 inhibited acetylcholinesterase and disrupted detoxification homeostasis in aphids, while inducing ultrastructural deterioration, antioxidant suppression, energy depletion and protein loss in nematodes. Molecular docking suggested 1 tightly occupies the active pocket of glutathione S-transferase (GST) via dual hydrogen bonds and hydrophobic interactions, blocking the core detoxification function of GST. CONCLUSION: To our knowledge, the present work represents the first systematic report on secondary metabolites and insecticidal potential of endophytic fungi derived from R. capitatum. Notably, compound 1, characterized as a novel nor-seco-tremulane-type sesquiterpene, displays potential nematicidal and aphicidal activity via multi-target toxic pathways, indicating that endophytic fungi from R. capitatum serve as a promising and valuable resource for the exploration of innovative natural insecticides. © 2026 Society of Chemical Industry.",
+    "species_latin": "Rhododendron capitatum",
+    "species_en": "Rhododendron capitatum",
+    "species_zh": "头状杜鹃",
+    "takeaway": "从头状杜鹃内生真菌Preussia中分离出23个化合物，其中新化合物1具双重杀虫活性，LC50约65–75 μg/mL。",
+    "conclusion": "该研究首次系统报道头状杜鹃内生真菌的次级代谢产物及杀虫潜力。新化合物preutremutin E（1）为首个天然nor-seco-tremulane型碳降解倍半萜，通过抑制乙酰胆碱酯酶、破坏解毒稳态、诱导氧化损伤与能量耗竭等多靶点途径，对豌豆蚜和松材线虫均表现杀虫活性，提示该内生真菌是开发新型天然杀虫剂的宝贵资源。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42773849",
+    "title": "Artificial feeding-based oral secretion collection system and multi-omics analysis reveal insecticidal saliva and salivary proteome in Orius nagaii",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insect science",
+    "authors": "Wang C, Huang Y, Yin Z, Ge J, Zhao S, Huang J, Wang R, Dai X, Liu Y, Su L, Chen H, Zheng L, Zhai Y.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-24",
+    "url": "https://europepmc.org/article/MED/42773849",
+    "doi": "10.1111/1744-7917.70354",
+    "pmid": "42773849",
+    "abstract": "Orius nagaii is an important predatory natural enemy in agricultural pest management. In this study, we established an artificial feeding system to collect oral secretions (OS) from O. nagaii and demonstrate that microinjection of either oral secretions (OS) or salivary reservoir extracts (SRE) into Ostrinia furnacalis larvae significantly increases larval mortality, indicating that the saliva of this natural enemy insect contains bioactive factors with insecticidal activity. Comparative proteomic analysis of OS and SRE identified 328 overlapping proteins as candidate salivary proteins. Integration of this candidate dataset with the salivary gland transcriptome enabled the systematic identification of 311 salivary proteins, covering the complete trajectory from synthesis in the salivary gland (SG) and storage in the salivary reservoir to release during feeding. Of these, 112 proteins are unique to O. nagaii, including several venom-associated candidates potentially involved in prey subjugation. This study provides a foundational resource for functional studies of salivary proteins in predatory natural enemies and offers potential molecular targets for developing novel biopesticides and genetic improvement of biological control agents.",
+    "species_latin": "Orius nagaii",
+    "species_en": "minute pirate bug",
+    "species_zh": "大眼长蝽",
+    "takeaway": "用人工饲喂系统采集大眼长蝽唾液，多组学鉴定出311种唾液蛋白，并证实其唾液具杀虫活性。",
+    "conclusion": "该研究建立人工饲喂采集大眼长蝽口腔分泌物的方法，发现其口腔分泌物和唾液腺储液提取物注射均可显著提高玉米螟幼虫死亡率，说明唾液含杀虫活性因子。结合蛋白质组与唾液腺转录组，系统鉴定311种唾液蛋白，涵盖合成、储存到释放全过程，其中112种为该物种特有，含潜在毒液相关蛋白，为天敌唾液功能研究和新型生物农药开发提供资源。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42772398",
     "title": "Residual efficacy evaluation of the insecticides Deltamethrin WG and Etofenprox WP under different conditions and surfaces in a malaria-endemic area of the Eastern Amazon",
     "type": "paper",
@@ -48,7 +126,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +152,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -204,7 +282,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -751,6 +829,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42775140",
+    "title": "T2T-CHM13 reference genome reduces mapping bias and enhances alignment accuracy at disease-associated variants",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "iScience",
+    "authors": "Cherchi I, Orlando F, Quaini O, Paoli M, Ciani Y, Demichelis F.",
+    "publish_date": "2026-09-16",
+    "added_at": "2026-09-24",
+    "url": "https://europepmc.org/article/MED/42775140",
+    "doi": "10.1016/j.isci.2026.117283",
+    "pmid": "42775140",
+    "abstract": "The T2T-CHM13v2.0 reference genome added previously uncharacterized genomic sequences and improved the accuracy of repetitive stretches compared to former human genome assemblies. By comprehensive allelic variation analysis and read mapping statistics from sequencing reads aligned to hg38 and T2T-CHM13 assemblies in samples encompassing different sequencing designs, we observed that T2T-CHM13v2.0 assembly significantly reduces the reference mapping bias (RMB) and increases read mapping precision at clinically relevant sites, including BRCA1 pathogenic variants. We report the presence of sequence dissimilarities among reference genomes in the proximity of ClinVar annotated variants, suggesting the need for data re-analysis. Analyzing DNA sequencing data from cancer patients, we identified a mean 2.3% increase in variant allelic frequency (VAF) and 0.3% increase in coverage over clinically relevant variants for samples aligned to T2T-CHM13 compared to hg38. Overall, these findings support the implementation of T2T-CHM13 reference for the improvement of sequencing data analyses in the clinical genomic setting.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "T2T-CHM13参考基因组可减少比对偏差、提升临床相关变异比对精度",
+    "conclusion": "相比hg38，T2T-CHM13v2.0在临床相关位点显著降低参考比对偏差并提高读段比对精度，且参考基因组在ClinVar变异附近存在序列差异，提示需重新分析数据；癌症患者样本中变异等位基因频率平均提高2.3%、覆盖度提高0.3%，支持将T2T-CHM13用于临床基因组分析。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -2332,6 +2436,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42775384",
+    "title": "Dose-response toxicity and locomotor effects of Mucuna pruriens-based phytotherapeutic combinations in pesticide-exposed Drosophila melanogaster",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Frontiers in toxicology",
+    "authors": "Mwezi R, Kipanyula M, Vianney JM, Stephano F.",
+    "publish_date": "2026-09-09",
+    "added_at": "2026-09-24",
+    "url": "https://europepmc.org/article/MED/42775384",
+    "doi": "10.3389/ftox.2026.1930770",
+    "pmid": "42775384",
+    "abstract": "BACKGROUND: Mucuna pruriens contains L-3,4-dihydroxyphenylalanine (L-DOPA) and other bioactive constituents with potential relevance to motor dysfunction; however, the safety of crude extracts and the behavioural effects of multi-botanical formulations remain insufficiently characterized. This study evaluated the concentration-dependent toxicity of crude M. pruriens seed extract and its locomotor effects, alone and in combination with Cucurbita pepo and Arachis hypogaea, in pesticide-exposed adult male Drosophila melanogaster. METHODS: For toxicity assessment, flies were exposed for 7 days to diets containing 0.1%-2.0% (w/v) M. pruriens. Each treatment comprised nine vials containing 20 flies per vial, giving 180 flies per treatment. Mortality, survival, hazard ratios, no-observed-effect level (NOEL), lowest-observed-effect level (LOEL), and model-derived median lethal concentration (LC50) were determined. Locomotor impairment was induced using paraquat at 10 or 20 mM or glyphosate at 0.5%, 1.0%, or 2.0% (w/v). Negative geotaxis was evaluated in three independent experimental runs, with four vials per treatment per run and 10 flies per vial, giving 12 vial-level experimental units and 120 flies per treatment. Vial-level area under the climbing-response curve (AUC) was used as the primary locomotor endpoint. RESULTS: Seven-day mortality increased from 13.9% in negative control to 45.6% at 2.0% M. pruriens. The operational NOEL and LOEL were 0.1% and 0.5%, respectively. Logistic modelling estimated an LC50 of 2.06% (95% CI, approximately 1.71%-2.41%); this estimate was model-dependent and extrapolated because mortality remained below 50%. Paraquat and glyphosate significantly reduced vial-level locomotor AUC relative to the negative control. Treatment with 0.1% M. pruriens, alone or in combination with C. pepo and/or A. hypogaea, produced partial locomotor improvement relative to pesticide-only baselines, but none of the treatments restored performance to the negative-control level. CONCLUSION: Crude M. pruriens seed extract exhibited concentration-dependent toxicity, while the 0.1% concentration was associated with partial locomotor improvement in pesticide-exposed D. melanogaster. The findings provide preliminary toxicological and behavioural evidence but do not establish direct neuronal protection or a molecular neuroprotective mechanism. Further studies should include appropriate vehicle and solvent controls, higher concentrations to improve LC50 estimation, fixed-total-dose combination formulations, phytochemical standardization, and mechanistic assessment of oxidative stress, mitochondrial integrity, and dopaminergic neurons.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "0.1%黧豆种子提取物对农药暴露果蝇毒性低,可部分改善运动能力,但无法完全恢复。",
+    "conclusion": "黧豆种子粗提物呈浓度依赖性毒性,NOEL为0.1%、LOEL为0.5%,LC50约2.06%且为模型外推值;0.1%单独或与南瓜、花生配伍可部分改善百草枯或草甘膦所致运动损伤,但均未恢复至对照水平,提示其治疗窗窄、配伍增效有限。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
