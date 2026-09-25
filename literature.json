@@ -26,6 +26,110 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42785405",
+    "title": "ProMaya: A hierarchical universal deep learning framework for accurate and interpretable protein-protein interaction identification",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "International journal of biological macromolecules",
+    "authors": "Bhati U, Gupta S, Kesarwani V, Shankar R.",
+    "publish_date": "2026-09-24",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42785405",
+    "doi": "10.1016/j.ijbiomac.2026.154380",
+    "pmid": "42785405",
+    "abstract": "Protein-protein interactions (PPIs) are molecular lego which define the physical states of cells. Accurately identifying PPIs remains challenging due to the interplay of several factors ranging from electrostatic to molecular geometry, topology, and physics. Existing computational approaches capture only fragments of this orchestra, limiting their generalizability across protein families and interaction types. Here, we present ProMaya, a hierarchical multi-scale Graph-transformer framework which has learned the 3D atomic geometry, electronic distribution, residue-level structure and disorder, surface mass-density signatures, and large protein language-model embeddings of interacting proteins. Highly comprehensively benchmarked across nine species and 47 GB experimentally validated data, ProMaya achieved consistently >95% average accuracy, outperforming state-of-the-art tools by >12%. Its in-built explainability provides clear mechanistic reasoning for the observed interactions. The first time introduced atomic and protein language learning has dramatically made it attain an outstanding level for PPI discovery in absolutely universal manner which can deal any species and potent to even bypass costly experiments.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "ProMaya多尺度图-Transformer框架融合三维原子几何与蛋白语言模型嵌入，在九物种PPI识别中平均准确率超95%。",
+    "conclusion": "ProMaya通过整合原子级几何、电子分布、残基结构与无序性、表面质量密度及蛋白语言模型嵌入，实现了跨物种、跨互作类型的通用PPI识别，平均准确率超过95%，较现有最优工具提升逾12%，并具备可解释性，有望减少昂贵实验依赖。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42784644",
+    "title": "Resistance to pyrethroids in Aedes aegypti: Insights into transcriptomic response to different insecticide concentrations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Muñoz AM, Mejía-Jaramillo AM, Lowenberger C, Saavedra-Rodríguez K, Triana-Chávez O.",
+    "publish_date": "2026-09-24",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42784644",
+    "doi": "10.1371/journal.pntd.0014144",
+    "pmid": "42784644",
+    "abstract": "Insecticide spraying is a common strategy for controlling dengue outbreaks, but its effectiveness is compromised by the development of resistance in mosquito populations. In this study, we subjected a strain of Aedes aegypti known for its exceptional ability to develop resistance to controlled permethrin and lambda-cyhalothrin insecticides pressure using two different concentrations. We analyzed resistance mechanisms that are enhanced at each concentration and used RNA sequencing to identify transcripts specifically associated with these exposure levels. Our objective was to uncover the molecular mechanisms triggered by different insecticide concentrations and to distinguish responses between type I and type II pyrethroids, which differ in chemical structure. Our results showed that kdr mutations confer only moderate levels of resistance, as do detoxifying enzymes. For lambda-cyhalothrin, we identified genes involved in the electron transport chain, mitochondrial function, and overall responses to oxidative stress. tRNA transcripts were also upregulated, along with mitochondrial and stress-response transcripts, suggesting a metabolic shift, particularly toward maintaining homeostasis under oxidative stress. These changes point to mechanisms that sustain resistance to this type II insecticide beyond direct detoxification in this population. On the contrary, permethrin induced marked overexpression of cuticle genes, CYP450 genes (especially CYP4), and Odorant Binding Proteins. These expression patterns, together with metabolic enzymes, point to detoxification, reduced penetration, or even sequestration of insecticide, all of which intensify with increasing concentrations. This overregulation of genes suggests an integrated response complemented by classical metabolic detoxification and accompanied by overregulation of mitochondrial complexes. We showed that despite the shared mode of action of the insecticides permethrin and lambda-cyhalothrin, they elicit distinct responses in this Ae. aegypti population. We also showed that the transcriptomic response depends on insecticide concentration and may modulate insecticide tolerance. This article advances understanding of the complexity of pyrethroid resistance in Aedes aegypti and underscores the importance of considering both the insecticide type and the concentration used in vector control programs.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "Yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "埃及伊蚊对两种拟除虫菊酯抗性机制不同，且转录组响应随浓度变化。",
+    "conclusion": "kdr突变与解毒酶仅提供中等抗性；II型药剂氯氟氰菊酯主要引发线粒体、氧化应激及tRNA相关转录变化，而I型药剂氯菊酯则显著上调表皮、CYP450与气味结合蛋白基因，提示解毒、渗透降低或隔离作用。两种药剂虽作用方式相同，却在该蚊群中激发不同分子响应，且响应强度受浓度调控，可影响杀虫剂耐受性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42782575",
+    "title": "Synthesis, Structure-Activity Considerations and Histopathological Effects of Diborane Derivatives as Mosquito Larvicides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta parasitologica",
+    "authors": "Şahin Y, Bursali F, Koca YB, Aygün M, Söyleyici HC, Sevincek R, Özgener H.",
+    "publish_date": "2026-09-24",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42782575",
+    "doi": "10.1007/s11686-026-01390-2",
+    "pmid": "42782575",
+    "abstract": "BACKGROUND: Boron-based compounds are attracting increasing interest due to their antimicrobial, cytotoxic, and bioactive properties. However, the insecticidal potential and mechanism of action of 1,2-diborane derivatives have not yet been investigated. This study investigated the effects of these compounds on the larvae of Aedes aegypti, Aedes albopictus, and Culex pipiens. A new 1,3,2-diazaborinane derivative (comp. 6) was synthesized and characterized. METHODS: The effects of compound 6 and five previously synthesized diborane/diborolane derivatives were evaluated against the mosquito vectors Ae. aegypti, Ae. albopictus and Cx. pipiens. RESULTS: All compounds exhibited significant larvicidal activity against late 3rd-4th instar larvae. Probit analysis revealed LC₅₀ values ranging from 16.712 to 30.087 μg/mL for Ae. aegypti, 17.417-32.636 μg/mL for Ae. albopictus, and 17.789-28.582 μg/mL for Cx. pipiens. Compounds 1 and 2 showed the highest larvicidal potency, whereas compounds 3, 4 and 6 were comparatively less active. Histopathological examination demonstrated that the primary target tissues were the gastric caeca and midgut epithelium. Compared with untreated controls, exposed larvae exhibited epithelial disruption, cytoplasmic vacuolization, cellular swelling, degeneration of microvilli, and damage to the peritrophic membrane. The severity of tissue injury differed among species, with severe alterations observed in Ae. aegypti, moderate alterations in Cx. pipiens, and relatively mild changes in Ae. albopictus. CONCLUSION: The findings demonstrate that diborane derivatives, particularly those bearing specific substituents on boron atoms, exhibit significant biological activity against mosquito larvae, with their toxic effects primarily targeting the larval digestive system. The findings demonstrate larvicidal activity of selected diborane derivatives and support further investigation of these compounds as potential mosquito larvicidal candidates. However, studies on selectivity toward non-target organisms and mechanisms of action under laboratory and field-relevant conditions are required.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito, Asian tiger mosquito, common house mosquito",
+    "species_zh": "埃及伊蚊、白纹伊蚊、淡色库蚊",
+    "takeaway": "新型及已有二硼烷类衍生物对三种蚊幼虫具显著杀灭活性，主要损伤胃盲囊和中肠上皮。",
+    "conclusion": "二硼烷/二硼杂环戊烷衍生物对埃及伊蚊、白纹伊蚊和淡色库蚊晚期幼虫均有明显杀幼虫活性，其中化合物1和2最强，LC₅₀约17–33 μg/mL。组织病理显示其毒性主要靶向幼虫消化系统，引起胃盲囊和中肠上皮破坏、空泡化、微绒毛退化及围食膜损伤，且损伤程度存在蚊种差异。该结果支持将此类化合物作为潜在蚊虫杀幼虫剂进一步研究，但尚需评估对非靶标生物的选择性及作用机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42782141",
+    "title": "Comparative genomic analysis of P450 genes reveals CYP6CX4 is associated with differential clothianidin resistance between Bemisia tabaci B/MEAM1 and Q/MED",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "He C, Zhang Y, Yang Z, Liang J, Wei X, Zhang R, Fu B, Gong P, Guo Z, Wang S, Wu Q, Xie W, Zhou X, Zhang Y, Yang X.",
+    "publish_date": "2026-09-24",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42782141",
+    "doi": "10.1002/ps.71361",
+    "pmid": "42782141",
+    "abstract": "BACKGROUND: Bemisia tabaci is a globally invasive agricultural pest. The B. tabaci Q/MED has rapidly replaced B/MEAM1, largely due to Q/MED's high resistance to neonicotinoid insecticides. Although cytochrome P450s (P450s) are major detoxification enzymes involved in insecticide resistance, the genome-wide identification and functional contributions to differential clothianidin resistance between B/MEAM1 and Q/MED remain poorly understood. RESULTS: A total of 129 P450 genes were identified in both B/MEAM1 and Q/MED genomes, with marked expansions observed in clan 3 and clan 4. Comparative chromosomal mapping of P450 genes revealed a largely conserved genomic organization between B/MEAM1 and Q/MED, together with lineage-specific rearrangements. Transcriptional profiling across developmental stages identified a distinct stage-specific high expression cluster in post-embryonic stages, especially in Q/MED. Among the high expression genes, CYP6DV4 was up-regulated in clothianidin-resistant populations of both B/MEAM1 and Q/MED B. tabaci and CYP6CX4 was consistently overexpressed specifically in two Q/MED clothianidin-resistant populations. Crucially, functional characterisation revealed that CYP6CX4 confers resistance in vivo by RNA interference and can metabolise clothianidin into clothianidin-guanidine in vitro via Ultra-Performance Liquid Chromatography-Mass Spectrometry (UPLC/MS) analysis. CONCLUSION: This study provides a comprehensive overview of the P450 gene family, facilitating a better understanding of its evolution and potential functions in B. tabaci B/MEAM1 and Q/MED. More importantly, our results suggest that CYP6CX4 may contribute to clothianidin resistance in Q/MED but not in B/MEAM1. These findings improve our understanding of P450-mediated resistance and provide useful targets for resistance monitoring and management in B. tabaci. © 2026 Society of Chemical Industry.",
+    "species_latin": "Bemisia tabaci",
+    "species_en": "Sweetpotato whitefly",
+    "species_zh": "烟粉虱",
+    "takeaway": "比较烟粉虱B/MEAM1与Q/MED的P450基因家族，发现CYP6CX4仅在Q/MED中介导噻虫胺抗性",
+    "conclusion": "两隐种基因组各含129个P450基因，clan3和clan4显著扩张，染色体排布大体保守但存在谱系特异性重排。CYP6CX4在Q/MED抗性种群中特异过表达，RNAi证实其体内赋予抗性，UPLC/MS显示其可将噻虫胺代谢为噻虫胺-胍，而B/MEAM1中无此作用，为抗性监测与治理提供靶标。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42777117",
     "title": "Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race",
     "type": "paper",
@@ -71,6 +175,32 @@
     "species_zh": "头状杜鹃",
     "takeaway": "从头状杜鹃内生真菌Preussia中分离出23个化合物，其中新化合物1具双重杀虫活性，LC50约65–75 μg/mL。",
     "conclusion": "该研究首次系统报道头状杜鹃内生真菌的次级代谢产物及杀虫潜力。新化合物preutremutin E（1）为首个天然nor-seco-tremulane型碳降解倍半萜，通过抑制乙酰胆碱酯酶、破坏解毒稳态、诱导氧化损伤与能量耗竭等多靶点途径，对豌豆蚜和松材线虫均表现杀虫活性，提示该内生真菌是开发新型天然杀虫剂的宝贵资源。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42785146",
+    "title": "Monitoring acaricide resistance in Rhipicephalus microplus: Development of a decision-support georeferenced dashboard in southern Brazil",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Preventive veterinary medicine",
+    "authors": "de Bem Bidone N, Rigon GM, Ferreira PT, Loch AL, Groff F, Doyle RL, Reck J, Klafke GM.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42785146",
+    "doi": "10.1016/j.prevetmed.2026.107015",
+    "pmid": "42785146",
+    "abstract": "Acaricide resistance in Rhipicephalus microplus represents a major constraint to sustainable cattle production in tropical and subtropical regions, yet official veterinary services often lack structured tools to integrate laboratory diagnostics with spatial information for decision-making. This study describes the development of a georeferenced monitoring dashboard for acaricide resistance using Rio Grande do Sul as a pilot model. Laboratory diagnostic data generated by the official State Veterinary Diagnostic Laboratory between 2023 and 2025 were compiled into a structured database linked to georeferenced cattle farm information. Data from a statewide resistance survey conducted in 2023 were incorporated as the baseline dataset, while subsequent results from 2024 and 2025 were derived mainly from routine passive diagnostic submissions. Resistance to major acaricide classes was categorized using a standardized four-level classification system, and a Multiresistance Index (MRAi) was calculated to summarize multidrug resistance at the farm level. The dataset included 468 georeferenced diagnostic records. High levels of multiresistance were widespread throughout the study period, with median MRAi values consistently above 2.0 and 44.6% of diagnostic records classified as presenting high multiple resistance (MRAi ≥2.5). Synthetic pyrethroids, fipronil, ivermectin, and fluazuron showed the highest proportions of moderate to high resistance. The interactive dashboard enables regularly updated visualization of resistance patterns across space and time, identification of areas with high multiple resistance, and prioritization of monitoring and extension activities. By transforming routine laboratory diagnostics into actionable, spatially explicit intelligence, this monitoring platform represents a significant step toward operational surveillance of acaricide resistance and provides a scalable model for adoption by official veterinary services and coordinated resistance management programs.",
+    "species_latin": "Rhipicephalus microplus",
+    "species_en": "Southern cattle tick",
+    "species_zh": "微小扇头蜱",
+    "takeaway": "巴西用2023–2025年官方诊断数据构建地理参照仪表盘，监测微小扇头蜱抗药性，发现多重抗药性普遍且严重。",
+    "conclusion": "该研究将实验室诊断与牧场地理信息整合，建立四级分类和多重抗药性指数（MRAi），发现研究期内多重抗药性广泛存在，中位MRAi持续高于2.0，44.6%记录为高多重抗药性；拟除虫菊酯、氟虫腈、伊维菌素和氟佐隆耐药比例最高。交互式仪表盘可时空可视化抗药性格局，支持监测与推广优先排序，为官方兽医服务和抗药性管理提供可扩展的监测模式。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -208,6 +338,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42783339",
+    "title": "Stage-Specific Mortality and Developmental Effects of Synthetic Insecticides, Entomopathogenic Fungi, and Physical Barrier Agents on Chrysoperla carnea (Neuroptera: Chrysopidae): Implications for Biological Control in Avocado Orchards",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Noboa M, Huerta-de la Peña A, Montiel-Jiménez CS, Barreiro A, Merino J, Viera-Arroyo W, Vásquez-Castillo W.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42783339",
+    "doi": "10.3390/insects17090972",
+    "pmid": "42783339",
+    "abstract": "Pesticide contamination of agroecosystems poses significant risks to non-target arthropods, including natural enemies that provide essential pest regulation services. Assessing the ecotoxicological impact of reduced-risk pesticides on beneficial predators is therefore critical for both environmental safety and sustainable agriculture. This study evaluated the lethal and sublethal ecotoxicological effects of six pesticide formulations-abamectin, deltamethrin, paraffinic oil, potassium soap, and the entomopathogens Beauveria bassiana and Metarhizium anisopliae-on second-instar larvae, third-instar larvae, pupae, and adults of the lacewing Chrysoperla carnea under laboratory conditions using topical exposure. Corrected mortality was calculated using Abbott's formula. Developmental duration and adult longevity were assessed to detect sublethal effects. According to International Organisation for Biological Control classification standards, L2 larvae were the most susceptible stage, where paraffinic oil was moderately harmful, abamectin and M. anisopliae were classified as slightly harmful, and deltamethrin was harmless. In pupae, only deltamethrin was slightly harmful, while the remaining treatments were harmless. In adults, paraffinic oil was moderately harmful and abamectin was slightly harmful, whereas potassium soap and both entomopathogens were harmless. Sublethal effects included a significant prolongation of the L2 developmental stage across all treatments and reduced adult longevity following larval exposure to deltamethrin. Overall, L3 larvae and pupae were the most tolerant stages. These results identify potassium soap and the entomopathogens as the most compatible options with C. carnea, supporting their inclusion in IPM programmes for avocado orchards, while highlighting the environmental risk posed by paraffinic oil and abamectin to early larval stages and adults of this ecologically important predator.",
+    "species_latin": "Chrysoperla carnea",
+    "species_en": "common green lacewing",
+    "species_zh": "普通草蛉",
+    "takeaway": "实验室测试六种农药对草蛉各虫态的影响，发现钾皂和两种虫生真菌最安全，而石蜡油和甲维盐风险较高。",
+    "conclusion": "草蛉二龄幼虫最敏感，三龄幼虫和蛹最耐受；石蜡油和甲维盐对早期幼虫及成虫有中等或轻微危害，并导致二龄期延长、成虫寿命缩短。钾皂与白僵菌、绿僵菌兼容性最好，适合纳入牛油果园IPM，而石蜡油和甲维盐需谨慎使用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42777373",
     "title": "Multi-omics integration and artificial intelligence for the conservation and utilization of local chicken genetic resources",
     "type": "paper",
@@ -335,6 +491,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42783337",
+    "title": "Exploring and Mitigating Insecticide Resistance in Urban Pests with New Synergists and Insecticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Ahmad A, Panhalkar V, Sarkar M, Bloomquist J.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42783337",
+    "doi": "10.3390/insects17090970",
+    "pmid": "42783337",
+    "abstract": "This review summarizes the impact of insecticide resistance in urban pests and its implications for 'One Health' systems. Mosquitoes are the major vector of human disease via blood feeding, followed by houseflies and cockroaches via physical contact, and finally bed bugs, ants, and termites, which are not typically disease vectors. Besides overt disease, other impacts in the context of One Health include nuisance biting and resultant infections, as well as allergic reactions. Control of urban pests is still primarily achieved with insecticides, which have continually improved over time. However, their use has selected for the evolution of resistance to several compound classes across broad geographical areas and multiple species. Resistance results from several types of mechanisms: altered inherited behavioral repertoires that reduce chemical exposure, modified target sites, increased metabolism, and reduced penetration, which have recently been shown to have several specific underlying causes. Overall, the literature portrays a complex resistance landscape that highlights the importance of comprehensive, multifaceted approaches to maintain effective control. New technologies and approaches for resistance management are also discussed, with emphasis on improved chemical control measures via novel synergists and insecticides from both natural and synthetic sources.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述城市害虫抗药性对One Health的影响,强调新型增效剂与杀虫剂是抗性治理关键。",
+    "conclusion": "城市害虫抗药性已在多物种、广地域内演化,机制涉及行为改变、靶标变异、代谢增强与穿透下降,形成复杂抗性格局。维持有效防控需综合多元策略,尤其应发展天然与合成来源的新型增效剂和杀虫剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42783336",
+    "title": "High Pyrethroid Resistance in Triatoma infestans Is Strongly Associated with kdr Variants: A Multiplex High-Resolution Melting Tool for Vector Surveillance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Sierra I, Traverso L, Gomez A, Lobbia PA, Mougabure-Cueto G, Domínguez G, Santini MS, Ons S.",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42783336",
+    "doi": "10.3390/insects17090969",
+    "pmid": "42783336",
+    "abstract": "Triatoma infestans is the main vector of Trypanosoma cruzi in the Southern Cone, where vectorial transmission of Chagas is still occurring despite control campaigns with pyrethroid insecticides. High pyrethroid resistance was detected in T. infestans populations from Argentina and Bolivia. This raises the urgent need for including strategies for monitoring and management of insecticide resistance as an essential component of control campaigns. Voltage-gated sodium channels are the target site of pyrethroids; non-silent single-nucleotide polymorphisms in specific sites of the gene encoding this channel, called kdr mutations, are associated with resistance to pyrethroids in many insect species, including T. infestans. The early detection of kdr in a population allows taking control decisions timely. In this work, we present the development of a high-throughput assay based on multiplex high-resolution melting for genotyping kdr variants in this species. We characterized T. infestans populations according to their toxicological response to deltamethrin and efficiently used this assay for genotyping. Our results indicate that high resistance to pyrethroids is closely related to the presence of kdr variants in T. infestans, and they provide a high-throughput method for vector surveillance and resistance management.",
+    "species_latin": "Triatoma infestans",
+    "species_en": "Triatoma infestans",
+    "species_zh": "锥蝽",
+    "takeaway": "研究开发多重高分辨率熔解技术检测锥蝽kdr突变，发现其拟除虫菊酯高抗性与kdr变异密切相关。",
+    "conclusion": "阿根廷和玻利维亚的锥蝽种群对拟除虫菊酯类杀虫剂呈现高抗性，这种抗性与电压门控钠通道基因上的kdr突变紧密关联。基于多重高分辨率熔解的基因分型方法可高效检测kdr变异，为媒介监测和抗性治理提供高通量工具。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
