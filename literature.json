@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42779480",
+    "title": "A telomere-to-telomere genome assembly of the Arachis batizocoi",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Journal of integrative plant biology",
+    "authors": "Chen G, Wang Q, Zhang B, Xu L, Miao L, Han S, Wang X, Du P, Fu L, Zhang X.",
+    "publish_date": "2026-09-24",
+    "added_at": "2026-09-25",
+    "url": "https://europepmc.org/article/MED/42779480",
+    "doi": "10.1111/jipb.70405",
+    "pmid": "42779480",
+    "abstract": "A gap-free, 1.29 Gb telomere-to-telomere genome of the wild peanut Arachis batizocoi achieved 98.50% BUSCO completeness and 38,919 annotated genes. Comparative analyses resolved ten centromeres, rust-resistance transcriptomes were analyzed, and the triploid hybrid W2557 was generated for breeding.",
+    "species_latin": "Arachis batizocoi",
+    "species_en": "wild peanut",
+    "species_zh": "野生花生",
+    "takeaway": "野生花生Arachis batizocoi完成无间隙端粒到端粒基因组组装，注释38919个基因，并用于抗锈病与育种研究。",
+    "conclusion": "该研究获得1.29 Gb无间隙端粒到端粒基因组，BUSCO完整度98.50%，注释38919个基因，解析了10个着丝粒，分析了抗锈病转录组，并创制三倍体杂种W2557，为花生抗病育种提供了高质量参考基因组与材料。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42777117",
     "title": "Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race",
     "type": "paper",
