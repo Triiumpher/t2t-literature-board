@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42790882",
+    "title": "Haplotype-specific analyses in apple: insights from 'Golden Delicious'",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Journal of experimental botany",
+    "authors": "Bianco L, Busatto N, Moser M, Micheletti D, Spina L, Troggio M, Piazza S, Costa F, Fontana P.",
+    "publish_date": "2026-09-26",
+    "added_at": "2026-09-26",
+    "url": "https://europepmc.org/article/MED/42790882",
+    "doi": "10.1093/jxb/erag478",
+    "pmid": "42790882",
+    "abstract": "Apple is one of the major cultivated fruit crops in temperate regions. To better support breeding programs and facilitate the development of improved cultivars, we generated a new haplotype-resolved and phased version of the 'Golden Delicious' genome, one of the founders of many modern apple lineages. The phased assembly features the separation of the two haplotypes, with a total size of 647.3 Mb and 649.2 Mb, respectively. The phasing was accurately validated with 10,321 specific Single Nucleotide Polymorphisms (SNPs). Telomere-to-telomere continuity was verified by the analysis of telomeric sequence composition at the end of each chromosome. Gene prediction identified a total of 45,116 genes in haplotype 1 and 45,063 genes in haplotype 2. A pangenome analysis employing 6 haplotype resolved genomes identified both common and unique gene families. The availability of a phased genome enabled the assessment of genome-wide allelic specific expression. Our case study, focusing on Md-PG1 (a key regulator of fruit softening), revealed that the allele present on haplotype 2 (GDH2-10g24673) was the dominant contributor to total gene expression. In addition, the phased genome also showed specific miRNA chromosomal distribution patterns, as well as a distinct methylation profile. Altogether, these genomic resources provide new insights into the allelic regulation of key agronomic traits and represent a valuable tool to accelerate apple breeding.",
+    "species_latin": "Malus domestica",
+    "species_en": "Apple",
+    "species_zh": "苹果",
+    "takeaway": "研究发布'金冠'苹果双单倍型端粒到端粒基因组,揭示等位基因特异表达与表观遗传特征。",
+    "conclusion": "该研究构建了'金冠'苹果单倍型分型的端粒到端粒基因组,两套单倍型各约647-649 Mb,分别预测约4.5万个基因;泛基因组分析区分共有与特有基因家族,并发现Md-PG1果实软化关键基因的表达主要由2号单倍型等位基因贡献,同时揭示miRNA分布与甲基化谱的单倍型差异,为苹果等位基因调控研究和育种提供资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42789142",
     "title": "Portable bioactive capsule-integrated electrochemical-colorimetric dual-mode biosensor based on Mn/Ce MOF nanozyme for rapid detection of malathion in water",
     "type": "paper",
@@ -45,6 +71,32 @@
     "species_zh": "褐飞虱",
     "takeaway": "中国西南稻区褐飞虱对噻嗪酮和吡虫啉高抗，CYP427A1介导的代谢解毒是关键机制。",
     "conclusion": "西南稻区褐飞虱田间种群对噻嗪酮和吡虫啉产生高水平抗性，P450活性升高且CYP427A1显著上调；沉默该基因可大幅恢复药效，分子对接与体外代谢证实其能直接代谢两种杀虫剂，表明CYP427A1介导的代谢抗性是关键机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42790577",
+    "title": "Patterns of bromethalin exposure and toxicosis in California mammals across a shifting rodenticide use landscape",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Bourbour RP, Rudd JL, Poppenga RH, Jane Riner A, Munk B, Clifford DL.",
+    "publish_date": "2026-09-25",
+    "added_at": "2026-09-26",
+    "url": "https://europepmc.org/article/MED/42790577",
+    "doi": "10.1016/j.envpol.2026.129245",
+    "pmid": "42790577",
+    "abstract": "Bromethalin is an acutely neurotoxic rodenticide used as an alternative to anticoagulant rodenticides (ARs) for commensal rodent control. Non-target exposure to bromethalin, and its highly toxic hepatic metabolite, desmethylbromethalin (DMB), is an emerging concern for non-target wildlife yet the ecological implications remain poorly understood. We evaluated patterns of bromethalin exposure and toxicosis in wild mammals using postmortem data collected from 2017-2024 in California, USA. Wildlife samples tested for bromethalin exposure during the study period were screened opportunistically, under suspicion of rodenticide toxicity, or part of species-focused mortality research projects. To contextualize these findings, we analyzed Pesticide Use Reporting (PUR) records to compare reported bromethalin and second-generation AR (SGAR) applications before (2018-2020) and after (2021-2023) implementation of statewide SGAR restrictions. Bromethalin exposure was confirmed in 24.4% (131/537) of tested carcasses across 13 species, with mesocarnivores and omnivores comprising most detections. Among exposed individuals, 25.2% (33/131) met criteria for bromethalin toxicosis (DMB detection and characteristic clinical signs and/or lesions, with alternative causes excluded), primarily raccoons, gray foxes, and striped skunks. Adipose tissue provided the highest detection frequency among tested tissues, indicating its utility for wildlife investigations and biomonitoring. Reported statewide bromethalin use increased over the study period, coinciding with reductions in reported SGAR applications following regulatory restrictions. These findings demonstrate widespread bromethalin exposure in both mammalian omnivores and carnivores, highlighting the need for continued postmortem testing to monitor non-target wildlife exposure as rodenticide use patterns shift in response to regulatory changes.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "加州野生哺乳动物中溴敌隆暴露普遍，中食肉与杂食动物为主，且使用量随SGAR限制而上升。",
+    "conclusion": "2017—2024年加州537份野生动物尸体中24.4%确认溴敌隆暴露，25.2%暴露个体符合中毒标准，主要为浣熊、灰狐和条纹臭鼬；脂肪组织检出率最高，适合生物监测。州内溴敌隆报告使用量上升，与SGAR限制后用量下降同步，提示需持续死后检测以监测非靶标野生动物。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -257,6 +309,32 @@
       "新型杀虫剂"
     ],
     "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42790086",
+    "title": "Molecular interactions of gallic acid, epigallocatechin gallate, and tannic acid with pea protein during high-moisture extrusion: Impact on meat analogue quality",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Food chemistry",
+    "authors": "Chen Q, Dong P, Liu D, Li S, Zhang Y, Chen Z, Wang X.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-26",
+    "url": "https://europepmc.org/article/MED/42790086",
+    "doi": "10.1016/j.foodchem.2026.151276",
+    "pmid": "42790086",
+    "abstract": "To provide a deep insight into the regulatory mechanism of polyphenols on the quality of plant-based meat analogues, molecular interactions between pea protein isolate and different phenolic compounds (gallic acid (GA), epigallocatechin gallate (EGCG), and tannic acid (TA)) during high-moisture extrusion were investigated. TA led to the greatest reductions in surface hydrophobicity and highest increases in β-sheet structures, promoting the formation of the extrudate with highest chewiness (477.63 mJ) and anisotropy index (1.56). EGCG enhanced the disulfide bonding, leading to the highest springiness (3.46 mm) and cooking yield (174.47%). GA showed limited effects on protein structural changes and product qualities. Molecular docking revealed that these polyphenols mainly bound to PPI via hydrogen bonding and hydrophobic interactions, with the binding affinity following the order of TA > EGCG > GA. These findings provide a scientific basis for the targeted selection of phenolic compounds as natural functional modifiers for meat analogues.",
+    "species_latin": "Pisum sativum",
+    "species_en": "Pea",
+    "species_zh": "豌豆",
+    "takeaway": "研究三种多酚与豌豆蛋白在高水分挤压中的分子互作，发现单宁酸提升咀嚼性和各向异性最强。",
+    "conclusion": "多酚通过氢键和疏水作用与豌豆分离蛋白结合，结合亲和力为单宁酸>EGCG>没食子酸。单宁酸降低表面疏水性并增加β-折叠，使挤压物咀嚼性和各向异性最高；EGCG增强二硫键，提升弹性和蒸煮得率；没食子酸作用有限。为靶向选用多酚改良植物肉品质提供依据。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
