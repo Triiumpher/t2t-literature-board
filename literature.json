@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42789142",
+    "title": "Portable bioactive capsule-integrated electrochemical-colorimetric dual-mode biosensor based on Mn/Ce MOF nanozyme for rapid detection of malathion in water",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Mikrochimica acta",
+    "authors": "Li S, Wang S, Chang G, Yang Y, Feng H, Xue H, Zhang L, Luo M, Liu J, Li B, Xu S.",
+    "publish_date": "2026-09-25",
+    "added_at": "2026-09-26",
+    "url": "https://europepmc.org/article/MED/42789142",
+    "doi": "10.1007/s00604-026-08398-5",
+    "pmid": "42789142",
+    "abstract": "To enable rapid and reliable on-site monitoring of organophosphorus pesticides a novel portable dual-mode biosensor has been developed which integrates electrochemical and colorimetric detection into a single freeze-dried bioactive capsule. This innovative design supports instrument-free operation and provides dual-signal cross-validation. The sensor is based on a newly synthesized Mn/Ce bimetallic metal-organic framework (MOF) nanozyme with high oxidase-like activity, co-immobilized with acid phosphatase (ACP) within a mannitol- and sucrose-stabilized lyophilized capsule to ensure long-term stability and field readiness. In the presence of malathion, the pesticide selectively inhibits ACP, thereby restoring the MOF's catalytic activity and enabling the oxidation of 3,3',5,5'-tetramethylbenzidine (TMB). The resulting signal is detected both visually and through chronoamperometry after conversion to a yellow diimine product. This approach achieves a wide linear detection range of 1-2000 nM and an exceptionally low detection limit of 0.06 nM for malathion, along with high accuracy evidenced by recoveries of 93.31%-104.03% in real water samples. This work establishes a field-deployable and user-friendly sensing platform that combines innovative material design with integrated dual-mode detection, offering a robust and practical strategy for on-site environmental monitoring.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用Mn/Ce MOF纳米酶与酸性磷酸酶共固定于冻干胶囊，构建电化学-比色双模传感器，实现水中马拉硫磷快速检测。",
+    "conclusion": "该双模传感器利用马拉硫磷抑制酸性磷酸酶从而恢复MOF氧化酶活性，催化TMB显色并产生电化学信号，实现双重交叉验证。检测线性范围1-2000 nM，检出限低至0.06 nM，实际水样回收率93.31%-104.03%，为有机磷农药现场监测提供了便携、免仪器的实用平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42788637",
+    "title": "CYP427A1-mediated metabolic resistance to buprofezin and imidacloprid in Nilaparvata lugens from southwestern rice regions of China",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Li X, Tan F, Pan W, Zhang Y, Li W, Liang A, Liu J, Gao Z, Pu J, Wang X.",
+    "publish_date": "2026-09-25",
+    "added_at": "2026-09-26",
+    "url": "https://europepmc.org/article/MED/42788637",
+    "doi": "10.1002/ps.71359",
+    "pmid": "42788637",
+    "abstract": "BACKGROUND: Nilaparvata lugens migrates into the inland via the southwestern rice regions of China (SWRR). If pest control fails in this gateway region, it would pose a serious threat to inland rice production. However, due to the historical lack of systematic insecticide resistance monitoring in SWRR, high-level resistance to commonly used insecticides in field populations is continuously and uncontrollably developing. RESULTS: Compared to the Lab-HZ strain, SWRR populations showed significantly higher resistance to buprofezin and imidacloprid. Specifically, the Wangzhou2024 (WZ24) population from Chongqing exhibited a resistance ratio (RR) of 463.21-fold to buprofezin, while the Dehong2024 (DH24) population from Yunnan showed an RR of 758.75-fold to imidacloprid. In these resistant populations, cytochrome P450 monooxygenase (P450) activity increased by 2.5-6.1-fold, and expression of CYP427A1 was up-regulated by 3.8- and 14.4-fold. RNA interference-mediated silencing of CYP427A1 increased mortality of approximately 90% following exposure to buprofezin and imidacloprid. Molecular docking revealed that the binding free energies of CYP427A1 with buprofezin and imidacloprid were -6.1 and -6.3 kcal/mol, respectively, and recombinant CYP427A1 could metabolize both insecticides in vitro. CONCLUSION: This study provides a systematic assessment of insecticide resistance levels in N. lugens from SWRR and demonstrates that CYP427A1-mediated metabolism as a key contributor to high-level resistance to buprofezin and imidacloprid in the populations examined. © 2026 Society of Chemical Industry.",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "中国西南稻区褐飞虱对噻嗪酮和吡虫啉高抗，CYP427A1介导的代谢解毒是关键机制。",
+    "conclusion": "西南稻区褐飞虱田间种群对噻嗪酮和吡虫啉产生高水平抗性，P450活性升高且CYP427A1显著上调；沉默该基因可大幅恢复药效，分子对接与体外代谢证实其能直接代谢两种杀虫剂，表明CYP427A1介导的代谢抗性是关键机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42779480",
     "title": "A telomere-to-telomere genome assembly of the Arachis batizocoi",
     "type": "paper",
@@ -178,7 +230,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.14719/pst.14204",
+    "title": "RNAi-based bioinsecticides for sustainable agriculture: from molecular discovery to field deployment and global policy perspectives",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plant Science Today",
+    "authors": "Ashutosh Nayak, Bose Chirasmita, Nihal Ravindranath, Satyabrata Nanda",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-26",
+    "url": "https://doi.org/10.14719/pst.14204",
+    "doi": "10.14719/pst.14204",
+    "pmid": "",
+    "abstract": "RNA interference (RNAi) is an effective technique for sustainable insect management by providing effective, targeted and species-specific solutions that can be deployed as an alternative to traditional chemical-based synthetic pesticides. RNAi is highly specific in nature, with a remarkable safety profile, rapid biodegradation and minimum risk to non-target organisms and reduces the environmental risk. In addition, the changing environmental and regulatory dynamics have made intergovernmental agencies and bodies initiate the approval of RNAi products, reflecting growing acceptability. Moreover, with the current advances in synthetic biology and artificial intelligence, the design and deployment of RNA-mediated insect control will be further facilitated. Thus, RNAi, which is regarded today as mostly a lab-scale experimental technique, can cement its place as a next-generation and sustainable integrated pest management solution. This review encompasses the theory and scientific principles behind RNAi-based biopesticides, from sequence identification to field deployment. It further addresses other critical issues in RNAi-mediated insect control, such as the discovery of target insect genes, double-stranded RNA degradation affecting efficacy and emerging delivery strategies, including foliar sprays, nanoparticle encapsulation and systemic approaches to enhance stability and cellular uptake. Moreover, the review provides an end-to-end comprehension and comparison of the molecular discovery, deployment and policy perspectives related to RNAi-based insect management. Together, these advances position RNAi as a promising but still evolving platform for sustainable pest management, with its impact ultimately depending on delivery efficiency, biosafety and regulatory readiness. Future progress will require coordinated advances in formulation science, target validation and policy support to enable reliable field deployment.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述RNAi生物杀虫剂从靶基因发现、dsRNA递送到田间应用与监管政策，指出其可持续但受递送效率与法规制约。",
+    "conclusion": "RNAi生物杀虫剂具高特异性、可降解、对非靶标生物风险低等优势，正从实验室走向田间。其效果取决于靶基因筛选、dsRNA稳定性与递送策略（叶面喷施、纳米颗粒包封、系统递送），并需配方科学、靶标验证与政策支持协同推进。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
