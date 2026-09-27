@@ -126,7 +126,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -491,6 +491,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42796629",
+    "title": "Larvicidal Activity, GC-MS Profiling and Multitarget Molecular Docking of Essential Oils from Cymbopogon citratus, Tanacetum cinerariifolium and Salvia rosmarinus Against Anopheles arabiensis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Molecules (Basel, Switzerland)",
+    "authors": "Osoro EK, Kithetu BM, Muthengi A, Kimani NM, Ngcangatha BA, Ngugi F, Agoro MA, Rono N.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-27",
+    "url": "https://europepmc.org/article/MED/42796629",
+    "doi": "10.3390/molecules31183346",
+    "pmid": "42796629",
+    "abstract": "Malaria remains a major public health challenge, particularly in sub-Saharan Africa, necessitating the development of environmentally sustainable alternatives to conventional insecticides. This study evaluated the larvicidal efficacy of essential oils extracted from Cymbopogon citratus, Tanacetum cinerariifolium and Salvia rosmarinus against Anopheles arabiensis larvae. The phytochemical composition of the essential oils was characterized using gas chromatography-mass spectrometry (GC-MS), while their potential molecular mechanisms of action were investigated through molecular docking against selected mosquito larval target proteins. All essential oils exhibited concentration-dependent larvicidal activity, with T. cinerariifolium (LC50 = 511.0 mg/L; 95% CI: 473.3-547.1 mg/L) and C. citratus (LC50 = 602.7 mg/L; 95% CI: 559.3-648.5 mg/L) demonstrating the greatest potency. GC-MS analysis identified sesquiterpene hydrocarbons as the predominant constituents of T. cinerariifolium, whereas oxygenated monoterpenes dominated the oils of C. citratus and S. rosmarinus. Hierarchical molecular docking followed by MM-GBSA analysis against mosquito juvenile hormone-binding protein (JHBP) and sterol carrier protein-2 (SCP-2) revealed that 87.13% and 77.23% of the identified phytochemicals, respectively, exhibited favorable binding affinities toward these targets, indicating that a substantial proportion of the essential oil constituents have the potential to interact with proteins critical for mosquito development and survival. Farnesol emerged as the most promising multitarget phytochemical, displaying consistently favorable docking scores and binding free energies against both proteins, while 1,10-di-epi-cubenol and (5Z,9Z)-farnesyl acetone exhibited the strongest target-specific interactions with JHBP and SCP-2, respectively. In addition, the lead compounds satisfied Tice's insecticide-likeness criteria, supporting their suitability as insecticidal leads. Collectively, these findings demonstrate that the larvicidal activity of the investigated essential oils is likely mediated through the synergistic action of multiple phytochemicals acting on complementary molecular targets, highlighting T. cinerariifolium and C. citratus as promising sources of eco-friendly botanical larvicides for mosquito vector control.",
+    "species_latin": "Anopheles arabiensis",
+    "species_en": "Anopheles arabiensis",
+    "species_zh": "阿拉伯按蚊",
+    "takeaway": "三种植物精油对阿拉伯按蚊幼虫有浓度依赖性杀灭作用，其中除虫菊和柠檬草最强，法尼醇为多靶点潜力成分。",
+    "conclusion": "三种精油均具杀幼虫活性，除虫菊与柠檬草效果最佳；GC-MS显示倍半萜烃或含氧单萜为主要成分。分子对接表明多数成分可结合JHBP和SCP-2，法尼醇等多靶点成分符合杀虫剂成药性，提示精油活性源于多成分协同作用于互补靶标。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -936,6 +962,110 @@
     "llm_enhanced": true
   },
   {
+    "id": "doi-10.1016/j.abiote.2026.100091",
+    "title": "A telomere-to-telomere assembly of the white mulberry (Morus alba) genome provides insights into karyotype evolution and the white-fruit phenotype in Morus",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "aBIOTECH",
+    "authors": "Fangfang Peng, Xunlan Li, Zhaoxin Wei, Guohui Han, Xiaoyu Wang",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-27",
+    "url": "https://doi.org/10.1016/j.abiote.2026.100091",
+    "doi": "10.1016/j.abiote.2026.100091",
+    "pmid": "",
+    "abstract": "Peng F., Li X., Wei Z., Han G. & Wang X., A telomere-to-telomere assembly of the white mulberry (Morus alba) genome provides insights into karyotype evolution and the white-fruit phenotype in Morus, aBIOTECH, https://",
+    "species_latin": "Morus alba",
+    "species_en": "white mulberry",
+    "species_zh": "白桑",
+    "takeaway": "研究完成白桑端粒到端粒基因组组装，揭示其核型演化与白果表型机制。",
+    "conclusion": "该研究构建了白桑端粒到端粒无间隙基因组，为解析桑属核型演化提供了高质量参考，并有助于阐明白果表型的遗传基础，对桑树遗传改良与进化研究具有重要价值。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42794750",
+    "title": "Lessons from In Utero and Postnatal Exposure to Pesticide DDT: Mechanisms of Chromaffin Cell Vulnerability and Altered Catecholamine Homeostasis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of molecular sciences",
+    "authors": "Yaglova NV, Tutelyan VA, Tarmaeva IY, Obernikhin SS, Nikityuk DB.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-27",
+    "url": "https://europepmc.org/article/MED/42794750",
+    "doi": "10.3390/ijms27188323",
+    "pmid": "42794750",
+    "abstract": "Dichlorodiphenyltrichloroethane (DDT) remains one of the most emblematic and enduring persistent organic pollutants of the 20th century. Although prohibited for agricultural use in most industrialized nations during the 1970s-1980s on the grounds of its persistence, bioaccumulation, and carcinogenicity, DDT was reintroduced by the World Health Organization in 2006 for indoor residual spraying against vector-borne diseases. Consequently, its environmental burden continues to be replenished rather than diminished. Biomonitoring surveys confirm the near-ubiquity of DDT residues in human populations. Low-dose human exposure to DDT occurs predominantly through contaminated food. Its main health risk is the ability of DDT to disrupt endocrine function. Numerous reports show negative effects of DDT on the reproductive system, the thyroid gland, and immune defense. Affection of the nervous system is sufficiently less studied. This article presents known mechanisms of endocrine disruption and summarizes current data on the disruption of the adrenal medulla by low-dose exposure to DDT. The review focuses on the three main aspects of chromaffin cell biology. The first one is endocrine function, including synthesis of catecholamines, secretory machinery and release of catecholamines into circulation. The second is embryonic and postnatal development of the adrenal medulla, and the third one is physiological cell renewal and maintenance of cell population, a novel enigmatic aspect of endocrine disruption. In conclusion, the authors present integrated mechanisms of disruption and indicate gaps in knowledge and directions for further investigations.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述低剂量DDT经孕期及出生后暴露干扰嗜铬细胞,导致儿茶酚胺稳态失衡。",
+    "conclusion": "DDT作为持久性内分泌干扰物,低剂量暴露可影响肾上腺髓质嗜铬细胞的内分泌功能、胚胎与出生后发育及细胞更新,进而破坏儿茶酚胺稳态;该神经内分泌环节研究不足,需进一步探索其整合机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42794749",
+    "title": "Multimodal Insecticidal Activity of α-Humulene Against Chilo suppressalis via Endocrine Disruption and Transcriptional Suppression of Cuticular Proteins",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of molecular sciences",
+    "authors": "Peng Z, Lu W, Meng Y, Lin J, Zhang X, Guo Z, Zhao R, Li X, Liu M, Zhou Q, He Y, Ji R, Wang G, Yang L, Sun Y, Zhao P.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-27",
+    "url": "https://europepmc.org/article/MED/42794749",
+    "doi": "10.3390/ijms27188322",
+    "pmid": "42794749",
+    "abstract": "Striped rice stem borer (Chilo suppressalis, SSB) poses a substantial threat to global rice production, leading to considerable economic loss. In this study, we explored the insecticidal mechanism of α-humulene, a sesquiterpene derived from Humulus lupulus, against SSB larvae. Bioassays indicated that α-humulene markedly elevated larval mortality rates and extended developmental periods. Transcriptomic analysis revealed the upregulation of genes involved in juvenile hormone (JH) biosynthesis and the downregulation of cuticle protein genes. Molecular docking experiments demonstrated that α-humulene could form putative binding interactions with both cuticular proteins and key enzymes in the JH biosynthesis pathway, suggesting a potential interaction that may influence the structural stability of the cuticle and hormonal balance. Furthermore, JH and ecdysone titer assays confirmed hormonal imbalance in treated larvae. This study identified α-humulene as a novel multimodal insecticidal compound targeting two critical systems, namely endocrine disruption via dysregulated JH biosynthesis, and structural integrity impairment through cuticle protein suppression, presenting a sustainable approach for the eco-friendly management of rice pests.",
+    "species_latin": "Chilo suppressalis",
+    "species_en": "striped rice stem borer",
+    "species_zh": "二化螟",
+    "takeaway": "α-蛇麻烯通过扰乱保幼激素与抑制表皮蛋白，对二化螟幼虫具多靶标杀虫活性。",
+    "conclusion": "α-蛇麻烯可提高二化螟幼虫死亡率并延长发育期，其机制为上调保幼激素合成基因、下调表皮蛋白基因，分子对接与激素滴度测定证实其干扰内分泌平衡并破坏表皮结构，为水稻害虫绿色防控提供新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42792599",
+    "title": "Green Management Strategies for Cochliomyia hominivorax Myiasis: Potential of Essential Oils and Nanodelivery Systems",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biology",
+    "authors": "García-Ponce R, Villarreal-Villarreal JP, Hernández Escareño JJ, Espinosa-Carranza NN, Heya MS, Silva-Martínez KL, Rosado-Aguilar JA, Hernández-Vidal G.",
+    "publish_date": "2026-09-18",
+    "added_at": "2026-09-27",
+    "url": "https://europepmc.org/article/MED/42792599",
+    "doi": "10.3390/biology15181654",
+    "pmid": "42792599",
+    "abstract": "Cochliomyia hominivorax, the main etiological agent of traumatic myiasis in the New World, continues to have significant health and economic impacts due to its effects on animal health, livestock production and public health in affected regions. Although conventional control strategies, including the Sterile Insect Technique and chemical insecticides, have substantially reduced its distribution, concerns regarding insecticide resistance, environmental impacts, and recent re-emergence events underscore the need for sustainable alternative control approaches. This review summarizes current advances in the use of EOs and plant-derived bioactive compounds for the management of myiasis-causing flies, with particular emphasis on C. hominivorax, and discusses the emerging role of nanocarrier-based delivery systems in enhancing their biological performance. EOs and their major constituents exhibit larvicidal, ovicidal, adulticidal, repellent, and oviposition-deterrent effects through multiple mechanisms that disrupt essential physiological and developmental processes in insects. Several EOs have shown promising activity against C. hominivorax larvae; however, their practical application is often limited by their high volatility, low aqueous solubility, and physicochemical instability. Nanodelivery systems, including nanoemulsions, polymeric nanoparticles, and solid lipid nanoparticles, offer effective strategies to improve the stability, bioavailability, controlled release, and overall efficacy of plant-derived bioactive compounds. Current evidence indicates that nanodelivery systems enhance the stability and insecticidal efficacy of EOs while reducing the concentrations required to achieve biological activity, supporting their potential for the prevention and treatment of C. hominivorax myiasis. Nevertheless, further in vivo and field studies are required to validate their practical application.",
+    "species_latin": "Cochliomyia hominivorax",
+    "species_en": "New World screwworm fly",
+    "species_zh": "嗜人锥蝇",
+    "takeaway": "综述指出精油及其纳米递送系统可提升对嗜人锥蝇蛆症的防控效果",
+    "conclusion": "精油及植物源活性成分通过杀幼虫、杀卵、驱避等多机制作用于嗜人锥蝇，但易挥发、难溶、不稳定限制其应用；纳米乳、聚合物纳米粒和固体脂质纳米粒等递送系统可提高稳定性、生物利用度与控释能力，降低有效浓度，有望用于蛆症防治，但仍需体内与田间验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "title-larvaldietmediatedmorphologicaltraitandwolbachiadensityvaria",
     "title": "Larval diet-mediated morphological trait and Wolbachia density variation in Wolbachia-transinfected (wMel and wAlbB) and Wolbachia-free Aedes aegypti mosquitoes",
     "type": "paper",
@@ -1089,6 +1219,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42793034",
+    "title": "Subgenome-Resolved Analysis and Regulatory Divergence of UDP-Glycosyltransferases in Allotetraploid Panax ginseng",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genes",
+    "authors": "Guo Q, He X, Yang L, Tian X, Wu M, Zhang T, Feng L, Jia A.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-27",
+    "url": "https://europepmc.org/article/MED/42793034",
+    "doi": "10.3390/genes17091140",
+    "pmid": "42793034",
+    "abstract": "Background: Polyploidization generates extensive gene redundancy, but how duplicated metabolic genes are retained and subsequently diversified remains poorly understood. UDP-glycosyltransferases (UGTs) provide a suitable system for examining this process because they participate in specialized metabolism, plant development, and environmental responses. This study aimed to characterize the retention, expansion, and regulatory divergence of the UGT family in allotetraploid Panax ginseng at subgenome resolution. Methods: We integrated telomere-to-telomere (T2T) genome annotation, phylogenetic and chromosomal analyses, duplication classification, collinearity and Ka/Ks analyses, promoter cis-acting element prediction, developmental co-expression networks, and transcriptomic responses to biotic and abiotic treatments. Results: A total of 212 PgUGT genes were identified, including 104 and 108 members in the A and B subgenomes, respectively. The family exhibited an overall near-mirrored retention pattern between the two subgenomes, accompanied by local copy-number asymmetry. Whole-genome and segmental duplication accounted for 64.2% of the family, and 99.5% of the gene pairs with valid Ka/Ks estimates had values below 1, suggesting pervasive purifying selection. PgUGT-containing co-expression modules were associated with bud, stem, leaf, and fruit developmental conditions, while promoter cis-acting element compositions exhibited member-specific variation. Transcriptional responses to fungal pathogens and abiotic, hormone, and chemical treatments were concentrated in particular members and local gene arrays rather than being coordinated across entire clades or subgenomes. Conclusions: The PgUGT family is characterized by extensive ancestral copy retention accompanied by local copy-number changes and copy-specific regulatory divergence. These findings provide a subgenome-resolved framework for understanding UGT family evolution in allotetraploid ginseng and prioritize candidate PgUGT genes for subsequent functional validation.",
+    "species_latin": "Panax ginseng",
+    "species_en": "ginseng",
+    "species_zh": "人参",
+    "takeaway": "人参异源四倍体UGT家族以祖先拷贝广泛保留为主,局部拷贝数变化与调控分化并存。",
+    "conclusion": "基于T2T基因组解析,人参212个PgUGT基因在A、B亚基因组间呈近镜像保留,全基因组与片段重复贡献64.2%,多数基因对受纯化选择;启动子元件与逆境、激素等转录响应集中于特定成员和局部基因簇,而非整个分支或亚基因组协同,提示拷贝特异性调控分化是UGT家族演化的重要特征,并为功能验证提供候选基因。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42796877",
+    "title": "Flavonoids as Antimicrobial Pesticides: Mechanisms of Action, Formulation Strategies, and Perspectives for Pre- and Postharvest Disease Management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plants (Basel, Switzerland)",
+    "authors": "Pereira V, Santos L, Castilho PC.",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-09-27",
+    "url": "https://europepmc.org/article/MED/42796877",
+    "doi": "10.3390/plants15182847",
+    "pmid": "42796877",
+    "abstract": "The global spread and incidence of microbial phytopathogens are expected to increase due to climate change and the intensification of international food trade, threatening crop productivity. While pesticides remain essential for managing disease severity, European regulations and initiatives, such as the Green Deal, have emphasized the urgent need to reduce their indiscriminate use, which has contributed to pest resistance, environmental contamination, and human health issues. Botanical pesticides, particularly flavonoids, represent promising complements to traditional pesticides because of their diverse composition of antimicrobial agents. Therefore, this review provides an overview of the antimicrobial potential of flavonoids for microbial phytopathogens, focusing on agricultural fungal pathogens and bacterial phytopathogens. The mechanisms of action by which flavonoids exert their pesticidal activity are detailed, along with structure-activity relationships, formulation, and market perspectives. The literature reveals that flavonoids possess strong potential against pre- and postharvest crop diseases caused by fungal and bacterial pathogens owing to their ability to exert multisite activity, although limited data is verified for antibacterial studies. However, their successful transition to the pesticide market requires field performance validation, formulation technologies, toxicological assessment, and regulatory harmonization.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述黄酮类化合物作为农用抗菌农药,可多靶点防治作物真菌与细菌病害,但抗菌数据有限且需田间验证。",
+    "conclusion": "黄酮类化合物对采收前后作物真菌和细菌病害具较强防治潜力,其作用机制为多靶点活性,并涉及构效关系与制剂策略;但抗菌研究数据不足,且需田间效果验证、制剂技术、毒理学评估及法规协调才能推向农药市场。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -1687,6 +1869,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42797739",
+    "title": "Prenatal Chlorpyrifos Exposure Induces Ovarian Toxicity in Rat Offspring: Modulatory Potential of Curcumin",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxics",
+    "authors": "Gülsoy G, Sağır D.",
+    "publish_date": "2026-09-15",
+    "added_at": "2026-09-27",
+    "url": "https://europepmc.org/article/MED/42797739",
+    "doi": "10.3390/toxics14090820",
+    "pmid": "42797739",
+    "abstract": "Background: Chlorpyrifos (CPF) is a widely used organophosphate pesticide that can reach the developing organism during gestation. The finite ovarian follicle pool is established early, yet prenatal CPF effects on it remain poorly characterized by unbiased quantitative methods. This study evaluated the developmental ovarian toxicity of prenatal CPF exposure and the modulatory potential of curcumin in rat offspring. Methods: Pregnant Wistar rats were assigned to Control, Sham, CPF (5 mg/kg/day), CUR (100 mg/kg/day), and CPF + CUR groups (five dams per group). Anogenital distance was recorded at birth (PND1). Female offspring were examined at postnatal day 28 using ovarian weight, histopathology, unbiased stereological follicle quantification, cortical volume estimation, serum anti-Müllerian hormone (AMH), serum cholinesterase activity, and biochemical markers of ovarian oxidative status and inflammation. The litter was the unit of analysis (n = 5 litters per group). Results: Prenatal CPF exposure produced marked, quantifiable alterations in ovarian structure, including decreased cortical volume, structural disorganization, vascular alterations, and follicular degeneration. Primordial, preantral, and antral follicle counts were significantly reduced versus controls (p < 0.0001), accompanied by significantly reduced ovarian weight and a shorter anogenital distance at birth. Serum AMH was lower in CPF-exposed offspring, and serum cholinesterase activity was reduced. In the curcumin co-treatment group, changes were partially less pronounced, with better-preserved follicular architecture and higher cortical volume than the CPF group. Ovarian oxidative and inflammatory activity increased with CPF exposure and was less marked with curcumin co-treatment. Reproductive-hormone measurements, including AMH, were not analytically validated in-house and are reported as exploratory. Conclusions: Prenatal CPF exposure induced structural and biochemical alterations consistent with developmental ovarian toxicity in rat offspring. Curcumin co-administration was associated with partially less pronounced changes, suggesting a modulatory rather than a fully protective role. Given the limited number of litters, findings should be interpreted with caution.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Rat",
+    "species_zh": "大鼠",
+    "takeaway": "孕期毒死蜱暴露致大鼠雌性后代卵巢结构损伤与卵泡减少，姜黄素可部分缓解",
+    "conclusion": "孕期毒死蜱暴露导致雌性大鼠后代卵巢皮质体积缩小、卵泡储备下降、抗氧化与抗炎失衡，并降低AMH与胆碱酯酶活性，提示发育期卵巢毒性；姜黄素共处理可部分保留卵泡结构与皮质体积，起调节而非完全保护作用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
