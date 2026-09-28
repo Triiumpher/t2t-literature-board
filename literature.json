@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42799922",
+    "title": "Targeted pesticide screening and multi-matrix toxic-element monitoring in a highland vegetable production system of southern Lao PDR: implications for surveillance prioritization",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental monitoring and assessment",
+    "authors": "Wattanakornsiri A, Sarma H, Buasri W, Khaengkhun N, Junkhiew J, Thepsombath S, Sylaphet S, Luangsanvang K, Keomanivong P, Khambaione S, Phouvanekham K, Sansy B, Phuengphai P.",
+    "publish_date": "2026-09-26",
+    "added_at": "2026-09-28",
+    "url": "https://europepmc.org/article/MED/42799922",
+    "doi": "10.1007/s10661-026-15927-5",
+    "pmid": "42799922",
+    "abstract": "Vegetable-production systems connect edible crops with cultivation soil and irrigation water, yet multi-matrix evidence from tropical highland production areas remains limited. This pilot study characterized targeted pesticide residues and potentially toxic elements across co-located crop-soil-water matrices at three monitored sites in Pakxong District, Lao People's Democratic Republic, during September-November 2024. Forty-five composite vegetable samples were screened using four predefined liquid chromatography-tandem mass spectrometry panels comprising 213 analyte-method combinations, with some analytes repeated across panels. Lead (Pb), cadmium (Cd), arsenic (As), and total chromium (Cr) were determined in selected vegetables (n = 27), cultivation soils (n = 15), and stored irrigation water (n = 15) using matrix-appropriate atomic spectrometric methods. No pesticide target was detected above the applicable limits of detection (0.004-0.005 mg kg⁻1 fresh weight), although several locally relevant pyrethroids were not included in the target lists. Acid-digestible cultivation soils contained Pb, As, and total Cr, whereas Cd remained below the applicable reporting limits. Stored irrigation water contained Pb at 0.031-0.045 mg L⁻1 and total Cr at 0.024-0.038 mg L⁻1. Coriander contained Pb, Cd, As, and total Cr at 0.066-0.074, 0.011-0.012, 0.011-0.012, and 0.032-0.037 mg kg⁻1 fresh weight, respectively; occurrence was limited or non-detectable in the two heading Brassica vegetables. These descriptive patterns identify priorities for confirmatory surveillance but do not establish contaminant sources, internal uptake, or cross-matrix transfer. Interpretation is limited by the three sites, one monitoring period, and the absence of field blanks and field duplicates.",
+    "species_latin": "Coriandrum sativum",
+    "species_en": "Coriander",
+    "species_zh": "芫荽",
+    "takeaway": "老挝南部高原菜地未检出目标农药，但土壤、灌溉水和芫荽中检出铅、砷、铬等元素，提示需优先监测。",
+    "conclusion": "该试点研究在三个站点未发现目标农药超标，但栽培土壤含铅、砷和总铬，灌溉水含铅和总铬，芫荽中检出铅、镉、砷和总铬，而两种结球芸薹属蔬菜检出有限或未检出。这些描述性结果可指导后续确证性监测，但受站点少、单期监测及缺少现场空白与平行样限制，无法确定污染来源、植物吸收或跨介质迁移。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42799542",
+    "title": "Optimizing pesticide delivery in cotton: impact of unmanned aerial spraying system configurations on canopy deposition and implications for pest control efficacy",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Yang M, Zhang H, Feng X, Zheng L, Zhu Z, Song J, Xiongkui H, Wang C.",
+    "publish_date": "2026-09-26",
+    "added_at": "2026-09-28",
+    "url": "https://europepmc.org/article/MED/42799542",
+    "doi": "10.1002/ps.71355",
+    "pmid": "42799542",
+    "abstract": "BACKGROUND: Effective management of insect pests and diseases in cotton, such as aphids, whiteflies and bollworms, is critically dependent on achieving adequate pesticide coverage throughout the plant canopy. Conventional ground spraying methods are often inefficient and can damage crops, whereas the adoption of unmanned aerial spraying systems (UASS) presents a promising alternative. However, the efficacy of UASS applications is highly dependent on system configuration, and a lack of data on spray deposition within dense cotton canopies hinders the development of effective application protocols. This study investigates how different UASS designs and operational parameters influence pesticide delivery, providing a basis for optimizing pest control strategies. RESULTS: A field study was conducted in Xinjiang, China, to evaluate the spray performance of 10 distinct UASS in a mature cotton canopy. We found that spray deposits decayed sharply from the upper to the lower canopy layers, posing a critical challenge for controlling pests residing in the mid-to-lower canopy. The choice of UASS configuration significantly influenced spray distribution. Autonomous flight modes provided superior transverse spray uniformity compared to the manual control, ensuring more consistent coverage and reducing the risk of underdosed areas where pests could survive. Multirotor UASS feature a relatively uniform downwash airflow field that improves spray deposition and distribution performance, whereas oil-powered models, compared to electric ones, suffered from unstable airflow, leading to poorer uniformity. Centrifugal nozzles demonstrated superior performance for mid-canopy deposition. A random forest analysis identified control mode, main rotor number and nozzle type/quantity as the most critical parameters influencing deposition patterns. CONCLUSION: The configuration of a UASS is not a trivial detail but a critical factor determining the potential for effective pest control in cotton. To maximize biological efficacy, particularly against canopy-dwelling pests, spray protocols should prioritize autonomous, multirotor UASS equipped with appropriate nozzles to enhance deposition and penetration. These findings provide a scientific framework for developing targeted UASS application guidelines that can improve pesticide-use efficiency, reduce off-target losses, and form an integral component of modern, sustainable pest management programs in cotton. © 2026 Society of Chemical Industry.",
+    "species_latin": "Gossypium hirsutum",
+    "species_en": "Cotton",
+    "species_zh": "棉花",
+    "takeaway": "研究在新疆成熟棉田比较10种无人机喷雾系统，发现自主飞行多旋翼配离心喷头可显著改善冠层沉积与分布。",
+    "conclusion": "无人机喷雾系统配置是决定棉花害虫防治效果的关键因素。喷雾沉积从上冠层到下冠层急剧衰减，自主飞行模式横向均匀性优于手动控制，多旋翼机型下洗气流更均匀、沉积更好，油动机型气流不稳导致均匀性差，离心喷头利于中层沉积；控制模式、主旋翼数和喷头类型/数量为最关键参数。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42790882",
     "title": "Haplotype-specific analyses in apple: insights from 'Golden Delicious'",
     "type": "paper",
@@ -21,6 +73,32 @@
     "conclusion": "该研究构建了'金冠'苹果单倍型分型的端粒到端粒基因组,两套单倍型各约647-649 Mb,分别预测约4.5万个基因;泛基因组分析区分共有与特有基因家族,并发现Md-PG1果实软化关键基因的表达主要由2号单倍型等位基因贡献,同时揭示miRNA分布与甲基化谱的单倍型差异,为苹果等位基因调控研究和育种提供资源。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42798804",
+    "title": "Ameliorative Role of Ethanolic Nigella sativa Seed Extract in Chlorpyrifos-Induced Neurotoxicity and Testicular Toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary medicine international",
+    "authors": "Rai DR, Parveen RS, Nayak V, Kumari S, Bhat VR, Harshini, K G MR.",
+    "publish_date": "2026-09-25",
+    "added_at": "2026-09-28",
+    "url": "https://europepmc.org/article/MED/42798804",
+    "doi": "10.1155/vmi/9865544",
+    "pmid": "42798804",
+    "abstract": "BACKGROUND AND AIM: Chlorpyrifos, an organophosphate (OP) pesticide, is used worldwide in agriculture as an insecticide; its exposure has been linked to neurological disorder, endocrine disruption, cardiovascular disease, etc. Nigella sativa (NS), also known as black seed or black cumin, has been a part of traditional medicine and is used to treat a wide range of ailments from digestive and respiratory problems to topical skin disease. This study aims to investigate the potential protective role of the ethanolic seed extract of NS on chlorpyrifos-induced neurotoxicity and testicular toxicity. MATERIALS AND METHODS: A total of 36 male Wistar rats were divided into six groups, which included Group 1 as Control group, Group 2 as CPF 7.5 mg/kg, Group 3 as CPF 7.5 mg/kg + ATR 10 mg/kg, Group 4 as CPF 7.5 mg/kg + NS 2.5 mg/kg, Group 5 as CPF 7.5 mg/kg + NS 5 mg/kg, and Group 6 as CPF 7.5 mg/kg + NS 10 mg/kg. NS and CPF in their respective doses were administered orally, and ATR was given as intraperitoneal injection every day for 28 days. Neurotoxicity was assessed by measuring oxidative stress markers (malondialdehyde [MDA], a marker of lipid peroxidation), antioxidant status (reduced glutathione [GSH]), inflammatory markers (interleukin-1β [IL-1β]), and acetylcholinesterase (AChE) activity. Cognitive function was assessed using the Morris Water Maze test. Testicular toxicity was evaluated through sperm count and histopathology assessment. RESULTS: The treatment with NS at a dose of 10 mg/kg showed neuroprotective effect through elevation in AChE activity, significant decrease in IL-β levels, dose-dependent decrease, and increase in MDA and GSH levels, respectively, and improved spatial memory as evidenced by increase in escape latency and the number of entries in the Morris water maze test. However, there was no significant effect in testicular toxicity. CONCLUSION: The results of the present study indicate that the ethanolic seed extract of NS has significant neuroprotective activity against CPF-induced neurotoxicity, mainly at the dose of 10 mg/kg, as portrayed by the improvement in AChE activity and cognitive performance combined with its anti-inflammatory effect through a decrease in IL-1β levels and antioxidant effect through increase in GSH and reduction in MDA levels. However, the NS extract did not show any significant protective effect against CPF-induced testicular toxicity. These results indicate the potential therapeutic role of NS in mitigating OP-induced neurological damage, justifying further studies to elucidate its mechanisms and extended benefits.",
+    "species_latin": "Nigella sativa",
+    "species_en": "Black seed / Black cumin",
+    "species_zh": "黑种草",
+    "takeaway": "黑种草乙醇籽提取物可减轻毒死蜱致大鼠神经毒性,10 mg/kg剂量效果最显著,但对睾丸毒性无明显改善。",
+    "conclusion": "黑种草乙醇籽提取物对毒死蜱诱导的神经毒性具有明显保护作用,高剂量(10 mg/kg)可提升乙酰胆碱酯酶活性、降低IL-1β、调节氧化应激并改善空间记忆,但对睾丸毒性无显著影响。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -3659,6 +3737,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42798963",
+    "title": "Green Chemistry Oriented Pluronic F127/Carbopol Nanogel Platform (NGLp) Encapsulating Lippia pedunculosa Essential Oil for Aedes aegypti Larval Control",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Andrade LGS, de Sousa JDS, Nojosa ECN, da Silva Santos AM, Pires Souza M, Marques Brandão C, Holanda CA, da Silva Filho EC, Osajima JA, Menezes LRA, Costa EV, Gonçalves RS.",
+    "publish_date": "2026-09-07",
+    "added_at": "2026-09-28",
+    "url": "https://europepmc.org/article/MED/42798963",
+    "doi": "10.1021/acsomega.6c03836",
+    "pmid": "42798963",
+    "abstract": "Control of Aedes aegypti larvae is essential to reduce arbovirus transmission; however, increasing insecticide resistance and environmental concerns highlight the urgent need for sustainable alternatives. In this study, a solvent-free thermoresponsive nanogel (NGLp), based on Pluronic F127 and Carbopol 974P, was developed to encapsulate Lippia pedunculosa Hayek essential oil (EOLp), aiming to enhance larvicidal performance through improved dispersion and prolonged availability of bioactive constituents. The essential oil was obtained by hydrodistillation and chemically characterized by GC-MS and NMR, identifying 28 constituents (96.65%), with rotundifolone (62.68%) and limonene (20.74%) as the major compounds. Nanogels were prepared using a low-energy cold method, and the optimized formulation (1% w/w EOLp) exhibited a nanometric Z-average size (239.9 nm; PdI 0.474) and a negative zeta potential (-22.3 ± 3.90 mV), indicating a nanoscale but relatively polydisperse dispersion with moderate electrosteric stabilization. FTIR analysis confirmed the physical incorporation of the essential oil within the nanogel matrix. Larvicidal assays against third-instar A. aegypti larvae demonstrated dose- and time-dependent activity, with 100% mortality achieved at concentrations ≥50 μg mL-1 after 48-72 h. The progressive increase in mortality at intermediate concentrations over time indicates time-dependent larvicidal efficacy, as reflected by the reduction in LC50 and LC90 values from 38.6 and 46.0 μg mL-1 at 24 h to 31.6 and 40.9 μg mL-1 at 48 h, with further improvement at 72 h. Although this temporal profile is compatible with prolonged availability of the encapsulated oil, direct release studies would be required to confirm a sustained-release mechanism. These findings demonstrate that the thermoresponsive nanogel enhances the efficacy of L. pedunculosa essential oil, supporting its potential as a sustainable and eco-compatible nanoplatform for mosquito control.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "以Pluronic F127/Carbopol纳米凝胶包裹Lippia pedunculosa精油，对埃及伊蚊幼虫48-72小时达100%致死。",
+    "conclusion": "该无溶剂热响应纳米凝胶能物理包载以圆叶薄荷酮和柠檬烯为主的精油，改善分散性与时效性，对埃及伊蚊三龄幼虫呈剂量和时间依赖性杀灭效果，LC50随时间下降，显示缓释潜力，可作为可持续、环境友好的蚊虫防控纳米平台，但缓释机制尚需释放实验证实。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -9291,6 +9395,32 @@
     "conclusion": "研究通过COI条形码确认伊朗南部鸽虱蝇，全球种群单倍型多样性中等、核苷酸多样性低，遗传分化有限；首次在伊朗该蝇中检出沃尔巴克氏体，wsp与16S rRNA均归入B超群，为宿主-共生体互作及流行病学意义提供基础数据。",
     "keywords": [
       "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42476018",
+    "title": "Imidazole-functionalized covalent organic framework for sensitive analysis of neonicotinoid insecticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of chromatography. A",
+    "authors": "Zhang L, Wang Q, Hao L, Zhao Y, Liu W, Liu Y, Li Z, Wang Z.",
+    "publish_date": "2026-07-17",
+    "added_at": "2026-09-28",
+    "url": "https://europepmc.org/article/MED/42476018",
+    "doi": "10.1016/j.chroma.2026.467281",
+    "pmid": "42476018",
+    "abstract": "Developing an effective method for reliable monitoring of insecticide residues is desirable for public health. This study developed a rapid and sensitive method to determine neonicotinoid insecticides (NEONICs) in water, lemon beverage, wax gourd, and tomato samples. An imidazole-functionalized COF (TPT-DB-COF) featuring a spherical core-shell structure was developed and used as a solid-phase extraction (SPE) adsorbent. The TPT-DB-COF exhibited superior adsorption ability for NEONICs. The TPT-DB-COF-SPE/HPLC-DAD approach for trace analysis of NEONICs had low detection limits (0.02-0.03 ng mL-1 for water samples, 0.07-0.08 ng mL-1 for lemon beverage, 0.6-0.8 ng g-1 for wax gourd samples, and 0.9-1.3 ng g-1 for tomato samples), high trueness (method recoveries of 87.0% - 114%), and acceptable precision (relative standard deviations below 7.9%). Such good performance parameters pave the way for the application of TPT-DB-COF in the analysis of NEONICs.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究合成咪唑功能化共价有机框架TPT-DB-COF作固相萃取吸附剂,实现多种样品中新烟碱类杀虫剂的高灵敏检测。",
+    "conclusion": "TPT-DB-COF具有球形核壳结构,对新烟碱类杀虫剂吸附能力优异;将其用于固相萃取并结合HPLC-DAD,可在水、柠檬饮料、冬瓜和番茄中实现痕量检测,检出限低、回收率高、精密度可接受,为该类农药残留监测提供了可行方案。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
