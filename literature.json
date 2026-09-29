@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42768941",
+    "title": "Analysis of neonicotinoid pesticides and their metabolites by liquid chromatography-electrospray ionization-tandem mass spectrometry",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxicology mechanisms and methods",
+    "authors": "Lehner AF, Dickie J, Zyskowski J, Buchweitz J.",
+    "publish_date": "2026-09-28",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42768941",
+    "doi": "10.1080/15376516.2026.2736531",
+    "pmid": "42768941",
+    "abstract": "Neonicotinoid insecticides were first introduced in the 1990s as an alternative to older, more toxic types such as organophosphates, carbamates, and chlorinated hydrocarbons and have since become the most widely used class of insecticides globally. However, their use comes at a significant cost due to high toxicity to pollinators such as bees, beneficial predatory insects, and even insectivorous birds. To further the study of neonicotinoid effects, we developed a method for the LC-ESI-MS/MS (liquid chromatography-electrospray ionization-tandem mass spectrometry) analysis of imidacloprid, clothianidin, and nitenpyram. Standards enabled optimization of tandem quadrupole (MS/MS) detection for specific multiple reaction monitoring (MRM) method fragmentations and separation was achieved by UPLC (ultra-high performance liquid chromatography). However, mammalian samples that tested positive for neonicotinoids on enzyme-linked immunosorbent assays (ELISAs) disclosed none of the parent compounds by the LC-ESI-MS/MS method. Upon researcher request, neonicotinoid metabolites 6-hydroxynicotinic acid; 2-chloro-1,3-thiazole-5-carboxylic acid; 2-imidazolidone; 6-chloronicotinic acid; imidacloprid urea; imidacloprid olefin; desnitro-imidacloprid; and 5-hydroxyimidacloprid were included. The method was validated for linear response, limits of detection/quantitation, retention time stability, instrumental carryover, intraday- and interday-precision, standard curve stability, accuracy, and specificity. Limits of quantitation were measured at 0.1 ppb for the majority of compounds, although desnitro-imidacloprid and 5-hydroxyimidacloprid ranged above 1 ppb. The method was applied to extracted produce samples as a pilot study to test the method's utility. Red grapes contained imidacloprid, while pickles contained imidacloprid and clothianidin. Of concern to researchers studying the collapse of honeybee colonies, two of four samples of honey contained the imidacloprid metabolite 6-hydroxynicotinic acid at levels above 5 ppb.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "建立LC-ESI-MS/MS法检测新烟碱类杀虫剂及其代谢物，蜂蜜中检出吡虫啉代谢物。",
+    "conclusion": "该LC-ESI-MS/MS方法可同时检测吡虫啉、噻虫胺、烯啶虫胺及其多种代谢物，多数化合物定量限达0.1 ppb，经验证线性、精密度、准确性良好；应用于农产品初步检测，红葡萄和泡菜中检出母体化合物，蜂蜜中检出吡虫啉代谢物6-羟基烟酸，提示代谢物检测对研究蜂群崩溃具有重要意义。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42802723",
     "title": "Metabolomic unravelling and RSM-assisted optimization of phenylpyrazole degradation by a novel soil-derived bacterial consortium FP-25",
     "type": "paper",
@@ -182,6 +208,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42790770",
+    "title": "Heat shock protein genes Hsp70 and DnaJA1 are key contributors to thermotolerance and development in predatory ladybeetle Propylaea japonica",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Journal of insect physiology",
+    "authors": "Sun WT, Hu J, Liu TX, Mei JF, Sun JW, Zhang SZ.",
+    "publish_date": "2026-09-25",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42790770",
+    "doi": "10.1016/j.jinsphys.2026.105069",
+    "pmid": "42790770",
+    "abstract": "Global climate change has increased the frequency of extreme high-temperature events, underscoring the need to elucidate thermotolerance mechanisms in natural enemy insects for effective biological control. The ladybird Propylaea japonica is a predominant predator in South-East Asia and a successful biocontrol agent, yet the molecular basis of its heat resistance remains unknown. Here we cloned full-length cDNAs of three heat shock protein genes (pjhsp70, pjDnaJA1, and pjhsp21) from P. japonica using transcriptomic data. We characterized their sequences, inferred phylogenetic relationships, and quantified spatiotemporal expression by qRT-PCR across developmental stages, adult ages, and tissues. To assess function, we knocked down each gene with RNA interference (RNAi) and measured survival at 39 °C, male body weight, and sex ratio; we also expressed and purified the recombinant proteins to evaluate chaperone activity in vitro. The results showed that all three transcripts were detected throughout development, peaking in the pupal stage, and exhibited tissue-specific variation. RNAi of pjhsp70 or pjDnaJA1 markedly reduced survival under heat stress and decreased male weight while skewing the sex ratio; pjhsp21 knockdown produced no such effect. In vitro, recombinant pjhsp70 and pjDnaJA1 inhibited protein aggregation, confirming chaperone activity, whereas pjhsp21 lacked independent chaperone function. Collectively, these findings indicate that pjhsp70 and pjDnaJA1 are key contributors to thermotolerance and development in P. japonica, providing a molecular framework for enhancing biocontrol efficacy under high-temperature conditions.",
+    "species_latin": "Propylaea japonica",
+    "species_en": "ladybird beetle",
+    "species_zh": "日本异色瓢虫",
+    "takeaway": "日本异色瓢虫的pjhsp70与pjDnaJA1基因经RNAi和体外伴侣活性验证，是耐热性与发育的关键因子",
+    "conclusion": "pjhsp70和pjDnaJA1具有分子伴侣活性，可抑制蛋白聚集，其敲低显著降低39℃热胁迫存活率、减轻雄虫体重并改变性比，而pjhsp21无此功能，二者是日本异色瓢虫耐热与发育的关键贡献者，为高温下提升生物防治效果提供分子依据",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42790106",
+    "title": "YT521-B-mediated RNA m&lt;sup&gt;6&lt;/sup&gt;A modification was involved in O&lt;sub&gt;3&lt;/sub&gt;-induced male-biased sex ratio in Drosophila melanogaster",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Nan N, Yan Z, Li S, Qin G.",
+    "publish_date": "2026-09-25",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42790106",
+    "doi": "10.1016/j.ecoenv.2026.120836",
+    "pmid": "42790106",
+    "abstract": "Research on the effects of ozone (O 3 ) on reproductive development and population stability remains limited. This study investigates the impact of O 3 on Drosophila, a classic model organism for sex determination. Flies were exposed to 1.0 ppm O 3 for 8 h per day over 7 days. We observed a significant decrease in the female proportion of fruit fly offspring, with F2 females exhibiting partial masculinization traits. Experiments have demonstrated that O 3 exposure reduced the expression of female-specific Sxl-F transcripts while increasing the expression of male-specific Sxl-M transcripts and male splicing subtypes in the female heads. Additionally, female-related genes (da, snf, tra, tra2, ix) were downregulated, whereas male-related genes (mle, msl-1, msl-2, msl-3) were upregulated. O 3 exposure also resulted in a decrease in global m 6 A levels, with m 6 A-related genes (METTL14, METTL3, Nito, Xio, Vir, fl(2)d, YT521-B, YTHDF, and ALKB) being upregulated in the F0 generation but downregulated in the F1 and F2 generations. Notably, the m 6 A level on Sxl mRNA was reduced. Importantly, YT521-B overexpression restored the dysregulation of O 3 -induced sex regulatory pathways at the molecular level. Our results indicate that O 3 disrupts m 6 A modification on Sxl mRNA, which impairs female-specific splicing and disrupts the balance of the sex determination network, ultimately leading to a distorted offspring sex ratio and potential ecological imbalance.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "臭氧暴露通过降低Sxl mRNA的m6A修饰并干扰性别调控网络，使果蝇后代雌性比例下降、出现雄性化。",
+    "conclusion": "臭氧使果蝇Sxl mRNA的m6A水平下降，雌性特异剪接受损，性别决定网络失衡，导致后代性别比偏雄；过表达YT521-B可在分子层面恢复该紊乱，提示m6A修饰是臭氧影响性别决定与种群稳定的关键环节。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42798804",
     "title": "Ameliorative Role of Ethanolic Nigella sativa Seed Extract in Chlorpyrifos-Induced Neurotoxicity and Testicular Toxicity",
     "type": "paper",
@@ -283,6 +361,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42805144",
+    "title": "Combined effects of antibiotics and pesticides on zebrafish (Danio rerio): Enrofloxacin modulates the toxicity, tissue-specific bioconcentration and depuration of triazole fungicides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "authors": "Huang L, Qiu Y, Yang J, Zhang H, Rong L, Feng X, Lin S, Wu H, Tan H, Hu M.",
+    "publish_date": "2026-09-24",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42805144",
+    "doi": "10.1016/j.aquatox.2026.108033",
+    "pmid": "42805144",
+    "abstract": "The co-occurrence of pesticides and antibiotics is ubiquitous in aquatic environments. And co-existence of antibiotics maybe expands the environmental harm of pesticide pollution. Therefore, we report the investigation of the effect of enrofloxacin on toxicity and tissue accumulation and depurating triazole fungicides in zebrafish. Acute toxicity tests showed that enrofloxacin-tricyclazole and enrofloxacin-imazalil mixtures exhibited antagonistic response to zebrafish, while enrofloxacin-triadimefon exhibited synergistic response to zebrafish. Over 192 h exposure, the uptake rates (and elimination rates of three triazole fungicides in zebrafish tissues ranged from 1.79-55.9 L/kg*d and 0.278-0.995 d-1 in the single-exposure group, 1.69-54.4 L/kg*d and 0.439-1.101 d-1 in the co-exposure group, respectively. The presence of enrofloxacin prolonged the clearance time and enhanced the persistence of triadimefon in zebrafish, while it promoted the clearance of tricyclazole and imazalil. Muscle accumulated the largest portion of pesticides, accounting for 37. 9%-57.2 % of the total pesticide accumulation, while the head (20. 9%-36.8%) and viscera (21.9%-25.3%) contained smaller fractions. The exposure enrofloxacin affected bioconcentration factor values significantly, but didn't change pesticides relative compositions in zebrafish tissues. A tissue-specific shift occurred in tricyclazole and triadimefon bioconcentration in the presence of enrofloxacin, characterized by increased levels in the muscle tissues and decreased levels in the head and viscera. And co-exposure with enrofloxacin increased the total body burden of triadimefon, facilitating its accumulation in zebrafish but reducing the bioconcentration potential of imazalil and tricyclazole. Thus, the environmental scenario analysis demonstrated that ignoring complexation might misclassify environmental risks of pesticides.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "恩诺沙星改变斑马鱼对三种三唑类杀菌剂的毒性、组织富集与清除，提示混配暴露会重塑农药环境风险。",
+    "conclusion": "抗生素与农药共存会改变三唑类杀菌剂对斑马鱼的毒性效应与组织归趋：恩诺沙星使三环唑、抑霉唑清除加快，却延长三唑酮残留并提高其整体负荷，且富集向肌肉转移。说明评估农药风险时若忽略与抗生素的复合作用，可能误判其环境危害。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -728,6 +832,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42783343",
+    "title": "Fruit Pulps Enhance Longevity and Parasitism of &lt;i&gt;Trichopria drosophilae&lt;/i&gt;, a Pupal Parasitoid of Drosophilid Flies",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Insects",
+    "authors": "Yang F, Wang Z, Li Q, Li R, Qiao G, Zhu Z, Wang S.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42783343",
+    "doi": "10.3390/insects17090976",
+    "pmid": "42783343",
+    "abstract": "Trichopria drosophilae is a cosmopolitan pupal parasitoid of drosophilid pests, including the globally destructive Drosophila suzukii . Improving parasitoid fitness through nutritional supplementation is a promising strategy for biological control, yet the suitability of field-available food resources remains largely unexplored. Here, we assessed how adult diet influences longevity, survival, parasitism, offspring production, and sex ratio of T. drosophilae . Seven dietary treatments were tested: water control, 10% honey solution, banana pulp, blueberry pulp, cherry pulp, Orychophragmus violaceus flowers alone, and flowers plus water. Fruit pulps, especially cherry, dramatically prolonged adult longevity to over 28 days, matching or surpassing the honey standard. Wasps fed O. violaceus flowers alone survived only approximately five days; however, providing water together with flowers restored survival to a level comparable to the water control, indicating that water deprivation was an important (at least partial) cause of this short lifespan, and no evidence was found that O. violaceus flowers provide accessible nectar. In a density-dependent parasitism assay across six host densities (5-30 pupae), a significant diet-by-density interaction was detected: parasitism rates were low at low host densities and increased with host density, whereas at intermediate and high densities (15-30 hosts), fruit-fed wasps parasitized significantly more hosts than the water control (blueberry at 15 hosts; banana at 20 hosts; all three fruit treatments at 25 and 30 hosts). Across all densities, fruit-fed wasps parasitized significantly more hosts overall than those receiving water or honey alone. Consistently, total offspring and female emergence were greater in fruit-fed groups than in water-fed wasps. Offspring sex ratio was unaffected by diet. These results demonstrate that fruit pulps are highly effective nutritional resources that enhance both survival and reproductive success of T. drosophilae in a density-dependent manner, whereas O. violaceus flowers alone are insufficient to sustain parasitoid survival. Our findings highlight the potential of fruit resources as natural food subsidies for parasitoids and underscore the need to consider floral accessibility when selecting plants for conservation biological control.",
+    "species_latin": "Trichopria drosophilae",
+    "species_en": "Trichopria drosophilae",
+    "species_zh": "毛角锤角细蜂（果蝇蛹寄生蜂）",
+    "takeaway": "樱桃等果浆显著延长果蝇蛹寄生蜂寿命并提升其寄生与繁殖表现，而单独提供二月兰花朵无法维持其生存。",
+    "conclusion": "果浆是提升毛角锤角细蜂存活与繁殖成效的优质营养资源，其寄生增益随寄主密度变化；单独二月兰花朵不能维持其存活，主要因缺水而非无花蜜，这为生物防治中利用田间果实资源提供了依据。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42804944",
+    "title": "Paper-based colorimetric sensing for pesticide residue detection: Recognition mechanisms, signal transduction, and quantitative readout strategies",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Talanta",
+    "authors": "Zheng Z, Zhao Z, Jia L, Wu L, Tian S, Chen L, Liu C, Zhang J, Tan R.",
+    "publish_date": "2026-09-21",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42804944",
+    "doi": "10.1016/j.talanta.2026.130652",
+    "pmid": "42804944",
+    "abstract": "Paper-based colorimetric assays offer a low-cost and portable approach for pesticide residue screening, yet reliable quantification remains a major barrier to practical deployment. Unlike previous reviews centered mainly on sensing-platform classification or individual recognition strategies, this review establishes a continuous analytical framework linking target recognition, signal transduction, and quantitative readout engineering. Representative sensing approaches are examined to clarify how variability introduced at different stages propagates through the analytical workflow and ultimately affects quantitative performance. The analysis indicates that reliability is governed by the weakest link in the sample-to-result chain, while downstream signal amplification or data modeling cannot compensate for unstable upstream recognition, sample transport, or color generation. On this basis, this review proposes a design-oriented evaluation framework to guide the development of paper-based pesticide analytical devices with improved reproducibility, standardization, and field applicability.",
+    "species_latin": "Unlike previous",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述提出纸基比色农药检测的连续分析框架，强调定量可靠性取决于样品到结果链条中最薄弱环节。",
+    "conclusion": "纸基比色法虽低成本便携，但可靠定量仍是应用瓶颈。该综述将目标识别、信号转导与定量读出工程串联分析，指出各阶段变异会沿流程传递并影响定量性能，下游信号放大或数据建模无法弥补上游识别、样品传输或显色不稳；据此提出面向设计的评估框架，以提升重复性、标准化与现场适用性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42796629",
     "title": "Larvicidal Activity, GC-MS Profiling and Multitarget Molecular Docking of Essential Oils from Cymbopogon citratus, Tanacetum cinerariifolium and Salvia rosmarinus Against Anopheles arabiensis",
     "type": "paper",
@@ -1115,6 +1271,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42796905",
+    "title": "Comparative Evaluation of CNN and Transformer-Based Instance Segmentation Architectures for Whitefly Detection in Citrus Crops",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Plants (Basel, Switzerland)",
+    "authors": "Manzano-Soto L, Fernández-Campusano C, Verdejo-Fredes H, Becker C, Carrasco R.",
+    "publish_date": "2026-09-19",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42796905",
+    "doi": "10.3390/plants15182874",
+    "pmid": "42796905",
+    "abstract": "This study focuses on the detection of pests in citrus fruits using computer vision (CV) techniques and image detection technologies based on convolutional neural networks (CNNs). Early detection enables pest control, reduces the use of pesticides, and generates alerts for the inspection of surrounding areas. One of the models used is You Only Look Once (YOLO), which is based on a single-stage CNN. This model is fast, resource-efficient, and has low latency, enabling it to run on a personal computer. Another type of neural network is based on the vision transformer, a paradigm that requires more hardware resources than YOLO but offers greater precision. Therefore, a comparison is carried out between CNN models to evaluate their precision and demonstrate that YOLO is an excellent option compared to vision transformer-based models, which are more resource-intensive. Through the capture of images in the field, it will be shown that the difference in precision compared to other models that are more demanding in terms of hardware is minimal. The study also reveals that all the models assessed have difficulties in detecting small objects, suggesting a need to improve this through software techniques or hardware enhancements, such as the optics of drone lenses. A wide-angle lens could be used for preliminary detection, and another with a higher zoom for confirmation and the detection of small insects, thereby facilitating its adoption where computational resources are limited.",
+    "species_latin": "",
+    "species_en": "Whitefly",
+    "species_zh": "粉虱",
+    "takeaway": "研究比较CNN与Transformer实例分割模型检测柑橘粉虱，发现YOLO精度接近高资源模型且更省算力。",
+    "conclusion": "在柑橘害虫检测中，基于CNN的YOLO模型与视觉Transformer模型精度差距很小，却更节省硬件资源，适合算力有限场景；但所有模型对小型昆虫检测均存在困难，需借助软件优化或无人机镜头等硬件改进，如广角镜头初筛配合高变焦镜头确认。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
