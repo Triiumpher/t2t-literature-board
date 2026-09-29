@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42802723",
+    "title": "Metabolomic unravelling and RSM-assisted optimization of phenylpyrazole degradation by a novel soil-derived bacterial consortium FP-25",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "3 Biotech",
+    "authors": "Uniyal S, Paliwal R, Mahar R, Rai JPN.",
+    "publish_date": "2026-09-27",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42802723",
+    "doi": "10.1007/s13205-026-05081-7",
+    "pmid": "42802723",
+    "abstract": "The empirical bioremediation propensity of phenylpyrazole insecticide-degrading bacteria is restrained by their low efficiency and low environmental resilience. In this study, we synthesized a novel microbial consortium, FP-25, comprising two indigenous strains-Pseudomonas sp. strain S4 and Agrobacterium sp. strain S6-isolated from perpetually contaminated agricultural soil and capable of degrading the phenylpyrazole insecticide fipronil. Optimization of biodegradation variables such as neutral pH (7.0), temperature (32.5 °C), an inoculum concentration of 0.175 g L⁻1, and 200 mg L⁻1 of fipronil concentration, through response surface methodology (RSM), resulted in degradation efficiency of 91.92% within 14 days of incubation in aqueous media. The generation of degradation products was confirmed through GC-MS analysis. Consequently, a catabolic pathway for fipronil degradation used by the consortium FP-25 has been elucidated, depicting the successive enzymatic transformations of fipronil into non-toxic metabolites. The adequacy and validity of the RSM model were evaluated through an in-situ microcosm experiment using contaminated soil sampled from the Himalayan highland ecosystem. Degradation kinetics substantiated first-order reaction models with rate constants ranging between 0.046 and 0.076 day⁻1. Thus, the present study demonstrated the potent bioremediation ability of the developed consortium FP-25 as an eco-friendly and sustainable substitute for conventional approaches. The online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05081-7.",
+    "species_latin": "Pseudomonas sp., Agrobacterium sp.",
+    "species_en": "Pseudomonas sp., Agrobacterium sp.",
+    "species_zh": "假单胞菌属、农杆菌属",
+    "takeaway": "从长期污染土壤中分离两株菌构建菌群FP-25，经响应面优化后14天降解氟虫腈91.92%。",
+    "conclusion": "该菌群由假单胞菌S4与农杆菌S6组成，在pH 7.0、32.5℃等优化条件下高效降解氟虫腈，GC-MS确认产物并阐明其转化为无毒代谢物的分解途径；喜马拉雅高原污染土壤微宇宙实验验证了模型有效性，降解符合一级动力学，表明FP-25可作为环保可持续的生物修复替代方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42802607",
+    "title": "Mechanisms of insect resistance to RNA-based biopesticides and management strategies",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insect science",
+    "authors": "Li X, Fan LY, Wang KB, Guan RB.",
+    "publish_date": "2026-09-27",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42802607",
+    "doi": "10.1111/1744-7917.70371",
+    "pmid": "42802607",
+    "abstract": "Growing global concern about the environmental risks posed by chemical insecticides has positioned RNA interference (RNAi)-based biopesticides at the forefront of research in green agricultural pest management, due to their precise target specificity and environmental safety. With ongoing technological advances and expanding use, the emergence of insect resistance to this technology has become a major constraint on their sustainable application. This paper provides a systematic review of delivery strategies and current applications of RNA-based biopesticides in pest control, and examines the mechanisms underlying insect resistance, including species-specific sensitivity variations, disrupted dsRNA uptake, and resistance influenced by viruses or symbionts. To address the risk of resistance development, the study outlines integrated management strategies such as pesticide rotation and mixtures, optimized dosage delivery, refuge implementation, and innovative delivery technologies. Looking ahead, continued technological innovation, strengthened integrated pest management frameworks, and the creation of a global resistance monitoring network will be essential to support the sustainable use of this technology, thereby advancing the green transformation of agriculture and ensuring global food security.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述RNA生物农药递送与应用，揭示昆虫抗性机制并提出综合管理策略",
+    "conclusion": "昆虫对RNA生物农药的抗性主要源于物种敏感性差异、dsRNA摄取受阻及病毒或共生体影响；通过轮换混用、优化剂量、设置庇护区和新型递送技术等综合管理可延缓抗性，未来需技术创新、强化IPM与全球抗性监测网络以保障可持续应用和粮食安全。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42802364",
+    "title": "Assessment of insecticide use practices in licensed pest control operators in North Carolina",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Russell K, Richards S, Sousan S, Balanay JA.",
+    "publish_date": "2026-09-27",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42802364",
+    "doi": "10.1002/ps.71360",
+    "pmid": "42802364",
+    "abstract": "The frequency and types of insecticides and application methods used by licensed pesticide operators were analyzed in this pilot study as a starting point to help understand insecticide applications in North Carolina (NC). The primary objective was to conduct a baseline assessment of methods and target pests for insecticide applications made by different types of licensed applicators in NC. A survey of licensed NC pesticide operators was conducted on topics such as pest control services/insecticides, target pests, continuing education, and personal protective equipment. A total of 105 responses were recorded from different license types. The most frequent respondent license type was 032 (County/City Public Pesticide Operator; Ground). Within this license type, Category L (Ornamental/Turf) (N = 47, 48%) and Category B (Public Health) (N = 24, 25%) were the two most reported. The most frequent target pests included ants, mosquitoes, and aphids. Integrated pest management methods such as surveillance/trapping of target pests, using insecticide resistance (IR) information to guide operational changes, and product rotations were reported. Some responses (N = 31, 34%) reported using the same insecticides every year and many did not monitor IR. The most common class of insecticide reported was pyrethroids (N = 65, 68%). Resistance monitoring varied and included usage of callback rates, visual monitoring of habitats, bottle bioassays, and following university research. More than half expressed interest in learning more about IR. This assessment of target pests, insecticides, and application methods by licensed operators in NC can serve as a baseline for further studies on implications for resistance management. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "北卡持证虫害防治人员调查显示，拟除虫菊酯使用最广，但抗性监测不足且部分人员年年重复用药。",
+    "conclusion": "该基线调查表明，北卡罗来纳州持证施药者虽采用监测、轮换等综合防治措施，但仍有约三分之一人员每年重复使用同类杀虫剂，且多数未开展抗性监测；拟除虫菊酯为最常用药剂，超过半数受访者希望进一步了解抗性知识，提示需加强抗性管理培训与监测。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42799922",
     "title": "Targeted pesticide screening and multi-matrix toxic-element monitoring in a highland vegetable production system of southern Lao PDR: implications for surveillance prioritization",
     "type": "paper",
@@ -22,7 +100,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -48,7 +126,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -73,6 +151,32 @@
     "conclusion": "该研究构建了'金冠'苹果单倍型分型的端粒到端粒基因组,两套单倍型各约647-649 Mb,分别预测约4.5万个基因;泛基因组分析区分共有与特有基因家族,并发现Md-PG1果实软化关键基因的表达主要由2号单倍型等位基因贡献,同时揭示miRNA分布与甲基化谱的单倍型差异,为苹果等位基因调控研究和育种提供资源。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42804750",
+    "title": "Multistimuli-Responsive Nanoformulation Based on Polydopamine-Modified Alginate for the Controlled Release of Emamectin Benzoate with Enhanced Foliar Retention, UV Stability, and Insecticidal Activity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Wen X, Wang H, Wu S, Yang Q, Zhang Y, Zhang M, Ma L.",
+    "publish_date": "2026-09-25",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42804750",
+    "doi": "10.1021/acs.jafc.6c07780",
+    "pmid": "42804750",
+    "abstract": "Polydopamine-functionalized sodium alginate nanoparticles (SA-PDAs) were fabricated through self-assembly of dopamine-modified sodium alginate with cetyltrimethylammonium bromide and Tween 80, followed by in situ oxidative polymerization. The nanoparticle served as an excellent carrier for the controlled release of emamectin benzoate (EB) with enhanced photostability and foliar adhesion. The release of EB from nanoparticles, dominated by interactions between the active ingredient and the matrix, was sensitive to the pH of the medium, near-infrared irradiation, and protease hydrolysis. The encapsulation to nanoparticles significantly improved the insecticidal efficacy of EB while alleviating acute toxicity to the growth of cucumber seeds and the survival of earthworms and zebrafish. The median lethal concentration of the EB@SA-PDA nanosuspension against Mythimna separata larvae was only 34.7% of that of the commercial EB emulsifiable concentrate. The results illustrated a straightforward and effective strategy for constructing an intelligent platform to translate nanopesticides from laboratory investigations into field applications.",
+    "species_latin": "Mythimna separata",
+    "species_en": "Oriental armyworm",
+    "species_zh": "东方黏虫",
+    "takeaway": "以多巴胺修饰海藻酸钠自组装制备纳米载体，实现甲维盐可控释放并提升杀虫效果与安全性",
+    "conclusion": "该纳米制剂通过活性成分与基质的相互作用实现pH、近红外和蛋白酶响应的可控释放，显著增强甲维盐的光稳定性与叶面附着力，提高杀虫活性并降低对黄瓜种子、蚯蚓和斑马鱼的急性毒性，为纳米农药的田间应用提供了简便有效的智能平台策略。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -100,7 +204,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +230,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -152,7 +256,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -178,7 +282,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -230,7 +334,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -256,7 +360,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -282,7 +386,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -308,7 +412,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42779157",
+    "title": "Cyclic CAPA peptide analogs targeting the CAPA receptor induce male-specific mortality in western flower thrips",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Parks RK, Yun S, Hasegawa D, Choi MY.",
+    "publish_date": "2026-09-23",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42779157",
+    "doi": "10.1002/ps.71317",
+    "pmid": "42779157",
+    "abstract": "Background Western flower thrips, Frankliniella occidentalis, is a major agricultural pest that is difficult to manage because of its broad host range, cryptic behavior, rapid population growth, and increasing resistance to conventional insecticides. Insect neuropeptides and their cognate G protein-coupled receptors (GPCRs) have emerged as potential molecular targets for developing alternative pest management tools. In this study, CAPA (capability) neuropeptide analogs were evaluated for their ability to modulate signaling through the F. occidentalis CAPA receptor (CAPA-R) and to reduce thrips survival. Results Nineteen peptides, including one native ligand, six short linear analogs, six internally cyclized analogs, and six terminally cyclized analogs, were assessed using calcium mobilization assays in Sf9 cells expressing CAPA-R, dual-addition assays, oral feeding bioassays, and in silico receptor-ligand modeling. Most linear peptides and several internally cyclized peptides activated CAPA-R, whereas terminally cyclized peptides showed limited receptor activation in vitro. Peptide feeding assays showed that nine cyclized peptides, including six internally cyclized and three terminally cyclized analogs, significantly reduced the survival of adult male thrips. No significant effects on female survival were detected. Internally cyclized peptides generally showed greater activity in feeding assays than terminally cyclized peptides. Structural modeling further suggested that cyclized peptides interact with the CAPA-R ligand-binding region. Conclusion These findings indicate that cyclized CAPA peptide analogs can reduce the survival of male F. occidentalis and may provide a basis for developing peptide-based control strategies. More broadly, the results support insect neuropeptide GPCRs as promising targets for next-generation pest management approaches. © 2026 Society of Chemical Industry.",
+    "species_latin": "Frankliniella occidentalis",
+    "species_en": "western flower thrips",
+    "species_zh": "西花蓟马",
+    "takeaway": "环化CAPA神经肽类似物可激活西花蓟马CAPA受体并特异性降低雄虫存活率",
+    "conclusion": "环化CAPA肽类似物能激活西花蓟马CAPA受体，其中9种环化肽显著降低雄成虫存活率而对雌虫无影响，内部环化肽活性普遍强于末端环化肽；结构建模提示其作用于受体配体结合区，表明昆虫神经肽GPCR可作为新一代害虫防控靶标。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -361,6 +491,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42780547",
+    "title": "Clinical, Biochemical, and Electrocardiographic Predictors of Mortality in Acute Aluminum Phosphide Poisoning",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of toxicology",
+    "authors": "Deraz RH, Saafan O, Sabik LME, Abdulrhman SMN.",
+    "publish_date": "2026-09-22",
+    "added_at": "2026-09-29",
+    "url": "https://europepmc.org/article/MED/42780547",
+    "doi": "10.1155/jt/4876498",
+    "pmid": "42780547",
+    "abstract": "Background Aluminum phosphide (AlP) poisoning is among the deadliest pesticide poisonings, particularly in developing agricultural communities, with multiorgan involvement significantly affecting the poisoned patient's outcome. Objective To evaluate the prognostic significance of arterial blood gas (ABG), serum troponin I, cortisol, renin, early ECG abnormalities, and the Simplified Acute Physiology Score II (SAPS II) in predicting the outcome of acute AlP poisoning during the first 24 h postingestion. Methods A prospective cohort study was conducted on 42 patients with confirmed acute AlP ingestion who met the inclusion criteria at Zagazig University Hospitals. All patients underwent thorough history-taking, clinical assessment, routine laboratory investigations, and selected specific tests, including ECG assessment, measurement of serum troponin I, cortisol, and renin, ABG analysis, and finally SAPS II scoring. Patients were categorized as survivors or nonsurvivors. The predictive ability of several parameters for mortality was assessed using the t -test and ROC curve analysis. Results Mortality rate was 59.5%. Abnormal ECGs were significantly more common in nonsurvivors ( p Conclusion SAPS II had the highest validity as a mortality predictor for AlP poisoning, followed by bicarbonate, base excess, renin, pH, and cortisol, arranged in descending order according to their AUC. ECG evaluation is also a reliable early predictor of mortality. These parameters can aid early risk stratification and guide timely intensive management.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究42例急性磷化铝中毒患者，发现SAPS II评分及碳酸氢盐、碱剩余、肾素、pH、皮质醇和心电图异常可预测死亡。",
+    "conclusion": "SAPS II评分对磷化铝中毒死亡预测效度最高，其次为碳酸氢盐、碱剩余、肾素、pH和皮质醇；心电图异常也是可靠的早期死亡预测指标，这些参数有助于早期风险分层和及时强化治疗。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -438,7 +594,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -490,7 +646,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -516,7 +672,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
