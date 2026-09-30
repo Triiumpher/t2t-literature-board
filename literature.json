@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42808653",
+    "title": "Transforming agricultural waste into intelligent biopesticide delivery: soil-disintegrable tea saponin microcapsules for sustainable crop protection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Liu Y, Ding Y, Xu L, Wang C, Yao H, Zhang H, Tang X, Liao M, Cao H, Niu J.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-09-30",
+    "url": "https://europepmc.org/article/MED/42808653",
+    "doi": "10.1002/ps.71328",
+    "pmid": "42808653",
+    "abstract": "BACKGROUND: In order to achieve intelligent and sustainable delivery of tea tree oil (TTO) for tea pest control, we developed a soil-disintegrable, pH-responsive microcapsule system (TMS) with an average particle size of 2.05 μm using 15.6% tea saponin as the shell precursor via interfacial polymerization. RESULTS: Optimized TMS (1-2 μm) achieved 97.4% encapsulation efficiency. The system exhibited accelerated TTO release under acidic conditions (78.8% at pH 5.0), enabling targeted delivery to fungal infection sites. It demonstrated superior foliar adhesion and rainfastness (84.5% retention) compared to free TTO. Biological evaluations revealed potent dual bioactivity: antifungal efficacy against Colletotrichum camelliae [median effective concentration (EC50) = 0.87 mg mL-1] and Phyllosticta theaefolia (EC50 = 2.3 mg mL-1), alongside significant insecticidal activity against Ectropis obliqua larvae (90.0% mortality at 3 mg mL-1). CONCLUSIONS: This work demonstrates substantial macroscopic disintegration and no apparent phytotoxicity, with the potential to reduce persistent microplastic accumulation, providing a potential strategy to improve its formulation and delivery while retaining its biological activity. © 2026 Society of Chemical Industry.",
+    "species_latin": "Camellia sinensis",
+    "species_en": "tea plant",
+    "species_zh": "茶",
+    "takeaway": "以茶皂素为壁材制备pH响应可降解微胶囊, 实现茶树精油智能递送并兼具抗真菌与杀虫活性",
+    "conclusion": "该茶皂素微胶囊包封率达97.4%, 在酸性条件下加速释放, 叶面附着与耐雨水冲刷性优于游离精油; 对茶炭疽菌和茶褐斑病菌具抗真菌活性, 对茶尺蠖幼虫有显著杀虫效果, 且宏观可崩解、无明显植物毒性, 有望减少微塑料残留, 为农药制剂改良提供新策略",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42768941",
     "title": "Analysis of neonicotinoid pesticides and their metabolites by liquid chromatography-electrospray ionization-tandem mass spectrometry",
     "type": "paper",
