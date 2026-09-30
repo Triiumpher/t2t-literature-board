@@ -26,6 +26,84 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42810606",
+    "title": "Sex-dependent effects of Wolbachia on antifungal immunity in Drosophila melanogaster",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Developmental and comparative immunology",
+    "authors": "Kryukov V, Kosman E, Ganina M, Alekseev A, Vorontsova Y, Slepneva I, Ilinsky Y, Yaroslavtseva O.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-09-30",
+    "url": "https://europepmc.org/article/MED/42810606",
+    "doi": "10.1016/j.dci.2026.105739",
+    "pmid": "42810606",
+    "abstract": "Wolbachia can enhance dipteran resistance to fungal infections, yet the effects of this symbiont on antifungal defense mechanisms remain poorly understood. We studied immune parameters in male and female Drosophila melanogaster with (W+) and without (W-) Wolbachia. We assessed the constitutive expression of Toll pathway genes and several components of the melanization cascade, including expression of prophenoloxidase genes, phenoloxidase activity, levels of reactive oxygen species, and concentrations of tyrosine, dopamine, and N-acetyldopamine. In addition, we analyzed the induction of Toll signaling components and Toll-related antimicrobial peptides in males and females of the W+ and W- flies following natural infection with the fungus Beauveria bassiana. We show that increased female survival following infection is associated with a Wolbachia-dependent constitutive shift toward catecholamine-dependent melanization.In males, by contrast, the effect of the symbiont is primarily reflected in stronger infection-induced expression of Toll pathway components, particularly spaetzle, dorsal, and Drosomycin. A common feature in both sexes was constitutively elevated expression of Metchnikowin. Together, these results demonstrate that Wolbachia modifies antifungal immunity in a sex-specific manner and highlight new directions for investigating the molecular mechanisms by which Wolbachia influences immune-signaling cascades.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "沃尔巴克氏体以性别特异性方式改变果蝇抗真菌免疫：雌蝇靠儿茶酚胺黑化，雄蝇靠Toll通路。",
+    "conclusion": "沃尔巴克氏体对果蝇抗真菌免疫的调节存在性别差异：雌蝇感染后存活率提高与组成型向儿茶酚胺依赖的黑化反应偏移有关，雄蝇则主要表现为感染诱导的Toll通路成分（spaetzle、dorsal、Drosomycin）表达增强；两性共有特征是Metchnikowin组成型高表达。该结果揭示了共生菌影响免疫信号级联的新方向。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42810651",
+    "title": "Construction of on-demand lignin-based nano-delivery system via microfluidic technology: Enabling low-cost transportation and storage of pesticide formulations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of biological macromolecules",
+    "authors": "Qi J, Guo Z, Wang Z, Fan H, Wu X, Fang J, Li H.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-09-30",
+    "url": "https://europepmc.org/article/MED/42810651",
+    "doi": "10.1016/j.ijbiomac.2026.154661",
+    "pmid": "42810651",
+    "abstract": "Nanopesticides represent a significant direction in the development of agricultural nanotechnology. The traditional solvent-antisolvent method is a classic preparation technique characterized by its simplicity and broad applicability. However, this approach suffers from low product concentration, high transportation costs, and poor stability of the resulting nanoparticles, which are prone to Ostwald ripening, thereby limiting their large-scale field application. In this study, we propose a novel \"production-for-immediate-use\" nanopesticide preparation technology based on a simplified microfluidic device. Using prometryn (PMT) as a model drug and leveraging the electrostatic-driven self-assembly between sodium lignosulfonate (SL) and cationic surfactants, drug-loaded nanospheres were continuously prepared in a single step within the microfluidic channel. The microfluidic process parameters and environmental conditions were systematically optimized to establish the optimal preparation protocol. The stability, adhesion, and sustained-release properties of the prepared nanopesticides were evaluated to identify the optimal cationic surfactant system. Petri-dish-based bioassays demonstrated that the selected nanoformulation exhibited herbicidal efficacy against barnyard grass comparable to that of the commercial formulation, while showing less inhibitory effect on the early-stage growth of corn seedlings relative to the commercial product, preliminarily suggesting its potential advantage in reducing phytotoxicity to non-target crops. The developed green, continuous, and integrated nanopesticide technology enhances stability and convenience while lowering costs, offering key insights for on-demand pesticide production and smart agricultural equipment advancement.",
+    "species_latin": "Echinochloa crus-galli;Zea mays",
+    "species_en": "barnyard grass;corn",
+    "species_zh": "稗;玉米",
+    "takeaway": "用简化微流控装置让木质素磺酸钠与阳离子表面活性剂自组装,一步连续制备除草剂纳米制剂,兼顾稳定性与低成本。",
+    "conclusion": "该研究以微流控通道内静电驱动自组装实现载药纳米球的一步连续制备,克服了传统溶剂-反溶剂法浓度低、运输成本高、易奥斯特瓦尔德熟化的缺陷;优化后的纳米制剂对稗草防效与商业制剂相当,对玉米幼苗早期生长的抑制更弱,显示降低非靶标作物药害的潜力,为农药按需生产和智能农机发展提供思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42810485",
+    "title": "Resistance phenotyping and kdr genotyping in Aedes aegypti and Aedes albopictus from Thailand",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta tropica",
+    "authors": "Ahebwa A, Wu YY, Nararak J, Neoh KB, Chareonviriyaphap T.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-09-30",
+    "url": "https://europepmc.org/article/MED/42810485",
+    "doi": "10.1016/j.actatropica.2026.108348",
+    "pmid": "42810485",
+    "abstract": "Insecticide resistance profiles and underlying mechanisms are essential for developing effective and sustainable vector control strategies. This study aimed to investigate the insecticide susceptibility profiles and kdr genotypes in field populations of Aedes aegypti and Ae. albopictus. Bioassays were conducted on six Ae. albopictus and two Ae. aegypti populations towards deltamethrin, lambda-cyhalothrin, pirimiphos-methyl, and bendiocarb. Piperonyl butoxide (PBO) synergism and kdr genotyping of the Vssc gene were conducted. Against pyrethroids, Ae. aegypti and four out of six Ae. albopictus populations exhibited resistance. PBO restored full susceptibility across Ae. albopictus populations but not against Ae. aegypti, suggesting metabolic resistance involving cytochrome P450 monooxygenese. All tested mosquitoes were susceptible to pirimiphos-methyl. F1534C and V1016G kdr mutations were detected in both populations of Ae. aegypti. For the F1534C locus, the resistant allele Cys1534 was predominant but population specific. At codon 1016, Gly1016 was present but less frequent than Val1016, with resistant homozygotes population specific. These findings highlight heterogeneous resistance profiles across provinces and species, underscoring the need for vector and location-specific vector control strategies. PBO synergist addition remains viable option for managing Ae. albopictus resistance but pyrethroid alternatives such as pirimiphos-methyl and bendiocarb offer an interspecies option for controlling Aedes vectors.",
+    "species_latin": "Aedes aegypti, Aedes albopictus",
+    "species_en": "Yellow fever mosquito, Asian tiger mosquito",
+    "species_zh": "埃及伊蚊、白纹伊蚊",
+    "takeaway": "泰国白纹伊蚊和埃及伊蚊野外种群对拟除虫菊酯抗性不一，PBO可恢复白纹伊蚊敏感性，kdr突变分布具种群特异性。",
+    "conclusion": "泰国两地两种伊蚊对拟除虫菊酯抗性存在种间与地区差异；白纹伊蚊抗性主要与细胞色素P450代谢相关，PBO可完全恢复其敏感性，而埃及伊蚊抗性另有机制。两种蚊均对甲基嘧啶磷敏感。埃及伊蚊检出F1534C和V1016G kdr突变，其抗性等位基因频率具种群特异性。防控需针对蚊种与地点制定策略，PBO及甲基嘧啶磷、残杀威可作为替代选项。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42768941",
     "title": "Analysis of neonicotinoid pesticides and their metabolites by liquid chromatography-electrospray ionization-tandem mass spectrometry",
     "type": "paper",
