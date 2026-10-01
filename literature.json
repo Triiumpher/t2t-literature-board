@@ -130,6 +130,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42816152",
+    "title": "Clinopodium nepeta Essential Oil and Its Major Constituents Pulegone and Menthone: Composition and Activity Against Verticillium dahliae, Phytophthora infestans, and Macrophomina phaseolina",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Chemistry & biodiversity",
+    "authors": "Taibi M, Elbouzidi A, Haddou M, Beraich A, Baraich A, Bellaouchi R, Addi M, Chaabane K, Jaouadi B, Zarai N, Guerrouj BE, Asehraou A.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42816152",
+    "doi": "10.1002/cbdv.71781",
+    "pmid": "42816152",
+    "abstract": "Fungal and oomycete phytopathogens account for 10%-20% of annual global crop losses, and the escalating resistance to synthetic fungicides has intensified demand for plant-derived alternatives. The essential oil (EO) of Clinopodium nepeta (L.) Kuntze, obtained by hydrodistillation from aerial parts harvested in northeastern Morocco, was profiled by gas chromatography-mass spectrometry (GC-MS) and evaluated for antifungal and anti-oomycete activity against Verticillium dahliae, Phytophthora infestans, and Macrophomina phaseolina using broth microdilution minimum inhibitory concentration (MIC) assays. The EO was dominated by two oxygenated monoterpene ketones, pulegone (42.16%) and menthone (41.43%), which were additionally evaluated as isolated compounds. The whole EO yielded MIC values of 31.25 µg/mL (P. infestans), 62.5 µg/mL (V. dahliae), and 125 µg/mL (M. phaseolina). Both isolated constituents outperformed the native matrix by 2- to 16-fold, revealing antagonistic interactions within the complex EO. Pulegone showed superior activity against V. dahliae and P. infestans, while menthone was more potent against M. phaseolina, a selectivity pattern consistent with the greater electrophilic reactivity of pulegone's α,β-unsaturated ketone (Michael acceptor) moiety. These findings identify pulegone and menthone as priority biopesticide candidates, pending formulation optimization, in planta validation, and toxicological assessment of pulegone under field-exposure conditions. Because the GC-MS analysis was performed on an achiral stationary phase, the enantiomeric composition of the oil was not determined; its constituents are therefore reported without stereodescriptors, and the compounds assayed as isolated agents were the commercial reference standards (R)-(+)-pulegone and (2S,5R)-(-)-menthone. The structure-activity relationship described here is consequently constitutional rather than configurational.",
+    "species_latin": "Clinopodium nepeta",
+    "species_en": "lesser calamint",
+    "species_zh": "荆芥（Clinopodium nepeta）",
+    "takeaway": "摩洛哥产荆芥精油以胡薄荷酮和薄荷酮为主，单体抗三种植物病原菌活性强于全精油。",
+    "conclusion": "该精油及其主要成分胡薄荷酮、薄荷酮对黄萎病菌、致病疫霉和菜豆壳球孢菌均有抑制作用，且两种单体活性比全精油高2至16倍，提示精油内部存在拮抗作用；胡薄荷酮因α,β-不饱和酮结构对前两者更强，薄荷酮对菜豆壳球孢菌更有效，二者有望成为生物农药候选物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261001-insecticide-parasitoid-sequestration",
     "title": "PNAS封面论文揭示害虫抗药性新隐患：杀虫剂可经宿主传递危害寄生蜂",
     "type": "wechat",
@@ -8668,6 +8694,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42624385",
+    "title": "Chlorpyrifos exposure remodels the spermatogenic niche and alters testicular epigenetic dynamics in the absence of overt reproductive toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Reproductive toxicology (Elmsford, N.Y.)",
+    "authors": "Mansukhani M, Tasneem R, Sen Sharma S.",
+    "publish_date": "2026-08-20",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42624385",
+    "doi": "10.1016/j.reprotox.2026.109330",
+    "pmid": "42624385",
+    "abstract": "Chronic exposure to the widely used organophosphate pesticide chlorpyrifos has been associated with reproductive dysfunction; however, the early subclinical events preceding overt reproductive dysfunction remain poorly understood due to cell-specific and non-monotonic responses to the toxicant. The present study investigated the effect of chronic CPF exposure on the spermatogenic niche and sperm epigenome in a mouse model. Despite the absence of detectable oxidative stress or reproductive toxicity, chronic CPF exposure induced significant changes in the testicular microenvironment. Testicular proteomic analysis revealed dysregulated expression of proteins involved in extracellular matrix remodeling in CPF-exposed mice. These changes were associated with increased expression of Ctnnb1 and Axin1 indicating modulation of β-catenin-associated signaling in the testis. Furthermore, CPF exposure was associated with dysregulation of Sertoli cell function characterized by a significant reduction in Kitlg expression, increased c-kit levels, and reduced expression of the gap junction protein Connexin 43. CPF exposure also led to a significant dose-dependent increase in the expression of Tet1 suggesting altered epigenetic regulation in the testis. Interestingly, there was a trend toward increased sperm DNA methylation in CPF-exposed mice. Overall, these findings reveal that chronic CPF exposure induces early remodeling of the spermatogenic niche and alters testicular epigenetic regulation prior to overt reproductive dysfunction, identifying the Sertoli cell-extracellular matrix axis as a potential early target underlying CPF-induced testicular toxicity.",
+    "species_latin": "Mus musculus",
+    "species_en": "mouse",
+    "species_zh": "小鼠",
+    "takeaway": "小鼠慢性毒死蜱暴露虽无生殖毒性表征，却重塑睾丸生精微环境并改变表观遗传调控",
+    "conclusion": "慢性毒死蜱暴露在未出现明显生殖毒性的情况下，已引起睾丸细胞外基质重塑相关蛋白表达紊乱、β-catenin信号及支持细胞功能失调（Kitlg下降、c-kit升高、Connexin 43减少），并呈剂量依赖性上调Tet1、伴随精子DNA甲基化升高趋势。表明支持细胞-细胞外基质轴是毒死蜱早期睾丸毒性的潜在靶点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42697681",
     "title": "Functional characterization of ABC transporters in chlorpyrifos resistance in Nilaparvata lugens",
     "type": "paper",
@@ -8964,6 +9016,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42595034",
+    "title": "Aryl hydrocarbon receptor activation by imidacloprid as a promoter of HER2(+) breast cancer progression: In silico, in vitro and in vivo studies",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Buján S, Miret N, Torres D, Pontillo C, Chiappini F, Nicola Candia A, Leguizamón M, Martín Mena S, Bressan M, Scicolone G, Candolfi M, Randi A.",
+    "publish_date": "2026-08-13",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42595034",
+    "doi": "10.1016/j.envres.2026.125482",
+    "pmid": "42595034",
+    "abstract": "Breast cancer is the most common type of neoplasm in women globally. Growing evidence shows that people living in agricultural areas with heavy pesticide exposure have a higher risk of breast cancer. Imidacloprid (IMI) is a neonicotinoid insecticide used in large-scale agricultural systems, homes, and veterinary pharmaceutical products. The aryl hydrocarbon receptor (AhR) has been linked to breast cancer, and some pesticides can activate its signaling pathways. The G protein-coupled estrogen receptor (GPER) plays a fundamental role in epithelial-mesenchymal transition, relevant to the development of metastasis. In this work, we study IMI effects on human epidermal growth factor receptor 2-positive [HER2(+)] LM3 breast cancer cells, in a syngeneic model of breast tumors in mice, and in in silico analyses of the agonist/antagonist action of IMI on AhR. In LM3 cells, IMI promoted viability, proliferation and migration through AhR and GPER, and increased MMP-2 and MMP-9 activity. In the mouse model, IMI increased tumor growth and lung metastasis. In addition, IMI exposure significantly upregulated AhR protein expression and its canonical target gene cytochrome P450 1A1 mRNA in both models. Moreover, IMI enhanced GPER expression and the activation of ERK. The in silico results show that IMI occupies the AhR ligand-binding pocket with a considerably lower affinity than the full agonist TCDD. Our findings indicate that exposure to IMI promotes tumor growth and progression in a HER2(+) mouse model of breast cancer. Some of its effects can be explained by the insecticide's agonist activity on AhR.",
+    "species_latin": "Mus musculus",
+    "species_en": "mouse",
+    "species_zh": "小鼠",
+    "takeaway": "吡虫啉经AhR与GPER促进HER2阳性乳腺癌细胞增殖迁移及小鼠肿瘤生长和肺转移",
+    "conclusion": "吡虫啉暴露可激活AhR并上调GPER、ERK及MMP-2/9,从而促进HER2阳性乳腺癌的增殖、迁移、肿瘤生长与肺转移;其部分效应源于对AhR的激动活性,提示农药暴露可能推动乳腺癌进展。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42697666",
     "title": "Corrigendum to \"Transcriptome analysis reveals the pheromone synthesis mechanism and mating response in Monochamus saltuarius (Coleoptera, Cerambycidae)\" [Pesticide Biochemistry and Physiology, 2024, 203, 105975]",
     "type": "paper",
@@ -9125,6 +9203,32 @@
     "conclusion": ""
   },
   {
+    "id": "pmid-42579967",
+    "title": "In vitro insecticidal and repellent activity of Cymbopogon essential oils and geraniol against cat flea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary parasitology",
+    "authors": "de Oliveira Chaves JK, Campos DR, Santos Soares EFM, Rosa DQ, Silveira LR, de Lima Monzato G, de Almeida Chaves DS, de Figueiredo Pereira N, de Souza MAA, Correia TR, Cid YP, Scott FB.",
+    "publish_date": "2026-08-10",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42579967",
+    "doi": "10.1016/j.vetpar.2026.110886",
+    "pmid": "42579967",
+    "abstract": "Ctenocephalides felis felis is the most prevalent tick species infesting domestic animals and represents an important target for sustainable ectoparasite control. This in vitro study investigated the insecticidal and repellent activity of essential oils from Cymbopogon nardus, Cymbopogon winterianus, Cymbopogon flexuosus, and Cymbopogon martinii, as well as the monoterpene geraniol, against all developmental stages of cat fleas. The chemical composition of the essential oils was determined by gas chromatography with flame ionization detection. Insecticidal activity was evaluated using a contact bioassay involving filter paper impregnated with different concentrations of the essential oils and geraniol. Lethal concentrations were estimated using Probit analysis. Residual efficacy was assessed by exposing adult fleas to treated filter paper and recording mortality at 24-hour intervals, and repellency was evaluated by comparing the distribution of adult fleas between treated and control filter paper strips. All treatments showed concentration-dependent activity. Geraniol presented the lowest LC₅₀ values for eggs (14.7 μg.cm⁻²), pupae (47.1 μg.cm⁻²), adults (84.6 μg.cm⁻²), and biological cycle inhibition (3.6 μg.cm⁻²), whereas C. martinii essential oil was the most potent against larvae (LC₅₀ 19.4 μg.cm⁻²). With regard to residual adulticidal activity, C. martinii essential oil and geraniol-maintained activity for approximately 25-26 days, whereas C. nardus, C. winterianus and C. flexuosus lost activity after approximately 19-20 days. Repellency at 800 μg.cm⁻² was pronounced for all essential oils during the first hours, with C. martinii essential oil maintaining ≥ 90% repellency from 1 to 48 h, and geraniol from 1 to 12 h. These findings indicate that Cymbopogon essential oils, particularly C. martinii, and geraniol have significant in vitro insecticidal and repellent activity against C. felis felis.",
+    "species_latin": "Ctenocephalides felis",
+    "species_en": "cat flea",
+    "species_zh": "猫蚤",
+    "takeaway": "香茅属精油与香叶醇对猫蚤各发育阶段具浓度依赖性杀灭和驱避作用，香叶醇与马丁香茅精油效果最强。",
+    "conclusion": "香茅属精油（尤其马丁香茅）和香叶醇在体外对猫蚤卵、幼虫、蛹及成虫均有显著杀虫活性，且具持久残效与驱避作用，提示其可作为可持续控制猫蚤的潜在天然候选物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42697674",
     "title": "Genomic analysis of regulatory mechanisms governing EPS66A biosynthesis in Streptomyces changanensis HL-66",
     "type": "paper",
@@ -9232,6 +9336,32 @@
     "species_zh": "",
     "takeaway": "上海交通大学团队实现恒河猴（Macaca mulatta）近乎完美的 T2T 组装 T2T-MMU8v2.0，达到基因组完整性检查器（GCI）100 分、共识序列零错误 k-mer（k=21），并提出判定完整且近乎完美基因组的三条标准。",
     "conclusion": ""
+  },
+  {
+    "id": "pmid-42572172",
+    "title": "Adsorption of the dinotefuran enantiomers by Mg-modified peanut shell biochar: mechanism, site identification, and density functional theory validation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Suo F, Liu J, Yin Z, Liu X, You X, Ma S, Dong L, Cheng Y, Dong J, Zhang L.",
+    "publish_date": "2026-08-09",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42572172",
+    "doi": "10.1002/ps.71088",
+    "pmid": "42572172",
+    "abstract": "BACKGROUND: The chiral pesticide dinotefuran, a neonicotinoid insecticide with high water solubility and persistence, poses significant ecological systems risks by interfering with the structure and functions of aquatic ecosystems and accumulating progressively through the food chain. Mg-modified biochar derived from peanut shell (MPB) and corn stalk, along with pristine peanut shell and corn stalk biochar, were prepared and characterized. The adsorption mechanisms of the two dinotefuran enantiomers (R-dinotefuran and S-dinotefuran) were investigated. RESULTS: Adsorption experiments demonstrated that MPB achieved the highest adsorption capacity for both enantiomers, with no significant difference between them. At 298.15 K, the maximum adsorption capacities of MPB for R-dinotefuran and S-dinotefuran were 78.62 and 75.39 mg g-1 respectively. All adsorption processes were spontaneous, exothermic, and associated with a decrease in disorder. Both dinotefuran enantiomers underwent removal by MPB through identical primary mechanisms, including hydrogen bonding, π-π interactions, electrostatic attraction, complexation, ligand exchange, and pore filling. Density functional theory calculations revealed minimal energy gaps between the Highest Occupied Molecular Orbital of MPB and the Lowest Unoccupied Molecular Orbital of both enantiomers (2.475 and 2.524 eV). These gaps are 3.3% to 40.1% lower than those for other biochars, further confirming the superior reactivity and adsorption performance of MPB, as well as the negligible enantioselectivity between the two enantiomers. CONCLUSION: MPB exhibits high adsorption performance for the chiral pesticide dinotefuran, demonstrating its potential to mitigate dinotefuran contamination in surface water and groundwater. These results offer valuable insights into the efficient and selective removal of chiral pesticides from aquatic environments. © 2026 Society of Chemical Industry.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "镁改性花生壳生物炭对呋虫胺两种对映体吸附量高且无明显选择性，DFT计算证实其反应性优于其他生物炭。",
+    "conclusion": "镁改性花生壳生物炭通过氢键、π-π作用、静电吸引、络合、配体交换和孔隙填充等机制高效吸附呋虫胺，对R型和S型对映体吸附能力相近，无明显对映选择性，可用于去除水体中手性农药污染。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "manual-20260902-humanppi-model",
@@ -9451,6 +9581,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42570479",
+    "title": "IMI targets abnormal lipid metabolism by inhibiting intestinal TAS2Rs",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Liang J, Li Y, Xu W, Zhao G, Wang Y.",
+    "publish_date": "2026-08-06",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42570479",
+    "doi": "10.1016/j.foodchem.2026.150688",
+    "pmid": "42570479",
+    "abstract": "Imidacloprid (IMI), a widely used neonicotinoid insecticide, has been increasingly linked to metabolic disorders from environmental exposure. In this study, adult rats were chronically exposed to low-dose IMI at 0.06 mg/kg body weight per day for 19 weeks under three dietary regimens: normal-fat, high-fat, and free-choice diets. Prolonged IMI treatment significantly increased body weight, induced dyslipidemia characterized by elevated serum total cholesterol and triglycerides, reduced high-density lipoprotein cholesterol and triggered systemic inflammation. Notably, under normal-fat diet, IMI disrupted lipid metabolism via crosstalk between intestinal TAS2Rs (TAS2Rs) and fat receptor 41 (GPR41). Under high-fat and free-choice diets, the effects are mainly associated with cluster of differentiation 36 (CD36) mediated PKC-AMPK-Acetyl CoA carboxylase 1 (ACC1) signaling pathway. However, the relationship between this pathway and the decreased expression of TAS2Rs remains unclear, indicating that a high-fat dietary state may interfere with the flavor perception toxicity of IMI. The result of 16S rRNA sequencing showed IMI reduced gut microbial diversity, increased pathogenic Clostridium, and decreased beneficial Bacteroides. Spearman correlation analysis indicated that TAS2R119 expression positively correlated with Bacteroides abundance and negatively with norank_o__Clostridia_UCG-014, suggesting a link between receptor modulation and microbial community shifts. Molecular docking and gene expression analyses supported IMI interaction with TAS2Rs as a novel mechanism underlying pesticide-induced metabolic disruption. These findings illuminate the combined effects of diet and environmental chemicals on metabolism and identify intestinal taste receptors as potential therapeutic targets.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Rat",
+    "species_zh": "大鼠",
+    "takeaway": "低剂量吡虫啉长期暴露经肠道TAS2Rs与GPR41、CD36等通路扰乱大鼠脂质代谢并改变肠道菌群",
+    "conclusion": "长期低剂量吡虫啉暴露可致大鼠体重增加、血脂异常与全身炎症；正常脂饮食下经肠道TAS2Rs与GPR41互作干扰脂代谢，高脂及自由选择饮食下主要经CD36-PKC-AMPK-ACC1通路，并伴肠道菌群多样性下降及TAS2R119与菌群丰度相关，提示肠道苦味受体是潜在干预靶点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260904-cottonaphid-chip",
     "title": "棉蚜抗药性快速检测与治理获突破：1K液相芯片覆盖18万位点、赛克菌肽最高增效超200倍（中国农科院重大任务现场观摩）",
     "type": "wechat",
@@ -9481,6 +9637,32 @@
       "增效剂",
       "赛克菌肽"
     ]
+  },
+  {
+    "id": "pmid-42556686",
+    "title": "Primer design for the voltage-gated sodium channel, the pyrethroids' target site, in the triatomine vector Triatoma infestans (Hemiptera: Reduviidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta tropica",
+    "authors": "Ponce-Revello C, Bacigalupo A, Silva-Suárez J, Toloza A, Roca-Acevedo G, Llewellyn MS, Castañeda LE, Botto-Mahan C.",
+    "publish_date": "2026-08-05",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42556686",
+    "doi": "10.1016/j.actatropica.2026.108270",
+    "pmid": "42556686",
+    "abstract": "Resistance to pyrethroid insecticides has become more frequent in triatomines, associated with point mutations in their target site, the voltage-gated sodium channel (VGSC). These mutations have been reported in Argentina, Bolivia and Mexico, by means of nested PCR. In Chile, the repeated intradomiciliary presence of the vector Triatoma infestans after spraying may be related to resistance; however, target-site mutations have yet to be evaluated. Using a partial sequence of the VGSC as a search query for the T. infestans genome, the complete VGSC gene sequence was obtained. Ten primer pairs were generated with Primer-BLAST and tested in silico by BLAST against the T. infestans genome and against the NCBI nucleotide database (nr) to discard those with low specificity. Conventional PCRs were performed with T. infestans' DNA and the remaining primers, selecting one pair based on sensitivity and the absence of nonspecific bands. The 993 bp sequenced product allows for the evaluation of the three point mutations reported in the VGSC of triatomines. Primer validation was performed with L925I mutation-positive samples from Argentina. Chilean samples from five localities were also amplified and Sanger sequenced in search of mutations. The L925I mutation was detected only in the Argentinean controls. None of the variants evaluated were found in the Chilean samples. These primers will allow rapid evaluation of point mutations in the VGSC, which may be associated with reduced affinity of pyrethroids for their target site; thereby facilitating insecticide resistance surveillance.",
+    "species_latin": "Triatoma infestans",
+    "species_en": "triatomine bug",
+    "species_zh": "骚扰锥蝽",
+    "takeaway": "为恰加斯病媒介骚扰锥蝽设计VGSC基因引物，可检测三个拟除虫菊酯靶标抗性点突变，智利样本未发现突变。",
+    "conclusion": "研究基于骚扰锥蝽基因组序列设计并验证了一对VGSC引物，可扩增993 bp片段并覆盖三个已知抗性点突变；用阿根廷L925I阳性样本验证有效，而智利五个地点样本均未检出这些突变。该引物有助于快速监测靶标位点突变及拟除虫菊酯抗性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "manual-20260901-rainbow-trout",
@@ -9795,6 +9977,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42515833",
+    "title": "Effects of resistance to Bt proteins Cry1Ac and Vip3Aa on flight traits of Helicoverpa zea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Schutze IX, DeGain BA, Davidowitz G, Tabashnik BE, Carrière Y, Fabrick JA.",
+    "publish_date": "2026-07-27",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42515833",
+    "doi": "10.1002/ps.71057",
+    "pmid": "42515833",
+    "abstract": "BACKGROUND: Genetically engineered crops producing insecticidal Bacillus thuringiensis proteins are useful for managing some key insect pests, including Helicoverpa zea (corn earworm or bollworm). In the United States, widespread practical resistance to crystalline (Cry) proteins and early warning of resistance to the vegetative insecticidal protein Vip3Aa have been reported for H. zea. To test the hypothesis that resistance to Cry1Ac or Vip3Aa causes fitness costs affecting flight and related traits in H. zea, we compared lab-selected Cry1Ac-resistant and Vip3Aa-resistant strains with their susceptible parental strains, and with an unrelated standard susceptible strain. We used flight mills to analyze flight (flight propensity, total distance, distance per flight, duration, number of flights, and speed) and related traits (post-flight survival, body mass, forewing area, wing loading, flight muscle mass, and abdominal lipid mass). RESULTS: The results show that H. zea resistance to Cry1Ac or Vip3Aa generally did not cause fitness costs affecting flight and related traits. One notable exception is that male post-flight survival was lower in a Vip3Aa-resistant strain than its Vip3Aa-susceptible parent strain. CONCLUSION: Together with the limited fitness costs previously reported in Cry-resistant H. zea, the lack of fitness costs in Cry1Ac-resistant H. zea affecting flight and related traits reported here aligns with the rapid evolution of practical resistance of H. zea to Cry proteins. If the reduced post-flight survival of Vip3Aa-resistant males in the laboratory also occurs in the field, it could help to delay the evolution of resistance and the geographic spread of alleles conferring resistance to Vip3Aa. © 2026 Society of Chemical Industry. This article has been contributed to by U.S. Government employees and their work is in the public domain in the USA.",
+    "species_latin": "Helicoverpa zea",
+    "species_en": "corn earworm",
+    "species_zh": "玉米夜蛾",
+    "takeaway": "用飞行磨测试发现，玉米夜蛾对Cry1Ac或Vip3Aa的抗性通常不带来飞行相关适合度代价，仅Vip3Aa抗性雄虫飞行后存活率降低。",
+    "conclusion": "玉米夜蛾对Cry1Ac和Vip3Aa的抗性大多不影响飞行能力及相关性状，这与该虫对Cry蛋白迅速演化出田间抗性相符；但Vip3Aa抗性雄虫飞行后存活率下降，若田间同样存在，或可延缓Vip3Aa抗性演化与扩散。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42508715",
+    "title": "Conventional and nonconventional therapies for pesticide-induced cardiotoxicity: A systematic review",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+    "authors": "de Almeida DL, da Costa SJG, Silva VC, Teles AS, Meireles MHV, Santos-Miranda A, Joviano-Santos JV.",
+    "publish_date": "2026-07-27",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42508715",
+    "doi": "10.1016/j.fct.2026.116299",
+    "pmid": "42508715",
+    "abstract": "Pesticides, as pervasive environmental pollutants, have been associated with cardiotoxic effects. However, evidence regarding cardioprotective strategies remains fragmented, particularly concerning the integration of conventional therapies and nonconventional approaches involving natural products. This systematic review (PROSPERO:CRD420251143191) aimed to synthesize experimental evidence on cardioprotection against pesticides, with emphasis on natural product-based interventions. The review was conducted according to PRISMA, with searches performed in Medline/PubMed, EMBASE, and BVS. Eligible studies included in vitro and in vivo models of pesticide exposure that reported cardiovascular outcomes and therapeutic interventions. A total of 85 studies were included, predominantly involving in vivo models. While only a few studies evaluated conventional antidotes, such as atropine and pralidoxime, most investigated natural and bioactive compounds, including antioxidant vitamins, polyphenols, flavonoids, carotenoids, and microbiota-modulating agents. Frequently studied compounds included vitamin E, vitamin C, lycopene, coenzyme Q10, resveratrol, and curcumin. Overall, these interventions demonstrated protective effects through attenuation of lipid peroxidation, restoration of endogenous antioxidant defenses, and modulation of inflammatory and apoptotic pathways. Studies also reported improvements in hemodynamic and electrocardiographic parameters. Collectively, these findings provide promising preclinical evidence that novel interventions may mitigate pesticide-induced cardiotoxicity, although they should be interpreted with caution due to the predominantly preclinical nature of the studies.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "系统综述85项研究显示,天然产物类干预可通过抗氧化、抗炎和抗凋亡途径减轻农药心脏毒性。",
+    "conclusion": "常规解毒剂研究较少,而维生素E、维生素C、番茄红素、辅酶Q10、白藜芦醇和姜黄素等天然及生物活性化合物在临床前模型中表现出心脏保护作用,机制涉及抑制脂质过氧化、恢复内源性抗氧化防御、调节炎症与凋亡通路,并改善血流动力学和心电图指标;但证据以临床前研究为主,需谨慎解读。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42508793",
     "title": "A novel approach against amitraz toxicity based on magnetic extraction using native β-cyclodextrin and β-cyclodextrin polymers attached to superparamagnetic nanoparticles for potential human cell protection",
     "type": "paper",
@@ -9925,6 +10159,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42520559",
+    "title": "Integrated control of Rhipicephalus microplus: Assessment of the use of chemical acaricides and Metarhizium anisopliae in cattle from a tropical climate region",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary parasitology",
+    "authors": "Ferreira de Souza ED, Salvador VF, Lima Lins Leal LL, de Morais IML, de Carvalho RA, Lima HAF, Chagas HDF, Seabra AL, Buso MAM, Ferreira LL, Fernandes ÉKK, Oliveira Monteiro CM, Lopes WDZ.",
+    "publish_date": "2026-07-23",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42520559",
+    "doi": "10.1016/j.vetpar.2026.110870",
+    "pmid": "42520559",
+    "abstract": "This study evaluated the use of the entomopathogenic fungus Metarhizium anisopliae as part of an integrated strategic control program for Rhipicephalus microplus in dairy cattle raised under tropical conditions. All experiments were conducted using an oil dispersion (OD) formulation containing aerial conidia of M. anisopliae (ESALQ E9). In the first experiment (laboratory assay), engorged females of two strain were immersed in different concentrations (1 × 10⁷, 5 × 10⁷, and 1 × 10⁸ conidia/mL). Subsequently, the reproductive biology of the ticks was evaluated, and the percent control was calculated. The second experiment assessed the efficacy applied using two spraying systems: a backpack sprayer and a power sprayer. For animal treatment in both experiments in field trials, 5 L of the fungal suspension at a concentration of 1 × 10⁸ conidia mL⁻¹ was applied to each animal. Thirty naturally infested Holstein × Gyr crossbred cows were allocated into three groups: backpack sprayer, power sprayer, and untreated control. Tick counts were performed through 28 days post-treatment to calculate efficacy. The viability of the conidia was also evaluated after application using the different sprayers. In the third experiment evaluated a strategic control protocol combining a synthetic chemical acaricide with M. anisopliae. Cows with different Holstein × Gyr genetic compositions (5/8 Holstein × 3/8 Gyr and 3/4 Holstein × 1/4 Gyr) were monitored for 126 days under field conditions. The study compared groups receiving alternating chemical and biological treatments with those receiving only chemical treatments or serving as controls after day 63. In the first experiment (laboratory conditions), fungal formulation reduced (p ≤ 0.05) both the quantity and viability of eggs produced by engorged females, resulting in efficacy exceeding 90% at the highest concentration tested, in both strains. In the second experiment, both spraying systems proved suitable for applying the fungal formulation, with no significant differences between application methods. Efficacy against R. microplus reached approximately 60% between 7 and 14 days post-treatment, regardless of the equipment used. Conidial viability was not affected (p > 0.05) by any of the spraying systems. In the strategic control study, alternating four applications of a synthetic acaricide with two applications of M. anisopliae resulted in a 33.3% reduction in chemical acaricide use. This integrated approach effectively maintained low tick burdens in 5/8 Holstein × 3/8 Gyr cattle, whereas control was less consistent in animals with a higher proportion of Holstein genetics (3/4 Holstein × 1/4 Gyr). In conclusion, integrating M. anisopliae into strategic tick control programs is feasible under tropical field conditions and enables a meaningful reduction in chemical acaricide use. This approach represents a promising tool for sustainable tick management and may contribute to delaying the selection of acaricide-resistant R. microplus populations.",
+    "species_latin": "Rhipicephalus microplus",
+    "species_en": "Southern cattle tick",
+    "species_zh": "微小扇头蜱",
+    "takeaway": "在热带奶牛场，用金龟子绿僵菌油悬浮剂配合化学杀螨剂防控微小扇头蜱，实验室高效、田间约六成。",
+    "conclusion": "绿僵菌ESALQ E9油悬浮剂在实验室可显著降低微小扇头蜱饱血雌蜱产卵量与卵活力，最高浓度防效超90%；田间背负式与动力喷雾器效果相当，处理后7至14天防效约60%；将其与化学杀螨剂交替使用的策略性方案在热带奶牛场具有整合防控潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42492153",
     "title": "Comparative toxicity of thiamethoxam and abamectin in red swamp crayfish: Bioaccumulation, oxidative stress, and gut microbiota in a rice-crayfish Co-culture system",
     "type": "paper",
@@ -9975,6 +10235,32 @@
     "species_zh": "",
     "takeaway": "系统盘点 2026 年近期动植物 T2T（Telomere-to-Telomere）基因组新发表研究，涉及大百部等多个物种的无缺口组装与比较基因组分析，可用于跟踪 T2T 组装物种扩展趋势。",
     "conclusion": ""
+  },
+  {
+    "id": "pmid-42486374",
+    "title": "Integrated biomarker profiling reveals synergistic toxicity of pesticide-nanoparticle mixtures in zebrafish",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxicology and applied pharmacology",
+    "authors": "Dogan D.",
+    "publish_date": "2026-07-22",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42486374",
+    "doi": "10.1016/j.taap.2026.117967",
+    "pmid": "42486374",
+    "abstract": "Aquatic ecosystems are increasingly exposed to contaminant mixtures rather than single compounds, creating complex interactions that remain poorly understood in ecotoxicology. Agricultural pesticides and engineered nanoparticles are among the most pervasive stressors, often detected together in surface waters due to intensive farming practices and widespread industrial use. Spirotetramat (a systemic tetramic acid insecticide), methoxyfenozide (an ecdysone agonist), and zinc oxide nanoparticles (ZnO-NPs) were focused on as representative co-occurring contaminants with potential joint effects on aquatic organisms. To investigate their combined impacts, adult zebrafish (Danio rerio) were exposed for 21 days to single, binary, and ternary mixtures under sublethal conditions, and multibiomarker profiling was applied to integrate neurotoxicity, oxidative stress, endocrine disruption, and apoptosis. Sustained acetylcholinesterase inhibition indicated persistent neurotoxic stress, while GST and CAT induction, biphasic GPx regulation, and elevated TBARS, protein carbonyls, and 8-OHdG revealed overwhelmed antioxidant defenses and cumulative oxidative damage. Vitellogenin induction, particularly in males, provided clear evidence of endocrine disruption, and caspase-3 activation highlighted apoptotic stress compromising organismal resilience. Integrated biomarker response scores identified ternary mixtures as most disruptive, while joint toxicity analysis revealed synergistic interactions beyond additive expectations. Collectively, these findings provide mechanistic evidence that pesticide-nanoparticle mixtures intensify neurotoxicity, oxidative stress, endocrine disruption, and apoptosis in zebrafish. The results underscore that mixture-based biomarker integration is critical for capturing ecologically relevant outcomes and advancing risk assessment of emerging contaminant combinations.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "农药与纳米颗粒三元混合暴露21天, 斑马鱼多标志物整合显示协同毒性, 神经、氧化、内分泌与凋亡损伤最重。",
+    "conclusion": "螺虫乙酯、甲氧虫酰肼与ZnO纳米颗粒的混合暴露会协同加剧斑马鱼神经毒性、氧化应激、内分泌干扰和细胞凋亡, 三元混合的干扰最强, 提示基于混合物的生物标志物整合对评估新兴污染物组合的生态风险至关重要。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42697638",
@@ -10102,6 +10388,58 @@
     "conclusion": "研究通过COI条形码确认伊朗南部鸽虱蝇，全球种群单倍型多样性中等、核苷酸多样性低，遗传分化有限；首次在伊朗该蝇中检出沃尔巴克氏体，wsp与16S rRNA均归入B超群，为宿主-共生体互作及流行病学意义提供基础数据。",
     "keywords": [
       "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42501523",
+    "title": "Non-target aquatic safety of the botanical insecticide candidate Combretum trifoliatum and its major constituent camphor: Sex-dimorphic neurotoxicity, cholinergic disruption, and water persistence in zebrafish",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "authors": "Nobsathian S, Woraharn S, Bullangpoti V, Kaewwongse M.",
+    "publish_date": "2026-07-18",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42501523",
+    "doi": "10.1016/j.aquatox.2026.107938",
+    "pmid": "42501523",
+    "abstract": "Combretum trifoliatum Vent. is a promising botanical pesticide, but its environmental fate and non-target aquatic biosafety remain undefined. This study assessed acute toxicity, neurobehavioral disruption, enzymatic detoxification, and aqueous persistence of C. trifoliatum ethanolic leaf and twigs extract and its major constituent camphor using adult zebrafish (Danio rerio). HPLC analysis identified camphor as the predominant compound (24.66% w/w). The crude extract exhibited low acute toxicity (96-h shared LC50 = 193.4 mg/L), whereas camphor was markedly more toxic (96-h shared LC50 = 29.00 mg/L). Sublethal exposure elicited sexually dimorphic neurobehavioral effects: males became hypoactive while females showed hyperactivity, with sex-specific alterations in spatial preference and swimming patterns. These behavioral changes coincided with cholinergic disruption, as AChE was inhibited in males but induced in females. Glutathione S-transferase activity remained unchanged, while carboxylesterase was selectively induced only in females exposed to the crude extract, indicating matrix-dependent metabolic responses. Aqueous persistence trials revealed a pronounced lag phase of ∼13 days with negligible camphor degradation (>96% recovery), followed by rapid first-order decay with a post-lag half-life of 5.80 days, resulting in an overall DT50 of 18.57 days. Despite low acute mortality, the prolonged environmental persistence and sex-dependent neurobehavioral and enzymatic impacts warrant rigorous risk assessment before widespread use.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "斑马鱼实验显示,三叶风车藤提取物及其主成分樟脑具性别差异神经毒性与胆碱能干扰,且樟脑在水体中持久残留。",
+    "conclusion": "该植物杀虫剂候选物急性毒性较低,但樟脑毒性显著更强;亚致死暴露引起性别二态性神经行为改变(雄鱼活动减弱、雌鱼活动增强),并伴随乙酰胆碱酯酶抑制或诱导的性别差异,羧酸酯酶仅在雌鱼中被诱导。樟脑在水体中先有约13天滞留期,随后快速降解,总体DT50约18.57天。其长期环境残留与性别依赖性神经及酶学影响提示,在推广前需严格风险评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42469163",
+    "title": "Multi-objective pesticide reduction-oriented design optimization, atomization-deposition performance and pests control efficacy of air-assisted sprayers for dense-planting spindle and V-trellis pear orchards",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Yu Z, Tan Y, Liu X, Han L, He X, Guo X, Liu J, Jiang C, Wu Z, Wang D.",
+    "publish_date": "2026-07-17",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42469163",
+    "doi": "10.1002/ps.71031",
+    "pmid": "42469163",
+    "abstract": "BACKGROUND: High-density spindle and V-trellis pear orchards face critical bottlenecks including complex canopies, poor sprayer adaptability, insufficient droplet penetration, uneven deposition, and low pesticide utilization. To overcome these issues, this study established a systematic framework including structure adaptation, parameter optimization, mechanism analysis, performance validation, and multi-objective evaluation. A dedicated air-assisted sprayer was developed using modular design, computational fluid dynamics (CFD) simulation, intelligent target detection, and high-speed flow-field visualization. The spray characteristics, air-droplet coupling, and operational parameters were optimized and verified in laboratory and field tests. RESULTS: The plant-derived adjuvant decreased surface tension to 54.23 mN m-1 and contact angle to 49.68°, improving wetting and deposition significantly. The optimal system (60° deflector, 2200 rpm fan, 0.3 MPa pressure) produced stable wind speeds of 4.48-6.08 m s-1 and uniform droplets with a relative span < 1.1. Field deposition reached 3.82 μL cm-2 (V-trellis) and 2.79 μL cm-2 (spindle). Control efficacy against major pests improved from 19-49.74% (1 day after treatment) to 39.91-72.41% (3 days after treatment). The optimized system reduced pesticide dosage by 25% while maintaining equivalent or better efficacy, with stabilized control up to 77.38%. CONCLUSION: This study resolves the poor adaptability of conventional sprayers, reveals the air-droplet coupling transport mechanism, and provides a technical scheme for precision green plant protection in dense pear orchards, supporting the customized upgrading of agricultural spraying equipment. © 2026 Society of Chemical Industry.",
+    "species_latin": "Pyrus spp.",
+    "species_en": "pear",
+    "species_zh": "梨",
+    "takeaway": "针对密植梨园研发风送式喷雾机，优化结构与参数后减药25%仍提升沉积与防效。",
+    "conclusion": "通过模块化设计、CFD仿真与流场可视化优化风送喷雾机，配合植物源助剂改善润湿沉积，阐明气液耦合输运机制；最优参数下雾滴均匀、沉积量提高，主要害虫防效显著提升，减药25%仍保持同等或更优效果，为密植梨园精准绿色植保与喷雾装备升级提供技术方案。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -10237,6 +10575,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42426957",
+    "title": "Biopesticides as an eco-friendly approach to mosquitoes and their role in reducing transmission of vector-borne disease: updates and prospects",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Nehra R, Dhanda S, Singh H, Bharti PK, Singh K.",
+    "publish_date": "2026-07-09",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42426957",
+    "doi": "10.1002/ps.71077",
+    "pmid": "42426957",
+    "abstract": "In recent years, biopesticides have emerged as a transformative approach to mosquito vector control, offering an eco-friendly alternative that addresses both the growing challenge of insecticide resistance and ecological concerns. Biopesticides extracts from natural sources or their secondary metabolites, botanical extracts, entomopathogenic fungi, and biocides from a broad class of bacteria, including Bacillus thuringiensis israelensis (Bti), have shown high efficacy against a variety of mosquito species, including those that are multiple or cross-resistant to conventional chemical insecticides. Microbial biopesticides, including bacterial agents such as Bacillus bassiana (Bs) and Metarhizium anisopliae, and viral pathogens, disrupt the life cycle of mosquitoes by specific modes of action: Bti produces cry and cyt toxins that lyse midgut epithelium, and neem-extract azadirachtin inhibits ecdysone signaling, reducing fecundity. Novel microbial biopesticides not only kills insecticide-resistant mosquitoes but also acts synergistically with chemical insecticides, disrupting mosquito host-seeking behavior and pathogen transmission. Field trials demonstrate 80-100% larval reduction with Bti in treated water bodies with effects 2-4 weeks, and fungi achieve 60-85% adult mortality. Recent advances include the development of novel formulations, such as combining Bti with a fungal pathogen such as Lagenidium giganteum to increase larvicidal activity and reduce the likelihood of resistance. These biopesticides minimize non-target effects and support sustainable disease management in the face of an increasing malaria burden. This comprehensive review focused on biopesticides which are more effective, safer and eco-friendly and provides a recent integrated framework that links human, animal and environmental health and improves the effectiveness of mosquito control. © 2026 Society of Chemical Industry.",
+    "species_latin": "Bacillus thuringiensis",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "生物农药通过Bt毒素、真菌及植物提取物等绿色手段高效杀灭抗药性蚊虫，并阻断病媒传播。",
+    "conclusion": "生物农药为蚊媒防控提供了环保替代方案，其多种作用机制可杀灭抗药蚊虫并与化学杀虫剂协同增效，减少非靶标影响，支撑人、动物与环境健康的可持续病媒管理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42447583",
     "title": "Enantioselective toxicity of pyriproxyfen to Apis mellifera and Sclerodermus guani and its impact on key genes in the juvenile hormone pathway",
     "type": "paper",
@@ -10336,6 +10700,32 @@
     "conclusion": "通过骨架跃迁策略合成的含环状酰胺异噁唑啉类化合物具有广谱杀虫活性，其中I-22对小菜蛾和朱砂叶螨的LC50分别为0.13和0.55 mg/L，优于氟噻虫酰胺，且对蜜蜂急性接触毒性略低；分子对接显示二者均作用于GABA受体，5-乙基吡啶基团对活性和选择性起关键作用，I-22有望成为新型异噁唑啉杀虫剂候选物。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42400294",
+    "title": "Insights Into the Origin and Local Adaptation Evolution of the Cultivated Sesame With Telomere-to-Telomere High-Quality Genome",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant biotechnology journal",
+    "authors": "Yang W, Cao H, Guo H, Miao H, Li G, Duan Y, Ju M, Tian Q, Ma Q, Chang P, Zhang Z, Mu C, Feng X, Wei L, Hou W, Paterson AH, Zhang H.",
+    "publish_date": "2026-07-04",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42400294",
+    "doi": "10.1111/pbi.70714",
+    "pmid": "42400294",
+    "abstract": "Sesame (Sesamum indicum L., 2n = 26) is one of the oldest oilseed crops and is often called the 'queen of oilseeds' due to its high content of unsaturated fatty acids and natural antioxidants. Despite its long history, the origin and global spread of cultivated sesame remain unresolved. We assembled a telomere-to-telomere (T2T), high-quality reference genome of sesame (cv. Yuzhi11) to investigate sequence differences between genomes and its origin and the local adaptation evolution of flowering time (DF). We generated a 305 Mb T2T sesame reference genome (cv. Yuzhi11) with > 99.99% base-level accuracy, identifying 31 063 protein-coding genes. Repetitive elements accounted for 52.03% of the genome. Population genomic analysis of 927 accessions from 14 regions identified four major groups. Integrative analyses of linkage disequilibrium decay (LD), nucleotide diversity (π), and fixation index (FST) support East Africa as the center of origin, with subsequent migration through the Middle East, to South Asia, South-East Asia, East Asia and ultimately to other parts of the world. Genome-wide association studies (GWAS) and selection scans identified 30 genes associated with flowering time. SiUBP16 is a candidate associated with 7.6% of DF variation. Early-flowering accessions carried up to 225 favourable alleles. A flowering time prediction model for high-latitude regions achieved 96% accuracy. We present a high-quality T2T reference genome for cultivated sesame, shedding light on its origin, evolutionary history, and regional flowering time adaptation. This genome insights valuable tools for breeding programs aimed at improving yield and environmental adaptation in sesame and related crops.",
+    "species_latin": "Sesamum indicum",
+    "species_en": "Sesame",
+    "species_zh": "芝麻",
+    "takeaway": "组装芝麻端粒到端粒高质量基因组，结合927份种质揭示其东非起源与花期适应遗传基础。",
+    "conclusion": "研究完成芝麻T2T参考基因组（渝芝11，305 Mb，31063个蛋白编码基因），群体分析支持东非为栽培芝麻起源中心，并揭示其经中东、南亚、东南亚、东亚向全球扩散的路线；GWAS与选择扫描鉴定出30个花期相关基因，SiUBP16可解释7.6%的花期变异，早花材料携带多达225个有利等位基因，高纬度花期预测模型准确率达96%，为芝麻产量与适应性育种提供依据。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -10492,6 +10882,32 @@
     "conclusion": "该研究构建了L. alte无间隙基因组，发现其杂合度低、具全着丝粒染色体；代谢组显示脂质代谢、免疫与应激通路发生适应陆生环境的改变；比较基因组与转录组锁定VEGF、ASGR2、COL6A6等黏液分泌与适应相关基因，其中VEGF家族连接血管生成、组织重塑与黏液生成，为理解陆生软体动物生态位特化提供分子框架。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42585842",
+    "title": "Characterization of a Ku-binding motif in the C-terminal region of RAG2",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "DNA repair",
+    "authors": "Tadi SK, Gesnik A, Nabhan L, Frit P, Iehl F, Ropars V, Dingli F, Loew D, Calsou P, Callebaut I, Cuniasse P, Charbonnier JB, de Villartay JP.",
+    "publish_date": "2026-06-14",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42585842",
+    "doi": "10.1016/j.dnarep.2026.103944",
+    "pmid": "42585842",
+    "abstract": "We applied an unsupervised interactome analysis with the RAG2 C-terminal region (R2CT) in v-abl pro-B cells undergoing V(D)J recombination. Mass-spectrometry analyses showed that Ku70 and Ku80 were among the top 10 hits. To further strengthen these observations, we performed Proximity Ligation Assay (PLA) and characterize the existence of a GFP-R2CT-Ku complex formation in cellulo. The interaction of several partners with Ku70/80 (Ku) through Ku-binding motifs (KBMs) in their sequences governs their enrolment in NHEJ repair complexes. Through sequence analysis, we identified a KBM within R2CT (R-KBM, amino acids 589-527). We confirmed by calorimetry a specific micromolar interaction between this RAG2 region and Ku70/80/DNA complex. The RAG2 motif KBM can be subdivided in two conserved parts that have no interaction individually. AlphaFold2 prediction coupled with molecular dynamic simulations indicate that the C-terminal part of the RAG2 motif interacts with Ku80 on the same site than the NHEJ factor XLF. These in silico analyses indicated that the N-terminal part of the RAG2 motif interacts with DNA adjacent to Ku with a major role of the K503 residue in agreement with disruption of the interaction observed with the K503E mutant. This study further extends the large ensemble of proteins recruited at DSBs by KBM motifs and substantiates the model of a tight coupling between DNA breakage and repair during V(D)J recombination, mediated by the Ku-RAG2 C-terminus interaction.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用互作组学与结构模拟发现RAG2 C端含Ku结合基序，可介导其与Ku70/80及DNA的相互作用。",
+    "conclusion": "RAG2 C端589-527区存在一个Ku结合基序，分为两个保守部分：C端部分结合Ku80上与XLF相同的位点，N端部分结合Ku邻近DNA，K503为关键残基。该基序拓展了以KBM招募至DNA双链断裂的蛋白谱，支持V(D)J重组中DNA断裂与修复紧密偶联的模型。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -10705,6 +11121,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42237458",
+    "title": "An analysis of Wolbachia incidence and genetics in non-ant Hymenoptera diversity",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Insect molecular biology",
+    "authors": "Ilinsky Y, Bykov R.",
+    "publish_date": "2026-06-03",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42237458",
+    "doi": "10.1111/imb.70048",
+    "pmid": "42237458",
+    "abstract": "Wolbachia bacteria are widespread maternally inherited symbionts of Nematoda and diverse Arthropoda hosts. Their evolutionary success is determined by the ability to affect the biology of the host in different ways, promoting the relative fitness of females harbouring Wolbachia, as well as sporadic cases of horizontal transmission of Wolbachia between different host species. Here, we revised Wolbachia infection in the Hymenoptera with respect to the symbiont occurrence in host taxa and Wolbachia genetics. The representatives of about half of the extant families and 1000 out of 140,000 non-ant hymenopteran species have been tested for Wolbachia infection. We concluded that Wolbachia are found in all major hymenopteran families. More than 75% of Wolbachia diversity belongs to the A supergroup, whereas other variants belong to the B supergroup and only two isolates belong to the supergroup F. One of the main results of this study is the discovery of a specific Wolbachia genetic pattern (based on multilocus sequence typing [MLST]) in Apoidea hosts. Two haplotypes, ST-479 and ST-wH14, along with their alleles within other sequence types (STs), form the core of symbiont diversity, comprising 81% of unique host-Wolbachia ST associations. These haplotypes have not been reported beyond the Apoidea superfamily or Hymenoptera order. The reasons and mechanisms underlying this pattern in Apoidea remain unknown. Another important result of our study concerns the use of the MLST protocol, which has been previously criticised. We analysed 51 Wolbachia genomes for the average nucleotide identity (ANI) and MLST data, and found that genome and MLST variation are highly correlated. Therefore, the MLST protocol for Wolbachia remains reliable for many research tasks.",
+    "species_latin": "Wolbachia bacteria",
+    "species_en": "non-ant Hymenoptera",
+    "species_zh": "非蚂蚁膜翅目昆虫",
+    "takeaway": "综述非蚂蚁膜翅目昆虫中沃尔巴克氏体感染与遗传，发现Apoidea宿主存在特有MLST单倍型，且MLST与基因组变异高度相关。",
+    "conclusion": "沃尔巴克氏体广泛存在于膜翅目各主要科，多样性以A超群为主。Apoidea宿主中ST-479和ST-wH14及其等位基因构成核心共生体多样性，占独特宿主-菌株关联的81%，且未见于其他类群，其成因未知。MLST与全基因组ANI高度相关，证明该分型方法仍可靠。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42235865",
     "title": "Argonaute protein and small RNA expression patterns in Spodoptera frugiperda (Lepidoptera, Noctuidae)",
     "type": "paper",
@@ -10757,6 +11199,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42226280",
+    "title": "Comparative evaluation of chitosan-based and star polycation nanocarriers for enhanced RNAi efficacy targeting CmFibL in Cnaphalocrocis medinalis",
+    "type": "paper",
+    "boards": [
+      "cmed"
+    ],
+    "source": "Pest management science",
+    "authors": "Mo Q, Xie J, Yang Q, Chen L, Li S, Shen J, Ye M.",
+    "publish_date": "2026-06-01",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42226280",
+    "doi": "10.1002/ps.70983",
+    "pmid": "42226280",
+    "abstract": "BACKGROUND: The rice leaf folder, Cnaphalocrocis medinalis, causes substantial rice yield losses through larval leaf-rolling behavior. RNA interference (RNAi) offers a sustainable alternative, but its application in Lepidoptera is hindered by dsRNA degradation and poor cellular uptake. This study developed nanocarrier-mediated dsRNA delivery to overcome these limitations. RESULTS: Three nanocarriers - chitosan (CS), chitosan-tripolyphosphate (CS-TPP), and star polycation (SPc) - were compared for enhancing RNAi efficiency targeting the C. medinalis fibroin light chain gene (CmFibL). CS-TPP and SPc achieved 61% and 55% silencing efficiency, respectively, representing 2.7-fold improvement over naked dsRNA (23%). All nanocarriers protected dsRNA from RNase A (30 min) and midgut fluid (6 h) degradation. CmFibL knockdown caused severe silk defects, prolonged pupal duration by 23%, reduced pupal weight by 33%, and decreased leaf-rolling damage by 31% in glasshouse cage trials. Transcriptomics revealed down-regulation of amino acid metabolism and activation of endoplasmic reticulum (ER) stress and immune responses. No off-target effects were detected in human genome, nor in any predators or parasitoids sharing the same ecological niche. CONCLUSION: CS-TPP and SPc nanocarriers effectively enhance RNAi efficiency in a Lepidopteran pest. Targeting CmFibL disrupts silk-mediated feeding shelters with minimal ecological risk, providing a practical framework for field application of RNAi-based biopesticides against leaf-rolling rice pests. © 2026 Society of Chemical Industry.",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaf folder",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "比较壳聚糖类与星形多聚阳离子纳米载体递送dsRNA沉默CmFibL，CS-TPP和SPc显著提升稻纵卷叶螟RNAi效率并减轻卷叶危害",
+    "conclusion": "CS-TPP与SPc纳米载体可有效保护dsRNA并提高稻纵卷叶螟RNAi效率，沉默丝素轻链基因CmFibL导致丝腺缺陷、蛹期延长、蛹重下降及卷叶危害减轻，机制涉及氨基酸代谢下调及内质网应激与免疫反应激活，且未检出对人及同生态位天敌的脱靶效应，为RNAi生物农药田间应用提供可行框架",
+    "keywords": [
+      "稻纵卷叶螟功能基因组学"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42229271",
     "title": "Reduction in copper and pesticide levels in grape musts: A new asset for the implementation of bioprotection in oenology",
     "type": "paper",
@@ -10778,6 +11246,58 @@
     "conclusion": "非酵母菌M. pulcherrima能有效去除葡萄汁中的铜和农药残留，且不显著改变成分，而乳酸菌L. plantarum与生物防护菌株共培养未增强解毒效果。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42217621",
+    "title": "The role of the sex determination cascade in the development of caste polyphenisms",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Current opinion in insect science",
+    "authors": "Pieplow J, Colgan TJ, Araujo NS, Stolle E.",
+    "publish_date": "2026-05-29",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42217621",
+    "doi": "10.1016/j.cois.2026.101551",
+    "pmid": "42217621",
+    "abstract": "The evolution of complex insect societies, characterized by a reproductive division of labor between queens and workers, represents a major evolutionary transition. Yet, the molecular mechanisms governing caste differentiation remain only partially understood. We summarize recent research advancements in ants and bees with a focus on corbiculate bees, a group of immense ecological and economic importance displaying a broad spectrum of sociality. Caste determination is a result of developmental plasticity, typically initiated by nutritional cues during the larval stage that activate conserved pathways involving Insulin and juvenile hormone signaling. However, recent evidence highlights a deeper integration with fundamental developmental pathways, such as the sex-determination pathway and patterning genes, which regulate sex- and caste-specific trait polyphenisms, such as eye morphology, reproductive organ size, the corbiculum, and social behaviors. Mechanisms like alternative splicing and spatio-temporal gene expression are emerging as key regulators of these plastic phenotypes. Significant knowledge gaps remain due to biases toward honeybees and females. We advocate for future research to adopt a broader comparative evo-devo framework, including underrepresented groups like stingless bees, social parasites, and males. Employing integrative approaches, such as long-read and spatial transcriptomics across multiple tissues and developmental stages, will be crucial for a comprehensive understanding of how developmental plasticity shapes and drives the evolution of caste-specific traits related to social complexity.",
+    "species_latin": "",
+    "species_en": "ants and bees (including corbiculate bees)",
+    "species_zh": "蚂蚁、蜜蜂（含无刺蜂类群）",
+    "takeaway": "综述蚂蚁与蜜蜂（重点为无刺蜂类群）中性别决定通路如何参与级型多型性发育，指出其与胰岛素、保幼激素信号整合调控性别与级型特异性性状。",
+    "conclusion": "级型分化源于幼虫期营养信号激活的保守胰岛素与保幼激素通路，但新证据表明性别决定通路及体节模式基因深度参与，通过可变剪接和时空表达调控眼形态、生殖器官大小、花粉筐及社会行为等性别与级型多型性。研究偏重蜜蜂和雌性，未来需纳入无刺蜂、社会性寄生蜂和雄性，结合长读长与空间转录组学开展更广的比较演化发育研究。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42214553",
+    "title": "Insect Sex Determination: A Rapidly Shifting Evolutionary Landscape",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Current opinion in insect science",
+    "authors": "Verhulst EC, Cordaux R.",
+    "publish_date": "2026-05-28",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42214553",
+    "doi": "10.1016/j.cois.2026.101549",
+    "pmid": "42214553",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该综述聚焦昆虫性别决定机制，指出其演化格局正在快速变化。",
+    "conclusion": "昆虫性别决定通路在演化上高度多变，不同类群间机制差异显著且更替频繁，提示该性状并非保守单一，而是处于快速演化的动态格局中。",
+    "keywords": [
+      "昆虫性别决定演化机制"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -10913,6 +11433,32 @@
     "conclusion": ""
   },
   {
+    "id": "pmid-42812975",
+    "title": "Near telomere-to-telomere genome assembly enables the discovery of introgressed purple-leaf gene BraMYB114 in pak choi (Brassica rapa subsp. chinensis)",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Horticulture research",
+    "authors": "Chen D, Gan X, Song Y, Chen H, Liu Y, Wan S, Zhu B, Lu Z, Yang Q, Guo X, Gao L, Lysak MA, Tan C.",
+    "publish_date": "2026-05-13",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42812975",
+    "doi": "10.1093/hr/uhag193",
+    "pmid": "42812975",
+    "abstract": "Pak choi (Brassica rapa subsp. chinensis, AA genome) is a widely cultivated leafy vegetable that comes in green and purple varieties. The enrichment of anthocyanins enhances its nutritional value, making it highly preferred by consumers. However, the genes responsible for the purple phenotype in pak choi remain mostly unknown. Here, we assembled a near-complete telomere-to-telomere genome of the 'ZBC' variety using PacBio HiFi, HiC, and Illumina sequencing technologies. The assembled genome is 420.97 Mb and contains 51 387 genes. Through genomic variation and evolutionary analysis, we identified an introgressed fragment of 854.53 kb on chromosome A03, which originates from B. carinata. The BSA-seq and fine-mapping of the purple trait revealed that the target region overlaps with the 854.53-kb introgressed fragment by 390 kb. Functional annotation of the 390-kb interval revealed 48 genes, including BraA03G007112, an MYB114-like transcription factor named BraMYB114. It positively regulates anthocyanin biosynthesis by activating BraDFR.A09 and BraANS.A01 genes, as shown by transcriptomic, metabolomic, and quantitative real-time PCR analyses. Our research is the first to demonstrate that the BrMYB114 gene, carried by an introgressed fragment, positively regulates anthocyanin synthesis in B. rapa. These findings advance our understanding of the B. rapa genome, introduce approaches for investigating key trait genes in introgression lines, and provide valuable targets for developing anthocyanin-rich vegetables.",
+    "species_latin": "Brassica rapa subsp. chinensis",
+    "species_en": "pak choi",
+    "species_zh": "小白菜",
+    "takeaway": "研究用三代测序完成小白菜近端粒到端粒基因组组装，发现来自埃塞俄比亚芥的渗入片段携带BraMYB114，正调控花青素合成。",
+    "conclusion": "小白菜'ZBC'品种的A03染色体上存在一段源自B. carinata的854.53 kb渗入片段，其中390 kb区间与紫色性状共定位，包含MYB类转录因子BraMYB114；该基因通过激活BraDFR.A09和BraANS.A01促进花青素积累，首次证实渗入片段携带的BrMYB114正调控白菜花青素合成，为富花青素蔬菜育种提供靶点。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42666985",
     "title": "A near telomere-to-telomere genome assembly of Isatis indigotica L. facilitates phylogenomic studies in tribe Brassiceae",
     "type": "paper",
@@ -10958,6 +11504,32 @@
     "species_zh": "大麻",
     "takeaway": "研究完成大麻近完整、单倍型解析的端粒到端粒基因组组装，揭示其复杂高阶重复结构。",
     "conclusion": "该研究构建了大麻近完整且区分单倍型的端粒到端粒基因组，克服了以往组装中重复区难以解析的问题，从而揭示出复杂的更高阶重复结构，为深入理解大麻基因组组织与重复序列演化提供了高质量参考。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42788158",
+    "title": "The heterozygous pineapple genome demonstrates the importance of haplotype-resolved plant genomes",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Horticulture research",
+    "authors": "Fang J, Mason PJ, Sanewski G, Webb M, Zhou L, Wang J, Copeland RGR, Zhuang Y, Chitikineni A, Garg V, Dillon N, Kaur P, Varshney RK, Henry RJ.",
+    "publish_date": "2026-05-08",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42788158",
+    "doi": "10.1093/hr/uhag189",
+    "pmid": "42788158",
+    "abstract": "Collapsed (haploid) genome assemblies omit large portions of genetic information, especially in heterozygous, clonally propagated crops such as pineapple. Here, we assembled a telomere-to-telomere, haplotype-resolved genome for a key pre-Colombian cultivar of pineapple (Ananas comosus) 'Smooth Cayenne' (F180) using PacBio HiFi and Hi-C data. The two 25-chromosome haplotypes span 858 Mb (N50 ≈ 16.8 Mb) and are >99% complete, each resolving all centromeres and 22 of 25 telomeres. Comparison of the phased chromosomes reveals 1.5 million single nucleotide polymorphisms and 1953 large structural variants (74 inversions, 750 translocations, and 1129 segmental duplications). This assembly reveals that inversions have profoundly impacted the 'Smooth Cayenne' genome, reshaping ~3%-4% of the total sequence. Structural context dictates the genetic impact of these large inversions, as shown in recombination landscape analysis of 374 F1 seedlings, wherein a 1.3-Mb paracentric inversion on chromosome 20 forms a strict recombination coldspot, whereas a 6-Mb pericentric inversion on chromosome 24 still permits gene flow likely via short double crossovers, albeit at lower rates than the rest of the chromosome. Re-anchoring the 11 879 DArTseq markers from the F1 seedlings to the phased reference assembly removes the dense network of spurious interchromosomal linkage seen in the collapsed F153 'Smooth Cayenne' genome, likely providing markedly cleaner baselines for genome-wide association studies and genomic prediction. These results establish the new F180 assembly as a very high-quality reference, illustrate how undetected inversions can silently constrain genetic gain, and demonstrate the broader value of phased genomes for dissecting heterozygosity, structural variation, and meiotic behaviour in perennial crops.",
+    "species_latin": "Ananas comosus",
+    "species_en": "Pineapple",
+    "species_zh": "菠萝",
+    "takeaway": "用PacBio HiFi与Hi-C构建菠萝' Smooth Cayenne'单倍型分型端粒到端粒基因组，揭示倒位对重组与遗传增益的隐性限制。",
+    "conclusion": "单倍型分型基因组可完整解析高度杂合作物的结构变异与着丝粒、端粒区域；倒位通过改变重组格局形成冷点或降低基因流，从而悄然限制育种遗传增益；分型参考还能消除错误连锁，为全基因组关联与基因组预测提供更干净基线。",
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
