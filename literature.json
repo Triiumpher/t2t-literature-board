@@ -1,5 +1,270 @@
 [
   {
+    "id": "pmid-42741994",
+    "title": "A curated structural dataset of peptide-protein complexes reveals biases in existing datasets and principles of peptide binding",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Protein science : a publication of the Protein Society",
+    "authors": "Hamdani R, Delgado J, Serrano L.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42741994",
+    "doi": "10.1002/pro.70779",
+    "pmid": "42741994",
+    "abstract": "Peptide-protein interactions are fundamental to many biological processes, and peptide design is gaining interest due to its therapeutic potential. This has led to the emergence of various structural databases, such as PepBDB and Peptipedia, that classify peptides as polypeptides with fewer than 50 amino acids. These databases provide valuable starting points for studying peptide recognition by protein partners and are widely used for machine learning applications, docking, and scoring functions. However, under such a length definition for peptides, we have very different cases that are likely to confound the analysis of peptide binding, including miniproteins, peptide-peptide complexes, intramolecular peptide disulfide bonds, intermolecular disulfide bridges, and proteins undergoing internal cleavage, such as serpins, as well as non-natural amino acids and covalently bound cofactors. Here, we present a rigorous classification of peptide-protein complexes to generate datasets suitable for comparative energetic analysis with a focus on peptides that are unstructured in the absence of their target protein. The analysis of this dataset shows that peptide binding is typically driven by a small number of hotspot residues mainly enriched in aromatic and bulky hydrophobic side chains. Their number of hotspots and their spatial organization depend on peptide length, secondary structure, and covalent constraints. Short peptides rely on central anchor regions, whereas longer peptides distribute hotspots more broadly, with helices showing periodic spacing and β-strands relying more on backbone-mediated stabilization. Disulfide bonds further decrease the number of hotspots per peptide length by either pre-organizing the peptide or acting as covalent anchors. This work provides a curated resource and general principles for peptide recognition. It highlights the importance of structurally classifying peptide-protein complexes to avoid bias in downstream computational and machine-learning applications.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该研究严格分类肽-蛋白复合物结构数据，发现肽结合由少数热点残基驱动，其数量与空间排布受肽长度、二级结构和共价约束影响。",
+    "conclusion": "现有肽数据库因仅按长度定义肽而混入微蛋白、二硫键交联及共价配体等异质案例，易引入偏差。作者建立严格分类数据集，聚焦无靶标时无序的肽，揭示结合多由芳香及大体积疏水热点残基主导；短肽依赖中央锚定区，长肽热点分布更广，螺旋呈周期性间距，β链更依赖主链稳定，二硫键可预组织或共价锚定以减少热点数。该资源与原则有助于避免下游计算与机器学习偏差。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42708545",
+    "title": "Comprehensive Analysis of miRNAs and Predicted Protein Interaction Networks in Skeletal Muscle Development of Myostatin-Deficient Rabbits",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Animal genetics",
+    "authors": "Song ZX, Kyaw PO, Farhab M, Zhang T, Liang J, Yuan YG.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42708545",
+    "doi": "10.1002/age.70193",
+    "pmid": "42708545",
+    "abstract": "Myostatin (MSTN), encoded by the MSTN gene, is a critical negative regulator of skeletal muscle mass. This study aims to identify and characterize the miRNAs involved in the development of the double-muscling phenotype in MSTN-deficient rabbits. We performed high-throughput sequencing to analyze the miRNA expression profiles in gluteus maximus tissue from wild type (MSTN +/+ ) and MSTN-KO (MSTN +/- and MSTN -/- inclusive) rabbits. Differentially expressed miRNAs (DEmiRNAs) were identified, and their potential target genes were predicted. Functional enrichment analysis of these target mRNAs was conducted using Gene Ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes (KEGG) database to elucidate the involved biological pathways and regulatory networks. A total of 25 DEmiRNAs (13 downregulated and 12 upregulated, |log 2 FC| ≥ 1.0, adjusted p 2 FC| ≥ 2.0, adjusted p +/+ rabbits. Bioinformatics analysis revealed that the target genes of these DEmiRNAs were significantly enriched in key pathways governing muscle growth and metabolism, including the PI3K-Akt signaling pathway, MAPK signaling pathway, and pathways related to ECM-receptor interaction and insulin signaling. Notably, many predicted target mRNAs are expressed by genes that encode key inhibitors of myogenesis (e.g., HDAC4) and major extracellular matrix components (e.g., COL4A3, POSTN). Our results demonstrate that MSTN deficiency induces a distinct and widespread change in the miRNA expression landscape of skeletal muscle.",
+    "species_latin": "Oryctolagus cuniculus",
+    "species_en": "Rabbit",
+    "species_zh": "兔",
+    "takeaway": "对MSTN缺失兔臀肌做miRNA测序，发现25个差异miRNA并预测其靶基因富集于肌肉生长相关通路。",
+    "conclusion": "MSTN缺失会显著改变骨骼肌miRNA表达谱，差异miRNA的预测靶基因富集于PI3K-Akt、MAPK、ECM-受体互作和胰岛素信号等通路，并涉及HDAC4、COL4A3、POSTN等肌生成抑制与细胞外基质基因，提示miRNA网络参与双肌表型形成。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42613740",
+    "title": "Frozen in Place: Proximity Labeling Maps Glial Interactomes Across Cell States",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Glia",
+    "authors": "Baltar J, Abati R, Florido L, Holt MG.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42613740",
+    "doi": "10.1002/glia.70216",
+    "pmid": "42613740",
+    "abstract": "Glial cells, including radial glia, oligodendrocyte precursor cells (OPCs), oligodendrocytes, astrocytes, and microglia, are active and dynamic regulators of central nervous system (CNS) development, homeostasis, and disease. Through extensive interactions with neurons, other glial populations, and the vasculature, they form highly specialized communication networks that are essential for normal brain function. While transcriptomic approaches have revealed extensive glial heterogeneity and enabled the prediction of putative signaling networks, a critical challenge remains in validating and translating these findings at the level of distinct protein complexes existing both within and between the various glial cell types. This is largely due to the fact that traditional proteomic technologies lack spatial resolution and/or fail to capture protein interaction networks. Proximity labeling (PL) has emerged as a powerful strategy to overcome these limitations by enabling cell-type-specific mapping of protein networks and subcellular proteomes, with spatial and temporal precision. Emerging studies have applied PL enzymes, such as BioID, TurboID, and HRP, across diverse glial populations, starting to uncover protein networks supporting their interactions with neurons and vascular elements, allowing metabolic support, maintenance of microenvironment homeostasis and cell-cell communication (including synaptic modulation). In this review, we summarize the main PL enzymes, discuss key studies across different glial cell types, and examine the technical challenges and future perspectives of applying PL to investigate glial biology. By complementing transcriptomic data with spatially resolved proteomic insights, PL provides a unique opportunity to deepen our understanding of glial cell biology in health and disease.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述邻近标记技术如何以空间与时间精度绘制不同胶质细胞状态的蛋白互作网络。",
+    "conclusion": "邻近标记（如BioID、TurboID、HRP）弥补了传统蛋白质组学缺乏空间分辨率和互作信息的不足，可在特定胶质细胞类型中绘制蛋白网络与亚细胞蛋白质组，揭示其与神经元、血管的通讯及代谢支持等机制，为胶质生物学研究提供新视角。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42584927",
+    "title": "A non-catalytic interaction surface mediates recognition of spliceosomal factors by the Toxoplasma gondii cyclophilin TgCyp23",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "The Biochemical journal",
+    "authors": "Favretto F, Fruncillo S, Jiménez-Faraco E, Gago F, Dominici P, Hermoso JA, Astegno A.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42584927",
+    "doi": "10.1042/bcj20260439",
+    "pmid": "42584927",
+    "abstract": "The spliceosome is emerging as a key regulatory hub in Toxoplasma gondii, yet the molecular basis of spliceosomal protein interactions remains largely unexplored. TgCyp23, a predicted nuclear cyclophilin (Cyp) from T. gondii, shares sequence similarity and catalytic properties with the human spliceosomal cyclophilin H (hCypH) that interacts with the splicing factors PRP4 and PRP18. Here, we investigated whether TgCyp23 engages in analogous interactions with the T. gondii orthologs TgPRP4 and TgPRP18 using peptides corresponding to their predicted Cyp-binding regions. High-resolution crystal structures of TgCyp23 in complex with a TgPRP4-derived peptide, including a ternary complex with the Cyp inhibitor cyclosporin A, reveal that spliceosomal partner recognition occurs outside the catalytic site, which remains fully accessible. NMR analyses extend this binding mode to TgPRP18, demonstrating that peptides derived from both spliceosomal factors engage the same surface in solution. Isothermal titration calorimetry shows that TgCyp23 binds both peptides with low- to mid-micromolar affinity, while circular dichroism and molecular dynamics support a folding-upon-binding mechanism. Notably, binding of either peptide does not affect the peptidyl-prolyl isomerase activity of TgCyp23 or its sensitivity to cyclosporin A, indicating that partner recognition and catalytic function are mechanistically separable. Together, these findings identify a non-catalytic interaction surface in TgCyp23 that mediates recognition of spliceosomal factors. The similar interaction mode observed for TgCyp23 and hCypH suggests that spliceosomal partner recognition may be conserved and supports a role for TgCyp23 as a spliceosome-associated Cyp in T. gondii, providing a structural framework for understanding Cyp interactions within the parasite spliceosome.",
+    "species_latin": "Toxoplasma gondii",
+    "species_en": "Toxoplasma gondii",
+    "species_zh": "刚地弓形虫",
+    "takeaway": "弓形虫亲环蛋白TgCyp23通过非催化表面识别剪接体因子TgPRP4与TgPRP18，且不影响其酶活。",
+    "conclusion": "TgCyp23以非催化表面结合TgPRP4和TgPRP18，呈折叠后结合模式，亲和力为低至中微摩尔级；结合不改变其肽基脯氨酰异构酶活性及对环孢素A的敏感性，表明识别与催化功能可分离。该模式与人类hCypH相似，提示剪接体伙伴识别机制可能保守，为理解弓形虫剪接体中的亲环蛋白互作提供结构基础。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42634581",
+    "title": "Chemical Synthesis and Biological Evaluation of the Insecticidal Peptide AaIT5 Identified From the Androctonus australis Venom",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of peptide science : an official publication of the European Peptide Society",
+    "authors": "Sakai S, Nakagawa Y, Miyashita M.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42634581",
+    "doi": "10.1002/psc.70125",
+    "pmid": "42634581",
+    "abstract": "Scorpion venom contains various bioactive peptides. Voltage-gated sodium channel toxins (NaTxs) have been the primary focus of scorpion venom research because of their significant potency and high selectivity. A variety of NaTxs have been identified in the venom of Androctonus australis, six of which exhibit insecticidal activity. Among these, the biological activity of AaIT5 remains poorly characterized because of its low abundance in the venom. In this study, AaIT5 was chemically synthesized via native chemical ligation (NCL), suppressing side reactions associated with aspartimide formation using specialized Fmoc-protected amino acids, followed by oxidative folding. Subsequent LC/MS/(MS) analyses of the enzymatic digests confirmed that the synthetic peptide adopted the disulfide bond pattern predicted from the related NaTxs. Synthetic AaIT5 exhibited insecticidal activity against both Spodoptera litura and Acheta domesticus, although it was less potent than related insecticidal NaTxs such as LqhIT2. Sequence alignment and molecular modeling suggested that the reduced activity results from the substitution of a highly conserved tryptophan residue with valine, thereby abolishing a potential cation-π interaction with insect sodium channels. The successful chemical synthesis and functional characterization of AaIT5 provide a robust platform for the preparation of toxin analogs and further studies on the structure-activity relationships of insecticidal NaTxs.",
+    "species_latin": "Spodoptera litura",
+    "species_en": "Tobacco cutworm",
+    "species_zh": "斜纹夜蛾",
+    "takeaway": "研究用化学合成法获得蝎毒肽AaIT5，证实其具杀虫活性但弱于同类，关键色氨酸被缬氨酸取代致活性下降。",
+    "conclusion": "AaIT5可通过天然化学连接与氧化折叠成功合成，二硫键模式与预测一致；其对斜纹夜蛾和家蟋蟀有杀虫活性，但因保守色氨酸被缬氨酸替代、丧失与昆虫钠通道的阳离子-π作用而活性弱于LqhIT2，为杀虫钠通道毒素构效研究提供平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261001-insecticide-parasitoid-sequestration",
+    "title": "PNAS封面论文揭示害虫抗药性新隐患：杀虫剂可经宿主传递危害寄生蜂",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "浙江大学农业与生物技术学院中文网",
+    "authors": "",
+    "publish_date": "2026-09-30",
+    "added_at": "2026-10-01",
+    "url": "http://www.cab.zju.edu.cn/chinese/main.psp",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江大学昆虫科学研究所黄佳、黄健华团队在PNAS发表封面论文，发现靶标位点抗性害虫会把杀虫剂隔离（sequester）在体内，这些残留随寄主传递给取食寄主的寄生蜂，降低寄生蜂存活与繁殖。研究提示害虫抗药性的演化不仅削弱药剂本身的防效，还可能经食物链反噬寄生蜂等天敌的生物防治作用。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "靶标抗性害虫把杀虫剂隔离并经宿主传递给寄生蜂，抗药性既降药效又危害天敌生物防治。",
+    "conclusion": "靶标位点抗性害虫通过隔离杀虫剂，使残留经寄主传递给寄生蜂，损害寄生蜂适合度并影响其进化；抗性治理与化学防控须同时评估对寄生蜂等天敌的非靶标影响，以保护生物防治的有效性。",
+    "keywords": [
+      "杀虫剂抗性",
+      "靶标抗性",
+      "杀虫剂隔离",
+      "寄生蜂",
+      "生物防治",
+      "非靶标效应",
+      "杀虫剂毒理",
+      "害虫抗性演化"
+    ]
+  },
+  {
+    "id": "pmid-42813923",
+    "title": "Lmx1b is essential for molting and leg integrity in Henosepilachna vigintioctopunctata: Implications for RNA biopesticide development",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insect science",
+    "authors": "Liu J, He J, Guo M, Gao R, Yoon JS, Zhou X, Zhang Y, Pan H, Yang C.",
+    "publish_date": "2026-09-30",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42813923",
+    "doi": "10.1111/1744-7917.70372",
+    "pmid": "42813923",
+    "abstract": "LIM homeodomain transcription factor 1 beta (Lmx1b), a member of the LIM-homeodomain family, plays essential roles in tissue differentiation and organ development in diverse eukaryotes, yet its biological functions in insects remain largely unknown. Here, we identify Lmx1b as a highly effective RNA interference (RNAi) target in the 28-spotted ladybeetle, Henosepilachna vigintioctopunctata, a serious solanaceous pest. RNAi-mediated silencing of HvLmx1b prevented larval molting and pupation, resulting in complete mortality. HvLmx1b knockdown markedly reduced endogenous 20-hydroxyecdysone (20E) titers, suppressed Halloween genes and the ecdysone signaling pathway, and downregulated multiple genes involved in chitin metabolism and cuticle tanning, resulting in defective cuticle formation. Ultrastructural analyses further revealed progressive degeneration of epidermal cells and leg muscles, indicating an essential role for HvLmx1b in maintaining tissue integrity during postembryonic development. In silico off-target analysis against representative non-target arthropods and beneficial organisms predicted a low risk of unintended gene silencing by dsHvLmx1b. Collectively, our findings establish HvLmx1b as an upstream developmental regulator that coordinates ecdysteroid signaling, cuticle formation and postembryonic tissue homeostasis, and highlight its potential as an RNAi target for management of H. vigintioctopunctata.",
+    "species_latin": "Henosepilachna vigintioctopunctata",
+    "species_en": "28-spotted ladybeetle",
+    "species_zh": "二十八星瓢虫",
+    "takeaway": "沉默二十八星瓢虫HvLmx1b可阻断蜕皮化蛹并致全部死亡，是潜在RNA生物农药靶标",
+    "conclusion": "HvLmx1b作为上游发育调控因子，协调蜕皮激素信号、表皮形成与胚后组织稳态；其沉默降低20E滴度、抑制Halloween基因与蜕皮信号通路及几丁质代谢和鞣化相关基因，导致表皮缺陷、表皮细胞与腿肌退化，最终幼虫无法蜕皮化蛹而全部死亡，且预测对非靶标生物脱靶风险低",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42813611",
+    "title": "Insecticide resistance in Aedes aegypti across sub-Saharan Africa: An overview and perspectives for effective arbovirus control",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Medical and veterinary entomology",
+    "authors": "Maiga AM, Medjigbodo AA, Toé HK, Sombié A, Fotso-Toguem YG, Djogbenou LS, Weetman D, Badolo A.",
+    "publish_date": "2026-09-30",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42813611",
+    "doi": "10.1111/mve.70113",
+    "pmid": "42813611",
+    "abstract": "Arboviruses transmitted by Aedes aegypti and Aedes albopictus, including Zika, yellow fever and especially dengue and chikungunya, represent a growing public health concern in Africa. Insecticide-based strategies remain essential for the prevention and control of arboviral outbreaks. However, insecticide resistance in Ae. aegypti is globally widespread and appears to be rising in sub-Saharan Africa. Here, we reviewed the distribution and phenotypic and molecular evidence of insecticide resistance in Ae. aegypti across sub-Saharan Africa and summarized the underlying resistance mechanisms and key knowledge gaps. Bibliographic databases were searched for studies published between January 2010 and December 2023. The review identified 40 studies from 18 of 47 countries in sub-Saharan Africa. Among adults mosquitoes, resistance to dichlorodiphenyltrichloroethane (DDT) and pyrethroids was reported in multiple studies across West and Central Africa, while resistance to carbamates was also documented in several countries, comparatively fewer studies reported resistance to organophosphates. For larvae 7 of 40 studies assessed susceptibility to temephos, with potential resistance reported in only one study. Molecular investigations identified five kdr mutations including F1534C, V1016I, V410L, V1016G and S989P in 12 countries while metabolic resistance involving cytochrome P450s, carboxylesterases, glutathione S-transferases and other detoxification enzymes was reported in a smaller number of studies and countries. Overall, the evidence base remains geographically uneven and limited for several insecticide classes and resistance mechanisms. This review highlights important knowledge gaps, including the limited assessment of larvicides, emerging adulticide options, resistance intensity and Aedes-targeted vector control interventions, and underscores the need for more systematic and standardized insecticide resistance surveillance across sub-Saharan Africa.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "综述撒哈拉以南非洲埃及伊蚊杀虫剂抗性，发现拟除虫菊酯和DDT抗性广泛，kdr突变与代谢抗性并存，监测不均。",
+    "conclusion": "该综述表明，撒哈拉以南非洲埃及伊蚊对DDT和拟除虫菊酯类杀虫剂抗性普遍，氨基甲酸酯类也有报道，有机磷类较少；分子机制涉及五种kdr突变及P450s等代谢酶。但证据地理分布不均，幼蚊杀虫剂、抗性强度及新型成蚊杀虫剂评估不足，亟需标准化抗性监测以保障虫媒病毒防控。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42811597",
+    "title": "Co-infestation by two major pests suppresses phenylpropanoid defense and reprograms volatiles to facilitate stable cohabitation on rice",
+    "type": "paper",
+    "boards": [
+      "cmed"
+    ],
+    "source": "Plant communications",
+    "authors": "Hu X, Zhang X, Xu S, Tian Z, Yao C, Turlings TCJ, Li Y.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42811597",
+    "doi": "10.1016/j.xplc.2026.102125",
+    "pmid": "42811597",
+    "abstract": "Classical ecological theory predicts that herbivorous species are in competition when they share the same host plant, yet in agricultural systems certain pest insects can stably coexist on the same plant, and even perform better when they feed together than if they feed alone. As yet, the molecular mechanisms underlying such collaborative cohabitation have remained unclear. Here we unravel how two major rice pests, the brown planthopper (BPH, Nilaparvata lugens) and the rice leaf folder (RLF, Cnaphalocrocis medinalis), achieve stable cohabitation by jointly suppressing plant chemical defenses. Prior BPH feeding induced strong rice resistance that reduced RLF performance, whereas prior RLF feeding did not affect BPH. This asymmetric consequence of resistance induction was fully abolished when both pests initiated feeding simultaneously. Metabolomics and network analyses identified phenylpropanoid-derived chlorogenic acids and coniferin as key BPH-induced defense compounds detrimental to RLF but not BPH. Dual infestation suppressed the accumulation of these toxins by inhibiting the phenylpropanoid pathway through downregulation of the hub gene OsHCT4. Feeding assays with mutant and overexpression lines confirmed the key role of the phenylpropanoid pathway in determining if the interaction results in competition or coexistence. Moreover, plants with dual infestation were preferred by ovipositing females of both pests due to reduced emissions of decanal that repels RLF and BPH but enhanced release of DMNT and (E)-nerolidol that attract BPH females. These findings reveal how herbivores can jointly subvert host plant defenses to relax competition, providing a mechanistic extension of niche segregation and competition theory.",
+    "species_latin": "Nilaparvata lugens, Cnaphalocrocis medinalis",
+    "species_en": "brown planthopper, rice leaf folder",
+    "species_zh": "褐飞虱、稻纵卷叶螟",
+    "takeaway": "褐飞虱与稻纵卷叶螟同株取食时协同抑制水稻苯丙烷防御并改变挥发物，从而实现稳定共存。",
+    "conclusion": "两种害虫同时取食会通过下调OsHCT4抑制苯丙烷途径，减少绿原酸和松柏苷等对稻纵卷叶螟有害的防御物，从而消除先取食褐飞虱带来的不对称抗性；同时挥发物谱改变，减少驱避性癸醛、增加吸引性DMNT和(E)-橙花叔醇，使双虫危害植株更受产卵雌虫偏好。该机制揭示了植食者协同瓦解寄主防御以缓解竞争，拓展了生态位分化与竞争理论。",
+    "keywords": [
+      "稻纵卷叶螟功能基因组学"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42812664",
+    "title": "Physicochemical characterization and optimization of Tulsi-mediated silver nanocomposites with enhanced insecticidal activity against Spilosoma obliqua",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "RSC advances",
+    "authors": "Ghosh A, Gazi S, Majumdar D, Biswas H, Podder S.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-01",
+    "url": "https://europepmc.org/article/MED/42812664",
+    "doi": "10.1039/d6ra05462e",
+    "pmid": "42812664",
+    "abstract": "Spilosoma obliqua Walker (Lepidoptera: Erebidae) is one of the major pests of jute plants, severely reducing fibre yield and consequently lowering agricultural productivity. To address this problem through an eco-friendly approach, the green synthesis of a series of nano-biopesticide formulations, named E, P, Q, R, S, and T, based on nano-bio-composites obtained from varying proportions of Ocimum sanctum and in situ-formed silver nanoparticles, is proposed. Furthermore, their larvicidal efficacies are compared. These green-synthesised nano-bio-composites were characterised using FTIR and Raman spectroscopy, XPS, XRD, FE-SEM, EDX, HR-TEM, SAED, DLS, zeta potential analysis, cyclic voltammetry, GC-MS, and UV-vis spectroscopy. The study elucidated a variation in the extent of chemical interactions between silver nanoparticles and the bioactive constituents of the leaf extract, which notably influenced the physicochemical properties and could be correlated with their antilarval actions. The relative contributions to larval mortality in the jute hairy caterpillar based on LC50 values calculated after 24, 48 and 72 hours of exposure revealed the following toxicity order: R > Q > P > S > T > E. The findings further indicated that an optimal ratio of Ag(0) and Ag(i) species in sample R, together with associated bioactive molecules anchored to the nanoparticle surface, induced a synergistic effect that significantly enhanced the nano-biopesticide's toxicity against the targeted larvae. Overall, this study highlighted a cost-effective, greener, benign, and sustainable strategy for effective jute pest management.",
+    "species_latin": "Spilosoma obliqua",
+    "species_en": "jute hairy caterpillar",
+    "species_zh": "黄麻毛虫",
+    "takeaway": "以圣罗勒叶提取物原位合成银纳米复合物，其中配方R对黄麻毛虫幼虫杀虫活性最强。",
+    "conclusion": "不同比例的圣罗勒提取物与银纳米颗粒复合会改变其理化性质，进而影响杀虫效果；配方R中Ag(0)与Ag(i)的优化比例及表面生物活性分子产生协同作用，显著提升对黄麻毛虫幼虫的毒性，为黄麻害虫防治提供了经济、绿色且可持续的纳米生物农药策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42808653",
     "title": "Transforming agricultural waste into intelligent biopesticide delivery: soil-disintegrable tea saponin microcapsules for sustainable crop protection",
     "type": "paper",
