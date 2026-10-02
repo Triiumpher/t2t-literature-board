@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42806510",
+    "title": "From Rhizosphere to Resistance: Microbe-Plant Interactions in Eco-Smart Biocontrol",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "MicrobiologyOpen",
+    "authors": "Singh S, Sharma VK, Shrivastav D, Kushwaha JM, Mishra MK, Beg MMA.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42806510",
+    "doi": "10.1002/mbo3.70398",
+    "pmid": "42806510",
+    "abstract": "The increasing limitations of chemical pesticides such as environmental pollution, pathogen resistance, and threats to human and ecosystem health have increased the demand for sustainable, biologically based crop protection methods. Eco-smart biocontrol has emerged as a game-changing paradigm that uses beneficial microorganisms associated with plants to suppress phytopathogens, boost plant immunity, and make agroecosystems more resilient over time. Moving beyond traditional single-strain biocontrol, eco-smart biocontrol integrates multi-omics discovery, artificial intelligence-assisted predictive microbiome design, and dynamic rhizosphere ecology. This review brings together ecological, molecular, and technological dimensions of eco-smart biocontrol, focusing on the rhizosphere as a dynamic hotspot for plant-microbe interactions. We investigate rhizosphere microbiome assembly and demonstrate the preferential recruitment of beneficial bacteria, fungi, actinomycetes, and mycorrhizal symbionts by plant root exudates. Moreover, the review highlights the impact of innovations in multi-omics techniques (metagenomics, transcriptomics, proteomics, and metabolomics), systems biology, and artificial intelligence on microbial biocontrol agent discovery, functional validation, and predictive design. Examples from cereal crops, legumes, and horticulture crops indicate that the application of beneficial microbial inoculants can significantly lower the burden of pests and diseases, enhance crop productivity, and fit perfectly within an integrated pest management system. Lastly, we critically analyze the main challenges preventing large-scale adoption, such as inconsistent field performance, limited microbial survival and competitiveness, and comparative regulatory frameworks across global markets. Ultimately, eco-smart microbial biocontrol combines mechanistic insights with omics-driven discovery, artificial intelligence (AI)- assisted prediction, advanced formulation strategies, and field-level validation, creating a strong, scalable, and environmentally friendly framework for resilient, low-input agricultural systems.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述提出生态智能生物防治，利用根际有益微生物并整合多组学与AI，提升作物抗病与产量。",
+    "conclusion": "生态智能生物防治以根际为植物-微生物互作核心，通过根系分泌物定向招募有益细菌、真菌、放线菌和菌根共生体，并结合多组学、系统生物学与人工智能进行生防菌的发现、功能验证和预测性设计。该策略可降低病虫害压力、提高作物生产力，契合综合病虫害管理，但面临田间效果不稳定、微生物存活与竞争力有限及全球监管差异等挑战。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42479472",
+    "title": "Variability in site-specific pyrethroid KOC and KDOC partition coefficients and implications for predicted aquatic toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology and chemistry",
+    "authors": "Anderson BN, Young TM.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42479472",
+    "doi": "10.1093/etojnl/vgag182",
+    "pmid": "42479472",
+    "abstract": "The equilibrium partitioning methodology has been used to estimate the bioavailable or freely dissolved concentrations (Cfree) of pyrethroid insecticides in both sediments and the water column of aquatic systems. Typically, single default values for the organic carbon-water (KOC) and dissolved organic carbon-water (KDOC) partition coefficients are used to estimate the bioavailability of a given pyrethroid across sample sites. However, sorption capacities can vary across samples due to the varying quality of organic carbon among other factors. In this study, KOC and KDOC coefficients were experimentally measured for 6 pyrethroids (bifenthrin, cyfluthrin, cypermethrin, esfenvalerate, lambda-cyhalothrin, and permethrin) in 19 streambed sediment samples collected across California, USA. The purpose of this study was to examine the variability of site-specific coefficients, compare site-specific with established default coefficients, and use statewide sediment/water chemistry and Hyalella azteca toxicity testing data to assess the variability in predicted pyrethroid toxic units and organism survival. Across all pyrethroids tested, measured site-specific log KOC values ranged from 5.32 to 7.11 and log KDOC values ranged from 5.28 to 7.41. Toxic units estimated using site-specific coefficients and default coefficients derived from the geometric means of measured values, explained a comparable amount of the variance in reported H. azteca survival and closely aligned with 50% organism survival. We recommend the use of the default coefficients derived from this study, which are reflective of 19 unique sediment samples. However, the uncertainties associated with site-specific considerations should be acknowledged.",
+    "species_latin": "The equilibrium",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "测19处沉积物中6种拟除虫菊酯的KOC与KDOC,发现位点差异明显,但用本研究默认系数预测毒性仍可靠。",
+    "conclusion": "位点特异性KOC和KDOC系数在6种拟除虫菊酯间差异显著,但基于本研究19个沉积物样本几何均值得到的默认系数,与位点特异性系数在预测Hyalella azteca毒性和存活率方面效果相当,均能较好解释存活率变异并接近50%存活水平,因此推荐使用本研究默认系数,同时需认识位点特异性带来的不确定性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42308520",
+    "title": "Sex-specific median lethal dose in bumble bee adults orally and topically exposed to two insecticides and one fungicide",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology and chemistry",
+    "authors": "Fievet M, Dorio L, Gekière A, Saillard H, Alabiso S, Trapanese L, Verdy L, Mattsson B, Michez D, Tougeron K.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42308520",
+    "doi": "10.1093/etojnl/vgag164",
+    "pmid": "42308520",
+    "abstract": "Wildlife is deeply affected by human activities. Evidence-based evaluation of the main threats is challenging, as it needs to be representative of the diversity of the risk of exposure and the sensitivity of the organisms, specifically for hyperdiverse groups such as insects. While bees are a diverse group of >20,000 species, standardized ecotoxicological data for non-Apis bees species remain limited, resulting potentially in the underestimation of threats that the wild bees are facing. In many cases, pesticide acute data are available for only one exposure route, most often contact median lethal dose (LD50) values, and they primarily focus on social workers or solitary females. In this context, we determined the contact and oral LD50s of three active ingredients of two insecticides and one fungicide-acetamiprid, cypermethrin, and tebuconazole-in males and workers of the bee model Bombus terrestris. Acetamiprid and tebuconazole were practically nontoxic under both exposure routes, whereas cypermethrin was the most toxic compound, exhibiting higher toxicity via contact exposure. Interestingly, males showed greater sensitivity than females after oral and topical exposure to cypermethrin and after oral exposure to acetamiprid. Our findings highlight the need for additional data on reproductives and for the identification of factors that determine their differential sensitivity.",
+    "species_latin": "Bombus terrestris",
+    "species_en": "buff-tailed bumblebee",
+    "species_zh": "地熊蜂",
+    "takeaway": "研究熊蜂工蜂与雄蜂经口和接触三种农药的LD50，发现雄蜂对两种杀虫剂更敏感。",
+    "conclusion": "测定地熊蜂工蜂与雄蜂对啶虫脒、氯氰菊酯和戊唑醇的经口及接触LD50，发现啶虫脒和戊唑醇近乎无毒，氯氰菊酯毒性最强且接触暴露毒性更高；雄蜂对氯氰菊酯两种暴露途径及经口啶虫脒均比雌蜂更敏感，提示需补充繁殖个体数据并探究敏感性差异机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42741994",
     "title": "A curated structural dataset of peptide-protein complexes reveals biases in existing datasets and principles of peptide binding",
     "type": "paper",
@@ -152,7 +230,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -209,7 +287,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -235,7 +313,59 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42810706",
+    "title": "A co-regulatory switch for immunity and yeast-like symbiont release: Pleiotropic mechanism of the JH-Met signaling pathway in Nilaparvata lugens (Stål)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of invertebrate pathology",
+    "authors": "Sun D, Wei X, Gong L, Wang M, Shentu X.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42810706",
+    "doi": "10.1016/j.jip.2026.108759",
+    "pmid": "42810706",
+    "abstract": "Hormonal signaling pleiotropically regulates insect physiological processes, including development, reproduction, and immunity. Juvenile hormone (JH) and its receptor Methoprene-tolerant (Met) modulate immune responses across many insect species. Our previous studies demonstrated that mating behavior in Nilaparvata lugens induces the expression of defensin genes NlDfA/B, enhancing resistance to pathogens. Furthermore, the abundance of yeast-like symbionts (YLS) is closely linked to the reproduction-immunity trade-off. However, the regulatory mechanism underlying the dynamic changes in NlDfA/B expression and YLS remains unclear. Here, ELISA assays revealed that JH titers in female brown planthoppers gradually increased after eclosion, whereas NlDfA/B genes expression showed the opposite trend, accompanied by the release of YLS from the fat body to hemolymph. Exogenous JH treatment significantly suppressed NlDfA/B expression and promoted YLS release. Conversely, RNAi-mediated knockdown of juvenile hormone acid methyltransferase (NlJHAMT) upregulated NlDfA/B expression and reduced YLS levels in hemolymph. Western blot results further confirmed the inhibitory effect of JH on NlDfA/B protein expression. Mechanistically, JH via its receptor Met directly suppressed NlDfA/B promoter activity. Our findings reveal a regulatory circuit: JH suppresses NlDfA/B-mediated immune defense, thereby facilitating YLS release from fat body into hemolymph. This establishes an intrinsic link among insect hormone, immunity, and symbiotic fungus release, providing insights for green pest control targeting key genes and symbionts.",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "褐飞虱中JH-Met通路抑制抗菌肽NlDfA/B表达，从而促进类酵母共生菌从脂肪体释放入血淋巴",
+    "conclusion": "JH经受体Met直接抑制NlDfA/B启动子活性，降低其免疫防御功能，进而促使类酵母共生菌由脂肪体释放至血淋巴；该调控回路揭示了昆虫激素、免疫与共生真菌释放之间的内在联系，为靶向关键基因与共生菌的绿色害虫防治提供思路",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42809346",
+    "title": "Breaking Barriers to Mosquito RNAi Control: A dsRNA Biomanufacturing and Nanodelivery Platform for Sustainable Vector Management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS applied materials & interfaces",
+    "authors": "Wang K, Bi Z, Zhang Z, Zhao T, Liu X, Xing D, Wu J, Shen J, Xu C, Li C.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42809346",
+    "doi": "10.1021/acsami.6c09313",
+    "pmid": "42809346",
+    "abstract": "RNA interference (RNAi) offers a promising approach for pest control but is often limited by the instability of double-stranded RNA (dsRNA) and inefficient cellular delivery. We developed a biodegradable, redox-responsive polyaminoglycoside nanocarrier (SS-HPT) to improve dsRNA stability, cellular uptake, and intracellular release. SS-HPT readily formed stable nanocomplexes (∼300 nm, positively charged) that resisted nuclease degradation under simulated gut conditions and remained stable during storage. Fluorescence imaging demonstrated efficient uptake and widespread distribution in mosquito larvae. Intracellular disulfide cleavage promoted dsRNA release, enhancing gene silencing. Delivery of β-tubulin-targeting dsRNA via SS-HPT resulted in over 95% larval mortality at substantially lower doses than unprotected dsRNA. These findings establish SS-HPT as an effective platform for RNAi-based pest management.",
+    "species_latin": "",
+    "species_en": "Mosquito",
+    "species_zh": "蚊",
+    "takeaway": "研究开发SS-HPT纳米载体递送dsRNA,在蚊幼虫中实现高效基因沉默与超95%致死率。",
+    "conclusion": "SS-HPT是一种可生物降解、氧化还原响应的聚氨基糖苷纳米载体,能形成稳定复合物保护dsRNA免受核酸酶降解,并借助细胞内二硫键断裂促进dsRNA释放,增强基因沉默效果。递送靶向β-tubulin的dsRNA可在更低剂量下导致蚊幼虫死亡率超过95%,为基于RNAi的蚊虫防控提供了有效递送平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -261,7 +391,7 @@
     "keywords": [
       "稻纵卷叶螟功能基因组学"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -287,7 +417,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -313,7 +443,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -339,7 +469,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -365,7 +495,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -391,7 +521,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42803996",
+    "title": "Impulsive Release Strategies for Wolbachia-Infected Mosquitoes Under Temperature-Induced Infection Loss",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Bulletin of mathematical biology",
+    "authors": "Alves JCS, Schaerer CE, Ferreira CP.",
+    "publish_date": "2026-09-28",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42803996",
+    "doi": "10.1007/s11538-026-01761-w",
+    "pmid": "42803996",
+    "abstract": "The release of Wolbachia-infected mosquitoes is a promising strategy for controlling Aedes aegypti populations, although high-temperature exposure may temporarily reduce infection levels and compromise long-term persistence. We propose a population-dynamics model based on impulsive differential equations that incorporates cytoplasmic incompatibility, periodic mosquito releases, and temperature-driven infection loss. Analytical results establish fundamental qualitative properties of the continuous and impulsive models, derive conditions for the existence and stability of periodic solutions, and provide an explicit release threshold for the successful establishment and long-term persistence of the infected population. Numerical simulations validate the theoretical results and compare the performance of the wMelPop, wMel, and wAlbB strains under different thermal scenarios, highlighting the influence of strain-specific fitness costs and thermal tolerance. Additional simulations investigate temperature-dependent demographic variation and imperfect maternal transmission, extending the analysis beyond the assumptions of the analytical framework. The proposed approach provides a tractable mathematical framework for analyzing and designing impulsive Wolbachia release strategies under environmentally driven infection loss.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "用脉冲微分方程建模，研究温度导致Wolbachia感染丢失时，伊蚊释放策略的阈值与持久性条件。",
+    "conclusion": "模型结合胞质不亲和、周期性释放与温度驱动的感染丢失，给出了感染种群建立和长期维持的释放阈值及周期解稳定性条件；数值模拟比较了wMelPop、wMel和wAlbB菌株在不同温度下的表现，表明菌株特异性适合度代价与耐热性影响释放效果，为环境变化下的释放策略设计提供数学框架。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
