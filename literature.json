@@ -78,6 +78,84 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42821567",
+    "title": "Deep coalescent history of the hominin lineage",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genetics",
+    "authors": "Cousins T, Durbin R, Schweiger R.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42821567",
+    "doi": "10.1093/genetics/iyag271",
+    "pmid": "42821567",
+    "abstract": "Coalescent-based methods are widely used to infer population size histories, but existing analyses have limited resolution at deep time scales (>2 million years ago). Here, using new high-quality telomere-to-telomere genome assemblies, we extend the scope of such inference and reanalyze an ancient peak in human effective population size around 3-6 million years ago, showing that coalescent-based inference can reach much further into the past than previously thought. Furthermore, peaks at approximately the same time as in humans are also observed in chimpanzee and bonobo, but not in gorilla or orangutans. We show that this pattern is unlikely to be an artifact of model violations and discuss its potential implications for understanding hominin evolutionary history. It is known that such peaks can arise from ancestral genetic structure, and consequently we suggest that a parsimonious explanation for the contemporaneous peaks in humans, chimpanzees and bonobos would be a period of complex speciation before final separation of Homo from Pan, in contrast to a scenario where these lineages diverge cleanly from a panmictic common ancestor.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human, chimpanzee, bonobo, gorilla, orangutan",
+    "species_zh": "人、黑猩猩、倭黑猩猩、大猩猩、红毛猩猩",
+    "takeaway": "用高质量端粒到端粒基因组重析溯祖历史，发现人、黑猩猩和倭黑猩猩在约300-600万年前共享有效种群大小峰值。",
+    "conclusion": "溯祖推断可追溯至比以往认为更久远的过去；人、黑猩猩与倭黑猩猩在约300-600万年前出现同步有效种群大小峰值，而大猩猩和红毛猩猩没有。该模式难以用模型偏差解释，最简约的解释是Homo与Pan最终分离前经历了一段复杂的物种形成过程，而非从泛交共同祖先干净分化。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42822635",
+    "title": "A Multi-State Assessment of Per- and Polyfluoroalkyl Substances (PFAS), Pesticides, and Antibiotic Resistance Genes in White-Tailed Deer (Odocoileus virginianus) of the United States",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Pulster EL, Kolpin DW, Givens CE, Hladik ML, Keele LM, Meppelink SM, Rodriguez MD, Alvarez DA, Williams BM, Gordon SE, Hubbard LE.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42822635",
+    "doi": "10.1016/j.envres.2026.125817",
+    "pmid": "42822635",
+    "abstract": "Sentinel species provide a vital One Health perspective on ecosystem contamination driven by rising global chemical production. We evaluated white-tailed deer (Odocoileus virginianus; n = 54, 24 states, six matrices) as nationwide bioindicators for PFAS, pesticides, antimicrobial resistance (AMR) genes, and microbiome diversity. PFAS were detected in 100% of deer samples (26 compounds identified overall; non-detect to 12.3 ng/g ww), with preferential accumulation in the liver, indicating widespread systemic exposure. Neither region, landscape, nor source proximity predicted liver PFAS concentrations, whereas landscape had a significant, albeit weak, effect on spleen concentrations. This overall absence of strong spatial drivers suggests ubiquitous background contamination rather than localized point-source exposure. Conversely, 13 pesticides/transformation products (ranging from non-detect to 88.6 ng/g ww; highest in scat) were detected in only 28% of samples, despite widespread national use. Since not all possible transformation products were measured, these data reflect the accumulation of the target compound rather than total pesticide exposure. Driven by the rapid metabolism and excretion of herbicides, persistent insecticides dominated tissue samples. Additionally, biological threats were prevalent with eight distinct AMR genes identified in WTD scat, frequently featuring the florfenicol resistance gene (flost, 33%). The presence of synthetic compounds and AMRs in game meat and scat pose a direct One Health risk to the human food chain. These findings highlight the value of using a single, widely distributed sentinel species as an early warning system for the ecological and public health threats posed by global chemical pollution.",
+    "species_latin": "Odocoileus virginianus",
+    "species_en": "White-tailed deer",
+    "species_zh": "白尾鹿",
+    "takeaway": "美国24州白尾鹿多组织检测显示PFAS普遍暴露、农药残留有限但抗性基因常见，提示其可作One Health哨兵物种。",
+    "conclusion": "白尾鹿体内PFAS广泛存在且偏好蓄积于肝脏，空间因素影响弱，提示背景性污染而非局部点源；农药检出率低且以持久性杀虫剂为主，抗性基因在粪便中普遍，其中florfenicol抗性基因占33%。这些合成物与抗性基因出现在野味和粪便中，对人类食物链构成One Health风险，表明单一广布哨兵物种可作为全球化学污染的早期预警系统。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42821641",
+    "title": "Impact of Insecticide Exposure Duration on Heptageniid Mayflies",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology and chemistry",
+    "authors": "Rackliffe DR, Hoverman J.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42821641",
+    "doi": "10.1093/etojnl/vgag264",
+    "pmid": "42821641",
+    "abstract": "Neonicotinoids like clothianidin are commonly applied in agricultural areas where they leach into aquatic systems and expose sensitive aquatic insects. While mayflies are known to be highly sensitive to clothianidin, the connection between laboratory toxicity assays and exposure dynamics in natural systems is poorly explored. We conducted low dose clothianidin exposures on the mayfly Stenacron interpunctatum to better understand how the temporal dynamics of insecticide pulses into stream systems might impact aquatic insects. We found that short duration (<24 hr) exposures to clothianidin (0.7-8.9 µg/L) failed to produce noticeable lethal or sublethal effects within 10 days after the exposure ended. With continuous exposure, we found that toxic effects began within 72 hr of exposure to our highest concentration (8.9 µg/L) while lower concentrations required longer exposures to have toxic effects. These results indicate that, given the low concentrations of neonicotinoids commonly observed in agricultural surface waters, a single typical pulse duration is unlikely to have acutely toxic effects on mayfly populations. However, repeated pulses could have additive effects resulting in greater impacts.",
+    "species_latin": "Stenacron interpunctatum",
+    "species_en": "mayfly",
+    "species_zh": "蜉蝣",
+    "takeaway": "低剂量噻虫胺短时暴露对蜉蝣无急性毒性，但持续或反复暴露会累积产生毒性效应。",
+    "conclusion": "研究表明，农业水体中常见的低浓度新烟碱类杀虫剂单次短时脉冲暴露，不足以对蜉蝣种群造成急性致死或亚致死影响；但持续暴露下毒性效应随浓度升高而更快出现，且反复脉冲可能产生叠加效应，从而加剧对水生昆虫的影响。这提示实验室毒性数据需结合自然暴露动态来评估生态风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42741994",
     "title": "A curated structural dataset of peptide-protein complexes reveals biases in existing datasets and principles of peptide binding",
     "type": "paper",
@@ -551,6 +629,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42806737",
+    "title": "Targeting DOPA decarboxylase disrupts immune-metabolic coordination and renders Spodoptera frugiperda susceptible to bacterial infection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insect science",
+    "authors": "Zhang ZY, Huang SH, Li SL, Tan JF, Wang ZW, Zou Y, Zhu GH.",
+    "publish_date": "2026-09-28",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/42806737",
+    "doi": "10.1111/1744-7917.70370",
+    "pmid": "42806737",
+    "abstract": "DOPA decarboxylase (DDC) is a key enzyme that connects melanin production and innate immunity in insects, yet its regulatory network in major lepidopteran pests remains poorly understood. We combined CRISPR/Cas9 gene editing with multi-omics analysis to explore DDC's role in immune responses in the invasive pest Spodoptera frugiperda. Knocking out DDC caused complete albinism, severe developmental delays, pronounced developmental defects, and increased susceptibility to bacterial challenge. Following the E. coli challenge, DDC-mutant larvae showed substantially lower final survival than infected wild-type larvae (6.7% vs. 66.7%) and failed to pupate, despite pronounced cuticular darkening. Transcriptomic and metabolomic analyses showed that DDC loss disrupted the tyrosine-dopamine pathway and was associated with altered expression of genes related to the prophenoloxidase cascade. Notably, laccase2 was transcriptionally upregulated after challenge; however, its contribution to infection-associated cuticular darkening remains to be determined. This response did not restore dopamine-dependent immune signaling or whole-body metabolism, as evidenced by disruptions in glycine/serine pathways and reduced immune gene activity. These results separate pigmentation from immune functions within the melanin pathway, highlighting DDC as a crucial immune-metabolic hub. Given its roles in development and immunity and the high conservation of the dopamine pathway in invertebrates, DDC is a promising target for species-specific, resistance-proof RNAi pest control methods.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "用CRISPR敲除草地贪夜蛾DDC基因，发现其免疫代谢协调受损、抗细菌感染能力大幅下降。",
+    "conclusion": "DDC是连接黑色素生成与先天免疫的关键酶，其缺失破坏酪氨酸-多巴胺通路及丙酚氧化酶级联相关基因表达，并扰乱甘氨酸/丝氨酸代谢与免疫基因活性，使幼虫感染后存活率骤降且无法化蛹。该研究将黑色素通路中的着色功能与免疫功能区分开，表明DDC是免疫-代谢枢纽，且因多巴胺通路在无脊椎动物中高度保守，可作为物种特异性、抗性风险低的RNAi害虫防治靶标。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42768941",
     "title": "Analysis of neonicotinoid pesticides and their metabolites by liquid chromatography-electrospray ionization-tandem mass spectrometry",
     "type": "paper",
@@ -755,7 +859,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -11792,6 +11896,32 @@
     "conclusion": "PrePPI是一个基于结构的大规模蛋白质互作预测流程，可预测结构化结构域之间以及结构域与短线性基序之间的互作。新版网站扩展至人类、酵母和大肠杆菌蛋白质组，提供高置信度复合物三维模型与PDB模板，并基于互作的结构似然性对互作组进行聚类，所得聚类具有功能一致性，为在全蛋白质组尺度上理解生物现象背后的互作子网提供了新途径。",
     "keywords": [
       "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-41742451",
+    "title": "Dissecting the genetic basis of climatic adaptation in wild relatives (Malus baccata) for climate-resilient apple breeding",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Journal of integrative plant biology",
+    "authors": "Su Y, Hao Y, Cao X, Wang L, Xu Z, Zhang F, Ma Z, Wang X, Li J, Fan T, Zhao R, Liu Z, Wang W, Zhang Y, Yang X, Yang S, Wang D, Wang K, Sun S, Li Z, Tian W, Sun Y, Liu Z, Xu Y, Xiao H, Peng Y, Xu X, Liu R, Tian X, Zhou Y, Gao Y.",
+    "publish_date": "2026-02-25",
+    "added_at": "2026-10-02",
+    "url": "https://europepmc.org/article/MED/41742451",
+    "doi": "10.1111/jipb.70194",
+    "pmid": "41742451",
+    "abstract": "Climate change poses an increasing threat to global biodiversity and food security. As a wild relative of cultivated apples, Malus baccata exhibits broad environmental adaptability and robust stress tolerance. However, its effective utilization in breeding is constrained by the absence of a complete reference genome and insufficient population-level genomic characterization. In this study, we assembled a haplotype-resolved, telomere-to-telomere genome for M. baccata, providing unprecedented resolution for a wild apple reference genome. Population genomic analyses revealed four distinct genetic clusters. Among these, the Hebei Group 2 harbors the highest genetic diversity and heterozygosity, alongside the lowest runs of homozygosity, suggesting a complex history of genetic admixture in this population. By integrating population genomics with genotype-environment association analyses, we identified a series of climate-associated single-nucleotide polymorphisms and structural variants. A substantial proportion of these adaptive variants is localized within the coding and regulatory regions of candidate genes, providing a genomic basis for their roles in environmental adaptation. Notably, DREB1A/D and NAC6 are associated with temperature seasonality and annual precipitation, respectively. Furthermore, future climate projections indicate that the Northeastern (NE) clusters face the highest risk of maladaptation, especially under high-emission scenarios. Collectively, these findings provide critical insights into the genetic basis of climatic adaptation in wild apples, establishing a solid foundation for the conservation of crop wild relatives and the breeding of climate-resilient cultivars.",
+    "species_latin": "Malus baccata",
+    "species_en": "Siberian crabapple",
+    "species_zh": "山荆子",
+    "takeaway": "研究组装了山荆子端粒到端粒单倍型基因组，结合群体基因组与基因-环境关联分析，揭示其气候适应遗传基础。",
+    "conclusion": "山荆子可分为四个遗传类群，河北类群2遗传多样性最高、纯合片段最少，提示存在复杂遗传混合。研究鉴定出大量与气候相关的SNP和结构变异，多位于候选基因编码或调控区，其中DREB1A/D与温度季节性、NAC6与年降水量相关；未来气候下东北类群适应不良风险最高。该成果为作物野生近缘种保护和气候韧性苹果育种奠定基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
     "llm_enhanced": true
