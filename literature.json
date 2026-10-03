@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42823625",
+    "title": "Interactions of Glucagon-Like Peptide-1 Receptor Agonists With GLP-1R-Gs Complex: Insights From Gaussian-Accelerated Molecular Dynamics",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Proteins",
+    "authors": "Zhou X, Liu M, Shi Y, Duan X, Gao Y, Han W.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-03",
+    "url": "https://europepmc.org/article/MED/42823625",
+    "doi": "10.1002/prot.70186",
+    "pmid": "42823625",
+    "abstract": "The glucagon-like peptide-1 receptor (GLP-1R) is a critical therapeutic target for metabolic diseases. GLP-1 receptor agonists (GLP-1RAs) have been developed to treat type 2 diabetes and promote weight loss. In this study, Gaussian accelerated molecular dynamics (GaMD) simulations, MM-PBSA calculations, and conformational dynamic analyses were systematically employed to elucidate the binding mechanisms and dynamic stability of three representative agonists-native GLP-1, semaglutide, and tirzepatide-bound to the GLP-1R-Gs membrane protein complex. Molecular docking and trajectory analyses revealed that ligand binding significantly stabilizes the overall receptor structure, triggering conformational shifts in the extracellular domain (ECD) and transmembrane domain (TMD), particularly inducing long-range allosteric cross-talk with the intracellular Gs protein to downstream signal transduction. Compared to GLP-1 and semaglutide, tirzepatide demonstrated distinct conformational shifts, superior structural compactness, and the higher binding affinity with a significantly more negative binding free energy. Furthermore, micro-interfacial localization demonstrated that lipid bilayer interaction with basic and aromatic residues at the Zp interface synergistically stabilizes the active transmembrane conformation. These atomic-level insights highlight the unique structural advantages of tirzepatide and provide a solid theoretical foundation for the novel rational design of next-generation multi-target peptide therapeutics.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "用高斯加速分子动力学比较三种GLP-1受体激动剂与GLP-1R-Gs复合物的结合,发现替尔泊肽结合最紧密、亲和力最高。",
+    "conclusion": "配体结合可稳定受体整体结构,并引发胞外域与跨膜域的构象变化,通过长程变构作用与胞内Gs蛋白偶联以传递下游信号;替尔泊肽构象变化独特、结构更紧凑、结合自由能更负,亲和力优于GLP-1和司美格鲁肽;Zp界面的碱性及芳香残基与脂双层协同稳定跨膜活性构象,为新一代多靶点肽类药物设计提供理论依据。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42826098",
+    "title": "Progressive remodeling of global protein interaction networks in a mouse model of tauopathy",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Cell reports",
+    "authors": "Lin W, Phanse S, van der Spek SJF, Lampl N, Stephens MC, Wang Z, Nigro JT, Ortiz AR, Hekman R, Cruz ALF, Roberts R, Jiang L, Botas J, Emili A, Wolozin B.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-03",
+    "url": "https://europepmc.org/article/MED/42826098",
+    "doi": "10.1016/j.celrep.2026.118084",
+    "pmid": "42826098",
+    "abstract": "Neurodegenerative disease is marked not just by loss of proteins or cells, but by dynamic rewiring of macromolecular interaction networks that precede and drive pathology. Here, we present a temporally resolved, systems-scale map of multi-protein complex remodeling in a tauopathy model, integrating co-fractionation mass spectrometry, quantitative phosphoproteomics, and machine learning to decode phosphorylation-dependent shifts in protein interactomes across disease progression. This interactomic atlas serves as a resource to investigate functional assemblies, including MAPT-Dpysl2 and Cyfip1-actin, as well as ptk2b-Kars/Dars and ptk2b-Msn-Farsb-complexes, that modulate early disease phenotypes in vivo. Notably, it captures the composition, dynamics, and regulatory state of protein complexes at scale. By revealing how phosphorylation tunes macromolecular complex architecture and function, this work highlights dynamic network instability that develops over the course of tauopathy, and establishes a generalizable framework for mechanistic dissection of functional complexes in neurodegeneration.",
+    "species_latin": "Mus musculus",
+    "species_en": "mouse",
+    "species_zh": "小鼠",
+    "takeaway": "研究用共分离质谱、磷酸化蛋白质组与机器学习绘制tau病变小鼠蛋白互作网络动态重塑图谱。",
+    "conclusion": "tau病变中磷酸化动态调控多蛋白复合物的组成与功能，导致互作网络随病程进行性失稳；该图谱揭示MAPT-Dpysl2、Cyfip1-actin及ptk2b相关复合物等早期致病组装，并提供解析神经退行性疾病功能复合物的通用框架。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42626850",
+    "title": "Determination of benzoylurea pesticides in fish by liquid chromatography-high resolution mass spectrometry and assessment of their embryotoxicity in zebrafish",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Analytical methods : advancing methods and applications",
+    "authors": "Zhu Y, Yang K, He L, Liu L, Tang C, Luo XJ, Mai BX.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-03",
+    "url": "https://europepmc.org/article/MED/42626850",
+    "doi": "10.1039/d6ay00764c",
+    "pmid": "42626850",
+    "abstract": "Benzoylureas are an important class of insecticides widely used in agriculture and aquaculture owing to their high efficacy and specific mode of action in pest control. Due to their environmental persistence and potential ecological toxicity, benzoylureas have raised growing scientific and public concern. In this study, a reliable and sensitive method was developed and validated for determination of 8 benzoylurea insecticides in fish. The fish samples underwent ultrasonic-assisted extraction with acetonitrile/methanol, followed by purification via gel permeation chromatography. The instrumental analysis was implemented by liquid chromatography high-resolution mass spectrometry, with electrospray ionization operated in negative mode. The accuracies were 87.2-119.4%, with relative standard deviations (RSDs) less than 14.2%. Satisfactory recoveries were obtained for all the analytes, within the range of 62.1-98.1% (RSDs ≤ 15.0%), and the limits of quantification were 5.0 ng g -1 . The method was successfully applied to preliminary investigation of benzoylurea residues in edible fish. The findings revealed that the fish samples from several regions were heavily contaminated with benzoylureas, and all the investigated benzoylureas were detectable in the fish. Notably, hexaflumuron and chlorfluazuron were found in all the fish samples. Complementary zebrafish embryotoxicity assays of fluazuron and lufenuron showed hatching delays at concentrations ≥1.0 mg L -1 . The analytical method presents a practical approach for analyzing benzoylureas in fish, and provides foundational data for future research on food safety monitoring and environmental risk assessment. The results of this study underlined the hazards of benzoylureas to aquatic organisms and the eco-environment, highlighting the necessity for further research.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "建立鱼体中8种苯甲酰脲类杀虫剂的高分辨液质检测法，发现市售鱼普遍受污染，且氟啶脲和虱螨脲可致斑马鱼胚胎孵化延迟。",
+    "conclusion": "所建超声提取-凝胶渗透净化-液相色谱高分辨质谱法灵敏可靠，适用于鱼类中苯甲酰脲残留检测；实际样品显示多地区鱼体污染严重，氟铃脲和氟啶脲在所有样品中均被检出，氟啶脲与虱螨脲在≥1.0 mg/L时引起斑马鱼胚胎孵化延迟，提示该类农药对水生生物及生态环境存在风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42806510",
     "title": "From Rhizosphere to Resistance: Microbe-Plant Interactions in Eco-Smart Biocontrol",
     "type": "paper",
@@ -100,7 +178,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -126,7 +204,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -152,7 +230,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
