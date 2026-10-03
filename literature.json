@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42826563",
+    "title": "Advancing component-based mixture risk assessment using new approach methodologies: An environmental case study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Noventa S, Moe SJ, Tollefsen KE, Song Y, Manfra L, Lillicrap A.",
+    "publish_date": "2026-10-02",
+    "added_at": "2026-10-03",
+    "url": "https://europepmc.org/article/MED/42826563",
+    "doi": "10.1016/j.ecoenv.2026.120876",
+    "pmid": "42826563",
+    "abstract": "The next-generation risk assessment vision promotes mechanism-based hazard assessment using new approach methodologies (NAMs) and the evaluation of chemical mixture exposure. Here, we present a refined component-based mixture risk assessment (CBMRA) approach that integrates a quantitative adverse outcome pathway (qAOP) framework with high-throughput screening (HTS) data. HTS data are used to identify qAOP-active chemicals in mixtures and to scale their toxic contributions based on relative potency within the qAOP applicability domain. The approach was demonstrated with an environmentally relevant case study using a previously published probabilistic Bayesian Network qAOP model from AOP-Wiki AOP#245 (\"Reduction in photophosphorylation leading to growth inhibition in aquatic plants\"), applied to pesticide mixtures reported in European rivers from the European Environment Agency's Pesticide Indicator Dataset (WISE Statistics - Pesticides, 1990-2021). ToxCast and Tox21 data, in silico gap-filling methods, NAM tools and expert knowledge were used to estimate pesticide relative potency and support its application within the framework. Results indicate that 43% of mixtures contained qAOP-active compounds, but cumulative concentrations remained below the threshold required to impair growth in the model species Lemna minor. Overall, the study presents a methodological framework integrating NAM concepts, existing data and tools for mechanistic mixture risk assessment. Performance depends on HTS data quality, uncertainty in the relative potency application, and qAOP relevance. Continued NAM development is expected to strengthen the scientific basis and practical relevance of NAM-based CBMRA for mechanistically informed mixture risk screening. This framework can help prioritize mixtures for further testing or refine safety factors in risk assessment.",
+    "species_latin": "Lemna minor",
+    "species_en": "duckweed",
+    "species_zh": "浮萍",
+    "takeaway": "研究提出整合qAOP与高通量筛选的组分式混合物风险评估框架，用于欧洲河流农药混合物，发现43%含活性物但浓度未达危害阈值。",
+    "conclusion": "该框架将qAOP与HTS数据结合，通过相对效价识别混合物中具机制活性的化学物并量化其毒性贡献。以AOP#245和欧洲河流农药混合物为案例，发现43%混合物含qAOP活性物，但累积浓度低于模型物种生长抑制阈值。方法性能取决于HTS数据质量、相对效价不确定性与qAOP相关性，可用于混合物风险筛查与优先级排序。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42823625",
     "title": "Interactions of Glucagon-Like Peptide-1 Receptor Agonists With GLP-1R-Gs Complex: Insights From Gaussian-Accelerated Molecular Dynamics",
     "type": "paper",
@@ -11036,6 +11062,32 @@
     "species_zh": "小菜蛾、朱砂叶螨、蜜蜂",
     "takeaway": "设计合成含环状酰胺异噁唑啉衍生物，I-22对小菜蛾和朱砂叶螨杀虫活性显著优于氟噻虫酰胺。",
     "conclusion": "通过骨架跃迁策略合成的含环状酰胺异噁唑啉类化合物具有广谱杀虫活性，其中I-22对小菜蛾和朱砂叶螨的LC50分别为0.13和0.55 mg/L，优于氟噻虫酰胺，且对蜜蜂急性接触毒性略低；分子对接显示二者均作用于GABA受体，5-乙基吡啶基团对活性和选择性起关键作用，I-22有望成为新型异噁唑啉杀虫剂候选物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42424974",
+    "title": "Establishment of anti-tick activity of green nano-formulation for the management of acaricide-resistant cattle tick, Rhipicephalus microplus - An in vitro, in vivo and field study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Research in veterinary science",
+    "authors": "Singh K, Sharma AK, Shukla D, Shukla K, Shukla B, Shukla K, Kumar S, Muthu S, Ghosh S.",
+    "publish_date": "2026-07-04",
+    "added_at": "2026-10-03",
+    "url": "https://europepmc.org/article/MED/42424974",
+    "doi": "10.1016/j.rvsc.2026.106321",
+    "pmid": "42424974",
+    "abstract": "The increasing incidence of acaricide resistance in Rhipicephalus microplus necessitates development of alternative strategies for control. The present study evaluated the anti-tick efficacy of a green nano-formulation (GNF) against reference acaricide susceptible and resistant strains of R. microplus. Dose-response bioassay against the susceptible IVRI-I strain revealed a concentration dependent increase in mortality and oviposition inhibition with an estimated LC50 and LC95 values of 4.76% and 8.76%, respectively, indicating potent acaricidal activity. Complete egg-laying inhibition was observed at 10% concentration. At 10% concentration 86% of treated pyrethroid-resistant (IVRI-IV) and multi-acaricides resistant (IVRI-V) ticks died within the experimental period. The GNF exhibited 81.5-94.2% mortality with significant oviposition inhibition of 25.1-50.9% against the field isolates resistant to multiple acaricides. Besides adults, a 100% mortality of larvae of susceptible and resistant tick strain and a drastic reduction of hatching percentages of eggs was noted after treatment of tick stages with 10% GNF. Stability studies indicated a consistent efficacy of GNF of >85% up to nine months at varying storage temperatures. Under in vivo conditions, GNF treatment resulted in a immediate mortality of 79.1% ticks used in experimental infestation of animals with significant reduction in engorged female weight, egg masses and subsequent tick emergence. In naturally infested animals, efficacy was >85% in low to moderately infested group after a single application, while repeat treatment eliminated heavy infestations by 10th day. Field trials conducted in Bareilly and Rampur districts further confirmed consistent efficacies of 78.7% and 93.8%, respectively. The findings clearly demonstrated the acaricidal and larvicidal activities of GNF against R. microplus populations resistant to multiple acaricides and have strong potential to use in the field conditions for the management of tick infestations on animals.",
+    "species_latin": "Rhipicephalus microplus",
+    "species_en": "cattle tick",
+    "species_zh": "微小扇头蜱",
+    "takeaway": "绿色纳米制剂对多重抗药性微小扇头蜱具杀灭与抑卵作用，实验室、动物及田间试验均有效。",
+    "conclusion": "该绿色纳米制剂对敏感及多种杀螨剂抗性的微小扇头蜱成蜱、幼虫和卵均有显著杀灭与抑制产卵、孵化效果，且稳定性好、持效可达九个月；动物试验与田间试验证实单次或重复施用可有效控制蜱感染，具备田间应用潜力。",
     "keywords": [
       "新型杀虫剂"
     ],
