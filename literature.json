@@ -22,7 +22,59 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42816147",
+    "title": "Assessing the Use of Oxford Nanopore Technologies Sequencing for Detection of Stable Wolbachia Bacterial Strain in Symbiosis in Wild Anopheles Mosquitoes From the WHO African Region",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Environmental microbiology",
+    "authors": "Chatterley L, Hull N, Hughes I, Sougoufara S, Meek O, Ceyran M, Dhokiya V, Bandibabone J, Adala C, Cunningham E, Awandu SS, Kaminski-Nenkam H, Nkondjio A, Hughes GL, Heinz E, Walker T.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-04",
+    "url": "https://europepmc.org/article/MED/42816147",
+    "doi": "10.1111/1462-2920.70435",
+    "pmid": "42816147",
+    "abstract": "Malaria remains a significant global health challenge with 263 million cases in 2023. Anopheles insecticide resistance threatens current vector control methods, and novel strategies are crucial to combat malaria transmission. Wolbachia, an endosymbiotic bacteria that can invade mosquito populations and inhibit pathogen replication, has only recently been shown as a high-density symbiont in two wild Anopheles species. Detection of Wolbachia in symbiosis with Anopheles mosquitoes has relied on PCR amplification of Wolbachia genes and/or Sanger and Illumina sequencing. This study assesses Oxford Nanopore Technology (ONT) to detect Wolbachia, which could facilitate screening for symbiosis with wild Anopheles mosquitoes in endemic settings. We used 46 samples; 10 were pooled for a single MinION flow cell run and the rest processed individually using Flongle flow cells, comparing three mosquito species with three kit combinations. Using the ONT Field sequencing kit, there were 13X more Wolbachia reads in An. demeilloni (genuine symbiosis) than An. gambiae (no evidence of Wolbachia). The ONT 16S barcoding kit and Rapid barcoding kit were then assessed using more economical Flongle flow cells. Wolbachia was successfully identified in An. demeilloni and An. moucheti but not in An. gambiae. This study demonstrates the feasibility of ONT for field-based detection of Wolbachia.",
+    "species_latin": "Anopheles sp.",
+    "species_en": "Anopheles mosquito",
+    "species_zh": "按蚊",
+    "takeaway": "用Oxford Nanopore测序可在野外蚊虫中检出稳定共生的Wolbachia，且不同试剂盒效果有差异。",
+    "conclusion": "ONT测序（含Field、16S barcoding和Rapid barcoding试剂盒）能成功在An. demeilloni和An. moucheti中检出Wolbachia，而在无共生证据的An. gambiae中未检出，表明该技术可用于疟疾流行区野生按蚊Wolbachia共生的大规模现场筛查。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42720601",
+    "title": "A high-throughput method to computationally develop candidate adverse outcome pathways in humans: a proof of concept with insecticides and Parkinson's Disease",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxicological sciences : an official journal of the Society of Toxicology",
+    "authors": "Rollin D, Shen C, Groh K, Kosnik MB.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-04",
+    "url": "https://europepmc.org/article/MED/42720601",
+    "doi": "10.1093/toxsci/kfag122",
+    "pmid": "42720601",
+    "abstract": "Adverse outcome pathways (AOPs) describe stressor-non-specific sequences of events between a first molecular trigger (molecular initiating event, MIE), causally linked key events (KEs), and an adverse outcome (AO). AOPs are intended to aid in chemical toxicity testing as a new approach methodology. However, commonly used AOP development methods depend on manual curation, which is labor-intensive. As a result, there are still relatively few AOPs, and a huge number of toxicity mechanisms and possible AOs remain undescribed. Therefore, systematic and high-throughput approaches to predict new AOPs are needed. Here, we developed and implemented a data integration-based framework to generate new candidate AOPs using insecticides and Parkinson's Disease as a proof of concept. We integrated and statistically linked disconnected databases (e.g. Comparative Toxicogenomics Database, Human Protein Atlas, and Gene Ontology) to form MIE-KE (cell level)-KE (tissue level)-AO candidate AOPs. Through this systematic process, we generated 562,117 candidate AOPs, which we then scored using a weight-of-evidence (WoE) approach and prioritized 12,756 AOPs with a WoE >0.5. The prioritized AOPs describe varied mechanisms of toxicity related to e.g. MAPK, PTEN, and FGFR signaling pathways, with \"increases phosphorylation of MAPK1\" as the most frequent MIE. Through analysis of 100 random prioritized AOPs, we found 70% had external literature supporting their biological plausibility, and only 15% represented identifiably implausible associations. Our AOP-generating approach yields consistently structured AOPs and can complement existing and emerging development methods to expand AOP coverage across different stressors and outcomes.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "研究整合多个数据库高通量构建候选AOP，以杀虫剂与帕金森病为例生成56万余条并优先排序1.2万余条。",
+    "conclusion": "该数据整合框架可自动生成结构一致的候选AOP，并通过证据权重评分优先排序；随机抽检的100条优先AOP中70%有外部文献支持其生物学合理性，仅15%明显不合理，表明该方法能补充现有AOP开发手段、扩展不同应激源与结局的覆盖范围。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -74,7 +126,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -496,6 +548,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.3389/fgene.2026.1924314",
+    "title": "Bioinformatic prediction, qCLASH, and AlphaFold3 reveal non-overlapping layers of the miR-214-3p–mRNA interactome",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Frontiers in Genetics",
+    "authors": "Jia Yao, Bingqiao Huang, Chenyu Chang, Ziqi Lin, Jinyue Lei, Weifeng Zhu, Mo Lisha, Tielong Xu",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-04",
+    "url": "https://doi.org/10.3389/fgene.2026.1924314",
+    "doi": "10.3389/fgene.2026.1924314",
+    "pmid": "",
+    "abstract": "Introduction MicroRNAs (miRNAs) regulate gene expression post-transcriptionally through sequence-specific targeting of messenger RNAs. Reliable mapping of miRNA-mRNA interactions remains challenging because available methods differ widely and systematic cross-method comparisons are lacking. Method Using mouse miR-214-3p as a model, we systematically compared three approaches: bioinformatic prediction (TargetScan, miRDB, miRWalk), Argonaute-dependent experimental detection (qCLASH on mouse lung tissue), and artificial intelligence-driven structural modeling (AlphaFold3). Gene lists were harmonized to Ensembl release 116 (GRCm39) Gene IDs; overlaps were evaluated against a transcriptome background using Fisher’s exact tests with Benjamini–Hochberg correction, and the three-tool consensus was assessed by 1,000,000 Monte Carlo simulations. Results Only 95 target genes were commonly predicted by all three bioinformatic tools, and at most 6 of the 15 Ensembl-mappable qCLASH genes were captured by any prediction algorithm. Nevertheless, all observed overlaps were significantly enriched relative to random expectation (O/E ratios 24.52–80.6; adjusted q < 0.05), and the 95-gene consensus fell far outside the simulated null distribution (P ∼ MC∼ < 10 −6 ). AlphaFold3 produced high-confidence models (ipTM ≥0.6) for 80.95% of qCLASH-derived interactions, but a substantial fraction of bioinformatically predicted sites failed to form structurally plausible complexes. Discussion Bioinformatic prediction, qCLASH, and AlphaFold3 thus capture distinct and complementary layers of miRNA targeting (sequence-defined potential, context-dependent occupancy, and spatial feasibility) rather than converging on a single landscape. High AlphaFold3 confidence scores, for instance, did not guarantee biologically functional conformations; even models meeting the thresholds often displayed non-canonical architectures incompatible with silencing. In our mouse lung miR-214-3p model system, our findings support an integrative approach: method selection should align with the specific research question, and multi-layer integration is key to constructing reliable miRNA-target maps in a given biological context.",
+    "species_latin": "Mus musculus",
+    "species_en": "Mouse",
+    "species_zh": "小鼠",
+    "takeaway": "以小鼠miR-214-3p为模型，比较生信预测、qCLASH与AlphaFold3，发现三者揭示的靶标层面互不重叠且互补。",
+    "conclusion": "生信预测、qCLASH与AlphaFold3分别反映序列潜能、实际占据与空间可行性三个不同层面，并未收敛于同一靶标图谱；高结构置信度不等于功能构象，因此方法选择应匹配研究问题，多层整合才能构建可靠的miRNA靶标图谱。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42811357",
+    "title": "The gap between having and using: socioeconomic inequalities in long-lasting insecticidal net coverage among children and adolescents in rural Guinea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tropical medicine and health",
+    "authors": "Toure AA, Sidibe S, Colombe S, Magassouba AS, Paviotti A, Kreppel K, Bottieau E, Kaba MP, Beavogui AH, Delamou A, Kouanda S.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-04",
+    "url": "https://europepmc.org/article/MED/42811357",
+    "doi": "10.1186/s41182-026-01078-3",
+    "pmid": "42811357",
+    "abstract": "Background Malaria is a major health issue in sub-Saharan Africa, including Guinea, affecting children under five and rural populations, with a prevalence of up to 30% in some areas. Although long-lasting insecticidal nets (LLINs) are effective, inequalities in access and use persist across wealth, geography, and age groups; however, detailed data are limited. This study assessed socioeconomic inequalities in LLIN access and use among children and adolescents. Methods We analysed data from a cohort study conducted between March 2022 and February 2023 in Maferinyah, rural Guinea, with monthly visits to households of children and adolescents aged 1-19. Socioeconomic position (SEP) was derived using an asset index and categorised into terciles. LLIN access and use-given-access were analysed using mixed logistic regression models adjusted for sociodemographic and seasonal factors. Socioeconomic inequalities were quantified using concentration and Erreygers indices with cluster bootstrap confidence intervals. Pathway and decomposition analyses assessed the contribution of access to LLIN to inequalities in effective LLIN use (defined as use regardless of access). Results The odds of LLIN access were higher among middle-SEP (aOR = 3.84; 95% CI 1.31-11.96) and high-SEP households (aOR = 3.76; 95% CI 1.18-12.71) than among low-SEP households. Inequalities in effective LLIN use were driven by disparities in access rather than by use behaviour. Although LLIN use among those with access exceeded 80% across all socioeconomic groups, effective use in the overall study population was lower among low-SEP households (29.6%). Significant pro-rich socioeconomic inequalities were observed for both LLIN use (Erreygers index (EI) = 0.386; 95% CI 0.151-0.594) and access (EI = 0.412; 95% CI 0.168-0.636). Decomposition analysis suggested that socioeconomic inequality in effective LLIN use was almost entirely explained by differences in access (98.8% of the total variance). Conclusions Malaria prevention in rural Guinea is unequal, leaving poorer children and adolescents less protected than wealthier ones. This gap stems from unequal access to LLINs rather than differences in net use among households with nets. The study showed that the poorest families did not have access to nets in the first place. Addressing this inequity requires improved distribution strategies targeting the poorest and most vulnerable households, rather than behavioural interventions for net use only.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "几内亚农村儿童青少年中，长效杀虫蚊帐的获取比使用更受贫富差距影响，贫困家庭防护不足。",
+    "conclusion": "研究显示，蚊帐获取存在明显的亲富不平等，而有效使用差异几乎完全由获取差异解释，而非使用行为本身；即使有蚊帐者使用率超八成，低社会经济地位家庭儿童的有效防护仍显著偏低。因此，改善疟疾预防应优先解决蚊帐分配与获取的不平等。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
