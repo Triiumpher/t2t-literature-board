@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42829199",
+    "title": "Plant-mediated RNAi via Panonychus citri-derived miRNAs disrupts adult emergence and confers mite resistance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of genetics and genomics = Yi chuan xue bao",
+    "authors": "Li C, Li Y, Zhang J, Li B, Xia M, Wang J, Dou W.",
+    "publish_date": "2026-10-03",
+    "added_at": "2026-10-04",
+    "url": "https://europepmc.org/article/MED/42829199",
+    "doi": "10.1016/j.jgg.2026.09.012",
+    "pmid": "42829199",
+    "abstract": "MicroRNAs (miRNAs), small non-coding RNAs that trigger RNA interference (RNAi), are promising candidates for pest control, yet their efficacy against non-insect pests remains poorly explored. This study evaluates endogenous mite-derived miRNAs as transgenes for crop resistance against Panonychus citri, a major pest with rapid acaricide resistance that severely damages citrus, soybean, and other cash crops. Through developmental miRNA libraries of P. citri, we identify miR-750 and miR-200a-5p as key regulators during the deutonymph-to-adult transition, whose overexpression significantly inhibits adult eclosion. Both in vivo and in vitro assays confirm that miR-750 targets both NFYB and ADRM1, whereas miR-200a-5p specifically targets ADRM1; dsRNA-mediated silencing of these genes recapitulates eclosion defects induced by miRNA overexpression. We generate single-copy transgenic soybean lines with high expression of miR-750 (line 7#6) or miR-200a-5p (line 2#14). Detached-leaf and whole-plant bioassays using T1 generations reveal that both lines exhibit strong resistance against P. citri. Notably, neither transgenic line adversely affects the non-target predatory mite Neoseiulus barkeri, either via direct miRNA exposure or prey-mediated transfer. The resistance against P. citri and biosafety toward N. barkeri are retained in T2 generations. These findings highlight the potential of endogenous miRNAs as effective targets for developing eco-friendly and sustainable pest management strategies.",
+    "species_latin": "Panonychus citri",
+    "species_en": "Citrus red mite",
+    "species_zh": "柑橘全爪螨",
+    "takeaway": "利用柑橘全爪螨自身miRNA作转基因，可抑制其成螨羽化并使大豆获抗螨性且对天敌安全",
+    "conclusion": "柑橘全爪螨的miR-750与miR-200a-5p在若螨向成螨转变中起关键调控作用，分别靶向NFYB和ADRM1等基因，过表达可致羽化缺陷。将其转入大豆获得的单拷贝株系对全爪螨具稳定抗性，且不伤害非靶标捕食螨，为开发环保、可持续的害螨防控策略提供了新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42826563",
     "title": "Advancing component-based mixture risk assessment using new approach methodologies: An environmental case study",
     "type": "paper",
@@ -600,6 +626,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42828879",
+    "title": "The insecticide fipronil selectively reduces the net emergence of aquatic microinvertebrates from neotropical lake sediment egg banks",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "authors": "Machado MAA, Marcelino CN, Brandão LF, Bonecker CC, Eskinazi-Sant'Anna EM, Rosa J, Moreira RA, Gutierrez MF, Portinho JL.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-04",
+    "url": "https://europepmc.org/article/MED/42828879",
+    "doi": "10.1016/j.aquatox.2026.108040",
+    "pmid": "42828879",
+    "abstract": "Freshwater environments rely on the sediment dormant invertebrate stages for recolonization and the maintenance of biodiversity after environmental stressors. However, while these resting structures are resilient to natural physical extremes, the effects of anthropogenic contaminants on them remain poorly understood. So, we evaluated the effects of the insecticide fipronil (Regent® 800 WG) on the emergence of dormant invertebrate stages. In a microcosm experiment, we exposed 100 g of dry sediment containing dormant stages to a control and three fipronil concentrations: T1 (41 µg/L), T2 (186 µg/L), and T3 (1,390 µg/L), with five replicates per treatment. We chose these concentrations to investigate aquatic invertebrate toxicity thresholds (T1), peak concentrations reported in Brazilian surface waters near sugarcane fields (T2), and a worst-case scenario (T3). The microcosms were maintained at 25°C under a 12h:12h light/dark photoperiod for 28 days, with sampling every 6 days to assess invertebrate abundance and species richness. Microcrustaceans, ostracods, rotifers, tardigrades, and mites hatched from the resting structures. Fipronil significantly suppressed the emergence of specific taxa when compared to control, particularly microcrustaceans and tardigrades. Treatments T2 and T3 significantly reduced the emergence of Moina minuta, Macrothrix spinosa, and Ostracoda, whereas Ilyocryptus spinifer and tardigrades showed significant inhibition only in T3. Conversely, fipronil had no significant negative effects on total invertebrate abundance, mites, or rotifers. Overall, these findings indicate that fipronil, at initial measured concentrations within (41 and 186 µg a.i./L) and above (1,390 µg a.i./L) the peak values reported for Brazilian surface waters, can reduce the net emergence of microcrustaceans and tardigrades from Neotropical sediment egg banks, with taxon-specific sensitivity. Our results highlight the need to integrate egg bank responses into ecotoxicological risk assessments and standardized toxicity testing protocols.",
+    "species_latin": "Moina minuta",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "氟虫腈会选择性抑制新热带湖泊沉积物休眠卵库中微型甲壳类和缓步类的孵化。",
+    "conclusion": "氟虫腈在巴西地表水峰值浓度及更高浓度下，会显著减少沉积物休眠结构中微型甲壳类（如Moina minuta、Macrothrix spinosa、介形类）和缓步类的净孵化量，且敏感性存在类群差异；对总丰度、螨类和轮虫无显著负面影响。这表明休眠卵库响应应纳入生态毒理风险评估与标准毒性测试。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -11114,6 +11166,58 @@
     "species_zh": "血红扇头蜱",
     "takeaway": "综述2001至2025年50项研究，发现血红扇头蜱群在全球多地已对拟除虫菊酯等多类杀螨剂产生抗性。",
     "conclusion": "血红扇头蜱群在全球广泛分布，因杀螨剂滥用和频繁使用，已在美洲、欧洲、非洲、亚洲多地演化出抗药性，涉及拟除虫菊酯、有机磷、大环内酯、氟虫腈、脒类和氨基甲酸酯等多类药剂。抗性机制包括电压门控钠通道突变，以及氧化酶、酯酶、谷胱甘肽S-转移酶介导的代谢解毒，ABC转运蛋白还参与氟虫腈和伊维菌素的解毒。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42424740",
+    "title": "Evaluation of the effects of domestic tomato processing on biopesticide residue using natural deep eutectic solvents (NADES) extractions",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Reyes-Ávila A, Carbonell-Rozas L, Garrido Frenich A, Romero-González R.",
+    "publish_date": "2026-07-07",
+    "added_at": "2026-10-04",
+    "url": "https://europepmc.org/article/MED/42424740",
+    "doi": "10.1016/j.foodchem.2026.150324",
+    "pmid": "42424740",
+    "abstract": "The present study evaluated the fate of fourteen botanical biopesticides in processed tomato samples. Various processing methods were employed, including washing, dehydration, and the preparation of juice and sauce. The extraction was performed using more sustainable techniques, aimed at minimizing the environmental impact of conventional organic solvents by substituting them with natural deep eutectic solvents (NADES). Solid-liquid extraction (SLE) and dispersive liquid-liquid microextraction with solidification of floating organic drop (DLLME-SFOD) were utilized for solid and liquid tomato samples, respectively. The NADES used was choline chloride:2,3-butanediol (ChClBt) at a 1:4 molar ratio for both techniques, resulting in recovery values ranging from 69.2 to 106.2% for SLE, and extraction efficiencies reaching up to 46.2% for DLLME-SFOD. The impact of these processes was evaluated employing the processing factor (PF), yielding PF values of less than 1 in all cases. Compounds as pyrethrins, azadirachtin, and rotenone persisted after processing, posing a potential consumer risk.",
+    "species_latin": "Solanum lycopersicum",
+    "species_en": "Tomato",
+    "species_zh": "番茄",
+    "takeaway": "研究用天然低共熔溶剂提取番茄加工后14种植物源农药残留，发现加工因子均小于1，但除虫菊素、印楝素和鱼藤酮仍有残留。",
+    "conclusion": "采用天然低共熔溶剂（氯化胆碱:2,3-丁二醇）结合固液萃取与分散液液微萃取，评估番茄清洗、脱水、制汁和制酱对14种植物源农药的影响。所有加工因子均小于1，表明加工可降低残留，但除虫菊素、印楝素和鱼藤酮在加工后仍持续存在，可能对消费者构成风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42415248",
+    "title": "Toxicity of a novel acaricide, bisulflufen, to the two-spotted spider mite Tetranychus urticae",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Li HJ, Chen JC, Peng B, Gong YJ, Wei SJ.",
+    "publish_date": "2026-07-07",
+    "added_at": "2026-10-04",
+    "url": "https://europepmc.org/article/MED/42415248",
+    "doi": "10.1002/ps.70980",
+    "pmid": "42415248",
+    "abstract": "BACKGROUND: The two-spotted spider mite (TSSM), Tetranychus urticae, is a major global agricultural pest that has developed resistance to nearly all acaricides used for its control. This study evaluated the toxicity of bisulflufen, a novel phenyl trifluoroethyl thioether acaricide, against the TSSM. RESULTS: Bisulflufen exhibited high toxicity across all developmental stages of the TSSM, with peak activity observed at 72 h post-application compared with 24 and 48 h. In a laboratory-maintained susceptible strain, the median lethal concentration (LC₅₀) values of bisulflufen at 48 h were 9.61 mg L-1 for female adults (determined as baseline susceptibility), 10.17 mg L-1 for nymphs, and 0.58 mg L-1 for eggs (based on hatch inhibition). Temperatures ranging from 15 to 30 °C did not significantly affect the toxicity of bisulflufen at 48 h. Seven field populations collected across China remained susceptible to bisulflufen (LC₅₀ = 7.34-13.67 mg L-1). However, these populations exhibited high levels of resistance to two commonly used acaricides, cyetpyrafen and bifenazate, with resistance ratios of 1260.5-4898.1-fold and 5.0-671.6-fold, respectively. Field trials demonstrated that 15% bisulflufen SC applied at 150, 100, and 75 mg L-1 effectively controlled the TSSM, achieving efficacies exceeding 99.09% 3 to 14 days post-treatment. CONCLUSION: The baseline susceptibility of TSSM female adults to bisulflufen, established using a laboratory susceptible population, yielded an LC₅₀ of 9.61 mg L-1. Bisulflufen exhibits high intrinsic toxicity and excellent field efficacy against the TSSM, making it a promising tool for managing populations resistant to commonly used acaricides. © 2026 Society of Chemical Industry.",
+    "species_latin": "Tetranychus urticae",
+    "species_en": "two-spotted spider mite",
+    "species_zh": "二斑叶螨",
+    "takeaway": "新型杀螨剂bisulflufen对二斑叶螨各虫态高效,田间防效超99%,且对常用药抗性种群仍敏感。",
+    "conclusion": "以实验室敏感种群建立二斑叶螨雌成螨对bisulflufen的基线敏感性,LC₅₀为9.61 mg L⁻¹;该药对卵、若螨和成螨均具高毒力,15–30°C温度影响不显著,中国七地田间种群仍敏感,而其对cyetpyrafen和bifenazate抗性高达1260.5–4898.1倍和5.0–671.6倍;田间试验中15%悬浮剂在75–150 mg L⁻¹下防效超99%,是治理抗性种群的潜力药剂。",
     "keywords": [
       "新型杀虫剂"
     ],
