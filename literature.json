@@ -22,7 +22,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -651,7 +651,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -860,6 +860,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1093/hr/uhag402",
+    "title": "quarTeT after three years: toolkit updates and community insights for telomere-to-telomere genome assembly",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Horticulture Research",
+    "authors": "Jiarui Sun, Yunzhi Lin, Guocheng Sun, Xueying Hong, Azamat Totikov, Xiaoming Song, Weihua Pan, Yongsheng Liu, Yi Yue, Junyang Yue",
+    "publish_date": "2026-09-28",
+    "added_at": "2026-10-05",
+    "url": "https://doi.org/10.1093/hr/uhag402",
+    "doi": "10.1093/hr/uhag402",
+    "pmid": "",
+    "abstract": "Abstract Since its initial release in 2023, quarTeT has become a widely used toolkit for telomere-to-telomere (T2T) genome assembly and characterization. Here, we present a major update that improves all four quarTeT modules, including optional contig filtering in AssemblyMapper, refactored join algorithm in GapFiller, enhanced telomere detection in TeloExplorer, and support for holocentric chromosomes in CentroMiner. The main program has also been upgraded with user-configurable multithreading, broader version compatibility, and simplified deployment via Bioconda, Docker, and Singularity. Over the past three years, quarTeT has been adopted by 150 research groups in 22 countries and applied to 185 species, including plants, animals, fungi, and one bacterium. These efforts have helped to produce and characterize T2T or near-T2T assemblies across diverse evolutionary lineages. Community-use analysis indicates that TeloExplorer and CentroMiner are the most frequently used modules, whether together or alone, reflecting the central focus on telomeres and centromeres. Benchmarking shows a 13.8% runtime reduction over the original release and superior efficiency over specialized tools (CentIER and CentriVision) across six plant genomes, with competitive or better accuracy. Independent validation using CENH3 ChIP-seq covering diverse centromere types further confirms that quarTeT performs robustly and outperforms existing tools. Finally, we discuss remaining challenges and outline future directions, including machine learning-based centromere prediction, extended support for non-canonical centromere architectures, and the development of new completeness metrics beyond N50. The updated quarTeT toolkit is freely available at https://www.atcgn.com/quartet and https://github.com/aaranyue/quarTeT.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "quarTeT工具包三年更新，优化四大模块并支持全着丝粒染色体，已被22国150个团队用于185个物种的T2T组装。",
+    "conclusion": "更新后的quarTeT在运行效率上较初版提升13.8%，在六种植物基因组中优于CentIER和CentriVision等专用工具，精度相当或更佳；CENH3 ChIP-seq独立验证显示其在不同着丝粒类型中表现稳健。该工具推动了跨进化谱系的T2T或近T2T组装，未来方向包括机器学习着丝粒预测、非经典着丝粒结构支持及N50之外的完整性指标。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
