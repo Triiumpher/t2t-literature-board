@@ -9507,6 +9507,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42612265",
+    "title": "Design, synthesis, anti-oomycete, and anti-fungal activities of novel paeonol derivatives containing carbamate moiety",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioorganic chemistry",
+    "authors": "Fan Z, Guo Y, He J, Liu H, Chen G, Huang X, Tian Y, Zhou L, Che Z.",
+    "publish_date": "2026-08-16",
+    "added_at": "2026-10-05",
+    "url": "https://europepmc.org/article/MED/42612265",
+    "doi": "10.1016/j.bioorg.2026.110404",
+    "pmid": "42612265",
+    "abstract": "Paeonol is the main active ingredient in the Chinese medicinal herb peony root bark. In order to discover new compounds with high efficiency and broad-spectrum pesticide biological activity, twenty novel paeonol carbamate derivatives (1a-c, 2a-c, 3a-c, 4a-c, 5a-c, and 1-5dd') were designed and synthesized by ingeniously introducing carbamate pharmacophores, and their structures were well characterized by 1H NMR, 13C NMR, and HRMS. The stereochemical configurations of two target compounds 2c and 3c were unambiguously subjected to single-crystal X-ray diffraction. Moreover, we evaluated the bioactivities of these target compounds as anti-oomycete and anti-fungal agents against two serious agricultural pathogens, Phytophthora capsici and Fusarium graminearum. Amongst evaluated compounds, (1) Seven target compounds 2a, 2b, 3b, 4b, 5a, 5b, and 5dd' exhibited good anti-oomycete against the plant pathogen P. capsici. (2) Three target compounds 5b, 5c, and 5d,d' displayed good anti-fungal against the plant pathogen F. graminearum. (3) When X = Y = Br and R1 = R2 = Et, the corresponding compound 5b exhibits the best anti-oomycete and anti-fungal activity, with EC50 values of 79.03 mg/L and 42.59 mg/L, respectively. Moreover, some interesting results of structure-activity relationships were also observed. This study provides valuable design ideas and theoretical data for further exploring the preparation and pesticide biological activity of paeonol carbamate derivatives.",
+    "species_latin": "Phytophthora capsici; Fusarium graminearum",
+    "species_en": "Phytophthora capsici; Fusarium graminearum",
+    "species_zh": "辣椒疫霉；禾谷镰刀菌",
+    "takeaway": "以丹皮酚为母核引入氨基甲酸酯药效团合成20个衍生物，其中5b对辣椒疫霉和禾谷镰刀菌活性最佳。",
+    "conclusion": "设计合成的丹皮酚氨基甲酸酯衍生物具有抗卵菌和抗真菌活性，化合物5b（X=Y=Br、R1=R2=Et）对辣椒疫霉和禾谷镰刀菌的EC50分别为79.03和42.59 mg/L，并揭示了初步构效关系，为丹皮酚类农药先导开发提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20260902-greensilencer-dsrna",
     "title": "GreenSilencer：用工程菌“细菌工厂”规模化生产dsRNA，让绿色RNA农药自己长出来",
     "type": "wechat",
@@ -10913,6 +10939,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42485705",
+    "title": "Synthesis, fungicidal activity, and DFT calculation of novel amide derivatives based on the metabolite of cyprodinil",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioorganic chemistry",
+    "authors": "Shen S, Feng S, Cheng J, Cao W, Hu Y, Zhang J, Song J.",
+    "publish_date": "2026-07-19",
+    "added_at": "2026-10-05",
+    "url": "https://europepmc.org/article/MED/42485705",
+    "doi": "10.1016/j.bioorg.2026.110267",
+    "pmid": "42485705",
+    "abstract": "Pesticide metabolites have become important lead sources for the development of new agrochemicals. Cyprodinil is a widely used systemic fungicide, and its major photodegradation metabolite TPs3 remain underexplored. Herein, TPs3 was firstly synthesized, and a series of its novel amide derivatives 7a-7m were designed and prepared. All compounds were evaluated for antifungal activity against four common phytopathogenic fungi. Bioassays showed that derivative 7c exerted excellent inhibitory activity against sclerotinia sclerotiorum, which was comparable to that of commercial cyprodinil. Electrostatic potential (ESP) and density functional theory (DFT) calculations were performed to explore biological activity differences of this TPs3 derivatives at atomic and electronic levels. In silico toxicological prediction suggested that most derivatives presented low toxicity toward non-target organisms. This work not only establishes an effective synthetic method for cyprodinil metabolite TPs3, but also provides a feasible strategy for developing novel fungicides by exploiting pesticide metabolites as lead skeletons.",
+    "species_latin": "Sclerotinia sclerotiorum",
+    "species_en": "Sclerotinia sclerotiorum",
+    "species_zh": "核盘菌",
+    "takeaway": "以杀菌剂嘧菌环胺的光降解代谢物TPs3为先导合成新型酰胺衍生物，其中7c对核盘菌抑菌活性与嘧菌环胺相当。",
+    "conclusion": "研究首次合成嘧菌环胺光降解代谢物TPs3，并据此设计合成一系列新型酰胺衍生物；生物测定表明衍生物7c对核盘菌具有优异抑制活性，与商品化嘧菌环胺相当。结合静电势与密度泛函理论计算，从原子和电子层面解释了衍生物活性差异，毒性预测显示多数衍生物对非靶标生物毒性较低。该工作为农药代谢物作为先导骨架开发新型杀菌剂提供了可行策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42735995",
     "title": "Global genetic diversity and phylogenetic analysis of Pseudolynchia canariensis based on the COI gene with first molecular detection of Wolbachia (wsp and 16S rRNA) from Iran",
     "type": "paper",
@@ -12208,6 +12260,32 @@
     "conclusion": "该研究通过整合基因组与群体数据，提出SV-基因-着丝粒协同进化模型，解释白菜亚种和蔬菜作物在数千年内的快速辐射，并构建高精度泛基因组，为精准育种提供新框架。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-41990509",
+    "title": "Assessing the impact of carbamate insecticide aminocarb on human plasma protein through biophysical and computational methods",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+    "authors": "Singh S, Gopi P, Sharma P, Rani MSS, Singh P, Yadav A, Gupta N, Pandya P, Raza T, Ali MS.",
+    "publish_date": "2026-04-13",
+    "added_at": "2026-10-05",
+    "url": "https://europepmc.org/article/MED/41990509",
+    "doi": "10.1016/j.saa.2026.127907",
+    "pmid": "41990509",
+    "abstract": "Aminocarb (AMC), a highly toxic carbamate insecticide, is widely used in India, leading to significant human exposure and subsequent toxicity. Its structural features enable binding to multiple receptors with varying affinities, thereby influencing the bioavailability of other substances through crucial binding interactions. The impact of AMC on Human Serum Albumin (HSA) was investigated using various spectroscopic and molecular modeling techniques to assess its binding characteristics, conformational flexibility, and structural stability. Fluorescence spectroscopic measurements revealed a static quenching mechanism and moderate binding affinity in the range of 104 M-1 and 104 L M-1 respectively. Thermodynamic assessments indicated that the binding was spontaneous (-22 to -28 KJ mol-1), and entropy-driven (0.27-0.30 KJ mol-1), primarily supported by hydrophobic contacts and van der Waals forces, consistent with the MM/PBSA results. Molecular docking further revealed that AMC binds in subdomain IB of HSA, a finding corroborated by displacement studies and molecular dynamics simulations. Quantum Mechanical analysis of AMC indicated that its electronic charge distribution supports the potential involvement of the pi-charge and dimethylamino moiety in pi-cationic, pi-alkyl, and alkyl-type interactions. This study provides crucial insights into the molecular interactions governing aminocarb-protein binding, contributing to a better understanding of its toxicological profile.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "氨基甲酸酯杀虫剂灭害威通过疏水作用与范德华力结合人血清白蛋白IB亚域，呈静态猝灭与熵驱动。",
+    "conclusion": "灭害威与人血清白蛋白以中等亲和力自发结合，结合位点为IB亚域，主要由疏水接触和范德华力驱动，并呈熵驱动特征；其电子电荷分布提示哌啶电荷与二甲氨基参与阳离子-π、烷基-π等作用。该结果揭示了灭害威-蛋白结合的分子机制，有助于理解其毒理学特征。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
