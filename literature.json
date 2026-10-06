@@ -78,6 +78,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42833553",
+    "title": "Integrating high-resolution proximity labelling with orthogonal interactome benchmarks: Insights from Kinetoplastid systems",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of proteomics",
+    "authors": "Ata A, Ata DT, Tuba Z.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42833553",
+    "doi": "10.1016/j.jprot.2026.105739",
+    "pmid": "42833553",
+    "abstract": "Proximity labelling has progressed from a specialised protein interaction methodology into a pivotal component of modern spatial proteomics. This review presents a comprehensive overview of the technological development of proximity labelling methodologies for mapping proximal protein associations, encompassing first-generation BioID platforms to advanced systems including TurboID, XL-BioID, APEX2 and UltraID. Special emphasis is placed on advances in labelling kinetics, enzyme miniaturisation, conditional activation, and spatial precision. The convergence of proximity labelling with orthogonal tag-free strategies, such as size-exclusion chromatography-mass spectrometry and cross-linking mass spectrometry, is further examined alongside emerging CRISPR-Cas9-based endogenous tagging and artificial intelligence-driven structural prediction frameworks. These complementary strategies are discussed in the context of their potential contribution to reshaping next-generation interactomics. With kinetoplastids as an illustrative model system, reported proximity labelling investigations in Leishmania, Trypanosoma brucei, and Trypanosoma cruzi are systematically consolidated. Critical challenges include parasite-specific biotin metabolism, oxidative stress linked with peroxidase-based labelling, limitations in endogenous tagging, and the extensive dark proteome impeding functional annotation. Next-generation technologies and artificial intelligence-driven interactomics are further explored within kinetoplastid biology, while emphasising their broader potential to combine high-resolution proximity labelling, orthogonal tag-free benchmarking, genome engineering, and artificial intelligence-driven structural analysis across various biological systems, thereby advancing comprehensive interactome mapping and functional proteome annotation. SIGNIFICANCE: Interactomics is a key pillar of systems biology, offering the indispensable functional framework that transforms protein catalogues into dynamic and predictive models of biological systems. To the best of our knowledge, this review represents one of the most comprehensive syntheses integrating all reported proximity labelling implementations in Leishmania, Trypanosoma brucei, and Trypanosoma cruzi up to 2026. Its importance lies in bringing together the development of proximity labelling into a multi-layered methodological framework that now includes robust reference datasets, such as the recently reported large-scale physical interactomes of L. donovani (16,095 interactions) and T. cruzi, generated employing SEC-MS and XL-MS methodologies. Through addressing the \"dark proteome,\" this review positions proximity labelling within a broader multi-modal interactomics framework integrating SEC-MS, XL-MS, and AI-assisted structural modelling, while offering a structured roadmap built around next-generation technologies, including PerTurboID for perturbations, iAPEX for redox challenges, and CRISPR-Cas for physiological tagging. Collectively, these advances may facilitate the development of increasingly predictive and spatially resolved interactome models across complex biological systems.",
+    "species_latin": "Leishmania spp., Trypanosoma brucei, Trypanosoma cruzi",
+    "species_en": "Leishmania, Trypanosoma brucei, Trypanosoma cruzi",
+    "species_zh": "利什曼虫、布氏锥虫、克氏锥虫",
+    "takeaway": "综述邻近标记技术从BioID到TurboID、APEX2等的发展，并以锥虫类为模型整合其相互作用组研究。",
+    "conclusion": "邻近标记已从专门方法发展为空间蛋白质组学核心工具，其与无标签正交策略、CRISPR内源标记及AI结构预测的融合，有望推动下一代相互作用组学；在利什曼虫和锥虫中仍面临生物素代谢、氧化应激和暗蛋白质组等挑战。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42833475",
+    "title": "Hidden in Asopinae venom: a proteo-transcriptomic characterization reveals novel venom protein families in the predatory stink bug, Picromerus lewisi",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insect biochemistry and molecular biology",
+    "authors": "Li W, Du Z, Yang J, Li Z, Tian X, Wang X, Gbeinbo FL, Dauda I, He Y.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42833475",
+    "doi": "10.1016/j.ibmb.2026.104673",
+    "pmid": "42833475",
+    "abstract": "Venoms of predatory heteropterans represent complex cocktails with diverse biological functions. However, studies on their composition and evolutionary background remain limited, particularly within the subfamily Asopinae. This study employed an integrated proteomic and transcriptomic approach to characterize the venom of the predatory stink bug Picromerus lewisi, aiming to address gaps in understanding venom diversity and specialization. Four venom samples were collected: secreted pure venom harvested via harassment (VSH), and homogenates prepared from three dissected venom gland compartments: anterior main gland (AMG), posterior main gland (PMG), and accessory gland (AG). Integrated proteo-transcriptomic analysis identified 472 putative venom proteins, with trypsins (12.7%) being the most abundant family. Notably, 28.0% (132 proteins) were classified as unknown secreted proteins, highlighting substantial unexplored functional diversity. Transcript abundance analysis indicated that the PMG and AMG were the major sites of venom protein transcription, with trypsins and unknown families as major gland-specific components. Clustering analysis identified several previously uncharacterized venom protein families that were detected only in P. lewisi within the comparative datasets. Microinjection-based toxicity assays revealed that all four venom samples induced high lethality in 2nd-instar larvae of Spodoptera litura. Moreover, distinct lethal phenotypes were observed: VSH and AMG homogenate treatments were associated with larval liquefaction and decay, whereas PMG homogenate induced edema and AG homogenate caused marked reductions in mobility accompanied by body contraction. This integrated proteo-transcriptomic analysis characterized the venom of P. lewisi and revealed abundant uncharacterized proteins, thereby not only expanding our knowledge of venom diversity but also providing a useful basis for the discovery of novel insecticidal toxins.",
+    "species_latin": "Picromerus lewisi",
+    "species_en": "predatory stink bug",
+    "species_zh": "刘氏益蝽",
+    "takeaway": "用蛋白组与转录组联用解析捕食性蝽Picromerus lewisi毒液，发现大量未知分泌蛋白及新毒液蛋白家族。",
+    "conclusion": "该研究整合蛋白组与转录组，鉴定出472个候选毒液蛋白，其中胰蛋白酶最多，且28%为功能未知的分泌蛋白；后主腺与前主腺是主要转录位点，并发现该物种特有的新毒液蛋白家族。四种毒液样品对斜纹夜蛾二龄幼虫均高致死，但致死表型各异，为新型杀虫毒素发掘提供了基础。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.1021/acs.jcim.6c01771",
     "title": "GroScore: Automated Scoring of Protein–Protein Interactions Using Bidirectional Steered Molecular Dynamics",
     "type": "paper",
@@ -621,6 +673,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42833028",
+    "title": "Synthesis, DFT, molecular docking, and insecticidal evaluation of new pyrazole-thiazole hydrazones derivatives against Tribolium castaneum",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Computational biology and chemistry",
+    "authors": "El-Tantawy AM, Abd Elaal MY, Fouad MR, Nagwa M A Al-Nagar, Khater I, Elhendawy AT, Metwally MM, Abdel-Ghani GE.",
+    "publish_date": "2026-09-30",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42833028",
+    "doi": "10.1016/j.compbiolchem.2026.109455",
+    "pmid": "42833028",
+    "abstract": "By reacting ethyl-3-oxo-2-(2-(p bromo)hydrazono)butanoate (1) with various α-halocarbonyl compounds, such as ethyl 2-chloro-3-oxobutanoate 3 and ethyl 2-chloro-2-(aryldiazenyl) acetate 5a-d, this work produces a new series of pyrazole-thiazole derivatives 4 and 6a-e. The target compounds' structures were determined and reported using 1H NMR, 13C NMR, FT-IR, and ESI-MS spectroscopy. Additionally, the electrical characteristics of the powerful compounds were investigated through computational study using density functional theory (DFT) at the B3LYP/6-31 G (d,p) level. Atomic net charges and frontier molecular orbital energy were examined. The generated thiazole compounds' insecticidal efficacy was evaluated. Over the course of three time intervals12, 24, and 48 h his study assessed the residual toxicity of eight tested chemicals on adult Tribolium castaneum (floor beetles). Mortality rates and LC50 values at each time point were used to evaluate the effectiveness. The results showed that some compounds, particularly compound 4, which had the lowest LC50 of about 0.43 µg/mL, showed strong and quick hazardous effects within 12 h. The hazardous effects grew over time, with 6e showing the highest efficacy at 24 h with an LC50 of roughly 0.01 µg/mL. Finally, proteins were subjected to molecular docking to ascertain the binding affinity of the investigated compounds. The apo target and its complexes with compounds 6b and 6c were each subjected to a 100 ns molecular dynamics simulation. Molecular docking and molecular dynamics simulations demonstrated that the acetylcholine esterase 6b complex maintained significant stability during the simulation periodThis work addresses finding insecticidal structures with innovative scaffolds that should be safe for the environment and have less of an influence on non-target species and human health a hot topic in contemporary pesticide research is essential.",
+    "species_latin": "Tribolium castaneum",
+    "species_en": "red flour beetle",
+    "species_zh": "赤拟谷盗",
+    "takeaway": "合成新型吡唑-噻唑腙衍生物并经DFT与分子对接评估,对赤拟谷盗成虫具强杀虫活性,化合物6e在24h的LC50约0.01 µg/mL。",
+    "conclusion": "该系列吡唑-噻唑腙类化合物对赤拟谷盗成虫表现出快速且随时间增强的毒杀作用,其中化合物4在12h内即显高效(LC50约0.43 µg/mL),6e在24h活性最强(LC50约0.01 µg/mL);分子对接与100 ns分子动力学模拟显示化合物6b与乙酰胆碱酯酶复合物保持稳定,提示乙酰胆碱酯酶可能是其作用靶标,为开发环境友好、对非靶标生物影响小的新型杀虫先导结构提供了依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -1172,6 +1250,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42832925",
+    "title": "Bacterial extracellular vesicles from Chromobacterium subtsugae and Bacillus thuringiensis as cell-free bioinsecticidal nanocarriers against the soybean pest Euschistus heros",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Microbiological research",
+    "authors": "Cimi ME, Ribeiro DG, Nascimento YO, Dos Reis MCG, Da Silva Ribeiro BB, De Freitas EL, Sales RMM, Lessa CC, Da Costa RA, De Castro MT, Radicchi MA, Bao SN, Fontes W, Pereira RW, Monnerat R, Felipe MS, Oliveira-Jr GP.",
+    "publish_date": "2026-09-26",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42832925",
+    "doi": "10.1016/j.micres.2026.128742",
+    "pmid": "42832925",
+    "abstract": "Bacterial extracellular vesicles (bEVs) are membrane-enclosed nanoparticles that transport bioactive cargo and mediate bacterial interactions. Although increasingly recognized as natural delivery systems, their application in plant pest biocontrol remains poorly explored. Here, we evaluated bEV-enriched and soluble fractions from two entomopathogenic bacteria, Chromobacterium subtsugae and Bacillus thuringiensis var. kurstaki, against the soybean pest Euschistus heros. Preparations were characterized by tunable resistive pulse sensing, nano-flow cytometry, transmission electron microscopy, SDS-PAGE, MALDI-TOF mass spectrometry, and label-free quantitative proteomics. The C. subtsugae bEV-enriched fraction displayed a proteome remodeled relative to its soluble fraction, with enrichment of outer-membrane, secretion-associated, proteolytic, and membrane-active proteins. MALDI-TOF selectively detected a violacein-associated ion in this fraction. At the offered doses, this preparation reduced nymph survival relative to the negative control (HR = 5.56, padj = 0.0003) and its corresponding soluble fraction (HR = 5.56, padj < 0.0001). It also produced greater mortality than the particle-matched B. thuringiensis bEV-enriched fraction (HR = 2.73, padj = 0.0163). Neither B. thuringiensis fraction differed from the negative control after adjustment, and the fractions did not differ from each other (HR = 0.98, padj = 0.9611). A Cry1Ab-like protein was detected mainly in the B. thuringiensis soluble fraction. Together, the insecticidal activity, violacein-associated signal, and differential protein composition of the C. subtsugae preparation support a testable multi-component hypothesis but do not establish causality for specific components or intact vesicles. Mechanistic studies examining cargo depletion, vesicle disruption, reconstitution, and tissue uptake are required to identify the active component or combination.",
+    "species_latin": "Euschistus heros",
+    "species_en": "soybean pest stink bug",
+    "species_zh": "大豆蝽象（大豆害虫）",
+    "takeaway": "比较两种昆虫病原细菌胞外囊泡对大豆害虫的杀虫效果，发现紫色杆菌囊泡富集组分显著降低若虫存活。",
+    "conclusion": "紫色杆菌胞外囊泡富集组分蛋白组发生重塑，富含外膜、分泌、蛋白水解及膜活性蛋白，并检出与紫色杆菌素相关的离子，其杀虫活性显著优于阴性对照、可溶性组分及等颗粒浓度的苏云金芽孢杆菌囊泡组分；但该结果仅支持多组分假说，尚不能确定具体活性成分或完整囊泡的因果作用，需进一步开展机制研究。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -12343,6 +12447,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42097281",
+    "title": "Haplotype-resolved T2T genome assembly of wild Cannabis provides molecular insights into drought tolerance",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Journal of genetics and genomics = Yi chuan xue bao",
+    "authors": "Zhang Y, Guo M, Zi X, Xu Y, Lv P, Li Y, Zhang Q, Yang M, Zhang Y, Khan RM, Chen X.",
+    "publish_date": "2026-05-05",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42097281",
+    "doi": "10.1016/j.jgg.2026.04.020",
+    "pmid": "42097281",
+    "abstract": "",
+    "species_latin": "Cannabis sativa",
+    "species_en": "cannabis",
+    "species_zh": "大麻",
+    "takeaway": "研究完成野生大麻单倍型T2T基因组组装，为解析其耐旱分子机制提供基础。",
+    "conclusion": "该研究构建了野生大麻的单倍型解析T2T基因组，为从分子层面研究大麻耐旱性提供了高质量参考基因组，有助于后续鉴定耐旱相关基因与机制。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42689311",
     "title": "Telomere-to-telomere genome of Phoebe chekiangensis reveals that age-dependent CHG hypomethylation promotes floral transition via MADS-box gene activation",
     "type": "paper",
@@ -12416,6 +12546,32 @@
     "conclusion": "灭害威与人血清白蛋白以中等亲和力自发结合，结合位点为IB亚域，主要由疏水接触和范德华力驱动，并呈熵驱动特征；其电子电荷分布提示哌啶电荷与二甲氨基参与阳离子-π、烷基-π等作用。该结果揭示了灭害威-蛋白结合的分子机制，有助于理解其毒理学特征。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-41962862",
+    "title": "A near-complete T2T genome assembly reveals a depleted immune repertoire as the genetic cause of endangerment in Carya poilanei",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Journal of genetics and genomics = Yi chuan xue bao",
+    "authors": "Zhou Y, Ye J, Chen Y, Yang R, Hong J, Ye X, Hu J, Xia G, Xu C, Huang Y.",
+    "publish_date": "2026-04-08",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/41962862",
+    "doi": "10.1016/j.jgg.2026.04.002",
+    "pmid": "41962862",
+    "abstract": "",
+    "species_latin": "Carya poilanei",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究完成Carya poilanei近完整T2T基因组组装，发现其免疫基因库缩减是濒危的遗传原因。",
+    "conclusion": "通过近完整T2T基因组组装，揭示该物种免疫相关基因家族明显减少，提示免疫能力下降可能是其濒危的重要遗传基础，为保护遗传学提供依据。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
     "llm_enhanced": true
