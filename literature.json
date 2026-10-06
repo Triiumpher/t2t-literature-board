@@ -1,5 +1,109 @@
 [
   {
+    "id": "pmid-42832582",
+    "title": "The effect of ULV-based mosquito control on target and non-target organisms in Hungary: An experimental field study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Garamszegi LZ, Nagy G, Klein Á, Szentiványi T, Vásárhelyi Z, Markó G, Zsebők S, Soltész Z.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42832582",
+    "doi": "10.1371/journal.pntd.0014140",
+    "pmid": "42832582",
+    "abstract": "Ultra-low volume (ULV) insecticide spraying with deltamethrin as the active ingredient is widely used in mosquito control programs, yet its effectiveness against target mosquitoes and its ecological side effects remain poorly quantified under field conditions in Central Europe. Here, we experimentally evaluated the short-term impact of ground ULV spraying (using deltamethrin + Chrysanthemum cinerariaefolium extract) on both mosquito populations and non-target flying insects in Hungary using a paired before-after-control-impact (BACI) design. Mosquitoes were sampled with BG Sentinel traps, while non-target insects were collected using malaise traps. ULV treatment resulted in a significant reduction in mosquito abundance at treated sites, with an average decline of approximately 47%. Native and invasive mosquito species, including Aedes albopictus and Aedes koreicus, showed similar proportional decreases. However, treatment effectiveness varied substantially among sites and was influenced by initial mosquito abundance and wind conditions. In parallel, malaise trap samples revealed a marked decline in non-target flying insects, with reductions exceeding 40% across multiple taxonomic groups, particularly among small and medium-sized insects, and also when considering pollinator taxa together. Our results indicate that while ULV spraying can temporarily reduce mosquito abundance, it also imposes considerable short-term impacts on non-target insect communities, highlighting trade-offs between vector control and insect conservation within mosquito management programs.",
+    "species_latin": "Aedes albopictus, Aedes koreicus",
+    "species_en": "Asian tiger mosquito, Korean mosquito",
+    "species_zh": "白纹伊蚊、朝鲜伊蚊",
+    "takeaway": "匈牙利实地实验表明，ULV喷洒菊酯类杀虫剂使蚊虫减少约47%，但非靶标飞行昆虫也下降超40%。",
+    "conclusion": "地面ULV喷洒可短期显著降低蚊虫丰度，且对本地与入侵蚊种（如白纹伊蚊、朝鲜伊蚊）效果相似，但效果受初始蚊量和风速影响；同时非靶标飞行昆虫、尤其是中小型昆虫及传粉类群明显减少，说明蚊虫防控在控蚊与昆虫保护之间存在权衡。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42831669",
+    "title": "Biomimetic materials for sustainable microbial pesticide formulations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Materials horizons",
+    "authors": "Zhang Y, Chen M, Li Y, Wang Z, Tian X, Kong J, Yang P.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42831669",
+    "doi": "10.1039/d6mh01353h",
+    "pmid": "42831669",
+    "abstract": "Microbial pesticides offer a sustainable alternative for crop protection due to their target specificity, low resistance risk, and environmental compatibility. However, their practical application is hindered by poor environmental tolerance to ultraviolet radiation, high temperature, and desiccation, as well as short shelf life and inadequate foliar retention. Traditional formulations such as wettable powders and suspension concentrates often provide limited protection or controlled release. Biomimetic materials inspired by natural structures including biofilms, plant cell walls, and mussel adhesive proteins have been developed to address these bottlenecks. This review introduces the design principles, carrier types (polysaccharides, proteins, synthetic polymers, and biomineralized frameworks such as metal-organic frameworks), and preparation strategies of biomimetic systems for microbial pesticides. These materials enhance resistance to environmental stresses, enable stimuli-responsive controlled release triggered by pH or pathogen secreted enzymes, improve adhesion and colonization on hydrophobic crop surfaces, and extend storage stability. This review also discusses safety concerns, including toxicological evaluation, environmental fate, ecological risks, and impacts on non-target organisms, and provides a thorough analysis of current challenges related to cost effective production, scalability, and the lack of standardized safety assessment frameworks. Future research should urgently focus on biodegradable, biocompatible, and intelligently responsive biomimetic carriers; systematically evaluate the long-term degradation behavior and fate of biomimetic carriers in real agricultural environments; and establish scalable evaluation indicator systems for industrial production, thereby bridging the gap between laboratory research and field applications.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述仿生材料如何提升微生物农药抗逆性、控释与叶面附着,并指出其安全评估与规模化瓶颈",
+    "conclusion": "仿生材料借鉴生物膜、植物细胞壁和贻贝黏附蛋白等天然结构,以多糖、蛋白、合成聚合物及金属有机框架等为载体,可增强微生物农药对紫外、高温和干燥的耐受性,实现pH或病原酶触发的控释,改善疏水叶面黏附定殖并延长货架期。当前挑战在于低成本生产、可放大性及缺乏标准化安全评估框架,未来需聚焦可降解、生物相容且智能响应的载体,并系统评估其在真实农田中的长期降解与环境归趋。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42831320",
+    "title": "Multidimensional behavioral profiling uncovers centrifugal hyperactivity induced by the neonicotinoid dinotefuran in Drosophila melanogaster",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",
+    "authors": "Wu R, Shen J.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42831320",
+    "doi": "10.1080/03601234.2026.2740562",
+    "pmid": "42831320",
+    "abstract": "Dinotefuran is a widely used third-generation neonicotinoid insecticide, yet its sublethal effects on non-target insect behavior remain poorly resolved. We used the deep-learning tracking framework SLEAP to quantify locomotor and spatial responses of Drosophila melanogaster larvae after 72 h of exposure to nominal dinotefuran concentrations of 0, 10, 50, and 100 μM. Kinematics, velocity distributions, trajectory geometry, spatial redistribution, inter-individual spacing, and principal component analysis (PCA) were integrated. Compared with control larvae, larvae exposed to 50 and 100 μM dinotefuran showed increases in mean linear velocity, respectively, spent a greater proportion of the recording time in the high-speed range, and explored a larger area. Although mean angular velocity did not differ significantly among groups, exposed larvae spent more time at low angular velocities and less time at medium-to-high angular velocities. Exposure increased trajectory straightness, radius of gyration, mean squared displacement, outward redistribution, and inter-individual spacing. PCA supported this multivariate response: PC1 and PC2 explained 52.1% and 16.6% of the variance, and the higher-concentration groups shifted toward higher PC1 scores associated with locomotor activity and spatial exploration. These findings show that dinotefuran alters multiple dimensions of larval behavior and support high-resolution behavioral profiling for assessing sublethal pesticide effects.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "用SLEAP追踪发现呋虫胺使果蝇幼虫运动加快、轨迹变直、向外扩散并增大个体间距。",
+    "conclusion": "呋虫胺亚致死暴露会多维度改变果蝇幼虫行为：50与100 μM组线速度升高、高速运动时间占比增加、探索范围扩大，轨迹更直、回转半径与均方位移增大，并出现向外重分布和个体间距加大；角速度均值虽无显著差异，但低速停留增多。PCA显示高浓度组沿代表运动与空间探索的PC1方向偏移，表明该农药可引发离心性活动亢进，也说明高分辨率行为谱可用于评估亚致死农药效应。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1021/acs.jcim.6c01771",
+    "title": "GroScore: Automated Scoring of Protein–Protein Interactions Using Bidirectional Steered Molecular Dynamics",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of Chemical Information and Modeling",
+    "authors": "Jan Walther Perthold, Dražen Petrov, Chris Oostenbrink",
+    "publish_date": "2026-10-03",
+    "added_at": "2026-10-06",
+    "url": "https://doi.org/10.1021/acs.jcim.6c01771",
+    "doi": "10.1021/acs.jcim.6c01771",
+    "pmid": "",
+    "abstract": "Abstract GroScore is an open-source Python toolkit that automates the scoring of protein–protein structures using bidirectional steered molecular dynamics (SMD) simulations with explicit solvent. Building on a previously published unidirectional pulling approach, the current version introduces bidirectional pulling (unbinding and rebinding), interface cutout for reduced computational cost, support for three force fields (AMBER19SB, CHARMM36m, GROMOS 54A8), and automated handling of small molecules and noncanonical amino acids (using OpenFF), structural ions, and crystal waters. GroScore integrates with GROMACS and SLURM for high-performance computing and is validated on protein–protein affinity benchmarks, showing significant correlation between computed scores and experimental binding affinities across all tested force fields. The software is freely available at https://github.com/jwperthold/GroScore under the MIT License.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "GroScore 是一款开源工具，用双向牵引分子动力学自动给蛋白-蛋白结构打分，得分与实验结合亲和力显著相关。",
+    "conclusion": "该工具在原有单向牵引方法基础上引入解离与再结合的双向牵引，并加入界面截取、三种力场支持以及对小分子、非标准氨基酸、结构离子和晶体水的自动处理，借助 GROMACS 与 SLURM 实现高性能计算。在蛋白-蛋白亲和力基准上验证显示，其计算得分与实验结合亲和力在所有测试力场下均显著相关，为蛋白复合物亲和力预测提供了自动化、低成本且可扩展的方案。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42829199",
     "title": "Plant-mediated RNAi via Panonychus citri-derived miRNAs disrupts adult emergence and confers mite resistance",
     "type": "paper",
@@ -49,6 +153,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42829973",
+    "title": "Trypsinogen Pro-Region as a Molecular Scaffold for the Design of Competitive Peptide Inhibitors of Trypsin-Like Proteases",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Archives of insect biochemistry and physiology",
+    "authors": "Mariano GA, de Oliveira JVA, Andrade RJ, Paulo DGS, Cabrera YBM, Santos EGDD, Santos ILB, Lima MG, Summy MJ, Brustolini OJB, da Silva Júnior NR, Ramos HJO, de Almeida Oliveira MG.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-06",
+    "url": "https://europepmc.org/article/MED/42829973",
+    "doi": "10.1002/arch.70224",
+    "pmid": "42829973",
+    "abstract": "Soybean (Glycine max L. Merrill) productivity is severely impacted by the velvetbean caterpillar Anticarsia gemmatalis Hübner, 1818 (Lepidoptera: Erebidae), a major defoliating pest in soybean-producing regions. Current management strategies rely heavily on chemical insecticides, which are associated with environmental risks and the development of resistance. Protease inhibitors have emerged as a promising alternative, as protein digestion in lepidopteran larvae is primarily mediated by trypsin-like serine proteases. In this context, the rational design of short inhibitory peptides represents a potential strategy for developing selective and environmentally safer pest control agents. This study introduces the regulatory pro-region of trypsinogen as a previously underexplored scaffold for the rational design of competitive peptide inhibitors targeting digestive trypsin-like enzymes in agricultural insect pests. Fifteen peptides derived from the trypsinogen pro-region were initially screened in silico against A. gemmatalis trypsin-like enzymes. Molecular docking analyses revealed favorable binding energies and interactions with residues located in the catalytic region. Among the candidates, the peptide Pep12 (designated GORE3) was selected for further optimization by substituting amino acids at the P1 position, yielding the analogs GORE4 and GORE5. Enzyme inhibition assays with bovine trypsin and partially purified A. gemmatalis trypsin-like enzymes demonstrated that all peptides are competitive inhibitors. The inhibition constants (Ki) obtained for A. gemmatalis enzymes were 1.80 mM for GORE3, 1.63 mM for GORE4, and 0.78 mM for GORE5, with GORE5 exhibiting the lowest Ki among the evaluated peptides, although its inhibitory affinity remained within the millimolar range. Collectively, these findings underscore the potential of trypsinogen-derived peptides as promising scaffolds for developing peptide-based inhibitors targeting insect digestive proteases.",
+    "species_latin": "Glycine max",
+    "species_en": "Soybean",
+    "species_zh": "大豆",
+    "takeaway": "以胰蛋白酶原前导区为骨架设计肽类抑制剂，其中GORE5对大豆夜蛾胰蛋白酶样酶抑制最强。",
+    "conclusion": "研究证明胰蛋白酶原前导区可作为设计竞争性肽抑制剂的分子骨架，通过P1位点氨基酸替换可提升抑制活性；GORE5对Anticarsia gemmatalis胰蛋白酶样酶的Ki最低（0.78 mM），但抑制亲和力仍处毫摩尔级，为开发靶向害虫消化蛋白酶的环保型防控剂提供了新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
