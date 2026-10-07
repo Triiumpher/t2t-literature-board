@@ -26,6 +26,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42837834",
+    "title": "Efficacy of Flavocide™ against Ixodes scapularis (Acari: Ixodidae) nymphs in an adaptable phenocosm test arena",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ticks and tick-borne diseases",
+    "authors": "Murgia MV, Sherpa P, Gast B, Bliven K, Hill CA.",
+    "publish_date": "2026-10-06",
+    "added_at": "2026-10-07",
+    "url": "https://europepmc.org/article/MED/42837834",
+    "doi": "10.1016/j.ttbdis.2026.102710",
+    "pmid": "42837834",
+    "abstract": "Ticks are agents causing tick-borne diseases (TBDs) in the United States, with the blacklegged tick (Ixodes scapularis Say) posing particular concern. Synthetic acaricides remain an important approach for tick control and TBDs prevention. However, increasing public concern and emerging acaricide resistance highlight the need for alternative products. In this study, we evaluated the efficacy of an undiluted oil-in-water emulsion of Flavocide™ (FLC-EW; 50% AI), a nature-identical active with a novel mode of action, in comparison with two commercial standards: Talstar-P, a pyrethroid product, and Outdoor Pest Control (OPC), a natural product, against I. scapularis nymphs under laboratory conditions. To assess both product efficacy and tick behavior, we developed a portable test arena (\"Phenocosm\") capable of incorporating substrates (leaf litter, mulch, and turfgrass) simulating natural tick habitats. In contact assays, preliminary assessment of FLC-EW indicated significantly higher mortality than Talstar-P at 24 and 48 hrs post-exposure (PE), despite lower knockdown (KD) at 1 hr PE. FLC-EW exhibited residual activity through four weeks. OPC exhibited only repellency against I. scapularis nymphs. Tick viability assays without acaricide indicated tick survival above 80% at week four in Phenocosms with leaf litter and mulch, and 78% in turfgrass at week three. Overall, >55% of ticks were consistently found sheltering on or beneath substrates with implications for acaricide applications. These findings suggest the acaricidal potential of FLC-EW and support further studies to assess its efficacy at lower AI concentrations. Additionally, they highlight the Phenocosm as a versatile test arena for assessing acaricide efficacy and tick behavior.",
+    "species_latin": "Ixodes scapularis",
+    "species_en": "blacklegged tick",
+    "species_zh": "黑腿蜱",
+    "takeaway": "新型天然等同杀螨剂Flavocide乳剂对黑腿蜱若虫致死率高且持效四周，优于合成菊酯对照。",
+    "conclusion": "Flavocide乳剂在接触试验中24、48小时致死率显著高于合成菊酯Talstar-P，且持效达四周，虽击倒速度较慢；天然产品OPC仅表现驱避作用。研究还表明多数蜱藏匿于基质表面或下方，提示施药需考虑此行为，并支持进一步测试更低有效成分浓度。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42832582",
     "title": "The effect of ULV-based mosquito control on target and non-target organisms in Hungary: An experimental field study",
     "type": "paper",
@@ -868,6 +894,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42837784",
+    "title": "Bimetallic FeZr-MOF with enhanced peroxidase activity via Fe-O-Zr bridging electronic synergistic effects: a three-channel sensor for organophosphorus pesticide recognition",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Talanta",
+    "authors": "Xu M, Men S, Zheng K, Tian M.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-10-07",
+    "url": "https://europepmc.org/article/MED/42837784",
+    "doi": "10.1016/j.talanta.2026.130710",
+    "pmid": "42837784",
+    "abstract": "Organophosphorus pesticides present a notable risk to public health, making it essential to develop swift and dependable analytical techniques for food safety, yet conventional single-channel colorimetric sensors face great challenges in discriminating multiple structurally similar pesticides with high accuracy. To address these issues, a Fe-Zr bimetallic metal-organic framework nanozyme with prominently enhanced peroxidase activity was synthesized via a one-step solvothermal method. The intermetallic electron transfer through Fe-O-Zr bridges accelerates the reversible Fe3+/Fe2+ redox cycle; with a Michaelis-Menten constant (Km) of 0.11 mM for H2O2 and a maximum reaction rate (Vmax) of 9.95 × 10-8 M s-1, its catalytic efficiency outperforms monometallic analogues and the majority of previously reported MOF-based nanozymes. On this basis, a three-channel sensor array integrating absorbance, smartphone-based RGB colorimetric and photothermal signals was constructed, coupled with principal component analysis (PCA) and hierarchical cluster analysis (HCA) for chemometric pattern recognition. The sensor works effectively over a wide concentration range (5-200 μM), with excellent interference resistance and satisfactory recoveries (94.2%-107.4%) in real samples. Most importantly, the Fe-O-Zr bridging synergistic strategy offers a new approach to enhance MOF peroxidase activity, while the multi-channel architecture mitigates the limitation of single-channel sensors in differentiating similar pesticides, supporting reliable on-site food safety and environmental monitoring.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "FeZr双金属MOF经Fe-O-Zr桥增强过氧化物酶活性，构建三通道传感器识别有机磷农药。",
+    "conclusion": "Fe-O-Zr桥促进Fe3+/Fe2+循环，使双金属MOF纳米酶催化效率优于单金属及多数已报道MOF纳米酶；结合吸光度、RGB比色与光热三通道信号及PCA、HCA分析，可在5-200 μM范围高抗干扰识别结构相似的有机磷农药，实样回收率94.2%-107.4%，为现场食品安全与环境监测提供新策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
