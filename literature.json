@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42837003",
+    "title": "Genetic enhancement of pearl millet against Helicoverpa armigera expressing the entomotoxic Cocculus hirsutus trypsin inhibitor",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Planta",
+    "authors": "Sahu A, Yadav R, Sanyal I.",
+    "publish_date": "2026-10-06",
+    "added_at": "2026-10-07",
+    "url": "https://europepmc.org/article/MED/42837003",
+    "doi": "10.1007/s00425-026-05185-7",
+    "pmid": "42837003",
+    "abstract": "Expression of Cocculus hirsutus trypsin inhibitor (ChTI) gene in pearl millet via Agrobacterium-mediated transformation exhibited reduced damage and enhanced resistance by suppressing the growth and survival of Helicoverpa armigera. Cocculus hirsutus trypsin inhibitor (ChTI), a serine proteinase inhibitor, was isolated from the medicinal plant Cocculus hirsutus belonging to the family Menispermaceae. It is an 18 kDa thermotolerant monomeric protein with insecticidal activity against Helicoverpa armigera and other insect pests. To enhance pearl millet (Pennisetum glaucum L.) tolerance to Helicoverpa armigera (ear head worm), the ChTI gene encoding a protease inhibitor was introduced into pearl millet via genetic transformation. EHA105, a super virulent Agrobacterium tumefaciens strain carrying a binary vector driven by the CaMV35S promoter and terminated by the nos terminator (nosT), was used to develop transgenic plants. T1 events were screened by PCR using gene-specific primers, yielding a 383 bp amplicon. Quantitative expression of the ChTI gene by qRT-PCR analysis showed a 2-8-fold change in the T1 progeny. T1 plants expressing ChTI showed higher trypsin inhibitor activity than non-transgenic controls. Insect bioassay of transgenic plants against H. armigera showed a 60% mortality and 76.5% reduction in weight gain with less feeding damage compared to the non-transgenic control leaf. The transgenic pearl millet plants exhibited reduced damage and consequently lower ROS accumulation, as confirmed by DAB and NBT staining, thereby conferring enhanced tolerance to H. armigera.",
+    "species_latin": "Pennisetum glaucum",
+    "species_en": "pearl millet",
+    "species_zh": "珍珠粟",
+    "takeaway": "通过农杆菌介导将ChTI基因导入珍珠粟，转基因植株显著抑制棉铃虫生长并增强抗虫性。",
+    "conclusion": "从药用植物Cocculus hirsutus中分离的丝氨酸蛋白酶抑制剂ChTI基因经农杆菌转化导入珍珠粟，T1代植株表达量提高2-8倍，胰蛋白酶抑制剂活性增强。生物测定显示棉铃虫死亡率达60%、体重增长减少76.5%，叶片损伤减轻，ROS积累降低，表明该基因可有效提升珍珠粟对棉铃虫的抗性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42832582",
     "title": "The effect of ULV-based mosquito control on target and non-target organisms in Hungary: An experimental field study",
     "type": "paper",
@@ -130,6 +156,40 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261007-insilico-insecticide-review",
+    "title": "基于分子对接与计算模拟的杀虫剂发现及毒理学评估研究进展",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（编译自 Results in Chemistry）",
+    "authors": "",
+    "publish_date": "2026-10-03",
+    "added_at": "2026-10-07",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261003000610158.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "该综述批判性评估分子对接、虚拟筛选、药效团建模、同源建模、分子动力学与早期ADMET/毒性分诊在杀虫剂发现流程中的应用，按内分泌调节因子（蜕皮激素受体、保幼激素轴）、神经靶标（钠通道、nAChR、GABA/谷氨酸受体）、消化蛋白酶及植物源化学型等类别梳理证据，并讨论建模如何预测抗药性与生态选择性。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "分子对接是稳健的假说生成工具，但单独使用并不充分，须结合分子动力学/自由能计算与酶动力学、表达特征和生物体生物测定等正交验证。",
+    "conclusion": "计算模拟可有效支持先导化合物优先筛选、结构优化、靶标预测与早期毒理评估，但对接评分无法区分激动与拮抗、也不能直接预测药效与选择性；应推行标准化报告、系统构象验证、早期正交测定、针对抗性变体与非靶标物种的测试及数据共享，并纠正结构导向设计过度集中于少数模式害虫的分类学偏差。",
+    "keywords": [
+      "杀虫剂",
+      "分子对接",
+      "虚拟筛选",
+      "分子动力学",
+      "ADMET",
+      "毒理学",
+      "抗药性",
+      "作用靶标",
+      "计算农药学",
+      "植物源农药",
+      "生态选择性"
+    ]
+  },
+  {
     "id": "doi-10.1021/acs.jcim.6c01771",
     "title": "GroScore: Automated Scoring of Protein–Protein Interactions Using Bidirectional Steered Molecular Dynamics",
     "type": "paper",
@@ -205,6 +265,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42830538",
+    "title": "Genome Evolution in Social Insects",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Genome biology and evolution",
+    "authors": "Barkdull M, Moreau CS.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-07",
+    "url": "https://europepmc.org/article/MED/42830538",
+    "doi": "10.1093/gbe/evag221",
+    "pmid": "42830538",
+    "abstract": "Sociality is a complex phenotype which has evolved multiple times across the tree of life, particularly in the insects. Insect sociality likely arises via the evolution of the genome, with changes in specific genes, gene families, and gene regulatory mechanisms linked to social traits. In turn, sociality itself can influence patterns of genome evolution through the effects of smaller effective population sizes, longer generation times, and reproductive division of labor. Moreover, particular social insect lineages have some noteworthy genome features which may influence both trait and genome evolution, including elevated recombination rates, haplodiploidy, and supergenes. This review explores the genomic causes and consequences of social traits in insects, emphasizing the importance of using evolutionary perspectives to study these processes across diverse social lineages.",
+    "species_latin": "",
+    "species_en": "social insects",
+    "species_zh": "社会性昆虫",
+    "takeaway": "综述社会性昆虫基因组演化，指出社会性状与基因组互为因果，受重组率、单倍二倍体等特征影响。",
+    "conclusion": "昆虫社会性可能源于特定基因、基因家族及调控机制的演化；社会性又通过较小有效种群、较长世代和生殖分工反过来塑造基因组演化。部分社会性昆虫的高重组率、单倍二倍体和超基因等特征同时影响性状与基因组演化，需从演化视角跨谱系研究。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -2811,6 +2897,42 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261007-asm-annotation-standards",
+    "title": "迈向高质量基因组：组装与注释的标准、挑战及策略",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通（编译自 Journal of Systematics and Evolution）",
+    "authors": "",
+    "publish_date": "2026-09-17",
+    "added_at": "2026-10-07",
+    "url": "https://m.ebiotrade.com/newsf/2026-9/20260917001437287.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "该综述系统总结当前主要测序技术与基因组组装、注释策略，提出高质量基因组应满足连续性、完整性、正确性的“3C”标准；结合端粒到端粒（T2T）组装，讨论端粒、着丝粒、核仁组织区等复杂结构区域的恢复与QV、BUSCO、LAI、AQI等质量评估指标，并给出应对高重复、高杂合与多倍体基因组的实用策略。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "高质量基因组需同时满足连续性、完整性与正确性，T2T时代应重点验证端粒、着丝粒等复杂区域并整合多技术完成组装与注释。",
+    "conclusion": "高质量基因组要求组装具备高连续性、高完整性和高准确性，并对蛋白编码基因及功能元件进行全面精确注释；通过组装前基因组调查、合理搭配HiFi/超长ONT读长与Hi-C/Pore-C数据、迭代优化组装并整合多种注释方法，可系统克服重复序列、杂合性与多倍化造成的困难。",
+    "keywords": [
+      "基因组组装",
+      "基因组注释",
+      "T2T",
+      "端粒到端粒",
+      "3C标准",
+      "长读长测序",
+      "HiFi",
+      "ONT",
+      "Hi-C",
+      "重复序列",
+      "BUSCO",
+      "着丝粒",
+      "端粒"
+    ]
   },
   {
     "id": "pmid-42793034",
