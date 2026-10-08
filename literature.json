@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42842589",
+    "title": "Vector competence for dengue-2 virus of permethrin resistant/ susceptible Aedes aegypti sub-populations from selected sites in Lamu County, Kenya",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PloS one",
+    "authors": "Qureish KS, Mulwa F, Odinga R, Yalwala S, Lutomiah J, Bargul JL, Kellar GG, Eads J, Eyase F.",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-08",
+    "url": "https://europepmc.org/article/MED/42842589",
+    "doi": "10.1371/journal.pone.0359810",
+    "pmid": "42842589",
+    "abstract": "Dengue virus, primarily transmitted by Aedes aegypti mosquitoes, is endemic in Lamu County. There is currently no definitive treatment for dengue; therefore, vector control remains the most effective method to curb transmission. Prolonged exposure of Ae. aegypti to insecticides may confer resistance. This study aimed to determine the levels of resistance to permethrin, a commonly used insecticide, and to compare the vectorial competence and genetic differences of resistant versus susceptible populations for dengue-2 virus. Ae. aegypti mosquitoes were collected from Lamu (Shela, Hindi, and Mokowe) using traps and assayed for permethrin resistance/ susceptibility. WHO insecticide resistance assays were conducted. The mosquitoes (F2) were exposed to dengue-2 infectious bloodmeals and fully engorged mosquitoes selected, incubated for up to 21 days, and tested for infection and dissemination by plaque assay. Individual legs were dissected from 31 female (F0) mosquitoes for isolation of genomic DNA. Polymerase Chain Reaction was used to amplify the target mitochondrial DNA using HCO2198 and LCO1490 primers. The amplicons were Sanger sequenced to determine genetic diversity. The Shela sub-population displayed susceptibility (>98% mortality), whereas the Hindi and Mokowe sub-populations exhibited resistance, with mortality rates of 47% and 37.6%, respectively. Of the mosquitoes from Hindi (n = 60); Mokowe (n = 90); and Shela (n = 130), n = 14 (23%), n = 24 (27%), and n = 40 (31%) respectively, had midgut infections with dengue-2; while n = 12 (20%), n = 11 (12%), and n = 21 (16%) respectively had disseminated infection. Genetic analysis showed that all the samples were Ae. aegypti formosus sub-species. Haplotype diversity was high at 1.0 while nucleotide diversity was low at 0.01184. These findings suggest Ae. aegypti formosus sub-species is prevalent in Lamu County. The study also demonstrated high infection and dissemination rates among the Ae. aegypti sub- populations.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "肯尼亚拉穆县埃及伊蚊对溴氰菊酯抗性与登革2型病毒感染/扩散能力及遗传多样性比较",
+    "conclusion": "拉穆县Shela亚群对溴氰菊酯敏感，Hindi和Mokowe亚群抗性明显；三个亚群均对登革2型病毒易感且可扩散感染，其中Shela感染率最高。所有样本均为埃及伊蚊formosus亚种，单倍型多样性高而核苷酸多样性低，提示抗性未削弱媒介效能，防控需兼顾抗性治理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42839371",
+    "title": "A novel elicitor confers apple resistance to Glomerella cingulata through modulation of flavonoid metabolic pathways",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Cui X, Yang M, Wang Y, Lian S, Ren W, Li P, Liu N, Li B, Zhang Y, Wang C.",
+    "publish_date": "2026-10-06",
+    "added_at": "2026-10-08",
+    "url": "https://europepmc.org/article/MED/42839371",
+    "doi": "10.1002/ps.71356",
+    "pmid": "42839371",
+    "abstract": "BACKGROUND: Apple is a globally vital economic crop severely damaged by Glomerella leaf spot (GLS) caused by Glomerella cingulata. Current disease management relies heavily on chemical fungicides, but long-term intensive application has triggered pathogen resistance, weakened control efficacy, aggravated pesticide residues and environmental contamination, and severely restricted the sustainable development of the apple industry. This study systematically investigated the disease resistance-inducing potential of 3,6-bis(1-methylpropyl)-2,5-piperazinedione (BMP), a functional metabolite from plant endophytes. RESULTS: BMP induced strong resistance against G. cingulata in detached apple leaves. Exogenous application of 0.1 μg mL-1 BMP reduced leaf lesion counts by 58.46% at the early GLS stage, persistently alleviated fruit disease severity and simultaneously promoted seedling root development and biomass accumulation. It functions by enhancing core defense enzyme activities and defense-related gene expression, boosting flavonoid synthesis via down-regulating MdMYB16 and establishing a multi-layered defense system. CONCLUSION: This work provides a novel strategy for apple disease management. It can reduce pesticide use, lower environmental impact, and improve fruit quality and safety, which fits the development concept of green agriculture and holds favorable application prospects. © 2026 Society of Chemical Industry.",
+    "species_latin": "Malus domestica",
+    "species_en": "Apple",
+    "species_zh": "苹果",
+    "takeaway": "苹果内生菌代谢物BMP通过下调MdMYB16促进类黄酮合成，诱导对胶孢炭疽菌的抗性。",
+    "conclusion": "BMP是一种新型植物内生菌来源诱抗剂，可增强苹果防御酶活性与防御基因表达，并通过下调MdMYB16促进类黄酮合成，构建多层防御体系，显著减轻苹果炭疽叶斑病和果实病害，同时促进幼苗生长，为苹果绿色病害防控提供新策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42837003",
     "title": "Genetic enhancement of pearl millet against Helicoverpa armigera expressing the entomotoxic Cocculus hirsutus trypsin inhibitor",
     "type": "paper",
@@ -49,6 +101,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1002/imo2.70144",
+    "title": "Sorghum T2T pangenome highlights comprehensive genomic variation",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "iMetaOmics.",
+    "authors": "Lihua Wang, Chuanzheng Wei, Hope O. Okunbor, Xiaofei Deng, Die Hu, Yongfei Wang, Yongfei Wang, Junli Du, Ephrem Habyarimana, Yongfu Tao, Yi‐Hong Wang, Yi‐Hong Wang, Jieqin Li",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-08",
+    "url": "https://doi.org/10.1002/imo2.70144",
+    "doi": "10.1002/imo2.70144",
+    "pmid": "",
+    "abstract": "Three newly assembled telomere-to-telomere (T2T) genomes representing wild, landrace, and transformable germplasm were integrated with seven publicly available T2T genomes to construct a graph-based pangenome. Comparative analyses revealed extensive centromere divergence, including distinct CEN137 monomer and CEN274 dimer organization, and showed that conserved noncoding sequences (CNSs) are more abundant around core genes than dispensable genes. Although TE composition was highly conserved across genomes, individual transposable element (TE) families exhibited substantial copy number variation. TE-based Genome-wide association study (GWAS) identified a Long Terminal Repeat (LTR)/Gypsy insertion upstream of Tx430Chr5G00146410 associated with increased gene expression and grain yield per plant. Heterologous overexpression of Tx430Chr5G00146410 in Setaria viridis further supported its role in regulating yield-related traits.",
+    "species_latin": "Sorghum bicolor",
+    "species_en": "Sorghum",
+    "species_zh": "高粱",
+    "takeaway": "构建高粱T2T图形泛基因组，揭示着丝粒分化与转座子拷贝数变异，并锁定一个调控产量的LTR/Gypsy插入。",
+    "conclusion": "研究整合三个新组装的高粱T2T基因组与七个公开T2T基因组，构建图形泛基因组，发现着丝粒区高度分化、保守非编码序列富集于核心基因附近，转座子家族拷贝数变异显著；基于转座子的GWAS鉴定出Tx430Chr5G00146410上游LTR/Gypsy插入可提升基因表达与单株产量，并在狗尾草中异源过表达验证其调控产量相关性状的功能。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
@@ -291,6 +369,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42842389",
+    "title": "Enhanced Cytotoxicity and Mechanistic Responses to Co-Exposure to the Pesticide β-Cypermethrin and the Foodborne Contaminant Ethyl Carbamate in Caco-2 Cells",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of food science",
+    "authors": "Tang Y, Liang S, Li H, Tian C, Lei Y, Zhao J, Liao Y.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-08",
+    "url": "https://europepmc.org/article/MED/42842389",
+    "doi": "10.1111/1750-3841.71533",
+    "pmid": "42842389",
+    "abstract": "Beta-cypermethrin (β-CYP) is a widely used pyrethroid insecticide, whereas ethyl carbamate (EC) is a processing-derived contaminant in fermented foods. This mechanism-oriented in vitro study examined cellular responses to EC, β-CYP, and their combination in Caco-2 cells; the concentrations were substantially higher than typical dietary exposure and were not intended for quantitative risk assessment. Cell viability, apoptosis, cell cycle, wound closure, and mitochondrial membrane potential (ΔΨm) were evaluated via CCK-8, AO/EB staining, flow cytometry, wound-healing, and JC-1 assays. Network toxicology, molecular docking, RNA sequencing (RNA-seq), and quantitative real-time PCR (qRT-PCR) were integrated to generate mechanistic hypotheses. EC and β-CYP each reduced cell viability, wound closure, and ΔΨm in a concentration-dependent manner. To rigorously determine the interaction type, a 2 × 2 factorial design coupled with two-way ANOVA was employed. Co-exposure exhibited an additive trend for cell viability and cell cycle (G0/G1) arrest (interaction p > 0.05), whereas significant synergistic interactions were observed for apoptosis, impaired wound closure, and loss of ΔΨm (interaction p < 0.05). Although CI values for viability were below 1, they were considered only as exploratory references due to extrapolation beyond the observed response range, and were not treated as statistically demonstrated synergism. Bioinformatic analyses implicated stress-response and cell-fate pathways, including PI3K-Akt, MAPK, FoxO, and TGF-β, but do not establish direct target engagement or colorectal cancer causation. Overall, co-exposure enhanced Caco-2 cell injury under the tested conditions. These findings support further mixture-toxicity studies at exposure-relevant concentrations but cannot be directly extrapolated to human dietary risk.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human colorectal adenocarcinoma cells (Caco-2)",
+    "species_zh": "人结直肠腺癌细胞",
+    "takeaway": "在Caco-2细胞中，β-氯氰菊酯与氨基甲酸乙酯共暴露对凋亡、伤口愈合和线粒体膜电位呈协同损伤。",
+    "conclusion": "两者单独暴露均浓度依赖地降低细胞活力、伤口闭合与线粒体膜电位；共暴露对细胞活力和G0/G1期阻滞呈加和趋势，对凋亡、伤口愈合受损和ΔΨm丢失呈显著协同作用。生物信息学提示PI3K-Akt、MAPK、FoxO和TGF-β等应激与细胞命运通路参与，但未证实直接靶点结合或结直肠癌因果关系；所用浓度远高于膳食暴露，结果不能直接外推至人群膳食风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
