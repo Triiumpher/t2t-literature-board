@@ -1,0 +1,34 @@
+[
+  {
+    "id": "manual-20261009-diffppi",
+    "title": "DiffPPI：用于脑部特异性蛋白质-蛋白质相互作用预测的条件去噪扩散框架",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（编译自 Journal of Computational Science）",
+    "authors": "",
+    "publish_date": "2026-10-04",
+    "added_at": "2026-10-09",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261004000131447.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对脑特异性蛋白质互作网络稀疏、情境依赖且现有方法多将PPI预测建模为确定性二分类、难以刻画不确定性的问题，研究提出DiffPPI框架：以预训练GraphSAGE学习脑PPI无向图的节点表示，将蛋白质对的拼接、逐元素交互与绝对差特征作为条件，输入200步去噪扩散模型，从含噪观测中重建干净的互作信号，实现不确定性感知的PPI预测。",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "条件去噪扩散模型结合图嵌入可对脑特异性PPI进行不确定性感知预测，准确率、F1与ROC-AUC均超过经典机器学习与图神经网络基线。",
+    "conclusion": "DiffPPI将互作推断建模为条件随机生成过程，在包含数千种蛋白质及实验支持互作的脑PPI网络上取得准确率0.8397、F1约0.8291、ROC-AUC约0.9023，优于全部同数据划分基线；积分梯度可解释性分析显示嵌入差值特征贡献最大，表明生成式扩散适用于稀疏、不完整互作数据的稳健预测。",
+    "keywords": [
+      "蛋白质互作预测",
+      "PPI",
+      "条件扩散模型",
+      "去噪扩散",
+      "图神经网络",
+      "GraphSAGE",
+      "互作组",
+      "不确定性量化",
+      "脑PPI网络"
+    ]
+  }
+]
