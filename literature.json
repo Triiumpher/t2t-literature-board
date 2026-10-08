@@ -26,6 +26,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42842924",
+    "title": "AraVirusPPI: A protein language model-powered method for predicting Arabidopsis thaliana-virus protein-protein interactions",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Plant physiology",
+    "authors": "Zhang S, Li J, Yuan M, Jiang L, Li Z, Wang C, Shi W, Zhang Z.",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-08",
+    "url": "https://europepmc.org/article/MED/42842924",
+    "doi": "10.1093/plphys/kiag755",
+    "pmid": "42842924",
+    "abstract": "Plant-virus protein-protein interactions (PPIs) play crucial roles in viral infection and host immune responses. However, large-scale experimental characterization of plant-virus PPIs is costly and labor-intensive, suggesting the need to develop computational methods. Recent advances in biological sequence language models are offering unprecedented opportunities to develop machine learning-based plant-virus PPI predictors. In this study, we collected publicly available PPI data between Arabidopsis thaliana (A. thaliana) and viruses, establishing a robust dataset for method development. Based on this dataset, we developed AraVirusPPI, a machine learning framework for predicting A. thaliana-virus PPIs. AraVirusPPI employs the protein language model ESM Cambrian (ESMC) to encode sequence features and combines these representations with Extreme Gradient Boosting (XGBoost) to build the prediction model. Furthermore, we systematically evaluated multiple protein and genomic language models combined with various classification algorithms, thereby justifying the optimal model architecture adopted in AraVirusPPI. We applied AraVirusPPI to predict PPIs in the A. thaliana-Cabbage leaf curl virus (CabLCV) system. Predicted viral target proteins were compared with experimental datasets from A. thaliana-Turnip mosaic virus (TuMV) and A. thaliana-Pseudomonas syringae (Psy) systems. Network topology and functional enrichment analyses showed that the predicted CabLCV targets in A. thaliana were more similar to TuMV than Psy targets. These results suggest potential shared and distinct host-targeting patterns among pathogens and provide computational evidence supporting the biological significance of the proposed AraVirusPPI predictor.",
+    "species_latin": "Arabidopsis thaliana",
+    "species_en": "Thale cress",
+    "species_zh": "拟南芥",
+    "takeaway": "研究构建AraVirusPPI模型，用ESMC蛋白语言模型结合XGBoost预测拟南芥与病毒蛋白互作，并验证其生物学合理性",
+    "conclusion": "该研究基于公开拟南芥-病毒互作数据，开发了融合ESMC序列编码与XGBoost的预测框架AraVirusPPI，并通过系统比较多种语言模型与分类器确定最优架构。将其应用于CabLCV体系后，预测靶标在拓扑与功能富集上更接近TuMV而非Psy，提示不同病原体对宿主靶向模式存在共性与差异，为植物-病毒互作预测提供了计算依据。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42843905",
+    "title": "Novel transinfections of Rickettsiella across multiple clonal genotypes are compatible with chemical and entomopathogen control of Myzus persicae",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Prithiv Sivaji Dorai A, Hoffmann AA, Gu X, Umina PA, van Rooyen A, Thia JA.",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-08",
+    "url": "https://europepmc.org/article/MED/42843905",
+    "doi": "10.1093/jee/toag304",
+    "pmid": "42843905",
+    "abstract": "Symbiotic bacteria are of increasing interest as new, alternative biological control candidates for managing insect pests. Previous work has found that a novel, self-spreading, transinfection of the endosymbiont, Rickettsiella viridis, can induce fitness costs in the globally invasive aphid pest, Myzus persicae (Sulzer). Endosymbiont transinfections could be used in broad scale management if they do not interfere with other common control options that are compatible with integrated pest management at local scales. In this work, we studied the effect of a novel Rickettsiella transinfection on chemical and entomopathogen responses in M. persicae. Our experiments used 4 different clonal genotypes that varied in their resistance to chemical insecticides, allowing us to capture the potential genetic variability in the response of aphid hosts to the Rickettsiella infection. These aphid genotypes were exposed to 3 chemical insecticides registered for aphid control in Australian agriculture (bifenthrin, a pyrethroid; dimethoate, an organophosphate; and imidacloprid, a neonicotinoid), as well as the fungal entomopathogen, Beauveria bassiana (Balsamo). Mortality following chemical insecticide exposure varied considerably among aphid genotypes but was unaffected by the Rickettsiella infection. Mortality and fecundity following fungal entomopathogen exposure exhibited interactions between genotype and Rickettsiella infection status, with some possible transgenerational effects. However, there was no evidence that the efficacy of Beauveria was compromised by Rickettsiella. These results support the potential for the general use of Rickettsiella as a biological control agent, which could be released into natural populations as part of area-wide strategies to establish infections and suppress pest populations.",
+    "species_latin": "Myzus persicae",
+    "species_en": "green peach aphid",
+    "species_zh": "桃蚜",
+    "takeaway": "新立克次氏体转感染不干扰桃蚜对化学杀虫剂和球孢白僵菌的响应，支持其作为广域生防手段。",
+    "conclusion": "在4种抗药性不同的桃蚜克隆中，Rickettsiella转感染未改变化学杀虫剂致死效果；与球孢白僵菌互作虽因基因型而异并可能有跨代效应，但真菌防效未被削弱，说明该共生菌可与化学及微生物防治兼容，具备区域化生防应用潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42839371",
     "title": "A novel elicitor confers apple resistance to Glomerella cingulata through modulation of flavonoid metabolic pathways",
     "type": "paper",
@@ -10201,6 +10253,32 @@
     "species_zh": "",
     "takeaway": "综述分子对接在农药抗性研究中的应用、进展、局限及实验验证必要性，强调其与AI结合助力抗性机制解析和新农药开发。",
     "conclusion": "分子对接是分析农药抗性机制和加速新农药筛选的有效工具，与人工智能深度融合可拓展其应用。但受评分函数、蛋白柔性等限制，结果仅为计算预测，需结合实验数据综合评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42580320",
+    "title": "Perceived Efficacy and Acceptability of a Spatial Repellent for Malaria Control in Western Kenya: Lessons from a Qualitative Social Science Study Conducted in Conjunction with an Epidemiological Efficacy Trial",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The American journal of tropical medicine and hygiene",
+    "authors": "Harvey SA, Ekodir SM, Baker L, Odero JI, Ekisa M, Ikapesi J, Tsang SW, Casella A, McCoy K, Passaniti A, Awori Q, Abong'o B, Polo B, Moshi V, Blaufuss S, Mallikarachchi M, Hudson A, Achee NL, Grieco JP, Ochomo E.",
+    "publish_date": "2026-08-11",
+    "added_at": "2026-10-08",
+    "url": "https://europepmc.org/article/MED/42580320",
+    "doi": "10.4269/ajtmh.25-0413",
+    "pmid": "42580320",
+    "abstract": "Kenya recorded more than 3 million malaria cases in 2023. Insecticide resistance and changing mosquito behavior have reduced the effectiveness of insecticide-treated nets (ITNs) and indoor residual spraying. Spatial repellents (SRs) show promise for malaria control. The present social science study, which is nested within the Advancing Evidence for Global Implementation of Spatial Repellents clinical trial in Kenya, was conducted to explore SR acceptability and perceived efficacy. Modified trials of improved practices were used to assess participant response to Mosquito Shield™, a transfluthrin-impregnated SR. Structured observations and semi-structured interviews were conducted at 16 intervention and 14 control compounds during five visits over the 24-month clinical trial. The authors remained blinded to study assignment throughout data collection; data were then analyzed by study arm after unblinding. Both intervention and control participants reported reduced mosquito activity inside homes after initial installation. Over time, most intervention participants reported continued efficacy. Controls, who received identical-looking placebo products, reported decreased efficacy. In both arms, participants mentioned discontinuing ITN use. Closely tied to perceived efficacy, acceptability was also influenced by the installation method, the number of units required, the replacement interval, and perceived community opinion. Spatial repellents seem likely to be accepted in this setting when they are perceived as effective and installed satisfactorily. National programs considering SR distribution should anticipate decreased ITN use and emphasize that SRs are meant to complement, not replace, existing interventions. Spatial repellent-related communication should stress proper product use to maximize efficacy. Decreased expenses for products like mosquito coils might incentivize adoption. The present study illustrates the value of social science research parallel to an efficacy trial.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "肯尼亚西部疟疾试验中，空间驱避剂因被感知有效而获接受，但需防蚊帐使用减少。",
+    "conclusion": "空间驱避剂在感知有效且安装满意时易被接受；其接受度受安装方式、数量、更换周期和社区看法影响。国家推广时应强调其补充而非替代现有干预，并加强正确使用宣传。",
     "keywords": [
       "新型杀虫剂"
     ],
