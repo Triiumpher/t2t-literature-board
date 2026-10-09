@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42845055",
+    "title": "Deciphering the toxicological impact of sublethal ethion exposed Drosophila melanogaster using classical and transcriptomics approaches",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Drug and chemical toxicology",
+    "authors": "Sharma S, Mohanty S.",
+    "publish_date": "2026-10-08",
+    "added_at": "2026-10-09",
+    "url": "https://europepmc.org/article/MED/42845055",
+    "doi": "10.1080/01480545.2026.2743612",
+    "pmid": "42845055",
+    "abstract": "Ethion insecticide is known for its neurotoxicity and due to its extensive usage, non- target species may suffer along with the targeted ones. Thus, its detrimental effects on non-target species need to be explored in depth. The present study aims to assess the ethion toxicity in non-target model Drosophila melanogaster using classical and molecular approaches. The two sublethal concentrations 1.25 and 1.88 ppm were selected based on the LC50 value and were used throughout the experiments. The detrimental effect of ethion on various life history traits increased with higher concentration. The phenotypic observations s evidenced deformities in egg, larvae and adult. The histological analysis revealed larval brain degeneration, loss of eye- imaginal disk nuclear features and extensive tissue damage in gut and Malpighian tubules. The preliminary RNAseq data analysis revealed that the upregulated differentially expressed genes (DEGs) in response to ethion were mostly associated with growth and development (TwdlM, TwdlL and Eip78C etc.), neurological behavior (ap, inaD, Galphaq, Rim, ple, ddc etc.), reproduction (Cp15, Cp16, Cp7Fa, Cp7Fb, dec, CG1077 etc.). Moreover, the downregulated DEGs are belong to the class of Mitochondrial Ribosomal Protein (MRP) gene family which regulate growth through mitochondrial translation and transcription. The top 25 hub genes among DEGs were found to have human orthologues, which are used as candidate genes in studying various human diseases. Thus, the study highlights attention to the concerning ecotoxicity and possible health hazards associated with insecticide usage especially to non-targets including humans.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "亚致死浓度乙硫磷致果蝇发育畸形、组织损伤，并改变生长、神经、生殖及线粒体核糖体蛋白相关基因表达。",
+    "conclusion": "乙硫磷对非靶标果蝇具明显毒性：随浓度升高，生活史性状受损，卵、幼虫和成虫出现畸形，幼虫脑、眼成虫盘、肠道和马氏管发生退变与组织损伤。转录组显示生长、神经行为与生殖相关基因上调，线粒体核糖体蛋白基因家族下调；部分差异基因与人类同源，提示该杀虫剂存在生态毒性与潜在健康风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42844509",
+    "title": "Genome sequence determination and analysis of a betabaculovirus from the moth Glena bisulca, a defoliating pest of pines",
+    "type": "paper",
+    "boards": [
+      "cmed"
+    ],
+    "source": "Archives of virology",
+    "authors": "Harrison RL, Francoeur CB, Rowley DL.",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-09",
+    "url": "https://europepmc.org/article/MED/42844509",
+    "doi": "10.1007/s00705-026-06756-5",
+    "pmid": "42844509",
+    "abstract": "A baculovirus isolated from the moth Glena bisulca was characterized by electron microscopy of its occlusion bodies (OBs) and sequencing of its genome. The OBs of this virus, Glena bisulca granulovirus isolate 1002 (GlbiGV-1002), were ovocylindrical with a single virion, as described for other betabaculoviruses. The 104,702 bp circular genome contained six direct repeat (dr) regions and 121 open reading frames. A core gene phylogeny placed GlbiGV-1002 in betabaculovirus clade b with Cnaphalocrocis medinalis granulovirus (CnmeGV) as the nearest relative. Kimura-2-parameter nucleotide distance estimation indicates that GlbiGV-1002 represents a betabaculovirus species not currently cataloged by the ICTV.",
+    "species_latin": "Glena bisulca",
+    "species_en": "moth Glena bisulca",
+    "species_zh": "蛾（Glena bisulca）",
+    "takeaway": "从松树食叶害虫Glena bisulca中分离的β杆状病毒完成基因组测序，其基因组特征与系统发育分析表明它代表一个ICTV尚未收录的新β杆状病毒物种。",
+    "conclusion": "该病毒包涵体呈卵圆柱形、含单个病毒粒子，基因组为104,702 bp环状DNA，含6个直接重复区和121个开放阅读框；核心基因系统发育将其归入β杆状病毒b分支，与CnmeGV亲缘最近，核苷酸距离分析支持其为ICTV尚未收录的新种。",
+    "keywords": [
+      "稻纵卷叶螟功能基因组学"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42847711",
+    "title": "Clinical and molecular insights into primary ciliary dyskinesia: Genotype-phenotype correlation and protein interaction networks in an Indian retrospective cohort",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Lung India : official organ of Indian Chest Society",
+    "authors": "Balaji J, Barney AM, Kumar M, Christopher DJ, Isaac B, Kamath MS, Gupta R, Danda S.",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-09",
+    "url": "https://europepmc.org/article/MED/42847711",
+    "doi": "10.4103/lungindia.lungindia_346_26",
+    "pmid": "42847711",
+    "abstract": "BACKGROUND AND OBJECTIVE: Primary ciliary dyskinesia (PCD) is a rare genetic disorder causing defective ciliary motility, leading to chronic respiratory disease, neonatal distress, subfertility, and laterality defects. This study examines the clinical and genetic spectrum of PCD in a South Asian cohort, focusing on genotype-phenotype correlations, protein interaction effects of pathogenic variants, and the role of bioinformatics in improving molecular diagnosis. METHODS: We conducted a retrospective study of suspected PCD cases at a tertiary referral centre in India from 2017 to 2025, reviewing clinical, laboratory, imaging, and exome sequencing data. Protein-protein interaction (PPI) and Gene Ontology (GO) enrichment analyses were performed to assess functional convergence. RESULTS: Out of 41 individuals suspected of having PCD, 31 were molecularly confirmed. Most cases presented in childhood, while a subset presented in adulthood, often primarily with infertility. Pathogenic or likely pathogenic variants were identified in 18 genes associated with PCD, with the most common being DNAH11, DNAH9, DNAH5, and CCDC40; homozygous variants were predominant. Structural modelling indicated the preservation of global protein folds, with localised conformational deviations noted particularly in DNAH5 and DNAH11 . PPI network analysis revealed significant interaction enrichment ( P < 1 × 10 -16 ). GO analysis showed strong enrichment of cilia-related biological processes, including microtubule-based processes (-log 10 FDR = 22.96) and microtubule bundle formation (-log 10 FDR = 27.54). CONCLUSIONS: This study enhances understanding of PCD variants in the Indian population and highlights the value of combining clinical evaluations with genomic and structural analyses. PPI and GO analyses reveal disrupted ciliary pathways linked to PCD.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "印度41例疑似原发性纤毛运动障碍患者中31例经外显子测序确诊，DNAH11等基因变异最常见，蛋白互作与GO分析显示纤毛通路显著富集。",
+    "conclusion": "该南亚队列研究证实PCD以儿童起病为主，部分成人仅表现为不育，DNAH11、DNAH9、DNAH5和CCDC40为常见致病基因且以纯合变异为主；结构建模显示DNAH5和DNAH11存在局部构象改变，蛋白互作与GO富集分析揭示纤毛微管相关通路显著受损，表明结合临床、基因组与结构分析可提升PCD分子诊断水平。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42842589",
     "title": "Vector competence for dengue-2 virus of permethrin resistant/ susceptible Aedes aegypti sub-populations from selected sites in Lamu County, Kenya",
     "type": "paper",
@@ -312,6 +390,38 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261009-diffppi",
+    "title": "DiffPPI：用于脑部特异性蛋白质-蛋白质相互作用预测的条件去噪扩散框架",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（编译自 Journal of Computational Science）",
+    "authors": "",
+    "publish_date": "2026-10-04",
+    "added_at": "2026-10-09",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261004000131447.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对脑特异性蛋白质互作网络稀疏、情境依赖且现有方法多将PPI预测建模为确定性二分类、难以刻画不确定性的问题，研究提出DiffPPI框架：以预训练GraphSAGE学习脑PPI无向图的节点表示，将蛋白质对的拼接、逐元素交互与绝对差特征作为条件，输入200步去噪扩散模型，从含噪观测中重建干净的互作信号，实现不确定性感知的PPI预测。",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "条件去噪扩散模型结合图嵌入可对脑特异性PPI进行不确定性感知预测，准确率、F1与ROC-AUC均超过经典机器学习与图神经网络基线。",
+    "conclusion": "DiffPPI将互作推断建模为条件随机生成过程，在包含数千种蛋白质及实验支持互作的脑PPI网络上取得准确率0.8397、F1约0.8291、ROC-AUC约0.9023，优于全部同数据划分基线；积分梯度可解释性分析显示嵌入差值特征贡献最大，表明生成式扩散适用于稀疏、不完整互作数据的稳健预测。",
+    "keywords": [
+      "蛋白质互作预测",
+      "PPI",
+      "条件扩散模型",
+      "去噪扩散",
+      "图神经网络",
+      "GraphSAGE",
+      "互作组",
+      "不确定性量化",
+      "脑PPI网络"
+    ]
+  },
+  {
     "id": "manual-20261007-insilico-insecticide-review",
     "title": "基于分子对接与计算模拟的杀虫剂发现及毒理学评估研究进展",
     "type": "wechat",
@@ -421,6 +531,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42844726",
+    "title": "Targeting a Leukemia-Relevant Protein-Protein Interface: N-Aryl Anthranilic Acids as Disruptors of the c-Myb-CBP/p300 KIX Interaction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Chemical biology & drug design",
+    "authors": "Alfassam HE, Kamel EM, Othman SI, Alharbi HM, Rudayni HA, Allam AA, Lamsabhi AM.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-09",
+    "url": "https://europepmc.org/article/MED/42844726",
+    "doi": "10.1111/cbdd.70415",
+    "pmid": "42844726",
+    "abstract": "The interaction between c-Myb and the CBP/p300 KIX domain is a key transcriptional event in acute myeloid leukemia (AML) and represents an attractive target for small-molecule intervention. In this study, we applied an integrated computational-experimental strategy to identify new N-aryl anthranilic acid disruptors of the c-Myb-KIX protein-protein interaction. A scaffold-focused library of 3656 N-aryl anthranilic acid derivatives was filtered, docked to the c-Myb-binding groove of KIX (PDB 2AGH), and the top hits were further evaluated by MD simulations, MM/PBSA, FEL, and ADMET analyses. This workflow prioritized four hits (C1-C4) for experimental testing. Computational analyses showed that all four compounds remained bound within the α1/α3 Myb-facing groove, but differed markedly in their predicted effects on the c-Myb-KIX interface. Among them, C3 emerged as the strongest predicted disruptor, whereas C1 was predicted to stabilize the complex. The ΔΔ G PPI analysis further showed that C3 produced the largest destabilizing effect on the c-Myb-KIX interface (+4.57 kcal/mol), followed by C2 (+2.30 kcal/mol) and C4 (+1.40 kcal/mol), whereas C1 stabilized the complex (-6.47 kcal/mol). These predictions were validated by microscale thermophoresis (MST). The binary c-Myb-KIX interaction showed an apparent Kd of 26.71 ± 0.54 μM, and the compounds inhibited complex formation with IC50 values of 99.6 ± 20.5 μM (C1), 54.7 ± 22.1 μM (C2), 16.5 ± 0.8 μM (C3), and 27.2 ± 2.7 μM (C4). Notably, C3 outperformed the reference inhibitor Naphthol AS-E phosphate (28.8 ± 3.1 μM). Overall, these findings identify C3 as a promising lead and establish N-aryl anthranilic acids as a tractable scaffold for targeting the c-Myb-CBP/p300 KIX interaction.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用计算加实验筛选N-芳基邻氨基苯甲酸类化合物，发现C3能最有效阻断c-Myb与KIX相互作用。",
+    "conclusion": "研究通过分子对接、动力学模拟与MST实验，从3656个N-芳基邻氨基苯甲酸衍生物中筛选出可干扰c-Myb-CBP/p300 KIX界面的化合物。C3对复合物形成的抑制最强（IC50约16.5 μM），优于参考抑制剂，而C1反而稳定复合物。该结果证明N-芳基邻氨基苯甲酸是靶向该白血病相关蛋白互界面的可行骨架，C3可作为先导化合物。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
