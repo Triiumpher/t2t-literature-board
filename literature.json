@@ -1,5 +1,135 @@
 [
   {
+    "id": "pmid-42853663",
+    "title": "SETDB1 preferentially silences evolutionarily young retroelements",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Cenik BK, Wang S, Iwanaszko M, Howard BC, Aydin I, Gold S, Ramani V, Shilatifard A.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-10",
+    "url": "https://europepmc.org/article/MED/42853663",
+    "doi": "10.1073/pnas.2606713123",
+    "pmid": "42853663",
+    "abstract": "Transposable elements (TEs) are epigenetically silenced through multiple mechanisms, including heterochromatin formation and DNA methylation. Prior studies have implicated SETDB1 and the Human Silencing Hub (HUSH) complex in heterochromatin formation-based TE repression, but precise characterization of repeat subclass and locus-specific effects for SETDB1 and related mechanisms has been limited by short-read transcriptome mapping. Here, we use long-read RNA sequencing mapped to a telomere-to-telomere mouse genome assembly to resolve the specific contributions of SETDB1 to TE silencing at single-locus resolution. Knockdown of SETDB1 or core HUSH factors reveals robust and reproducible derepression of a restricted subset of long terminal repeat (LTR) retroelements distinct from those of global DNA demethylation. This derepression is heterogeneous within TE subclasses and is confined to discrete genomic loci, highlighting regulatory diversity that is obscured by aggregate, family-level analyses. Time-resolved SETDB1 depletion followed by histone 3 lysine 9 (H3K9)me3, H3K9me2, and Pol II ChIP-seq reveals a stratified derepression response: ERVK and ERV1 elements show concordant H3K9 methylation loss, Pol II gain, and RNA expression induction, consistent with direct H3K9me3-mediated silencing, whereas LINE/L1 elements show transcriptional activation without corresponding H3K9me3 loss, implicating parallel repressive mechanisms. These data support a model in which SETDB1-dependent H3K9 methylation maintains silencing of evolutionarily young LTRs, while long interspersed nuclear element (LINE) repression engages broader heterochromatic pathways not fully captured by any single chromatin readout. Collectively, our findings refine current models of heterochromatin-mediated TE control and provide a framework for dissecting how chromatin-based mechanisms cooperate to maintain subclass-selective TE repression.",
+    "species_latin": "Mus musculus",
+    "species_en": "mouse",
+    "species_zh": "小鼠",
+    "takeaway": "用长读长测序在小鼠中解析SETDB1对转座子的沉默作用，发现其优先抑制年轻LTR逆转录元件。",
+    "conclusion": "SETDB1与HUSH复合物主要抑制一类特定的年轻LTR逆转录元件，且这种去抑制在亚类内和基因组位点间高度异质。ERVK/ERV1的沉默依赖H3K9me3直接介导，而LINE/L1的抑制涉及更广泛的异染色质通路。该研究细化了异染色质调控转座子的模型，并提供了剖析亚类选择性沉默机制的分析框架。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42852812",
+    "title": "Telomere-to-telomere genome assembly of Coprinellus radians",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "G3 (Bethesda, Md.)",
+    "authors": "Yu M, Cheng Y, Shan Y, Duong HTQ, Bunsupa S, Tong X, Han R.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-10",
+    "url": "https://europepmc.org/article/MED/42852812",
+    "doi": "10.1093/g3journal/jkag267",
+    "pmid": "42852812",
+    "abstract": "Coprinellus radians has been identified as an important germination-associated fungus of Cremastra appendiculata. However, no reference genome was previously available for this species. In this study, we generated a complete telomere-to-telomere (T2T) genome assembly for C. radians by integrating PacBio HiFi, Oxford Nanopore, BGI short-read, and Hi-C sequencing data. Hi-C interaction mapping anchored 99.36% of the assembled sequences onto 13 pseudochromosomes. Following contaminant removal, gap closure using TGS-GapCloser, and telomere extension, the final assembly consists of 13 gap-free, single-contig chromosomes with telomeric repeats (CCCTAA/TTAGGG) at both ends, yielding a total of 26 telomeres. The resulting high-quality genome is 41.09 Mb (41,092,644 bp) in size, with a contig N50 of 3.36 Mb and a BUSCO completeness score of 96.4%. This gap-free, T2T genome provides a valuable resource for investigating the molecular mechanisms of orchid-fungus symbiosis and the ecological adaptation of wood-decaying fungi.",
+    "species_latin": "Coprinellus radians",
+    "species_en": "radians inkcap",
+    "species_zh": "放射鬼伞",
+    "takeaway": "研究整合多平台测序数据，完成放射鬼伞端粒到端粒无间隙基因组组装，获得13条完整染色体。",
+    "conclusion": "该研究首次为放射鬼伞构建了高质量T2T基因组，13条无间隙染色体两端均含端粒重复序列，共26个端粒，基因组大小41.09 Mb，BUSCO完整度96.4%。这一资源为探究兰科植物与真菌共生机制及木腐真菌生态适应提供了重要基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42853929",
+    "title": "Insect-specific aldehyde synthase governs cuticle strength: a selective insecticide target",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Science advances",
+    "authors": "Ding Y, Hu X, Pang Z, Liu H, Shen L, Liu Y, Liu T.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-10",
+    "url": "https://europepmc.org/article/MED/42853929",
+    "doi": "10.1126/sciadv.aeh0368",
+    "pmid": "42853929",
+    "abstract": "Cuticular sclerotization is crucial for insect adaptation and flight, historically thought to be dominantly driven by dopamine and its downstream products. In this study, we demonstrate that 3,4-dihydroxyphenylacetaldehyde (DHPAA)-produced by DHPAA synthase (DHPAAS) and known in humans as a toxic dopamine metabolite-plays a central role. Cross-species RNAi, mechanical testing, and precursor quantification, consistently support this conclusion. In the migratory locust, we further reveal that DHPAA is essential for cuticular mechanical properties, whereas dopamine primarily regulates pigmentation. These findings establish a new paradigm for the chemistry of insect cuticle sclerotization. Then, we elucidate the catalytic mechanism of DHPAAS, laying the groundwork for its application in biosynthesis. Furthermore, we identify 2,5,2',4'-tetrahydroxychalcone as a selective inhibitor of DHPAAS. Given that DHPAAS is insect-specific and absent in non-insect arthropods and vertebrates, our work points to a promising strategy for developing selective insecticides.",
+    "species_latin": "Locusta migratoria",
+    "species_en": "Migratory locust",
+    "species_zh": "飞蝗",
+    "takeaway": "昆虫特有醛合成酶DHPAAS催化产生的DHPAA决定表皮硬化强度，可作为选择性杀虫剂靶点。",
+    "conclusion": "表皮硬化并非仅由多巴胺主导，DHPAAS生成的DHPAA才是决定表皮力学强度的关键，而多巴胺主要调控色素沉着；该酶为昆虫特有，其抑制剂2,5,2',4'-四羟基查尔酮有望开发为高选择性杀虫剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42851081",
+    "title": "A nuclear receptor PcHR96h regulates ABC transporters involved in spirodiclofen resistance in Panonychus citri",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insect science",
+    "authors": "Li S, Yu S, Yang Q, Huang Z, Li Y, Wang M, Huang M, Fu S, Wu Z, Liu L, Pan Q, Zhang W, Liu H, Cong L, Ran C.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-10",
+    "url": "https://europepmc.org/article/MED/42851081",
+    "doi": "10.1111/1744-7917.70373",
+    "pmid": "42851081",
+    "abstract": "Transcription factors are known to regulate detoxification gene expression and contribute to resistance to insecticides and acaricides in arthropods. Our previous study revealed that the nuclear hormone receptor PcHR96h is associated with spirodiclofen resistance in Panonychus citri, but its regulatory mechanism remains unclear. Here, we used DAP-seq to identify genome-wide targets of PcHR96h and found that ABC transporter genes were significantly enriched. Dual-luciferase, yeast one-hybrid, and EMSA assays verified that PcHR96h directly binds to the promoters of PcABCA2 and PcABCB2. Functional validation via RNAi, subcellular localization, cytotoxicity tests, and molecular docking further confirmed that these two ABC transporters participate in spirodiclofen resistance. This study demonstrates that PcHR96h regulates specific ABC transporters involved in spirodiclofen resistance in P. citri, providing new insights into HR96-driven detoxification and acaricide resistance.",
+    "species_latin": "Panonychus citri",
+    "species_en": "Citrus red mite",
+    "species_zh": "柑橘全爪螨",
+    "takeaway": "核受体PcHR96h直接调控ABC转运蛋白基因PcABCA2与PcABCB2，介导柑橘全爪螨对螺螨酯的抗性",
+    "conclusion": "PcHR96h作为核激素受体，通过直接结合PcABCA2和PcABCB2启动子激活其表达，进而参与柑橘全爪螨对螺螨酯的抗药性。该发现揭示了HR96驱动解毒与杀螨剂抗性的分子机制，为抗性治理提供新靶点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42850766",
+    "title": "An insecticide oral-dosing method for the German cockroach (Blattodea: Ectobiidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Lee SD, Mancia H, Saran RK, Lee CY.",
+    "publish_date": "2026-10-08",
+    "added_at": "2026-10-10",
+    "url": "https://europepmc.org/article/MED/42850766",
+    "doi": "10.1002/ps.71389",
+    "pmid": "42850766",
+    "abstract": "BACKGROUND: Insecticide baits are commonly used to control the German cockroach [Blattella germanica (L.)]. Because bait performance is dependent on foraging and feeding behavior, forced external exposures with bait active ingredients are often used to estimate physiological susceptibility without behavioral confounders. However, relying on external contact methods may not be appropriate for baits because of their oral route of entry. To increase the utilization of oral exposures for German cockroaches, we describe a novel method of conducting precise oral dosing of insecticides in an accessible and practical manner. RESULTS: Peanut butter was used as the delivery medium in quantities of 1.5 mg per adult male. Oral lethal doses of fipronil, indoxacarb, and dinotefuran were determined for the laboratory susceptible UCR and field-collected Dav strains, resulting in resistance ratios (RR50) of 14.4 (fipronil), 7.3 (indoxacarb), and 3.5 (dinotefuran) for the Dav strain. Bait bioassays using commercial fipronil, indoxacarb, and dinotefuran baits were performed to validate the method and compare with the lethal doses. CONCLUSION: The oral-dosing method was compatible with both laboratory and field-collected strains, providing an accessible way to enhance the accuracy of German cockroach bait toxicity studies in the future. © 2026 Society of Chemical Industry.",
+    "species_latin": "Blattella germanica",
+    "species_en": "German cockroach",
+    "species_zh": "德国小蠊",
+    "takeaway": "研究用花生酱口服给药法测定德国小蠊对三种杀虫剂的致死剂量，并验证其可行性。",
+    "conclusion": "该口服给药法适用于实验室敏感品系和田间采集品系，能避免外部接触法带来的行为干扰，更准确评估饵剂毒力；田间品系对氟虫腈、茚虫威和呋虫胺分别产生14.4、7.3和3.5倍抗性，为今后饵剂毒理学研究提供实用工具。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42845055",
     "title": "Deciphering the toxicological impact of sublethal ethion exposed Drosophila melanogaster using classical and transcriptomics approaches",
     "type": "paper",
@@ -49,6 +179,32 @@
       "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.65822/j.pcl/2027.02",
+    "title": "Genomics and Bioinformatics for Next-Generation Crop Improvement: From Pangenomes to AI-Driven Precision Breeding",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant and Crop Letters",
+    "authors": "",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-10",
+    "url": "https://doi.org/10.65822/j.pcl/2027.02",
+    "doi": "10.65822/j.pcl/2027.02",
+    "pmid": "",
+    "abstract": "Crop genomics has been based on single reference genomes for over last two decades, which have been used for the development of markers, genome-wide association studies and genomic selection, but which have underrepresented structural variation, gene content and haplotype diversity within species.This review explores the impact of the convergence of pangenomics, advanced bioinformatics, artificial intelligence and high dimensional biological datasets on crop improvement.This review follows the evolution of long-read and telomere-to-telomere genome assemblies to pangenomes and super-pangenomes, population and comparative genomics, haplotype based breeding, and genomic prediction for traits and environments.It also assesses the integration of transcriptomic, proteomic, metabolomic, epigenomic, single-cell and spatial omics data with genomic data, as well as high throughput phenotyping and enviromics.A special focus is on machine learning, deep learning, explainable AI, foundation models and pangenome-guided genome editing for gene discovery, phenotype prediction, sequence design and de novo domestication.Applications for yield stability, abiotic stress tolerance, nutrient use efficiency, disease resistance, and biofortification are critically evaluated.The persistent challenges of computational bottlenecks, unequal genomic resources and the disconnect between genomic discoveries and breeder ready tools are also explored.This review focuses on the shift towards an integrated, prediction-based approach to the design of optimal genotype-phenotype combinations under various production environments.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出作物育种正从单一参考基因组转向泛基因组与AI融合的预测性精准设计。",
+    "conclusion": "作物基因组学正由单一参考基因组转向泛基因组与超级泛基因组,并结合多组学、高通量表型与环境组学及机器学习、深度学习、可解释AI和基础模型,推动从基因发现到表型预测、序列设计与从头驯化的整合式预测育种,以应对产量稳定、非生物胁迫、养分效率、抗病与生物强化等需求,但仍面临算力瓶颈、资源不均和成果转化不足等挑战。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
