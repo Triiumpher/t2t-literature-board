@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42855603",
+    "title": "Near-complete genomes for nine haplochromine cichlid fishes reveal a novel centromeric satellite structure organised around a pair of inverted elements",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Chromosome research : an international journal on the molecular, supramolecular and evolutionary aspects of chromosome biology",
+    "authors": "Sierra P, Zhou C, Fischer B, Lim SW, Blumer M, Ngochera M, Durbin R.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-11",
+    "url": "https://europepmc.org/article/MED/42855603",
+    "doi": "10.1007/s10577-026-09819-0",
+    "pmid": "42855603",
+    "abstract": "The haplochromine cichlid fishes of Lake Malawi form one of the most dramatic examples of recent rapid radiation in vertebrates. Here we describe nine new diploid telomere-to-telomere (T2T) genome sequences generated using ultra-long ONT reads, eight from Lake Malawi cichlids and one from an outgroup, which include 78 ungapped chromosomes. We provide new annotations of transposable elements and tandem repeats, identify rDNA cluster regions and putative centromeres, and confirm previously reported large chromosomal inversions. The putative centromeres are primarily composed of satellite tandem arrays of previously reported 237 bp repeats, but notably on most chromosomes these are organised in a novel structure in which four blocks of satellites in alternating orientation are separated by an inverted pair of ~ 15 kb sequences we term \"centroids\", which have similarity to a non-autonomous DNA transposable element and containing potential CENP-B binding boxes. The methylation dip region indicating the likely active centromere always lies between the centroids, whose separation is almost always around 200 kb (interquartile range 151-221 kb). A structurally equivalent but non-homologous organisation is seen in the distantly related Etroplus cichlid genera from South Asia. By comparing these structures across chromosomes and species, we suggest how they may have evolved, and conjecture how this could contribute to the rampant sympatric speciation seen in these species, based on meiotic drive and chromosome missegregation.",
+    "species_latin": "Haplochromis",
+    "species_en": "haplochromine cichlid fishes",
+    "species_zh": "马拉维湖慈鲷（单色鲷类）",
+    "takeaway": "九种马拉维湖慈鲷近完整基因组揭示着丝粒由倒向重复序列与卫星阵列构成的新结构",
+    "conclusion": "研究组装了九个端粒到端粒的慈鲷基因组，发现多数染色体着丝粒由四段交替取向的卫星阵列夹着一对约15 kb的倒向\"centroids\"序列构成，甲基化低谷位于其间；远缘的南亚Etroplus慈鲷存在结构相似但非同源的组织方式，提示该结构可能通过减数分裂驱动与染色体错分离促进同域物种形成。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1038/s42003-026-11106-x",
+    "title": "A telomere-to-telomere reference genome for Rosa roxburghii reveals lineage-specific diversification of triterpenoid biosynthesis",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Communications Biology",
+    "authors": "Liangqun LI, Mei Peng, Yanfang Yan, Qun Chen, Hong Liao, Juan Yang, Xiaosheng Yang, Xiaojun Pu",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-11",
+    "url": "https://doi.org/10.1038/s42003-026-11106-x",
+    "doi": "10.1038/s42003-026-11106-x",
+    "pmid": "",
+    "abstract": "Abstract Rosa roxburghii ( RRT ) is a nutritionally and medicinally important Rosaceae species that accumulates diverse bioactive compounds, making it an excellent system for investigating the genetic basis and evolutionary diversification of specialized metabolism. Here, we report a complete telomere-to-telomere (T2T), gap-free genome assembly of the elite cultivar ‘Guinong No. 5’ ( RRT5 ), comprising 494.57 Mb with a contig N50 of 51.44 Mb and a base accuracy of over 99.99%. Of this assembly, 99.9% were anchored to seven pseudo-chromosomes. Multi-omics analyses identified OSC , CYP , and UGT genes potentially involved in triterpenoid biosynthesis, while gene–metabolite correlation analyses highlighted MYB30 and MYB31 as candidate regulators of multiple triterpenoids. Notably, the biosynthetic capacities for Kaji-ichigoside F1 and rosamultin vary across lineages within Rosoideae, likely reflecting lineage-specific gene gain or loss and/or evolutionary divergence in regulatory pathways. Together, the RRT5 genome, transcriptome, and profiling of the eight key triterpenoids provide a valuable resource for elucidating triterpenoid biosynthesis, regulation, and evolution, and for guiding genome-informed breeding of R. roxburghii .",
+    "species_latin": "Rosa roxburghii",
+    "species_en": "Rosa roxburghii",
+    "species_zh": "刺梨",
+    "takeaway": "组装刺梨'贵农5号'端粒到端粒无间隙基因组，揭示三萜生物合成谱系特异性分化",
+    "conclusion": "该研究完成刺梨'贵农5号'端粒到端粒无间隙基因组组装，结合多组学鉴定出OSC、CYP、UGT等三萜合成相关基因及MYB30、MYB31调控因子；发现Kaji-ichigoside F1与rosamultin合成能力在蔷薇亚科内呈谱系差异，可能源于基因得失或调控通路演化分歧，为三萜代谢研究与育种提供资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42855451",
+    "title": "TINA: a geometry-aware post-hoc scoring framework for protein-protein interaction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Acta pharmacologica Sinica",
+    "authors": "Jiang LL, Li YR, Su Q, Cheng ST, Shen LJ, Zhang K, Zhu K, Zhang H, Shen C, Kang Y, Hou TJ.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-11",
+    "url": "https://europepmc.org/article/MED/42855451",
+    "doi": "10.1038/s41401-026-01937-z",
+    "pmid": "42855451",
+    "abstract": "Accurate identification of the most native-like conformation remains a critical bottleneck in protein complex structure prediction, particularly when multiple globally plausible candidate models are generated by deep learning methods such as AlphaFold3 (AF3). While AF3 provides internal confidence metrics such as ipTM and pLDDT, these signals often lack sufficient sensitivity to distinguish subtle but structurally meaningful differences in local interface geometry. Here, we present TINA, a geometry-aware post-hoc scoring framework designed for fine-grained ranking and selection among high-quality protein complex candidates. TINA constructs atom-level interface graphs and explicitly models two-body, three-body, and four-body geometric interactions through a many-body tensor modeling strategy, enabling a more comprehensive characterization of local contact patterns, angular arrangements, and torsional constraints. The model is initially trained using a joint ranking and regression objective on a large decoy set generated by ZDOCK, with additional task-specific fine-tuning for protein-peptide complexes, and is evaluated exclusively on AF3-generated candidate pools across four independent benchmarks covering general protein-protein, antibody-antigen, protein-peptide, and antibody-peptide complexes. TINA consistently achieves superior or competitive performance in terms of top-1 success rate, enrichment factor, and top-1 DockQ quality. Notably, its benefit is most pronounced in low-confidence and antibody-related scenarios, where AF3 internal ranking signals are less effective in discriminating among candidate conformations. Representative case studies demonstrate that TINA successfully identifies near-native conformations that are present in the AF3 decoy pool but overlooked by ipTM. Ablation experiments further confirm the critical contributions of atom-level graphs, many-body geometric modules, and the joint loss design. Overall, TINA demonstrates that independent, interface-focused post-hoc scoring remains a valuable complement to AF3, particularly for challenging complexes where local geometric discrimination is critical for accurate model selection.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "TINA是一种几何感知的事后打分框架，通过原子级界面图与多体几何建模，在AF3候选模型中更准确地挑选近天然构象。",
+    "conclusion": "TINA利用原子级界面图和多体张量建模刻画局部接触、角度与扭转约束，经ZDOCK诱饵集联合排序回归训练并针对蛋白-肽微调，在四类基准上取得更优或相当的top-1成功率与DockQ，尤其在低置信度和抗体相关场景中能识别被ipTM忽略的近天然构象，表明独立的界面聚焦事后打分是AF3的有力补充。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42853663",
     "title": "SETDB1 preferentially silences evolutionarily young retroelements",
     "type": "paper",
@@ -48,7 +126,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +152,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
