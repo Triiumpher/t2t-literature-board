@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42860374",
+    "title": "Why rotation and mixture fail: treatment history and the declining acaricide efficacy in Varroa destructor",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Bryant S, Mikheyev AS.",
+    "publish_date": "2026-10-11",
+    "added_at": "2026-10-12",
+    "url": "https://europepmc.org/article/MED/42860374",
+    "doi": "10.1002/ps.71341",
+    "pmid": "42860374",
+    "abstract": "BACKGROUND: Insecticide resistance management (IRM) strategies, such as rotation and mixture, rely on fitness tradeoffs and susceptible population dilution to slow resistance. While IRM is widely recommended, its robustness when a target pest's biology violates these foundational assumptions remains poorly tested. The honey bee parasite, Varroa destructor, provides a test case to evaluate these limits. For instance, V. destructor's obligate sibling mating prevents genetic dilution, resistance mutations appear to carry low fitness costs, and acaricide-absorbing beeswax exerts continuous sub-lethal selection even after treatment ceases. Using this system to validate IRM principles, we asked: (1) Does treatment cessation successfully restore acaricide susceptibility? and (2) Do rotation and mixture strategies effectively maintain high mite mortality when standard IRM conditions are compromised? RESULTS: We conducted the first meta-analysis of IRM outcomes in V. destructor synthesizing treatment history and efficacy data from 15 studies (nine on rotation, seven on mixtures). Modelling revealed acaricide effectiveness declined by 5.5% per year of active treatment, while sensitivity rebounded by 10.7% per year following treatment cessation. Despite this partial recovery, neither rotation nor mixture strategies were associated with improved mite mortality. Susceptibility rebounds were likely insufficient to restore the near-complete kill rates rotation requires, while progressive efficacy declines undermined the baseline conditions necessary for mixtures. CONCLUSION: Ultimately, although IRM is the standard recommendation for V. destructor, our findings demonstrate that real-world implementation is unlikely to succeed without treatment-history tracking and prescriptive intervention before widespread resistance is established. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Varroa destructor",
+    "species_en": "Varroa mite",
+    "species_zh": "狄斯瓦螨",
+    "takeaway": "元分析显示狄斯瓦螨杀螨剂药效随用药年限下降，停药可部分恢复，但轮换与混用均未能提高杀螨效果。",
+    "conclusion": "在瓦螨这一违反抗性治理基本假设的体系中，轮换和混用策略均未改善螨死亡率：药效随持续用药每年下降约5.5%，停药后敏感性每年回升约10.7%，但恢复幅度不足以支撑轮换所需的高致死率，药效持续衰退也破坏了混用的前提。因此实际应用中须追踪用药历史，并在抗性广泛形成前进行规范性干预。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42859311",
     "title": "Use of pour-on formulations of fluralaner in prophylactic treatments against Cochliomyia hominivorax in newborn calves under extensive grazing systems",
     "type": "paper",
@@ -513,6 +539,32 @@
     "species_zh": "黑腿蜱",
     "takeaway": "新型天然等同杀螨剂Flavocide乳剂对黑腿蜱若虫致死率高且持效四周，优于合成菊酯对照。",
     "conclusion": "Flavocide乳剂在接触试验中24、48小时致死率显著高于合成菊酯Talstar-P，且持效达四周，虽击倒速度较慢；天然产品OPC仅表现驱避作用。研究还表明多数蜱藏匿于基质表面或下方，提示施药需考虑此行为，并支持进一步测试更低有效成分浓度。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42860092",
+    "title": "Neonicotinoid pesticides transport at the water-sediment interface: Integrating microcosm experiments and field-based fugacity modeling",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Water research",
+    "authors": "Cai YY, Long XF, Liu XY, Weng SC, Li RQ, Zhang QQ, Liu SS, Ying GG.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-12",
+    "url": "https://europepmc.org/article/MED/42860092",
+    "doi": "10.1016/j.watres.2026.127090",
+    "pmid": "42860092",
+    "abstract": "Neonicotinoid insecticides (NNIs) are widely detected in aquatic systems, yet the interfacial processes regulating their exchange between overlying water and sediments remain poorly quantified. This study integrated diffusive gradients in thin films (DGT)-based microcosm experiments, field monitoring, and fugacity modeling to determine the transport and fate of five NNIs at the water-sediment interface. Under microcosm conditions, NNIs rapidly transferred from overlying water to sediment and approached apparent interfacial equilibrium after 168 h. The experimentally derived effective interfacial diffusion coefficients (Deff) ranged from 0.88 to 3.19 × 10⁻⁵ m²/h. Incorporating these parameters into the fugacity model revealed that all five NNIs exhibited fugacity ratios exceeding 0.5, suggesting net diffusion from sediment to water and the potential role of sediments as secondary NNI sources under field conditions. Diffusion accounted for 93-99% of the sediment-to-water flux, whereas advection dominated system-scale removal. Model predictions reproduced the general concentration ranges observed in field measurements, with 100% of water phase and 81.8% of sediment comparisons falling within one order of magnitude. These findings demonstrate the dynamic role of sediments in NNI transport and provide experimentally constrained transport parameters for and an integrated framework for assessing pesticide fate at the water-sediment interface in riverine systems.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用DGT微宇宙实验结合逸度模型研究五种新烟碱农药在水-沉积物界面的迁移，发现沉积物可成为二次释放源。",
+    "conclusion": "五种新烟碱农药在168小时内由上覆水快速转入沉积物并趋于界面平衡，有效界面扩散系数为0.88–3.19×10⁻⁵ m²/h；逸度比均超0.5，表明野外条件下沉积物向水体净扩散，扩散贡献93–99%的沉积物-水通量，而平流主导系统尺度去除，模型预测与实测浓度总体吻合。",
     "keywords": [
       "新型杀虫剂"
     ],
