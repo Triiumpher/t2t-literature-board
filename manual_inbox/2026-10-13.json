@@ -1,0 +1,162 @@
+[
+  {
+    "id": "manual-20261013-pythium-t2t",
+    "title": "Pythium属物种首个端粒到端粒（T2T）完整基因组的构建与功能注释",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通（编译自 Scientific Data）",
+    "authors": "",
+    "publish_date": "2026-10-10",
+    "added_at": "2026-10-13",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261010030804021.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对Pythium属（腐霉属，含众多植物与动物病原物种）高质量基因组资源匮乏的问题，研究整合NGS、PacBio HiFi、ONT与Hi-C数据，构建了该属首个端粒到端粒（T2T）完整基因组，总大小59.9 Mb，scaffold N50为3.5 Mb，BUSCO完整度94.91%。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "首个Pythium属T2T基因组完成组装并注释14,111个蛋白编码基因与382个效应蛋白，为腐霉进化与致病机制研究提供优质资源。",
+    "conclusion": "该T2T基因组共预测14,111个蛋白编码基因，其中12,711个（90.08%）经功能数据库注释，并预测382个效应蛋白；高质量无缺口组装为解析Pythium属物种进化历史与致病机制、制定防控策略提供了关键基础。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "Pythium",
+      "腐霉",
+      "无缺口基因组",
+      "基因组组装",
+      "PacBio HiFi",
+      "效应蛋白",
+      "卵菌"
+    ]
+  },
+  {
+    "id": "manual-20261013-dgmpnn",
+    "title": "一种基于蛋白质折叠反向信息的预训练模型，用于预测蛋白质-蛋白质相互作用中的突变效应",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（编译自 iScience）",
+    "authors": "",
+    "publish_date": "2026-10-08",
+    "added_at": "2026-10-13",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261008084617801.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究提出delta-G消息传递神经网络（DGMPNN），先在反向蛋白质折叠（IPF）任务上预训练，再以自适应残基级注意力池化进行迁移学习，直接从骨架结构预测PPI结合亲和力变化（ΔΔG），无需结构采样或预计算理化特征。模型在SKEMPI基准与深度突变扫描（DMS）数据集上达到最先进性能，并识别出此前未观察到的SARS-CoV-2抗体逃逸变体。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "IPF预训练加残基级注意力池化的DGMPNN可准确预测PPI突变效应（ΔΔG），性能超越现有方法且计算预测与实验测量高度一致。",
+    "conclusion": "DGMPNN在S2462数据集上ln(KD)预测PCC达0.93、ΔΔG预测PCC为0.80，在S1131与S4169基准上平均PCC分别为0.874和0.790，与同类方法相当或更优；SARS-CoV-2 RBD-hACE2多点突变的实验验证显示预测亲和力与实测高度吻合，为蛋白质工程、药物发现与新兴病原体变体评估提供通用平台。",
+    "keywords": [
+      "蛋白质互作预测",
+      "PPI",
+      "突变效应",
+      "ΔΔG",
+      "结合亲和力",
+      "消息传递神经网络",
+      "反向蛋白质折叠",
+      "迁移学习",
+      "深度突变扫描"
+    ]
+  },
+  {
+    "id": "manual-20261013-multimermapper",
+    "title": "基于上下文的蛋白质结构预测分析与复合物化学计量推断的MultimerMapper工具",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（编译自 Frontiers in Bioinformatics）",
+    "authors": "",
+    "publish_date": "2026-10-08",
+    "added_at": "2026-10-13",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/202610080003190352.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对AI多聚体结构预测结果缺乏系统性分析工具、复合物化学计量难以推断的问题，研究提出MultimerMapper软件套件：从输入序列列表出发，用化学计量空间探索算法生成高信息量的结构预测集成，结合图论社区聚类、RMSD伪轨迹、伙伴分布偏差与多价链分数等指标，解析不同建模背景下蛋白质界面与构象的变化。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "MultimerMapper通过上下文相关的结构集成分析，可推断复合物化学计量、识别替代互作模式与构象变化，为动态复合物研究和湿实验设计提供指导。",
+    "conclusion": "MultimerMapper在锥虫复合物上训练验证、在非锥虫复合物上证实普遍适用，能够突出高阶亚组装、推断化学计量、识别与特定伙伴存在与否相关的替代相互作用模式和构象变化，弥补了AlphaFold等AI结构预测工具在系统解释与动态分析方面的不足。",
+    "keywords": [
+      "蛋白质互作预测",
+      "PPI",
+      "蛋白质复合物",
+      "化学计量推断",
+      "MultimerMapper",
+      "AlphaFold",
+      "多聚体结构预测",
+      "图论",
+      "互作界面"
+    ]
+  },
+  {
+    "id": "manual-20261013-sma2-rna-pesticide-resistance",
+    "title": "棉铃虫肠道共生菌嗜麦芽寡养单胞菌通过分泌核酸酶增强害虫对RNA生物农药与杆状病毒的抗性",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "河南农业大学植物保护学院（论文发表于 npj Biofilms and Microbiomes）",
+    "authors": "",
+    "publish_date": "2026-10-08",
+    "added_at": "2026-10-13",
+    "url": "https://zhibao.henau.edu.cn/a/kejiaochengguo/20261009/3892.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究从棉铃虫中肠分离出嗜麦芽寡养单胞菌（Stenotrophomonas maltophilia）Sma2，发现其分泌EN1、EN2、EN3三种胞外核酸酶，其中EN3可同时高效降解dsRNA与dsDNA，是介导害虫抵抗RNA生物农药与杆状病毒的核心效应蛋白；菌株还通过诱导围食膜增厚、上调免疫基因形成三重保护。",
+    "species_latin": "Helicoverpa armigera",
+    "species_en": "cotton bollworm",
+    "species_zh": "棉铃虫",
+    "takeaway": "肠道共生菌分泌的核酸酶可降解RNA农药与病毒核酸，是田间核酸类生物制剂防效波动的重要原因，为药剂增效与新靶标设计提供方向。",
+    "conclusion": "Sma2可在棉铃虫中肠稳定定殖并成为优势菌群，通过叶面喷施和注射两套dsRNA体系证实其显著削弱RNAi效果、降低害虫死亡率，并使感染HearNPV后幼虫存活率提升约30%；在家蚕中跨物种验证了其抗病毒保护效应，表明共生菌介导的核酸降解是核酸类绿色农药应用中需重点防控的抗性机制。",
+    "keywords": [
+      "RNA生物农药",
+      "RNAi",
+      "抗性机制",
+      "肠道共生菌",
+      "嗜麦芽寡养单胞菌",
+      "核酸酶",
+      "杆状病毒",
+      "棉铃虫",
+      "生物农药"
+    ]
+  },
+  {
+    "id": "manual-20261013-trichoderma-aphid-rnai",
+    "title": "上海交大团队构建木霉合成递送dsRNA体系：筛选桃蚜唾液腺RNAi靶标并开辟“生防真菌+核酸农药”防虫新路径",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "上海交通大学农业与生物学院（论文发表于 Pest Management Science）",
+    "authors": "",
+    "publish_date": "2026-09-24",
+    "added_at": "2026-10-13",
+    "url": "http://www.agri.sjtu.edu.cn/post/5774",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究从桃蚜唾液腺转录组筛选出Mp5、Mp11、Mp44、Mp45、MpC002及V-ATPase亚基E六个高特异性RNAi靶标，siRNA喂饲验证沉默效率达62%–98%，并首次将靶向V-ATPase E与C002的融合片段导入棘孢木霉，构建出能稳定合成并递送dsRNA/siRNA的工程化生防菌体系。",
+    "species_latin": "Myzus persicae",
+    "species_en": "green peach aphid",
+    "species_zh": "桃蚜",
+    "takeaway": "工程化棘孢木霉成为“活的RNA农药工厂”，以生防真菌定殖优势持续保护并递送dsRNA，开创“生防真菌+核酸农药”协同防控范式。",
+    "conclusion": "Mp44等靶标在蜜蜂等非靶标物种中无显著同源序列、脱靶风险低且沉默后桃蚜存活率与繁殖力显著下降；34株工程木霉稳定整合表达外源基因，兼具定殖促生与RNAi快速杀伤能力，载体设计与营养缺陷/自杀基因策略也为生物安全评价和法规申报预留接口。",
+    "keywords": [
+      "RNA生物农药",
+      "RNAi靶标",
+      "dsRNA递送",
+      "木霉",
+      "桃蚜",
+      "唾液腺",
+      "生防真菌",
+      "生物农药",
+      "绿色防控"
+    ]
+  }
+]
