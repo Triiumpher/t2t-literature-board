@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42859311",
+    "title": "Use of pour-on formulations of fluralaner in prophylactic treatments against Cochliomyia hominivorax in newborn calves under extensive grazing systems",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tropical animal health and production",
+    "authors": "Gamietea IJ, Rossner MV, L Lifschitz A, Anziani OS, Nava S.",
+    "publish_date": "2026-10-10",
+    "added_at": "2026-10-12",
+    "url": "https://europepmc.org/article/MED/42859311",
+    "doi": "10.1007/s11250-026-05398-8",
+    "pmid": "42859311",
+    "abstract": "The aim of this study was to evaluate the efficacy of pour-on fluralaner formulations for the prevention of cutaneous myiasis caused by Cochliomyia hominivorax in newborn calves under field conditions. Three field trials were conducted in Argentina, including subtropical and temperate regions. In Trial 1, calves with unhealed navels were assigned to two fluralaner-treated groups with different commercial pour-on formulations and an untreated control group. In Trial 2, two groups of newborn calves were treated either with fluralaner pour-on or injectable doramectin. Trial 3, where 84 calves were also treated with a pour-on formulation of fluralaner, was performed in an island livestock farming systems located along the Paraná River, where extensive grazing conditions are extreme, and the operational difficulties associated with providing meticulous animal husbandry practices to prevent parasitic diseases in cattle are amplified. Animals were monitored daily for the occurrence of myiasis. In Trial 1, no cases of myiasis were recorded in fluralaner-treated calves, whereas all control animals became infested. In Trial 2, no infestations were observed in the fluralaner-treated group, while myiasis was recorded in 3.5% of calves treated with doramectin. In Trial 3, the prevalence of myiasis in fluralaner-treated calves was 7.1%, with most cases associated with treatments applied under rainy conditions. In contrast, a prevalence of 34.5% was recorded in the previous year in the same herd when treatment consisted of insecticidal formulations based on organophosphates and pyrethroid. No adverse effects associated with fluralaner treatment were observed in all treated calves. These results demonstrate the high efficacy of fluralaner pour-on formulations for the prevention of C. hominivorax myiasis in newborn calves under extensive production systems.",
+    "species_latin": "Bos taurus",
+    "species_en": "Cattle",
+    "species_zh": "牛",
+    "takeaway": "在阿根廷三个野外试验中，浇泼用氟雷拉纳可显著降低新生犊牛由嗜人锥蝇引起的蝇蛆病发生率。",
+    "conclusion": "浇泼用氟雷拉纳在放牧条件下对新生犊牛预防嗜人锥蝇蝇蛆病效果显著，试验中处理组发病率远低于对照组及多拉菌素组，且未见不良反应，可作为传统杀虫剂的有效替代方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42855603",
     "title": "Near-complete genomes for nine haplochromine cichlid fishes reveal a novel centromeric satellite structure organised around a pair of inverted elements",
     "type": "paper",
