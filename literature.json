@@ -648,6 +648,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42863378",
+    "title": "An OGP binding protein complex-mimicking peptide hydrogel for dental pulp regeneration",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biomaterials",
+    "authors": "Sha Y, Zhan W, Qin Z, Sun S, Li J, Zong Y, Li M, Jiang F, Liang G, Zhang G.",
+    "publish_date": "2026-10-06",
+    "added_at": "2026-10-13",
+    "url": "https://europepmc.org/article/MED/42863378",
+    "doi": "10.1016/j.biomaterials.2026.124679",
+    "pmid": "42863378",
+    "abstract": "The regeneration of the dentin-pulp complex remains a critical challenge in oral regenerative medicine. Osteogenic growth peptide (OGP) has garnered significant attention due to its theoretical ability to promote the differentiation of human dental pulp stem cells (hDPSCs). However, its clinical potential is limited by rapid diffusion and susceptibility to enzymatic degradation within the tissue microenvironment. Inspired by the natural OGP-OGP binding protein (OGPBP) system, this study reports an OGPBP complex-mimicking peptide hydrogel (Gel Nap-OGP) for dental pulp regeneration. Gel Nap-OGP is obtained via ultraviolet-triggered co-assembly of two rationally designed peptides: an OGP mimetic peptide Nap-Phe-Phe-Glu-Tyr-Gly-Phe-Gly-Gly-OH (NapFFEOGP(10-14)) and an OGPBP mimetic peptide Nap-Phe-Phe-Glu-Lys(acrylamide)-Lys(acrylamide)-OH (NapFFEK(aa)K(aa)). The resulting hydrogel nanofiber network loads NapFFEOGP(10-14) through dynamic non-covalent interactions, effectively preventing the peptide from enzymatic degradation and facilitating its controlled release. In vitro studies demonstrate that Gel Nap-OGP maintained favorable cytocompatibility without significantly affecting hDPSC proliferation, while enhancing osteogenic/odontogenic differentiation, as indicated by increased expression of RUNX2, ALP, and DSPP. Furthermore, in vivo experiments confirm its excellent biosafety, along with its ability to enhance mineralized tissue formation in an ectopic renal capsule model. RNA sequencing analyses further reveal that Gel Nap-OGP can modulate gene expression programs related to classical osteogenic/odontogenic signaling pathways. We anticipate that this biomimetic peptide hydrogel could be applied for dental pulp regeneration in clinical settings in the future.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "仿生OGP结合蛋白肽水凝胶可缓释OGP并促进牙髓干细胞成骨/成牙分化",
+    "conclusion": "该研究模拟天然OGP-OGPBP系统，通过紫外触发两种设计肽共组装形成水凝胶，以非共价作用负载OGP模拟肽，避免酶解并实现控释。体外实验显示其细胞相容性良好，可增强hDPSC成骨/成牙本质分化相关基因表达；体内实验证实其生物安全性并促进矿化组织形成，RNA测序提示其调控经典成骨/成牙信号通路，为牙髓再生提供潜在临床策略。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42839371",
     "title": "A novel elicitor confers apple resistance to Glomerella cingulata through modulation of flavonoid metabolic pathways",
     "type": "paper",
