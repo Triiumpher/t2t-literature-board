@@ -1,0 +1,35 @@
+[
+  {
+    "id": "manual-20261014-bph-endosymbiont-folate",
+    "title": "【Cell Reports】华中农业大学揭示共生菌经叶酸介导DNA甲基化调控褐飞虱杀虫剂敏感性的新机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：华中农业大学植物科学技术学院，论文发表于 Cell Reports）",
+    "authors": "",
+    "publish_date": "2026-10-10",
+    "added_at": "2026-10-14",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261010090151753.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "华中农业大学农药毒理学与有害生物抗药性团队发现，褐飞虱胞内共生菌Arsenophonus nilaparvatae与宿主碱性磷酸酶代谢互补、协同促进叶酸合成；叶酸升高SAM/SAH比值并上调NlDNMT3，增强全基因组DNA甲基化，使解毒基因NlCYP6ER1启动子甲基化增强、表达下降，从而提高褐飞虱对杀虫剂的敏感性。",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "共生菌—叶酸—DNA甲基化轴抑制P450解毒基因表达，为从营养代谢层面干预害虫抗药性提供了新靶标。",
+    "conclusion": "A. nilaparvatae通过叶酸相关表观遗传途径抑制宿主解毒代谢，降低P450表达与单加氧酶活性；抑制DNA甲基化可部分逆转上述效应。取食高叶酸转基因水稻的褐飞虱对杀虫剂更敏感，且外源叶酸同样增敏草地贪夜蛾、棉蚜等害虫，表明该增敏效应具有跨物种普适性，叶酸代谢可作为害虫防控的潜在干预靶点。",
+    "keywords": [
+      "杀虫剂敏感性",
+      "抗药性治理",
+      "共生菌",
+      "叶酸",
+      "DNA甲基化",
+      "P450",
+      "NlCYP6ER1",
+      "解毒代谢",
+      "褐飞虱",
+      "Arsenophonus"
+    ]
+  }
+]
