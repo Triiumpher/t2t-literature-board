@@ -52,6 +52,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42867505",
+    "title": "Structure-based discovery of acridone alkaloids as disruptors of the HEG1-KRIT1 protein-protein interaction in cerebral cavernous malformation signaling",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Medicinal chemistry research : an international journal for rapid communications on design and mechanisms of action of biologically active agents",
+    "authors": "Kamel EM, Bin-Jumah M, Alfassam HE, Alotaibi RA, Allam AA, Alshabrmi FM, Alkhayl FFA, Lamsabhi AM.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-14",
+    "url": "https://europepmc.org/article/MED/42867505",
+    "doi": "10.1007/s00044-026-03627-1",
+    "pmid": "42867505",
+    "abstract": "The HEG1-KRIT1 interaction is essential for endothelial cerebral cavernous malformation complex localization and signaling, making this interface a relevant target for chemical disruption. This study aimed to identify acridone alkaloids capable of inhibiting HEG1 binding to KRIT1 through integrated virtual screening, molecular simulations, binding-energy analysis, drug-likeness prediction, and experimental validation. Screening of 2,449 acridone alkaloids prioritized five candidates: 5-hydroxynoracronycine, acronycine, arborinine, glycocitrine I, and rutacridone. Computational analyses showed stable binding within the HEG1-recognition pocket of KRIT1 and predicted interface weakening, with rutacridone and 5-hydroxynoracronycine producing the strongest destabilizing effects. A bead-based flow-cytometry competition assay confirmed concentration-dependent inhibition, with half-maximal inhibitory concentration values of 2.21 ± 0.31 µM for rutacridone, 2.30 ± 0.30 µM for arborinine, and 2.90 ± 0.35 µM for 5-hydroxynoracronycine. These findings identify rutacridone, arborinine, and 5-hydroxynoracronycine as promising acridone-based starting points for developing HEG1-KRIT1 interaction disruptors. The image explains the difference between normal and disrupted HEG1-KRIT1 protein interactions affecting CCM signaling. On the left, the homeostatic HEG1-KRIT1 complex forms at the endothelial cell membrane, where HEG1 and VE-cadherin proteins connect with KRIT1 (FERM domain) and CCM2 and CCM3 proteins. This complex activates a signaling cascade through MEKK3, MEK5, ERK5, MEF2, and KLF2/4, resulting in regulated CCM signaling. On the right, a small-molecule protein-protein interaction disruptor blocks the binding between HEG1 and KRIT1, shown by a red cross. This disruption prevents the normal complex formation, leading to dysregulated CCM signaling and an altered KLF2/4 transcriptional response. A predicted binding model illustrates the small molecule at the HEG1-KRIT1 interface, with HEG1 cytoplasmic tail and KRIT1 FERM domain labeled.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "通过虚拟筛选与实验验证，发现吖啶酮类生物碱可破坏HEG1-KRIT1相互作用。",
+    "conclusion": "研究结合虚拟筛选、分子模拟与结合能分析，从2449种吖啶酮类生物碱中筛选出5个候选物，并经流式细胞术竞争实验证实rutacridone、arborinine和5-hydroxynoracronycine能以微摩尔级浓度抑制HEG1与KRIT1结合，为开发靶向该界面的CCM信号调控剂提供了先导化合物。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42867879",
+    "title": "Gluconeogenic compensation renders glycogen phosphorylase non-essential as an insecticidal target in Plutella xylostella",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "eLife",
+    "authors": "Zhou Y, Kang Y, Liu Y, Li R, Wang D, Yi C, Li Y, Zhang Y, Tian Z, Liu J.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-14",
+    "url": "https://europepmc.org/article/MED/42867879",
+    "doi": "10.7554/elife.111144",
+    "pmid": "42867879",
+    "abstract": "Glycogen phosphorylase (GP) catalyzes the rate-limiting step of glycogenolysis and supplies precursors for chitin biosynthesis in insects. Acyl urea compounds structurally related to benzoylphenylurea (BPU) insecticides are potent inhibitors of mammalian GP, raising the question of whether insect GP could serve as an independent insecticidal target. Here, we show that a mammalian GP inhibitor (GPI) potently inhibits recombinant Plutella xylostella GP (PxGP; IC50=2.96 nM), while the BPU insecticide diflubenzuron does not. Molecular docking and MM/GBSA analysis predict that this selectivity reflects differential side-chain engagement. Despite potent in vitro inhibition, GPI exhibits no insecticidal activity, and RNAi-mediated knockdown of PxGP does not impair development or survival. We provide evidence that insects compensate through upregulation of gluconeogenic enzymes (PEPCK, G-6-Pase) and protein catabolism, with enzyme activity measurements confirming ~29% reduction in GP-a activity following RNAi. Fitness assessment reveals transient larval weight loss with complete recovery of pupal weight, adult morphology, and fecundity. These findings demonstrate that GP is functionally non-essential under the tested conditions, likely through gluconeogenic compensation and alternative carbon sources, and highlight the importance of metabolic network redundancy in target-based insecticide design.",
+    "species_latin": "Plutella xylostella",
+    "species_en": "diamondback moth",
+    "species_zh": "小菜蛾",
+    "takeaway": "小菜蛾糖原磷酸化酶虽可被高效抑制，但糖异生补偿使其成为非必需靶点",
+    "conclusion": "哺乳动物GP抑制剂能高效抑制小菜蛾GP，但无杀虫活性；RNAi敲低PxGP也不影响发育与存活，因昆虫上调PEPCK、G-6-Pase等糖异生酶并增强蛋白分解来补偿，说明代谢网络冗余使GP不适合作为杀虫靶标。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42862407",
     "title": "Biochar-mediated immobilization of aged napropamide in soil: reduced bioavailability and underlying sequestration mechanisms",
     "type": "paper",
@@ -161,6 +213,32 @@
       "褐飞虱",
       "Arsenophonus"
     ]
+  },
+  {
+    "id": "pmid-42868986",
+    "title": "Protein interactions with small molecules, peptides and proteins share residue cluster classes",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of molecular graphics & modelling",
+    "authors": "Hernández Castillo JM, Vilchis Macias EH, Del Rio G.",
+    "publish_date": "2026-10-10",
+    "added_at": "2026-10-14",
+    "url": "https://europepmc.org/article/MED/42868986",
+    "doi": "10.1016/j.jmgm.2026.109614",
+    "pmid": "42868986",
+    "abstract": "Macromolecular interactions with small molecules, peptides, and proteins are fundamental to cellular function. Despite intensive efforts to identify small-molecule modulators of protein-protein interactions (PPIs), successfully targeted interfaces remain rare, reinforcing the premise that binding sites across these molecular scale regimes possess distinct structural architectures. We previously demonstrated that the densest topological regions of protein structures, categorized as a collection of Residue Cluster Classes (cRCC), can effectively classify global protein folds and PPI. Here, we leverage the cRCC framework to train machine learning models to classify peptide-protein interactions. The top-performing algorithms achieved near 100% classification accuracy, with minimal overfitting (<2%). To ensure model generalizability, these optimized algorithms were cross-tested on independent datasets to identify both protein-protein and protein-small-molecule interfaces, maintaining a 95% average success rate and validating the robust predictive reliability of our approach. Collectively, these findings show that cRCC constitute intensive structural properties of protein interfaces, remaining invariant to the molecular weight of the interacting partner. Consequently, this framework provides a novel computational strategy to prioritize druggable PPI targets for small-molecule discovery and guide the rational design of synthetic protein interfaces.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用残基簇类(cRCC)训练机器学习模型,可高精度区分肽-蛋白、蛋白-蛋白及蛋白-小分子界面。",
+    "conclusion": "cRCC刻画了蛋白界面的密集结构特征,且不随结合伙伴分子量变化而改变。基于此的模型分类准确率近100%、过拟合低于2%,跨数据集测试平均成功率约95%,为筛选可成药PPI靶点及理性设计人工蛋白界面提供了新计算策略。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "manual-20261013-pythium-t2t",
