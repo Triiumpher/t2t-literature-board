@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42867301",
+    "title": "Genome size estimation and genome assembly completeness assessment",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "The Journal of heredity",
+    "authors": "Udroiu I.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-14",
+    "url": "https://europepmc.org/article/MED/42867301",
+    "doi": "10.1093/jhered/esag086",
+    "pmid": "42867301",
+    "abstract": "Evaluation of genome size has been extensively used in different fields. In many studies, it has been employed to test correlation with other parameters such as metabolic rates, longevity and ecological/geographical distribution. Moreover, genome size assessed with cytometrical methods can be useful to evaluate the completeness of genome assemblies. In this latter case, knowledge of the accuracy of cytometry-based genome size measurement is fundamental, and a pivotal factor is the internal standard used during measurement. In the present article, I tested the correlation between cytometry-measured genome sizes and assembly sizes, finding a probable systemic error. Indeed, the two most widely used internal standard, i.e., human and chicken, are traditionally set equal to 3.5 and 1.25 pg, respectively. With the advent of telomere-to-telomere genome assembly, we can now know the real genome size for several species, being actually 3.19 pg for human and 1.12 pg for chicken. Recalculating the genome size for 912 vertebrate species, I assessed the level of genome assembly completeness, explored the influence of factors such as sequencing platform and gave some suggestions for future studies.",
+    "species_latin": "Homo sapiens, Gallus gallus",
+    "species_en": "human, chicken",
+    "species_zh": "人、鸡",
+    "takeaway": "用细胞术基因组大小评估组装完整性时，人类和鸡内标旧值偏高，导致脊椎动物基因组大小系统性误差。",
+    "conclusion": "细胞术测得的基因组大小与组装大小存在系统性偏差，根源在于人（3.5 pg）和鸡（1.25 pg）内标传统取值高于端粒到端粒组装所得真实值（3.19 pg和1.12 pg）。重算912种脊椎动物数据后，重新评估了组装完整性，并分析了测序平台等因素的影响，为未来研究提出建议。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42867293",
+    "title": "TRV-VIGS establishment and functional characterization identify cinnamoyl-CoA reductase 4 as a crucial enzyme for lignan biosynthesis in Phryma leptostachya",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of experimental botany",
+    "authors": "Pei Y, Wang C, Zhang H, Li B, Zhu Q, Song Z, Yu W, Kong X, Wu W, Zuo Y, Hu Z.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-14",
+    "url": "https://europepmc.org/article/MED/42867293",
+    "doi": "10.1093/jxb/erag513",
+    "pmid": "42867293",
+    "abstract": "Furofuran lignans are the primary insecticidal and medicinal bioactive compounds in Phryma leptostachya, yet their species-specific biosynthetic pathways remain incompletely deciphered. We established a Tobacco rattle virus-based virus-induced gene silencing system, identifying vacuum-assisted infiltration of Agrobacterium tumefaciens strain GV3101 at the four-leaf stage as the optimal inoculation condition. Silencing the PlCYP81Q38 gene via this system markedly decreased root accumulation of sesamin and 6-demethoxyleptostachyol acetate. Combined transcriptomic and metabolomic analyses revealed that PlCYP81Q38-silenced plants exhibited upregulated phenylpropanoid pathway genes, including phenylalanine ammonia lyase, cinnamoyl-CoA reductase (CCR), and dirigent protein 1, alongside elevated levels of lignan precursors (coniferyl alcohol, (+)-pinoresinol). Within this pathway, CCR enzymes catalyze hydroxycinnamoyl-CoA substrates across multiple branches. We characterized the PlCCR family and confirmed that PlCCR4 acts as a dedicated catalytic enzyme for lignan biosynthesis. It exhibited the highest in vitro catalytic efficiency for feruloyl-CoA (Kcat/Km = 244.90 min-1/nM) and was essential for lignan biosynthesis in vivo. Its homolog PlCCR5 exhibited significantly lower efficiency; homology modeling and molecular docking indicated that an Asp64-to-Glu64 substitution in the NADPH-binding region may alter the cofactor microenvironment, plausibly reducing its activity. This study identifies PlCCR4 as an important upstream enzyme, providing a valuable genetic target for engineering sustainable production of bioactive lignan insecticides.",
+    "species_latin": "Phryma leptostachya",
+    "species_en": "Phryma leptostachya",
+    "species_zh": "透骨草",
+    "takeaway": "在Phryma leptostachya中建立TRV-VIGS体系，鉴定PlCCR4为木脂素生物合成的关键酶。",
+    "conclusion": "建立了烟草脆裂病毒诱导的基因沉默体系，沉默PlCYP81Q38导致芝麻素等木脂素积累下降并上调苯丙烷途径基因。PlCCR4对阿魏酰辅酶A催化效率最高，是木脂素生物合成必需酶；其同源物PlCCR5因Asp64变为Glu64而活性较低。该研究为工程化生产木脂素杀虫剂提供遗传靶点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42862407",
     "title": "Biochar-mediated immobilization of aged napropamide in soil: reduced bioavailability and underlying sequestration mechanisms",
     "type": "paper",
@@ -76,6 +128,39 @@
     ],
     "via": "PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261014-bph-endosymbiont-folate",
+    "title": "【Cell Reports】华中农业大学揭示共生菌经叶酸介导DNA甲基化调控褐飞虱杀虫剂敏感性的新机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：华中农业大学植物科学技术学院，论文发表于 Cell Reports）",
+    "authors": "",
+    "publish_date": "2026-10-10",
+    "added_at": "2026-10-14",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261010090151753.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "华中农业大学农药毒理学与有害生物抗药性团队发现，褐飞虱胞内共生菌Arsenophonus nilaparvatae与宿主碱性磷酸酶代谢互补、协同促进叶酸合成；叶酸升高SAM/SAH比值并上调NlDNMT3，增强全基因组DNA甲基化，使解毒基因NlCYP6ER1启动子甲基化增强、表达下降，从而提高褐飞虱对杀虫剂的敏感性。",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "共生菌—叶酸—DNA甲基化轴抑制P450解毒基因表达，为从营养代谢层面干预害虫抗药性提供了新靶标。",
+    "conclusion": "A. nilaparvatae通过叶酸相关表观遗传途径抑制宿主解毒代谢，降低P450表达与单加氧酶活性；抑制DNA甲基化可部分逆转上述效应。取食高叶酸转基因水稻的褐飞虱对杀虫剂更敏感，且外源叶酸同样增敏草地贪夜蛾、棉蚜等害虫，表明该增敏效应具有跨物种普适性，叶酸代谢可作为害虫防控的潜在干预靶点。",
+    "keywords": [
+      "杀虫剂敏感性",
+      "抗药性治理",
+      "共生菌",
+      "叶酸",
+      "DNA甲基化",
+      "P450",
+      "NlCYP6ER1",
+      "解毒代谢",
+      "褐飞虱",
+      "Arsenophonus"
+    ]
   },
   {
     "id": "manual-20261013-pythium-t2t",
