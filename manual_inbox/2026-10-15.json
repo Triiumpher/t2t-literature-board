@@ -1,0 +1,101 @@
+[
+  {
+    "id": "manual-20261015-spodoptera-exigua-crispr-resistance-review",
+    "title": "CRISPR/Cas9 在斜纹夜蛾中解析杀虫剂抗性的应用：全面综述",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：Pesticide Biochemistry and Physiology 综述）",
+    "authors": "",
+    "publish_date": "2026-10-11",
+    "added_at": "2026-10-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261011000744637.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "该综述系统整合甜菜夜蛾（原文拉丁名 Spodoptera exigua，生物通中文误译为“斜纹夜蛾”）杀虫剂抗性的四大机制——靶标位点抗性、代谢解毒、转运体介导抗性与调控适应性，并将零散证据整合为以 CRISPR/Cas9 功能验证为核心的统一框架，涵盖 RyR G4946E、nAChR α6、CYP9A 基因簇、SeABCC2 等已验证案例。",
+    "species_latin": "Spodoptera exigua",
+    "species_en": "beet armyworm",
+    "species_zh": "甜菜夜蛾",
+    "takeaway": "CRISPR/Cas9 已成为确认甜菜夜蛾抗性功能基因的金标准，多重编辑与精确 HDR 是未来抗性治理的关键方向。",
+    "conclusion": "甜菜夜蛾抗性由靶标位点修饰、代谢解毒、转运体活性与调控变化共同驱动；CRISPR 敲除已功能确认 nAChR α6（鱼尼精类靶标）、SeABCC2（敲除后对 Cry1Ac 抗性达 1180 倍）、RyR G4946E（HDR 引入后对氯虫苯甲酰胺抗性增加 223 倍）及 CYP9A 家族等，为抗性监测、功能基因组学和可持续害虫管理提供了明确方向。",
+    "keywords": [
+      "杀虫剂抗性",
+      "CRISPR/Cas9",
+      "甜菜夜蛾",
+      "Spodoptera exigua",
+      "RyR",
+      "nAChR",
+      "ABC转运体",
+      "P450",
+      "Bt抗性",
+      "功能验证",
+      "综述"
+    ]
+  },
+  {
+    "id": "manual-20261015-px-vatpasea-rnai",
+    "title": "敲低液泡型H+-ATPase A亚基（vATPaseA）损害小菜蛾（Plutella xylostella）幼虫-蛹发育",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：Frontiers in Physiology）",
+    "authors": "",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261009173800992.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究通过显微注射靶向 PxvATPaseA 的 dsRNA，评估小菜蛾 RNAi 防控效果；该基因全长 ORF 1848 bp、编码 615 个氨基酸，在前肠、后肠和马氏管中高表达。注射 1200 ng dsRNA 后第2天转录水平下降 55%，幼虫致死率达 79.2%，仅 20.8% 化蛹，证明 PxvATPaseA 是高效 RNAi 靶标。",
+    "species_latin": "Plutella xylostella",
+    "species_en": "diamondback moth",
+    "species_zh": "小菜蛾",
+    "takeaway": "PxvATPaseA 沉默可致小菜蛾高致死率并阻断蛹蜕皮，是 RNA 生物农药和抗虫转基因作物的优质靶标。",
+    "conclusion": "PxvATPaseA 在小菜蛾各发育阶段广泛表达、幼虫期高表达；RNAi 沉默呈剂量依赖地抑制幼虫发育、降低鲜重、阻断蛹形成并导致 79.2% 幼虫死亡，证实其为小菜蛾可持续治理的有效分子靶标，为新型杀虫剂开发与抗虫转基因作物培育提供了候选靶基因。",
+    "keywords": [
+      "RNAi",
+      "vATPaseA",
+      "液泡型H+-ATPase",
+      "小菜蛾",
+      "Plutella xylostella",
+      "RNA生物农药",
+      "转基因抗虫",
+      "分子靶标",
+      "dsRNA"
+    ]
+  },
+  {
+    "id": "manual-20261015-nl-cyp417a1-dual-resistance",
+    "title": "褐飞虱田间种群中 CYP417A1 对烯啶虫胺和噻嗪酮双重抗性的贡献机制研究",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：Agronomy）",
+    "authors": "",
+    "publish_date": "2026-10-02",
+    "added_at": "2026-10-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261002084957257.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "广东江门褐飞虱田间种群对噻嗪酮抗性比约 1013 倍、对烯啶虫胺约 159 倍；比较转录组发现 CYP417A1（CYP4 家族飞虱相关亚家族）是唯一被两种杀虫剂共同诱导的 P450。RNAi 沉默后若虫 96 小时死亡率显著升高，分子对接预测两种药剂共享同一底物进入口袋。",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "CYP417A1 是褐飞虱田间种群对烯啶虫胺和噻嗪酮双重抗性的共同贡献基因，为跨作用机制抗性监测提供新标记。",
+    "conclusion": "CYP417A1 被两种杀虫剂显著诱导并经 RT-qPCR 验证；RNAi 沉默使烯啶虫胺致死几率提高 4.4 倍、噻嗪酮提高 2.2 倍，对接预测两种药剂结合于血红素同一底物入口腔；但本底表达差异与直接代谢活性仍待验证，尚需在多样田间种群及重组酶活性实验中确认其作为抗性标记的可用性。",
+    "keywords": [
+      "CYP417A1",
+      "褐飞虱",
+      "Nilaparvata lugens",
+      "烯啶虫胺",
+      "噻嗪酮",
+      "P450",
+      "代谢抗性",
+      "RNAi",
+      "分子对接",
+      "田间抗性"
+    ]
+  }
+]
