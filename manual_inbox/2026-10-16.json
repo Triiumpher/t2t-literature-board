@@ -1,0 +1,36 @@
+[
+  {
+    "id": "manual-20261016-dhpaas-cuticle-insecticide",
+    "title": "【创新在大工】生物工程学院科研团队在昆虫表皮形成机制与绿色农药靶标发现方向取得新突破",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "大连理工大学新闻网",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://news.dlut.edu.cn/info/1011/153945.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "大连理工大学生物工程学院刘田团队在 Science Advances 报道，3,4-二羟基苯乙醛合酶（DHPAAS）催化生成的 DHPAA 是昆虫表皮鞣化交联、决定表皮机械强度的核心前体；研究在黑腹果蝇、黄粉虫和飞蝗三种代表性昆虫中通过跨物种 RNAi、力学测试与前体定量证实其功能，并基于活性口袋虚拟筛选发现植物源天然产物 2,5,2',4'-四羟基查尔酮可选择性抑制 DHPAAS，高效杀虫而对虾蟹和鱼类低毒。",
+    "species_latin": "Locusta migratoria",
+    "species_en": "migratory locust",
+    "species_zh": "飞蝗",
+    "takeaway": "昆虫特异性醛合酶 DHPAAS 是高选择性绿色杀虫剂的理想靶标，其抑制剂四羟基查尔酮可破解稻-虾/稻-蟹共作中的虫药矛盾。",
+    "conclusion": "DHPAAS 介导的 DHPAA 交联主导表皮鞣化与机械强度（多巴胺途径主要负责着色）：黄粉虫沉默后成虫 100% 死亡、鞘翅弹性模量下降 58%，飞蝗沉默后约 30% 死亡、半数成虫胫节弯曲；DHPAAS 仅存在于陆生节肢动物，是节肢动物登陆的关键演化标记；其选择性抑制剂 2,5,2',4'-四羟基查尔酮对农业害虫高效、对水蚤和斑马鱼低毒，为绿色先导化合物与产业化应用提供了新方向。",
+    "keywords": [
+      "DHPAAS",
+      "DHPAA",
+      "表皮鞣化",
+      "选择性杀虫剂靶标",
+      "绿色农药",
+      "飞蝗",
+      "Locusta migratoria",
+      "RNAi",
+      "四羟基查尔酮",
+      "植物源天然产物",
+      "水产生态安全"
+    ]
+  }
+]
