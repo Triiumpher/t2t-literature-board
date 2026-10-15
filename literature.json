@@ -1,5 +1,158 @@
 [
   {
+    "id": "pmid-42873289",
+    "title": "Engineering cotton with ASAL and MYB genes confer dual benefits of pest resistance and fiber improvement",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Planta",
+    "authors": "Imran A, Azam S, Latif A, Shahid N, Yasmeen A, Sammiullah TR, Naeem S, Baig MA, Rao AQ, Shahid AA.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42873289",
+    "doi": "10.1007/s00425-026-05194-6",
+    "pmid": "42873289",
+    "abstract": "The MYB-ASAL strategy is a promising integrated approach for developing cotton cultivars with enhanced fiber quality and reduced pesticide resistance, strengthening the textile security. The quality of cotton fiber is a critical determinant in the textile industry, significantly influencing the overall quality of textile products. Environmental stressors, particularly extreme climatic conditions, adversely affect fiber quality. This study aims to investigate the enhancement of fiber traits by expressing the transcription factor MYB involved in fiber quality along with the implementation of crop protection strategies and by expressing the plant lectin gene ASAL, which provides resistance against sap-sucking insects. The MYB-ASAL gene cassette was ligated into plant expression vector pCAMBIA1302 which was confirmed through restriction digestion. The Agrobacterium-mediated transformation of pCAMBIA1302_MYB-ASAL cassette in cotton plants was performed through the shoot apex cut method with 1.61% transformation efficiency. The putative transgenic cotton plants were screened through PCR and amplification of 400 bp and 551 bp confirmed the presence of pCAMBIA1302_MYB-ASAL in cotton plants (AI 01-AI 10), which were then tested for mRNA expression. Out of ten transgenic plants, AI 01, AI 03, AI 07, AI 09 and AI 10 showed higher expression (7 and 8 folds) of the MYB gene in boll and leaf, respectively. The mRNA expression level of the MYB gene in T1 generation was higher in early developmental fiber stages, i.e., at 0, 3 and 6 post-anthesis (DPA). The relative MYB expression was high in sepals followed by petals, leaf, boll and seeds, while the mRNA expression of ASAL was significantly high in leaves of AI 03 and AI 09 transgenic cotton lines as compared to control. The whitefly mortality was calculated to be 78% and 80% in T0 and T1, respectively, while 10-15% in control plants. Maximum improvement in fiber length was 20.01%, in the fiber strength up to 17.1% and in the micronaire value up to 16.2% in AI 03 and AI 09 transgenic cotton lines. Scanning electron microscopy (SEM) revealed that the fibers of the transgenic cotton plants have greater number of twists per unit length than the fibers of the non-transgenic control plants. Improved morphological, physiological and biochemical characteristics revealed that MYB-ASAL has a positive impact on these characteristics. Furthermore, single gene copy number was found at chromosome number 4. These findings support the concept of utilizing these transgenic plants to integrate additional desirable traits through breeding strategies, thereby optimizing cotton fiber enhancement.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "The MYB-ASAL strategy is a promising integrated approach for developing cotton cultivars with enhanced fiber quality and reduced pesticide resistance, strengthening the textile security.",
+    "conclusion": "These findings support the concept of utilizing these transgenic plants to integrate additional desirable traits through breeding strategies, thereby optimizing cotton fiber enhancement.",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed"
+  },
+  {
+    "id": "pmid-42873228",
+    "title": "Coleopteran-active cry gene profiling and insecticidal activity of indigenous Bacillus thuringiensis strains against Holotrichia serrata",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "FEMS microbiology letters",
+    "authors": "Manjnath LS, Ramaiah M, Patil J, Sreedevi K, Kukreti A, Krishnareddy PM, Devanna P, Gopalsamy S, Sushil SN, Channappa M.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42873228",
+    "doi": "10.1093/femsle/fnag126",
+    "pmid": "42873228",
+    "abstract": "White grub (Holotrichia serrata F.) is a destructive soil-dwelling pest causing severe yield losses in several agricultural and horticultural crops. Owing to its subterranean habit, chemical control is often ineffective, necessitating sustainable biological alternatives. This study investigated the distribution of coleopteran-active cry genes among indigenous Bacillus thuringiensis strains and evaluated their insecticidal activity against H. serrata. A total of 100 indigenous B. thuringiensis strains isolated from the Western Ghats of India were screened using gene-specific PCR for 12 coleopteran-active cry genes. The most prevalent genes were cry7 (66%), cry26 (65%), cry1b (64%), and cry34 (63%), whereas cry8 and cry9 occurred in fewer than 10% of the isolates. Preliminary bioassays at 380 µg mL⁻¹ identified 20 strains causing > 50% larval mortality. Concentration-dependent bioassays showed that strain NBAIR Bt68 was the most virulent, causing 73% mortality with an LC₅₀ of 149.95 µg mL⁻¹. Highly toxic strains consistently possessed the cry7-cry26-cry34-cry35 gene combination, whereas the total number of cry genes did not correlate with high insecticidal activity. Molecular profiling combined with bioassay evaluation identified indigenous B. thuringiensis strains with promising biocontrol potential and provides insights into the association between cry gene combinations and insecticidal activity against H. serrata.",
+    "species_latin": "Bacillus thuringiensis",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "White grub (Holotrichia serrata F.) is a destructive soil-dwelling pest causing severe yield losses in several agricultural and horticultural crops.",
+    "conclusion": "thuringiensis strains with promising biocontrol potential and provides insights into the association between cry gene combinations and insecticidal activity against H.",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed"
+  },
+  {
+    "id": "pmid-42872904",
+    "title": "High value-added use of natural plant products in crop protection: construction of novel N-sulfonylpyrrolomatrine derivatives from a naturally tetracyclic quinolizidine alkaloid sophocarpine via the Van Leusen reaction as aphicidal agents",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Wang C, Wu Y, Lv M, Xu H.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42872904",
+    "doi": "10.1002/ps.71401",
+    "pmid": "42872904",
+    "abstract": "BACKGROUND: Nowadays, structural modifications of natural products have been one of procedures for research and development of new pesticide candidates. Here, by using a naturally tetracyclic quinolizidine alkaloid sophocarpine as the lead compound, a series of N-sulfonylpyrrolomatrine derivatives were explored by Van Leusen [3 + 2] cycloaddition reaction as aphicidal agents. RESULTS: We prepared a series of N-sulfonylpyrrolomatrine derivatives (3a-3x) with the novel pyrrolomatrine skeleton, whose possible reaction mechanism was further proposed. Against Aphis citricola Van der Goot, N-2-chlorobenzenesulfonyl pyrrolomatrine (3k) and N-3-bromobenzenesulfonylpyrrolomatrine (3o) showed 5.4- and 4.6-fold pronounced aphicidal activity compared to sophocarpine; against Hyalopterus arundimis Fabricius, N-2-fluorobenzenesulfonylpyrrolomatrine (3h) and N-2-(trifluoromethyl)benzenesulfonylpyrrolomatrine (3q) exhibited 9.2 and 7.1 times promising aphicidal activity compared to sophocarpine. CONCLUSION: Derivatives 3h, 3k, 3o and 3q can be investigated as the leads in the future as aphicidal agents. Meanwhile, it will pave the way for future structural optimization of complex natural products containing α,β-unsaturated lactam skeleton by Van Leusen [3 + 2] cycloaddition pyrrole synthesis reaction. © 2026 Society of Chemical Industry.",
+    "species_latin": "Aphis citricola",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "BACKGROUND: Nowadays, structural modifications of natural products have been one of procedures for research and development of new pesticide candidates.",
+    "conclusion": "CONCLUSION: Derivatives 3h, 3k, 3o and 3q can be investigated as the leads in the future as aphicidal agents.",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed"
+  },
+  {
+    "id": "pmid-42872867",
+    "title": "On-farm comparison of aerial and chemigation application methods for Striacosta albicosta (lepidoptera: Noctuidae) management in corn using pyrethroid and diamide insecticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Rilaković A, Fritz B, Bipin P, Howard R, Katimbo A, Zarić M, Peterson JA.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42872867",
+    "doi": "10.1002/ps.71387",
+    "pmid": "42872867",
+    "abstract": "BACKGROUND: Application method and timing can strongly influence the efficacy and efficiency of insecticide treatments. The western bean cutworm, Striacosta albicosta, is a significant pest that can cause severe damage to corn ears through larval feeding. Management of S. albicosta frequently relies on insecticide application; however, inadequate applications or ineffective insecticides can lead to control failures. We seek to evaluate the efficacy of bifenthrin (pyrethroid) and chlorantraniliprole (diamide) for managing S. albicosta in corn using aerial and chemigation applications. RESULTS: In an on-farm study conducted over two growing seasons, aerial application deposition, spray coverage, and insecticide residues were greater on tassels than on ear leaves within the corn canopy. Of the total spray volume applied aerially, only 36.4% reached the tassel level, whereas 19.8% reached the ear zone. Across both application methods, chlorantraniliprole resulted in the lowest ear-feeding injury (0.1 cm-1), while bifenthrin provided moderate control (0.55 cm-1) compared to the control (1.26 cm-1). No significant differences in yield protection were detected between application methods. CONCLUSION: Effective management of S. albicosta requires delivering sufficient insecticide concentration to the target site and achieving adequate coverage throughout the corn canopy. Ensuring deposition in the ear zone is particularly important to delay resistance development and prevent larvae from being exposed to sublethal concentrations. These findings demonstrate the higher efficacy of chlorantraniliprole in reducing feeding injury and suggest that application method selection may be flexible without compromising yield protection. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Striacosta albicosta",
+    "species_en": "western bean cutworm",
+    "species_zh": "西部豆夜蛾",
+    "takeaway": "在玉米田比较空中与灌溉施药防治西部豆夜蛾，氯虫苯甲酰胺防效最佳，施药方式对产量保护无显著差异。",
+    "conclusion": "氯虫苯甲酰胺较联苯菊酯更能降低玉米果穗受害，但两种施药方式在产量保护上无显著差异。有效防治的关键在于将足够浓度的药剂送达果穗区并覆盖冠层，避免幼虫接触亚致死剂量以延缓抗性发展。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42870677",
+    "title": "Discovery of diamide derivatives bearing a flexible substituted benzylamine moiety as potential ryanodine receptor activator",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Li F, Duan J, Liu H, Lu C, Ding Y, Cao Z, Xiong L, Ren J, Xu Z.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42870677",
+    "doi": "10.1002/ps.71351",
+    "pmid": "42870677",
+    "abstract": "BACKGROUND: Lepidopteran pests have developed severe resistance to diamide insecticides, posing a huge challenge to effective pest control, necessitating the development of novel insecticides to achieve the effective comprehensive management of pests. Forty-two novel derivatives bearing substituted benzylamine moieties with chlorantraniliprole (CHL) as the lead compound were precisely design, synthesized, and evaluated for insecticidal activities against three Lepidopteran pests. RESULTS: The bioassay results showed that the LC50 values of compounds A26 and A40 against Mythimna separata were 0.080 and 0.163 mg L-1, respectively, comparable to that of CHL (LC50 0.124 mg L-1). For Plutella xylostella, the LC50 values of A16 and A40 were 0.041 and 0.048 mg L-1, respectively, equivalent to that of CHL (LC50 0.049 mg L-1). Additionally, compound A40 showed insecticidal activity against Spodoptera frugiperda comparable to that of CHL (LC5 0.279 vs 0.174 mg L-1) and exhibited significantly superior efficacy against the resistant strain (LC50 75.83 vs 141.75 mg L-1). These results indicate that A40 exhibits excellent insecticidal efficacy against Lepidopteran pests. Calcium imaging experiments suggested that compound A40 targets the insect ryanodine receptors, which was further validated by transcriptome analysis and molecular docking assays. CONCLUSIONS: This research will provide valuable insights for the development of novel diamide insecticides containing benzylamine scaffolds. © 2026 Society of Chemical Industry.",
+    "species_latin": "Mythimna separata, Plutella xylostella, Spodoptera frugiperda",
+    "species_en": "Oriental armyworm, diamondback moth, fall armyworm",
+    "species_zh": "黏虫、小菜蛾、草地贪夜蛾",
+    "takeaway": "以氯虫苯甲酰胺为先导设计42个苄胺类衍生物，其中A40对多种鳞翅目害虫高效且能激活鱼尼丁受体。",
+    "conclusion": "合成的苄胺取代二酰胺衍生物中，A40对黏虫、小菜蛾和草地贪夜蛾的杀虫活性与氯虫苯甲酰胺相当，且对耐药品系效果更优；钙成像、转录组和分子对接证实其作用于昆虫鱼尼丁受体，为新型二酰胺杀虫剂开发提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42870571",
+    "title": "Insecticide susceptibility of brown planthopper (Nilaparvata lugens) and white-backed planthopper (Sogatella furcifera) in Vietnam and Japan to triflumezopyrim and other insecticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Matsukawa-Nakata M, Matsumura M, Nguyen CH, Nguyen TT, Lam NT, Nguyen H, Kobori Y, Sanada-Morimura S.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42870571",
+    "doi": "10.1002/ps.71383",
+    "pmid": "42870571",
+    "abstract": "BACKGROUND: Nilaparvata lugens (Stål) and Sogatella furcifera (Horváth), which are rice planthoppers that migrate from Vietnam to Japan via China, have developed resistance to certain insecticides. Long-term monitoring of insecticide susceptibility in these insect pests is required to develop effective strategies for controlling their populations. However, long-term monitoring of the insecticide susceptibility of N. lugens and S. furcifera has not yet been conducted in Vietnam. Here, we determined fluctuations in the median lethal dose (LD50) values of triflumezopyrim, which is a newly developed insecticide, and other insecticides against N. lugens and S. furcifera to reveal the current trends (2018-2024) in the insecticide susceptibility of N. lugens and S. furcifera in Vietnam and Japan. RESULTS: The LD50 values of triflumezopyrim against N. lugens and S. furcifera in Vietnam and Japan remained low during the study period. The LD50 values of neonicotinoids against N. lugens in both countries exhibited an increasing trend, whereas the LD50 values of neonicotinoids against S. furcifera remained low. CONCLUSION: We clarified species-specific differences in insecticide susceptibility between N. lugens and S. furcifera. Similar fluctuations in the LD50 values of the tested insecticides against N. lugens and S. furcifera in Vietnam and Japan supported the hypothesis that Vietnam is the population source of rice planthoppers that migrate to Japan. Overall, our results indicate that at present, triflumezopyrim is effective in controlling rice planthoppers in Vietnam and Japan. However, continued monitoring of insecticide susceptibility is required for insecticide resistance management in East Asia. © 2026 Society of Chemical Industry.",
+    "species_latin": "Nilaparvata lugens, Sogatella furcifera",
+    "species_en": "brown planthopper, white-backed planthopper",
+    "species_zh": "褐飞虱、白背飞虱",
+    "takeaway": "越南和日本褐飞虱与白背飞虱对三氟苯嘧啶仍敏感，但褐飞虱对新烟碱类抗性上升。",
+    "conclusion": "2018-2024年监测显示，三氟苯嘧啶对两种稻飞虱的LD50值持续较低，仍具防控效果；新烟碱类对褐飞虱药效下降，对白背飞虱仍较低，存在明显种间差异。越南与日本种群药敏波动相似，支持越南为迁入日本稻飞虱虫源地的假说，东亚需持续监测抗性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42867301",
     "title": "Genome size estimation and genome assembly completeness assessment",
     "type": "paper",
@@ -104,6 +257,31 @@
     "llm_enhanced": true
   },
   {
+    "id": "doi-10.1186/s12870-026-10103-w",
+    "title": "Telomere-to-telomere, gap-free genome assembly of the Chinese holly, Ilex cornuta",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "BMC Plant Biology",
+    "authors": "Peng Zhou, Kewang Xu, Weixiang Gong, Fei Li, Hainan Sun, Qiang Zhang, Min Zhang",
+    "publish_date": "2026-10-12",
+    "added_at": "2026-10-15",
+    "url": "https://doi.org/10.1186/s12870-026-10103-w",
+    "doi": "10.1186/s12870-026-10103-w",
+    "pmid": "",
+    "abstract": "The Chinese holly ( Ilex cornuta Lindl. & Paxton), a prominent ornamental species in the Aquifoliaceae family, is valued for its aesthetic appeal, medicinal properties, and robust stress tolerance. Despite its potential for breeding and functional studies, the lack of a high-quality reference genome has constrained genetic dissection of its key traits. We present the first telomere-to-telomere (T2T) gap-free genome assembly for I. cornuta , achieved through the integration of PacBio long reads, ONT ultra-long reads, and Hi-C data. The final assembly, totaling ~ 890.50 Mb with a scaffold N50 of 44.26 Mb, was organized into 20 gap-free chromosomes. We identified 40 telomeres and 20 putative centromere regions. Crucially, both our T2T genome assembly and independent root‑tip karyotype analysis definitively establish the basic chromosome number of I. cornuta as 20 (2n = 2x = 40), settling a long-standing controversy. The genome annotation yielded 35,437 protein-coding genes, demonstrating high completeness (98.33% BUSCO) and accuracy (QV of 48.97). Comparative genomics uncovered two whole-genome duplication events and lineage-specific gene family expansions, particularly those involved in secondary metabolism, which represent candidate gene sets that could potentially contribute to environmental adaptability; further transcriptomic or functional assays will be required to verify their biological roles. This first gap-free T2T reference genome for the genus Ilex not only provides a crucial resource for understanding the genomic architecture and evolutionary history of hollies but also serves as a powerful foundation for molecular breeding and genetic improvement of I. cornuta and its relatives.",
+    "species_latin": "Ilex cornuta",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "We present the first telomere-to-telomere (T2T) gap-free genome assembly for I.",
+    "conclusion": "cornuta and its relatives.",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex"
+  },
+  {
     "id": "pmid-42862407",
     "title": "Biochar-mediated immobilization of aged napropamide in soil: reduced bioavailability and underlying sequestration mechanisms",
     "type": "paper",
@@ -128,6 +306,40 @@
     ],
     "via": "PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261015-spodoptera-exigua-crispr-resistance-review",
+    "title": "CRISPR/Cas9 在斜纹夜蛾中解析杀虫剂抗性的应用：全面综述",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：Pesticide Biochemistry and Physiology 综述）",
+    "authors": "",
+    "publish_date": "2026-10-11",
+    "added_at": "2026-10-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261011000744637.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "该综述系统整合甜菜夜蛾（原文拉丁名 Spodoptera exigua，生物通中文误译为“斜纹夜蛾”）杀虫剂抗性的四大机制——靶标位点抗性、代谢解毒、转运体介导抗性与调控适应性，并将零散证据整合为以 CRISPR/Cas9 功能验证为核心的统一框架，涵盖 RyR G4946E、nAChR α6、CYP9A 基因簇、SeABCC2 等已验证案例。",
+    "species_latin": "Spodoptera exigua",
+    "species_en": "beet armyworm",
+    "species_zh": "甜菜夜蛾",
+    "takeaway": "CRISPR/Cas9 已成为确认甜菜夜蛾抗性功能基因的金标准，多重编辑与精确 HDR 是未来抗性治理的关键方向。",
+    "conclusion": "甜菜夜蛾抗性由靶标位点修饰、代谢解毒、转运体活性与调控变化共同驱动；CRISPR 敲除已功能确认 nAChR α6（鱼尼精类靶标）、SeABCC2（敲除后对 Cry1Ac 抗性达 1180 倍）、RyR G4946E（HDR 引入后对氯虫苯甲酰胺抗性增加 223 倍）及 CYP9A 家族等，为抗性监测、功能基因组学和可持续害虫管理提供了明确方向。",
+    "keywords": [
+      "杀虫剂抗性",
+      "CRISPR/Cas9",
+      "甜菜夜蛾",
+      "Spodoptera exigua",
+      "RyR",
+      "nAChR",
+      "ABC转运体",
+      "P450",
+      "Bt抗性",
+      "功能验证",
+      "综述"
+    ]
   },
   {
     "id": "pmid-42860679",
@@ -297,6 +509,38 @@
     ],
     "via": "PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261015-px-vatpasea-rnai",
+    "title": "敲低液泡型H+-ATPase A亚基（vATPaseA）损害小菜蛾（Plutella xylostella）幼虫-蛹发育",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：Frontiers in Physiology）",
+    "authors": "",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261009173800992.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究通过显微注射靶向 PxvATPaseA 的 dsRNA，评估小菜蛾 RNAi 防控效果；该基因全长 ORF 1848 bp、编码 615 个氨基酸，在前肠、后肠和马氏管中高表达。注射 1200 ng dsRNA 后第2天转录水平下降 55%，幼虫致死率达 79.2%，仅 20.8% 化蛹，证明 PxvATPaseA 是高效 RNAi 靶标。",
+    "species_latin": "Plutella xylostella",
+    "species_en": "diamondback moth",
+    "species_zh": "小菜蛾",
+    "takeaway": "PxvATPaseA 沉默可致小菜蛾高致死率并阻断蛹蜕皮，是 RNA 生物农药和抗虫转基因作物的优质靶标。",
+    "conclusion": "PxvATPaseA 在小菜蛾各发育阶段广泛表达、幼虫期高表达；RNAi 沉默呈剂量依赖地抑制幼虫发育、降低鲜重、阻断蛹形成并导致 79.2% 幼虫死亡，证实其为小菜蛾可持续治理的有效分子靶标，为新型杀虫剂开发与抗虫转基因作物培育提供了候选靶基因。",
+    "keywords": [
+      "RNAi",
+      "vATPaseA",
+      "液泡型H+-ATPase",
+      "小菜蛾",
+      "Plutella xylostella",
+      "RNA生物农药",
+      "转基因抗虫",
+      "分子靶标",
+      "dsRNA"
+    ]
   },
   {
     "id": "pmid-42855603",
@@ -1215,6 +1459,39 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261015-nl-cyp417a1-dual-resistance",
+    "title": "褐飞虱田间种群中 CYP417A1 对烯啶虫胺和噻嗪酮双重抗性的贡献机制研究",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（来源：Agronomy）",
+    "authors": "",
+    "publish_date": "2026-10-02",
+    "added_at": "2026-10-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261002084957257.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "广东江门褐飞虱田间种群对噻嗪酮抗性比约 1013 倍、对烯啶虫胺约 159 倍；比较转录组发现 CYP417A1（CYP4 家族飞虱相关亚家族）是唯一被两种杀虫剂共同诱导的 P450。RNAi 沉默后若虫 96 小时死亡率显著升高，分子对接预测两种药剂共享同一底物进入口袋。",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "CYP417A1 是褐飞虱田间种群对烯啶虫胺和噻嗪酮双重抗性的共同贡献基因，为跨作用机制抗性监测提供新标记。",
+    "conclusion": "CYP417A1 被两种杀虫剂显著诱导并经 RT-qPCR 验证；RNAi 沉默使烯啶虫胺致死几率提高 4.4 倍、噻嗪酮提高 2.2 倍，对接预测两种药剂结合于血红素同一底物入口腔；但本底表达差异与直接代谢活性仍待验证，尚需在多样田间种群及重组酶活性实验中确认其作为抗性标记的可用性。",
+    "keywords": [
+      "CYP417A1",
+      "褐飞虱",
+      "Nilaparvata lugens",
+      "烯啶虫胺",
+      "噻嗪酮",
+      "P450",
+      "代谢抗性",
+      "RNAi",
+      "分子对接",
+      "田间抗性"
+    ]
+  },
+  {
     "id": "pmid-42826563",
     "title": "Advancing component-based mixture risk assessment using new approach methodologies: An environmental case study",
     "type": "paper",
@@ -1239,6 +1516,31 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42873583",
+    "title": "A high-quality telomere-to-telomere lumpy skin disease virus genome assembly",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "The Journal of general virology",
+    "authors": "Wright C, Polo N, Azam S, Freimanis G, Sharma GT, Charleston B, Batten C, Downing T, Albarnaz J.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42873583",
+    "doi": "10.1099/jgv.0.002348",
+    "pmid": "42873583",
+    "abstract": "Lumpy skin disease virus (LSDV) is an emerging livestock capripoxvirus (CaPV) that continues to cause substantial economic losses across Africa, Asia and Europe. However, important uncertainties remain regarding LSDV genome structure, particularly at the telomeric inverted terminal repeats (ITRs) that are central to host interaction, replication and adaptive evolution. Structural variation at the ITRs is driven by recombination during virus replication. Previous assemblies have relied primarily on short-read sequencing, which provides limited resolution of repeat-rich telomeric regions and propagates structural ambiguities into downstream annotation and comparative analyses. Here, we present a high-quality telomere-to-telomere assembly of the LSDV Oman 2009 isolate, generated using a hybrid approach that integrates short Illumina reads with higher-accuracy long Nanopore reads. The resulting 151,091 bp genome contains 157 annotated ORFs and fully resolves complex repeat-rich structures at both ITRs. This new reference corrects misassemblies present in earlier LSDV genomes and confirms clade-specific gene truncations. This genome provides a robust foundation for improved genomic surveillance, accurate read mapping, mutation detection and evolutionary inference of LSDV and demonstrates the value of long-read approaches for resolving complex CaPV genome structures.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "Here, we present a high-quality telomere-to-telomere assembly of the LSDV Oman 2009 isolate, generated using a hybrid approach that integrates short Illumina reads with higher-accuracy long Nanopore reads.",
+    "conclusion": "This genome provides a robust foundation for improved genomic surveillance, accurate read mapping, mutation detection and evolutionary inference of LSDV and demonstrates the value of long-read approaches for resolving complex CaPV genome structures.",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed"
   },
   {
     "id": "pmid-42861753",
@@ -1960,7 +2262,7 @@
     "added_at": "2026-10-04",
     "url": "https://doi.org/10.3389/fgene.2026.1924314",
     "doi": "10.3389/fgene.2026.1924314",
-    "pmid": "",
+    "pmid": "42872190",
     "abstract": "Introduction MicroRNAs (miRNAs) regulate gene expression post-transcriptionally through sequence-specific targeting of messenger RNAs. Reliable mapping of miRNA-mRNA interactions remains challenging because available methods differ widely and systematic cross-method comparisons are lacking. Method Using mouse miR-214-3p as a model, we systematically compared three approaches: bioinformatic prediction (TargetScan, miRDB, miRWalk), Argonaute-dependent experimental detection (qCLASH on mouse lung tissue), and artificial intelligence-driven structural modeling (AlphaFold3). Gene lists were harmonized to Ensembl release 116 (GRCm39) Gene IDs; overlaps were evaluated against a transcriptome background using Fisher’s exact tests with Benjamini–Hochberg correction, and the three-tool consensus was assessed by 1,000,000 Monte Carlo simulations. Results Only 95 target genes were commonly predicted by all three bioinformatic tools, and at most 6 of the 15 Ensembl-mappable qCLASH genes were captured by any prediction algorithm. Nevertheless, all observed overlaps were significantly enriched relative to random expectation (O/E ratios 24.52–80.6; adjusted q < 0.05), and the 95-gene consensus fell far outside the simulated null distribution (P ∼ MC∼ < 10 −6 ). AlphaFold3 produced high-confidence models (ipTM ≥0.6) for 80.95% of qCLASH-derived interactions, but a substantial fraction of bioinformatically predicted sites failed to form structurally plausible complexes. Discussion Bioinformatic prediction, qCLASH, and AlphaFold3 thus capture distinct and complementary layers of miRNA targeting (sequence-defined potential, context-dependent occupancy, and spatial feasibility) rather than converging on a single landscape. High AlphaFold3 confidence scores, for instance, did not guarantee biologically functional conformations; even models meeting the thresholds often displayed non-canonical architectures incompatible with silencing. In our mouse lung miR-214-3p model system, our findings support an integrative approach: method selection should align with the specific research question, and multi-layer integration is key to constructing reliable miRNA-target maps in a given biological context.",
     "species_latin": "Mus musculus",
     "species_en": "Mouse",
@@ -1970,7 +2272,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "OpenAlex",
+    "via": "OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
