@@ -14,15 +14,16 @@
     "doi": "10.1007/s00425-026-05194-6",
     "pmid": "42873289",
     "abstract": "The MYB-ASAL strategy is a promising integrated approach for developing cotton cultivars with enhanced fiber quality and reduced pesticide resistance, strengthening the textile security. The quality of cotton fiber is a critical determinant in the textile industry, significantly influencing the overall quality of textile products. Environmental stressors, particularly extreme climatic conditions, adversely affect fiber quality. This study aims to investigate the enhancement of fiber traits by expressing the transcription factor MYB involved in fiber quality along with the implementation of crop protection strategies and by expressing the plant lectin gene ASAL, which provides resistance against sap-sucking insects. The MYB-ASAL gene cassette was ligated into plant expression vector pCAMBIA1302 which was confirmed through restriction digestion. The Agrobacterium-mediated transformation of pCAMBIA1302_MYB-ASAL cassette in cotton plants was performed through the shoot apex cut method with 1.61% transformation efficiency. The putative transgenic cotton plants were screened through PCR and amplification of 400 bp and 551 bp confirmed the presence of pCAMBIA1302_MYB-ASAL in cotton plants (AI 01-AI 10), which were then tested for mRNA expression. Out of ten transgenic plants, AI 01, AI 03, AI 07, AI 09 and AI 10 showed higher expression (7 and 8 folds) of the MYB gene in boll and leaf, respectively. The mRNA expression level of the MYB gene in T1 generation was higher in early developmental fiber stages, i.e., at 0, 3 and 6 post-anthesis (DPA). The relative MYB expression was high in sepals followed by petals, leaf, boll and seeds, while the mRNA expression of ASAL was significantly high in leaves of AI 03 and AI 09 transgenic cotton lines as compared to control. The whitefly mortality was calculated to be 78% and 80% in T0 and T1, respectively, while 10-15% in control plants. Maximum improvement in fiber length was 20.01%, in the fiber strength up to 17.1% and in the micronaire value up to 16.2% in AI 03 and AI 09 transgenic cotton lines. Scanning electron microscopy (SEM) revealed that the fibers of the transgenic cotton plants have greater number of twists per unit length than the fibers of the non-transgenic control plants. Improved morphological, physiological and biochemical characteristics revealed that MYB-ASAL has a positive impact on these characteristics. Furthermore, single gene copy number was found at chromosome number 4. These findings support the concept of utilizing these transgenic plants to integrate additional desirable traits through breeding strategies, thereby optimizing cotton fiber enhancement.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "The MYB-ASAL strategy is a promising integrated approach for developing cotton cultivars with enhanced fiber quality and reduced pesticide resistance, strengthening the textile security.",
-    "conclusion": "These findings support the concept of utilizing these transgenic plants to integrate additional desirable traits through breeding strategies, thereby optimizing cotton fiber enhancement.",
+    "species_latin": "Gossypium hirsutum",
+    "species_en": "Cotton",
+    "species_zh": "棉花",
+    "takeaway": "研究将MYB与ASAL基因导入棉花，转基因株系既抗烟粉虱又改善纤维品质",
+    "conclusion": "通过农杆菌介导法将MYB-ASAL基因盒导入棉花，获得转基因株系。MYB在棉铃和叶片中高表达，且在纤维发育早期表达增强；ASAL在叶片中显著表达。转基因株系烟粉虱死亡率达78%-80%，纤维长度、强度和马克隆值分别最高提升20.01%、17.1%和16.2%，表明该策略可同时提升抗虫性与纤维品质。",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42873228",
@@ -39,15 +40,16 @@
     "doi": "10.1093/femsle/fnag126",
     "pmid": "42873228",
     "abstract": "White grub (Holotrichia serrata F.) is a destructive soil-dwelling pest causing severe yield losses in several agricultural and horticultural crops. Owing to its subterranean habit, chemical control is often ineffective, necessitating sustainable biological alternatives. This study investigated the distribution of coleopteran-active cry genes among indigenous Bacillus thuringiensis strains and evaluated their insecticidal activity against H. serrata. A total of 100 indigenous B. thuringiensis strains isolated from the Western Ghats of India were screened using gene-specific PCR for 12 coleopteran-active cry genes. The most prevalent genes were cry7 (66%), cry26 (65%), cry1b (64%), and cry34 (63%), whereas cry8 and cry9 occurred in fewer than 10% of the isolates. Preliminary bioassays at 380 µg mL⁻¹ identified 20 strains causing > 50% larval mortality. Concentration-dependent bioassays showed that strain NBAIR Bt68 was the most virulent, causing 73% mortality with an LC₅₀ of 149.95 µg mL⁻¹. Highly toxic strains consistently possessed the cry7-cry26-cry34-cry35 gene combination, whereas the total number of cry genes did not correlate with high insecticidal activity. Molecular profiling combined with bioassay evaluation identified indigenous B. thuringiensis strains with promising biocontrol potential and provides insights into the association between cry gene combinations and insecticidal activity against H. serrata.",
-    "species_latin": "Bacillus thuringiensis",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "White grub (Holotrichia serrata F.) is a destructive soil-dwelling pest causing severe yield losses in several agricultural and horticultural crops.",
-    "conclusion": "thuringiensis strains with promising biocontrol potential and provides insights into the association between cry gene combinations and insecticidal activity against H.",
+    "species_latin": "Holotrichia serrata",
+    "species_en": "White grub",
+    "species_zh": "甘蔗白蚁",
+    "takeaway": "从印度西高止山分离的100株本土Bt中筛选出对甘蔗白蚁幼虫高毒力的菌株NBAIR Bt68，其LC₅₀为149.95 µg/mL。",
+    "conclusion": "本土Bt菌株中cry7、cry26、cry1b、cry34基因最为流行；高毒力菌株普遍携带cry7-cry26-cry34-cry35基因组合，而cry基因总数与杀虫活性无关。研究筛选出具有生防潜力的菌株，并揭示了cry基因组合与对Holotrichia serrata杀虫活性之间的关联。",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42872904",
@@ -64,15 +66,16 @@
     "doi": "10.1002/ps.71401",
     "pmid": "42872904",
     "abstract": "BACKGROUND: Nowadays, structural modifications of natural products have been one of procedures for research and development of new pesticide candidates. Here, by using a naturally tetracyclic quinolizidine alkaloid sophocarpine as the lead compound, a series of N-sulfonylpyrrolomatrine derivatives were explored by Van Leusen [3 + 2] cycloaddition reaction as aphicidal agents. RESULTS: We prepared a series of N-sulfonylpyrrolomatrine derivatives (3a-3x) with the novel pyrrolomatrine skeleton, whose possible reaction mechanism was further proposed. Against Aphis citricola Van der Goot, N-2-chlorobenzenesulfonyl pyrrolomatrine (3k) and N-3-bromobenzenesulfonylpyrrolomatrine (3o) showed 5.4- and 4.6-fold pronounced aphicidal activity compared to sophocarpine; against Hyalopterus arundimis Fabricius, N-2-fluorobenzenesulfonylpyrrolomatrine (3h) and N-2-(trifluoromethyl)benzenesulfonylpyrrolomatrine (3q) exhibited 9.2 and 7.1 times promising aphicidal activity compared to sophocarpine. CONCLUSION: Derivatives 3h, 3k, 3o and 3q can be investigated as the leads in the future as aphicidal agents. Meanwhile, it will pave the way for future structural optimization of complex natural products containing α,β-unsaturated lactam skeleton by Van Leusen [3 + 2] cycloaddition pyrrole synthesis reaction. © 2026 Society of Chemical Industry.",
-    "species_latin": "Aphis citricola",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "BACKGROUND: Nowadays, structural modifications of natural products have been one of procedures for research and development of new pesticide candidates.",
-    "conclusion": "CONCLUSION: Derivatives 3h, 3k, 3o and 3q can be investigated as the leads in the future as aphicidal agents.",
+    "species_latin": "Sophora flavescens",
+    "species_en": "Sophocarpine (from Sophora flavescens)",
+    "species_zh": "苦参碱（来源植物苦参）",
+    "takeaway": "以苦参碱为原料经Van Leusen反应合成N-磺酰吡咯苦参碱衍生物，部分化合物杀蚜活性显著提升",
+    "conclusion": "以天然四环喹诺里西啶生物碱苦参碱为先导，通过Van Leusen[3+2]环加成构建新型吡咯苦参碱骨架，所得N-磺酰吡咯苦参碱衍生物对两种蚜虫的杀虫活性较苦参碱提高4.6至9.2倍，其中3h、3k、3o、3q可作为杀蚜先导化合物，同时为含α,β-不饱和内酰胺骨架天然产物的结构优化提供新途径",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42872867",
@@ -146,6 +149,136 @@
     "species_zh": "褐飞虱、白背飞虱",
     "takeaway": "越南和日本褐飞虱与白背飞虱对三氟苯嘧啶仍敏感，但褐飞虱对新烟碱类抗性上升。",
     "conclusion": "2018-2024年监测显示，三氟苯嘧啶对两种稻飞虱的LD50值持续较低，仍具防控效果；新烟碱类对褐飞虱药效下降，对白背飞虱仍较低，存在明显种间差异。越南与日本种群药敏波动相似，支持越南为迁入日本稻飞虱虫源地的假说，东亚需持续监测抗性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42875026",
+    "title": "Survival and development of Spodoptera species (Lepidoptera: Noctuidae) on Bt and non-Bt soybeans and implications for resistance management strategies in Brazil",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Szczecinski T, Ferreira JP, Martins LN, Grutzmacher AD, Soares VN, Perini CR, Horikoshi RJ, Miraldo LL, Ovejero RFL, Berger GU, Ribeiro LP, Bernardi D.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42875026",
+    "doi": "10.1093/jee/toag308",
+    "pmid": "42875026",
+    "abstract": "Spodoptera species are among the major defoliating pests of soybean crops in Brazil, and their low natural susceptibility to certain Bt insecticidal proteins poses a challenge for insect resistance management programs. To inform resistance management strategies, this study evaluated the biological parameters and life history and fertility profiles of Spodoptera frugiperda, Spodoptera eridania, and Spodoptera cosmioides fed on leaves, flowers, and pods from non-Bt soybeans and Bt soybeans expressing Cry1Ac (Intacta RR2 PRO) and Cry1Ac + Cry1A.105 + Cry2Ab2 (Intacta2 Xtend). Second-instar larvae of the 3 species exhibited 100% mortality when fed Intacta2 Xtend leaves. Regardless of the treatment evaluated, none of the species completed development from egg to adult when fed flowers or pods. In contrast, caterpillars fed Intacta RR2 PRO leaves completed their development from egg to adult, with survival rates of 62.9%, 56.4%, and 29.7% for S. frugiperda, S. eridania, and S. cosmioides, respectively. However, surviving individuals fed Intacta RR2 PRO exhibited lower larval and pupal mass, reduced fecundity, and a decrease of approximately 26% in the net reproduction rate (R0), compared to those fed non-Bt soybeans. Overall, Intacta2 Xtend soybeans exhibited greater insecticidal activity against the 3 Spodoptera species, while soybeans expressing only Cry1Ac predominantly produced sublethal effects. These results expand our understanding of the biological responses of S. frugiperda, S. eridania, and S. cosmioides to the Bt soybean biotechnologies available in Brazil and provide insights for insect resistance management strategies aimed at preserving the longevity of these technologies.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm, southern armyworm, soybean armyworm",
+    "species_zh": "草地贪夜蛾、亚热带黏虫、棉铃虫",
+    "takeaway": "三种夜蛾取食表达Cry1Ac的Bt大豆可完成发育但适合度下降，而含三种Bt蛋白的大豆使幼虫全部死亡。",
+    "conclusion": "表达Cry1Ac的Intacta RR2 PRO大豆对草地贪夜蛾、亚热带黏虫和棉铃虫仅产生亚致死效应，虽能完成世代但幼虫和蛹重降低、繁殖力下降、净生殖率约降26%；而表达Cry1Ac+Cry1A.105+Cry2Ab2的Intacta2 Xtend大豆对三种害虫二龄幼虫均达100%致死。花和荚均不能支持任何物种完成发育。该结果揭示了不同Bt大豆技术对巴西夜蛾类害虫的差异化作用，为抗性治理、延长Bt技术使用寿命提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42875025",
+    "title": "Sustainable and affordable pest control: In silico study and toxicological effects of black soldier fly, Hermetia illucens (Diptera: Stratiomyidae), oil, and its nanoemulsion against Agrotis ipsilon (Lepidoptera: Noctuidae) larvae",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Abdel-Haleem DR, Mady HY, Ahmed MM.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42875025",
+    "doi": "10.1093/jee/toag294",
+    "pmid": "42875025",
+    "abstract": "Black soldier fly, Hermetia illucens (Linnaeus, 1758) (Diptera: Stratiomyidae) larvae decompose several organic wastes into valuable biomass (oil, protein, chitin, and frass) for promising applications. Black Soldier Fly Oil (BSFO) is extracted using a mechanical pressing method, an affordable technique that yields about 24.56% oil. Gas chromatography-mass spectrometry analysis of oil showed a high content of fatty acids, with 3 predominant fatty acids, oleic acid (40.14%), palmitic acid (24.53%), and lauric acid (10.00%). Black soldier fly oil nanoemulsion (BSFO-NE) exhibited a droplet size of 274.50 ± 7.42 nm, a polydispersity index of 0.29 ± 0.01, a zeta potential of -26.70 ± 1.07 mV, and a spherical droplet morphology of 90.00 ± 10.00 nm, as shown by transmission electron microscopy. The insecticidal activity of BSFO and BSFO-NE was evaluated against the fourth instar of Agrotis ipsilon (Hufnagel, 1766) (Lepidoptera: Noctuidae) using the leaf-dipping method, and they showed LC50 of 5.40% and 0.94% (v/v), 48 h post-treatment, respectively. BSFO and BSFO-NE caused severe developmental and morphological alterations. Moreover, they significantly reduced total protein and lipid contents, total antioxidant capacity, and the enzymatic activity of lipase in treated fourth instar A. ipsilon compared to the control (P < 0.05). They significantly stimulated acetylcholinesterase (AChE) and α-esterase activities relative to untreated (P < 0.05). BSFO-NE induced extensive midgut tissue damage and histolysis. The mode of action was interpreted by molecular docking. This study sheds light on the possible use of BSFO and BSFO-NE as a circular economy approach and sustainable, high-yield insect-derived biopesticides to be integrated into pest management programs.",
+    "species_latin": "Hermetia illucens; Agrotis ipsilon",
+    "species_en": "black soldier fly; black cutworm",
+    "species_zh": "黑水虻；小地老虎",
+    "takeaway": "黑水虻油及其纳米乳剂可高效毒杀小地老虎四龄幼虫，并扰乱其生理生化与中肠结构。",
+    "conclusion": "黑水虻油经机械压榨提取，富含油酸、棕榈酸和月桂酸；制成纳米乳剂后粒径约274 nm、带负电、呈球形，对小地老虎四龄幼虫的LC50由5.40%降至0.94%，并显著抑制蛋白与脂质含量、抗氧化能力及脂肪酶活性，同时激活乙酰胆碱酯酶和α-酯酶，造成中肠组织严重损伤。分子对接阐释了其作用机制，表明该油及纳米乳剂可作为可持续、高产的昆虫源生物农药用于害虫综合治理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42874975",
+    "title": "Molecular monitoring reveals the presence of multiple insecticide resistance markers in mosquito disease vectors in Türkiye",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta tropica",
+    "authors": "Çağatay NS, Balaska S, Mavridis K, Akiner M, Vontas J, Guz N.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42874975",
+    "doi": "10.1016/j.actatropica.2026.108369",
+    "pmid": "42874975",
+    "abstract": "Insecticide resistance in mosquito vectors often involves multiple molecular mechanisms. Here, we analysed resistance-associated mechanisms in Culex pipiens and Aedes albopictus populations from 14 locations across Türkiye using a multi-marker molecular approach. We combined species identification, biotype resolution within the Cx. pipiens complex, and molecular screening of key target-site resistance markers (kdr, CHS1, and ace-1), together with genes associated with metabolic detoxification. Within Cx. pipiens, resistance-associated marker profiles varied among populations with heterogeneous biotype composition, including pipiens, molestus, and hybrid forms. All Cx. pipiens populations exhibited moderate to high frequencies of kdr mutations (L1014F/C; 50-80.8%). The CHS1 I1043M mutation was detected in a subset of populations, reaching frequencies of up to 64 %, whereas ace-1 G119S was detected sporadically at low frequencies (5-10%). In several populations, multiple resistance-associated markers were detected concurrently with varying frequencies, indicating potential complexity in resistance profiles. No target-site resistance mutations were detected in Ae. albopictus at the genotyped loci, and no esterase gene amplification was observed for the assessed markers. Taken together, our findings demonstrate variability in the distribution of resistance markers among mosquito populations across Türkiye. Further phenotypic and ecological investigations are needed to clarify the contribution of insecticide exposure and selection pressures to these patterns. These findings highlight the need for geographically matched and phenotypically validated surveillance frameworks to support evidence based and adaptive vector control strategies.",
+    "species_latin": "Culex pipiens, Aedes albopictus",
+    "species_en": "common house mosquito, Asian tiger mosquito",
+    "species_zh": "致倦库蚊、白纹伊蚊",
+    "takeaway": "土耳其多地蚊虫中，致倦库蚊普遍携带kdr抗性突变，白纹伊蚊未检出靶标抗性突变。",
+    "conclusion": "研究显示，土耳其致倦库蚊种群普遍存在中高频kdr突变，部分种群兼有CHS1与ace-1突变，抗性标记分布随生物型组成而异；白纹伊蚊在所测位点未见靶标抗性突变及酯酶基因扩增。表明抗性机制存在地理与种群差异，需结合表型与生态监测制定适应性蚊媒控制策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42874900",
+    "title": "Integrated evidence-based assessment of in vitro and in vivo data supports that the effects of phenmedipham in Xenopus laevis are consistent with generalised toxicity rather than thyroid disruption",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Coady KK, Gao Z, Krzykwa JC, Tokar S, Urann KD, Lagadic L.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42874900",
+    "doi": "10.1016/j.envres.2026.125906",
+    "pmid": "42874900",
+    "abstract": "Phenmedipham (PMP), an herbicide registered for various crops across different geographies, is under re-approval in Europe and should be evaluated for potential endocrine-disrupting properties according to the current legislation on pesticide active substances. This paper describes an evidence-based assessment of potential thyroid-mediated effects of PMP in Xenopus laevis as model species for thyroid modality. As an indication of thyroid activity, rat thyroperoxidase inhibition was reported in a single in vitro assay in the US-EPA ToxCast database. The results of a 27-day Extended Amphibian Metamorphosis Assay with X. laevis showed very little evidence of the consequences of potential thyroperoxidase inhibition in vivo. A minor non-statistically significant delay of 0.76 days in the mean time to reach metamorphic climax was estimated for tadpoles from the highest treatment group (0.5 mg/L) which reached the metamorphic climax at a significantly lower rate over time compared to control. As it is within the historical control data variability (± 2.72 days), the estimated developmental delay of 0.76 days is not adverse for individuals, and no population-level impact is therefore expected in field. Other statistically significant low-magnitude effects (e.g. ≤ 4.2 % for reduced survival and growth) were observed at the highest PMP concentration at study termination. Minor statistically significant histopathological changes in the thyroid of tadpoles from the highest treatment group could be explained by the effects on developmental timing. Overall, the response pattern observed in X. laevis was consistent with generalised toxicity and thus, PMP does not meet the endocrine disruption identification criteria for thyroid modality.",
+    "species_latin": "Xenopus laevis",
+    "species_en": "African clawed frog",
+    "species_zh": "非洲爪蟾",
+    "takeaway": "除草剂PMP在非洲爪蟾中仅高浓度下引起轻微发育延迟与一般毒性,不具甲状腺干扰效应",
+    "conclusion": "综合体外大鼠甲状腺过氧化物酶抑制数据与27天扩展两栖变态试验,最高浓度组仅出现0.76天非显著变态延迟及低幅度存活、生长影响,均在历史对照变异范围内,甲状腺组织学变化可归因于发育时序改变;整体反应模式符合一般毒性,故PMP不满足甲状腺内分泌干扰物的判定标准。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42874767",
+    "title": "Pesticide and Transformation Product Occurrence and Ecological Risks in Irrigation Water of an Intensive Floriculture Region in Ecuador: Targeted and Non-Target Suspect Screening Analyses (2022-2025)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Zambrano-Romero A, Pfaff M, LeFevre GH, Kohls SW, Suarez-Torres J, Suarez-Lopez JR, Ochoa-Herrera V, Kayser GL.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42874767",
+    "doi": "10.1016/j.envpol.2026.129327",
+    "pmid": "42874767",
+    "abstract": "BACKGROUND: Irrigation water can transport pesticides into aquatic environments, threatening ecosystem and human health. Despite these risks, irrigation water quality remains poorly studied and non-regulated in Latin America, and in floricultural regions, revealing a critical monitoring and research gap. METHODS: Between 2022 and 2025, irrigation water, post-harvest facility (PHF) water, river water, and groundwater samples were collected throughout Pedro Moncayo, Ecuador, a pesticide intensive floricultural region. Samples were taken along two irrigation channels from their source in Cayambe Volcano, through a floricultural region, and at the rivers where the channels flow. Targeted analysis (TA) of neonicotinoid insecticides (NNIs) and atrazine, and non-target suspect screening analysis (NTA) for a broad spectrum of pesticides (herbicides, insecticides, and fungicides) and related compounds was conducted, followed by screening-level ecological risk assessment for aquatic organisms. FINDINGS: TA of 56 samples revealed widespread NNI contamination, with imidacloprid detected most frequently, reaching up to 612 ng/L, occurring in 40/56 (71%) of irrigation samples, increasing over time, and strongly associated with rainfall. PHF (n=2) were identified as potential point sources of pesticide pollution, while rivers (n=5) showed spatially variable contamination and groundwater exhibited repeated occurrence of imidacloprid in a residential groundwater well. NTA identified 65 pesticide-compounds, and fungicides were the most frequently detected. Ecotoxicological assessments indicated high risk to aquatic invertebrates, particularly from NNI imidacloprid and thiacloprid. CONCLUSIONS: Intensive floriculture in Ecuador has resulted in widespread pesticide contamination of irrigation, surface water, and groundwater, underscoring the need for improved post-harvest management, targeted mitigation strategies, and region-specific regulations to protect tropical freshwater ecosystems and human health.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "厄瓜多尔花卉产区灌溉水中检出广泛农药污染，吡虫啉等新烟碱类对水生无脊椎动物构成高风险。",
+    "conclusion": "集约化花卉种植导致厄瓜多尔灌溉水、地表水和地下水普遍受农药污染，采后设施为潜在点源，降雨驱动吡虫啉扩散；新烟碱类尤其吡虫啉和噻虫啉对水生无脊椎动物风险高，亟需改进采后管理、针对性减排及区域法规以保护热带淡水生态与人类健康。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -272,14 +405,15 @@
     "pmid": "",
     "abstract": "The Chinese holly ( Ilex cornuta Lindl. & Paxton), a prominent ornamental species in the Aquifoliaceae family, is valued for its aesthetic appeal, medicinal properties, and robust stress tolerance. Despite its potential for breeding and functional studies, the lack of a high-quality reference genome has constrained genetic dissection of its key traits. We present the first telomere-to-telomere (T2T) gap-free genome assembly for I. cornuta , achieved through the integration of PacBio long reads, ONT ultra-long reads, and Hi-C data. The final assembly, totaling ~ 890.50 Mb with a scaffold N50 of 44.26 Mb, was organized into 20 gap-free chromosomes. We identified 40 telomeres and 20 putative centromere regions. Crucially, both our T2T genome assembly and independent root‑tip karyotype analysis definitively establish the basic chromosome number of I. cornuta as 20 (2n = 2x = 40), settling a long-standing controversy. The genome annotation yielded 35,437 protein-coding genes, demonstrating high completeness (98.33% BUSCO) and accuracy (QV of 48.97). Comparative genomics uncovered two whole-genome duplication events and lineage-specific gene family expansions, particularly those involved in secondary metabolism, which represent candidate gene sets that could potentially contribute to environmental adaptability; further transcriptomic or functional assays will be required to verify their biological roles. This first gap-free T2T reference genome for the genus Ilex not only provides a crucial resource for understanding the genomic architecture and evolutionary history of hollies but also serves as a powerful foundation for molecular breeding and genetic improvement of I. cornuta and its relatives.",
     "species_latin": "Ilex cornuta",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "We present the first telomere-to-telomere (T2T) gap-free genome assembly for I.",
-    "conclusion": "cornuta and its relatives.",
+    "species_en": "Chinese holly",
+    "species_zh": "枸骨",
+    "takeaway": "研究整合多种测序技术，首次完成枸骨无间隙T2T基因组，确认其染色体基数为20。",
+    "conclusion": "该研究构建了枸骨首个端粒到端粒无间隙基因组，确认染色体基数为20（2n=2x=40），解决了长期争议；注释到35437个蛋白编码基因，比较基因组学揭示两次全基因组复制及谱系特异性基因家族扩张，为冬青属分子育种与进化研究奠定基础。",
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex"
+    "via": "OpenAlex",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42862407",
@@ -1532,15 +1666,16 @@
     "doi": "10.1099/jgv.0.002348",
     "pmid": "42873583",
     "abstract": "Lumpy skin disease virus (LSDV) is an emerging livestock capripoxvirus (CaPV) that continues to cause substantial economic losses across Africa, Asia and Europe. However, important uncertainties remain regarding LSDV genome structure, particularly at the telomeric inverted terminal repeats (ITRs) that are central to host interaction, replication and adaptive evolution. Structural variation at the ITRs is driven by recombination during virus replication. Previous assemblies have relied primarily on short-read sequencing, which provides limited resolution of repeat-rich telomeric regions and propagates structural ambiguities into downstream annotation and comparative analyses. Here, we present a high-quality telomere-to-telomere assembly of the LSDV Oman 2009 isolate, generated using a hybrid approach that integrates short Illumina reads with higher-accuracy long Nanopore reads. The resulting 151,091 bp genome contains 157 annotated ORFs and fully resolves complex repeat-rich structures at both ITRs. This new reference corrects misassemblies present in earlier LSDV genomes and confirms clade-specific gene truncations. This genome provides a robust foundation for improved genomic surveillance, accurate read mapping, mutation detection and evolutionary inference of LSDV and demonstrates the value of long-read approaches for resolving complex CaPV genome structures.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Here, we present a high-quality telomere-to-telomere assembly of the LSDV Oman 2009 isolate, generated using a hybrid approach that integrates short Illumina reads with higher-accuracy long Nanopore reads.",
-    "conclusion": "This genome provides a robust foundation for improved genomic surveillance, accurate read mapping, mutation detection and evolutionary inference of LSDV and demonstrates the value of long-read approaches for resolving complex CaPV genome structures.",
+    "species_latin": "Lumpy skin disease virus",
+    "species_en": "Lumpy skin disease virus",
+    "species_zh": "疙瘩皮肤病病毒",
+    "takeaway": "研究用Illumina短读长与高精度Nanopore长读长混合组装, 完成LSDV阿曼2009分离株端粒到端粒高质量基因组, 解析了ITR复杂重复结构。",
+    "conclusion": "该151,091 bp基因组含157个注释ORF, 完整解析两端ITR重复区, 纠正了以往LSDV基因组的错误组装, 并确认了分支特异性基因截短; 为LSDV基因组监测、读段比对、突变检测和进化推断提供可靠参考, 也证明长读长技术在解析痘病毒复杂基因组结构上的价值。",
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42861753",
@@ -12732,6 +12867,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42480958",
+    "title": "Chiral resolution of profoxydim: Implications for herbicidal efficacy and ecotoxicological assessment",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Cervantes-Díaz A, Patiño MJ, Sánchez-Argüello P, Alonso-Prados JL, Santín-Montanyá MI, Sandín-España P.",
+    "publish_date": "2026-07-21",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42480958",
+    "doi": "10.1016/j.envpol.2026.128817",
+    "pmid": "42480958",
+    "abstract": "Chiral pesticides may exhibit stereoselective differences in biological activity, toxicity, and environmental behaviour, making the assessment of individual stereoisomers increasingly important for improving pesticide efficacy and reducing environmental risks. Profoxydim, a widely used cyclohexanedione herbicide for rice cultivation, contains two chiral centres and is commercialized as a mixture of four stereoisomers, although the biological and ecotoxicological properties of each stereoisomer remain largely unknown. A robust analytical method was developed for the quantification and isolation of the four profoxydim stereoisomers. Complete stereoisomeric separation was achieved under normal-phase high performance liquid chromatography (HPLC) conditions using a Chiralcel OJ-H column with a heptane/ethanol (20:80) mobile phase containing 0.05% formic acid at 0.70 mL/min and 25 °C. This approach enabled, for the first time, the isolation of all four stereoisomers for subsequent biological and ecotoxicological assessment. The herbicidal activity of the racemic mixture and each isolated stereoisomer was evaluated through seed germination assays. Root growth was substantially more sensitive to profoxydim than coleoptile growth, with a 1 mg/L dose markedly inhibiting root elongation. Dose‒response analyses revealed clear stereoselectivity, with isomers 1 and 3 exhibiting significantly higher herbicidal activity (IC50 values of 0.02 and 0.01 mg/L, respectively). To assess the potential effects on nontarget aquatic organisms, in vitro cytotoxicity assays using RTG-2 rainbow trout cells and Microtox tests with Vibrio fischeri were conducted. Small stereoselective differences were observed in fish cell cytotoxicity, with all the stereoisomers showing lower toxicity than racemic profoxydim (IC50 = 342 mg/L). However, the Microtox assay revealed lower toxicity for the racemate (EC50 = 48 mg/L) than for the individual stereoisomers, indicating that the stereoisomeric composition may influence microbial toxicity. Overall, these results demonstrate distinct stereoselective patterns in the herbicidal activity and ecotoxicity of profoxydim. Identifying the most active and least toxic stereoisomers may contribute to reducing application rates and environmental risks while maintaining effective weed control.",
+    "species_latin": "Vibrio fischeri",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究分离除草剂环苯草酮四种立体异构体，发现异构体1和3除草活性最强，且各异构体对水生生物的毒性存在差异。",
+    "conclusion": "研究建立了环苯草酮四种立体异构体的手性分离方法，并首次实现全部异构体的分离制备。除草活性测试表明异构体1和3活性最高，根生长比胚芽鞘更敏感。毒性评估显示各异构体对鱼细胞毒性低于外消旋体，但对费氏弧菌毒性高于外消旋体，说明立体异构体组成会影响除草效果与生态毒性，为手性农药的精准评估与减量增效提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42480835",
     "title": "Functional instability and community-level compensatory mechanisms in the anammox system under long-term acetamiprid stress",
     "type": "paper",
@@ -12933,6 +13094,32 @@
     "species_zh": "嗜人锥蝇",
     "takeaway": "α-萜品烯在体外对嗜人锥蝇幼虫杀灭力最强，但制成软膏体内效果有限，仅使幼虫变小。",
     "conclusion": "四种萜烯中α-萜品烯体外杀幼虫活性最高，但200 mg/g软膏在牛伤口内未能显著降低幼虫回收率，仅导致幼虫显著变小，提示存在亚致死效应；体内效力不足可能与α-萜品烯快速挥发或伤口内分布不均有关，需优化载体以维持有效浓度。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42448264",
+    "title": "Antagonistic developmental cardiotoxicity of fluroxypyr-meptyl and carfentrazone-ethyl in zebrafish embryos via oxidative stress and apoptosis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Dong L, Su X, Yang X, Liu S, Suo L, Zhang J, Xie J, Farooq S, Fan Y.",
+    "publish_date": "2026-07-14",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42448264",
+    "doi": "10.1016/j.envpol.2026.128744",
+    "pmid": "42448264",
+    "abstract": "Combined formulations represent 38% of pesticide products due to economic incentives. The herbicide combination of fluroxypyr-meptyl (FPMH) and carfentrazone-ethyl (CE) is widely used in agriculture with concurrent residue detection in aquatic environments indicating ecological risks. However, their toxic effects on aquatic organisms remain poorly understood. This study investigated the developmental toxicity of individual and combined FPMH and CE exposures in zebrafish embryos through acute toxicity tests following the OECD standard. We applied morphological, biochemical, gene-expression and molecular docking analyses to assess cardiotoxicity. The results showed that the 96 h-LC50 values were 3.660 mg/L for FPMH, 0.218 mg/L for CE and 0.766 mg/L for their mixture at a 1:1 equitoxic ratio. Moreover, the additive index analysis yielded an AI value of -0.5320 (<0), indicating an antagonistic interaction during co-exposure. All exposures significantly impaired embryonic development, increasing malformation rates and reducing body length. Additionally, cardiac abnormalities included pericardial edema, enlarged pericardial area, increased sinus venosus-bulbus arteriosus (SV-BA) distance, cardiac linearization and decreased heart rate. Mechanistically, we found that zebrafish embryos exposed to FPMH and CE both individually and in combination exhibited apoptosis and oxidative stress. RT-qPCR and GGE biplot analysis revealed stable aberrant expression of cardiac (Bmp10) and apoptotic (TNF-α, Fas, FADD) genes, while molecular docking revealed high binding affinity of these proteins for FPMH and CE both individually and in combination. In summary, this study examined the developmental toxicity and apoptosis- and oxidative stress-mediated cardiotoxicity in zebrafish embryos following exposure to FPMH and CE either individually or in combination, providing new insights for environmental risk assessment of FPMH, CE and their combined formulations.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "氟草烟异辛酯与唑草酮单独及联合暴露均致斑马鱼胚胎心脏发育毒性，联合呈拮抗作用。",
+    "conclusion": "两种除草剂单独或联合暴露均通过氧化应激与凋亡途径造成斑马鱼胚胎发育异常和心脏毒性，包括心包水肿、心率下降及心脏相关基因异常表达；联合暴露的加性指数为负，表现为拮抗效应，为混合农药生态风险评估提供依据。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -14131,6 +14318,32 @@
     "conclusion": "该研究通过整合基因组与群体数据，提出SV-基因-着丝粒协同进化模型，解释白菜亚种和蔬菜作物在数千年内的快速辐射，并构建高精度泛基因组，为精准育种提供新框架。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42019380",
+    "title": "Harnessing micellar interfaces for ultrasensitive fluorescence determination of Cypermethrin insecticide residues in vegetables and water with comprehensive greenness and sustainability assessment",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+    "authors": "Hashem HM, El-Maghrabey M, Al Kamaly O, Al-Khateeb LA, El-Shaheny R.",
+    "publish_date": "2026-04-15",
+    "added_at": "2026-10-15",
+    "url": "https://europepmc.org/article/MED/42019380",
+    "doi": "10.1016/j.saa.2026.127927",
+    "pmid": "42019380",
+    "abstract": "The widespread use of cypermethrin (CPM) as a potent pyrethroid insecticide poses significant environmental and health risks due to its persistence and toxicity in aquatic ecosystems and food chains. Existing analytical methods for CPM detection are often labor-intensive, costly, or insufficiently sensitive, underscoring the need for sustainable, efficient monitoring tools. This study introduces a green, rapid, and highly sensitive spectrofluorimetric method for trace-level detection of CPM in environmental waters and vegetables, leveraging micellar-enhanced fluorescence. By employing sodium dodecyl sulfate (SDS) micelles as a nano-container, the native fluorescence of CPM is significantly amplified, eliminating the need for organic solvents or chemical derivatization. The developed assay demonstrates excellent analytical performance, including a wide linear range (16.7-166.67 nM), high sensitivity, and a low detection limit (1.67 nM). The method was successfully validated for real-world applications, including the detection of CPM residues in various water samples (recovery percentage of 97.46-102.93%) and on vegetable surfaces using a non-destructive swab technique (recovery percentage of 77.89-107.16%). A comprehensive multi-criteria assessment, evaluating analytical performance (redness), practicality (blueness), and eco-friendliness (greenness), confirms the method's alignment with green chemistry principles. Excellent sustainability has also been validated by the SAMI metric (total score of 65%). This work offers a sustainable, economical, and reliable analytical platform for environmental monitoring, supporting regulatory compliance and ecological protection.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "利用SDS胶束增强氯氰菊酯天然荧光，实现蔬菜和水样中痕量残留的高灵敏绿色检测。",
+    "conclusion": "SDS胶束作为纳米容器可显著放大氯氰菊酯的固有荧光，无需有机溶剂或化学衍生化，方法线性范围宽、检出限低至1.67 nM，在实际水样和蔬菜表面回收率良好；多维绿色度与可持续性评估表明其符合绿色化学原则，为环境监测提供了经济可靠的平台。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
