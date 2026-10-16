@@ -34,6 +34,266 @@
     ]
   },
   {
+    "id": "pmid-42880246",
+    "title": "A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Cell genomics",
+    "authors": "Kong N, Tang Z, Ruttenberg A, Macias-Velasco JF, Li Z, Casey E, Zhang W, Miao B, Xin Z, Fu Q, Park H, Zhuo X, Mehinovic E, Belter E, Tomlinson C, Garza JE, Dong S, Johnson B, Majewski MF, Palmer T, Cheng Y, Lindsay T, Schedl T, Li D, Shen H, Fulton R, Wang T, Jin SC.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42880246",
+    "doi": "10.1016/j.xgen.2026.101358",
+    "pmid": "42880246",
+    "abstract": "Somatic mosaicism is widespread in human biology and disease, yet robust benchmarks are scarce. The Somatic Mosaicism across Human Tissues (SMaHT) Consortium mixed six HapMap cell lines to create artificial somatic variants spanning 0.25%-16.5% variant allele fractions. We developed a technology-agnostic method that builds pangenome graphs from individual assemblies to create unified benchmarking sets: >6 million single-nucleotide variants, >1.8 million small insertions/deletions, >49,000 structural variations, and 10,000 mobile element insertions across autosomes and mitochondrial chromosomes. We validated the variants using ultra-deep simulated reads and developed a binomial-based model to estimate coverage requirements for variant detection. Evaluating multiple callers showed that telomere-to-telomere CHM13 alignment improves structural variant detection and offers advantages in difficult-to-map regions compared to GRCh38. Low-allele-fraction variant detection remained particularly challenging in repeat-rich genomic regions and falsely duplicated genes. This accurate, versatile resource enables systematic evaluation of somatic variant detection technologies.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "研究用六个HapMap细胞系混合构建人工体细胞变异，并开发泛基因组图方法建立超600万变异基准资源。",
+    "conclusion": "该研究通过混合HapMap细胞系生成0.25%-16.5%等位基因频率的人工体细胞变异，并开发技术无关的泛基因组图方法整合个体组装，构建了包含超600万SNV、180万小插入缺失、4.9万结构变异和1万移动元件插入的基准集。评估显示CHM13比对优于GRCh38，尤其在难比对区域；低频率变异检测在重复富集区仍具挑战。该资源可系统评估体细胞变异检测技术。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42880233",
+    "title": "A telomere-to-telomere map of somatic mutation burden and functional impact in a cancer",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Cell",
+    "authors": "Sohn MH, Dubocanin D, Vollger MR, Kwon Y, Minkina A, Munson KM, Hart SFM, Ranchalis JE, Parmalee NL, Sedeño-Cortés AE, Ou J, Neph SJ, Au NYT, Bohaczuk S, Carroll B, Frazar CD, Harvey WT, Hoekzema K, Huang MF, Jacques CN, Jensen DM, Kolar JT, Lee R, Lin J, Loy K, Mack T, Mao Y, Mitchell MW, Pham MM, Scheinfeldt LB, Smith G, Ryke E, Smith JD, Sutherlin L, Swanson EG, Weiss JM, Carvalho CMB, Coorens THH, Harris K, Wei CL, Eichler EE, Altemose N, Bennett JT, Stergachis AB.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42880233",
+    "doi": "10.1016/j.cell.2026.09.033",
+    "pmid": "42880233",
+    "abstract": "Cancer genomes harbor extensive somatic genetic and epigenetic variation, yet large portions of the genome remain inaccessible to conventional reference-based analyses. Here, we demonstrate that pairing a near-telomere-to-telomere (near-T2T) diploid assembly of a donor with deep short- and long-read sequencing of their melanoma reveals that 16% of somatic variants localize to sequences absent from GRCh38, with satellite repeats acting as hotspots for UV-associated mutagenesis. Centromere kinetochore binding domains emerge as focal sites of chromosome arm aneuploidy breakpoints and somatic genetic variation, features we further demonstrate are also present in non-cancerous tissues. By contrast, extensive epigenetic remodeling of kinetochore binding domains appears specific to oncogenesis. Single-molecule telomere analyses reconstruct the cycle of telomere erosion and telomerase-mediated extension during tumor evolution, while haplotype-resolved chromatin maps reveal widespread somatic epimutations impacting regulatory elements. Together, these findings define previously inaccessible dimensions of somatic variation and establish a framework for telomere-to-telomere studies of human mosaicism.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "用近T2T二倍体组装结合长短读长测序分析黑色素瘤，揭示常规参考基因组遗漏的体细胞变异与表观突变。",
+    "conclusion": "近端粒到端粒组装可捕获GRCh38缺失区域中的体细胞变异，卫星重复为紫外线诱变热点，着丝粒动粒结合域是染色体臂非整倍体断点与体细胞变异焦点，其表观重塑为癌变特异；端粒侵蚀与端粒酶延伸循环及单倍型表观突变被重建，为人类嵌合研究提供框架。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42880181",
+    "title": "Transposable elements: Drivers of regulatory innovation and adaptation in plants",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Current opinion in plant biology",
+    "authors": "Sasaki T, Saze H.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42880181",
+    "doi": "10.1016/j.pbi.2026.102982",
+    "pmid": "42880181",
+    "abstract": "Transposable elements (TEs) constitute a major fraction of eukaryotic genomes and represent one of the most abundant classes of repetitive sequences in plants. Recent advances in sequencing technologies, together with the increasing availability of telomere-to-telomere and pan-genome assemblies, have enabled comprehensive characterization of TE sequences, revealing their complex architectures, structural variation, and evolutionary dynamics across diverse plant species. Because TE mobilization can compromise gene function and genome integrity, plants have evolved sophisticated epigenetic mechanisms to restrict TE activity. In turn, TEs have co-evolved diverse strategies to evade host silencing, reflecting a continuous evolutionary arms race between host genomes and their mobile elements. Beyond their traditional view as genomic parasites, accumulating evidence now demonstrates that TEs are major drivers of genome innovation by providing novel protein-coding modules, cis-regulatory elements, and structural variation that reshape chromatin organization and gene regulatory networks. In this review, we highlight recent advances in our understanding of how TEs promote regulatory innovation, environmental adaptation, and genome evolution in plants.",
+    "species_latin": "",
+    "species_en": "plants",
+    "species_zh": "植物",
+    "takeaway": "综述指出转座子是植物基因组调控创新与环境适应的重要驱动力。",
+    "conclusion": "转座子虽受植物表观遗传机制抑制，但双方持续协同演化；转座子可提供新编码模块、顺式调控元件和结构变异，重塑染色质与基因调控网络，从而推动植物调控创新、环境适应和基因组演化。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42880216",
+    "title": "Structural compatibility is not enough: Current challenges in protein-protein interaction prediction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Molecular cell",
+    "authors": "Elofsson A.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42880216",
+    "doi": "10.1016/j.molcel.2026.08.030",
+    "pmid": "42880216",
+    "abstract": "Since the introduction of AlphaFold2, AI-driven methods have greatly advanced protein structure and complex prediction. However, the performance varies strongly across interaction classes. The performance drops when dynamics are important and when interactions lack a strong co-evolutionary history. We propose to organize these limitations into distinct regions: interactions that are largely tractable by current methods; interactions in which structural compatibility is ambiguous due to competition, paralogy, or stoichiometry; interactions that lack sufficient co-evolutionary signal; and interactions whose biological relevance depends on cellular context, dynamics, or disorder. These limitations define distinct categories of interaction prediction challenges, each requiring different computational and experimental approaches. Future progress will require methods that rely less on multiple sequence alignments, better distinguish interaction strength and specificity, and move beyond static structure prediction toward modeling interaction landscapes in their cellular contexts.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "AlphaFold2后AI预测蛋白互作仍受动态性、共进化信号和细胞环境限制，需超越静态结构预测。",
+    "conclusion": "当前AI蛋白互作预测的局限可分为四类：方法可处理的、结构兼容性模糊的、缺乏共进化信号的、以及依赖细胞环境与动态性的。未来需减少对多序列比对的依赖，区分互作强度与特异性，并从静态结构预测转向细胞环境中的互作景观建模。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42880151",
+    "title": "Time matters: Multiple observations over time uncover differences in the development of carbaryl toxicity in 7 aquatic invertebrates",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Cafiero G, van Sabben N, van den Berg S, van den Brink NW, van den Brink PJ, Pamminger T, Roessink I, Baas J.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42880151",
+    "doi": "10.1016/j.ecoenv.2026.120934",
+    "pmid": "42880151",
+    "abstract": "The widespread use of pesticides in agriculture also results in the exposure of non-target organisms. These non-target organisms can differ widely in their sensitivity to pesticides. The sensitivity of organisms to a compound is typically assessed using standardized ecotoxicological tests that rely on fixed-time metrics such as four-day LC50 values. These metrics ignore the time-dependency of toxicity and provide little mechanistic understanding of the observed differences in species sensitivity to toxic substances. To quantify potential differences in the development of toxicity over time, seven aquatic arthropod species were exposed to graded concentrations of the acetylcholinesterase-inhibiting insecticide carbaryl. Immobility was recorded at multiple time points, and the data were analyzed using the General Unified Threshold model of Survival (GUTS) with the software OpenGUTS. The GUTS model highlighted two different groups within our test species: five species showed fast kinetics in the development of effects, compared with two species that showed significantly slower kinetics. The species showing slow kinetics did not reach their incipient EC50 within the test duration, indicating that standard test durations for acute tests may underestimate the toxicity for this species-compound combination. Interpretation with the GUTS model ensured the use of all the observations over several time points, as well as the degradation dynamics of the compound in the water. This helps guide further hypothesis-driven mechanistic work, such as measurements of uptake and elimination rates, target-site interactions, or OMICs, to understand whether toxicity is more toxicokinetic- or toxicodynamic-driven.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用GUTS模型分析7种水生节肢动物随时间对西维因的毒性反应，发现效应动力学快慢分两组",
+    "conclusion": "物种对西维因的毒性发展存在明显动力学差异，可分为快、慢两组；慢动力学物种在标准急性试验时长内未达EC50，说明固定时长指标会低估其毒性。GUTS模型利用多时间点数据和化合物降解动态，有助于判断毒性由毒代动力学还是毒效动力学驱动。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42879508",
+    "title": "Leveraging spatial structure to design spatially-targeted malaria interventions at the community-scale",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PLoS computational biology",
+    "authors": "Evans MV, Roche B, Herbreteau V, Révillion C, Catry T, Bonds MH, Finnegan KE, Mitsinjoniala E, Ihantamalala FA, Randriamihaja M, Raobela O, Garchitorena A.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42879508",
+    "doi": "10.1371/journal.pcbi.1014857",
+    "pmid": "42879508",
+    "abstract": "Progress in malaria control has stagnated since the early 21st century in many countries, requiring new approaches such as the use of spatially-targeted interventions. However, evidence on the effectiveness of spatially-targeted interventions is mixed, depending on both the setting and intervention. In addition, the potential role of community health programs in implementing spatial targeting is underexplored, with models focusing on coarser spatial scales than those needed to guide programmatic activities. We developed a two-age-class, spatially-explicit model of malaria at the community-scale for a district in southeastern Madagascar, accounting for environmental heterogeneity and spatial structure, to explore spatially-targeted community health interventions. The model was fit to field-based case notifications and malaria prevalence data and then used to simulate three interventions: indoor residual spraying (IRS), supplemental coverage of long-lasting insecticide-treated nets (LLIN), and active case detection (ACD). We compared five scenarios, one with no spatial targeting and others targeting communities (i) nearest to clinics, (ii) furthest from clinics, (iii) with highest incidence, and (iv) that are spatially central. The non-targeted intervention was generally the most effective, but the least resource efficient. The second most effective intervention was based on spatial centrality, which reached a larger population while using fewer transportation resources than the non-targeted intervention. No combination of interventions was able to eliminate malaria in the district, although detecting symptomatic cases through ACD could avert 100% of severe malaria cases at high detection rates. These results highlight the potential for targeted malaria interventions, especially in low-income settings, that take into account spatial structure in the human population and transport networks to reduce malaria burdens using fewer resources than conventional district-wide interventions. [A French language abstract is available as Text A in S1 Appendix].",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "在马达加斯加东南部社区尺度构建空间显式疟疾模型，发现基于空间中心性的靶向干预能以更少资源覆盖更多人群。",
+    "conclusion": "非靶向干预效果最好但资源效率最低；基于空间中心性的靶向策略效果次之，却能用更少交通资源覆盖更大人口。任何干预组合都无法消除当地疟疾，但高检测率下的主动病例发现可避免全部重症疟疾。研究强调在低收入地区结合人群空间结构与交通网络设计靶向干预，可更高效减轻疟疾负担。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42879401",
+    "title": "Insecticide resistance status predetermines behavioural responses and oviposition fitness in Anopheles coluzzii",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PloS one",
+    "authors": "Aghahowa E, Enwemiwe VN, Esiwo E, Edhebe PO, Ifeta SE, Ojianwuna CC.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42879401",
+    "doi": "10.1371/journal.pone.0360986",
+    "pmid": "42879401",
+    "abstract": "Behavioural resistance is one of the major public health challenges facing planned vector control strategies involving insecticides. Understanding the behaviour of mosquitoes holistically when exposed to insecticides could be key to adding up to the fight against resistance. This study evaluated the behavioural responses and oviposition fitness of male and female Anopheles coluzzii exposed to selected pyrethroids, including lambda-cyhalothrin (0.05%), permethrin (0.75%), and DDT (4%). Male and female mosquitoes, aged three to five days, were exposed in eight replicates to selected insecticides for 60 minutes. Susceptibility to insecticide exposure was assessed in a total of 2,000 mosquitoes (eight replicates of 25 per sex per insecticide, across three insecticides), while behavioural assays used resistant and unexposed cohorts of 15 mosquitoes per replicate, in triplicate, for three insecticides (lambda-cyhalothrin, permethrin, and DDT). Resistant male and female mosquitoes were separated in holding buckets, tagged, sugar-fed, and kept to acclimatize for 1 hour before further exposure for the behavioural study. Square-shaped containers connected by a pipe into an H-shape were used for the experiment. Resistant mosquitoes (n = 15) were exposed to different chambers with insecticide-treated paper (WITP) and without insecticide-treated paper (WOITP) in triplicate. A similar experiment was done for unexposed mosquitoes. The flight efficiency, resting efficiency, repellency, landing, and biting efficiency of mosquitoes were recorded. Sex crossing between exposed and unexposed mosquitoes was done, and oviposition fitness was assessed. Flight efficiency of resistant mosquitoes WITP increased (mean 3.00-30.5) whereas WOITP decreased (mean 2.00-0.50) significantly (p < 0.0001). Resting efficacy WITP decreased (mean 12.50-0.00) while WOITP increased (mean 11.50-13.50) significantly (p < 0.0001). Repellency WITP decreased (mean 14.00-0.00), while WOITP did not follow a regular pattern. Likewise, landing and biting did not follow a regular pattern. Unexposed female mosquitoes had the highest blood meal (mean of 11.5). The highest ovipositioning was recorded in unexposed males and females (mean of 0.33), but no ovipositioning was recorded in other crosses (mean of 0.00). Insecticide exposure induces both behavioural avoidance and reproductive impairment in resistant Anopheles coluzzii, emphasizing the importance of incorporating behavioural endpoints into resistance monitoring programs.",
+    "species_latin": "Anopheles coluzzii",
+    "species_en": "Anopheles coluzzii",
+    "species_zh": "哥伦比亚按蚊",
+    "takeaway": "对哥伦比亚按蚊抗性品系进行行为测试，发现抗性状态决定其接触杀虫剂后的飞行、休息与产卵表现。",
+    "conclusion": "抗性蚊接触杀虫剂纸后飞行效率升高、休息与驱避行为下降，行为反应随抗性状态而异；未暴露雌蚊吸血与产卵表现最佳，提示抗性状态可预先决定行为与产卵适合度，对媒介控制策略有重要意义。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42879066",
+    "title": "Carbamate Toxicosis in Carnaby's Cockatoos (Zanda latirostris) in a Drying Climate",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "EcoHealth",
+    "authors": "Le Souëf A, Kissane ZM, Forshaw D, Riley KJ, Payne K, Hawkins T, Coggins J, Shephard JM, Vaughan-Higgins R, Warren KS.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42879066",
+    "doi": "10.1007/s10393-026-01834-1",
+    "pmid": "42879066",
+    "abstract": "Pesticide exposure poses a growing threat to the health of wild avian populations worldwide. This report documents the first detections of agricultural chemicals in the tissues of wild Carnaby's cockatoos (Zanda latirostris) in Western Australia. The events, characterised by morbidity and mortality, occurred in a national park near Perth, following periods of elevated summer temperatures over two seasons. Toxicological analysis of liver and digestive tract contents identified multiple pesticides and an herbicide, including methomyl, a highly toxic carbamate insecticide. Hot weather conditions preceding the events potentially increased the cockatoos' use of alternative water sources for drinking, such as those in commercial vegetable gardens adjacent to the park. This represents the first published instance of insecticide poisoning in wild black cockatoos and introduces a new transmission pathway for agricultural chemical exposure in Carnaby's cockatoos. It highlights the need for targeted conservation strategies such as bird watering stations, and longer-term research on the impacts of agricultural chemical exposure in wild avian populations.",
+    "species_latin": "Zanda latirostris",
+    "species_en": "Carnaby's Cockatoo",
+    "species_zh": "卡纳比凤头鹦鹉",
+    "takeaway": "西澳卡纳比凤头鹦鹉在高温干旱后因饮用菜园水源暴露于氨基甲酸酯农药而中毒死亡。",
+    "conclusion": "研究首次在野生卡纳比凤头鹦鹉组织中检出多种农药及除草剂，包括高毒氨基甲酸酯类杀虫剂灭多威。高温天气可能促使鹦鹉前往公园旁商业菜园饮水，从而经此新途径接触农用化学品，导致发病与死亡。这是野生黑凤头鹦鹉杀虫剂中毒的首例报道，提示需采取设置饮水站等保护措施并开展长期研究。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42878868",
+    "title": "Efficacy of a eugenol-based nanoemulsion formulation incorporating a mosquitocidal Lysinibacillus sp. strain VCRC B654 against Culex quinquefasciatus under laboratory and simulated field conditions",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Archives of microbiology",
+    "authors": "Mandodan S, Irudayraj G, Chandrasekaran N, Ashokkumar M, Vijayakumar A, Rajaiah P.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42878868",
+    "doi": "10.1007/s00203-026-05248-z",
+    "pmid": "42878868",
+    "abstract": "Culex (Cx.) quinquefasciatus, an important vector of lymphatic filariasis, poses a major public health challenge due to the emergence of insecticide resistance and increasing environmental concerns associated with conventional control measures. This study aimed to characterize a soil isolate of Lysinibacillus sp. and evaluate its potential as a nanoformulated microbial biopesticide against Cx. quinquefasciatus. The isolate was characterized based on morphology, haemolytic activity, scanning electron microscopy, growth kinetics, protein profiling, and 16S rRNA gene sequencing. Lysinibacillus sp. VCRC B654 exhibited high larvicidal activity against late third-instar Cx. quinquefasciatus larvae (LC₅₀ = 0.0334 mg/L; LC₉₀ = 0.0783 mg/L), with comparatively lower activity against Anopheles stephensi and Aedes aegypti. A eugenol-based nanoemulsion containing bacterial biomass was prepared by ultrasonication and characterized for its physicochemical properties. The optimized formulation, comprising 0.5% (w/v) bacterial biomass, 5% eugenol, 15% Tween® 80, and 79.5% water, produced submicron droplets with a mean diameter of ≈460 nm, a polydispersity index of 0.418, and a zeta potential of - 8.9 mV. FTIR analysis confirmed the characteristic functional groups, while cryo-TEM demonstrated the incorporation of bacterial spores and crystal inclusions within spherical droplets. Compared with the unformulated bacterial biomass, the nanoemulsion enhanced larvicidal efficacy by 3.7-fold, with a relative median potency (RMP) of 3.814 (95% CI: 3.096-4.847), reducing the LC₅₀ and LC₉₀ values to 0.009 mg/L and 0.016 mg/L, respectively. The formulation retained more than 80% larvicidal activity for five weeks when applied at 8-fold the LC₉₀ under simulated field conditions, maintained spore viability for 12 months, and no mortality was observed among the tested non-target organisms during 72 h exposure. These findings demonstrate the potential of the eugenol-based nanoemulsion as a bacterial formulation for improved mosquito larval control and support further evaluation under diverse field conditions.",
+    "species_latin": "Culex quinquefasciatus",
+    "species_en": "Southern house mosquito",
+    "species_zh": "致倦库蚊",
+    "takeaway": "土壤分离的Lysinibacillus sp. VCRC B654经丁香酚纳米乳剂包载后,对致倦库蚊幼虫的杀灭效果提升3.7倍。",
+    "conclusion": "该菌株对致倦库蚊三龄末幼虫具高毒力,经丁香酚纳米乳剂包载后LC₅₀降至0.009 mg/L,毒力提升约3.7倍;模拟野外条件下8倍LC₉₀处理可维持5周以上80%杀虫活性,孢子存活12个月,且对非靶标生物安全,显示其作为微生物杀蚊制剂的开发潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42878745",
+    "title": "Water quality assessment in two agricultural streams in the pampas region, Argentina: an integrated landscape, physicochemical, chemical, and ecotoxicological approach",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental science. Processes & impacts",
+    "authors": "Peluso J, Morandeira NS, Santilli JP, Aparicio V, Gonzalez F, Valenzuela L, Aronzon CM.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42878745",
+    "doi": "10.1039/d6em00677a",
+    "pmid": "42878745",
+    "abstract": "Freshwater ecosystems are increasingly threatened by land-use changes associated with agricultural and urban development. Comprehensive assessments of water quality are necessary to understand their status and implement appropriate measures for its protection and conservation. The present study evaluated the water quality of two streams from Ramallo, Buenos Aires, Argentina (Las Hermanas and Marconi streams) with point (agroindustrial) and non-point sources of pollution through the analysis of landscape structure and anthropogenic transformations, physicochemical parameters, metal and pesticide quantification, and lethal toxicity bioassays and biomarkers (oxidative stress and cholinesterase activity biomarkers) using Rhinella arenarum larvae. Dissolved oxygen levels were below the threshold established for the protection of aquatic life at most sites, whereas ammonia, Mn, Cu, and Zn concentrations exceeded the limits for protection of aquatic life (Argentine Law 24 051). In sediment samples, several metals that were not detected in the water samples were quantified. Herbicides were the predominant pesticide class detected, with the site downstream of a feedlot showing the greatest variety. In addition, a higher diversity of pesticide residues was observed in water samples compared to sediments. Mainly, atrazine (0.125-1.193 µg L-1), flurochloridone (0.218-0.452 µg L-1), AMPA (0.27-1.16 µg L-1), and glyphosate (0.28-0.48 µg L-1) were quantified in water samples. Significant larval mortality was observed after acute exposure times, especially at Las Hermanas stream. Also, alterations in the oxidative stress biomarkers and cholinesterase inhibition were observed in larvae exposed to water samples from both sites located at Las Hermanas stream. Overall, sites with a higher proportion of cultivated land, feedlots, and agricultural buildings, together with a lower proportion of wetlands, exhibited poorer water quality and greater environmental degradation, which coincided with stronger ecotoxicological responses. These findings highlight the value of integrating landscape metrics, water quality, and ecotoxicological responses to comprehensively assess environmental degradation in freshwater ecosystems.",
+    "species_latin": "Rhinella arenarum",
+    "species_en": "Argentine toad",
+    "species_zh": "阿根廷蟾蜍",
+    "takeaway": "阿根廷潘帕斯两条农业溪流因耕地与饲养场密集、湿地减少而水质恶化，对蝌蚪产生毒性与氧化应激损伤。",
+    "conclusion": "研究整合景观结构、理化指标、金属与农药检测及毒性生物标志物，发现溶解氧偏低，氨氮、锰、铜、锌超标，除草剂等农药残留广泛检出；耕地和饲养场占比高、湿地占比低的点位水质最差，蝌蚪死亡率升高、氧化应激改变并出现胆碱酯酶抑制，表明综合评估能有效反映农业活动对水生态的损害。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42873289",
     "title": "Engineering cotton with ASAL and MYB genes confer dual benefits of pest resistance and fiber improvement",
     "type": "paper",
@@ -367,6 +627,58 @@
     "conclusion": "作者系统分析了PDB中核糖类修饰核苷酸，发现修饰主要位于核碱基，其化学与结构多样性受分子大小、拓扑形状和极性影响；据此建立首个实验结构数据集MODNAP，并用其评测AlphaFold 3在1039个核酸及核酸-蛋白复合物上的表现。结果显示整体成功率超80%（RMSD 2.5 Å），但修饰核苷酸定位精度波动大，训练集中未出现的结构表现更差，且PoseBusters分析揭示核糖环几何不理想导致的分子内有效性失败频发。MODNAP可作为改进修饰核酸结构预测方法的资源。",
     "keywords": [
       "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42879872",
+    "title": "The human calmodulin interactome reveals functional diversity linking calcium signaling to transcriptional regulation",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Cell calcium",
+    "authors": "Mahin A, Rasana F, Sunaina F, Sheela A, Ummar S, Raju R.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42879872",
+    "doi": "10.1016/j.ceca.2026.103203",
+    "pmid": "42879872",
+    "abstract": "Calcium-calmodulin signaling represents a central mechanism through which intracellular calcium fluctuations coordinate diverse cellular processes. Despite the identification of numerous calmodulin binding proteins, a systems level understanding of how these interactions integrate into global signaling networks and influence disease relevant pathways remains incomplete. Here, we constructed a comprehensive human calmodulin interactome by integrating experimentally validated protein-protein interactions from the IntAct and BioGRID databases, identifying 919 calmodulin associated proteins. Network analysis revealed highly connected hub proteins, including SRC and UBC, and delineated three major functional clusters enriched in translational machinery, calcium dependent kinase signaling, and actin cytoskeleton organization. Functional enrichment analyses further highlighted strong associations with phosphosignaling pathways, cytoskeletal dynamics, and hormone mediated signaling processes. Further, classification of interactome into functional categories of interest identified 102 kinases, 16 phosphatases, 24 metabolic enzymes, 29 ion channel proteins, and 56 transcription factors, underscoring the broad regulatory scope of calmodulin signaling. Integration and evaluation of publicly available calcium perturbation proteomics datasets to assess potential Ca²⁺-dependent and Ca²⁺-independent calmodulin interactions identified 43 presumed calmodulin-interacting proteins exhibiting consistent calcium-responsive regulation. Importantly, kinase substrate network mapping revealed that 46 presumed calmodulin interacting kinases phosphorylate 155 human transcription factors, suggesting formation of an extensive calmodulin linked phospho-regulatory transcriptional network. Collectively, these findings establish a systems level framework of the calmodulin signaling axis and highlight its potential relevance in transcriptional regulation, providing a resource for future mechanistic and therapeutic investigations.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "整合数据库构建人类钙调蛋白互作组，发现919个互作蛋白，揭示其连接钙信号与转录调控。",
+    "conclusion": "研究构建了人类钙调蛋白互作网络，识别出919个相关蛋白，分为翻译、钙依赖激酶信号和肌动蛋白骨架三大功能簇，并发现46个钙调蛋白互作激酶可磷酸化155个转录因子，表明钙调蛋白信号通过磷酸化调控网络广泛参与转录调节，为机制与治疗研究提供资源。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42880063",
+    "title": "Strong amitraz resistance in Varroa destructor is associated with a sustained GST-dominant detoxification profile",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary parasitology",
+    "authors": "Nicewicz AW, Nicewicz Ł, Gepfert V, Pawłowska P, Stański T, Stańska M, Nakonieczny M.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42880063",
+    "doi": "10.1016/j.vetpar.2026.110945",
+    "pmid": "42880063",
+    "abstract": "Varroa destructor is a major ectoparasite of honey bees, and the development of amitraz resistance threatens the long-term efficacy of one of the most widely used acaricides in apiculture. This study assessed amitraz susceptibility in Varroa populations from three Polish apiaries and examined whether differences in susceptibility were associated with population-specific detoxification enzyme responses. Amitraz toxicity was evaluated using vial bioassays and probit dose-response modelling, while glutathione S-transferase (GST) and nonspecific esterase activities were measured in surviving mites. The studied populations differed markedly in amitraz susceptibility. Population A1 showed an LC₅₀ of 0.0043 ppm, whereas A2 had an LC₅₀ of 0.0627 ppm and a conservative RR₅₀ lower bound of > 12.54, indicating strong amitraz resistance. In the reference population, mortality was 100% at all tested amitraz concentrations; therefore, the LC₅₀ was reported as < 0.005 ppm. Multivariate analyses revealed distinct population-specific detoxification profiles. A1 exhibited a pronounced esterase-dominant response at the lowest amitraz concentration, whereas the strongly resistant A2 population showed sustained GST-dominant activity across increasing amitraz concentrations at which mites survived. Further analysis demonstrated that enzymatic responses depended on both population origin and amitraz exposure. These findings suggest that amitraz resistance may be associated not with a generalized increase in detoxification capacity, but with the activation and persistence of specific enzymatic pathways, particularly GST-mediated detoxification. Because live honey bees are traded internationally, the occurrence of strongly resistant Varroa populations in exporting countries may have consequences beyond local beekeeping and highlights the need for coordinated resistance surveillance within international bee-trade networks.",
+    "species_latin": "Varroa destructor",
+    "species_en": "Varroa mite",
+    "species_zh": "狄斯瓦螨",
+    "takeaway": "波兰三处蜂场狄斯瓦螨对双甲脒敏感性差异显著，强抗性种群呈持续GST主导解毒特征。",
+    "conclusion": "双甲脒抗性并非解毒能力整体提升，而是特定酶通路（尤其GST介导解毒）被激活并持续表达；抗性水平与种群来源和药剂暴露共同相关。强抗性螨群出现在出口国，可能经国际活蜂贸易扩散，需建立跨境抗性监测。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
