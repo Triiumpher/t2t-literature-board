@@ -1,5 +1,39 @@
 [
   {
+    "id": "manual-20261016-dhpaas-cuticle-insecticide",
+    "title": "【创新在大工】生物工程学院科研团队在昆虫表皮形成机制与绿色农药靶标发现方向取得新突破",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "大连理工大学新闻网",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-16",
+    "url": "https://news.dlut.edu.cn/info/1011/153945.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "大连理工大学生物工程学院刘田团队在 Science Advances 报道，3,4-二羟基苯乙醛合酶（DHPAAS）催化生成的 DHPAA 是昆虫表皮鞣化交联、决定表皮机械强度的核心前体；研究在黑腹果蝇、黄粉虫和飞蝗三种代表性昆虫中通过跨物种 RNAi、力学测试与前体定量证实其功能，并基于活性口袋虚拟筛选发现植物源天然产物 2,5,2',4'-四羟基查尔酮可选择性抑制 DHPAAS，高效杀虫而对虾蟹和鱼类低毒。",
+    "species_latin": "Locusta migratoria",
+    "species_en": "migratory locust",
+    "species_zh": "飞蝗",
+    "takeaway": "昆虫特异性醛合酶 DHPAAS 是高选择性绿色杀虫剂的理想靶标，其抑制剂四羟基查尔酮可破解稻-虾/稻-蟹共作中的虫药矛盾。",
+    "conclusion": "DHPAAS 介导的 DHPAA 交联主导表皮鞣化与机械强度（多巴胺途径主要负责着色）：黄粉虫沉默后成虫 100% 死亡、鞘翅弹性模量下降 58%，飞蝗沉默后约 30% 死亡、半数成虫胫节弯曲；DHPAAS 仅存在于陆生节肢动物，是节肢动物登陆的关键演化标记；其选择性抑制剂 2,5,2',4'-四羟基查尔酮对农业害虫高效、对水蚤和斑马鱼低毒，为绿色先导化合物与产业化应用提供了新方向。",
+    "keywords": [
+      "DHPAAS",
+      "DHPAA",
+      "表皮鞣化",
+      "选择性杀虫剂靶标",
+      "绿色农药",
+      "飞蝗",
+      "Locusta migratoria",
+      "RNAi",
+      "四羟基查尔酮",
+      "植物源天然产物",
+      "水产生态安全"
+    ]
+  },
+  {
     "id": "pmid-42873289",
     "title": "Engineering cotton with ASAL and MYB genes confer dual benefits of pest resistance and fiber improvement",
     "type": "paper",
@@ -281,6 +315,58 @@
     "conclusion": "集约化花卉种植导致厄瓜多尔灌溉水、地表水和地下水普遍受农药污染，采后设施为潜在点源，降雨驱动吡虫啉扩散；新烟碱类尤其吡虫啉和噻虫啉对水生无脊椎动物风险高，亟需改进采后管理、针对性减排及区域法规以保护热带淡水生态与人类健康。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1007/s44372-026-00935-z",
+    "title": "Next-generation sequencing for genetic and genomic characterization of horticultural crops",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Discover Plants.",
+    "authors": "Khwairakpam Rozerto, Pauline Alila, Khriezodinuo Pienyu, Kuluve Chotso, Sanjeev Kumar Singh",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-16",
+    "url": "https://doi.org/10.1007/s44372-026-00935-z",
+    "doi": "10.1007/s44372-026-00935-z",
+    "pmid": "",
+    "abstract": "Horticultural crops such as fruits, vegetables and ornamentals are disproportionately difficult to improve through conventional breeding because of long juvenility, high heterozygosity, polyploidy, clonal propagation and structurally complex genomes. Next-Generation Sequencing (NGS) has addressed several of these constraints by enabling rapid, cost-effective genome and transcriptome characterisation and its scope now extends well beyond first-generation whole-genome sequencing to telomere-to-telomere (T2T) and haplotype-resolved assemblies, graph-based pan-genomes, long-read and single-cell/spatial transcriptomics, whole-genome bisulfite and chromatin-accessibility profiling and genotyping platforms that underpin marker-assisted selection, genomic selection and genome-wide association studies. Integration of NGS with precision genome-editing tools, including base editing, prime editing and Cas12-based multiplexing, has further shortened the path from gene discovery to trait deployment. This review synthesises these developments specifically as they apply to horticultural crops, evaluates the comparative strengths, costs and limitations of current sequencing platforms and genotyping strategies, and identifies persistent bottlenecks arising from genome complexity, structural variation and the computational demands of multi-omics data integration. We also examine emerging opportunities in artificial-intelligence-assisted genomic prediction, digital and predictive breeding and microbiome-informed crop management and outline a conceptual framework linking sequencing technologies to functional validation and breeding application. Rather than a general survey, this review positions itself against recent NGS-in-plants literature by focusing on the technology-to-breeding translation gap that is most acute in horticultural species, and by highlighting where evidence remains preliminary.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述NGS技术如何克服园艺作物育种瓶颈并推动从基因发现到育种应用。",
+    "conclusion": "NGS已从全基因组测序拓展至T2T组装、泛基因组、单细胞与空间转录组等多组学工具，结合精准基因编辑可加速性状部署；但基因组复杂性、结构变异和多组学整合的计算需求仍是主要瓶颈，AI辅助预测与数字化育种是新兴方向。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42878004",
+    "title": "The MODNAP benchmark set for modeling ribose-based modified nucleic acid and nucleic acid-protein complexes: a case study with AlphaFold 3",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nucleic acids research",
+    "authors": "Fu J, Milam VT, McShan AC.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-16",
+    "url": "https://europepmc.org/article/MED/42878004",
+    "doi": "10.1093/nar/gkag999",
+    "pmid": "42878004",
+    "abstract": "Modified nucleic acids play important roles in biology and biotechnology. However, their chemical and structural diversity as well as effects on nucleic acid structure and intermolecular interactions remain incompletely characterized. The performance of structure prediction and co-folding algorithms for modeling modified nucleic acids and nucleic acid-protein complexes has also not been evaluated. Here, we systematically analyze ribose-based modified nucleotides present in structures deposited in the Protein Data Bank. Modified nucleotides are primarily localized to the nucleobase, where they exhibit chemical and structural diversity shaped by molecular size, topological shape descriptors, and polarity-related properties. We develop MODNAP, the first curated dataset of experimentally determined structures containing modified nucleotides. Using MODNAP, we benchmark AlphaFold 3 on 1039 nucleic acid and nucleic acid-protein complex structures spanning a range of nucleotide modifications, tertiary folds, and biological functions. AlphaFold 3 achieves success rates exceeding 80% at an RMSD threshold of 2.5 Å. However, its accuracy in positioning modified nucleotides is variable and decreases for structures not explicitly represented in training. PoseBusters analysis reveals frequent intramolecular validity failures, primarily due to non-ideal ribose ring geometries. Together, these results establish MODNAP as a resource for evaluating and improving structure prediction methods for modified nucleic acids.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究构建了修饰核酸结构数据集MODNAP，并据此评测AlphaFold 3，发现其整体成功率超80%但修饰核苷酸定位精度不稳。",
+    "conclusion": "作者系统分析了PDB中核糖类修饰核苷酸，发现修饰主要位于核碱基，其化学与结构多样性受分子大小、拓扑形状和极性影响；据此建立首个实验结构数据集MODNAP，并用其评测AlphaFold 3在1039个核酸及核酸-蛋白复合物上的表现。结果显示整体成功率超80%（RMSD 2.5 Å），但修饰核苷酸定位精度波动大，训练集中未出现的结构表现更差，且PoseBusters分析揭示核糖环几何不理想导致的分子内有效性失败频发。MODNAP可作为改进修饰核酸结构预测方法的资源。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
