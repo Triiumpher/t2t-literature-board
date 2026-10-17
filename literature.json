@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42886612",
+    "title": "Deciphering the Molecular and Cellular Landscape of Early Diabetic Nephropathy through Single-Cell RNA Sequencing and Protein-Protein Interaction Networks",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "American journal of nephrology",
+    "authors": "Qin L, Liang Y, Xuan L, He R, Pang S, Ding T, Xie W, Yuan J.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42886612",
+    "doi": "10.1159/ajn/ablag024",
+    "pmid": "42886612",
+    "abstract": "Diabetic nephropathy (DN) arises through complex pathological mechanisms that remain incompletely understood. This study employs transcriptomic and single-cell RNA sequencing (scRNA-seq) approaches to systematically characterize gene expression patterns, cellular composition changes, and intercellular communication networks in early DN. Analysis of the GSE111154 transcriptome dataset identified 259 differentially expressed genes (DEGs), including 118 protein-coding genes (70 downregulated and 189 upregulated) in DN samples. Functional enrichment analysis revealed significant involvement of these DEGs in immune response pathways and extracellular matrix (ECM) organization. Single-cell analysis of the GSE131882 dataset resolved 12 distinct renal cell populations, demonstrating significant shifts in cellular proportions in DN, with notable expansions of endothelial cells (ENDO), fibroblasts (FIB), principal cells (PC), and parietal epithelial cells (PEC). Protein-protein interaction network analysis identified COL1A2, FLNA, A2M, and PLG as central hub genes in DN pathogenesis. Cell-cell communication analysis revealed enhanced interaction frequency and intensity in DN, particularly involving FIB cells through specific signaling pathways including CDH5, KIT, THBS, EGF, and FN1. In DN originated FIBs, the differential genes enriched transcription factor was NR2F2. Through immunohistochemical staining, NR2F2 was up-expressed in DN samples while CD31 was down-regulated. These findings collectively demonstrate profound dysregulation of immune responses, ECM remodeling, and cellular crosstalk during DN progression, highlighting key molecular and cellular drivers of disease pathogenesis.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人类",
+    "takeaway": "研究用单细胞测序与蛋白互作网络解析早期糖尿病肾病，发现免疫、细胞外基质重塑及细胞通讯异常，NR2F2为关键因子。",
+    "conclusion": "早期糖尿病肾病存在免疫反应失调、细胞外基质重塑及细胞间通讯增强，成纤维细胞通过CDH5、KIT、THBS、EGF、FN1等通路参与；COL1A2、FLNA、A2M、PLG为核心枢纽基因，NR2F2在成纤维细胞中上调并可能驱动病程。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "title-themir166a3pinexosomelikenanoparticlesfromstellerachamaejasm",
+    "title": "The miR-166a-3p in exosome-like nanoparticles from Stellera chamaejasme induce insecticidal effects in fall armyworm by disrupting the gut barrier and microbiota",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Frontiers in plant science",
+    "authors": "Zhang L, Zhao T, Lu L, Li R, Gu W, Zou L, Peng L, Etebari K, Ren Y.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-17",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "瑞香狼毒外泌体样纳米颗粒中的miR-166a-3p可破坏草地贪夜蛾肠道屏障与菌群，产生杀虫效果。",
+    "conclusion": "该研究提示，瑞香狼毒来源的外泌体样纳米颗粒携带的miR-166a-3p是起杀虫作用的关键分子，其机制与破坏草地贪夜蛾肠道屏障并扰乱肠道微生物群有关，为开发基于植物miRNA的害虫防控策略提供了新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42885100",
+    "title": "Unveiling chemical composition of peppermint oil and its bioactivities compared with (R)-(+)-limonene: antimicrobial, antibiofilm, and insecticidal perspectives",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of the science of food and agriculture",
+    "authors": "Kačániová M, Garzoli S, Qiao M, Ban Z, Li L, Lou J, Elizondo-Luevano JH, Mnif W, Bianchi A, Ben Saad R, Ben Hsouna A.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42885100",
+    "doi": "10.1002/jsfa.71172",
+    "pmid": "42885100",
+    "abstract": "BACKGROUND: Peppermint (Mentha piperita L.) essential oil (MPEO) is recognized for its broad-spectrum antimicrobial properties and potential applications in food preservation. This study aimed to determine whether the bioactivity of MPEO is attributable to (R)-(+)-limonene or whether the complete essential oil provides higher efficacy due to interactions among multiple constituents. RESULTS: MPEO was characterized using GC-MS and evaluated for antimicrobial activity in vitro against Gram-positive and Gram-negative bacteria and yeasts, and in situ in the vapor phase on strawberries, plums, beetroot, and tomatoes. Antibiofilm activity against Salmonella enterica was assessed using crystal violet assay and MALDI-TOF MS, while insecticidal activity was tested against Callosobruchus maculatus and Megabruchidius dorsalis. GC-MS revealed a menthol chemotype dominated by menthol (54.2%), with isomenthone (8.4%), isomenthol acetate (5.7%), 1,8-cineole (5.7%), linalool (3.1%), β-caryophyllene (3.5%), limonene (2.7%), and α-pinene (1.5%). MPEO generally produced larger inhibition zones and lower minimum inhibitory concentration values than (R)-(+)-limonene, and stronger in situ growth suppression. Antibiofilm activity was demonstrated in both assays. In insecticidal tests, limonene was more effective than MPEO at 6.25-50%, while both treatments were nearly fully effective at 100%. CONCLUSION: MPEO showed greater overall antimicrobial efficacy than (R)-(+)-limonene, supporting the importance of interactions among its constituents. Its combined antimicrobial, antibiofilm, and insecticidal activities indicate potential for use as a natural bio-preservative and in integrated pest management. © 2026 The Author(s). Journal of the Science of Food and Agriculture published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Mentha piperita",
+    "species_en": "peppermint",
+    "species_zh": "辣薄荷",
+    "takeaway": "薄荷精油成分以薄荷醇为主，其抗菌、抗生物膜效果优于柠檬烯，但杀虫效果不及柠檬烯。",
+    "conclusion": "薄荷精油整体抗菌效力强于单一成分(R)-(+)-柠檬烯，说明多种成分间的协同作用至关重要；其兼具抗菌、抗生物膜和杀虫活性，有望作为天然生物防腐剂并用于害虫综合治理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261016-dhpaas-cuticle-insecticide",
     "title": "【创新在大工】生物工程学院科研团队在昆虫表皮形成机制与绿色农药靶标发现方向取得新突破",
     "type": "wechat",
@@ -784,7 +862,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1043,6 +1121,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42852486",
+    "title": "Pyrrolidinium ionic liquid and Polysorbate 20 based nanoemulsions of lambda-cyhalothrin: formulation, physicochemical characterization and enhanced surface wettability",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Anand A, Saraswat J, Bhattacharya A, Kumar A, Patel R.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42852486",
+    "doi": "10.1002/ps.71238",
+    "pmid": "42852486",
+    "abstract": "Background Hydrophobic pesticides often exhibit poor aqueous dispersibility and limited wettability, which can adversely affect their application efficiency. To address these limitations, ionic liquid (IL)-based nanoemulsions (NEs) incorporating the hydrophobic insecticide lambda-cyhalothrin (LCT) were developed using Polysorbate 20 and two pyrrolidinium ILs, 1-octyl-1-methylpyrrolidinium bromide ( PyrC8Br- ) and 1-dodecyl-1-methylpyrrolidinium bromide ( PyrC12Br- ), in an aqueous medium. Results Stable LCT-loaded NEs with nanosized droplets were successfully prepared via ultrasonication. The concentration for the ILs required for the NE formation was found to be 2.39 mm for PyrC8Br- and 0.70 mm for PyrC12Br- . Scanning electron microscopy (SEM) and atomic force microscopy (AFM) imaging confirmed the formation of the NEs, revealing uniformly dispersed, nanosized droplets without noticeable coalescence following pesticide loading. The alkyl chain length of the IL strongly influenced the physicochemical properties of the formulations, with the PyrC12Br- based NE showing greater LCT incorporation than the PyrC8Br- system. Spectroscopic analysis further supported the interaction between the IL, LCT, and the surfactant within the NE matrix. Contact angle measurements on chili and lemon leaves showed markedly lower values for LCT-loaded NEs compared to LCT alone, indicating improved surface wetting. Density functional theory (DFT) calculations corroborated these findings, predicting stronger intermolecular interactions and greater stability for the PyrC12Br- -LCT system. Conclusion The developed pyrrolidinium IL-based NEs provide a stable and effective formulation for incorporating LCT while improving its wetting behavior. The experimental findings, supported by theoretical calculations, demonstrate that IL alkyl chain length plays a key role in governing NE stability and pesticide incorporation, highlighting the potential of these systems as carriers for hydrophobic pesticides. © 2026 Society of Chemical Industry.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用吡咯烷鎓离子液体与聚山梨酯20制备高效氯氟氰菊酯纳米乳液，可提升稳定性与叶面润湿性。",
+    "conclusion": "以两种吡咯烷鎓离子液体制备的纳米乳液能稳定负载疏水杀虫剂高效氯氟氰菊酯，离子液体烷基链越长，载药量与体系稳定性越好；接触角实验与密度泛函理论计算均表明其叶面润湿性优于原药，说明离子液体烷基链长度是调控纳米乳液性能的关键，此类体系可作为疏水农药的优良载体。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42851150",
+    "title": "Volatile organic compounds from microalgae: sources, chemical diversity, biosynthesis, and bioactive potential",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Preparative biochemistry & biotechnology",
+    "authors": "Kundu A, Sen A, Bhattacharya R, Spagnuolo D, Sree B S, Mandal S, Ghosh Dastidar S, Rath J, Pandit S, Mohan Singh H, Banerjee S, Gill HS.",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42851150",
+    "doi": "10.1080/10826068.2026.2741198",
+    "pmid": "42851150",
+    "abstract": "Microalgae are prolific producers of volatile organic compounds (VOCs) that play important roles in atmospheric chemistry, aquatic ecosystem dynamics, and water quality, particularly through the generation of off-flavours and odors. Despite their ecological relevance and growing biotechnological interest, microalgal VOCs remain comparatively underexplored. These low-molecular-weight metabolites encompass a broad range of chemical classes, including terpenoids, sulfur-containing compounds, benzenes, furans, alkanes, alcohols, ketones, aldehydes, and esters. Knowledge of their chemical diversity, biosynthetic pathways, allelopathic effects, and other ecological functions is still not fully reviewed. This review synthesizes current understanding of microalgal VOCs, emphasizing how morphology, physiology, ecological niche, and genetic variability influence VOCs production. Commonly reported VOCs such as geosmin, methylisoborneol, β-cyclocitral, and 2-pentylfuran are discussed with respect to their occurrence, chemistry, ecological roles, regulation by biotic and abiotic factors, and impacts. Despite their diverse ecological and biochemical roles, limited elucidation of their biosynthetic mechanisms also highlighted. Microalgal VOCs exhibit diverse bioactivities, including antibacterial, antifungal, insecticidal, antioxidant, antiviral, and antiprotozoal properties, underscoring their potential for biotechnological and industrial applications. Advances in analytical approaches, particularly gas chromatography-mass spectrometry and electronic nose technologies, have significantly improved VOCs detection and profiling. This review identifies critical knowledge gaps and underscores the need for integrative studies to unravel the diversity, chemical structures, biosynthetic pathways, and ecological significance of microalgal VOCs, thereby enabling theirsustainable exploitation and facilitating their industrial applications.",
+    "species_latin": "",
+    "species_en": "Microalgae",
+    "species_zh": "微藻",
+    "takeaway": "综述微藻挥发性有机物，梳理其来源、化学多样性、生物合成及生物活性，指出研究不足。",
+    "conclusion": "微藻VOCs涵盖萜类、含硫化合物、苯系物、呋喃、烷烃、醇、酮、醛和酯等多类低分子量代谢物，其产生受形态、生理、生态位和遗传变异影响，并具抗菌、抗真菌、杀虫、抗氧化、抗病毒和抗原虫等活性。土臭素、甲基异冰片、β-环柠檬醛和2-戊基呋喃等常见化合物与异味及生态功能相关。然而其生物合成机制尚不清楚，需整合研究以推动可持续利用和工业应用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261015-px-vatpasea-rnai",
     "title": "敲低液泡型H+-ATPase A亚基（vATPaseA）损害小菜蛾（Plutella xylostella）幼虫-蛹发育",
     "type": "wechat",
@@ -1253,7 +1383,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1431,6 +1561,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42842684",
+    "title": "Rapid protamine evolution suppresses meiotic drive in &lt;i&gt;Drosophila&lt;/i&gt;",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Science advances",
+    "authors": "Chang CH, A de la Cruz AF, Lai HY, Mejia Natividad I, Noyola A, Angelo Magsino Abellanosa E, Lee ND, Malik HS.",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42842684",
+    "doi": "10.1126/sciadv.aeb5514",
+    "pmid": "42842684",
+    "abstract": "Many animal species replace histones with protamines during spermatogenesis. Although essential for sperm function, protamines evolve rapidly for reasons that remain unknown. Using in vivo gene replacement, we examined the causes and consequences of the rapid evolution of Mst77F , a protamine essential for male fertility in Drosophila melanogaster ( D. melanogaster ). Replacing Mst77F with divergent orthologs caused DNA compaction defects in X-bearing sperm, resulting in fewer mature X-bearing sperm and male-biased progeny. Reducing D. melanogaster Mst77F dosage caused the same bias, whereas increasing the dosage of Mst77F orthologs rescued it. Engineered sex chromosome fusions revealed that Mst77F protects the D. melanogaster X chromosome from a killer-target meiotic drive system in a dosage- and sequence-dependent manner. Unlike in D. melanogaster , Mst77F was dispensable for fertility in Drosophila yakuba ( D. yakuba ) but remained important for suppressing sex ratio distortion. Our findings show that relentless pressure to suppress sex chromosome meiotic drive underlies the rapid evolution of protamines.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "用果蝇Mst77F替换实验证明,精蛋白快速演化源于抑制性染色体减数分裂驱动。",
+    "conclusion": "Mst77F以剂量和序列依赖方式保护黑腹果蝇X染色体免受杀手-靶标减数分裂驱动系统攻击;其快速演化是持续压制性染色体驱动压力的结果,而非仅由精子功能需求驱动。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.65822/j.pcl/2027.02",
     "title": "Genomics and Bioinformatics for Next-Generation Crop Improvement: From Pangenomes to AI-Driven Precision Breeding",
     "type": "paper",
@@ -1479,7 +1635,7 @@
     "keywords": [
       "稻纵卷叶螟功能基因组学"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1580,6 +1736,32 @@
     "species_zh": "桃蚜",
     "takeaway": "新立克次氏体转感染不干扰桃蚜对化学杀虫剂和球孢白僵菌的响应，支持其作为广域生防手段。",
     "conclusion": "在4种抗药性不同的桃蚜克隆中，Rickettsiella转感染未改变化学杀虫剂致死效果；与球孢白僵菌互作虽因基因型而异并可能有跨代效应，但真菌防效未被削弱，说明该共生菌可与化学及微生物防治兼容，具备区域化生防应用潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42883445",
+    "title": "Insecticidal Efficacy of Silicon Dioxide as Grain Protectant and Surface Treatment Against Two Major Stored-Product Beetle Species",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biology",
+    "authors": "Sakka MK, Karanastasi E, Andreadaki S, Baliota GV, Rigopoulou M, Agrafioti P, Athanassiou CG, Rumbos CI.",
+    "publish_date": "2026-10-06",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42883445",
+    "doi": "10.3390/biology15191772",
+    "pmid": "42883445",
+    "abstract": "The insecticidal efficacy of a commercial silicon dioxide (SiO2) formulation (ChinCheX®) was evaluated as a grain protectant and surface treatment against adults of Oryzaephilus surinamensis (L.) and Tribolium confusum Jacquelin du Val. In grain-treatment bioassays, wheat and barley kernels were treated with 0, 100, 200, 500 and 1000 ppm of the SiO2 formulation and adult mortality was assessed after 3, 7, 14 and 21 d of exposure. Mortality increased with both concentration and exposure interval. Complete mortality of O. surinamensis was achieved at all concentrations, including 100 ppm after 21 d, whereas T. confusum was less susceptible at the lowest concentration but reached complete mortality at concentrations of 200 ppm or higher. Progeny production of both species was almost completely suppressed in all treated groups. In surface-treatment bioassays on concrete and plastic surfaces, high mortality (>85%) was recorded within 3 d of exposure at all application rates, while complete mortality was generally achieved within 7 d regardless of surface type. Overall, the SiO2 formulation tested exhibited strong insecticidal activity both as a grain protectant and as a surface treatment, indicating considerable potential for the management of storage beetles in stored-product protection programs.",
+    "species_latin": "Oryzaephilus surinamensis, Tribolium confusum",
+    "species_en": "sawtoothed grain beetle, confused flour beetle",
+    "species_zh": "锯谷盗、赤拟谷盗",
+    "takeaway": "二氧化硅制剂对两种储粮甲虫兼具拌粮与表面处理杀虫效果，可高效致死并抑制后代。",
+    "conclusion": "该商用二氧化硅制剂随浓度和暴露时间增加而提高杀虫效果：拌粮处理下锯谷盗各浓度均可完全致死，赤拟谷盗在200 ppm及以上完全致死，且两物种后代几乎被完全抑制；混凝土和塑料表面处理3天内死亡率超85%，7天内基本全死。表明其作为储粮保护剂和表面处理剂具有较大应用潜力。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -1688,6 +1870,84 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42848677",
+    "title": "Wolbachia introgression in Rio de Janeiro remains at sub-optimal levels 30 months after its decline: challenges in the sustainability of wMel interventions for dengue control",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Memorias do Instituto Oswaldo Cruz",
+    "authors": "Padilha KP, Garcia GA, Teles-de-Freitas R, Gnonhoue FJ, David MR, Corrêa-Antônio J, Oliveira F, Brito LP, Dias L, Martins AJ, Corbel V, Lima JBP, Wallau GL, Hoffmann A, Cruz OG, Villela DAM, Pavan MG, Maciel-de-Freitas R.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42848677",
+    "doi": "10.1590/0074-02760250212",
+    "pmid": "42848677",
+    "abstract": "Background The deployment of the Wolbachia wMel strain is currently underway in multiple dengue-endemic municipalities across Brazil. The efficacy of this strategy in Rio de Janeiro remains uncertain, primarily due to the difficulty in sustaining high wMel prevalence in regions previously subjected to large-scale releases. A key contributing factor was the routine rotation of insecticides within the framework of Integrated Vector Management (IVM), which led to the use of the larvicide Spinosad for Aedes control in urban areas. This compound was associated with a precipitous decline in Aedes aegypti mosquitoes, regardless of the wMel infection status. While wMel-uninfected population recovered within weeks, wMel-infected population remained at low levels likely due to the fitness costs imposed by wMel on egg viability. Objectives and methods Evaluate the updated frequency of Wolbachia wMel strain in neighborhoods that received deployments. Fort that, we assessed the long-term persistence of wMel following its demographic collapse, by performing mosquito sampling across 12 neighbourhoods in Rio de Janeiro, 30 months after mosquito populations crashed. Findings Our findings reveal that wMel introgression remains suboptimal, with a mean frequency of 9.87% across the sampled areas. Only two neighbourhoods exhibited wMel frequencies exceeding 15%, likely reflecting ongoing localised releases. Main conclusions The reduced prevalence underscores the challenges of achieving self-sustaining wMel establishment in complex urban environments and highlight critical considerations for the implementation of Wolbachia-based dengue control programs in endemic regions.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "里约热内卢释放wMel沃尔巴克氏体30个月后,蚊群中wMel平均频率仅9.87%,难以自我维持。",
+    "conclusion": "在里约热内卢12个社区采样发现,蚊群崩溃30个月后wMel沃尔巴克氏体平均频率仅9.87%,仅两个社区超过15%(可能因持续释放)。这表明在复杂城市环境中,wMel难以实现自我维持的定殖,为登革热控制项目中沃尔巴克氏体策略的可持续性敲响警钟。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42840203",
+    "title": "Agricultural Landscapes and Forest Fragments Shape Population Dynamics, Cuticular Lipids and the Conservation of the Masked Bees, &lt;i&gt;Hylaeus communis&lt;/i&gt;",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Ecology and evolution",
+    "authors": "Olberz S, Jansen S, Ayasse M, Boff S.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42840203",
+    "doi": "10.1002/ece3.74436",
+    "pmid": "42840203",
+    "abstract": "Organic farming has been shown to offer advantages over conventional farming in protecting insect biodiversity, but our overall understanding of its relationship with wild bee population parameters, especially cuticular lipids, remains limited. In the current study, we installed bee hotels at different farming sites in southern Germany and hypothesized that the local farming system (organic vs. conventional), the extent of organic farming, and the extent of forest (percentage of each component in the analyzed landscape) influence the abundance of nests and individuals of small-bodied solitary bees of the genus Hylaeus . Moreover, at the species level, we investigated the influence of the same agricultural landscape elements and forest cover on the number of nests, bee abundance, sex ratio, and body size of H. communis , the most common Hylaeus species at our study sites. We further investigated how this landscape variables influence the composition of cuticular lipids in females and males of this species. Our results were more conclusive at the species level. We found that organic farming positively influenced the abundance of H. communis , whereas abundance decreased with increasing forest cover. In contrast, the sex ratio was higher at conventional farming sites and increased with forest cover. Although females were larger than males, no effect of landscape variables on body size was detected. The chemical composition of cuticular lipids of H. communis was significantly influenced by the farming system. These findings raise concerns about potential mechanisms through which farming practices may influence the reproduction of cavity-nesting wild bees in agricultural environments. In conclusion, our findings show a positive effect of organic farming on the abundance of H. communis , while also highlighting potential effects of farming practices on physiological traits and population-level parameters of this small wild bee species.",
+    "species_latin": "Hylaeus communis",
+    "species_en": "Masked bee",
+    "species_zh": "普通面具蜂",
+    "takeaway": "在德国南部农业景观中，有机农业提升面具蜂Hylaeus communis数量，森林覆盖则降低其数量并改变性比与表皮脂质。",
+    "conclusion": "有机农业对H. communis丰度有正向作用，而森林覆盖增加则使其丰度下降、性比升高；养殖方式还显著影响其表皮脂质组成，但未影响体型。这表明农业实践可通过改变生理性状与种群参数影响洞穴筑巢野生蜂的繁殖，提示景观管理对小型独居蜂保护具有重要意义。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42832605",
+    "title": "First record of Phlebotomus sergenti (Diptera: Psychodidae) in China and its potential epidemiological implications",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Dong H, Yang A, Shan W, Zhao C, Li X, Rui B, Zhao J, Wumaier M, Peng H, Ma Y.",
+    "publish_date": "2026-10-05",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42832605",
+    "doi": "10.1371/journal.pntd.0014726",
+    "pmid": "42832605",
+    "abstract": "Background Leishmaniasis is a severe parasitic disease transmitted by sand fly bites. Phlebotomus sergenti is a principal vector of Leishmania tropica, causing anthroponotic cutaneous leishmaniasis (ACL) across the Mediterranean, North Africa, South Asia, and West Asia. The Xinjiang Uygur Autonomous Region, located in northwestern China, is a well-recognized endemic focus of visceral leishmaniasis (VL), with sporadic cutaneous leishmaniasis cases also documented in the region. Nevertheless, Ph. sergenti has never been reported in China prior to this study. Methodology/principal findings Field investigations were carried out in Artux City (July 2023) and Akto County (August-September 2024), Kizilsu Kirghiz Autonomous Prefecture, Xinjiang Uygur Autonomous Region. Sand flies were collected using light traps in livestock pens and residential areas. A total of 2,013 sand fly specimens were collected and 319 of them were identified through morphological examination of the pharynx, spermathecae, and genitalia, combined with molecular analysis of mitochondrial cytochrome c oxidase subunit I (COI) and cytochrome b (Cyt b) genes. Among the identified specimens, 145 specimens were identified as Ph. sergenti (36 from Artux City, 109 from Akto County), representing the first record of this species in China. Phylogenetic analysis based on COI and Cyt b sequences showed that Chinese Ph. sergenti populations clustered with those from neighboring countries (e.g., Afghanistan), with no significant genetic differentiation between the two sampling localities. Metagenomic screening of pooled samples revealed the presence of Wolbachia endosymbionts but no detection of Leishmania spp., Trypanosoma spp. or Bartonella spp. in the collected Ph. sergenti specimens. Conclusions/significance This study represents the first confirmed record of Ph. sergenti in China, filling a critical gap in the distribution map of this medically important sand fly species. The occurrence of Ph. sergenti at the China-Kyrgyzstan border region suggests potential transboundary dispersal of this vector and underscores the need for enhanced surveillance and cross-border collaborative efforts to monitor the spread of leishmaniasis and other vector-borne diseases in Central Asia.",
+    "species_latin": "Phlebotomus sergenti",
+    "species_en": "sand fly",
+    "species_zh": "塞氏白蛉",
+    "takeaway": "新疆首次发现沙蝇Phlebotomus sergenti，形态与分子鉴定确认，但未检出利什曼原虫。",
+    "conclusion": "研究首次确认Ph. sergenti在中国新疆分布，其种群与阿富汗等邻国相近，提示跨境扩散风险；虽未检出利什曼原虫等病原，但该蚊种为皮肤利什曼病重要媒介，需加强监测与跨境合作。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -1988,6 +2248,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42883631",
+    "title": "From Food Additives and Contaminants to the Human Exposome: A Precision Toxicology Framework for Next-Generation Food Safety",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Foods (Basel, Switzerland)",
+    "authors": "Eltanty MM, Shim JH, Türkez H, Bae SJ, Bae J, Abd El-Aty AM.",
+    "publish_date": "2026-10-02",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42883631",
+    "doi": "10.3390/foods15193525",
+    "pmid": "42883631",
+    "abstract": "Human exposure to foodborne xenobiotics, including environmental contaminants that enter the food chain, is no longer adequately represented by isolated chemicals. Individuals encounter complex and dynamic mixtures of food additives, pesticide residues, veterinary drugs, mycotoxins, processing contaminants, packaging migrants, environmental pollutants, and other dietary chemicals that interact with genetics, metabolism, the gut microbiome, nutritional status, and lifestyle throughout life. The dietary exposome therefore represents a critical interface linking food contaminants, internal chemical exposure, molecular perturbation, and long-term human health. Conventional toxicology provides an indispensable foundation for food safety regulation through hazard characterization and population-based health guidance values but is less equipped to explain interindividual variability in biological response and chronic disease susceptibility. Precision toxicology provides an integrative and mechanism-informed framework that combines high-resolution analytical chemistry, human biomonitoring, exposomics, multiomics, new approach methodologies, and artificial intelligence. This integration enables the characterization of biologically effective exposure, the elucidation of exposure-response relationships, and the identification of interindividual variability in toxicological susceptibility. This perspective proposes a translational framework connecting external exposure → internal dose → biological response → individual susceptibility → health outcome. We position this framework relative to existing exposome, exposure-pathway, and adverse-outcome-pathway frameworks; specify the evidence required at each transition; make its life-course dimension explicit; illustrate it with a worked per- and polyfluoroalkyl substance (PFAS) example; and outline a stepwise route into food risk assessment together with its principal limitations. Such integration could advance food safety science beyond residue detection toward biologically informed exposure assessment, ultimately supporting more evidence-based regulatory decision-making, preventive strategies, and public health protection.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出精准毒理学框架,整合暴露组与多组学,以PFAS为例推进食品安全风险评估。",
+    "conclusion": "传统毒理学难以解释个体差异与慢性病易感性,精准毒理学通过整合高分辨分析、人体生物监测、暴露组学、多组学、新方法学与人工智能,刻画生物有效暴露并识别易感差异。作者提出外部暴露→内剂量→生物响应→个体易感性→健康结局的转化框架,明确各环节证据要求与生命历程维度,并给出分步纳入食品风险评估的路径及局限。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -2805,7 +3091,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "OpenAlex;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
