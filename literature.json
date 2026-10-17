@@ -52,6 +52,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42887757",
+    "title": "Synergistic bioremediation of metolachlor-contaminated soil by Penicillium oxalicum MetF1 and earthworms: Enhanced degradation, microbial community restructuring, and ring-opening metabolic activation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Chen P, Dong R, Jiang M, Zhao L, Ye H, Bai M, Weng L, Sun Y.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42887757",
+    "doi": "10.1016/j.envres.2026.125932",
+    "pmid": "42887757",
+    "abstract": "The chloroacetamide herbicide metolachlor (MET) is a widespread environmental contaminant posing risks to aquatic and soil ecosystems. Although the fungal strain Penicillium oxalicum MetF1 efficiently degrades MET in liquid culture, its performance in complex soil environments remains unexplored. Recognizing the multifunctional roles of earthworms as soil ecosystem engineers-including their capacity to modulate microbial activity and pollutant bioavailability-we incorporated Eisenia fetida into a synergistic bioremediation system with P. oxalicum MetF1 in MET-contaminated soil. The synergistic treatment achieved 93.88% MET removal within 14 days, significantly outperforming treatments with the fungus (81.75%) or earthworms (30.10%) alone. Metabolite dynamics revealed that earthworms accelerated the transformation of MET intermediates (M2H, MESA, MDES), with a unique enrichment of genes encoding key ring-opening enzymes (3-hydroxyphenylacetate 6-hydroxylase, tyrosine aminotransferase). Earthworms also decreased soil pH toward neutrality, mobilization of available phosphorus, and stabilization of organic carbon, and may partially offset microbial alkali-hydrolyzable nitrogen consumption. High-throughput sequencing demonstrated that the synergistic system alleviated pesticide-induced stress, increased microbial alpha diversity, enriched beneficial degraders (Sphingomonas, Flavobacterium, Fusarium), suppressed pathogenic Blumeria, and fostered tighter co-occurrence networks with more positive interactions. Functional prediction revealed upregulation of carbohydrate and amino acid metabolism pathways as well as the xenobiotics biodegradation pathway, with phenylacetate and tyrosine degradation pathways providing an efficient metabolic route for MET ring-opening. Earthworms exhibited low MET bioaccumulation (BAF < 1) and net weight gain, indicating limited bioaccumulation potential and the absence of obvious lethal effects. However, sublethal effects and the toxicity of MET metabolites (M2H, MESA, and MDES) require further investigation. Collectively, this study demonstrates a powerful earthworm-fungus synergistic system for MET remediation, unravels its microbial and biochemical regulatory networks governing enhanced performance, and offers a mechanistic framework for deploying multi-organism strategies in the remediation of persistently contaminated soils.",
+    "species_latin": "Penicillium oxalicum, Eisenia fetida",
+    "species_en": "Penicillium oxalicum, Eisenia fetida",
+    "species_zh": "草酸青霉、赤子爱胜蚓",
+    "takeaway": "真菌Penicillium oxalicum MetF1与蚯蚓协同14天去除土壤中93.88%异丙甲草胺，并重塑微生物群落。",
+    "conclusion": "真菌MetF1与赤子爱胜蚓协同可高效降解土壤异丙甲草胺，蚯蚓促进中间产物转化、富集开环酶基因并改善土壤理化性质，同时缓解农药胁迫、提高微生物多样性、富集有益降解菌并增强群落互作，为农药污染土壤生物修复提供可行策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42885100",
     "title": "Unveiling chemical composition of peppermint oil and its bioactivities compared with (R)-(+)-limonene: antimicrobial, antibiofilm, and insecticidal perspectives",
     "type": "paper",
@@ -658,6 +684,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42887183",
+    "title": "Progress in defense glycosides from plants for the discovery of novel botanical pesticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioorganic chemistry",
+    "authors": "Ma J, Li X, Feng C, Zuo S, Tian X.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42887183",
+    "doi": "10.1016/j.bioorg.2026.110643",
+    "pmid": "42887183",
+    "abstract": "Plant-derived natural glycosides have been regarded as important factors in plant defense. Their potential as eco-friendly pesticide candidates have attracted increasing interest. This review summarizes progress in research on glycosides with insecticidal, antimicrobial and antiviral activities over the past decades, covering 161 compounds including flavonoid, triterpenoid, steroidal, pregnane, terpenoid, phenolic glycosides, etc., from various plant species. The results indicate that terpenoid including triterpenoid, iridoid, and sesquiterpenoid, along with steroidal glycosides represent the major defense constituents for discovery of novel botanical pesticides. Chemotaxonomic analysis at the family level identifies Ranunculaceae, Fabaceae, Rubiaceae, and Apocynaceae as particularly rich sources of agroactive glycosides. Mechanistic studies suggest that the insecticidal activities of these glycosides are strongly structure-dependent. Flavonoid glycosides mainly act through acetylcholinesterase inhibition, whereas saponins exert toxicity largely by targeting the insect midgut and inhibiting detoxification and digestive enzymes. Chitinase inhibition is also an important mechanism for insecticidal activities of glycosides. For antimicrobial activity, the mechanisms of bioactive glycosides mainly include targeting cell membranes and activating salicylic acid (SA) signaling. Downregulation of viral coat proteins appears to be a major mechanism of antiviral activity for the defense glycosides. By integrating chemical diversity, botanical distribution, bioactivity profiles, and mechanisms of action, this review highlights plant glycosides as a valuable reservoir for green pesticide discovery.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述161种植物糖苷，发现萜类与甾体糖苷是新型植物源农药的主要候选。",
+    "conclusion": "植物糖苷杀虫活性与结构密切相关：黄酮糖苷主要抑制乙酰胆碱酯酶，皂苷则作用于昆虫中肠并抑制解毒与消化酶，几丁质酶抑制也是重要机制；抗菌糖苷主要靶向细胞膜并激活水杨酸信号，抗病毒则多通过下调病毒外壳蛋白。毛茛科、豆科、茜草科和夹竹桃科是农用活性糖苷的富集科，糖苷可作为绿色农药开发的重要资源库。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.1007/s44372-026-00935-z",
     "title": "Next-generation sequencing for genetic and genomic characterization of horticultural crops",
     "type": "paper",
@@ -913,6 +965,32 @@
     "conclusion": "生物炭可固定土壤中老化敌草胺，椰壳炭效果最佳，主要通过物理封存促进不可提取残留形成，使辣椒吸收减少逾85%，蚯蚓和蜡样芽孢杆菌积累与降解残留显著降低，为农药污染土壤修复提供依据。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42887313",
+    "title": "Profiling the DuCV-1 Cap-associated host interactome by Co-IP/LC-MS: implications for host-response pathways and viral pathogenesis",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Poultry science",
+    "authors": "Lin C, Tan J, Wang L, Wu C, Zhang F, Li N, Song W, Tan M, Huang J, Li H.",
+    "publish_date": "2026-10-11",
+    "added_at": "2026-10-17",
+    "url": "https://europepmc.org/article/MED/42887313",
+    "doi": "10.1016/j.psj.2026.107946",
+    "pmid": "42887313",
+    "abstract": "Duck circovirus genotype 1 (DuCV-1) infection is a severe immunosuppressive disease that significantly impairs poultry growth. As the sole structural protein and major immunogen of DuCV-1, the capsid protein (Cap) plays a critical role in viral infection and pathogenesis. Elucidating the interactions between Cap and host proteins is essential for revealing the molecular basis of DuCV-1 pathogenicity. In this study, we performed, for the first time, using immunoprecipitation coupled with mass spectrometry (MS) to identify 288 potential host proteins that interact with Cap in Cap-transfected HD11 cells. Integrative analyses of protein-protein interaction (PPI) networks, Gene Ontology (GO) annotation, and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment showed that Cap-interacting host proteins are functionally enriched in multiple biological processes, including cytoskeleton remodeling, nucleic acid translation apparatus, endocytic trafficking, autophagy, and innate immune signaling. Further functional enrichment analyses confirmed that these Cap-binding factors are predominantly enriched in pathways associated with cytoskeleton remodeling, protein translation, transcriptional regulation, and DNA damage response. Moreover, we verified the binding of nine candidate Cap-interacting proteins to DuCV-1 Cap, including RB1-inducible coiled-coil 1, Exocyst complex component 1, Tubulin alpha-1A chain, Transcription factor E2F8, Nucleolar and coiled-body phosphoprotein 1, Ubiquitin-protein ligase E3B, DNA repair protein RAD52 homolog, Junction plakoglobin, and Tubulin alpha-1C chain. Collectively, the interactome dataset and network analysis provide new insights into the potential pathogenic mechanisms of DuCV-1.",
+    "species_latin": "Anas platyrhynchos",
+    "species_en": "Duck",
+    "species_zh": "鸭",
+    "takeaway": "研究用免疫共沉淀-质谱在HD11细胞中鉴定288个与DuCV-1 Cap互作的宿主蛋白，并验证9个候选互作。",
+    "conclusion": "DuCV-1 Cap与宿主蛋白互作网络主要富集于细胞骨架重塑、蛋白翻译、转录调控、内吞运输、自噬及天然免疫信号等通路，并验证了9个候选互作蛋白，为阐明Cap介导的病毒致病机制提供线索。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
