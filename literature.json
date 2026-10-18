@@ -2466,6 +2466,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42889974",
+    "title": "2,4-Dichlorophenol Photodegradation by Novel Burtite-like Solid Solutions: Effect of Sn4+ and Al3+ Content on the Physicochemical Properties and Photocatalytic Performance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Reyes-Cruz FM, Sánchez-Cantú M, Tzompantzi-Flores C, Ruiz-López II, Romero-Villegas AG, Tzompantzi F.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-18",
+    "url": "https://europepmc.org/article/MED/42889974",
+    "doi": "10.1021/acsomega.6c04908",
+    "pmid": "42889974",
+    "abstract": "Nowadays, tailoring the physicochemical properties of novel photocatalysts is crucial for advanced environmental remediation technologies. Thus, in this work, novel solid solutions of burtite-like compounds with nominal Sn amounts of 5.3-27.8 mol % were synthesized. Materials were prepared by the co-precipitation method followed by a hydrothermal treatment. A material without tin was also prepared as a control, and all materials were characterized by X-ray powder diffraction, scanning electron microscopy, nitrogen adsorption-desorption at -196 °C, diffuse reflectance spectroscopy, and X-ray photoelectron spectroscopy. To verify their photocatalytic behavior, all samples were tested for the photocatalytic degradation of 2,4-dichlorophenol (a very toxic and recalcitrant pesticide) as a probe molecule. Aeroxide TiO2 P25 was also evaluated by means of comparison under the same experimental conditions. Results revealed that the amount of tin defined the crystalline phases found in the samples since compounds with low tin amounts (below 10%) produced mixtures of hydrocalumite, katoite, and burtite. On the other side, higher tin contents produced pure burtite-like phases. The obtained solid solutions were verified by cell parameter calculations and the absence of secondary crystalline phases. A new acicular morphology of burtite was obtained and assigned to the aluminum-rich solid solution. Photocatalytic experiments demonstrated that all synthesized materials were active under UV irradiation; however, the highest activity was achieved by the katoite/burtite composite (Al-B2), reaching an apparent DiPhe degradation of 54% after 30 min (estimated from UV-vis measurements), while TiO2 exhibited a degradation of 25%. Additionally, 75.5% mineralization was achieved after 2 h, while only 53.8% was attained with TiO2. The most active material was evaluated over six consecutive cycles, with photocatalytic activity dropping from 70% to 25% mineralization between the first and sixth runs due to a lixiviation process. Results demonstrated that burtite's structure can be modified and its physicochemical characteristics can be adjusted to produce potential photocatalytic materials.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "合成含锡铝的钙铝石类固溶体光催化剂，其中钙铝石/钙铝石复合物降解2,4-二氯苯酚效果优于TiO2 P25。",
+    "conclusion": "锡含量决定晶相：低锡时形成水铝钙石、钙铝石与钙铝石混合物，高锡时得到纯钙铝石类相；富铝固溶体呈针状形貌。钙铝石/钙铝石复合物（Al-B2）活性最高，30分钟降解约54%、2小时矿化75.5%，均优于TiO2 P25；但循环使用因浸出导致活性下降。表明钙铝石结构可调，具光催化应用潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42873583",
     "title": "A high-quality telomere-to-telomere lumpy skin disease virus genome assembly",
     "type": "paper",
@@ -3061,6 +3087,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42890015",
+    "title": "Benchmarking Affinity-Based Docking for Irreversible Acetylcholinesterase Inhibitors: A Physics-Informed Reactivity Framework for Stereoselective Potency Prioritization",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Kim J, Yoo J, Lee DH, Kang K.",
+    "publish_date": "2026-09-30",
+    "added_at": "2026-10-18",
+    "url": "https://europepmc.org/article/MED/42890015",
+    "doi": "10.1021/acsomega.6c08355",
+    "pmid": "42890015",
+    "abstract": "Irreversible organophosphorus inhibitors of acetylcholinesterase (AChE) act by covalent phosphylation of the catalytic serine, yet their computational prioritization is often based on affinity scores from noncovalent docking. We benchmark that assumption against a curated set of measured human-AChE inhibition rate constants (n = 14; G-, V-, and organophosphate-pesticide classes, including a configuration-resolved VX pair). AutoDock Vina affinity (Spearman ρ = +0.12) and GNINA CNN scores (ρ = -0.40) do not provide statistically reliable potency rankings; explicit covalent docking also remains weak (ρ = +0.23, n = 11), with bootstrap confidence intervals crossing zero. Selecting covalent-compatible (near-attack) poses rather than top-ranked poses does not change this outcome. A quantum-chemical cluster scan supports a mechanistic interpretation: once the activated serine alkoxide/reactive complex is formed, P-O bond formation is downhill within the model, so the discriminating information is expected to reside in electrophilicity, leaving-group chemistry, and transport into reactive geometry rather than in a single docked pose. Consistently, mechanism-oriented molecular descriptors recover a modest but reproducible signal: TPSA alone correlates with potency (ρ = -0.62), and a Gaussian-process model used primarily for calibrated uncertainty yields leave-one-out ρ = +0.55 with permutation support (p ≈ 0.01) and a bootstrap CI whose lower bound lies near zero. A leave-both-VX-enantiomers-out test preserves the experimental S P > R P ordering. Given the small panel (n = 14), the descriptor correlations and stereochemical results are reported as exploratory and uncertainty-bounded rather than predictive. The resulting framework is presented as an uncertainty-bounded prioritization tool for data-scarce covalent AChE inhibitors, not as a substitute for kinetic measurement.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "对14种不可逆AChE抑制剂比较发现，非共价对接打分无法可靠排序效价，机制描述符与量子化学分析更关键。",
+    "conclusion": "非共价对接亲和力与共价对接均不能可靠预测不可逆有机磷AChE抑制剂的效价；量子化学表明P-O成键在模型内为下坡过程，区分信息主要来自亲电性、离去基团化学与反应构象输运，TPSA等机制描述符仅呈探索性相关，该框架应作为数据稀缺下的不确定性约束优先级工具而非动力学测定替代。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42889924",
+    "title": "Oxime-Functionalized Polydiacetylene Nanocomposite Sensor for Equipment-Free On-Site Detection Of Organophosphate Insecticide Chlorpyrifos Ethyl",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Alam AM, Finley DA, Kraus GA, Xiang C.",
+    "publish_date": "2026-09-30",
+    "added_at": "2026-10-18",
+    "url": "https://europepmc.org/article/MED/42889924",
+    "doi": "10.1021/acsomega.6c04463",
+    "pmid": "42889924",
+    "abstract": "A novel oxime-incorporated polydiacetylene-functionalized molecule (PCDA-OX) was synthesized for real-time, rapid, and selective detection of the organophosphate insecticide chlorpyrifos ethyl, which is widely used in agricultural fields globally. Nanocomposites containing PCDA-OX molecules were fabricated within a cellulose acetate matrix using an electrospinning technique, followed by chemical hydrolysis to obtain regenerated cellulose-based sensing materials. Comprehensive characterization was performed using scanning electron microscopy, nuclear magnetic resonance, Fourier-transform infrared spectroscopy, and an Instron tensile tester. Exposure to the chlorpyrifos ethyl triggered an instantaneous chromatic transition from blue to red/pink, enabling naked eye detection without instrumentation. The proposed sensor exhibited high selectivity against other classes of insecticides and achieved a limit of detection of 40 mmol. The sensing platform offers a simple, rapid, and field-deployable approach for organophosphate monitoring, offering a promising strategy for protecting human health and saving lives.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究合成肟基聚二乙炔纳米复合传感材料，可裸眼快速检测毒死蜱，检出限40 mmol。",
+    "conclusion": "将含肟基团的聚二乙炔分子掺入醋酸纤维素基质并静电纺丝、水解制成传感材料，接触毒死蜱后立即由蓝变红，无需仪器即可肉眼判读，且对其他类杀虫剂选择性高，为有机磷农药现场监测提供简便可部署方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -14378,6 +14456,32 @@
     "conclusion": "农药大量使用导致其在陆地和水生生态系统中生物累积，引发生态失衡并对人类和野生动物产生毒性。现有研究虽覆盖毒性、环境归趋、检测与修复，但缺乏将这些环节整合用于风险评估。本综述将环境持久性、生物监测、风险评估与修复纳入统一框架，为可持续农药管理、监管决策和环境保护提供综合视角。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42891196",
+    "title": "GSAman: A gene-structure annotation manual curator for functional genomics research",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Innovation (Cambridge (Mass.))",
+    "authors": "Chen C, Wu Y, Feng K, Liu H, Liao Y, Zeng Z, Wu F, Tan M, Xu X, Huang S, Wang Z, Tang S, Sun W, Zhang J, Chen LL, Xia R.",
+    "publish_date": "2026-06-17",
+    "added_at": "2026-10-18",
+    "url": "https://europepmc.org/article/MED/42891196",
+    "doi": "10.1016/j.xinn.2026.101471",
+    "pmid": "42891196",
+    "abstract": "A high-quality reference genome requires not only accurate DNA sequences but also well-defined gene-structure annotations. However, many existing tools depend predominantly on automated pipelines that perform poorly when confronted with complex gene architectures, such as overlapping loci, alternative splicing patterns, and lowly expressed isoforms, resulting in incomplete or inaccurate annotations. To overcome these limitations, we developed GSAman, a standalone, ready-to-use tool that enables intuitive, what-you-see-is-what-you-get (WYSIWYG) editing of gene-structure annotations. In contrast to web-based platforms such as Apollo2, which generally require server deployment and do not provide full offline functionality, GSAman delivers a fully local, responsive interface for real-time annotation refinement, thereby improving accessibility across research settings. GSAman supports both fine-scale curations of individual genes and large-scale annotation of entire genomes. By enabling precise curation of gene models across varied genomic contexts, it directly facilitates downstream applications, including pan-genome construction, gene family evolutionary analyses, and precision crop enhancement. Using a telomere-to-telomere rice genome (MH63) annotation project as a case study, we demonstrate the practical utility of GSAman in producing a complete and accurate reference annotation, improving Benchmarking Universal Single-Copy Orthologs (BUSCO) completeness to 99.63% following manual curation. We believe GSAman will serve as a critical resource for advancing functional genomics across diverse species.",
+    "species_latin": "Oryza sativa",
+    "species_en": "Rice",
+    "species_zh": "水稻",
+    "takeaway": "GSAman是本地化所见即所得基因结构注释编辑工具，手动校正水稻MH63基因组使BUSCO完整度达99.63%。",
+    "conclusion": "GSAman弥补自动化流程在重叠位点、可变剪接和低表达异构体等复杂基因结构上的不足，支持单基因精细校正与全基因组大规模注释，无需服务器即可离线实时编辑；以端粒到端粒水稻MH63为案例，手动校正后BUSCO完整度提升至99.63%，可服务泛基因组构建、基因家族演化分析与精准作物改良。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
     "llm_enhanced": true
