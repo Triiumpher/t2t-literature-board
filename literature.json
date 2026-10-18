@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42888453",
+    "title": "The reference shapes the signal: chrX genotype summaries and classifier sex disparity between GRCh38 and T2T-CHM13 callsets",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genomics & informatics",
+    "authors": "Stillwell RC.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-18",
+    "url": "https://europepmc.org/article/MED/42888453",
+    "doi": "10.1186/s44342-026-00083-6",
+    "pmid": "42888453",
+    "abstract": "Laboratories that move from GRCh38 to T2T-CHM13 take on a new callset as well as a new assembly. I asked whether the move changes sex-chromosome genotype summaries, and whether it changes how well classifiers trained on those summaries serve males and females. I compared the published 1000 Genomes GRCh38 and T2T-CHM13 callsets for 3,202 people. The two callsets come from different alignment, calling, phasing and filtering workflows, so every difference below belongs to the reference and its pipeline together. In women, the fraction of non-reference chrX genotypes that were heterozygous was 0.605 on GRCh38 and 0.644 on T2T. It fell in African-ancestry women and rose in the other four superpopulations. The rise came from fewer non-reference homozygous genotypes (- 7,757 per woman) and not from more heterozygous ones (- 1,504). Five classifier families were trained on six chrX summaries to predict superpopulation, and the male-female gap in balanced accuracy was compared between callsets. Women were classified better than men under both callsets. Logistic regression, random forest and XGBoost widened that gap on T2T, and the support vector machine and the perceptron narrowed it. After correction across all 20 tests, random forest, XGBoost and the support vector machine remained significant. Separating relatives did not remove the disagreement. Classifiers built from the first 500 common SNPs per chromosome in file order showed no change after correction. The gap measures model performance, not biological sex bias. Resolving the assembly from its callset requires processing the same reads through one pipeline against both references.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "比较GRCh38与T2T-CHM13的chrX基因型摘要，发现参考基因组及流程改变会影响分类器的性别性能差距",
+    "conclusion": "参考基因组及其配套流程共同改变chrX基因型摘要，进而影响基于这些摘要的分类器在男女间的平衡准确率差距；该差距反映模型性能而非生物学性别偏倚，且分离亲属后差异仍存在，说明需用同一流程处理相同reads以区分组装与callset的贡献",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42888840",
+    "title": "Toxicity of Organophosphate Insecticides and Biochemical Mechanisms Associated With Resistance in Field Populations of Plutella xylostella (L.) From Kashmir, India",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Rehman B, Ahmad T, Hussain B.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-18",
+    "url": "https://europepmc.org/article/MED/42888840",
+    "doi": "10.1002/jat.70464",
+    "pmid": "42888840",
+    "abstract": "The diamondback moth, Plutella xylostella (L.) (Lepidoptera: Plutellidae), is a globally important pest of cruciferous crops, for which intensive insecticide use has accelerated the evolution of resistance. However, the magnitude and biochemical basis of organophosphate resistance in P. xylostella populations from the Kashmir Valley remain poorly understood. Here, we quantified susceptibility to chlorpyrifos, dimethoate and quinalphos in nine field populations using leaf-dip bioassays and investigated associations between resistance phenotypes and activities of acetylcholinesterase (AChE), cytochrome P450 monooxygenases (CYP450) and glutathione S-transferases (GST). Resistance ratios (RR) varied substantially among populations, ranging from 8.48 to 34.67 for chlorpyrifos, 6.83-76.61 for dimethoate and 3.79-14.19 for quinalphos. Pulwama and Budgam consistently exhibited the highest resistance, whereas Ganderbal was the most susceptible population. Dimethoate resistance was particularly pronounced in Pulwama (RR = 76.61; LC50 = 17.90 mL L-1). At the highest concentrations tested, corrected mortality remained below 50% across populations, although LC50 estimates exceeding the tested concentration range should be interpreted cautiously. Enzyme assays revealed markedly elevated AChE and CYP450 activities in resistant populations, with increases of up to 34-fold and 10-fold, respectively, whereas GST activity showed no significant population-level difference. Spearman analysis further indicated significant positive associations of AChE, CYP450 and GST activities with quinalphos resistance (ρ = 0.79-0.91; p < 0.05), but not with chlorpyrifos or dimethoate resistance. These findings demonstrate substantial spatial heterogeneity in organophosphate susceptibility and indicate that biochemical resistance mechanisms are insecticide-specific rather than uniformly expressed across organophosphate resistance phenotypes. The pronounced dimethoate resistance, despite weak associations with the measured detoxification enzymes, suggests the involvement of additional mechanisms, including target-site insensitivity, alternative detoxification pathways, or reduced insecticide penetration. The results provide a baseline for resistance surveillance in Kashmir and support mechanism-informed insecticide rotation and resistance-management strategies for P. xylostella.",
+    "species_latin": "Plutella xylostella",
+    "species_en": "diamondback moth",
+    "species_zh": "小菜蛾",
+    "takeaway": "克什米尔小菜蛾田间种群对有机磷杀虫剂抗性差异大，AChE与CYP450活性升高与抗性相关。",
+    "conclusion": "九个田间种群对毒死蜱、乐果和喹硫磷抗性水平差异显著，Pulwama和Budgam抗性最高；抗性种群AChE与CYP450活性明显升高，GST无种群差异，且三种酶活性仅与喹硫磷抗性显著正相关，表明生化抗性机制具杀虫剂特异性，乐果高抗可能还涉及靶标不敏感等其他机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42886612",
     "title": "Deciphering the Molecular and Cellular Landscape of Early Diabetic Nephropathy through Single-Cell RNA Sequencing and Protein-Protein Interaction Networks",
     "type": "paper",
