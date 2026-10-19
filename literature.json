@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42892363",
+    "title": "Engineering Vibrio natriegens for biopesticide production: from pathway optimization to plant protection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioresource technology",
+    "authors": "Cai X, Cheng Q, Zou Y, Wang A, Li Y, Qiu R, Zhou W, Yang E, Xue T, Liu J.",
+    "publish_date": "2026-10-17",
+    "added_at": "2026-10-19",
+    "url": "https://europepmc.org/article/MED/42892363",
+    "doi": "10.1016/j.biortech.2026.136078",
+    "pmid": "42892363",
+    "abstract": "Phytopathogens pose a persistent threat to global crop production, necessitating the development of sustainable biocontrol strategies. Microbial biopesticides offer a promising alternative to chemical pesticides; however, their industrial application is frequently constrained by low production titers and high substrate costs. This study reprograms the phenazine-1-carboxylic acid (PCA) biosynthetic pathway in Vibrio natriegens, a fast-growing marine bacterium with broad carbon utilization capability. A modular plasmid toolbox is constructed through systematic optimization of promoters, ribosome binding sites, replication origins, and antibiotic resistance markers, enabling high-level PCA production. To address plasmid instability and antibiotic dependence, an I-SceI-based genome editing platform is established, facilitating scarless, multi-copy chromosomal integration of the PCA gene cluster. The final engineered strain, Vna6, achieves PCA titers of 102.0 mg/L in shake flasks and 579.8 mg/L in fed-batch fermentation with glucose as the carbon source. Furthermore, Vna6 exhibits broad-spectrum antagonistic activity against both bacterial (Streptomyces scabies) and fungal (Glomerella cingulata) phytopathogens, as confirmed by in vitro inhibition zone assays and in vivo plant protection experiments on Arabidopsis thaliana and radish seedlings. This work establishes V. natriegens as a potenial chassis for biopesticide production and offers a promising strategy for sustainable crop disease management.",
+    "species_latin": "Vibrio natriegens",
+    "species_en": "Vibrio natriegens",
+    "species_zh": "需钠弧菌",
+    "takeaway": "研究改造需钠弧菌的PCA合成通路并整合基因组，产量达579.8 mg/L且能广谱拮抗植物病原菌。",
+    "conclusion": "通过优化启动子、核糖体结合位点、复制起点与抗性标记构建模块化质粒工具箱，并建立基于I-SceI的无痕多拷贝基因组整合平台，获得工程菌Vna6；该菌以葡萄糖为碳源高效生产PCA，对细菌和真菌病原体均有拮抗作用，并在拟南芥和萝卜幼苗上验证了防病效果，表明需钠弧菌可作为生物农药生产的潜力底盘。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42888453",
     "title": "The reference shapes the signal: chrX genotype summaries and classifier sex disparity between GRCh38 and T2T-CHM13 callsets",
     "type": "paper",
@@ -1868,6 +1894,32 @@
     "conclusion": "在4种抗药性不同的桃蚜克隆中，Rickettsiella转感染未改变化学杀虫剂致死效果；与球孢白僵菌互作虽因基因型而异并可能有跨代效应，但真菌防效未被削弱，说明该共生菌可与化学及微生物防治兼容，具备区域化生防应用潜力。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42892932",
+    "title": "An inverse-protein-folding pre-trained model for predicting the mutational effects in protein-protein interactions",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "iScience",
+    "authors": "Mao S, Meng S, Xiang Y.",
+    "publish_date": "2026-10-06",
+    "added_at": "2026-10-19",
+    "url": "https://europepmc.org/article/MED/42892932",
+    "doi": "10.1016/j.isci.2026.117693",
+    "pmid": "42892932",
+    "abstract": "Protein-protein interactions (PPIs) are fundamental to vast biological processes. Accurate prediction of mutation-induced changes in PPIs is crucial for protein engineering and drug discovery. Most existing PPI prediction approaches rely on refined physicochemical features or computationally intensive structural sampling. Here, we present delta-G message-passing-neural-network (DGMPNN), a message-passing neural-network framework for predicting the effects of mutations on PPIs. DGMPNN is pre-trained on an inverse protein folding (IPF) task and employs an adaptive residue-level attention pooling mechanism to enable effective transfer learning for predicting mutation-induced changes in protein binding affinity. The model achieves state-of-the-art performance on multiple benchmark datasets and deep mutational scanning (DMS) datasets. Experimental validation using computationally selected multi-site variants of the SARS-CoV-2 RBD-hACE2 complex showed strong agreement between predicted and experimentally measured binding affinities.",
+    "species_latin": "Severe acute respiratory syndrome coronavirus 2",
+    "species_en": "SARS-CoV-2",
+    "species_zh": "严重急性呼吸综合征冠状病毒2",
+    "takeaway": "DGMPNN以逆蛋白折叠预训练结合注意力池化预测突变对蛋白互作亲和力的影响，性能领先并经SARS-CoV-2 RBD-hACE2实验验证。",
+    "conclusion": "该研究提出基于逆蛋白折叠预训练的DGMPNN框架，通过自适应残基级注意力池化实现迁移学习，可准确预测突变引起的蛋白结合亲和力变化；在多个基准与深度突变扫描数据集上达到最优性能，并在SARS-CoV-2 RBD-hACE2复合物多站点变体的实验测定中与预测值高度吻合，为蛋白工程与药物发现提供高效工具。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
