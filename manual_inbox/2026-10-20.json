@@ -1,0 +1,42 @@
+[
+  {
+    "id": "manual-20261020-colo829-t2t-somatic",
+    "title": "4篇Cell长文+1篇评论 | 纵览人体体细胞变异全景",
+    "type": "wechat",
+    "boards": ["t2t"],
+    "source": "BioArt（网易号镜像）",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-20",
+    "url": "https://www.163.com/dy/article/L9JDT23T0532BT7X.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "BioArt 梳理 Cell 于2026年10月15日集中发表的4篇研究论文与1篇评论，从肿瘤端粒到端粒基因组、二倍体表观基因组、46万人结构变异图谱到体细胞突变检测基准，多维度绘制人类体细胞变异全景。华盛顿大学 Stergachis 团队联合 SMaHT Assembly 工作组，以黑色素瘤细胞系 COLO829 及其匹配淋巴母细胞系 COLO829BL 为模型，利用 PacBio HiFi 与 ONT 长读长测序构建接近端粒到端粒的二倍体个体特异性参考基因组（DSA），并绘制首个完整的癌症体细胞突变全景图。",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "近T2T二倍体个性化参考基因组（DSA）使着丝粒、卫星重复区的体细胞突变首次可被系统检测，16%的黑色素瘤体细胞SNV位于GRCh38参考序列之外。",
+    "conclusion": "长读长测序与近T2T个体特异性参考基因组将癌症体细胞突变检测从短读长盲区扩展至卫星重复与着丝粒区域，基准测试中DSA参考将极端区域SNV召回率从0.48提升至0.89；研究还发现44%的单倍体选择性染色质差异由不依赖DNA序列、可在细胞分裂中稳定遗传的体细胞表观突变所致。",
+    "keywords": ["T2T", "端粒到端粒", "个体特异性参考基因组", "DSA", "长读长测序", "体细胞突变", "COLO829", "黑色素瘤", "卫星重复", "着丝粒", "SMaHT"]
+  },
+  {
+    "id": "manual-20261020-cncc-insecticide-resistance-review",
+    "title": "昆虫CncC转录因子：氧化还原稳态、生理功能与昆虫抗药性中的核心调控作用及其生物技术应用前景",
+    "type": "wechat",
+    "boards": ["insecticide"],
+    "source": "生物通（Insects 综述中文采集）",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-20",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261015084741418.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "综述系统整合昆虫 CncC 转录因子（哺乳动物 Nrf2 同源物）生物学最新进展，聚焦 CncC/Keap1-ARE 通路在植物次生代谢物与杀虫剂解毒中的核心作用，及其与蜕皮激素信号、肠道微生物的交叉调控。文章讨论了 CncC 作为抗药性治理靶点的潜力，包括 RNAi 与小分子抑制剂（如索法尔酮）策略、诱导型生物反应器与环境风险评估生物标志物等应用。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "CncC 组成型激活可同时驱动数十个解毒基因上调、赋予广谱杀虫剂抗性，RNAi 沉默或小分子抑制 CncC 可恢复害虫对杀虫剂的敏感性。",
+    "conclusion": "CncC 是昆虫细胞保护反应与代谢型抗药性的核心组织者，其组成型激活是多种害虫代谢抗性的共同分子特征，但在田间种群中是否为主要抗性决定因素仍需逆向遗传学验证；靶向 CncC 的 RNAi 与小分子抑制剂为可持续抗药性治理提供新策略。",
+    "keywords": ["CncC", "Nrf2", "杀虫剂抗性", "代谢抗性", "解毒酶", "P450", "GST", "RNAi", "小分子抑制剂", "索法尔酮", "抗药性治理"]
+  }
+]
