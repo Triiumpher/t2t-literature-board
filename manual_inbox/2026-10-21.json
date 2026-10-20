@@ -1,0 +1,22 @@
+[
+  {
+    "id": "manual-20261021-gphase-polyploid-scaffolding",
+    "title": "Nature Plants | 基因组所开发多倍体基因组分型组装工具",
+    "type": "wechat",
+    "boards": ["t2t"],
+    "source": "中国农业科学院深圳农业基因组研究所官网",
+    "authors": "",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-21",
+    "url": "https://www.agis.org.cn/xwzx/kyjz/183cbab386004e19b3017ce6d2cc595f.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院基因组所潘玮华、武志强团队联合多单位在 Nature Plants 发表 GPhase 算法，首次将长读长序列组装图与 Hi-C、Pore-C、Omni-C 等染色质互作（3C）数据融合，解决多倍体基因组同源染色体难区分、序列丢失和错误分型问题，实现单倍型解析的染色体级挂载。在马铃薯、玫瑰、莲雾、苜蓿、柿等多倍体基因组上的系统评估显示，GPhase 相比 ALLHiC、HapHiC 显著降低序列缺失率与错误率，无缺口序列连续性 N50 提升数倍。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "融合组装图与3C数据的 GPhase 为多倍体基因组提供单倍型解析挂载新方案，为迈向端粒到端粒（T2T）水平的多倍体组装提供技术路径。",
+    "conclusion": "GPhase 利用组装图连接关系辅助染色体划分并恢复塌缩区域序列，突破多倍体分型挂载瓶颈，获得更连续完整的单倍型染色体；工具已在 GitHub 开源，将支撑多倍体作物泛基因组构建与 T2T 级复杂基因组组装。",
+    "keywords": ["T2T", "端粒到端粒", "多倍体基因组", "单倍型解析", "分型组装", "组装图", "Hi-C", "Pore-C", "GPhase", "Nature Plants"]
+  }
+]
