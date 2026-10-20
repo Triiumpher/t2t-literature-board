@@ -1,5 +1,195 @@
 [
   {
+    "id": "manual-20261020-colo829-t2t-somatic",
+    "title": "4篇Cell长文+1篇评论 | 纵览人体体细胞变异全景",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "BioArt（网易号镜像）",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-20",
+    "url": "https://www.163.com/dy/article/L9JDT23T0532BT7X.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "BioArt 梳理 Cell 于2026年10月15日集中发表的4篇研究论文与1篇评论，从肿瘤端粒到端粒基因组、二倍体表观基因组、46万人结构变异图谱到体细胞突变检测基准，多维度绘制人类体细胞变异全景。华盛顿大学 Stergachis 团队联合 SMaHT Assembly 工作组，以黑色素瘤细胞系 COLO829 及其匹配淋巴母细胞系 COLO829BL 为模型，利用 PacBio HiFi 与 ONT 长读长测序构建接近端粒到端粒的二倍体个体特异性参考基因组（DSA），并绘制首个完整的癌症体细胞突变全景图。",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "近T2T二倍体个性化参考基因组（DSA）使着丝粒、卫星重复区的体细胞突变首次可被系统检测，16%的黑色素瘤体细胞SNV位于GRCh38参考序列之外。",
+    "conclusion": "长读长测序与近T2T个体特异性参考基因组将癌症体细胞突变检测从短读长盲区扩展至卫星重复与着丝粒区域，基准测试中DSA参考将极端区域SNV召回率从0.48提升至0.89；研究还发现44%的单倍体选择性染色质差异由不依赖DNA序列、可在细胞分裂中稳定遗传的体细胞表观突变所致。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "个体特异性参考基因组",
+      "DSA",
+      "长读长测序",
+      "体细胞突变",
+      "COLO829",
+      "黑色素瘤",
+      "卫星重复",
+      "着丝粒",
+      "SMaHT"
+    ]
+  },
+  {
+    "id": "title-molecularscreeningforwolbachiaendosymbiontsinphlebotominesan",
+    "title": "Molecular screening for Wolbachia endosymbionts in phlebotomine sand flies within the North Central Province, Sri Lanka",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Frontiers in microbiomes",
+    "authors": "Kumara F, Hettiarachchi D, Wijegunawardana N.",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-20",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Phlebotomus sp.",
+    "species_en": "phlebotomine sand fly",
+    "species_zh": "白蛉",
+    "takeaway": "对斯里兰卡中北省白蛉开展Wolbachia内共生菌分子筛查",
+    "conclusion": "该研究采用分子检测手段调查斯里兰卡中北省白蛉体内Wolbachia内共生菌的携带情况，为当地白蛉与内共生菌关系及潜在病媒控制策略提供基础数据；因无摘要，具体感染率与结论未知。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "title-biographbenchppienablesauditfirstevaluationofnegativesamplin",
+    "title": "BioGraphBench-PPI enables audit-first evaluation of negative-sampling contracts and structural baselines in protein interaction networks",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Frontiers in bioinformatics",
+    "authors": "Cabrera-Andrade A, Robalino-Díaz J, Dueñas-Espín I, Zambrano A, Villegas-Ch W.",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-20",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出BioGraphBench-PPI基准，用于审计蛋白质互作网络中负采样契约与结构基线。",
+    "conclusion": "该工作构建了面向蛋白质互作网络的评测基准BioGraphBench-PPI，强调对负采样契约与结构基线进行可审计的评估，以提升此类图学习评测的规范性与可比性。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "title-chemicalstructurecontrolssoilbiotransformationkineticsofbaci",
+    "title": "Chemical Structure Controls Soil Biotransformation Kinetics of Bacillus Lipopeptide Biopesticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental science & technology",
+    "authors": "Gruseck R, Hofmann T, Zumstein M.",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-20",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Bacillus sp.",
+    "species_en": "Bacillus",
+    "species_zh": "芽孢杆菌",
+    "takeaway": "研究揭示芽孢杆菌脂肽生物农药的化学结构决定其在土壤中的生物转化动力学。",
+    "conclusion": "标题表明，芽孢杆菌产生的脂肽类生物农药在土壤中的生物转化速率受其化学结构控制，提示可通过结构设计或筛选调控这类生物农药在土壤中的降解与持效行为。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42895805",
+    "title": "Oxathiazepane compounds as potential insecticidal agents",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Gruntenko NE, Kovaleva KS, Karpova EK, Adonyeva NV, Sharmankina SN, Oreshko VV, Burdina EV, Deryuzhenko MA, Khotskina AS, Yarovaya OI.",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-20",
+    "url": "https://europepmc.org/article/MED/42895805",
+    "doi": "10.1002/ps.71403",
+    "pmid": "42895805",
+    "abstract": "BACKGROUND: The spread of insecticide resistance among major agricultural and vector pests necessitates the discovery of compounds with novel modes of action and favorable safety profiles. 1,5,3-Oxathiazepanes represent a previously unexplored class of heterocycles. This study aimed to evaluate the insecticidal potential of ten 1,5,3-oxathiazepane derivatives and assesses their toxicity in mammals and human cells. RESULTS: Screening against Drosophila melanogaster adults identified aliphatic-substituted derivatives (compounds 1-6) as active, with compounds 1-4 causing 100% mortality at 1% within 48 h. Aromatic or heteroaromatic substituents led to a complete loss of activity. Compound 3 (3-hexyl-1,5,3-oxathiazepane) showed concentration-dependent insecticidal effects, with 24 h median lethal concentration (LC50) of 0.77% (7.7 g L-1) via feeding and 24-h median lethal dose (LD50) of 3.1 μg per fly via topical application. At 3% (30 g L-1), compound 3 killed 100% of Tenebrio molitor and Oxyhaloa deusta within 24 h. Acute oral LD50 in mice was 1098 mg kg-1 (hazard category 4). CONCLUSION: This is the first report of insecticidal activity in 1,5,3-oxathiazepanes. Compound 3 exhibits broad-spectrum activity across multiple insect orders and low mammalian toxicity, combined with a scalable one-pot synthesis. These findings establish oxathiazepanes as a new chemical scaffold with interesting insecticidal activity and a favorable safety profile against mammals, which warrants further investigation to determine its mode of action and potential for managing resistance. © 2026 Society of Chemical Industry.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly, yellow mealworm, Oxyhaloa deusta, mouse",
+    "species_zh": "黑腹果蝇、黄粉虫、Oxyhaloa deusta、小鼠",
+    "takeaway": "1,5,3-氧硫氮杂䓬类化合物首次被报道具有杀虫活性，其中化合物3对多种昆虫有效且对哺乳动物毒性低。",
+    "conclusion": "该研究首次发现1,5,3-氧硫氮杂䓬骨架具有杀虫活性；脂肪族取代的化合物1-4在48小时内可致果蝇100%死亡，芳香取代则活性丧失。化合物3经饲喂和点滴均表现浓度依赖杀虫效果，并能杀死黄粉虫和一种蟑螂，对小鼠急性经口LD50为1098 mg/kg，属低毒，且可一锅法合成，值得进一步研究其作用机制与抗性治理潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42895207",
+    "title": "Preliminary assessment of nicotine and pyridine occurrence in Bok Choy (Brassica rapa subsp. chinensis) following application of a Tobacco waste-derived biopesticide",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",
+    "authors": "Safitra ER, Gozan M, Herlina I, Muslimin I, Efendi MY.",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-20",
+    "url": "https://europepmc.org/article/MED/42895207",
+    "doi": "10.1080/03601234.2026.2750534",
+    "pmid": "42895207",
+    "abstract": "Tobacco waste-derived biopesticides (TW-DBs) offer a potential approach to combine agricultural-waste valorization with crop protection; however, information on tobacco-derived compounds remaining on edible crops after application is limited. This preliminary study evaluated nicotine- and pyridine-associated analytical signals in bok choy (Brassica rapa subsp. chinensis) following foliar application of a TW-DB prepared by ethanolic heat reflux extraction. The formulation was applied at 2.5, 5.0, and 7.5 mL per 2 L of water, with a commercial pesticide as a reference. Leaf and root extracts were analyzed by GC-MS. Apparent nicotine-associated concentrations ranged from 0.75 to 1.36 mg/kg and pyridine-associated concentrations from 1.06 to 11.17 mg/kg. Signals were generally numerically higher in leaves, particularly for pyridine, but no statistically supported treatment or tissue differences were established, and concentrations showed no monotonic relationship with formulation volume. Given the duplicate biological measurements, absence of an untreated control, unquantified formulation concentrations, single harvest-time sampling, and lack of full matrix-specific analytical validation, these findings should be interpreted as exploratory occurrence data rather than evidence of treatment-derived residues, dose-response behavior, regulatory compliance, or consumer safety. Further confirmatory studies with adequate controls, replication, validated methods, quantified application concentrations, and time-resolved sampling are required.",
+    "species_latin": "Brassica rapa subsp. chinensis",
+    "species_en": "Bok Choy",
+    "species_zh": "小白菜",
+    "takeaway": "用烟草废弃物生物农药喷施小白菜后，GC-MS检出烟碱和吡啶信号，但差异不显著，仅属探索性结果",
+    "conclusion": "叶面施用烟草废弃物提取物后，小白菜叶片和根部可检出烟碱与吡啶相关信号，数值上叶片偏高，但无统计学支持的處理或组织差异，也无剂量响应关系；因缺对照、重复有限、方法未验证，不能据此判定残留、合规性或安全性，需确证性研究",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42894318",
+    "title": "Cytotoxic and Oxidative Effects of Common Pesticides on Hepatic and Renal Cell Lines (HepG2 and Hek-293): Implications for Human Health and Environmental Safety",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Elghali F, Bedchich K, Kacem N, Aifa MS.",
+    "publish_date": "2026-10-18",
+    "added_at": "2026-10-20",
+    "url": "https://europepmc.org/article/MED/42894318",
+    "doi": "10.1002/jat.70485",
+    "pmid": "42894318",
+    "abstract": "Modern agricultural practices expose humans and the environment to numerous chemical pesticides. Increasing evidence suggests that commercial pesticide formulations may exhibit toxicological properties that differ from those of their active ingredients alone due to the presence of co-formulants and additives. This study evaluated the cytotoxic and oxidative effects of commonly used commercial pesticide formulations in Tunisia on human hepatic (HepG2) and renal (HEK-293) cell lines. The tested formulations contained deltamethrin, permethrin, abamectin, imidacloprid, mancozeb, sulfur, alpha-chloralose, 2,4-D-2-ethylhexyl ester, florasulam, cloquintocet-mexyl, clodinafop-propargyl, and pinoxaden. Cell viability was assessed using the MTT assay (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide), and membrane damage was evaluated using the lactate dehydrogenase (LDH) assay. The half maximal inhibitory concentration (IC₅₀) values were determined for each formulation. Moncozeb exhibited the highest cytotoxicity in both cell lines, whereas sulfur and alpha-chloralose showed the lowest toxicity. Intracellular reactive oxygen species (ROS) measurements revealed significant oxidative stress following exposure to several formulations, which was associated with reduced cell viability and increased LDH release. Microscopic examination further demonstrated nuclear alterations consistent with apoptosis and necrosis in exposed cells. These findings highlight the importance of evaluating complete commercial pesticide formulations, rather than active ingredients alone, when assessing potential cytotoxic and oxidative effects. The results support the inclusion of formulation-based testing in toxicological risk assessment to better characterize potential human health hazards associated with pesticide exposure.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "多种突尼斯市售农药制剂对HepG2与HEK-293细胞具细胞毒性和氧化应激，代森锰锌毒性最强。",
+    "conclusion": "商业农药制剂的细胞毒性与氧化应激效应因制剂而异，代森锰锌在肝、肾细胞中毒性最高，硫磺与α-氯醛糖最低；ROS升高、LDH释放增加及核改变提示凋亡与坏死。风险评估应检测完整制剂而非仅有效成分。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42892363",
     "title": "Engineering Vibrio natriegens for biopesticide production: from pathway optimization to plant protection",
     "type": "paper",
@@ -22,7 +212,85 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42890749",
+    "title": "Combined Effects of Beetle Density and Sex Ratio on Reproductive Trade-Offs and Dung Burial in Tunnelling Dung Beetles",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Ecology and evolution",
+    "authors": "Chowdhury ZJ, Hemmings Z, Arriaga-Jimenez A, Vernes K, Schaerf TM, Andrew NR.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-20",
+    "url": "https://europepmc.org/article/MED/42890749",
+    "doi": "10.1002/ece3.74499",
+    "pmid": "42890749",
+    "abstract": "Dung beetle density and sex ratio play a significant role in intraspecific competition, and reproductive success depends on the beetle's maturity. We examined the impact of increasing density in small groups on dung burial and brood production using mature first-generation individuals of two dung beetle species (Onthophagus binodis and Digitonthophagus gazella) by manipulating the number of males and females in a dung pat. Beetles were reared under controlled laboratory conditions and provided with cattle dung, which was collected from pastureland. Weekly dung burial was calculated by measuring the residual dung organic matter content. The number of broods produced per dung pat, broods' dry weight, and their size were recorded. In both species, treatments with intermediate numbers of male and female beetles produced more broods than solitary beetles. On the other hand, treatments with moderate to high numbers of male and female beetles buried more dung than individual females. At higher-density treatments, brood size and brood dry weight declined, suggesting shifts in reproductive allocation under increasing intraspecific interactions. The two species showed very similar patterns, although O. binodis produced more broods while D. gazella buried more dung. We also observed a positive relationship between brood dry weight and brood size in both species. Overall, the results indicate that the combined effects of beetle density and sex ratio influenced reproductive investment and dung burial under controlled laboratory conditions. Further field studies are needed to determine whether similar patterns occur under higher density and natural ecological conditions.",
+    "species_latin": "Onthophagus binodis; Digitonthophagus gazella",
+    "species_en": "tunnelling dung beetles (Onthophagus binodis and Digitonthophagus gazella)",
+    "species_zh": "双瘤蜣螂、瞪羚蜣螂",
+    "takeaway": "两种掘穴粪金龟在中等密度与性比下产更多 brood，高密度则 brood 变小变轻",
+    "conclusion": "粪金龟密度与性比共同影响种内竞争下的繁殖投入和埋粪：中等雌雄数量时繁殖窝数最多，中高密度埋粪量更大，但高密度使窝大小与干重下降，显示繁殖分配随竞争加剧而调整；两物种格局相似但侧重不同，O. binodis 产窝更多、D. gazella 埋粪更多，窝干重与窝大小正相关",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42892158",
+    "title": "Design, synthesis, anti-oomycete, anti-fungal, and nematicidal activities of novel eugenol acyloxy/sulfonyloxy derivatives containing an isoxazoline ring",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioorganic chemistry",
+    "authors": "Wei X, Wei R, Huang X, Tian Y, Zhou L, Che Z.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-20",
+    "url": "https://europepmc.org/article/MED/42892158",
+    "doi": "10.1016/j.bioorg.2026.110661",
+    "pmid": "42892158",
+    "abstract": "Eugenol is the main component of clove basil oil, mainly extracted from Syzygium aromaticum. In order to discover biorational natural product-based pesticides, 24 novel eugenol acyloxy/sulfonyloxy derivatives (3a-q and 4d,f,j-n) containing an isoxazoline ring were designed and synthesized by simultaneously introducing isoxazoline and acyloxy/sulfonyloxy pharmacophores, and their structures were characterized by 1H NMR, 13C NMR, and HRMS. The single-crystal X-ray diffraction of two titled compounds 3k and 4l usefully established the 5-substituted regiochemistry. Furthermore, we screened the bioactivities of these compounds as anti-oomycete, anti-fungal, and nematicidal agents. Three serious agricultural diseases that have a devastating impact on agricultural production were selected as the test subjects, namely Phytophthora capsici, Fusarium graminearum, and Heterodera glycines. Amongst evaluated derivatives, (1) Compounds 2 and 4f displayed potential anti-oomycete against the plant pathogen P. capsici, with EC50 values of 40.20 and 71.43 mg/L, respectively. (2) Compounds 2 and 4d also exhibited potential anti-fungal against the plant pathogen F. graminearum, with EC50 values of 49.19 and 61.29 mg/L, respectively. (3) Seven compounds (3a, 3i, 3l, 3n, and 4l-n) showed significant nematicidal activity against H. glycines, with LC50 values below 20 mg/L. Especially for compound 3a (R1 = CF3), its LC50 was 11.38 mg/L. It has been proven that the simultaneous introduction of isoxazoline ring and acyloxy/sulfonyloxy pharmacophores into the structural skeleton of eugenol (1) has been successful in enhancing its nematicidal activity.",
+    "species_latin": "Phytophthora capsici, Fusarium graminearum, Heterodera glycines",
+    "species_en": "Phytophthora blight pathogen, Fusarium head blight pathogen, soybean cyst nematode",
+    "species_zh": "辣椒疫霉、禾谷镰刀菌、大豆胞囊线虫",
+    "takeaway": "以丁香酚为骨架引入异噁唑啉与酰氧/磺酰氧药效团合成24个衍生物，部分对辣椒疫霉、禾谷镰刀菌及大豆胞囊线虫表现良好活性",
+    "conclusion": "将异噁唑啉环与酰氧/磺酰氧药效团同时引入丁香酚骨架可有效提升杀线虫活性，其中3a对大豆胞囊线虫LC50达11.38 mg/L，为开发基于天然产物的绿色农药提供了先导结构",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42886563",
+    "title": "Search for Tenebrio molitor (Coleoptera: Tenebrionidae) behaviorally active compounds in Aspergillus flavus (Eurotiales: Aspergillaceae)-infected grain",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Bumbulytė G, Lučinskaitė I, Čepukoit D, Būda V.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-20",
+    "url": "https://europepmc.org/article/MED/42886563",
+    "doi": "10.1093/jee/toag313",
+    "pmid": "42886563",
+    "abstract": "Application of insecticides for pest control must be minimized due to well-known risks to human health. Application of environmentally friendly means is the best option. For stored product pests' control, new means are needed alongside a deep understanding of the ecology and behavior of the pests. The present study investigated whether the odor released from wheat grain infected by mold fungus Aspergillus flavus (Eurotiales: Aspergillaceae) influences the behavior of the yellow mealworm (Tenebrio molitor L. (Coleoptera: Tenebrionidae)), a stored product pest of economic importance with worldwide distribution. Analysis of video-recorded behavior and computer data analysis revealed a significant difference in reactions depending on the beetle's sex. Females were more sensitive to fungus contamination as they discriminated between A. flavus-infected and uninfected wheat grains from the onset of infection, while males discriminated only after a 5-day period. Analysis of single volatile organic compounds (VOCs) revealed the presence of both repellents and attractants. Among those, hexanal was repellent for both males and females, 1-octen-3-ol was repellent for males and indifferent to females, 1-hexanol was attractive to females and repellent (at high concentrations only) to males, and 3-methylbutan-1-ol was attractive to females (at high concentrations only) and indifferent to males. Hexanal, as a potential repellent, was suggested for further testing under grain storage conditions.",
+    "species_latin": "Tenebrio molitor",
+    "species_en": "yellow mealworm",
+    "species_zh": "黄粉虫",
+    "takeaway": "黄粉虫雌雄对感染黄曲霉的小麦气味反应不同，己醛对两性均有驱避作用",
+    "conclusion": "黄粉虫对黄曲霉感染小麦挥发物的行为反应存在性别差异，雌虫在感染初期即可区分，雄虫需5天后；挥发物中己醛对雌雄均驱避，1-辛烯-3-醇驱避雄虫，1-己醇和3-甲基丁-1-醇对雌虫有吸引作用，己醛可作为储粮害虫防治候选驱避剂",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -74,7 +342,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -152,8 +420,42 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261020-cncc-insecticide-resistance-review",
+    "title": "昆虫CncC转录因子：氧化还原稳态、生理功能与昆虫抗药性中的核心调控作用及其生物技术应用前景",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（Insects 综述中文采集）",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-20",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261015084741418.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "综述系统整合昆虫 CncC 转录因子（哺乳动物 Nrf2 同源物）生物学最新进展，聚焦 CncC/Keap1-ARE 通路在植物次生代谢物与杀虫剂解毒中的核心作用，及其与蜕皮激素信号、肠道微生物的交叉调控。文章讨论了 CncC 作为抗药性治理靶点的潜力，包括 RNAi 与小分子抑制剂（如索法尔酮）策略、诱导型生物反应器与环境风险评估生物标志物等应用。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "CncC 组成型激活可同时驱动数十个解毒基因上调、赋予广谱杀虫剂抗性，RNAi 沉默或小分子抑制 CncC 可恢复害虫对杀虫剂的敏感性。",
+    "conclusion": "CncC 是昆虫细胞保护反应与代谢型抗药性的核心组织者，其组成型激活是多种害虫代谢抗性的共同分子特征，但在田间种群中是否为主要抗性决定因素仍需逆向遗传学验证；靶向 CncC 的 RNAi 与小分子抑制剂为可持续抗药性治理提供新策略。",
+    "keywords": [
+      "CncC",
+      "Nrf2",
+      "杀虫剂抗性",
+      "代谢抗性",
+      "解毒酶",
+      "P450",
+      "GST",
+      "RNAi",
+      "小分子抑制剂",
+      "索法尔酮",
+      "抗药性治理"
+    ]
   },
   {
     "id": "pmid-42885100",
@@ -178,7 +480,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -342,7 +644,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -368,7 +670,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -394,7 +696,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -420,7 +722,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -446,7 +748,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -472,7 +774,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -498,7 +800,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -524,7 +826,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -550,7 +852,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -576,7 +878,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -654,7 +956,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -680,7 +982,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -706,7 +1008,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -732,7 +1034,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -758,7 +1060,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -3190,7 +3492,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
