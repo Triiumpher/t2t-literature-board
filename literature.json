@@ -107,7 +107,33 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42895860",
+    "title": "Overexpression of salicylic acid methyltransferase (ZmSAMT) enhances resistance to Rhopalosiphum padi in maize",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Xu Y, Wang Y, Sui M, Zhao Y, Liu S, Yuan H.",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-21",
+    "url": "https://europepmc.org/article/MED/42895860",
+    "doi": "10.1002/ps.71420",
+    "pmid": "42895860",
+    "abstract": "Background Aphids are important pests of maize, including Bt-transgenic maize, and their effective management remains a major challenge. Herbivore-induced plant volatiles (HIPVs), particularly methyl salicylate (MeSA), play a critical role in mediating tritrophic interactions and plant defense in agroecosystems. Exogenous application of synthetic MeSA can be effective against aphids, however, its pronounced volatility and maintenance costs limit large-scale agricultural applications. Results In this study, we generated ZmSAMT-overexpressing transgenic maize to enable continuous endogenous MeSA emission, establishing a sustainable strategy for aphid management. In vitro enzymatic assays confirmed that ZmSAMT specifically methylated salicylic acid (SA) to form MeSA. Notably, aphid infestation triggered significant upregulation of ZmSAMT expression in wild-type maize. Behavioral assays demonstrated that elevated MeSA emission in transgenic line OE3 significantly repelled Rhopalosiphum padi and actively recruited the predator ladybeetle Harmonia axyridis. Independent of olfactory-mediated effects, aphids feeding on OE3 plants exhibited prolonged developmental duration, a shortened reproductive period, and reduced total fecundity. Furthermore, we observed a significant airborne defense effect that wild type maize situated adjacent to the transgenic plants OE3 harbored fewer aphids. Conclusion Taken together, our studies indicate that ZmSAMT represents a highly valuable genetic resource for breeding aphid-resistant maize varieties and developing green pest control strategies. © 2026 Society of Chemical Industry.",
+    "species_latin": "Zea mays, Rhopalosiphum padi, Harmonia axyridis",
+    "species_en": "maize, bird cherry-oat aphid, Asian ladybeetle",
+    "species_zh": "玉米、禾谷缢管蚜、异色瓢虫",
+    "takeaway": "过表达ZmSAMT使玉米持续释放水杨酸甲酯，驱避蚜虫并招引瓢虫，增强抗蚜性",
+    "conclusion": "ZmSAMT能催化水杨酸生成水杨酸甲酯；过表达该基因的玉米持续释放水杨酸甲酯，既驱避禾谷缢管蚜、招引异色瓢虫，又抑制蚜虫生长发育与繁殖，并产生空中防御效应，可作为抗蚜育种和绿色防控的基因资源",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -245,7 +271,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
