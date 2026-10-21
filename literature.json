@@ -1,5 +1,116 @@
 [
   {
+    "id": "manual-20261021-gphase-polyploid-scaffolding",
+    "title": "Nature Plants | 基因组所开发多倍体基因组分型组装工具",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "中国农业科学院深圳农业基因组研究所官网",
+    "authors": "",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-21",
+    "url": "https://www.agis.org.cn/xwzx/kyjz/183cbab386004e19b3017ce6d2cc595f.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院基因组所潘玮华、武志强团队联合多单位在 Nature Plants 发表 GPhase 算法，首次将长读长序列组装图与 Hi-C、Pore-C、Omni-C 等染色质互作（3C）数据融合，解决多倍体基因组同源染色体难区分、序列丢失和错误分型问题，实现单倍型解析的染色体级挂载。在马铃薯、玫瑰、莲雾、苜蓿、柿等多倍体基因组上的系统评估显示，GPhase 相比 ALLHiC、HapHiC 显著降低序列缺失率与错误率，无缺口序列连续性 N50 提升数倍。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "融合组装图与3C数据的 GPhase 为多倍体基因组提供单倍型解析挂载新方案，为迈向端粒到端粒（T2T）水平的多倍体组装提供技术路径。",
+    "conclusion": "GPhase 利用组装图连接关系辅助染色体划分并恢复塌缩区域序列，突破多倍体分型挂载瓶颈，获得更连续完整的单倍型染色体；工具已在 GitHub 开源，将支撑多倍体作物泛基因组构建与 T2T 级复杂基因组组装。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "多倍体基因组",
+      "单倍型解析",
+      "分型组装",
+      "组装图",
+      "Hi-C",
+      "Pore-C",
+      "GPhase",
+      "Nature Plants"
+    ]
+  },
+  {
+    "id": "pmid-42900235",
+    "title": "Integrated computational and biochemical identification of quinoline-8-arylsulfonamides as disruptors of the Skp2-Cks1 protein-protein interaction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of molecular modeling",
+    "authors": "Kamel EM, Allam AA, Rudayni HA, Othman SI, Alshabrmi FM, Alkhayl FFA, Lamsabhi AM.",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-21",
+    "url": "https://europepmc.org/article/MED/42900235",
+    "doi": "10.1007/s00894-026-06978-z",
+    "pmid": "42900235",
+    "abstract": "CONTEXT: The Skp2-Cks1 protein-protein interaction is essential for the recognition and ubiquitination of cell-cycle regulators such as p27 and represents an attractive target for anticancer drug discovery. This study aimed to identify small-molecule disruptors of the Skp2-Cks1 interface from a quinoline-8-arylsulfonamide library using an integrated computational and experimental approach. Comparative MM/PBSA analysis indicated that C2 and C1 produced the greatest predicted weakening of the interface, with ΔΔGₚₚᵢ values of +13.19 and +9.54 kcal/mol, respectively. Conversely, C3 and C4 yielded negative values of -15.21 and -26.47 kcal/mol, consistent with predicted interface stabilization. These computational findings were supported by the biochemical activity ranking: C2 and C1 exhibited the lowest IC₅₀ values, at 1.48 ± 0.13 and 1.87 ± 0.13 µM, respectively, compared with 2.62 ± 0.35 µM for the reference compound NSC689857. C3 and C4 showed substantially weaker activity. These findings identify quinoline-8-arylsulfonamides as a promising chemotype for targeting the Skp2-Cks1 interface and prioritize C2 for further optimization. METHODS: A funnel-based virtual screening strategy was applied to 74 compounds, incorporating diversity and drug-likeness filtering, molecular docking with AutoDock Vina, short molecular dynamics refinement, and MM/PBSA rescoring. Prioritized complexes underwent 1000 ns molecular dynamics simulations, free-energy landscape analysis, quantitative assessment of protein-protein interaction disruption metrics, and in silico ADMET profiling. Comparative MM/PBSA calculations evaluated ligand-induced changes in Skp2-Cks1 interaction energy relative to the apo complex. Biochemical inhibitory activity was assessed using an in vitro homogeneous time-resolved fluorescence (HTRF) assay.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "计算与生化筛选发现喹啉-8-芳基磺酰胺C2、C1可破坏Skp2-Cks1相互作用，活性优于对照NSC689857。",
+    "conclusion": "该喹啉-8-芳基磺酰胺类化合物能靶向Skp2-Cks1蛋白-蛋白界面，其中C2预测使界面去稳定最强且实测IC₅₀最低（1.48 µM），优于对照NSC689857，提示该骨架可作为抗肿瘤药物先导并优先优化C2。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42899567",
+    "title": "Fragment-Based Design of Pesticide-Like Molecules: From Method Development to Agrochemical Discovery",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Accounts of chemical research",
+    "authors": "Shi XX, Wang ZZ, Yang RQ, Wang F, Yang GF.",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-21",
+    "url": "https://europepmc.org/article/MED/42899567",
+    "doi": "10.1021/acs.accounts.6c00580",
+    "pmid": "42899567",
+    "abstract": "Driven by rapid global population growth, an unprecedented demand for food has placed severe pressure on agricultural production. While synthetic pesticides have served as a cost-effective means of safeguarding crop yields, the effectiveness of many existing agents is increasingly undermined by rising pest resistance and stricter regulatory safety margins, necessitating continuous innovation in more effective and safer agrochemicals. Conventional agrochemical discovery relies on phenotypic screening directly against whole organisms, which requires substantial labor, funding, and time. Alternatively, target-based approaches using in vitro assays have emerged as a powerful paradigm for the rational design of agrochemicals, increasingly supported by computational strategies for ligand identification and optimization. Thus, advancing computational methods for target-based pesticide design is essential for accelerating the discovery of next-generation agrochemicals and supporting sustainable agriculture. Fragment-based design, a promising target-based approach developed primarily in the pharmaceutical industry, can be extended to agrochemicals discovery. By leveraging the additive binding contributions of molecular fragments to discrete protein subpockets, this technique enables small molecules to be optimized fragment by fragment, thereby significantly expanding chemical space for exploring novel bioactive scaffolds. The growing number of experimentally determined structures of agrochemical targets, together with rapid progress in protein structure modeling technologies, has provided valuable foundations for fragment-based pesticide design. However, adapting the fragment-based strategy from pharmaceutical research to agrochemical discovery requires careful consideration of unique agrochemical molecular properties such as photostability, ecotoxicity, and bioavailability. Therefore, the implementation of fragment-based agrochemical discovery still poses critical questions, such as how to acquire structurally diverse fragments that can be readily assembled into pesticide molecules and how to assess the suitability of a fragment or ligand for subsequent optimization into pesticide leads. In this Account, we describe our efforts to address these issues by incorporating the consideration of pesticide-likeness and ecotoxicity into the fragment-based design pipeline and establishing an integrated computational framework for fragment-based agrochemical discovery. This framework supports key stages from fragment library design to fragment-to-lead optimization through a comprehensive suite of molecular tools, including (i) the qualitative and quantitative assessment methods for pesticide-likeness (HerbiPAD, InsectiPAD, FungiPAD, and Pesti-DGI-Net); (ii) the ecotoxicity predictive tools (beetox, AquaticTox, and PEAR) for rapid screening of eco-friendly candidates; (iii) the PADFrag database of pesticide- and drug-derived bioactive fragments, and the DigFrag method for de novo fragment generation; (iv) the pharmacophore-linked fragment virtual screening (PFVS) method and the online ACFIS server for fragment-to-lead optimization; and (v) the Auto In Silico Ligand Directing Evolution (AILDE) server for iterative hit-to-lead optimization. Furthermore, we present representative applications of this framework in the identification of novel pesticide leads targeting 4-hydroxyphenylpyruvate dioxygenase, acetohydroxyacid synthase, the cytochrome bc1 complex, succinate dehydrogenase, and histone deacetylase. Our successful discovery of novel herbicides or fungicides through fragment-based design for pesticide-like molecules may also stimulate greater interest in computer-driven agrochemical discovery.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述基于片段的农药设计方法，强调计算策略与靶标结构助力新农药发现",
+    "conclusion": "基于片段的靶标设计可逐片优化分子、拓展化学空间，但需兼顾光稳定性、生态毒性与生物利用度等农药特性，并解决片段多样性与可优化性评估问题",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42897845",
+    "title": "Telomere-to-telomere genome assembly of the elite peanut cultivar Yuhua 15 identifies AhYABBY as a key regulator of pod and seed size",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant communications",
+    "authors": "Sun Z, Qi F, Wang X, Liu H, Zhi C, Pavan S, Maliepaard C, Li A, Wu Y, Wang J, Liu H, Zhang Y, Zhou Z, Zhang M, Mo Z, Xu J, Qin L, Zhang Z, Hu Y, Wang M, Du B, Zhao H, Li X, Zhang M, Gao W, Dong W, Dai X, Han S, Visser RGF, Shi L, Zheng Z, Zhang X.",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-21",
+    "url": "https://europepmc.org/article/MED/42897845",
+    "doi": "10.1016/j.xplc.2026.102158",
+    "pmid": "42897845",
+    "abstract": "",
+    "species_latin": "Arachis hypogaea",
+    "species_en": "Peanut",
+    "species_zh": "花生",
+    "takeaway": "完成花生品种豫花15端粒到端粒基因组组装，鉴定AhYABBY为荚果和种子大小关键调控因子",
+    "conclusion": "研究构建了优质花生品种豫花15的端粒到端粒完整基因组，为花生功能基因组学提供高质量参考；并据此鉴定出AhYABBY基因是调控荚果与种子大小的关键因子，为花生高产分子育种提供靶点。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261020-colo829-t2t-somatic",
     "title": "4篇Cell长文+1篇评论 | 纵览人体体细胞变异全景",
     "type": "wechat",
@@ -160,7 +271,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -186,7 +297,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -421,6 +532,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1186/s12864-026-13458-4",
+    "title": "The near-T2T genome of the feather star Cenometra bella suggests potential evolutionary innovations and coral reef habitat tolerance",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "BMC Genomics",
+    "authors": "Shao'e Sun, Min Hui, Jin Sun, Zhongli Sha",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-21",
+    "url": "https://doi.org/10.1186/s12864-026-13458-4",
+    "doi": "10.1186/s12864-026-13458-4",
+    "pmid": "",
+    "abstract": "Abstract Background Crinoids are highly conservative echinoderms, retaining ancient features since the early Ordovician, making them classic \"living fossils\" invaluable for studying evolution and biodiversity. Their evolutionary stability is marked by minimal morphological changes, a sessile lifestyle, and exceptionally slow evolutionary rates, rendering them unique among marine groups. However, they have long lacked high-quality genomic resources, hindering insights into the genomic evolution of early echinoderm lineages. Results Here, we present the first near-telomere-to-telomere (T2T) genome assembly (354.7 Mb, 12 chromosomes, GCI score = 75.0837) of the coral reef-dwelling feather star Cenometra bella using PacBio HiFi and Hi-C technologies. The assembly exhibits exceptional continuity (contig N50 = 28.25 Mb) and completeness (97.5% BUSCO genes), surpassing existing crinoid genomes. Precise identification of telomeric repeats and centromeric regions revealed critical genes associated with intracellular metabolism, signal transduction, and nervous system regulation. Macrosynteny analyses uncovered nine chromosomal fusion events, reducing the presumed 23 ancestral echinoderm linkage groups to 12 chromosomes. Genes on fused chromosomes were functionally enriched in attachment-related processes (e.g., cell adhesion), energy metabolism, environmental sensing, and immune response. Furthermore, expanded gene families (28 families, 455 genes) and positively selected genes (194 genes) were linked to lipid synthesis, DNA repair, and membrane stability. Conclusions The near-T2T genome of C. bella is the highest degree of chromosomal fusion observed in echinoderms, which represents a key evolutionary innovation in echinoderms. Also our findings decipher the strategies of C. bella to cope with environmental fluctuations of coral reef (e.g., UV radiation, temperature shifts, and pathogen pressure).",
+    "species_latin": "Cenometra bella",
+    "species_en": "feather star",
+    "species_zh": "美丽羽星",
+    "takeaway": "研究用HiFi与Hi-C技术组装珊瑚礁羽星近T2T基因组，揭示其染色体融合与珊瑚礁适应机制。",
+    "conclusion": "该羽星基因组呈现棘皮动物中最多的染色体融合事件，由祖先23个连锁群减至12条染色体；融合染色体上的基因富集于附着、能量代谢、环境感知和免疫，扩张及正选择基因涉及脂质合成、DNA修复和膜稳定性，揭示其应对珊瑚礁紫外、温度波动和病原压力的适应策略。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
