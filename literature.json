@@ -1,5 +1,83 @@
 [
   {
+    "id": "pmid-42902030",
+    "title": "Small variant calling in the era of long-read sequencing",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature reviews. Genetics",
+    "authors": "Zheng Z, Sedlazeck FJ, Luo R.",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-22",
+    "url": "https://europepmc.org/article/MED/42902030",
+    "doi": "10.1038/s41576-026-01020-7",
+    "pmid": "42902030",
+    "abstract": "Long-read sequencing enables accurate analysis of complex and repetitive genomic regions but has distinct error profiles compared to short-read sequencing. Consequently, the tools for calling small variants - the predominant source of human genetic diversity - have shifted towards deep learning-based methods. This transition has reshaped variant calling across biological contexts, including germline, de novo, somatic and mosaic variants, and sequencing modalities for capturing both DNA and RNA at different resolutions. These deep learning frameworks are being developed in combination with alignment-based, assembly-based and pangenome-based strategies for small variant detection. In this Review, we chart the trajectory towards complete telomere-to-telomere profiling of small variants and consider the computational innovations needed to benchmark newly accessible repetitive regions and complex variants.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "综述长读长测序时代小变异检测转向深度学习方法，并融合比对、组装与泛基因组策略。",
+    "conclusion": "长读长测序错误谱独特，推动小变异检测从传统方法转向深度学习框架，并可与基于比对、组装及泛基因组的策略结合，用于生殖系、新生、体细胞和嵌合变异及DNA/RNA多分辨率检测，助力实现端粒到端粒的完整小变异图谱。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1038/s41467-026-78776-3",
+    "title": "The Emirati pangenome featuring a diploid chromosome-level reference",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature Communications",
+    "authors": "Michael Roland Olbrich, Mira Mousa, Inken Wohlers, Amira Al-Aamri, Halima Alnaqbi, Aisha Hanaya Alsuwaidi, Hima Vadakkeveettil Manoharan, Nour‐Al‐Dain Marzouka, Lennart Bartels, Sanjay Erathodi Ramachandran, Anju Annie Thomas, Mauricio Paton Gasso, Mubarak Almehairbi, Mohamed Salem Alameri, Guan K. Tay",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-22",
+    "url": "https://doi.org/10.1038/s41467-026-78776-3",
+    "doi": "10.1038/s41467-026-78776-3",
+    "pmid": "",
+    "abstract": "Reference genomes are essential for identifying and representing human genomic variation, yet single-genome sequences fail to capture population-specific diversity. We present the Emirati pangenome comprising a trio-based, diploid chromosome-level assembly from deep, multi-platform sequencing data and 57 additional high-quality HiFi sequencing-based chromosome-scale assemblies, 27 of which are trio-based. Haplotypes demonstrate high contiguity (median N50 of 151.9 Mb) and good base accuracy (median QV score of 59.31). Of all assembled chromosomes, 31.8% are telomere-to-telomere (T2T) scaffolds (chromosome-spanning sequences flanked by telomeric repeats at both ends), and 64.3% achieved chromosome-level continuity (single scaffolds spanning an entire chromosome but retaining one or more sequence gaps or lacking a telomeric signature at one or both ends). These assemblies form the foundation of the population-specific pangenome graph of the Emirati Reference Genome Project (ERGP), which captures genomic variation comparable to the globally diverse HPRC reference graph, while covering regionally enriched variation. Applying the ERGP pangenome to short‑read genotyping of an independent Emirati cohort revealed structural variant sites in linkage disequilibrium with phenotype‑associated GWAS variants, demonstrating the value of population-graph-based variant inference. The ERGP reference complements human pangenomes and provides a critical foundation for population-specific genomics and precision medicine in the United Arab Emirates. Here the authors present a chromosome-level Emirati pangenome, capturing population-specific genetic diversity and improving the detection of genomic variants. The resource will support more accurate genetic research and precision medicine in the United Arab Emirates.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "阿联酋人群二倍体染色体级泛基因组组装，捕获区域特异变异并提升结构变异检测。",
+    "conclusion": "研究构建了基于多平台深度测序与HiFi组装的阿联酋二倍体染色体级泛基因组，单倍型连续性与碱基准确性高，部分染色体达端粒到端粒水平。该图谱覆盖区域富集变异，用于独立队列短读长基因分型可识别与GWAS表型变异连锁的结构变异位点，为阿联酋人群基因组学与精准医学提供基础资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42902105",
+    "title": "Interacting climatic, environmental, biologic and socio-economic drivers of the global dengue expansion",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Journal of internal medicine",
+    "authors": "Semenza JC.",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-22",
+    "url": "https://europepmc.org/article/MED/42902105",
+    "doi": "10.1111/joim.70174",
+    "pmid": "42902105",
+    "abstract": "Dengue is the most rapidly expanding mosquito-borne viral disease worldwide. The worst year on record was 2024, with over 100 countries reporting 14.4 million cases and over 11,000 deaths. Since then, and up to August 2026, another 7.4 million cases and over 5000 deaths have been reported. The region of the Americas was impacted the most, followed by South-East Asia and the Western Pacific. Both the spread of dengue viruses (DENV) and their primary vectors, Aedes aegypti and Aedes albopictus, are driven by several factors. Globalization has accelerated vector dispersal, particularly through international trade and transportation networks. The movement of desiccation-resistant eggs in used-vehicle tyres and the inadvertent transport of adult mosquitoes via trucks and passenger vehicles have enabled the establishment of vector populations in previously uncolonized regions. Human mobility and unplanned urbanization further contribute to dengue emergence by introducing DENV into susceptible populations where competent vectors circulate. Climate change has enhanced dengue transmission potential by altering temperature and rainfall patterns that influence mosquito survival, reproduction, biting behaviour and viral replication. Containing or even reversing this global dengue expansion will require a complementary set of interventions that rely on proven and novel control strategies, including sterile insect techniques, Wolbachia-infected mosquitoes, virus-resistant mosquito strains through CRISPR-Cas9 gene drive, vaccines, antiviral drug prophylaxis and urban interventions that eliminate Aedes habitats. Building climate-resilient urban environments through sustainable development to minimize the urban heat island effect and advancing climate-informed early warning systems are long-term strategies for effective dengue control.",
+    "species_latin": "Aedes aegypti, Aedes albopictus",
+    "species_en": "Yellow fever mosquito, Asian tiger mosquito",
+    "species_zh": "埃及伊蚊、白纹伊蚊",
+    "takeaway": "综述全球登革热扩张的驱动因素，指出气候、全球化、城市化与人口流动共同助推媒介扩散，并提出综合防控策略。",
+    "conclusion": "登革热全球扩张由多重因素共同驱动：全球化贸易与交通加速媒介伊蚊扩散，人口流动与无序城市化促进病毒传入，气候变化通过温度和降水改变蚊媒生存、繁殖、叮咬及病毒复制。控制需结合不育昆虫技术、沃尔巴克氏体蚊、CRISPR基因驱动、疫苗、抗病毒预防及城市环境治理，并建设气候韧性城市与气候预警系统。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261021-gphase-polyploid-scaffolding",
     "title": "Nature Plants | 基因组所开发多倍体基因组分型组装工具",
     "type": "wechat",
@@ -55,7 +133,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -82,6 +160,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.3389/fpls.2026.1967410",
+    "title": "Express delivery: dsRNA applications and RNAi nanocarrier systems to combat potato late blight",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Frontiers in Plant Science",
+    "authors": "Ellen Vandenbussche, Kristof De Schutter, Els J. M. Van Damme",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-22",
+    "url": "https://doi.org/10.3389/fpls.2026.1967410",
+    "doi": "10.3389/fpls.2026.1967410",
+    "pmid": "",
+    "abstract": "Phytophthora late blight remains one of the most devastating diseases of potatoes, posing persistent challenges to global food security and sustainable agriculture. Although RNA interference (RNAi) has emerged as a powerful and highly specific strategy for pathogen control, its practical application against P. infestans has largely remained at the proof-of-concept stage. This limitation does not result from a lack of suitable gene targets, but rather from challenges associated with the delivery, stability, and uptake of RNA molecules under field conditions. In this review, we outline current advances in RNAi-based approaches for the control of P. infestans , with a particular focus on spray-induced gene silencing (SIGS) and the potential of nanocarrier-based delivery systems. We summarize proof-of-concept studies targeting essential oomycete genes, discuss the molecular mechanisms underlying double-stranded RNA (dsRNA) uptake in plants and oomycetes, and critically evaluate the strengths and limitations of host-induced gene silencing (HIGS) and SIGS. Unlike recent reviews on nanocarrier-mediated RNA delivery, this manuscript provides a system-specific focus centered on the potato– P. infestans pathosystem and the unique biological features of the plant–oomycete interface. Central to this review is the argument that future success of RNAi-based disease management will require systems‑level optimization that integrates target selection, dsRNA design, formulation, delivery, and application timing, while emphasizing that delivery remains a major bottleneck for translation to field applications. We highlight how nanocarriers can enhance dsRNA stability, improve adhesion and cellular uptake, and enable controlled release, thereby transforming SIGS into a robust and environmentally sustainable plant protection strategy. Finally, we position RNAi-based nanobiopesticides within the broader European regulatory and sustainability landscape, emphasizing both regulatory feasibility and the importance of public trust and societal acceptance. Together, these insights position nanocarrier-enabled SIGS as a promising cornerstone of next-generation, sustainable late blight management.",
+    "species_latin": "Phytophthora infestans",
+    "species_en": "Potato and late blight pathogen",
+    "species_zh": "马铃薯与致病疫霉",
+    "takeaway": "综述指出纳米载体递送dsRNA可提升稳定性与吸收，是防控马铃薯晚疫病的关键方向",
+    "conclusion": "RNAi抗晚疫病的瓶颈在于dsRNA的递送、稳定性与吸收，而非靶基因缺乏；纳米载体可增强dsRNA稳定性、黏附、细胞摄取与控释，使喷施诱导基因沉默成为可持续的植物保护策略，但需整合靶标选择、dsRNA设计、制剂、递送与施用时机进行系统优化，并兼顾欧洲监管与公众接受度",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
