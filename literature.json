@@ -14458,6 +14458,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42648803",
+    "title": "Insect-derived biochar-organically modified vermiculite composite enabling synergistic adsorption and analysis of insecticides in water samples",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Analytica chimica acta",
+    "authors": "Sui J, Duan S, Zang Y, Zhang Z, Zhao W, Li S, Tao J, Zong S.",
+    "publish_date": "2026-07-19",
+    "added_at": "2026-10-22",
+    "url": "https://europepmc.org/article/MED/42648803",
+    "doi": "10.1016/j.aca.2026.345994",
+    "pmid": "42648803",
+    "abstract": "BACKGROUND: The widespread application of insecticides has raised concerns about environmental persistence and risks to non-target organisms, calling for efficient adsorbents and reliable analytical methods for residue monitoring. Biomass-derived carbon-based materials show promise but often suffer from limited capacity and poor reusability. While biochar-clay composites and organically modified clays have been studied separately for pollutant removal, their integration into a synergistic adsorption system remains largely unexplored. RESULTS: A novel insect-derived biochar-organically modified vermiculite composite (1.5VB400-91) was developed using fall webworm biomass and vermiculite for the adsorption and determination of five insecticides. The composite achieved a maximum adsorption capacity of 956.06 mg g-1 for thiacloprid and over 80% removal of chlorbenzuron at low concentrations. A dispersive solid-phase extraction method coupled with gas chromatography-electron capture detection was established for garden water samples, showing good linearity (0.30-8000 μg L-1, R2 ≥ 0.9991), low detection limits (0.080-5.4 μg L-1), and satisfactory recoveries (81-91%). Mechanistic studies revealed a synergistic Capture-Transfer-Immobilization process, in which biochar acts as an adsorption entry and mass-transfer accelerator, while organically modified vermiculite serves as the terminal immobilization domain. SIGNIFICANCE: This work demonstrates the first successful integration of biochar-vermiculite compositing with organic modification to create a synergistic adsorption system enabling both rapid capture and deep fixation of pesticide molecules. The use of pest-derived biomass offers a sustainable and cost-effective fabrication route, while the elucidated Capture-Transfer-Immobilization mechanism provides insights for designing advanced adsorbents for environmental analysis and remediation. The developed method also offers a reliable and sensitive analytical tool for monitoring insecticide residues in environmental water samples.",
+    "species_latin": "Hyphantria cunea",
+    "species_en": "fall webworm",
+    "species_zh": "美国白蛾",
+    "takeaway": "以美国白蛾生物质与有机改性蛭石制成复合材料，可协同吸附并检测水中五种杀虫剂",
+    "conclusion": "该复合材料通过“捕获—转移—固定”协同机制，实现杀虫剂快速吸附与深度固定，据此建立的分散固相萃取-气相色谱法灵敏度高、回收率好，为环境水样农药残留监测与污染修复提供了可持续的吸附剂设计思路和分析工具",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42485705",
     "title": "Synthesis, fungicidal activity, and DFT calculation of novel amide derivatives based on the metabolite of cyprodinil",
     "type": "paper",
