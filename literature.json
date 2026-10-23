@@ -104,6 +104,110 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42905784",
+    "title": "Wolbachia outcompetes mosquito-borne viruses by reprogramming host ATPSβ1-driven ATP metabolism toward symbiotic proliferation",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS pathogens",
+    "authors": "Yuan H, Zhang Y, Zhao Y, Wang C, Zhou Y, Ni Q, Li X, Zhang B, Wang Y, Cai L, Liu H, Wang J, Gong J, Zhang M, Xi Z, Pan X.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42905784",
+    "doi": "10.1371/journal.ppat.1014692",
+    "pmid": "42905784",
+    "abstract": "Wolbachia endosymbionts confer broad-spectrum resistance to mosquito-borne viruses. While the antiviral metabolites in Wolbachia-Aedes have been identified during viral replication, the core metabolic gene underlying this defense across the entire viral infection cycle remains undefined. Here, we demonstrated for the first time that Wolbachia strongly suppressed the emerging alphavirus Venezuelan equine encephalitis virus, extending its known antiviral spectrum. Transcriptomic and functional analyses revealed ATP synthase beta subunit 1 (ATPSβ1) as a key metabolic hub hijacked by both MBV and the symbiont. Without Wolbachia symbiosis, dengue virus and VEEV induced ATPSβ1 to promote viral binding via the viral envelope protein and increased intracellular ATP production for viral replication. Conversely, Wolbachia overrode ATPSβ1-mediated viral binding and redirected ATPSβ1-driven ATP synthesis to fuel its proliferation, strengthening antiviral activity. Pharmacologically, adenosine increased Wolbachia wAlbB density and potently suppressed viral infection in Ae. aegypti and Ae. albopictus cells. Oligomycin reduced intracellular ATP and inhibited viral infection in Wolbachia-free Ae. aegypti cells. Collectively, Wolbachia repurposes dual-functional ATPSβ1, which governs MBV binding and replication, into a potent antiviral effector through a metabolic tug-of-war over host ATP during symbiont-virus competition. Moreover, we highlight interventions targeting the ATPSβ1-driven metabolism as promising strategies to curb MBV transmission.",
+    "species_latin": "Aedes aegypti, Aedes albopictus",
+    "species_en": "Yellow fever mosquito, Asian tiger mosquito",
+    "species_zh": "埃及伊蚊、白纹伊蚊",
+    "takeaway": "沃尔巴克氏体通过重编程宿主ATPSβ1驱动的ATP代谢，与蚊媒病毒争夺能量以促进自身增殖并抑制病毒。",
+    "conclusion": "ATPSβ1是蚊媒病毒与沃尔巴克氏体共同利用的代谢枢纽：无共生菌时病毒借其增强结合与复制，有共生菌时沃尔巴克氏体夺取该通路将ATP导向自身增殖，从而广谱抗病毒；靶向该代谢可阻断病毒传播。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42908163",
+    "title": "Bioactivity profiling of linear venom peptides from Italian small wood-scorpion (Euscorpius italicus)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Pierry M, Dersch L, Krämer J, Schulte L, Avella I, Kessel T, Hardes K, Marner M, Grotmann J, Seip M, Schäberle TF, Lüddecke T.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42908163",
+    "doi": "10.1002/ps.71416",
+    "pmid": "42908163",
+    "abstract": "BACKGROUND: Rising host-expansion and the global spread of pest insects, confront agricultural sectors with substantial concerns. A promising source of potential lead compounds to target these growing challenges are animal venoms which abound with a huge diversity of bioactive peptides suited for both pest control and drug discovery. Arachnids in particular contribute substantially to the extreme diversity of highly adapted venom compounds, and for some of these, translational potential in pest control has already been demonstrated. Members of the Euscorpiidae family of scorpions are among the most successful groups of scorpions in Europe. Although they use their venom for hunting, none of their toxins has thus far been functionally evaluated as their low toxicity to humans has kept them out of the spotlight of venom research. We hypothesize that their venom peptides exert insecticidal activity which might be harnessed for pest control applications. RESULTS: Based on our hypothesis, we conducted bioactivity profiling of linear venom peptides derived from Euscorpius italicus, one of the most common euscorpiid species. In silico analyses revealed them as neutral to cationaic alpha helical peptides with high hydrophobicity. Functionally, our established profiling pipeline that combines in vivo and in vitro bioassays, reveals that one of the tested linear venom peptides, Ei1, causes mortality in Drosophila suzukii postinjection, as well as signs of neuroparalysis. Furthermore, Ei1 exhibits inhibitory effects on Staphylococcus aureus, while also affecting MDCK II cells and equine erythrocytes, implying functions in host defense. CONCLUSION: This study reveals insights on properties of Euscorpiidae venom, their ecological values for predation and defensive function against microbial colonization of the venom glands - revealing further knowledge to the growing biodiscovery of animal venoms and potential agricultural functions as a biological insecticide. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Euscorpius italicus",
+    "species_en": "Italian small wood-scorpion",
+    "species_zh": "意大利小木蝎",
+    "takeaway": "意大利小木蝎线性毒液肽Ei1可致斑翅果蝇死亡并具抗菌活性",
+    "conclusion": "该研究对意大利小木蝎线性毒液肽进行活性分析，发现Ei1注射后引起斑翅果蝇死亡和神经麻痹，并抑制金黄色葡萄球菌，同时影响MDCK II细胞和马红细胞，提示其兼具捕食与防御微生物定植的生态功能，具备作为生物杀虫剂的潜力",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42906802",
+    "title": "Integration of publicly available datasets reveals pesticide-associated genetic variation in a wild non-target animal",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Scholier T, Guignard D, Kosnik MB.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42906802",
+    "doi": "10.1016/j.envpol.2026.129353",
+    "pmid": "42906802",
+    "abstract": "Pesticide use is ubiquitous. While pesticide resistance in target species such as insects is a well-known phenomenon, it is less known how pesticide exposures affect the genetics of non-target species. Here, we demonstrate the research value of integrating existing datasets to study the relationship between chemicals and biodiversity from the genetics perspective by analyzing spatial pesticide concentration data and genetic data from Europe that were not initially generated for toxicological purposes. Specifically, we found associations between environmental pesticide concentrations and genetic variation (i.e., single nucleotide polymorphisms, SNPs) in a non-target species, the wild boar. Gene Ontology (GO) terms and biological signaling pathways related to nervous system function were overrepresented for the impacted genes, especially for insecticides and fungicides. Further, we found that external studies characterizing the molecular mechanisms of these pesticides revealed the same pesticide - GO relationships as those observed in our analysis. Our results show that pesticide-induced genetic changes may not be constrained to target species but may also have an impact on the long-term viability of other wildlife populations. We therefore encourage further research into this area and collaboration across disciplines to develop more comprehensive designated datasets for such analyses. This finding also urges the consideration and inclusion of chemical exposure into conservation protection strategies and greater consideration of genetic impacts from chemicals in environmental risk assessment.",
+    "species_latin": "Sus scrofa",
+    "species_en": "Wild boar",
+    "species_zh": "野猪",
+    "takeaway": "整合欧洲农药浓度与野猪遗传数据，发现农药暴露与非靶标野猪神经系统相关基因变异相关联。",
+    "conclusion": "环境农药浓度与野猪单核苷酸多态性存在关联，受影响基因富集于神经系统功能和信号通路，尤其杀虫剂和杀菌剂；外部机制研究印证了相同农药-基因本体关系，提示农药遗传影响不限于靶标物种，可能威胁野生动物种群长期存续，应将化学暴露纳入保护策略与风险评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42905787",
+    "title": "Direct and indirect entomological efficacy of Targeted Indoor Residual Spraying against Aedes aegypti in Iquitos, Peru",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Astete H, Vasquez GM, López-Sifuentes VM, Zambrano B, Reyna B, Moore RC, Morrison AC, Vazquez-Prokopec GM, Larson RT.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42905787",
+    "doi": "10.1371/journal.pntd.0014390",
+    "pmid": "42905787",
+    "abstract": "BACKGROUND: Control of Aedes aegypti, the primary vector of dengue and other Aedes-borne viruses, is challenged by insecticide resistance, limited efficacy of existing tools, and that control activities often occur in the context of large dengue epidemics that overwhelm control programs. Targeted Indoor Residual Spraying (TIRS), a modification of traditional indoor residual spraying focused on Ae. aegypti resting sites, has demonstrated promising results, yet its indirect community-wide effects remain underexplored. METHODOLOGY/PRINCIPAL FINDINGS: We conducted an entomological cluster-randomized controlled trial in Iquitos, Peru, to evaluate the direct and indirect entomological impacts of TIRS using pirimiphos-methyl. Thirty clusters were randomized to receive either TIRS (15 clusters, 898 structures) or standard Ministry of Health vector control activities (15 clusters, 1,018 structures). Aedes aegypti indoor densities were assessed in the 45 days pre-intervention and at four time points up to 255 days post-intervention using Prokopack aspiration. Generalized linear mixed models with a negative binomial link were used to estimate incidence rate ratios (IRRs) and calculate efficacy (1-IRR) for houses that received TIRS (direct effect) and untreated houses in TIRS clusters (indirect effect). Direct efficacy reached a 96% decrease in Ae. aegypti captured in sprayed houses at 15 days post-spraying and remained significant (40%) at 255 days post-spraying. Indirect efficacy reached 69% at 15 days and declined to 7% by 255 days post-spraying. Despite only 57% household-level TIRS coverage, both direct and indirect impacts on Ae. aegypti were significant during early post-intervention surveys, and after 8 months in TIRS clusters. CONCLUSIONS/SIGNIFICANCE: TIRS provided substantial and sustained reductions in indoor Ae. aegypti density, including measurable indirect effects in untreated homes within intervention clusters. These findings demonstrate the entomological value of TIRS even at moderate coverage levels and highlight its potential for both preventive and reactive vector control programs and should be considered for implementation by Ministries of Health in dengue-endemic urban settings as well as by the U.S. military when deployed to tropical or subtropical locations.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "Yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "在秘鲁伊基托斯开展整群随机试验，靶向室内滞留喷洒可大幅降低埃及伊蚊室内密度并产生间接效果",
+    "conclusion": "使用甲基嘧啶磷的靶向室内滞留喷洒在喷洒户中15天时使埃及伊蚊密度下降96%，255天时仍下降40%；未喷洒户也出现间接效果，15天时下降69%，但至255天时仅剩7%。即使覆盖率仅57%，早期和8个月后仍有显著影响，说明该手段在中等覆盖率下仍具昆虫学价值，可用于预防性和应急性媒介控制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.1093/hr/uhag446",
     "title": "Population genomics of a rare and endangered semi-wild cucumber ( Cucumis sativus var. xishuangbannanensis ) reveals genetic architecture of seasonal flowering, fruit morphology, and carotenoid accumulation",
     "type": "paper",
@@ -558,6 +662,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42906513",
+    "title": "Protective effects of Opuntia ficus-indica (L.) Mill flower extract against imidacloprid-induced hepatotoxicity: Modulation of oxidative stress, apoptosis, and Raf/MEK/ERK-related gene expression",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tissue & cell",
+    "authors": "Aidy EA, Al-Shafie TA, Sheded AH, Said MA, Elblehi SS, Nahas AA, Shukry M, Alotaibi BS, Mwaheb MA.",
+    "publish_date": "2026-10-17",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42906513",
+    "doi": "10.1016/j.tice.2026.104066",
+    "pmid": "42906513",
+    "abstract": "Imidacloprid (IMI), a widely used neonicotinoid insecticide, is associated with hepatotoxic effects. This study evaluated the protective potential of Opuntia ficus-indica (L.) Mill. flower extract against IMI-induced liver injury in rats. Animals were allocated into four groups: control, extract-treated, IMI-treated, and extract plus IMI. Hepatic damage was assessed using histopathology, biochemical oxidative stress markers, and gene expression analysis of apoptotic and Raf/MEK/ERK pathway markers. IMI exposure induced marked liver injury, oxidative stress, and apoptosis, while co-treatment with the extract significantly ameliorated histological alterations, reduced lipid peroxidation, and enhanced antioxidant enzyme activities. The extract downregulated pro-apoptotic genes and suppressed the expression of Raf, MEK, and ERK. Molecular docking demonstrated a strong binding affinity of a major extract constituent (CID:20393) to extracellular signal-regulated kinase. These findings indicate that O. ficus-indica flower extract mitigates IMI-induced hepatotoxicity through antioxidant, anti-apoptotic, and modulation of signaling pathways.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Rat",
+    "species_zh": "大鼠",
+    "takeaway": "仙人掌花提取物通过抗氧化、抗凋亡及抑制Raf/MEK/ERK通路减轻吡虫啉致大鼠肝损伤",
+    "conclusion": "该提取物可显著改善吡虫啉暴露引起的肝组织损伤、脂质过氧化与凋亡，提升抗氧化酶活性，下调促凋亡基因并抑制Raf、MEK、ERK表达；分子对接显示其主要成分与ERK结合力强，提示抗氧化、抗凋亡及信号通路调控是其保肝机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
