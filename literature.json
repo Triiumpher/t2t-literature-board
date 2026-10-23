@@ -1,5 +1,135 @@
 [
   {
+    "id": "doi-10.1007/s11046-026-01105-1",
+    "title": "A Gap-Free Telomere-to-Telomere Genome Assembly of Talaromyces marneffei Strain B33c Provides Insights into Chromosomal Architecture and Comparative Genomics",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Mycopathologia",
+    "authors": "Xinyu Zhou, Yanqing Zheng, Zhiwen Jiang, Saroj Karki, Kaisu Pan, Dongyan Zheng, 李秀英, Lan Huang, Guoqun Liu, JinJin Ling, Clement K. M. Tsui, 曹存巍",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-23",
+    "url": "https://doi.org/10.1007/s11046-026-01105-1",
+    "doi": "10.1007/s11046-026-01105-1",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Talaromyces marneffei",
+    "species_en": "Talaromyces marneffei",
+    "species_zh": "马尔尼菲篮状菌",
+    "takeaway": "研究完成马尔尼菲篮状菌B33c菌株的无间隙端粒到端粒基因组组装，揭示其染色体结构与比较基因组特征",
+    "conclusion": "该研究构建了马尔尼菲篮状菌B33c菌株的端粒到端粒无间隙基因组，为解析其染色体架构及开展比较基因组学分析提供了高质量参考，有助于深入理解该病原真菌的基因组组织与演化关系",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42905012",
+    "title": "Both Membrane-Bound and Soluble Alkaline Phosphatases Bind Cry1Ca to Potentiate Its Toxicity in Spodoptera litura",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Li J, Wei WT, Xiang L, Deng X, Li M, Li Q, Zheng Y, Yu XQ, Lu Y.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42905012",
+    "doi": "10.1021/acs.jafc.6c06572",
+    "pmid": "42905012",
+    "abstract": "Membrane-bound alkaline phosphatases (mALPs) are established receptors for several Bacillus thuringiensis (Bt) Cry toxins, yet the role of soluble ALPs (sALPs) in the insecticidal mechanism remains unclear. Here, we characterized two midgut-abundant ALPs in Spodoptera litura, SlALP8 and SlALP5, whose expression was down-regulated upon the exposure to Cry1Ca. SlALP8 is a glycosylphosphatidylinositol (GPI)-anchored protein, whereas SlALP5 is secreted. Co-immunoprecipitation assays confirmed that both proteins bind directly to Cry1Ca. RNA interference-mediated knockdown of either SlALP8 or SlALP5 expression increased the larval tolerance to Cry1Ca. Conversely, dietary supplementation with recombinant SlALP8 or SlALP5 protein significantly potentiated the toxicity of Cry1Ca. We demonstrate that membrane-bound SlALP8 acts as a receptor for Cry1Ca and soluble SlALP5 interacts with the toxin to potentiate its toxicity. These findings unveil a coordinated role of mALP and sALP in the Cry toxin efficacy, providing new insight into the mode of action of Cry toxins.",
+    "species_latin": "Spodoptera litura",
+    "species_en": "tobacco cutworm",
+    "species_zh": "斜纹夜蛾",
+    "takeaway": "斜纹夜蛾中膜结合SlALP8与可溶SlALP5均结合Cry1Ca并协同增强其杀虫毒性",
+    "conclusion": "SlALP8为GPI锚定的膜结合碱性磷酸酶，SlALP5为分泌型；二者均直接结合Cry1Ca，敲低任一基因均提高幼虫对Cry1Ca的耐受性，而饲喂重组蛋白则显著增强毒素活性，表明膜结合与可溶碱性磷酸酶协同作用提升Cry毒素效力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42905009",
+    "title": "Efficient Production of 14-Membered Macrolides by the Endophytic Fungus Colletotrichum gloeosporioides GLL-7 and Their Insecticidal Activity against Diaphorina citri",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "You M, Liang Y, Zhang J, Xiong Q, Zhang J.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42905009",
+    "doi": "10.1021/acs.jafc.6c13466",
+    "pmid": "42905009",
+    "abstract": "The citrus psyllid (Diaphorina citri) vectors Huanglongbing. Overuse of insecticides causes resistance and pollution, necessitating safer alternatives. Bioactivity-guided fractionation of the fungus Colletotrichum gloeosporioides GLL-7 yielded two macrolides: Sch725674 and Gliomasolide H (GLH). Sch725674, a major metabolite produced at 0.035 g per gram of culture medium, is easily obtained via methanol trituration. GLH is a novel macrolide; its structure was elucidated by spectroscopy and confirmed by chemical synthesis. GLH exhibited contact toxicity (24 h LC50 = 0.129 mg/mL) against D. citri; it damaged wax layer, decreased hydrophobicity, lowered nymph emergence rates, and shortened adult body length. Metabolomics, qRT-PCR, and molecular modeling analyses indicated that GLH possibly targets phospholipid metabolism, disrupting lipid homeostasis and wax formation. In addition, GLH exhibited low toxicity to various nontarget organisms. Thus, GLH is a promising lead compound for controlling D. citri, and C. gloeosporioides GLL-7 is a valuable bioresource for producing unusual macrolides.",
+    "species_latin": "Diaphorina citri",
+    "species_en": "Asian citrus psyllid",
+    "species_zh": "柑橘木虱",
+    "takeaway": "内生真菌GLL-7可高效产出大环内酯GLH，其对柑橘木虱具接触毒性与抑发育作用。",
+    "conclusion": "从胶孢炭疽菌GLL-7中分离到Sch725674和新型大环内酯Gliomasolide H；后者通过干扰磷脂代谢、破坏脂质稳态与蜡质形成，对柑橘木虱产生接触毒性和发育抑制，且对非靶标生物毒性低，是有望用于防控该害虫的先导化合物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42905005",
+    "title": "Correction to \"Development of Novel (+)-Nootkatone-Fused Thiazolidine Derivatives as Potent Insecticide Candidates\"",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Qu T, Li X, Wu C, Teng F, Wang M, Yang R, Guo Y.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-23",
+    "url": "https://europepmc.org/article/MED/42905005",
+    "doi": "10.1021/acs.jafc.6c14254",
+    "pmid": "42905005",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "对新型(+)-诺卡酮稠合噻唑烷衍生物作为杀虫剂候选物的研究作出更正。",
+    "conclusion": "该文为更正声明，针对此前关于(+)-诺卡酮稠合噻唑烷类衍生物作为潜在杀虫剂候选物的研究进行修正，具体更正内容未在标题中体现。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1093/hr/uhag446",
+    "title": "Population genomics of a rare and endangered semi-wild cucumber ( Cucumis sativus var. xishuangbannanensis ) reveals genetic architecture of seasonal flowering, fruit morphology, and carotenoid accumulation",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Horticulture Research",
+    "authors": "Huixia Jia, Jiyan Zang, Jiangping Song, Tingting Zhang, Yumin Tan, Mengzhen Wang, Xiaohui Zhang, Wenlong Yang, Yanfei Yang, Yanhui Pang, Ruifeng Wang, Haiping Wang",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-23",
+    "url": "https://doi.org/10.1093/hr/uhag446",
+    "doi": "10.1093/hr/uhag446",
+    "pmid": "",
+    "abstract": "Abstract The Xishuangbanna cucumber (Cucumis sativus var. xishuangbannanensis, XIS) is a rare and endangered semi-wild variety endemic to Yunnan Province, China. It possesses orange-fleshed fruits, large fruit mass, excellent storage tolerance, and disease resistance, making it a valuable resource for cucumber genetic improvement. However, genetic basis underlying its key agronomic traits remains largely unexplored. Here, we present a telomere-to-telomere gapless genome assembly of the XIS (322.9 Mb). Whole-genome resequencing of 342 XIS accessions identified 1,482,096 SNPs, 267,632 INDELs, 19,475 SVs, and 5,739 CNVs. Comparative population genomics between stable and unstable seasonal flowering accessions identified 248 selected genes commonly detected by XP-CLR, FST, and πSFF/πUSFF, revealing an integrated regulatory network converging on photoperiod and circadian clock (e.g., CONSTANS-like), flowering time (FY, SPL4), and multiple hormone signaling pathways (ARF9, MYC2, AOS1, GSK3). Genome-wide association study identified 4,109 variants significantly associated with flower and fruit traits, yielding 2,709 candidate genes. Two major hotspots on chromosome 1 harboring FT and COP1 were associated with multiple flower traits. Additionally, a distinct auxin-related cluster comprising TMK4 and HDA8 was identified as a key regulator of fruit morphology. Quantification of 68 carotenoid compounds revealed high inter-accession variation, with β-carotene, β-cryptoxanthin, and (E/Z)-phytoene being predominant. These carotenoid compounds were associated with a set of candidate genes including core carotenoids pathway genes BCH1, DXS, PDS, PSY, and LCYB, multiple transcription factors, etc. This work provides insights into seasonal flowering, fruit morphology, and carotenoid accumulation, establishing foundation for conservation and utilization of XIS, enabling genomics-assisted breeding of cucumber varieties.",
+    "species_latin": "Cucumis sativus",
+    "species_en": "Xishuangbanna cucumber",
+    "species_zh": "西双版纳黄瓜",
+    "takeaway": "对西双版纳黄瓜完成无间隙基因组组装并重测序342份材料，定位花期、果形与类胡萝卜素积累的关键基因。",
+    "conclusion": "该半野生黄瓜端粒到端粒无间隙基因组及群体基因组分析揭示，季节性开花受光周期、生物钟、成花基因与激素通路整合网络调控；1号染色体上FT与COP1热点及TMK4-HDA8生长素簇分别关联花部与果形；类胡萝卜素积累与BCH1、DXS、PDS、PSY、LCYB等通路基因及转录因子相关，为保育与基因组辅助育种奠定基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42902030",
     "title": "Small variant calling in the era of long-read sequencing",
     "type": "paper",
