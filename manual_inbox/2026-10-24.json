@@ -1,0 +1,102 @@
+[
+  {
+    "id": "manual-20261024-wild-emmer-t2t-centromere",
+    "title": "「Nat Genet」野生二粒小麦近T2T基因组揭示多倍化中着丝粒的拆解与重装",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生信帮（搜狐号转载）",
+    "authors": "",
+    "publish_date": "2026-10-23",
+    "added_at": "2026-10-24",
+    "url": "https://m.sohu.com/a/1091442190_122604723/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "2026年10月22日Nature Genetics发表工作，完成野生二粒小麦（Triticum turgidum ssp. dicoccoides，BBAA）Zavitan材料的近完整基因组组装，14条染色体的着丝粒区域全部被完整覆盖。以此为参照与栽培四倍体、六倍体小麦比较，揭示多倍化过程中着丝粒的亚基因组不对称重塑。",
+    "species_latin": "Triticum turgidum ssp. dicoccoides",
+    "species_en": "Wild emmer wheat",
+    "species_zh": "野生二粒小麦",
+    "takeaway": "首个完整覆盖全部14个着丝粒的野生二粒小麦近T2T组装，证明多倍化中A、B亚基因组着丝粒走了“拆解搬迁”与“卫星局部保留”两条不同的重塑路径。",
+    "conclusion": "A亚基因组富含CRW的着丝粒衍生块在多倍化中发生位置移动与序列更替；B亚基因组CentT566卫星丰度整体下降，但在部分染色体上局部保留甚至扩张，着丝粒在多倍化后呈亚基因组不对称重塑。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "近完整基因组",
+      "着丝粒",
+      "多倍体",
+      "野生二粒小麦",
+      "CRW",
+      "CentT566",
+      "卫星重复",
+      "基因组组装"
+    ]
+  },
+  {
+    "id": "manual-20261024-cmed-indole-carboxamide-hostswitch",
+    "title": "宿主转换背景下亚致死吲哚甲酰胺对稻纵卷叶螟生长发育及P450与保幼激素相关基因表达的交互影响",
+    "type": "wechat",
+    "boards": [
+      "cmed",
+      "insecticide"
+    ],
+    "source": "生物通（转自Insects）",
+    "authors": "",
+    "publish_date": "2026-10-11",
+    "added_at": "2026-10-24",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261011084652363.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究以稻纵卷叶螟水稻、小麦长期实验室种群构建RR、RW、WR、WW四种宿主转换处理，二龄幼虫暴露于LC25吲哚甲酰胺，记录发育、繁殖并定量6个P450基因与4个保幼激素相关基因表达。发现宿主植物历史显著改变幼虫对药剂的敏感性，基因表达呈基因特异性模式并与表型变化相关。",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "Rice leaf roller",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "取食宿主的历史会改变稻纵卷叶螟对亚致死吲哚甲酰胺的敏感性，P450与保幼激素基因以基因特异性方式参与，提示解毒、发育与繁殖间存在权衡。",
+    "conclusion": "宿主预适应与亚致死吲哚甲酰胺以性状特异性和龄期特异性方式影响生活史性状（RR比RW更敏感、WW比WR更不敏感）；P450和保幼激素基因表达与部分表型相关，可能参与敏感性改变，但仍需功能验证与田间验证。",
+    "keywords": [
+      "稻纵卷叶螟",
+      "Cnaphalocrocis medinalis",
+      "宿主转换",
+      "吲哚甲酰胺",
+      "亚致死效应",
+      "P450",
+      "保幼激素",
+      "解毒",
+      "抗药性",
+      "生长发育"
+    ]
+  },
+  {
+    "id": "manual-20261024-ppbind-affinity",
+    "title": "PPBind-3D/1D蛋白-蛋白结合亲和力预测框架登刊Antibody Therapeutics：结构与序列双模型助力蛋白药物虚拟筛选",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "大众网（赛业生物供稿）",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-24",
+    "url": "http://www.dzwww.com/xinwen/jishixinwen/202610/t20261015_18206547.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "赛业生物与清华珠三角研究院团队在Antibody Therapeutics发表PPBind-3D/1D通用蛋白-蛋白结合亲和力预测框架。PPBind-3D基于自-互注意力几何编码器并引入单调约束多任务学习，PPBind-1D以3D模型为教师做特征对齐知识蒸馏，仅输入序列即可预测，网页工具、数据集与代码均开源。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "PPBind双模型覆盖“有结构用3D、无结构用1D”两类场景，严格划分下Pearson相关系数>0.6，为抗体/蛋白互作亲和力高通量排序提供可直接使用的开源工具。",
+    "conclusion": "PPBind-3D在严格iDist聚类划分下Pearson>0.6、优于PRODIGY等基线；经特征对齐的PPBind-1D在AlphaFold预测结构不可靠时仍稳健（案例中Pearson达0.66），但绝对亲和力数值预测仍是领域共性挑战。",
+    "keywords": [
+      "蛋白互作",
+      "蛋白-蛋白结合亲和力",
+      "PPBind",
+      "深度学习",
+      "知识蒸馏",
+      "几何深度学习",
+      "虚拟筛选",
+      "抗体",
+      "AlphaFold",
+      "蛋白质复合物"
+    ]
+  }
+]
