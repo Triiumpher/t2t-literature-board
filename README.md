@@ -81,7 +81,7 @@
 |---|---|---|
 | `LLM_API_KEY` | 方舟控制台的 API Key | <https://platform.deepseek.com> 的 API Key |
 | `LLM_BASE_URL` | `https://ark.cn-beijing.volces.com/api/v3` | `https://api.deepseek.com` |
-| `LLM_MODEL` | 接入点 ID（`ep-xxxx`）或模型 ID（如 `doubao-1.5-pro-32k`） | `deep-seek-chat` |
+| `LLM_MODEL` | 接入点 ID（`ep-xxxx`）或模型 ID（如 `doubao-1.5-pro-32k`） | `deepseek-chat` |
 
 - 每天最多处理条数由可选环境变量 `LLM_MAX_ITEMS` 控制（默认 60，新增优先、历史按日期回填，分批几天即可把旧库全部中文化）。
 - 单条总结失败会自动回退规则结果，**绝不阻断采集与发信**。
