@@ -47,8 +47,8 @@
 ## 每日时间线（北京时间）
 
 1. **06:35** 助手「每日多专题中文资讯补录」任务检索五个板块的微信/中文媒体，去重后提交 `manual_inbox/` 分片
-2. **07:20** GitHub Actions 主触发（UTC `20 23 * * *`）：①全球多语种资讯检索（`fetch_global_news.py` → `manual_inbox/global-*.json`）→ ②四源论文采集并把 `manual_inbox/` 全部分片（含中文补录与全球资讯）一并去重并入主库 → ③分板块发邮件 → ④提交数据
-3. **08:47** 兜底触发（UTC `47 0 * * *`）：防止 GitHub 高负载漏跑；脚本当日幂等，不会重复发信、不会重复入库
+2. **06:50** GitHub Actions 主触发（UTC `50 22 * * *`，在中文补录分片就绪后）：①全球多语种资讯检索（`fetch_global_news.py` → `manual_inbox/global-*.json`）→ ②四源论文采集并把 `manual_inbox/` 全部分片（含中文补录与全球资讯）一并去重并入主库 → ③分板块发邮件 → ④提交数据（全流程约 10–15 分钟，9 点前送达）
+3. **07:50** 兜底触发（UTC `50 23 * * *`）：防止 GitHub 高负载漏跑/排队延迟；脚本当日幂等，不会重复发信、不会重复入库
 
 ## 一次性配置（Repository Settings → Secrets and variables → Actions）
 
@@ -81,7 +81,7 @@
 |---|---|---|
 | `LLM_API_KEY` | 方舟控制台的 API Key | <https://platform.deepseek.com> 的 API Key |
 | `LLM_BASE_URL` | `https://ark.cn-beijing.volces.com/api/v3` | `https://api.deepseek.com` |
-| `LLM_MODEL` | 接入点 ID（`ep-xxxx`）或模型 ID（如 `doubao-1.5-pro-32k`） | `deepseek-chat` |
+| `LLM_MODEL` | 接入点 ID（`ep-xxxx`）或模型 ID（如 `doubao-1.5-pro-32k`） | `deep-seek-chat` |
 
 - 每天最多处理条数由可选环境变量 `LLM_MAX_ITEMS` 控制（默认 60，新增优先、历史按日期回填，分批几天即可把旧库全部中文化）。
 - 单条总结失败会自动回退规则结果，**绝不阻断采集与发信**。
@@ -97,7 +97,9 @@ python3 scripts/send_digest.py --dry-run       # 生成 state/digest_preview.htm
 python3 -m http.server 8000                    # 浏览器打开 http://localhost:8000 查看看板
 ```
 
-`fetch_global_news.py` 可选参数：`--no-gnews`（仅跑 GDELT）、`--no-gdelt`（仅跑 Google News）、`--days N`（回溯天数）。
+`fetch_global_news.py` 可选参数：`--no-gnews`（仅跑 GDELT）、`--no-gdelt`（仅跑 Google News）、`--no-resolve`（跳过链接还原与 DOI 解析）、`--days N`（回溯天数）。
+
+> **全球资讯链接处理**：Google News 返回的 `news.google.com` 跳转链接在国内无法直接打开。脚本对每条资讯先还原出版方原文 URL；再通过 OpenAlex / Crossref 标题比对（相似度阈值从严）确认身份——**确认为正式期刊文章的，链接改为 `https://doi.org/…` 并填入 DOI，与 PubMed/OpenAlex 等来源按 DOI 统一去重**（同一篇论文不会因来源不同而重复）；**预印本（bioRxiv/medRxiv/arXiv/ChemRxiv/Research Square 等）不转换，保留原链接**；其余新闻稿/报道保留出版方原文链接。看板上 DOI 条目带「📄 DOI 原文」标识、预印本带「预印本」标识。
 
 ## 手动补录一条中文资讯
 
