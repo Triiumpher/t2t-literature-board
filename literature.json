@@ -28,6 +28,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20261024-fa7be63e58",
+    "title": "Decade of residential pesticide exposure tied to blood pressure and cholesterol changes",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-24",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUR1NmtsTFpsb0t4SEtJTGhVWWhwSmI4eExrYkU1RkhVV1N3N19fR1RudjVNUDBfUXVob2J1Y3lkUGllcC1nQks1c1NkTElsQkxXWmZZSlF3QjZuSGU5R204MGhidFR1THRFaUpRbFZHMUxRRG9PUnhGZ000a21qWEtSWE84WEpMbGx1eFFobU9DTEpIRnQ5cS0tSmJHNUlQMjRMTlhZemVGT2Zfd3VCaDhn?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究提示长期居住环境农药暴露与血压及胆固醇变化相关",
+    "conclusion": "标题表明，长达十年的居住环境农药暴露可能与血压和胆固醇指标变化存在关联，提示长期低剂量农药接触或影响心血管代谢健康，但具体机制与因果关系尚待摘要及全文验证。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261024-wild-emmer-t2t-centromere",
     "title": "「Nat Genet」野生二粒小麦近T2T基因组揭示多倍化中着丝粒的拆解与重装",
     "type": "wechat",
@@ -103,15 +132,16 @@
     "doi": "10.1073/pnas.2616836123",
     "pmid": "42912785",
     "abstract": "The first draft diploid genome assembly (HuRef) of an individual in 2007 was a milestone in genomics. Here, we report HuRef2.0, a revision of HuRef assembled using only Oxford Nanopore Technologies (ONT) Simplex-reads and the hifiasm assembler. Results are close in continuity to the telomere-to-telomere (T2T) assemblies but were assembled from standard DNA samples without using multiple sequencing and mapping technologies, including ultra-long-reads and/or proximity-ligation. Three ONT flowcells (~103× coverage) from fresh blood DNA produced an assembly comprising 26 contigs, with gapless assembly of 23 chromosomes (Chr). Two gaps on ChrY were locally assembled to yield the final T2T-assembly, HuRef2.0, with base accuracy >Q60.34 and 2,393 phase blocks with an NG50 value of 2.36 Mb. Assembly from a single ONT flowcell (~35× coverage) consistently produced an assembly more contiguous than GRCh38.p14, providing a foundation for further optimization and scaling. Assembly quality was assessed by direct chromosome-level alignments to a reference genome, variant calling, and annotation of gene-rich regions at Chr22q11, the extended MHC locus, and at several difficult to assemble regions, including the rRNA gene clusters, the subtelomeric region on Chr4q35, ChrY, and the centromeres. More accurate but shorter Pacific Biosciences HiFi-reads produced less contiguous assemblies than from equivalent coverage of error-corrected ONT reads, indicating the importance of read-length. We compared HuRef2.0 to an assembly of a low-passage EBV-transformed lymphoblastoid cell line derived from the same donor. At least at a 400 kb resolution, we did not observe notable structural differences in the two assemblies.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Here, we report HuRef2.0, a revision of HuRef assembled using only Oxford Nanopore Technologies (ONT) Simplex-reads and the hifiasm assembler.",
-    "conclusion": "At least at a 400 kb resolution, we did not observe notable structural differences in the two assemblies.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人类",
+    "takeaway": "仅用ONT Simplex读段组装出近T2T二倍体人类基因组HuRef2.0，碱基准确度超Q60.34。",
+    "conclusion": "研究证明仅凭标准ONT Simplex读段即可获得接近端粒到端粒水平的人类二倍体组装，读长比读段准确度对连续性更关键；与同一供体EBV转化细胞系组装在400kb分辨率下无显著结构差异，为低成本规模化组装提供流程基础。",
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42912832",
@@ -129,14 +159,15 @@
     "pmid": "42912832",
     "abstract": "Wolbachia are widespread bacterial symbionts of arthropods that manipulate host reproduction and can confer fitness benefits, such as protection against viral pathogens. Their self-spreading ability coupled with their antiviral effect has been harnessed in health programmes to curb the transmission of dengue virus by Aedes mosquitoes. In this context, a better understanding of evolutionary dynamics over short timescales is critical to inform and improve the efficacy of Wolbachia-based disease control interventions. Moreover, experimental evolution of Wolbachia may provide a powerful approach for generating novel symbiont strains with improved properties for disease control. Here we generated new mosquito cell lines by introducing five Wolbachia strains from Drosophila into the symbiont-free Aedes albopictus Aa23 cell line. Following transinfection, long-read whole-genome sequencing revealed multiple mutations, including structural changes, some of them being associated with major shifts in bacterial density. Signs of convergent evolution, an excess of non-synonymous mutations and comparisons with previous studies, indicate that Wolbachia evolution in cell culture is predominantly driven by selection and occurs faster than in insect hosts. Altogether, our study demonstrates that cell culture is a valuable tool to investigate short-term symbiont evolution, explore the genetic basis of bacterial density regulation and generate higher-density symbiont strains suitable for disease control.",
     "species_latin": "Aedes albopictus",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Here we generated new mosquito cell lines by introducing five Wolbachia strains from Drosophila into the symbiont-free Aedes albopictus Aa23 cell line.",
-    "conclusion": "Altogether, our study demonstrates that cell culture is a valuable tool to investigate short-term symbiont evolution, explore the genetic basis of bacterial density regulation and generate higher-density symbiont strains suitable for disease control.",
+    "species_en": "Asian tiger mosquito",
+    "species_zh": "白纹伊蚊",
+    "takeaway": "将果蝇五种沃尔巴克氏体转入白纹伊蚊细胞系后，其基因组快速趋同演化并出现密度相关突变。",
+    "conclusion": "细胞培养中沃尔巴克氏体的演化主要由选择驱动，速度快于昆虫宿主，伴随非同义突变富集与结构变异，部分突变与细菌密度大幅变化相关；细胞培养可用于研究短期共生菌演化、密度调控遗传基础并培育高密度菌株。",
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42918599",
@@ -153,15 +184,16 @@
     "doi": "10.1016/j.envpol.2026.129401",
     "pmid": "42918599",
     "abstract": "Epoxiconazole (EPO), a widely used triazole fungicide that can enter aquatic ecosystems through agricultural runoff, poses potential risks to non-target aquatic organisms. Although nano-enabled pesticide formulations can control release and reduce application rates, their toxicological evaluation remains insufficient, particularly with respect to size-dependent biological effects. Here, zebrafish larvae were exposed to free EPO and EPO-loaded mesoporous silica nanoparticles (EPO@MSNs) with particle sizes of 30, 150 and 450 nm to investigate size-associated differences in developmental toxicity and their underlying mechanisms. Overall, EPO exposure induced developmental and neurovascular abnormalities, neurobehavioral impairment, and neurotransmitter imbalance, accompanied by oxidative stress, innate immune activation, inflammation, and apoptosis. Nanoencapsulation reshaped the toxicological profile of EPO, with the overall toxicity, as integrated by PCA, following the order EPO@MSNs-30 < EPO@MSNs-150 < EPO@MSNs-450 < free EPO. Transcriptomic analyses further demonstrated that nanoformulation shifted the dominant molecular responses from metabolism- and detoxification-related processes in free EPO toward nanoparticle-associated intracellular processing in EPO@MSNs-30 and broader extracellular matrix, vascular, and inflammatory responses in EPO@MSNs-450. These findings demonstrate that particle size is associated with both the overall toxicological profile and the molecular response patterns of MSN-based pesticide formulations, providing mechanistic insights for the biosafety assessment and rational design of nano-enabled pesticide formulations.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Epoxiconazole (EPO), a widely used triazole fungicide that can enter aquatic ecosystems through agricultural runoff, poses potential risks to non-target aquatic organisms.",
-    "conclusion": "These findings demonstrate that particle size is associated with both the overall toxicological profile and the molecular response patterns of MSN-based pesticide formulations, providing mechanistic insights for the biosafety assessment and rational design of nano-enabled pesticide formulations.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "斑马鱼幼鱼实验显示，环氧菌唑载入介孔二氧化硅纳米粒后毒性低于游离药物，且粒径越小毒性越低。",
+    "conclusion": "纳米封装改变了环氧菌唑的毒性特征，整体毒性排序为30 nm<150 nm<450 nm<游离药物；小粒径主要引发胞内加工相关响应，大粒径则偏向胞外基质、血管与炎症反应，说明粒径同时影响毒性强度和分子响应模式，为纳米农药的安全评价与设计提供依据。",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42909559",
@@ -178,15 +210,16 @@
     "doi": "10.1007/s10646-026-03179-5",
     "pmid": "42909559",
     "abstract": "Glyphosate, one of the most widely used herbicides globally, is a significant environmental contaminant that may affect non-target organisms crucial to ecosystem services, including biological pest control. While glyphosate targets the shikimate pathway in plants, which is absent in animals, there is increasing evidence that glyphosate induces sublethal effects on arthropod predators. However, the factors modulating these effects remain unclear. Here, we investigated how physiological context, specifically pre-treatment with the broad-spectrum antibiotic tetracycline, commonly used to experimentally alter host associated microbial communities, modulates the sublethal hazard of glyphosate-based herbicide (GBH) on the predatory behavior of adult female Pardosa wolf spiders. Predation efficiency was measured using functional response assays across varying prey densities. Our results showed that GBH significantly reduced the spiders' predation rates, confirming its sublethal toxicity. However, spiders pre-treated with antibiotics exhibited higher capture rates following GBH exposure compared to the GBH only group. These findings demonstrate that the sublethal hazard of GBH on predators is context-dependent and can be altered by antibiotic-sensitive processes (such as host-symbiont interactions). This study highlights the complexity of pesticide effects on ecosystem services and suggests that the functional response of non-target predators depends strongly on their physiological background.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Our results showed that GBH significantly reduced the spiders' predation rates, confirming its sublethal toxicity.",
-    "conclusion": "These findings demonstrate that the sublethal hazard of GBH on predators is context-dependent and can be altered by antibiotic-sensitive processes (such as host-symbiont interactions).",
+    "species_latin": "Pardosa sp.",
+    "species_en": "wolf spider",
+    "species_zh": "狼蛛",
+    "takeaway": "草甘膦基除草剂降低狼蛛捕食率，抗生素预处理可缓解此亚致死效应",
+    "conclusion": "草甘膦基除草剂对雌性狼蛛具亚致死毒性，显著降低其捕食率；但经四环素预处理改变宿主相关微生物后，捕食率回升，说明该毒性依赖宿主共生等抗生素敏感过程，提示农药对生态系统服务的影响受捕食者生理背景调节",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42913090",
@@ -203,15 +236,16 @@
     "doi": "10.1093/g3journal/jkag295",
     "pmid": "42913090",
     "abstract": "The Wuzhishan (WZS) minipig, native to Hainan Province, China, is valuable for both agriculture and biomedicine, creating a need for a telomere-to-telomere (T2T) genome assembly to support breeding and biomedical research. In this study, a gap-free, T2T genome assembly organized into 20 chromosomes was generated for the WZS pig (designated WZS-T2T) using a combination of PacBio HiFi, Oxford Nanopore ultra-long reads, and Hi-C data. The assembly spans approximately 2.68 Gb with a scaffold N50 of approximately 142.87 Mb. High completeness and accuracy were demonstrated by a Quality Value (QV) score of 70.2 and a BUSCO completeness score of 99.3%. A total of 23,100 protein-coding genes were predicted, and telomeres were fully assembled across all 20 chromosomes. Notably, the Y chromosome (ChrY) represents the longest assembled ChrY among published T2T pig genomes. Comparative analyses showed that sex differentiation-related genes (including SRY) and innate immune-related genes (PRKX and DDX3X) are conserved across most porcine Y chromosomes. Conversely, the energy metabolism gene SLC25A4 and the macrophage receptor-related gene CSF2RA were identified exclusively in the WZS-T2T assembly among the analyzed genomes. These gene-content variations on ChrY likely reflect both individual variation and differences in assembly completeness. Overall, a high-quality WZS reference genome was established to support agricultural and biomedical applications.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "The Wuzhishan (WZS) minipig, native to Hainan Province, China, is valuable for both agriculture and biomedicine, creating a need for a telomere-to-telomere (T2T) genome assembly to support breeding and biomedical research.",
-    "conclusion": "Overall, a high-quality WZS reference genome was established to support agricultural and biomedical applications.",
+    "species_latin": "Sus scrofa",
+    "species_en": "Wuzhishan pig",
+    "species_zh": "五指山猪",
+    "takeaway": "研究用多平台测序完成五指山猪无间隙T2T基因组，组装20条染色体并解析Y染色体基因特征。",
+    "conclusion": "构建了约2.68 Gb、QV 70.2、BUSCO 99.3%的高质量五指山猪T2T参考基因组，预测23,100个蛋白编码基因，端粒完整；其Y染色体为已发表猪T2T中最长，携带保守的性别决定与先天免疫基因，并独有SLC25A4和CSF2RA，提示Y染色体基因组成存在个体差异与组装完整性差异，为育种和生物医学研究提供参考。",
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex;PubMed"
+    "via": "OpenAlex;PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42911856",
@@ -231,12 +265,13 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Here, using diverse cellular models and omics methods, we demonstrate that HAP40 is an obligate interaction partner of HTT and through its binding controls HTT interactions and the abundance of HTT-associated proteins, indicating that it functions as a HTT interaction regulatory",
-    "conclusion": "Together, these results establish HAP40 as a critical proteostasis regulator that through controlling HTT interactions maintains cellular homeostasis.",
+    "takeaway": "HAP40是HTT的必需结合伴侣，通过调控HTT互作与蛋白稳态，影响突变HTT的分泌与降解。",
+    "conclusion": "HAP40作为HTT互作调控单元，维持HTT相关蛋白丰度；其缺失会损害自噬降解、激活CLEAR网络，并促使约205 kDa突变HTT片段经内质网/高尔基途径分泌，从而减轻胞内蛋白毒性，表明HAP40是维持细胞稳态的关键蛋白稳态调控因子。",
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42911460",
@@ -254,14 +289,15 @@
     "pmid": "42911460",
     "abstract": "Chlorpyrifos (CPF) is a widely used organophosphate insecticide, yet ecotoxicological evidence for marine organisms in Latin America, particularly under co-exposure with other pollutants, remains limited. We assessed the acute toxicity of CPF alone and in mixtures with low (100 µg/L) and high (1000 µg/L) concentrations of polyethylene nanoplastics (PE-NPs) in the marine amphipod Parhyale hawaiensis. Neonate mortality and immobility were evaluated over 96-h exposures. The CPF+NPs_Low mixture showed the highest toxicity for mortality (LC50 = 0.25 µg/L) and immobility (EC50 = 0.06 µg/L), compared with CPF+NPs_High (LC50 = 0.57 µg/L; EC50 = 0.11 µg/L) and CPF alone (LC50 = 0.32 µg/L; EC50 = 0.1 µg/L). Acute CPF toxicity data for marine organisms of Latin American origin were also compiled to develop a regional SSD and a preliminary ecological risk assessment (ERA), alongside a broader non-Latin American dataset for comparison. The analysis revealed substantial uncertainty across estimates, reflecting important gaps in the quantity, quality, and representativeness of regional ecotoxicological data. Overall, P. hawaiensis showed high sensitivity to CPF, and co-exposure to NPs modified its toxicity. These findings highlight the need to address regional ecotoxicological data gaps and to consider mixture effects in the CPF ERA for Latin American coastal ecosystems.",
     "species_latin": "Parhyale hawaiensis",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Chlorpyrifos (CPF) is a widely used organophosphate insecticide, yet ecotoxicological evidence for marine organisms in Latin America, particularly under co-exposure with other pollutants, remains limited.",
-    "conclusion": "These findings highlight the need to address regional ecotoxicological data gaps and to consider mixture effects in the CPF ERA for Latin American coastal ecosystems.",
+    "species_en": "Hawaiian amphipod",
+    "species_zh": "夏威夷小钩虾",
+    "takeaway": "低浓度纳米塑料增强毒死蜱对夏威夷小钩虾的急性毒性，提示混合物效应应纳入区域风险评估",
+    "conclusion": "夏威夷小钩虾对毒死蜱高度敏感，低浓度聚乙烯纳米塑料与毒死蜱共暴露时毒性最强，高浓度反而减弱；区域毒性数据存在数量与代表性不足，拉丁美洲海岸毒死蜱风险评估需考虑混合物效应并填补数据缺口",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42911032",
@@ -278,15 +314,16 @@
     "doi": "10.1128/spectrum.02941-25",
     "pmid": "42911032",
     "abstract": "The photosensitive compound hypocrellin, derived from the traditional Chinese medicinal fungus Shiraia bambusicola Henn., shows potential as a novel pesticide. To evaluate its efficacy against bacterial wilt disease caused by Ralstonia solanacearum in tobacco, this study examined its antibacterial mechanisms through in vitro experiments and analyzed their impact on tobacco endophytic microbiota. An optimized hypocrellin offering a promising sustainable formulation-with a 2:3 ratio of hypocrellin A to hypocrellin B-was developed for enhanced antibacterial activity, and its interaction with bacterial DNA, intracellular components, and membrane integrity was systematically investigated. Hypocrellins exhibited strong antibacterial effects by disrupting the cell wall and membrane integrity of R. solanacearum, increasing membrane permeability, and inducing the leakage of intracellular K+, soluble proteins, and reducing sugars. Dual DNA-binding mechanisms were suggested: electrostatic adsorption to phosphate groups, followed by groove insertion, and intercalation between base pairs. In tobacco plants, hypocrellin treatment significantly altered the endophytic microbial community, increasing microbial richness and diversity, increasing the proportion of Bacillota and Pseudomonadota, and significantly reducing pathogen abundance. Predictive functional analysis based on PICRUSt2 suggested that hypocrellin may have influenced metabolic pathways associated with microbial basal metabolic activity and proliferation potential. Hypocrellins mitigate R. solanacearum infection through multi-target mechanisms: physical disruption of bacterial membranes and DNA, restoration of beneficial endophytic microbiota, and activation of metabolic pathways critical for plant defense.IMPORTANCEThis study highlights the multi-target antibacterial mechanisms and microbiome-modulating effects of hypocrellin, offering a promising candidate for a sustainable strategy for controlling soil-borne diseases. Unlike conventional chemical pesticides, hypocrellin acts through physical disruption of bacterial membranes and DNA interaction, while simultaneously restoring beneficial endophytic microbiota and activating metabolic pathways critical for plant defense in tobacco. Its ability to suppress Ralstonia solanacearum and enhance microbial ecological balance positions hypocrellin as both an effective antibacterial agent and a microbiome regulator. These findings provide a scientific basis for developing hypocrellin-based bio-pesticides and support further research into its application in eco-friendly agricultural practices.",
-    "species_latin": "Ralstonia solanacearum",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "The photosensitive compound hypocrellin, derived from the traditional Chinese medicinal fungus Shiraia bambusicola Henn., shows potential as a novel pesticide.",
-    "conclusion": "These findings provide a scientific basis for developing hypocrellin-based bio-pesticides and support further research into its application in eco-friendly agricultural practices.",
+    "species_latin": "Nicotiana tabacum; Ralstonia solanacearum; Shiraia bambusicola",
+    "species_en": "tobacco; Ralstonia solanacearum; Shiraia bambusicola",
+    "species_zh": "烟草；青枯雷尔氏菌；竹小肉座菌",
+    "takeaway": "光敏化合物竹红菌素通过破坏青枯菌细胞膜与DNA并重塑烟草内生菌群来防治青枯病",
+    "conclusion": "竹红菌素以A:B=2:3配比增强抗菌活性，通过破坏青枯菌细胞壁与膜完整性、引起钾离子和胞内物质泄漏，并以静电吸附、沟槽插入和碱基对嵌插双重方式结合DNA；在烟草体内还能提高内生菌丰富度与多样性、增加厚壁菌门和假单胞菌门比例并降低病原菌丰度，经PICRUSt2预测影响基础代谢与增殖相关通路，从而以多靶点机制减轻青枯病，为土传病害绿色防控提供候选。",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42910637",
@@ -304,14 +341,15 @@
     "pmid": "42910637",
     "abstract": "Huanglongbing (HLB), caused by the phloem-restricted bacterium Candidatus Liberibacter (CLas) vectored by the Asian Citrus Psyllid (Hemiptera: Psyllidae; ACP), has led to billion-dollar losses in the global citrus industry. Pharmacological inhibition of inward rectifier potassium (Kir) channels leads to acute mortality and inhibits CLas acquisition by ACP through salivary gland-directed antifeedant activity. Here, we designed a series of analogs that shifted synthetic Kir inhibitors toward a more biogenic chemical space through systematic modification of VU730 (C17H19N3O2). Analog 7c, which contains a benzimidazole core as the northern fragment, caused ∼50% morbidity at 10 ng/cm2 48 h after tarsal contact exposure and had greater efficacy to feeding disruption than VU730. These data define tractable structural features for identification of natural Kir inhibitors that may possess toxic and antifeedant properties and identify VU730 and 7c as priorities for development of novel mechanism insecticides for HLB prevention.",
     "species_latin": "Diaphorina citri",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Huanglongbing (HLB), caused by the phloem-restricted bacterium Candidatus Liberibacter (CLas) vectored by the Asian Citrus Psyllid (Hemiptera: Psyllidae; ACP), has led to billion-dollar losses in the global citrus industry.",
-    "conclusion": "These data define tractable structural features for identification of natural Kir inhibitors that may possess toxic and antifeedant properties and identify VU730 and 7c as priorities for development of novel mechanism insecticides for HLB prevention.",
+    "species_en": "Asian Citrus Psyllid",
+    "species_zh": "亚洲柑橘木虱",
+    "takeaway": "以VU730为起点经骨架跃迁设计天然产物类Kir抑制剂类似物，7c对亚洲柑橘木虱具杀虫与拒食活性",
+    "conclusion": "系统性改造VU730获得苯并咪唑类类似物7c，其经跗节接触在10 ng/cm2下48小时致约50%发病，且拒食效果优于VU730；研究明确了可改造的结构特征，为开发靶向Kir通道的新型机制杀虫剂、阻断CLas获取以防控柑橘黄龙病提供候选分子。",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "doi-10.1007/s11046-026-01105-1",
@@ -382,15 +420,16 @@
     "doi": "10.34133/csbj.0241",
     "pmid": "42909219",
     "abstract": "Long noncoding RNAs (lncRNAs) possess diverse biological functions and play key regulatory roles in biological processes by interacting with other biomolecules, such as proteins, RNAs, and the genome. High-throughput RNA-interaction experiments have generated large volumes of lncRNA-protein interaction records. The fragmented deposition of these records across disparate public databases complicates unified retrieval and integrative analysis. Here, we present HuRInterDB (Human lncRNA-Protein Interaction Database), a comprehensive and standardized database that focuses on human lncRNA-protein interactions. HuRInterDB is a user-friendly database designed to provide an integrated resource of lncRNA-protein interaction data from 621 high-throughput datasets (encompassing 2,440,594 lncRNA-protein interactions derived from 36,184 lncRNAs and 14,888 proteins) and to support functional research on lncRNA. The web interface supports interactive searching and visualization of lncRNA-protein associations. This curated resource streamlines integrative analysis of lncRNA-protein interactions and provides a standardized foundation for future computational and experimental studies. Distinctive features include an integrated analysis module that enables interactive visualization of protein-protein interaction networks, functional word clouds, and Gene Ontology enrichment bubble plots for any queried lncRNA, as well as download functionality. HuRInterDB is freely accessible at https://nwu26-hurinterdb.share.connect.posit.cloud/, with semiannual updates and complete data downloads.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Here, we present HuRInterDB (Human lncRNA-Protein Interaction Database), a comprehensive and standardized database that focuses on human lncRNA-protein interactions.",
-    "conclusion": "HuRInterDB is freely accessible at https://nwu26-hurinterdb.share.connect.posit.cloud/, with semiannual updates and complete data downloads.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "HuRInterDB整合621套高通量数据，收录244万条人类lncRNA-蛋白互作记录，支持检索与可视化分析。",
+    "conclusion": "该数据库将分散于公共资源的人类lncRNA-蛋白互作数据标准化整合，覆盖3.6万余lncRNA与1.5万蛋白，并提供蛋白互作网络、功能词云和GO富集等交互分析模块，为后续计算与实验研究奠定统一数据基础。",
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42908193",
@@ -407,15 +446,16 @@
     "doi": "10.1002/ps.71429",
     "pmid": "42908193",
     "abstract": "BACKGROUND: Euschistus heros (Fabricius, 1798) is a major soybean pest in Brazil, managed primarily with chemical insecticides. From 2017 to 2026, we monitored temporal variation in susceptibility and spatial variation in control failure likelihood (CFL) of E. heros populations from Rio Grande do Sul State, southern Brazil, to pyrethroids and neonicotinoids. Mortality was assessed using insecticides alone or in pre-formulated mixtures at the highest recommended field rates. RESULTS: Mortality varied among populations and soybean growing seasons for all insecticides evaluated. Susceptibility to λ-cyhalothrin and acetamiprid was low but variable across populations until 2024/25 and particularly low in 2025/26, when mortality was <17% for most populations exposed to λ-cyhalothrin and <37% for all populations exposed to acetamiprid. Bifenthrin and imidacloprid showed more recent declines in susceptibility, with mortality of 33.3-56.7% and 26.2-83.3%, respectively, in 2025/26. Among pre-formulated mixtures, susceptibility to λ-cyhalothrin + acetamiprid and bifenthrin + acetamiprid also declined in recent seasons, whereas λ-cyhalothrin + imidacloprid retained comparatively high activity. CFL was consistently high for λ-cyhalothrin, reaching ~ 96% in some populations at some locations, and increased recently for acetamiprid and imidacloprid and some acetamiprid-based mixtures. Overall, susceptibility showed distinct temporal trajectories among insecticides, whereas CFL varied substantially among populations. CONCLUSIONS: Persistently low susceptibility of E. heros to λ-cyhalothrin and acetamiprid, together with recent declines for bifenthrin, imidacloprid and some pyrethroid-neonicotinoid mixtures, indicate reduced insecticide performance under laboratory conditions relative to the selected efficacy threshold. These findings highlight the need for continued susceptibility monitoring and insecticide resistance management strategies based on effective insecticides with distinct modes-of-action to preserve field efficacy. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "BACKGROUND: Euschistus heros (Fabricius, 1798) is a major soybean pest in Brazil, managed primarily with chemical insecticides.",
-    "conclusion": "These findings highlight the need for continued susceptibility monitoring and insecticide resistance management strategies based on effective insecticides with distinct modes-of-action to preserve field efficacy.",
+    "species_latin": "Euschistus heros",
+    "species_en": "Neotropical brown stink bug",
+    "species_zh": "英雄美洲蝽",
+    "takeaway": "巴西南部大豆蝽对拟除虫菊酯和新烟碱类杀虫剂敏感性下降，防效失败风险高",
+    "conclusion": "Euschistus heros对λ-氯氟氰菊酯和啶虫脒的敏感性持续偏低，近期联苯菊酯、吡虫啉及部分混剂敏感性也下降，而λ-氯氟氰菊酯+吡虫啉仍保持较高活性；防效失败风险因种群和地点差异明显，需持续监测并采用不同作用机制药剂进行抗性治理。",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42908188",
@@ -433,14 +473,15 @@
     "pmid": "42908188",
     "abstract": "BACKGROUND: Environmental DNA (eDNA) metabarcoding is a revolutionary tool for monitoring biodiversity. In addition, eDNA can also detect the presence and frequency of nuclear genomic mutations in single-species assays. In agricultural systems, this could provide a powerful tool for detecting and estimating the relative frequency of pesticide resistance mutations in pest arthropods, enabling more targeted resistance management. RESULTS: We tested the possibility of using eDNA to detect the presence and frequency of mutations in the voltage-gated sodium channel (VGSC) conferring pyrethroid resistance in the cabbage-stem flea beetle (CSFB; Psylliodes chrysocephala). We first tested the efficiency of eDNA for detecting mutations with a laboratory experiment, in which beetles with known resistance mutations were allowed to interact with cabbage (Brassica rapa) leaves. We then tested our approach with two field experiments. First, rapeseed (Brassica napus) leaves and individual beetles were collected to compare the relative frequencies of SNPs obtained from eDNA and conventional specimen-based genotyping. Second, we used previously collected rapeseed stem-bulk samples from various fields to explore the prevalence of resistance mutations. We show that plant-derived eDNA can provide insights into the presence and frequency of resistance mutations, which are comparable to single beetle genotyping. CONCLUSIONS: This study shows how eDNA is an efficient and scalable tool for pesticide resistance monitoring in agriculture, laying the foundations for future studies on resistance detection with eDNA and paving the way for precision agriculture. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
     "species_latin": "Psylliodes chrysocephala",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "We show that plant-derived eDNA can provide insights into the presence and frequency of resistance mutations, which are comparable to single beetle genotyping.",
-    "conclusion": "CONCLUSIONS: This study shows how eDNA is an efficient and scalable tool for pesticide resistance monitoring in agriculture, laying the foundations for future studies on resistance detection with eDNA and paving the way for precision agriculture.",
+    "species_en": "cabbage-stem flea beetle",
+    "species_zh": "甘蓝茎跳甲",
+    "takeaway": "利用植物来源eDNA可检测并估算甘蓝茎跳甲对拟除虫菊酯抗性突变的频率，效果与单虫基因分型相当。",
+    "conclusion": "植物来源eDNA能反映害虫抗性突变的存有及频率，与逐头基因分型结果可比，为农业抗药性监测提供高效、可扩展的手段，并为精准农业奠定基础。",
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed"
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-42905012",
@@ -618,6 +659,32 @@
     "species_zh": "埃及伊蚊",
     "takeaway": "在秘鲁伊基托斯开展整群随机试验，靶向室内滞留喷洒可大幅降低埃及伊蚊室内密度并产生间接效果",
     "conclusion": "使用甲基嘧啶磷的靶向室内滞留喷洒在喷洒户中15天时使埃及伊蚊密度下降96%，255天时仍下降40%；未喷洒户也出现间接效果，15天时下降69%，但至255天时仅剩7%。即使覆盖率仅57%，早期和8个月后仍有显著影响，说明该手段在中等覆盖率下仍具昆虫学价值，可用于预防性和应急性媒介控制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42913189",
+    "title": "Lycopene attenuates imidacloprid-induced cardio-renal toxicity with concomitant modulation of KIM-1, SLC22A2, TNNT2, and Caspase-3 expression in male Wistar albino rats",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tissue & cell",
+    "authors": "Eid MM, El-Sayed YS, El-Dakroury MF, Abdeen A, Shukry M, Abdelrahman D, Abdelhiee EY.",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-24",
+    "url": "https://europepmc.org/article/MED/42913189",
+    "doi": "10.1016/j.tice.2026.104081",
+    "pmid": "42913189",
+    "abstract": "Imidacloprid (IMI), a widely used neonicotinoid insecticide, induces systemic organ toxicity at sub-lethal doses; however, the relative susceptibility of cardiac and renal tissues and organ-differential protection by lycopene (LYC) have not been experimentally investigated. This study characterized subacute IMI-induced cardio-renal toxicity and evaluated LYC co-administration. Thirty-two adult male Wistar albino rats were allocated to four groups (n = 8): Control, LYC (10 mg/kg/day), IMI (90 mg/kg/day), and LYC + IMI, and received treatments orally for 28 days. Tissue MDA, GSH, GSSG, TNF-α, and IL-6 were measured in cardiac and renal homogenates; mRNA expression of TNNT2, ANP, KIM-1, SLC22A2, and Caspase-3 was profiled by qRT-PCR; and serum biomarkers and histopathology were assessed. IMI produced significant injury in both organs (p < 0.05). Renal tissue showed greater deviation from controls in most parameters (8 of 11), suggesting greater renal susceptibility: higher MDA (3.38- vs. 2.00-fold), TNF-α (4.92- vs. 3.66-fold), Caspase-3 (3.99- vs. 2.14-fold), KIM-1 (2.88-fold), creatinine (3.02-fold), and lesion scores (renal Median 3.0 vs. cardiac Median 2.0) with tubular degeneration, necrosis, desquamation, and thickening glomerular basement membrane. Cardiac tissue showed selective vulnerability with IL-6 (7.99-fold), GSH/GSSG collapse (to 0.29 × control), TNNT2 downregulation, ANP upregulation, and 5.11-fold CK-MB increase, along with myofibrillar disorganization, focal necrosis, and inflammatory infiltration. LYC provided potential renal protection, with recoveries of 71% for MDA, 65% for TNF-α, 63% for Caspase-3, and 84% creatinine, together with amelioration of renal lesions (62% recovery), whereas cardiac protection was statistically significant for most parameters but less complete, particularly for inflammatory and gene expression endpoints, with partial preservation of myocardial architecture. In conclusion, IMI causes multi-pathway cardio-renal toxicity mainly affecting the kidney; LYC co-administration offers significant renal and some cardiac protection by reducing oxidative, inflammatory, apoptotic, and organ injury markers. These results support further investigation of LYC as a nephro- and cardioprotective supplement against neonicotinoid toxicity.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Wistar albino rat",
+    "species_zh": "Wistar白化大鼠",
+    "takeaway": "吡虫啉致大鼠心肾毒性以肾更敏感，番茄红素可减轻氧化、炎症与凋亡损伤",
+    "conclusion": "亚急性吡虫啉暴露通过氧化应激、炎症和凋亡通路造成心肾损伤，肾脏易感性更高；番茄红素共处理可显著缓解肾损伤并对心脏提供部分保护，其作用与下调KIM-1、Caspase-3及调节SLC22A2、TNNT2表达相关。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -1836,6 +1903,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42916041",
+    "title": "Structural Modifications Redirect Phenylpyrazole Ectoparasiticides from the Ion Channel Pore to an Allosteric Site on GABA Receptors",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Zhou T, Cheng Z, Xie H, Liu A, Li S, Qiao X, Huang J.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-24",
+    "url": "https://europepmc.org/article/MED/42916041",
+    "doi": "10.1021/acs.jafc.6c09630",
+    "pmid": "42916041",
+    "abstract": "Phenylpyrazole ectoparasiticides, exemplified by fipronil, act as noncompetitive antagonists of arthropod GABA receptors by blocking the ion channel pore. Here, we investigated the molecular mechanism of the newer phenylpyrazole nicofluprole using Drosophila melanogaster. CRISPR/Cas9-mediated mutagenesis and pharmacological assays showed that A301 substitutions in the pore-forming TM2 helix conferred strong resistance to fipronil but had little effect on nicofluprole sensitivity. In contrast, G335 mutations in TM3 markedly reduced nicofluprole activity. Molecular docking supported these findings, indicating that nicofluprole binds at the transmembrane subunit interface rather than within the central pore, consistent with allosteric modulation. These results demonstrate that structural modification of the phenylpyrazole scaffold can redirect target-site engagement from the pore to an allosteric site, explaining the lack of cross-resistance with traditional pore blockers and expanding strategies for GABA receptor-targeted insecticide design.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "以果蝇为模型发现，结构改造后的苯吡唑类杀虫剂nicofluprole不再堵塞GABA受体孔道，而是结合于跨膜亚基界面的别构位点。",
+    "conclusion": "A301突变使果蝇对氟虫腈产生强抗性，却几乎不影响nicofluprole；G335突变则显著降低nicofluprole活性，分子对接也支持其结合于跨膜亚基界面而非中央孔道。这表明改造苯吡唑骨架可将作用位点由孔道转向别构位点，从而避免与传统孔道阻断剂的交互抗性，为靶向GABA受体的杀虫剂设计提供新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42916036",
+    "title": "Comparing the Impacts of a Biopesticide and a Synthetic Pesticide on Potato Production: A Multi-Omics Analysis of Carvacrol and Dimethomorph",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Wang W, Huang W, Knight SJ, Müller K, Cheng L, Xiang F, Long J, Kah M.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-24",
+    "url": "https://europepmc.org/article/MED/42916036",
+    "doi": "10.1021/acs.jafc.6c09742",
+    "pmid": "42916036",
+    "abstract": "Long-term application of synthetic pesticides for potato late blight control has raised many ecological concerns, while broader impacts of biopesticides on production systems remain unclear. Field trials compared the effects of pesticides dimethomorph (synthetic) and carvacrol (biological) against an untreated control in a potato production system, integrating untargeted metabolomics, metabarcoding and quality trait analyses. Compared with the control group, both pesticide treatments upregulated tuber lipid metabolism but downregulated leaf defense-associated metabolism. For rhizosphere communities, while both treatments reduced beneficial bacterial taxa, carvacrol exerted less suppressive effects than dimethomorph and resulted in superior pathogen suppression. These changes were associated with enhanced potato quality under carvacrol treatment, with starch, flavonoid, and vitamin C contents each more than 10% higher than under dimethomorph. This study highlights the importance of evaluating both productivity end points and soil ecological consequences in field conditions, providing novel insights into the integration of biopesticides in sustainable crop production.",
+    "species_latin": "Solanum tuberosum",
+    "species_en": "Potato",
+    "species_zh": "马铃薯",
+    "takeaway": "田间多组学比较发现，香芹酚生物农药比烯酰吗啉更少抑制根际有益菌、更能抑制病原，并提升马铃薯品质。",
+    "conclusion": "两种农药均上调块茎脂质代谢、下调叶片防御代谢并减少根际有益细菌；但香芹酚对有益菌抑制更轻、病原抑制更强，使淀粉、黄酮和维生素C含量均比烯酰吗啉处理高10%以上，说明生物农药更利于可持续马铃薯生产。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -3999,6 +4118,64 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20261001-4d204810ee",
+    "title": "Legal Petition Urges Trump Officials to Protect America’s Food From Pesticide Residues",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Center for Biological Diversity",
+    "authors": "",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHNUXzhCVkdZODRUWUIyRVpHRW1EbVJaX0hoZE9qZWE1Zzlva05RUE1yMFpxd053amhwN0dJa2NlY21fallSV3dTNmM4blNkMmpaRlRzTTRqbnV5ZFpwWnJsUGtRVElTbW9vQ21RSHFnSENNbnhLM1N6bDhBZ2wzcXE4Sy1GZ2oxalo4d1pqNkU3aDdray1yVXdfS3ZNR3hsR2xTY3V1Y2xlUDg3QWNJQW9xRUxxc2VRbnBsQkN2U0R4OWdCS19jRlgyMnh5aWVpaGZYRmFaaWRMOWxNQks3ek9qdkF0Zw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "某团体提交法律请愿，要求特朗普政府加强监管以保护美国食品免受农药残留危害。",
+    "conclusion": "该请愿呼吁美国监管机构采取措施限制食品中的农药残留，以保障食品安全；具体机制与科学证据未在标题中说明。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261001-3f71e27698",
+    "title": "Petition calls for US actions to lower pesticide residues in food",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The New Lede",
+    "authors": "",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXdnZzVZU2ZHYng0anBlMzU5T0Z2RzZzMzRJVFpZeXI2b2NBdHlsZDZhbmxiM1dtVEtFZW1VTjhvT25Fd3dJaEJXUTVqRklYR05vdWFCelN2eFRtaXEyclJKT1hEMEhDTFdPMGVvMG9DNlowcTVjWmgwdzVQMXdRYXFDdE1HaWt3ejUxelpqYkdVaTVxZlZROW1TSFdFc3ZlRnZN?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "请愿呼吁美国采取措施降低食品农药残留",
+    "conclusion": "该请愿要求美国相关机构采取行动减少食品中的农药残留，但标题未提供具体机制或研究数据，科学意义尚不明确。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42889974",
     "title": "2,4-Dichlorophenol Photodegradation by Novel Burtite-like Solid Solutions: Effect of Sn4+ and Al3+ Content on the Physicochemical Properties and Photocatalytic Performance",
     "type": "paper",
@@ -5093,6 +5270,35 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260928-30c0589e07",
+    "title": "Colorado, FTC settlement with Corteva, Inc. lowers pesticide prices for farmers",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Colorado Attorney General (.gov)",
+    "authors": "",
+    "publish_date": "2026-09-28",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGQ1QUFIMWhfeFdTTEZtSkVQR3hWV0Q1T0NCLWFfaUgxZXZaUDJIRjdnbHV1RjRaallJYVFWVW0tUzFjMl9IRWtaTUpLaTEwd3BOcEFLb05vd29fcGwzZ0NOYXIwQThZQXBPQ08wTW5oY2M1Skwwa0ZOaERjVHpma3BBb1BwazdrbjFHd1JvcWFycVM4QU9OWHhTWWlTR29Fa2FXQjNaRGVtMjFNX1E?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "科罗拉多州与FTC同Corteva达成和解，降低农民农药价格。",
+    "conclusion": "该和解针对Corteva公司，旨在通过监管干预降低农药价格，减轻农民成本负担，体现反垄断执法对农业投入品市场的影响。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -11567,6 +11773,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260831-71d1410cba",
+    "title": "Trump Administration Sued for Approving ‘Forever Chemical’ Pesticide Trifludimoxazin",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Center for Biological Diversity",
+    "authors": "",
+    "publish_date": "2026-08-31",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTXFQYzA2emhtMnY4NkdBX3VTSHZLVDM5Rkl2Tlo3WWs0b3hibFZBYWJvLWJuWHhEUW5VUm5pWTM5Qm44VlNEV0Z0N0RXdEFmN0xGenh1RlB1QldoRFBmV1FlRFJQWkpITllfaVNJSnFwdmZoeWhrQUdlMjJJYjlib1lOY3lITVVYbTFRQ01tdzVvbnhMenJreWRUeFA2N1NLcldwUmd3OWl0c1l5Y1l4VXJIVjJzRTN0V3FNSENLZ05xYVZoZDFFVEJYSEpKN3BNNjFhajctLTVWZEpoWlozcV9n?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "因批准持久性化学农药trifludimoxazin，特朗普政府被起诉",
+    "conclusion": "该报道标题显示，相关方就特朗普政府批准农药trifludimoxazin提起诉讼，该农药被称为“永久化学品”；因无摘要，具体机制与科学意义无法确定。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42726559",
     "title": "Construction of Azadirachtin-Loaded Mesoporous Silica Nanoparticles and Their Fast-Acting Insecticidal Activity Against the Mangrove Defoliator Hyblaea puera",
     "type": "paper",
@@ -12921,8 +13156,8 @@
     "authors": "",
     "publish_date": "2026-08-25",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vWUNXRTZQc2tJeVJjWjB6SXB5ajVXdG1RMkVUcko4VnphcVdMUDE0clJYTUxzZHV4RHNXVnA2VGVLMTJnYzhDUmNGU2dJQXNpU0gwNkhYY1p5VGx0ZGY0?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41467-026-77112-z",
+    "doi": "10.1038/s41467-026-77112-z",
     "pmid": "",
     "abstract": "",
     "species_latin": "Homo sapiens",
@@ -12936,7 +13171,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "pmid-42695288",
@@ -13838,6 +14074,35 @@
     ]
   },
   {
+    "id": "news-20260818-3855eca465",
+    "title": "State board proposes updating certain pesticide rules amid conservation concerns",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "New Hampshire Bulletin",
+    "authors": "",
+    "publish_date": "2026-08-18",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUGtkWmhaM2FtWW5LZGZiVVc3ZzM1TDJvdjQ3VE5TalY1bkcxdUZGQWJZdndMR1g1TEdDUjllemtFZ2Y3aUtiNWs0WklSMjJwdmdrSEZWb3NJWGNXSTBkYXhuZ2dtWEpaZlRLWTdJX0xET0YxSlJMWk5OZHZlNTJRYWgxWGphbUhoRHhLUWhTd1V0Wm9waUlBcm11YlFLeFZYQmJqUTlmYUE4YXB3OVlvdXdBNC1uVUVpUjRZeXdTby1Qc3c?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "某州委员会出于保护考量提议修订部分农药管理规则。",
+    "conclusion": "该报道标题显示，某州级委员会针对现行农药法规提出更新建议，动因涉及生态保护关切；具体修订内容、涉及农药种类及科学依据在材料中未给出，无法进一步判断其机制或影响。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.1002/qub2.70051",
     "title": "Telomere‐to‐telomere CHM13 reference reveals missing truth variants and improves deep learning‐based variant calling in long‐read sequencing data",
     "type": "paper",
@@ -14061,8 +14326,8 @@
     "authors": "",
     "publish_date": "2026-08-13",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JeUdBSmJUOXhSOVNicTJfbVRQVUQ1a1pQR2dCdGtuUnE0aEFLekNZMXBaYmVqSHZGZ1VQTC1LZ3RtMHpTYXo3TGs1cEU5VkVtOEFZSHhqVDZfUjZDZk1B?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s44488-026-00010-2",
+    "doi": "10.1038/s44488-026-00010-2",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -14076,6 +14341,36 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true,
+    "link_kind": "doi"
+  },
+  {
+    "id": "news-20260813-e1af481bba",
+    "title": "This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The New York Times",
+    "authors": "",
+    "publish_date": "2026-08-13",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2xsNENwdkQza3J1QnluQXFjVlc0VTBGcXIzbUx1SFprVDlQYnhlOFRsSEpFYmJaNFZfSW1JcE56TEdRZ3FQbWlrVS1FUmhUbGl0REd0WkJYVGhrbWJyMHlFZXJhWDZOcTVEQ0FIZlNvbnpyRmNpeWVaaG51Y2M4dl9nNkhaM1RGMjNFOWNuSUpSUQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "围绕一种被认为危害过大却仍被农民需要的农药展开讨论。",
+    "conclusion": "标题反映该农药在安全性上存在争议，监管与农业生产需求之间形成矛盾，但缺乏摘要无法给出具体机制或研究结论。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -14698,6 +14993,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260806-fab4fbe75e",
+    "title": "Senate Republicans vote down Farm Bill amendment on pesticide liability",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The New Lede",
+    "authors": "",
+    "publish_date": "2026-08-06",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGw5UlRJVTV0NlpFV1VYUzFoZmUwT2JJbUcxUm5hQThieDhOVW1RSkFkOXFkbjFZUTBWaHhUOGppZHVFYzZmRUpTTDhjX0lqZjdyZk95c1ZFSDhSTzExTnVDZFUtUkc0TjRBUHNscm1QenM4a1ZqRTJkZjZkUkRXLUZzNjRodE9H?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "美参院共和党否决农业法案中有关农药责任的修正案",
+    "conclusion": "该报道显示，美国参议院共和党人投票否决了一项针对农业法案的修正案，该修正案涉及农药责任问题，反映出国会在农药监管与责任归属上的立法分歧。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42570479",
     "title": "IMI targets abnormal lipid metabolism by inhibiting intestinal TAS2Rs",
     "type": "paper",
@@ -14963,6 +15287,35 @@
       "稻纵卷叶螟功能基因组学"
     ],
     "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260730-5b415a5f5e",
+    "title": "Reflections on pesticide regulation from a “recovering” EPA chemist",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The New Lede",
+    "authors": "",
+    "publish_date": "2026-07-30",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1dZVWoxeVIxa1dobFY2MGxFVVhSZDctMC1CVUkya1B1Yy1BX2t6NHZGajVTUllwaThBRUxkY0JSa0pYdVpNcUw1Y3hoMVQxaDZBYW41V1RXb3JDbklZaDhacmt2bm9ULUNKS0RseTNPNE9VZjd3b1o5ZHpUZ1FlSGhFTDdWWWhTUl9jMFhWMTA4UmpBbUkzWHhvOVNudDhqNjZJ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "一位前EPA化学家反思现行农药监管体系。",
+    "conclusion": "该文为观点性反思文章，作者以曾在EPA任职的化学家身份审视农药监管的现状与不足，可能涉及评估方法、数据要求或政策执行层面的批评与改进建议；因无摘要，具体机制与发现无法确定。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -15812,8 +16165,8 @@
     "authors": "",
     "publish_date": "2026-07-13",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hWXprQVh4UkNlQVVTSVpaVnhnOFo3V0hWek53MHVMUnNtbjVXalRJWXhSNTF1SmtzTXBGOTN6R1dqeDZYNEJ2YzBmTDNxMW9zT0FrempvNy1XU0p4TDZv?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41467-026-75445-3",
+    "doi": "10.1038/s41467-026-75445-3",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -15827,7 +16180,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "pmid-42442277",
@@ -16384,6 +16738,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260617-e1983f3174",
+    "title": "Michigan adopts the new National Pesticide Applicator Certification Core Manual",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Michigan State University",
+    "authors": "",
+    "publish_date": "2026-06-17",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFdZT1JnMG1OZUxzZ2dFU3ZtZ1pVSmF0UGl1M2FVQ0R5Qnk5RWozVmJxdldCQW1scXJ3T3VNc0xIZUN6WnNhOVVoVHhrUE1LVXI3dTc1VXZFSVZRYnlTdXhGdWJHRHpZZThiVFp1MjJ0RWRZcTBVZlY4TDllVVhfYlBlYlJqel9mOGxraWpXMUFYbDdXbEd1LWY4b1B5Nk4zbGlBNWlzemVFWEJManc?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "密歇根州采用新版国家农药施用者认证核心手册，更新当地农药施用者认证依据。",
+    "conclusion": "密歇根州采纳新版国家农药施用者认证核心手册，作为农药施用者认证培训与考核的参考标准，体现该州农药使用管理向全国统一教材看齐。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42891196",
     "title": "GSAman: A gene-structure annotation manual curator for functional genomics research",
     "type": "paper",
@@ -16511,6 +16894,35 @@
       "昆虫性别决定演化机制"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260611-3cb641b5f2",
+    "title": "New study looks at pesticide exposure and bladder cancer risk among Hmong farmworkers",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "UC Davis Health",
+    "authors": "",
+    "publish_date": "2026-06-11",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlpGejlNSzg4cjNjX292NV9CaUFUMmNGdjVOaXFPX2tKQ1hYQUMxMHd4SVFRQnE2U1ZQaXRyZzZYRjVrWS1fNVdjNzRSaEpDSXBRejktV2ZVSDVoNEpfRU0wWGdrb2tnLXgwblB3VW1yYkxEWG4tTDQ4R0xaWm9FSklNS3pKWkF1TllGU2ZEX21JRENBa3IwQURTUTN1UGFISTN1STFySHhiWmtJZ2UzM0R4alNCWHBsNzRWdTNjQW9mQmJnd0x3Sy1ldzNPN3g0?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究关注苗族农场工人农药暴露与膀胱癌风险之间的关联。",
+    "conclusion": "该研究以苗族农场工人为对象，考察农药暴露是否与膀胱癌风险升高相关，提示这一人群可能因农业作业中的农药接触而面临潜在健康威胁，具体关联强度与机制尚待研究确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -16667,6 +17079,36 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260604-f1251f062a",
+    "title": "Structural insights into predicted protein–protein interactions and protein complexes in the human proteome",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-06-04",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41598-026-54567-0",
+    "doi": "10.1038/s41598-026-54567-0",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "基于结构预测解析人类蛋白质组中的蛋白-蛋白相互作用与复合物",
+    "conclusion": "该研究以结构预测为手段，系统分析人类蛋白质组中预测的蛋白-蛋白相互作用及蛋白复合物，为从结构层面理解互作界面与复合物组装提供线索，并提示计算预测在互作组研究中的价值。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
     "llm_enhanced": true
   },
   {
@@ -16853,6 +17295,36 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260529-e77d926b23",
+    "title": "A robust framework for protein-protein interaction prediction with multi-objective ensemble learning and embedding-based representations",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-05-29",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41598-026-55161-0",
+    "doi": "10.1038/s41598-026-55161-0",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出融合多目标集成学习与嵌入表示框架，提升蛋白质相互作用预测稳健性",
+    "conclusion": "该研究构建了一个蛋白质相互作用预测框架，将基于嵌入的蛋白质表示与多目标集成学习相结合，旨在提高预测的稳健性与泛化能力；具体性能与机制需见正文验证。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
     "llm_enhanced": true
   },
   {
@@ -17048,8 +17520,8 @@
     "authors": "",
     "publish_date": "2026-05-13",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb29oUmZTbG1OdjIxYzN0VWppWFlUTFI3QzdJa1QxTFg5MHowQU5wWmI4VnBZTkpHY0NKSzl6ZFM1RU83MXBHWG1Td3k0ZmZsZVVoUTZsUjBudkNMU3FPV0plQl9ucVR6WVMyeEE5a0ZhTGVmbjgxT1U4cUt0YkNNWTB1Z0hiclB3OTBBUk5HNk1lT25oOE1lSlVkRG1qdXQycU95Zg?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.3389/fsufs.2026.1831533",
+    "doi": "10.3389/fsufs.2026.1831533",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17063,7 +17535,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "pmid-42812975",
@@ -17224,6 +17697,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260504-edb0052063",
+    "title": "Droplet size distribution characteristics of Bacillus thuringiensis and Beauveria bassiana bio-pesticide solutions for hydraulic nozzles",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-05-04",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41598-026-42771-x",
+    "doi": "10.1038/s41598-026-42771-x",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Bacillus thuringiensis, Beauveria bassiana",
+    "species_en": "Bacillus thuringiensis, Beauveria bassiana",
+    "species_zh": "苏云金芽孢杆菌、球孢白僵菌",
+    "takeaway": "研究液压喷嘴喷施苏云金芽孢杆菌与球孢白僵菌生物农药溶液的雾滴粒径分布特征",
+    "conclusion": "该研究聚焦液压喷嘴条件下两种微生物杀虫剂溶液的雾滴粒径分布特性，为生物农药喷雾施用参数与雾化效果的优化提供依据；因无摘要，具体机制与定量结果无法确定。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42689311",
     "title": "Telomere-to-telomere genome of Phoebe chekiangensis reveals that age-dependent CHG hypomethylation promotes floral transition via MADS-box gene activation",
     "type": "paper",
@@ -17247,6 +17750,65 @@
       "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260421-e584a21375",
+    "title": "Epigenetic fingerprints link early-onset colon and rectal cancer to pesticide exposure",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-04-21",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41591-026-04342-5",
+    "doi": "10.1038/s41591-026-04342-5",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究提示表观遗传指纹可将早发性结肠癌和直肠癌与农药暴露联系起来。",
+    "conclusion": "标题表明早发性结肠癌和直肠癌可能与农药暴露相关，表观遗传指纹或可作为连接二者的线索，但具体机制与因果方向尚待摘要及全文验证。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Medicine",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260416-001f5f5d24",
+    "title": "Pesticide-free agriculture is profitable and boosts yields, a new French study shows",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PAN Europe",
+    "authors": "",
+    "publish_date": "2026-04-16",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE54Umo2UGxES0RJSDdNbnRhRnhaWTJ6OWFwTVJDRFZqVFpWa0hlMW1lR183Y1o5a3FNZmdGVkFKTnhtT3lIcFhrV2kwaUc2dGpUN1dKS3FhLTdwR0ljc3lxTHlLMVJaZ3Z2YjdlYVpvajJYWGZ1Nl92MnRtSUhQSVZvNmNSRUx5NlpSZUNRUU9jaXd1ekd0Tk9ZZVMtZXB6QTkwUExkQmFIU1diS093eA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "法国研究显示无农药农业兼具盈利性与增产潜力",
+    "conclusion": "基于法国案例的研究表明，不施农药的农业生产模式在经济上可行且能提高产量，挑战了必须依赖农药保障收益与产出的传统认知，为农业绿色转型提供依据。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -17474,8 +18036,8 @@
     "authors": "",
     "publish_date": "2026-03-25",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGckZST2p0V213eVpKUTM0SE1CRXFySDN0Snh5Qmo5WXNQdndRMWsxMHlXOFdoNTJ5MjJ4dVFTVU5IZ2t4YmdEb2tELTBTdVR0ZmoxaUNOY0xISXBYNUN3?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41467-026-70884-4",
+    "doi": "10.1038/s41467-026-70884-4",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17489,7 +18051,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20260325-44d04bb8bf",
@@ -17520,6 +18083,66 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260316-7c3efbb7a5",
+    "title": "A dual-branch graph neural network architecture for drug-target binding affinity prediction",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-03-16",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41598-026-43782-4",
+    "doi": "10.1038/s41598-026-43782-4",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出双分支图神经网络架构用于药物-靶标结合亲和力预测。",
+    "conclusion": "该研究构建了一种双分支图神经网络模型，用于预测药物与靶标之间的结合亲和力，有望提升亲和力预测的准确性，为计算药物筛选提供新方法。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260302-dfe4507699",
+    "title": "The justice battle to protect biodiversity from pesticide risks in France",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Springer Nature Link",
+    "authors": "",
+    "publish_date": "2026-03-02",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1007/s10311-026-01900-8",
+    "doi": "10.1007/s10311-026-01900-8",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "法国围绕农药对生物多样性的风险展开保护性司法诉讼与政策博弈。",
+    "conclusion": "标题显示法国存在通过司法途径推动农药风险管控以保护生物多样性的行动，反映环境法、监管政策与农业利益之间的冲突，具体机制与结果需原文进一步确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Environmental Chemistry Letters",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20260227-ce5642d13f",
     "title": "Quantum-augmented graph differential geometry enhances accuracy in protein-protein interaction prediction",
     "type": "news",
@@ -17530,8 +18153,8 @@
     "authors": "",
     "publish_date": "2026-02-27",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94OFJlamJWQmpSQzV0bWxudHlkTDdEVmIzWS02WDdMb0hXclBRSGxoZFBYNVNHWlpqMUx4QUVYcWxNanRwaUJwdm5KZTZCVTMxbmU3OGtxcGt4a1ZERmZ3?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-026-41325-5",
+    "doi": "10.1038/s41598-026-41325-5",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17545,7 +18168,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "pmid-41765352",
@@ -17748,8 +18372,8 @@
     "authors": "",
     "publish_date": "2026-01-06",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zRUt5MVNYT3NPcE1sRExKWHNpSlVmNTBQTEVCV0swNEVib1JUcXltQWtaQkRoOXNKRzkyVlJSdGR2ME5hWmUxLTlQVXpEQ1lZWjZweDlKXzgzRlRXRmtV?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-025-34758-x",
+    "doi": "10.1038/s41598-025-34758-x",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17763,7 +18387,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "pmid-41492862",
@@ -17789,6 +18414,35 @@
       "稻纵卷叶螟功能基因组学"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20251208-b0035de1ac",
+    "title": "AI tool predicts protein-protein interactions with 90% accuracy: Center Times Plus",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "UT Southwestern",
+    "authors": "",
+    "publish_date": "2025-12-08",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFFKMHZkLVYzMzF1SUJaSUVnbV9td0E4X0RzMGpRREVLTnIwRkE0OUg5X0l5RXZRT2dwVm53OXEwWmVLYWZpN3J6eGsxMHB2aC1fOENjakVub3dOMzVCQldVc3Y4U0hGaWpWTHJzLUpQYkVLeGFfQWlacVg4NzB4V19B?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "一款AI工具在预测蛋白质-蛋白质相互作用方面达到约90%准确率。",
+    "conclusion": "该报道称一种人工智能工具能以约90%的准确率预测蛋白质间相互作用，有望提升互作组研究的效率与可靠性；具体方法、验证数据与适用物种尚未披露。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -17830,8 +18484,8 @@
     "authors": "",
     "publish_date": "2025-12-04",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3S1ItcWFqSlp5bFNTNjU5Um9OT21MUnoycER3cmJPN1BiS2prN3FYcHNkQWdqSVUwd2ZwbXR3blU0aTRJVUM4NGNiY0NfN1dWQm85UTNlOU9tNW1leFVN?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-025-27167-7",
+    "doi": "10.1038/s41598-025-27167-7",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17845,6 +18499,37 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true,
+    "link_kind": "doi"
+  },
+  {
+    "id": "news-20251119-906c189d14",
+    "title": "High-accuracy protein complex structure modeling based on sequence-derived structure complementarity",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2025-11-19",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41467-025-65090-7",
+    "doi": "10.1038/s41467-025-65090-7",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出基于序列衍生结构互补性的蛋白质复合物高精度建模方法",
+    "conclusion": "该研究开发了一种利用序列信息推断结构互补性来预测蛋白质复合物结构的方法，有望提升复合物建模精度，为结构未知的蛋白互作研究提供新途径。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Communications",
     "llm_enhanced": true
   },
   {
@@ -17858,8 +18543,8 @@
     "authors": "",
     "publish_date": "2025-11-17",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yd0h4d3RNSzVONmdfN1pPVzlpWWpGT1J2SHZWcGo1eGUyNXY1dnp0ME1DYnJBVnNXTlMtNUhFZkdkMmczY2stUV9aZHFveUkxdVZpRnFqVTJzNnBTalk0?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-025-23896-x",
+    "doi": "10.1038/s41598-025-23896-x",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17873,6 +18558,36 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true,
+    "link_kind": "doi"
+  },
+  {
+    "id": "news-20251112-5254c78282",
+    "title": "Topological deep learning for enhancing peptide-protein complex prediction | Communications Chemistry",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2025-11-12",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kVEF2cExuRy02YTZSMjBLLU5EUWsxLUphaVFzVnp0NVp3UHJlbWtVTUZfT1N0d3RCR2phT09qQV9hTy1pU2pRY0JOeVhQTm5OOW05dmFsb1JXRUlRMF9n?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出用拓扑深度学习改进肽-蛋白复合物结构预测",
+    "conclusion": "标题提示该工作将拓扑深度学习引入肽-蛋白复合物预测任务，意在借助拓扑特征提升预测效果；因无摘要，具体方法、数据与性能提升幅度不明，机制与科学意义无法进一步判断。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -17912,8 +18627,8 @@
     "authors": "",
     "publish_date": "2025-10-27",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51UTNYODRxMlZubzRwbEZKbEE5SzNtaGlKQi1VTWxuWE1uMVpmckxySm9UVXBlUkRTMmk1aHl3RHJDeHJ6UTFjS1JUTG5zcDBFUUFLU2ZDWFBVdXRKeFVZ?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41467-025-64512-w",
+    "doi": "10.1038/s41467-025-64512-w",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17927,7 +18642,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20251023-62257b5e05",
@@ -17940,8 +18656,8 @@
     "authors": "",
     "publish_date": "2025-10-23",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FSkgyU2hUekJBWE5XQzlXZjBkbURybUpYbkw2ZThBSW1IV1E0WjdGRFhiWl82N2sxV1JERUdMbFQ5YVBvbVRZVkkxN2RuS0tlbGVMeVNhbG5QQmp3M2I0Sw?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1126/science.adt1630",
+    "doi": "10.1126/science.adt1630",
     "pmid": "",
     "abstract": "",
     "species_latin": "Homo sapiens",
@@ -17955,7 +18671,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20251021-f64e8730b9",
@@ -17968,8 +18685,8 @@
     "authors": "",
     "publish_date": "2025-10-21",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yTU1lV290MXdjY29QLTMzbVpnUnlCRkc4djctR0xaWUxuWnduY0RHR1JaQ1lRTWRubE04WXVZY3V3eFVnSldEQ05rMTFuekdkR1VCOHpwdS1aTERPU2lR?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s42256-025-01124-5",
+    "doi": "10.1038/s42256-025-01124-5",
     "pmid": "",
     "abstract": "",
     "species_latin": "Resolving data",
@@ -17983,7 +18700,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20251003-8350b388e6",
@@ -18182,6 +18900,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20241107-c69cfa54ae",
+    "title": "Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2024-11-07",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41467-024-53583-w",
+    "doi": "10.1038/s41467-024-53583-w",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "将分子粗粒化模型融入几何表示学习框架，用于蛋白质-蛋白质复合物性质预测。",
+    "conclusion": "该工作提出把分子粗粒化建模与几何表示学习相结合的计算框架，用于预测蛋白质-蛋白质复合物的性质，为复合物层面的性质预测提供了新思路。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Communications",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20241018-936c1243e3",
     "title": "Ensembling methods for protein-ligand binding affinity prediction",
     "type": "news",
@@ -18238,6 +18986,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20240718-c3ae2b2a4b",
+    "title": "Profiling protein–protein interactions to predict the efficacy of B-cell-lymphoma-2-homology-3 mimetics for acute myeloid leukaemia",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2024-07-18",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41551-024-01241-3",
+    "doi": "10.1038/s41551-024-01241-3",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究通过分析蛋白互作谱，预测BH3模拟物对急性髓系白血病的疗效。",
+    "conclusion": "标题提示可借助蛋白-蛋白相互作用谱来评估急性髓系白血病对Bcl-2同源结构域3（BH3）模拟物的敏感性，为疗效预测提供分子互作层面的依据，但摘要缺失，具体机制与验证结果无法确认。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Biomedical Engineering",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20240514-be52c25d51",
     "title": "Mosquitoes with Wolbachia",
     "type": "news",
@@ -18263,6 +19041,36 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20240314-3289bf378f",
+    "title": "A multi-source molecular network representation model for protein–protein interactions prediction",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2024-03-14",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/s41598-024-56286-w",
+    "doi": "10.1038/s41598-024-56286-w",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出多源分子网络表示模型，用于蛋白质相互作用预测。",
+    "conclusion": "该研究构建了一种融合多源分子信息的网络表示学习模型，用以预测蛋白质间相互作用，为PPI预测提供了新的计算框架，但具体性能与机制需见正文。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
     "llm_enhanced": true
   },
   {
@@ -18304,8 +19112,8 @@
     "authors": "",
     "publish_date": "2023-08-21",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aSUZjSFhuOWdOam5aU3RPanRlTDJxOC12Z2tXcy14dG9CekpSTGQyM2lkdktSV1BBTUtPOHV4NW0tUVlfZVpBY2s2cHRRUllUeXQ4NkFuWVhrdDNjaEo0?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s42003-023-05180-8",
+    "doi": "10.1038/s42003-023-05180-8",
     "pmid": "",
     "abstract": "",
     "species_latin": "Aedes aegypti",
@@ -18319,7 +19127,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20230803-70626fee48",
@@ -18332,8 +19141,8 @@
     "authors": "",
     "publish_date": "2023-08-03",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qeXFndmgxZkVfWm9HYlY5TWxuSGJUbHEyYWpTdFN5cGN5WDlDczNjZGJCMzBRRWlXd0RkbXlJMVpjZ3dBejB2aXcwSTBoaDhTeUhfcFRaSU1HOEdycmRV?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41558-023-01752-y",
+    "doi": "10.1038/s41558-023-01752-y",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -18347,7 +19156,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20230413-dcf5df95e5",
@@ -18388,8 +19198,8 @@
     "authors": "",
     "publish_date": "2023-03-22",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11aWZuQXY0amRDRXN6S2daRnpMdUJoQ3pEb2lHM1VRdlJCY2M1THgtY29HMTlLLUoyY0hqRXUzMTdDQ0RiblNlaktSU3dTakVGRFVRQUJHeWRSTFpFOExv?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41467-023-37079-7",
+    "doi": "10.1038/s41467-023-37079-7",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -18403,7 +19213,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20221221-1f8cffe61e",
@@ -18444,8 +19255,8 @@
     "authors": "",
     "publish_date": "2022-12-02",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PdnVudVVQM21BdEVWVEgxUlRqTG1aanFRQ0Jfa2VtWGNPekhvZFhfTW14ckxhTkpucjAxYkFfZndpVTFYX3ZBWmw5ejF6U0Y5TmRfZldnTGlhR1cyMW9J?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-022-25242-x",
+    "doi": "10.1038/s41598-022-25242-x",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -18459,7 +19270,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20220815-c3a89d7ca9",
@@ -18477,16 +19289,17 @@
     "pmid": "",
     "abstract": "",
     "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "Breeding 30 million Wolbachia mosquitoes a week | Bill Gates",
-    "conclusion": "",
+    "species_en": "mosquito",
+    "species_zh": "蚊子",
+    "takeaway": "介绍比尔·盖茨相关项目每周培育3000万只沃尔巴克氏体蚊子的规模化生产。",
+    "conclusion": "标题表明该项目实现了每周3000万只携带沃尔巴克氏体的蚊子的规模化培育，可能用于蚊媒疾病防控，但缺乏摘要细节，具体机制与效果无法确认。",
     "keywords": [
       "昆虫性别决定演化机制",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "llm_enhanced": true
   },
   {
     "id": "news-20220523-7dd08c4822",
@@ -18506,14 +19319,15 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Prediction of protein–ligand binding affinity from sequencing data with interpretable machine learning",
-    "conclusion": "",
+    "takeaway": "提出可解释机器学习方法，从测序数据预测蛋白-配体结合亲和力。",
+    "conclusion": "该工作建立可解释机器学习框架，利用测序数据预测蛋白与配体的结合亲和力，在保证预测性能的同时提升模型可解释性，为无需传统结构或生化实验即可解析分子识别提供新途径。",
     "keywords": [
       "蛋白互作预测",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "llm_enhanced": true
   },
   {
     "id": "news-20220519-1b2456845e",
@@ -18533,14 +19347,15 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Prediction of protein–protein interaction using graph neural networks",
-    "conclusion": "",
+    "takeaway": "提出用图神经网络预测蛋白质-蛋白质相互作用的方法。",
+    "conclusion": "该研究将蛋白质相互作用预测建模为图结构学习任务，借助图神经网络捕捉蛋白质间的拓扑与特征信息，为相互作用预测提供新思路；具体性能与机制需见正文。",
     "keywords": [
       "蛋白互作预测",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "llm_enhanced": true
   },
   {
     "id": "news-20220419-569e848525",
@@ -18560,14 +19375,15 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "De nouvelles moustiquaires pour lutter contre le paludisme résistant aux insecticides",
-    "conclusion": "",
+    "takeaway": "针对抗杀虫剂疟疾，报道新型蚊帐用于防控。",
+    "conclusion": "标题提示研发或应用新型蚊帐以应对对杀虫剂产生抗性的疟疾传播，具体机制与效果因无摘要无法确认。",
     "keywords": [
       "新型杀虫剂",
       "全球资讯",
       "fr"
     ],
-    "via": "Google News:fr"
+    "via": "Google News:fr",
+    "llm_enhanced": true
   },
   {
     "id": "news-20220310-aade9d43ae",
@@ -18580,21 +19396,23 @@
     "authors": "",
     "publish_date": "2022-03-10",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oU21EVTU3VUthOGQ1ckN2MXp2eXc2Mm5udUZ2b3FSRFBZTVRncUdRMEJHaU5LS3IwRUpxYzhqRHJUam1qOHZZZElTbkZfRzEzRGIzaHV5OXhQNmFnd1dR?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41467-022-28865-w",
+    "doi": "10.1038/s41467-022-28865-w",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Improved prediction of protein-protein interactions using AlphaFold2",
-    "conclusion": "",
+    "takeaway": "AlphaFold2被用于改进蛋白质-蛋白质相互作用的预测",
+    "conclusion": "该研究以AlphaFold2为基础改进蛋白质-蛋白质相互作用的预测方法，提示结构预测工具有望提升互作预测的准确性，但具体机制与量化提升需依据原文数据确认。",
     "keywords": [
       "蛋白互作预测",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "llm_enhanced": true
   },
   {
     "id": "news-20211124-c3834a67ee",
@@ -18607,21 +19425,23 @@
     "authors": "",
     "publish_date": "2021-11-24",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SQzRDeXlETUhfcjhGOXV0M1BQQ1E4Q0xYalNjY3JmSlhvTUI0ME5jdzhRQm9FSXA4dXFEREJSZjA0Ym1WQUh4TVl2TmpQSk9lcUd1emU1ZDNSTURwQWI0?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41564-021-00998-6",
+    "doi": "10.1038/s41564-021-00998-6",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Wolbachia cifB induces cytoplasmic incompatibility in the malaria mosquito vector",
-    "conclusion": "",
+    "takeaway": "研究显示沃尔巴克氏体cifB基因可诱导疟疾媒介蚊产生胞质不亲和",
+    "conclusion": "在疟疾传播媒介蚊中表达沃尔巴克氏体cifB基因即可引发胞质不亲和，为利用该基因改造蚊媒、阻断疟疾传播提供依据。",
     "keywords": [
       "昆虫性别决定演化机制",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "llm_enhanced": true
   },
   {
     "id": "news-20210819-942f534013",
@@ -18641,14 +19461,15 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Robust and accurate prediction of protein–protein interactions by exploiting evolutionary information",
-    "conclusion": "",
+    "takeaway": "提出利用进化信息的方法，可稳健且准确预测蛋白质-蛋白质相互作用。",
+    "conclusion": "该研究聚焦蛋白质相互作用预测，强调引入进化信息以提升预测的稳健性与准确性，为相互作用预测提供了新思路。",
     "keywords": [
       "蛋白互作预测",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "llm_enhanced": true
   },
   {
     "id": "news-20210609-e918ee0731",
@@ -18661,21 +19482,23 @@
     "authors": "",
     "publish_date": "2021-06-09",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5QmJ6MW9hN05LS3NHcnpBb3c0RlQtc0RlbDRfRjkxN0NMa19kcTNjNk16aUtoR01fMDF0YU1tR0VxU2pKb3drMkNQajQyVldySFlFdDZxWkNvYjZ5ZHluSg?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1056/nejmoa2030243",
+    "doi": "10.1056/nejmoa2030243",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Efficacy of Wolbachia-Infected Mosquito Deployments for the Control of Dengue",
-    "conclusion": "",
+    "takeaway": "释放感染沃尔巴克氏体的蚊虫可有效防控登革热。",
+    "conclusion": "标题表明该研究评估了释放携带沃尔巴克氏体蚊虫对登革热控制的效果，提示通过蚊媒共生菌干预可降低登革热传播，但具体机制与量化结果需依据原文数据。",
     "keywords": [
       "昆虫性别决定演化机制",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "llm_enhanced": true
   },
   {
     "id": "news-20210122-8f476c44c7",
@@ -18715,21 +19538,23 @@
     "authors": "",
     "publish_date": "2020-11-27",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqS0U0QUZGNjNKX0lLUmwzd3RBbXNabnhqb0tfR0tiUDNjdkZDNndocjVWanJvUFhZSkFNYUNJQ1ltU212THJkRG5MNTU4OUpwS1B1SGFQSTRVZUw2cjJoZw?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1126/science.abb8949",
+    "doi": "10.1126/science.abb8949",
     "pmid": "",
     "abstract": "",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "A chimeric gene paternally instructs female sex determination in the haplodiploid wasp Nasonia",
-    "conclusion": "",
+    "species_latin": "Nasonia vitripennis",
+    "species_en": "jewel wasp",
+    "species_zh": "金小蜂",
+    "takeaway": "在单倍二倍体金小蜂中，一个父源表达的嵌合基因指导雌性性别决定。",
+    "conclusion": "该研究在单倍二倍体金小蜂Nasonia中发现，一个嵌合基因由父本提供并指导雌性性别决定，揭示了单倍二倍体昆虫性别决定的一种父源遗传调控机制。",
     "keywords": [
       "昆虫性别决定演化机制",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "llm_enhanced": true
   },
   {
     "id": "news-20200826-852aef95f5",
@@ -18749,14 +19574,15 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "World Mosquito Program’s Wolbachia method dramatically reduces dengue incidence in Indonesia",
-    "conclusion": "",
+    "takeaway": "世界蚊虫计划在印尼用沃尔巴克氏体法大幅降低登革热发病率",
+    "conclusion": "世界蚊虫计划在印度尼西亚实施的沃尔巴克氏体蚊媒控制方法显著降低了登革热发病率，表明通过改造蚊群携带沃尔巴克氏体可有效阻断登革病毒传播，为热带地区登革热防控提供了可行的大规模生物干预策略。",
     "keywords": [
       "昆虫性别决定演化机制",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "llm_enhanced": true
   },
   {
     "id": "news-20170713-d18745c262",
@@ -18776,14 +19602,15 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Une nouvelle moustiquaire imprégnée d’un insecticide inédit pour la prévention du paludisme",
-    "conclusion": "",
+    "takeaway": "标题介绍一种浸渍新型杀虫剂的蚊帐用于疟疾预防",
+    "conclusion": "该文献标题提示一种采用新型杀虫剂浸渍的蚊帐被用于疟疾预防,可能针对杀虫剂抗性背景下的蚊媒防控需求;因无摘要,具体效果、机制与数据无法确认。",
     "keywords": [
       "新型杀虫剂",
       "全球资讯",
       "fr"
     ],
-    "via": "Google News:fr"
+    "via": "Google News:fr",
+    "llm_enhanced": true
   },
   {
     "id": "news-20160513-cdce5fcb13",
@@ -18803,14 +19630,15 @@
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Modeling and fitting protein-protein complexes to predict change of binding energy",
-    "conclusion": "",
+    "takeaway": "提出对蛋白-蛋白复合物建模并拟合以预测结合能变化的方法",
+    "conclusion": "该研究聚焦蛋白-蛋白复合物的结构建模与数据拟合策略，旨在通过计算手段预测突变或结构改变引起的结合能变化，为相互作用定量预测提供方法框架。",
     "keywords": [
       "蛋白互作预测",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "llm_enhanced": true
   },
   {
     "id": "news-20160428-01a6187e7b",
@@ -18827,17 +19655,18 @@
     "doi": "",
     "pmid": "",
     "abstract": "",
-    "species_latin": "",
-    "species_en": "",
-    "species_zh": "",
-    "takeaway": "PTIR: Predicted Tomato Interactome Resource",
-    "conclusion": "",
+    "species_latin": "Solanum lycopersicum",
+    "species_en": "Tomato",
+    "species_zh": "番茄",
+    "takeaway": "构建了番茄蛋白互作组的预测资源PTIR，为番茄互作研究提供数据平台。",
+    "conclusion": "该资源以计算预测方式整合番茄蛋白质相互作用信息，为番茄功能基因组学与互作网络研究提供参考数据集，具体预测方法与覆盖范围需见原文。",
     "keywords": [
       "蛋白互作预测",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "llm_enhanced": true
   },
   {
     "id": "news-20160318-7307107aaf",
@@ -18850,20 +19679,22 @@
     "authors": "",
     "publish_date": "2016-03-18",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZzB1YzkxMFhobHNFdkszakpqUUU5NTgyUF9Kb3MtVGdsRkV2S2o5TlUxTGlGV0RvM3JLMWJXMnc0SUY2X3ZsdExrdTZNMi1BclNCd1hTd0l2akFUZHpiUDhRVnVGRHRVd0Vr?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1126/science.351.6279.1273-b",
+    "doi": "10.1126/science.351.6279.1273-b",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
     "species_en": "",
     "species_zh": "",
-    "takeaway": "Risks of Wolbachia mosquito control",
-    "conclusion": "",
+    "takeaway": "评论文章警示沃尔巴克氏体蚊媒控制策略可能带来生态与演化风险",
+    "conclusion": "该文针对利用沃尔巴克氏体改造蚊媒以阻断虫媒病的防控思路提出风险警示，提示需评估其生态影响与长期演化后果，但标题未给出具体机制或数据。",
     "keywords": [
       "昆虫性别决定演化机制",
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en"
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "llm_enhanced": true
   }
 ]
