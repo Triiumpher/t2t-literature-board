@@ -33,6 +33,8 @@
   .chip.type-news{background:#ffe4e6;color:#be123c;}
   .chip.doi{background:#fef3c7;color:#92400e;text-decoration:none;}
   .chip.preprint{background:#ede9fe;color:#6d28d9;}
+  .chip.search{background:#e0f2fe;color:#075985;text-decoration:none;}
+  .chip.gnews{background:#f1f5f9;color:#64748b;text-decoration:none;}
   .chip.board{color:#fff;}
   .title-row{display:flex;align-items:flex-start;gap:8px;}
   .star-btn{flex:none;background:none;border:none;cursor:pointer;padding:0;font-size:19px;line-height:1.3;color:#d1d5db;}
@@ -109,6 +111,9 @@ function boardChips(item){
     return `<span class="chip board" style="background:${cfg.color}">${esc(cfg.name)}</span>`;
   }).join('');
 }
+// news.google.com 跳转链接在国内无法打开时, 用必应按标题检索作为可点击兜底
+const bingSearch=t=>'https://cn.bing.com/search?q='+encodeURIComponent(t);
+const gBlocked=it=>it.type==='news'&&/news\.google\.com/.test(it.url||'');
 function speciesLine(it){
   const parts=[it.species_zh,it.species_en,it.species_latin?('<i>'+esc(it.species_latin)+'</i>'):''].filter(Boolean);
   return parts.length?`🧬 研究物种：${parts.join(' · ')}`:'';
@@ -130,11 +135,13 @@ function render(){
   list.sort((a,b)=> (sort==='added'?(b.added_at||''):(b.publish_date||'')).localeCompare(sort==='added'?(a.added_at||''):(a.publish_date||'')));
   $('#grid').innerHTML=list.map(it=>{
     const meta=[it.source,it.publish_date,it.via?('检索源:'+it.via):''].filter(Boolean).join(' · ');
-    const title=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title);
+    const blocked=gBlocked(it);
+    const titleHref=blocked?bingSearch(it.title):it.url;
+    const title=titleHref?`<a href="${esc(titleHref)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title);
     const sp=speciesLine(it);
     const fav=FAVS.has(it.id);
     return `<div class="card">
-      <div class="chips">${boardChips(it)}<span class="chip type-${it.type}">${it.type==='paper'?'论文':(it.type==='news'?'全球资讯':'中文资讯')}</span>${it.type==='news'&&it.doi?`<a class="chip doi" href="${esc(it.url)}" target="_blank" rel="noopener" title="已确认的期刊原文 DOI 链接">📄 DOI 原文</a>`:''}${it.link_kind==='preprint'?`<span class="chip preprint" title="预印本，保留原始链接">预印本</span>`:''}</div>
+      <div class="chips">${boardChips(it)}<span class="chip type-${it.type}">${it.type==='paper'?'论文':(it.type==='news'?'全球资讯':'中文资讯')}</span>${it.type==='news'&&it.doi?`<a class="chip doi" href="${esc(it.url)}" target="_blank" rel="noopener" title="已确认的期刊原文 DOI 链接">📄 DOI 原文</a>`:''}${it.link_kind==='preprint'?`<span class="chip preprint" title="预印本，保留原始链接">预印本</span>`:''}${blocked?`<a class="chip search" href="${esc(bingSearch(it.title))}" target="_blank" rel="noopener" title="Google News 跳转在国内无法打开，点此用必应按标题检索原文">🔍 必应找原文</a><a class="chip gnews" href="${esc(it.url)}" target="_blank" rel="noopener" title="Google News 跳转链接（可能无法打开）">Google News</a>`:''}</div>
       <div class="title-row">
         <button class="star-btn ${fav?'on':''}" data-fav="${esc(it.id)}" title="${fav?'取消收藏':'加入收藏'}" aria-label="${fav?'取消收藏':'加入收藏'}">${fav?'★':'☆'}</button>
         <div class="title">${title}</div>
