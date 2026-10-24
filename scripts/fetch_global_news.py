@@ -30,7 +30,9 @@
   python3 scripts/fetch_global_news.py --no-gnews     # 只跑 GDELT
 """
 import argparse
+import difflib
 import hashlib
+import html as html_lib
 import json
 import os
 import re
@@ -50,8 +52,22 @@ PER_BOARD_CAP = 25          # 每板块每天最多收录条数
 TOTAL_CAP = 100             # 每天全球资讯总条数上限
 GNEWS_PAUSE = 0.4           # Google News 请求间隔(秒)
 GDELT_PAUSE = 10            # GDELT 官方限速 1 req / 5s; 共享 IP 环境取 10s
+RESOLVE_PAUSE = 0.3         # 链接解析/DOI 检索请求间隔(秒)
+RESOLVE_TIMEOUT = 15
+CONTACT_MAIL = os.environ.get("CONTACT_MAIL", "t2t-board@example.com")
 TOOL_NAME = "t2t-literature-board"
 BOARDS_ORDER = ["t2t", "cmed", "sexdet", "ppi", "insecticide"]
+
+# 预印本平台: 一律不转 DOI, 保留原链接
+PREPRINT_URL_RE = re.compile(
+    r"https?://([a-z0-9-]+\.)?(biorxiv\.org|medrxiv\.org|arxiv\.org|chemrxiv\.org|"
+    r"researchsquare\.com|preprints\.org|papers\.ssrn\.com|ssrn\.com|osf\.io|psyarxiv\.com|"
+    r"zenodo\.org)", re.I)
+PREPRINT_DOI_PREFIX = ("10.1101/", "10.21203/", "10.20944/", "10.26434/", "10.2139/", "10.31234/")
+DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\"'<>?#\\)]+", re.I)
+# 视为正式期刊文章的来源类型
+JOURNAL_TYPES_OPENALEX = {"article", "review"}
+JOURNAL_TYPES_CROSSREF = {"journal-article", "review-article", "proceedings-article"}
 
 # ==================== Google News locale 矩阵 ====================
 # (hl, gl, ceid, 语言标签, 是否英语源)
@@ -506,6 +522,165 @@ def fetch_gdelt(days):
     return out
 
 
+# ==================== 链接还原 / 期刊文章 DOI 解析 ====================
+def norm_doi(doi):
+    if not doi:
+        return ""
+    doi = doi.strip().lower()
+    return re.sub(r"^https?://(dx\.)?doi\.org/", "", doi).rstrip(".,;)'")
+
+def is_preprint_url(url):
+    return bool(url and PREPRINT_URL_RE.search(url))
+
+def title_sim(a, b):
+    """标题相似度: 去标点小写后 difflib; 短标题(新闻稿)要求包含关系。"""
+    na = re.sub(r"\W+", " ", (a or "").lower()).strip()
+    nb = re.sub(r"\W+", " ", (b or "").lower()).strip()
+    if not na or not nb:
+        return 0.0
+    ratio = difflib.SequenceMatcher(None, na, nb).ratio()
+    short, long_ = (na, nb) if len(na) <= len(nb) else (nb, na)
+    if len(short) >= 25 and short in long_ and len(short) / len(long_) >= 0.8:
+        ratio = max(ratio, 0.95)
+    return ratio
+
+def canonicalize_gnews_url(gnews_url):
+    """把 news.google.com 跳转链接还原为出版方原文 URL(含 meta refresh / canonical)。
+    失败或仍停在 google 域名时返回 None。"""
+    headers = {"User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+               "Accept-Language": "en-US,en;q=0.9"}
+    try:
+        req = urllib.request.Request(gnews_url, headers=headers)
+        opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor())
+        with opener.open(req, timeout=RESOLVE_TIMEOUT) as r:
+            final = r.geturl()
+            ctype = r.headers.get("Content-Type", "")
+            if "html" in ctype or "text" in ctype:
+                body = r.read(800000).decode("utf-8", "ignore")
+                m = re.search(
+                    r'<meta[^>]+http-equiv=["\']?refresh["\']?[^>]*content=["\'][^"\']*url=([^"\'>]+)',
+                    body, re.I)
+                if m:
+                    cand = urllib.parse.urljoin(final, html_lib.unescape(m.group(1).strip()))
+                    if "news.google.com" not in cand and "consent" not in cand:
+                        return cand
+                m = re.search(r'<link[^>]+rel=["\']?canonical["\']?[^>]*href=["\']([^"\'>]+)',
+                              body, re.I)
+                if m and "news.google.com" not in m.group(1):
+                    return urllib.parse.urljoin(final, html_lib.unescape(m.group(1).strip()))
+            if "news.google.com" not in final and "consent.google" not in final:
+                return final
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] 还原 Google News 链接失败: {str(e)[:90]}", file=sys.stderr)
+    return None
+
+def _openalex_resolve(title):
+    url = ("https://api.openalex.org/works?"
+           + urllib.parse.urlencode({"search": title, "per-page": 5, "mailto": CONTACT_MAIL}))
+    try:
+        data = json.loads(http_get(url, timeout=RESOLVE_TIMEOUT, retries=1))
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] OpenAlex 标题检索失败: {str(e)[:90]}", file=sys.stderr)
+        return None
+    for w in data.get("results", []) or []:
+        wt = w.get("title") or w.get("display_name") or ""
+        if title_sim(title, wt) < 0.9:
+            continue
+        doi = norm_doi(w.get("doi") or "")
+        wtype = (w.get("type") or "").lower()
+        loc = w.get("primary_location") or {}
+        src_name = ((loc.get("source") or {}).get("display_name") or "")
+        oa = w.get("best_oa_location") or {}
+        landing = loc.get("landing_page_url") or oa.get("landing_page_url") or ""
+        blob = f"{src_name} {landing}"
+        if wtype == "preprint" or is_preprint_url(landing) \
+                or any(p in doi for p in PREPRINT_DOI_PREFIX) \
+                or re.search(r"biorxiv|medrxiv|arxiv|research square|preprints\.org|ssrn", blob, re.I):
+            return {"kind": "preprint", "url": landing}
+        if doi and wtype in JOURNAL_TYPES_OPENALEX:
+            return {"kind": "article", "doi": doi, "journal": src_name}
+    return None
+
+def _crossref_resolve(title):
+    url = ("https://api.crossref.org/works?"
+           + urllib.parse.urlencode({"query.bibliographic": title, "rows": 5,
+                                     "mailto": CONTACT_MAIL}))
+    try:
+        data = json.loads(http_get(url, timeout=RESOLVE_TIMEOUT, retries=1))
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] Crossref 标题检索失败: {str(e)[:90]}", file=sys.stderr)
+        return None
+    for w in (data.get("message", {}) or {}).get("items", []) or []:
+        ct = (w.get("title") or [""])[0]
+        if title_sim(title, ct) < 0.92:
+            continue
+        doi = norm_doi(w.get("DOI", ""))
+        ctype = (w.get("type") or "").lower()
+        if ctype == "posted-content" or any(p in doi for p in PREPRINT_DOI_PREFIX):
+            return {"kind": "preprint", "url": ""}
+        if doi and ctype in JOURNAL_TYPES_CROSSREF:
+            journal = (w.get("container-title") or [""])[0]
+            return {"kind": "article", "doi": doi, "journal": journal}
+    return None
+
+def resolve_item_links(items):
+    """对入选条目做链接处理:
+    - Google News 条目: 先还原出版方原文链接(跳转链接国内打不开);
+      若高置信确认为正式期刊文章, 链接换成 https://doi.org/..., 并填入 DOI(用于按 DOI 去重);
+      预印本(bioRxiv/medRxiv/arXiv 等)不转 DOI, 保留原链接。
+    - GDELT 等其他来源条目: 链接保留源网站, 但同样检索 DOI 用于跨源去重。
+    全部失败不阻断, 原样保留。"""
+    stats = {"doi": 0, "preprint": 0, "canonical": 0, "failed": 0, "unresolved": 0}
+    cache = {}
+    for it in items:
+        is_gnews = it.get("via", "").startswith("Google News")
+        if is_gnews:
+            canon = canonicalize_gnews_url(it["url"])
+            if canon:
+                it["url"] = canon
+                it["link_kind"] = "canonical"
+                stats["canonical"] += 1
+            else:
+                stats["failed"] += 1
+        # 预印本(域名/DOI 前缀): 保留原链接, 不做 DOI 转换
+        if is_preprint_url(it.get("url", "")):
+            it["doi"] = ""
+            it["link_kind"] = "preprint"
+            stats["preprint"] += 1
+            time.sleep(RESOLVE_PAUSE)
+            continue
+        fp = title_fingerprint(it["title"])
+        res = cache.get(fp)
+        if res is None:
+            res = _openalex_resolve(it["title"]) or _crossref_resolve(it["title"]) or False
+            cache[fp] = res
+            time.sleep(RESOLVE_PAUSE)
+        if not res:
+            stats["unresolved"] += 1
+            continue
+        if res["kind"] == "preprint":
+            # 预印本: 不转 DOI; Google 跳转若已还原到平台页则保留, 否则保留当前链接
+            if is_gnews and res.get("url") and is_preprint_url(res["url"]):
+                it["url"] = res["url"]
+            it["doi"] = ""
+            it["link_kind"] = "preprint"
+            stats["preprint"] += 1
+        elif res["kind"] == "article":
+            it["doi"] = res["doi"]
+            if res.get("journal"):
+                it["journal"] = res["journal"]
+            if is_gnews:
+                it["url"] = f"https://doi.org/{res['doi']}"
+                it["link_kind"] = "doi"
+            else:
+                it["link_kind"] = "doi-keepurl"
+            stats["doi"] += 1
+    print(f"[info] 链接解析: 期刊文章转DOI {stats['doi']} 条, 预印本保留原链接 {stats['preprint']} 条, "
+          f"Google链接还原 {stats['canonical']} 条(失败 {stats['failed']}), 无DOI资讯 {stats['unresolved']} 条")
+    return stats
+
+
 # ==================== 合并 / 去重 / 分级 ====================
 def merge_and_classify(raw_items, today):
     """跨源按标准化标题去重(GDELT 原文 URL 优先于 Google News 跳转链接),
@@ -572,7 +747,7 @@ def to_item(it, today):
         "publish_date": pub,
         "added_at": today,
         "url": url,
-        "doi": "",
+        "doi": it.get("doi", ""),
         "pmid": "",
         "abstract": "",
         "species_latin": "",
@@ -582,7 +757,10 @@ def to_item(it, today):
         "conclusion": "",
         "keywords": [board_names[b] for b in sorted(it["boards"])] + ["全球资讯", lang],
         "via": it.get("via", ""),
+        "link_kind": it.get("link_kind", ""),
     }
+    if it.get("journal"):
+        item["journal"] = it["journal"]
     # 内置物种词典: 标题命中稻纵卷叶螟等时自动补三名
     try:
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -600,6 +778,8 @@ def main():
     ap.add_argument("--days", type=int, default=2, help="回溯天数(默认2)")
     ap.add_argument("--no-gnews", action="store_true", help="跳过 Google News")
     ap.add_argument("--no-gdelt", action="store_true", help="跳过 GDELT")
+    ap.add_argument("--no-resolve", action="store_true",
+                    help="跳过链接还原与 DOI 解析(调试用)")
     ap.add_argument("--out", default=None,
                     help="分片输出路径(默认 manual_inbox/global-YYYY-MM-DD.json)")
     args = ap.parse_args()
@@ -627,6 +807,11 @@ def main():
         return
 
     accepted, board_count = merge_and_classify(raw, today)
+    if not args.no_resolve:
+        try:
+            resolve_item_links(accepted)
+        except Exception as e:  # noqa: BLE001 解析失败不阻断, 保留原链接
+            print(f"[warn] 链接/DOI 解析阶段异常: {e}", file=sys.stderr)
     new_items = [to_item(it, today) for it in accepted]
 
     # 同日幂等: 读入已有分片, 按 id/URL/标题去重合并
@@ -639,15 +824,19 @@ def main():
             existing = []
     seen_ids = {x.get("id") for x in existing}
     seen_urls = {x.get("url") for x in existing if x.get("url")}
+    seen_dois = {norm_doi(x.get("doi")) for x in existing if x.get("doi")}
     seen_fp = {title_fingerprint(x.get("title", "")) for x in existing}
     added = 0
     for it in new_items:
         if it["id"] in seen_ids or it["url"] in seen_urls \
+                or (it.get("doi") and norm_doi(it["doi"]) in seen_dois) \
                 or title_fingerprint(it["title"]) in seen_fp:
             continue
         existing.append(it)
         seen_ids.add(it["id"])
         seen_urls.add(it["url"])
+        if it.get("doi"):
+            seen_dois.add(norm_doi(it["doi"]))
         seen_fp.add(title_fingerprint(it["title"]))
         added += 1
 

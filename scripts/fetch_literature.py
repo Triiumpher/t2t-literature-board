@@ -737,6 +737,7 @@ class Ingestor:
     def __init__(self, existing):
         self.existing = existing
         self.new_items = []
+        self.updated = 0          # 已存在条目被补全/链接升级的计数(不计入新增)
         self.doi_idx, self.pmid_idx, self.title_idx, self.url_idx = {}, {}, {}, {}
         for i, x in enumerate(existing):
             self._index(x, ("old", i))
@@ -765,6 +766,10 @@ class Ingestor:
             return True
         bucket, j = hit
         target = self.existing[j] if bucket == "old" else self.new_items[j]
+        # 正式论文记录命中资讯条目(同 DOI/PMID/标题): 以论文身份为准, 升级类型
+        if target.get("type") != "paper":
+            target["type"] = "paper"
+            self.updated += 1
         # 并入板块
         boards = set(target.get("boards", [])) | {board_key}
         target["boards"] = sorted(boards)
@@ -782,18 +787,52 @@ class Ingestor:
         if target.get("pmid"):
             self.pmid_idx.setdefault(target["pmid"], hit)
         return False
+    def _ref_target(self, ref):
+        bucket, j = ref
+        return self.existing[j] if bucket == "old" else self.new_items[j]
+
+    def _enrich_news_link(self, target, it):
+        """旧的全球资讯条目若仍指向打不开的 news.google.com 跳转链接,
+        用新分片解析出的出版方原文链接 / DOI 链接原地升级。"""
+        if target.get("type") != "news":
+            return False
+        old_url = target.get("url", "") or ""
+        if "news.google.com" not in old_url:
+            return False
+        if it.get("doi") and not target.get("doi"):
+            target["doi"] = norm_doi(it["doi"])
+            target["url"] = f"https://doi.org/{target['doi']}"
+            if it.get("link_kind"):
+                target["link_kind"] = "doi"
+            self.updated += 1
+            return True
+        if it.get("url") and "news.google.com" not in it["url"] and not target.get("doi"):
+            target["url"] = it["url"]
+            if it.get("link_kind"):
+                target["link_kind"] = it["link_kind"]
+            self.updated += 1
+            return True
+        return False
+
     def add_manual(self, it):
-        """合并人工/中文补录分片(manual_inbox): 沿用 doi/pmid/标题/URL 四重去重,
-        但保留条目自带的 boards 与全部字段(不被单一板块覆盖)。全新条目返回 True。"""
+        """合并人工/中文补录分片(manual_inbox): 期刊文章按 DOI 优先去重,
+        再依次 PMID/标题/URL; 保留条目自带的 boards 与全部字段。全新条目返回 True。
+        命中已存在条目时, 若是 Google 链接的旧资讯, 顺带升级为可打开的原文/DOI 链接。"""
         if not it.get("title"):
             return False
+        it["doi"] = norm_doi(it.get("doi", ""))
+        it["pmid"] = str(it.get("pmid") or "").strip()
+        hit = None
         if it.get("doi") and it["doi"] in self.doi_idx:
-            return False
-        if it.get("pmid") and it["pmid"] in self.pmid_idx:
-            return False
-        if it.get("url") and it["url"] in self.url_idx:
-            return False
-        if title_fingerprint(it.get("title", "")) in self.title_idx:
+            hit = self.doi_idx[it["doi"]]
+        elif it.get("pmid") and it["pmid"] in self.pmid_idx:
+            hit = self.pmid_idx[it["pmid"]]
+        elif title_fingerprint(it.get("title", "")) in self.title_idx:
+            hit = self.title_idx[title_fingerprint(it.get("title", ""))]
+        elif it.get("url") and it["url"] in self.url_idx:
+            hit = self.url_idx[it["url"]]
+        if hit is not None:
+            self._enrich_news_link(self._ref_target(hit), it)
             return False
         # 补齐 schema 默认值, 保证下游字段齐全
         it.setdefault("boards", [])
@@ -946,7 +985,9 @@ def main():
                   f"(本次新增 {len(cand_new)} + 历史回填 {n_back})")
             n_llm = llm_enhance(todo)
 
-    changed = bool(ing.new_items) or legacy_changed or n_llm > 0
+    changed = bool(ing.new_items) or bool(ing.updated) or legacy_changed or n_llm > 0
+    if ing.updated:
+        print(f"[info] 已存在条目链接/字段升级 {ing.updated} 条(Google 跳转链接 -> 原文/DOI)")
     if changed:
         existing.sort(key=lambda x: (x.get("publish_date", ""), x.get("added_at", "")),
                        reverse=True)
