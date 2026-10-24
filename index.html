@@ -1,209 +1,133 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>T2T & 昆虫功能基因组 · 多专题科研文献看板</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>多专题科研文献看板</title>
 <style>
-  :root{--bg:#f4f6fa;--card:#fff;--line:#e5e7eb;--text:#1f2937;--muted:#6b7280;--accent:#2563eb;--star:#f59e0b;}
+  :root{--bg:#f5f7fa;--card:#fff;--ink:#1f2937;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--fav:#f59e0b;}
   *{box-sizing:border-box;}
-  body{margin:0;background:var(--bg);color:var(--text);
-    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;}
-  header{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;padding:22px 20px;}
-  header h1{margin:0 0 6px;font-size:20px;}
-  header p{margin:0;font-size:13px;opacity:.9;}
-  .wrap{max-width:1180px;margin:0 auto;padding:16px 20px 60px;}
-  .board-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0;}
-  .tab{border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 14px;font-size:13px;cursor:pointer;display:flex;align-items:center;gap:7px;}
-  .tab.active{color:#fff;border-color:transparent;}
-  .tab .badge{background:rgba(0,0,0,.08);border-radius:999px;padding:0 8px;font-size:12px;line-height:18px;}
-  .tab.active .badge{background:rgba(255,255,255,.25);}
-  .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:14px;}
-  .controls input,.controls select{padding:8px 10px;border:1px solid var(--line);border-radius:8px;font-size:13px;background:#fff;}
-  .controls input[type=search]{flex:1;min-width:220px;}
-  .stats{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px;}
-  .stat{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 16px;font-size:13px;}
-  .stat b{display:block;font-size:20px;margin-top:2px;}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px;}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;}
+  header{background:#111827;color:#fff;padding:20px 28px;}
+  header h1{margin:0;font-size:20px;}
+  header p{margin:6px 0 0;font-size:13px;color:#9ca3af;}
+  .toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:14px 28px;background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5;}
+  .toolbar input,.toolbar select{padding:7px 10px;border:1px solid var(--line);border-radius:8px;font-size:14px;background:#fff;color:var(--ink);}
+  .toolbar input{flex:1;min-width:200px;}
+  .board-tab{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:1px solid var(--line);background:#fff;cursor:pointer;font-size:13px;color:var(--ink);}
+  .board-tab.active{background:var(--accent);color:#fff;border-color:var(--accent);}
+  .board-tab.fav-tab.active{background:var(--fav);border-color:var(--fav);}
+  .board-tab .cnt{background:rgba(0,0,0,.08);border-radius:999px;padding:0 7px;font-size:12px;}
+  .board-tab.fav-tab.active .cnt{background:rgba(255,255,255,.25);}
+  .fav-btn{margin-left:auto;background:none;border:none;cursor:pointer;font-size:17px;line-height:1;color:#9ca3af;padding:2px 4px;}
+  .fav-btn.active{color:var(--fav);}
+  .wrap{max-width:1080px;margin:0 auto;padding:22px 28px 60px;}
+  .date-group{margin-bottom:26px;}
+  .date-group h2{font-size:15px;color:var(--muted);margin:0 0 10px;border-bottom:1px solid var(--line);padding-bottom:6px;}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:12px;box-shadow:0 1px 2px rgba(0,0,0,.03);}
+  .card h3{margin:0 0 8px;font-size:15px;line-height:1.45;}
+  .card h3 a{color:var(--ink);text-decoration:none;}
+  .card h3 a:hover{color:var(--accent);}
+  .meta{font-size:12px;color:var(--muted);margin-bottom:8px;}
+  .abstract{font-size:13px;color:#374151;line-height:1.65;margin:8px 0;}
+  .takeaway{font-size:13px;color:#92400e;background:#fffbeb;border-left:3px solid #f59e0b;padding:7px 10px;border-radius:4px;margin:8px 0;}
+  .species{font-size:12px;color:#065f46;background:#ecfdf5;display:inline-block;padding:2px 8px;border-radius:6px;margin-bottom:6px;}
   .chips{display:flex;flex-wrap:wrap;gap:6px;}
-  .chip{font-size:11px;padding:2px 8px;border-radius:999px;font-weight:600;}
-  .chip.type-paper{background:#e0ecff;color:#1d4ed8;}
-  .chip.type-wechat{background:#e6f7ee;color:#047857;}
+  .chip{display:inline-block;font-size:11px;padding:2px 9px;border-radius:999px;background:#eef2ff;color:#3730a3;}
+  .chip.type-paper{background:#dcfce7;color:#166534;}
+  .chip.type-wechat{background:#ffedd5;color:#9a3412;}
   .chip.type-news{background:#ffe4e6;color:#be123c;}
+  .chip.doi{background:#fef3c7;color:#92400e;text-decoration:none;}
+  .chip.preprint{background:#ede9fe;color:#6d28d9;}
   .chip.board{color:#fff;}
-  .title-row{display:flex;align-items:flex-start;gap:8px;}
-  .star-btn{flex:none;background:none;border:none;cursor:pointer;padding:0;font-size:19px;line-height:1.3;color:#d1d5db;}
-  .star-btn:hover{color:var(--star);}
-  .star-btn.on{color:var(--star);}
-  .title{font-size:15px;font-weight:600;line-height:1.45;margin:0;}
-  .title a{color:var(--text);text-decoration:none;}
-  .title a:hover{color:var(--accent);}
-  .meta{font-size:12px;color:var(--muted);}
-  .species{font-size:13px;}
-  .takeaway{background:#eff6ff;border-left:3px solid var(--accent);padding:7px 10px;border-radius:4px;font-size:13px;}
-  .conclusion{background:#f9fafb;border-left:3px solid #9ca3af;padding:7px 10px;border-radius:4px;font-size:13px;color:#374151;}
-  details summary{cursor:pointer;font-size:12px;color:var(--muted);}
-  details .abstract{font-size:12.5px;color:#4b5563;margin-top:6px;line-height:1.6;}
-  .empty{padding:40px;text-align:center;color:var(--muted);}
-  #toast{position:fixed;left:50%;bottom:28px;transform:translateX(-50%);background:#1f2937;color:#fff;
-    padding:10px 18px;border-radius:999px;font-size:13px;opacity:0;transition:opacity .25s;pointer-events:none;z-index:50;max-width:90vw;}
-  #toast.show{opacity:.95;}
-  footer{color:#9ca3af;font-size:12px;text-align:center;margin-top:30px;}
+  .empty{color:var(--muted);text-align:center;padding:60px 0;font-size:14px;}
+  .footer{text-align:center;color:var(--muted);font-size:12px;padding:30px 0;}
 </style>
 </head>
 <body>
 <header>
-  <h1>🧬 T2T &amp; 昆虫功能基因组 · 多专题科研文献看板</h1>
-  <p>正式论文多源检索（Europe PMC / PubMed / OpenAlex / Scopus）＋中文资讯每日补录＋全球多语种资讯（Google News / GDELT，含港澳台与海外媒体） ｜ 字段含一句话总结 · 研究物种 · 主要结论 ｜ 点击 ☆ 星标即可收藏</p>
+  <h1>多专题科研文献看板</h1>
+  <p>T2T/端粒到端粒基因组 · 稻纵卷叶螟功能基因组 · 昆虫性别决定 · 蛋白互作预测 · 新型杀虫剂</p>
 </header>
-<div class="wrap">
-  <div class="stats" id="stats"></div>
-  <div class="board-tabs" id="tabs"></div>
-  <div class="controls">
-    <input type="search" id="q" placeholder="搜索标题 / 摘要 / 物种 / 一句话总结 / 主要结论…">
-    <select id="typeFilter"><option value="">全部类型</option><option value="paper">论文</option><option value="wechat">中文资讯</option><option value="news">全球资讯</option></select>
-    <select id="sort"><option value="date">按发表日期↓</option><option value="added">按入库日期↓</option></select>
-  </div>
-  <div class="grid" id="grid"></div>
-  <div class="empty" id="empty" hidden>当前筛选条件下没有匹配的文献。</div>
-  <footer id="foot"></footer>
+<div class="toolbar">
+  <span class="board-tab fav-tab" data-board="__fav__">⭐ 我的收藏 <span class="cnt" id="favcnt">0</span></span>
+  <span class="board-tab active" data-board="all">全部</span>
+  <span class="board-tab" data-board="t2t">T2T 基因组</span>
+  <span class="board-tab" data-board="cmed">稻纵卷叶螟</span>
+  <span class="board-tab" data-board="sexdet">性别决定</span>
+  <span class="board-tab" data-board="ppi">蛋白互作</span>
+  <span class="board-tab" data-board="insecticide">杀虫剂</span>
+  <input id="kw" type="search" placeholder="搜索标题 / 摘要 / 关键词 / 物种…">
+  <select id="type">
+    <option value="all">全部类型</option>
+    <option value="paper">论文</option>
+    <option value="wechat">中文资讯</option>
+    <option value="news">全球资讯</option>
+  </select>
 </div>
-<div id="toast"></div>
+<div class="wrap" id="app"></div>
+<div class="footer" id="foot"></div>
 <script>
-const BOARDS = {
-  t2t:{name:'T2T 端粒到端粒基因组',color:'#2563eb'},
-  cmed:{name:'稻纵卷叶螟功能基因组学',color:'#059669'},
-  sexdet:{name:'昆虫性别决定演化机制',color:'#7c3aed'},
-  ppi:{name:'蛋白互作预测',color:'#0891b2'},
-  insecticide:{name:'新型杀虫剂',color:'#d97706'}
-};
-const FAV_COLOR='#f59e0b';
-const BOARD_ORDER=['t2t','cmed','sexdet','ppi','insecticide'];
+const boardNames={t2t:"T2T 基因组",cmed:"稻纵卷叶螟",sexdet:"昆虫性别决定",ppi:"蛋白互作预测",insecticide:"新型杀虫剂"};
+const boardColors={t2t:"#2563eb",cmed:"#16a34a",sexdet:"#db2777",ppi:"#9333ea",insecticide:"#ea580c"};
 const FAV_KEY='t2t-board-favorites';
-let DATA=[], activeBoard='all', FAVS=new Set();
-const $=s=>document.querySelector(s);
-function esc(s){return (s??'').toString().replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
-function loadFavs(){
-  try{FAVS=new Set(JSON.parse(localStorage.getItem(FAV_KEY)||'[]'));}
-  catch(e){FAVS=new Set();}
-}
-function saveFavs(){localStorage.setItem(FAV_KEY,JSON.stringify([...FAVS]));}
-let toastTimer=null;
-function toast(msg){
-  const t=$('#toast'); t.textContent=msg; t.classList.add('show');
-  clearTimeout(toastTimer);
-  toastTimer=setTimeout(()=>t.classList.remove('show'),2600);
-}
-function toggleFav(id){
-  if(!id) return;
-  if(FAVS.has(id)){FAVS.delete(id);toast('已取消收藏');}
-  else{FAVS.add(id);toast('⭐ 已加入收藏');}
-  saveFavs(); renderTabs(); render();
-}
-function boardChips(item){
-  return (item.boards&&item.boards.length?item.boards:['t2t']).map(b=>{
-    const cfg=BOARDS[b]||{name:b,color:'#6b7280'};
-    return `<span class="chip board" style="background:${cfg.color}">${esc(cfg.name)}</span>`;
-  }).join('');
-}
-function speciesLine(it){
-  const parts=[it.species_zh,it.species_en,it.species_latin?('<i>'+esc(it.species_latin)+'</i>'):''].filter(Boolean);
-  return parts.length?`🧬 研究物种：${parts.join(' · ')}`:'';
+let DATA=[], curBoard='all', curKw='', curType='all';
+let favorites=new Set(JSON.parse(localStorage.getItem(FAV_KEY)||'[]'));
+function esc(s){return (s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function saveFav(){localStorage.setItem(FAV_KEY,JSON.stringify([...favorites]));renderFavCount();}
+function renderFavCount(){document.getElementById('favcnt').textContent=favorites.size;}
+function boardChips(it){return (it.boards||[]).map(b=>`<span class="chip board" style="background:${boardColors[b]||'#6b7280'}">${boardNames[b]||b}</span>`).join('');}
+function card(it){
+  const fav=favorites.has(it.id);
+  const typeLabel=it.type==='paper'?'论文':(it.type==='news'?'全球资讯':'中文资讯');
+  const link=it.url||'#';
+  return `<div class="card" data-id="${esc(it.id)}">
+    <h3><button class="fav-btn ${fav?'active':''}" data-fav="${esc(it.id)}" title="收藏/取消收藏">${fav?'★':'☆'}</button><a href="${esc(link)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+    <div class="meta">${esc(it.publish_date||'')} · ${esc(it.source||'')}${it.authors?' · '+esc(it.authors):''} · ${esc(it.doi||it.pmid||'')}</div>
+    ${it.species_latin?`<div class="species">研究物种：${esc(it.species_latin)}${it.species_zh?' / '+esc(it.species_zh):''}</div>`:''}
+    ${it.abstract?`<div class="abstract">${esc(it.abstract)}</div>`:''}
+    ${it.takeaway?`<div class="takeaway">💡 ${esc(it.takeaway)}</div>`:''}
+    <div class="chips">${boardChips(it)}<span class="chip type-${it.type}">${it.type==='paper'?'论文':(it.type==='news'?'全球资讯':'中文资讯')}</span>${it.type==='news'&&it.doi?`<a class="chip doi" href="${esc(it.url)}" target="_blank" rel="noopener" title="已确认的期刊原文 DOI 链接">📄 DOI 原文</a>`:''}${it.link_kind==='preprint'?`<span class="chip preprint" title="预印本，保留原始链接">预印本</span>`:''}</div>
+  </div>`;
 }
 function render(){
-  const q=$('#q').value.trim().toLowerCase(), tf=$('#typeFilter').value, sort=$('#sort').value;
+  const app=document.getElementById('app');
   let list=DATA.filter(it=>{
-    if(activeBoard==='favorites'){
-      if(!FAVS.has(it.id)) return false;
-    }else if(activeBoard!=='all' && !(it.boards||['t2t']).includes(activeBoard)) return false;
-    if(tf && it.type!==tf) return false;
-    if(q){
-      const hay=[it.title,it.abstract,it.takeaway,it.conclusion,it.species_zh,it.species_en,it.species_latin,
-        ...(it.boards||[]).map(b=>(BOARDS[b]||{}).name)].join(' ').toLowerCase();
-      if(!hay.includes(q)) return false;
-    }
+    if(curBoard==='__fav__'){ if(!favorites.has(it.id)) return false; }
+    else if(curBoard!=='all' && !(it.boards||[]).includes(curBoard)) return false;
+    if(curType!=='all' && it.type!==curType) return false;
+    if(curKw){const k=curKw.toLowerCase();const hay=[it.title,it.abstract,it.takeaway,it.conclusion,it.species_latin,it.species_en,it.species_zh,(it.keywords||[]).join(' ')].join(' ').toLowerCase();if(!hay.includes(k))return false;}
     return true;
   });
-  list.sort((a,b)=> (sort==='added'?(b.added_at||''):(b.publish_date||'')).localeCompare(sort==='added'?(a.added_at||''):(a.publish_date||'')));
-  $('#grid').innerHTML=list.map(it=>{
-    const meta=[it.source,it.publish_date,it.via?('检索源:'+it.via):''].filter(Boolean).join(' · ');
-    const title=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title);
-    const sp=speciesLine(it);
-    const fav=FAVS.has(it.id);
-    return `<div class="card">
-      <div class="chips">${boardChips(it)}<span class="chip type-${it.type}">${it.type==='paper'?'论文':(it.type==='news'?'全球资讯':'中文资讯')}</span></div>
-      <div class="title-row">
-        <button class="star-btn ${fav?'on':''}" data-fav="${esc(it.id)}" title="${fav?'取消收藏':'加入收藏'}" aria-label="${fav?'取消收藏':'加入收藏'}">${fav?'★':'☆'}</button>
-        <div class="title">${title}</div>
-      </div>
-      <div class="meta">${esc(meta)}</div>
-      ${sp?`<div class="species">${sp}</div>`:''}
-      ${it.takeaway?`<div class="takeaway">📌 一句话总结：${esc(it.takeaway)}</div>`:''}
-      ${it.conclusion?`<div class="conclusion">🔍 主要结论：${esc(it.conclusion)}</div>`:''}
-      ${it.abstract?`<details><summary>原始摘要</summary><div class="abstract">${esc(it.abstract)}</div></details>`:''}
-    </div>`;
-  }).join('');
-  const emptyEl=$('#empty');
-  if(activeBoard==='favorites' && FAVS.size===0){
-    emptyEl.textContent='还没有收藏。点击卡片上的 ☆ 星标，或从每日邮件中的「⭐ 收藏到看板」链接加入。';
-  }else if(activeBoard==='favorites' && list.length===0){
-    emptyEl.textContent='当前筛选条件下没有匹配的收藏。';
-  }else{
-    emptyEl.textContent='当前筛选条件下没有匹配的文献。';
-  }
-  emptyEl.hidden=list.length>0;
+  document.querySelectorAll('.board-tab').forEach(t=>t.classList.toggle('active',t.dataset.board===curBoard));
+  document.getElementById('type').value=curType;
+  if(!list.length){app.innerHTML='<div class="empty">暂无符合条件的条目。点击卡片右上角 ☆ 可收藏文献。</div>';return;}
+  const groups={};
+  list.forEach(it=>{const d=it.added_at||it.publish_date||'未知日期';(groups[d]=groups[d]||[]).push(it);});
+  app.innerHTML=Object.keys(groups).sort().reverse().map(d=>
+    `<div class="date-group"><h2>${d}（${groups[d].length} 条）</h2>${groups[d].map(card).join('')}</div>`
+  ).join('');
 }
-function renderTabs(){
-  const counts={all:DATA.length,favorites:FAVS.size};Object.keys(BOARDS).forEach(k=>counts[k]=0);
-  DATA.forEach(it=>(it.boards&&it.boards.length?it.boards:['t2t']).forEach(b=>{if(b in counts)counts[b]++}));
-  const tabs=[['all','全部专题'],['favorites','⭐ 我的收藏'],...BOARD_ORDER.map(k=>[k,BOARDS[k].name])];
-  $('#tabs').innerHTML=tabs.map(([k,name])=>{
-    const active=k===activeBoard;
-    const cfg=k==='all'?{color:'#111827'}:(k==='favorites'?{color:FAV_COLOR}:BOARDS[k]);
-    return `<button class="tab ${active?'active':''}" data-b="${k}" ${active?`style="background:${cfg.color}"`:''}>${esc(name)}<span class="badge">${counts[k]||0}</span></button>`;
-  }).join('');
-  document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{activeBoard=t.dataset.b;renderTabs();render();});
+function gotoFav(id){
+  curBoard='__fav__';curKw='';curType='all';
+  render();
+  setTimeout(()=>{const el=document.querySelector(`.card[data-id="${CSS.escape(id)}"]`);if(el){el.scrollIntoView({behavior:'smooth',block:'center'});el.style.outline='2px solid #f59e0b';}},50);
 }
-function renderStats(){
-  const papers=DATA.filter(d=>d.type==='paper').length, wechat=DATA.filter(d=>d.type==='wechat').length, news=DATA.filter(d=>d.type==='news').length;
-  const latest=DATA.map(d=>d.added_at||'').sort().pop()||'-';
-  $('#stats').innerHTML=[`总文献 <b>${DATA.length}</b>`,`正式论文 <b>${papers}</b>`,`中文资讯 <b>${wechat}</b>`,`全球资讯 <b>${news}</b>`,`⭐ 我的收藏 <b>${FAVS.size}</b>`,`最近入库 <b>${latest}</b>`]
-    .map(s=>`<div class="stat">${s}</div>`).join('');
-}
-$('#grid').addEventListener('click',e=>{
-  const b=e.target.closest('[data-fav]');
-  if(b){e.preventDefault();toggleFav(b.dataset.fav);}
+document.addEventListener('click',e=>{
+  const f=e.target.closest('[data-fav]');
+  if(f){const id=f.dataset.fav;favorites.has(id)?favorites.delete(id):favorites.add(id);saveFav();render();}
 });
-async function init(){
-  loadFavs();
-  try{
-    const r=await fetch('literature.json?_='+Date.now());
-    if(!r.ok) throw new Error('HTTP '+r.status);
-    DATA=await r.json();
-  }catch(e){
-    document.getElementById('grid').innerHTML='<div class="empty">literature.json 加载失败：'+esc(e.message)+'<br>请确认已通过 GitHub Actions / 本地脚本生成该文件。</div>';
-    return;
-  }
-  const params=new URLSearchParams(location.search);
-  const starId=params.get('star');
-  if(starId){
-    if(!FAVS.has(starId)){FAVS.add(starId);saveFavs();}
-    activeBoard='favorites';
-    const it=DATA.find(x=>x.id===starId);
-    if(it){
-      const t=it.title.length>34?it.title.slice(0,34)+'…':it.title;
-      toast('⭐ 已收藏：'+t);
-    }else{
-      toast('⭐ 已加入收藏');
-    }
-    history.replaceState(null,'',location.pathname);
-  }
-  renderStats();renderTabs();render();
-  $('#foot').textContent=`共 ${DATA.length} 条 · 收藏 ${FAVS.size} 条（仅保存在本浏览器）· 数据文件 literature.json · 静态托管于 GitHub Pages`;
-}
-$('#q').oninput=render;$('#typeFilter').onchange=render;$('#sort').onchange=render;
-init();
+document.querySelectorAll('.board-tab').forEach(t=>t.addEventListener('click',()=>{curBoard=t.dataset.board;curKw='';render();}));
+document.getElementById('kw').addEventListener('input',e=>{curKw=e.target.value.trim();render();});
+document.getElementById('type').addEventListener('change',e=>{curType=e.target.value;render();});
+fetch('literature.json').then(r=>r.json()).then(d=>{
+  DATA=d.sort((a,b)=>(b.added_at||b.publish_date||'').localeCompare(a.added_at||a.publish_date||''));
+  renderFavCount();
+  render();
+  document.getElementById('foot').textContent=`共 ${DATA.length} 条记录 · 数据更新于 ${DATA[0]?(DATA[0].added_at||''):''} · 收藏仅保存在本机浏览器`;
+  const star=new URLSearchParams(location.search).get('star');
+  if(star){gotoFav(star);}
+}).catch(e=>{document.getElementById('app').innerHTML='<div class="empty">literature.json 加载失败，请确认通过本地 HTTP 服务器打开（见 README）。</div>';});
 </script>
 </body>
 </html>
