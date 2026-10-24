@@ -30,6 +30,7 @@
   .chip{font-size:11px;padding:2px 8px;border-radius:999px;font-weight:600;}
   .chip.type-paper{background:#e0ecff;color:#1d4ed8;}
   .chip.type-wechat{background:#e6f7ee;color:#047857;}
+  .chip.type-news{background:#ffe4e6;color:#be123c;}
   .chip.board{color:#fff;}
   .title-row{display:flex;align-items:flex-start;gap:8px;}
   .star-btn{flex:none;background:none;border:none;cursor:pointer;padding:0;font-size:19px;line-height:1.3;color:#d1d5db;}
@@ -54,14 +55,14 @@
 <body>
 <header>
   <h1>🧬 T2T &amp; 昆虫功能基因组 · 多专题科研文献看板</h1>
-  <p>正式论文多源检索（Europe PMC / PubMed / OpenAlex / Scopus）＋中文资讯每日补录 ｜ 字段含一句话总结 · 研究物种 · 主要结论 ｜ 点击 ☆ 星标即可收藏</p>
+  <p>正式论文多源检索（Europe PMC / PubMed / OpenAlex / Scopus）＋中文资讯每日补录＋全球多语种资讯（Google News / GDELT，含港澳台与海外媒体） ｜ 字段含一句话总结 · 研究物种 · 主要结论 ｜ 点击 ☆ 星标即可收藏</p>
 </header>
 <div class="wrap">
   <div class="stats" id="stats"></div>
   <div class="board-tabs" id="tabs"></div>
   <div class="controls">
     <input type="search" id="q" placeholder="搜索标题 / 摘要 / 物种 / 一句话总结 / 主要结论…">
-    <select id="typeFilter"><option value="">全部类型</option><option value="paper">论文</option><option value="wechat">资讯</option></select>
+    <select id="typeFilter"><option value="">全部类型</option><option value="paper">论文</option><option value="wechat">中文资讯</option><option value="news">全球资讯</option></select>
     <select id="sort"><option value="date">按发表日期↓</option><option value="added">按入库日期↓</option></select>
   </div>
   <div class="grid" id="grid"></div>
@@ -131,7 +132,7 @@ function render(){
     const sp=speciesLine(it);
     const fav=FAVS.has(it.id);
     return `<div class="card">
-      <div class="chips">${boardChips(it)}<span class="chip type-${it.type}">${it.type==='paper'?'论文':'资讯'}</span></div>
+      <div class="chips">${boardChips(it)}<span class="chip type-${it.type}">${it.type==='paper'?'论文':(it.type==='news'?'全球资讯':'中文资讯')}</span></div>
       <div class="title-row">
         <button class="star-btn ${fav?'on':''}" data-fav="${esc(it.id)}" title="${fav?'取消收藏':'加入收藏'}" aria-label="${fav?'取消收藏':'加入收藏'}">${fav?'★':'☆'}</button>
         <div class="title">${title}</div>
@@ -165,9 +166,9 @@ function renderTabs(){
   document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{activeBoard=t.dataset.b;renderTabs();render();});
 }
 function renderStats(){
-  const papers=DATA.filter(d=>d.type==='paper').length, wechat=DATA.filter(d=>d.type==='wechat').length;
+  const papers=DATA.filter(d=>d.type==='paper').length, wechat=DATA.filter(d=>d.type==='wechat').length, news=DATA.filter(d=>d.type==='news').length;
   const latest=DATA.map(d=>d.added_at||'').sort().pop()||'-';
-  $('#stats').innerHTML=[`总文献 <b>${DATA.length}</b>`,`正式论文 <b>${papers}</b>`,`中文资讯 <b>${wechat}</b>`,`⭐ 我的收藏 <b>${FAVS.size}</b>`,`最近入库 <b>${latest}</b>`]
+  $('#stats').innerHTML=[`总文献 <b>${DATA.length}</b>`,`正式论文 <b>${papers}</b>`,`中文资讯 <b>${wechat}</b>`,`全球资讯 <b>${news}</b>`,`⭐ 我的收藏 <b>${FAVS.size}</b>`,`最近入库 <b>${latest}</b>`]
     .map(s=>`<div class="stat">${s}</div>`).join('');
 }
 $('#grid').addEventListener('click',e=>{
