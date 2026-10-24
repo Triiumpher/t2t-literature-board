@@ -55,7 +55,7 @@
 | Secret 名 | 必填 | 内容 |
 |---|---|---|
 | `SMTP_HOST` | 是 | 如 `smtp.126.com` |
-| `SMTP_PORT` | 是 | `465`（SSL）或 `585`（STARTTLS） |
+| `SMTP_PORT` | 是 | `465`（SSL）或 `587`（STARTTLS） |
 | `SMTP_USER` | 是 | 发信邮箱登录名 |
 | `SMTP_PASS` | 是 | 邮箱 **SMTP 授权码**（不是登录密码） |
 | `MAIL_FROM` | 是 | 发信邮箱地址 |
