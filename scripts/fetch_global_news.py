@@ -423,6 +423,7 @@ def fetch_gnews(days):
                 title = item.findtext("title") or ""
                 src_el = item.find("source")
                 source_name = (src_el.text or "").strip() if src_el is not None else ""
+                source_url = (src_el.get("url") or "").strip() if src_el is not None else ""
                 link = item.findtext("link") or ""
                 pub = rfc822_to_date(item.findtext("pubDate") or "")
                 desc_raw = item.findtext("description") or ""
@@ -432,6 +433,7 @@ def fetch_gnews(days):
                     "title": title,
                     "url": link,
                     "source": source_name or "Google News",
+                    "source_url": source_url,
                     "publish_date": pub,
                     "via": f"Google News:{lang}",
                     "lang": lang,
@@ -553,14 +555,45 @@ SOCS_COOKIE = "CAISHAgCEhJnd3NfMjAyMjA5MF9SQzIaAmRlIAEaBgiAoae5Bg"
 def _gnews_opener():
     cj = http.cookiejar.CookieJar()
     for dom in (".google.com", "news.google.com", "consent.google.com"):
-        cj.set_cookie(http.cookiejar.Cookie(
-            version=0, name="SOCS", value=SOCS_COOKIE,
-            port=None, port_specified=False, domain=dom,
-            domain_specified=True, domain_initial_dot=dom.startswith("."),
-            path="/", path_specified=True, secure=True, expires=None,
-            discard=True, comment=None, comment_url=None, rest={"SameSite": "None"},
-            rfc2109=False))
+        for name, value in (("SOCS", SOCS_COOKIE), ("CONSENT", "PENDING+987")):
+            cj.set_cookie(http.cookiejar.Cookie(
+                version=0, name=name, value=value,
+                port=None, port_specified=False, domain=dom,
+                domain_specified=True, domain_initial_dot=dom.startswith("."),
+                path="/", path_specified=True, secure=True, expires=None,
+                discard=True, comment=None, comment_url=None, rest={"SameSite": "None"},
+                rfc2109=False))
     return urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+
+
+def _accept_consent_and_retry(consent_url, gnews_url, opener, headers):
+    """解析 consent.google.com 同意表单并 POST 接受, 然后重放原始跳转链接。"""
+    try:
+        req = urllib.request.Request(consent_url, headers=headers)
+        with opener.open(req, timeout=RESOLVE_TIMEOUT) as r:
+            body = r.read(400000).decode("utf-8", "ignore")
+        form = re.search(r'<form[^>]*action="([^"]+)"[^>]*>(.*?)</form>', body, re.I | re.S)
+        if not form:
+            return None
+        action = urllib.parse.urljoin(consent_url, html_lib.unescape(form.group(1)))
+        fields = dict(re.findall(r'<input[^>]+name="([^"]+)"[^>]*(?:value="([^"]*)")?',
+                                 form.group(2)))
+        if "set_eom" in fields:
+            fields["set_eom"] = "true"
+        data = urllib.parse.urlencode(fields).encode()
+        h = dict(headers)
+        h["Content-Type"] = "application/x-www-form-urlencoded"
+        with opener.open(urllib.request.Request(action, data=data, headers=h),
+                         timeout=RESOLVE_TIMEOUT) as r:
+            r.read(1000)
+        req2 = urllib.request.Request(gnews_url, headers=headers)
+        with opener.open(req2, timeout=RESOLVE_TIMEOUT) as r:
+            final = r.geturl()
+            if "news.google.com" not in final and "consent.google" not in final:
+                return final
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] 同意表单提交失败: {str(e)[:90]}", file=sys.stderr)
+    return None
 
 
 def canonicalize_gnews_url(gnews_url):
@@ -570,8 +603,9 @@ def canonicalize_gnews_url(gnews_url):
                               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
                "Accept-Language": "en-US,en;q=0.9"}
     try:
+        opener = _gnews_opener()
         req = urllib.request.Request(gnews_url, headers=headers)
-        with _gnews_opener().open(req, timeout=RESOLVE_TIMEOUT) as r:
+        with opener.open(req, timeout=RESOLVE_TIMEOUT) as r:
             final = r.geturl()
             ctype = r.headers.get("Content-Type", "")
             if "html" in ctype or "text" in ctype:
@@ -596,6 +630,10 @@ def canonicalize_gnews_url(gnews_url):
                     return urllib.parse.urljoin(final, html_lib.unescape(m.group(1).strip())), None
             if "news.google.com" not in final and "consent.google" not in final:
                 return final, None
+            # 命中同意墙: 提交同意表单后重试一次
+            retried = _accept_consent_and_retry(final, gnews_url, opener, headers)
+            if retried:
+                return retried, None
             return None, "consent"
     except Exception as e:  # noqa: BLE001
         reason = type(e).__name__
@@ -651,6 +689,98 @@ def _crossref_resolve(title):
             return {"kind": "article", "doi": doi, "journal": journal}
     return None
 
+def _decode_ddg_href(href):
+    if href.startswith("//"):
+        href = "https:" + href
+    q = urllib.parse.urlparse(href).query
+    uddg = urllib.parse.parse_qs(q).get("uddg", [""])[0]
+    return uddg or None
+
+
+def _bing_dest(href):
+    """Bing 结果链接常包装为 /ck/a?...&u=a1<base64>, 解码真实地址。"""
+    if "bing.com/ck/" not in href:
+        return href
+    u = urllib.parse.parse_qs(urllib.parse.urlparse(href).query).get("u", [""])[0]
+    if u.startswith("a1"):
+        import base64
+        raw = u[2:]
+        raw += "=" * (-len(raw) % 4)
+        try:
+            return base64.urlsafe_b64decode(raw).decode("utf-8", "ignore")
+        except Exception:  # noqa: BLE001
+            return None
+    return None
+
+
+SEARCH_HEADERS = {"User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                                 "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+                  "Accept-Language": "en-US,en;q=0.9"}
+_SEARCH_BLOCKED_HOSTS = ("google.", "youtube.", "facebook.", "twitter.", "x.com",
+                         "reddit.", "duckduckgo.com", "bing.com")
+
+
+def search_publisher_url(title, source_url=""):
+    """Google 跳转无法还原时, 用标题在 DuckDuckGo/Bing 找回出版方原文链接。
+    优先 RSS source 域名同站结果; 标题相似度 >= 0.86 才采纳。"""
+    host_hint = ""
+    if source_url:
+        m = re.match(r"https?://(?:www\.)?([^/]+)", source_url)
+        host_hint = m.group(1).lower() if m else ""
+    candidates = []
+    # DuckDuckGo HTML 版
+    try:
+        q = "https://html.duckduckgo.com/html/?" + urllib.parse.urlencode({"q": title})
+        req = urllib.request.Request(q, headers=SEARCH_HEADERS)
+        with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT) as r:
+            body = r.read(400000).decode("utf-8", "ignore")
+        for m in re.finditer(
+                r'<a[^>]+class="result__a"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', body, re.S):
+            href = _decode_ddg_href(html_lib.unescape(m.group(1)))
+            rt = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+            if href:
+                candidates.append((rt, href))
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] DuckDuckGo 回退检索失败: {str(e)[:80]}", file=sys.stderr)
+    # Bing 兜底
+    if not candidates:
+        try:
+            q = "https://www.bing.com/search?" + urllib.parse.urlencode({"q": title, "setlang": "en"})
+            req = urllib.request.Request(q, headers=SEARCH_HEADERS)
+            with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT) as r:
+                body = r.read(400000).decode("utf-8", "ignore")
+            for m in re.finditer(r'<li class="b_algo".*?<h2>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>',
+                                 body, re.S):
+                href = _bing_dest(html_lib.unescape(m.group(1)))
+                rt = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+                if href:
+                    candidates.append((rt, href))
+        except Exception as e:  # noqa: BLE001
+            print(f"[warn] Bing 回退检索失败: {str(e)[:80]}", file=sys.stderr)
+    for rt, href in candidates:
+        if not href.startswith("http"):
+            continue
+        host = (urllib.parse.urlparse(href).hostname or "").lower()
+        if any(host.endswith(b.rstrip(".")) for b in _SEARCH_BLOCKED_HOSTS):
+            continue
+        if host_hint and not (host == host_hint or host.endswith("." + host_hint)
+                              or host_hint.endswith(host)):
+            continue
+        if title_sim(rt, title) >= 0.86:
+            return href
+    # 同站但标题对不上不采纳; 有 host_hint 时不允许跨站, 无 hint 时允许高相似的首条
+    if not host_hint:
+        for rt, href in candidates:
+            if not href.startswith("http"):
+                continue
+            host = (urllib.parse.urlparse(href).hostname or "").lower()
+            if any(host.endswith(b.rstrip(".")) for b in _SEARCH_BLOCKED_HOSTS):
+                continue
+            if title_sim(rt, title) >= 0.9:
+                return href
+    return None
+
+
 def resolve_item_links(items):
     """对入选条目做链接处理:
     - Google News 条目: 先还原出版方原文链接(跳转链接国内打不开);
@@ -658,7 +788,8 @@ def resolve_item_links(items):
       预印本(bioRxiv/medRxiv/arXiv 等)不转 DOI, 保留原链接。
     - GDELT 等其他来源条目: 链接保留源网站, 但同样检索 DOI 用于跨源去重。
     全部失败不阻断, 原样保留。"""
-    stats = {"doi": 0, "preprint": 0, "canonical": 0, "failed": 0, "unresolved": 0}
+    stats = {"doi": 0, "preprint": 0, "canonical": 0, "search": 0,
+             "failed": 0, "unresolved": 0}
     fail_reasons = {}
     cache = {}
     for it in items:
@@ -686,7 +817,18 @@ def resolve_item_links(items):
             cache[fp] = res
             time.sleep(RESOLVE_PAUSE)
         if not res:
-            stats["unresolved"] += 1
+            # 非期刊文章/资讯: Google 跳转仍打不开时, 用搜索引擎按标题找回原文
+            if is_gnews and "news.google.com" in it.get("url", ""):
+                found = search_publisher_url(it["title"], it.get("source_url", ""))
+                if found:
+                    it["url"] = found
+                    it["link_kind"] = "search"
+                    stats["search"] += 1
+                else:
+                    stats["unresolved"] += 1
+                time.sleep(RESOLVE_PAUSE)
+            else:
+                stats["unresolved"] += 1
             continue
         if res["kind"] == "preprint":
             # 预印本: 不转 DOI; Google 跳转若已还原到平台页则保留, 否则保留当前链接
@@ -707,7 +849,7 @@ def resolve_item_links(items):
             stats["doi"] += 1
     print(f"[info] 链接解析: 期刊文章转DOI {stats['doi']} 条, 预印本保留原链接 {stats['preprint']} 条, "
           f"Google链接还原 {stats['canonical']} 条(失败 {stats['failed']} {fail_reasons}), "
-          f"无DOI资讯 {stats['unresolved']} 条")
+          f"搜索引擎找回原文 {stats['search']} 条, 无DOI资讯 {stats['unresolved']} 条")
     return stats
 
 
