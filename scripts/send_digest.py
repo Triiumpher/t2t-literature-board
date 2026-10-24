@@ -102,7 +102,7 @@ def pick_new_by_board(items, last_date, today):
 def species_line(it):
     zh, en, lat = it.get("species_zh", ""), it.get("species_en", ""), it.get("species_latin", "")
     parts = [p for p in (zh, en, (f"<i>{lat}</i>" if lat else "")) if p]
-    return " · ".join(parts) if p else ""
+    return " · ".join(parts) if parts else ""
 
 
 def esc(s):
