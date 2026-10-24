@@ -1,0 +1,156 @@
+[
+  {
+    "id": "manual-20261025-mulberry-t2t",
+    "title": "aBIOTECH | 重庆市农业科学院完成桑属“珍珠白”T2T无间隙基因组组装并揭示其核型演化与白色果实形成的分子基础",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "科学网（转载aBIOTECH公众号）",
+    "authors": "",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-25",
+    "url": "https://wap.sciencenet.cn/home.php?do=blog&id=1555779&mod=space&uid=3458049",
+    "doi": "",
+    "pmid": "",
+    "abstract": "重庆市农业科学院团队在 aBIOTECH 发表研究，整合 PacBio HiFi、ONT 超长读长与 Hi-C 技术，首次构建白桑品种“珍珠白”（MZB）317.6 Mb 的 T2T 无缺口基因组，锚定14条染色体并完整解析28个端粒和14个着丝粒。研究追踪了桑属核型演化轨迹，并发现 CHS 基因破坏性变异、CHS 家族收缩与 FLS 家族扩张共同导致花青素缺乏，揭示白色果实形成的分子基础。",
+    "species_latin": "Morus alba",
+    "species_en": "white mulberry",
+    "species_zh": "白桑",
+    "takeaway": "首个白桑“珍珠白”T2T无缺口基因组为桑属核型演化与果实颜色变异研究提供了高质量参考。",
+    "conclusion": "MZB 基因组 contig N50 达21.7 Mb、BUSCO 98.0%、QV 52.9，填补旧版250个缺口并纠正1号染色体大规模错误排列；桑属祖先约124 MYA经历古老全基因组复制，MZB保留n=14祖先核型；CHS功能受损与FLS底物分流共同造成白色果实表型。",
+    "keywords": [
+      "T2T基因组",
+      "端粒到端粒",
+      "无缺口组装",
+      "白桑",
+      "Morus alba",
+      "核型演化",
+      "花青素",
+      "CHS"
+    ]
+  },
+  {
+    "id": "manual-20261025-dogma-ogm-yeast",
+    "title": "无酶密集光学基因组图谱（OGM）实现酵母染色体规模组装：DOGMA流程从细菌到真核基因组的扩展",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-10-02",
+    "added_at": "2026-10-25",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261002024831175.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究将原用于细菌的密集光学基因组图谱组装流程 DOGMA 扩展至真核生物，以酿酒酵母和裂殖酵母为模型，利用基于竞争性结合的无酶密集 OGM 产生连续荧光强度条形码。通过重复元件检测掩蔽、相关性 bargroup 组装与参考辅助精修，实现染色体规模光学图谱组装，且不塌缩非相邻重复位点，并揭示参考基因组中缺失的 >500 kbp 扩展重复阵列。",
+    "species_latin": "Saccharomyces cerevisiae",
+    "species_en": "budding yeast",
+    "species_zh": "酿酒酵母",
+    "takeaway": "DOGMA 证明密集无酶 OGM 可扩展到真核基因组，为解析重复区与复杂染色体结构提供独立于测序的长程组装框架。",
+    "conclusion": "DOGMA 在两种酵母中重建染色体规模图谱，覆盖 >98% 参考条形码，发现染色体 XII 上 ≥550 kbp 重复块及裂殖酵母 III 号染色体两端 ≥1 Mb 的 rDNA 重复阵列；重复感知掩蔽与长程强度谱策略为向更大、更复杂基因组乃至人类基因组扩展奠定基础。",
+    "keywords": [
+      "光学基因组图谱",
+      "OGM",
+      "DOGMA",
+      "酵母",
+      "Saccharomyces cerevisiae",
+      "染色体组装",
+      "重复阵列",
+      "基因组组装"
+    ]
+  },
+  {
+    "id": "manual-20261025-host-mediated-sequestration",
+    "title": "浙大团队揭示杀虫剂借抗性宿主“偷袭”天敌，可能驱动高营养级的抗性进化",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "世界农化网",
+    "authors": "",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-25",
+    "url": "https://cn.agropages.com/News/NewsDetail---39024.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江大学黄佳、黄健华团队在 PNAS 发表封面论文，提出“宿主介导的杀虫剂转移”新生态暴露途径：携带靶标位点抗性的植食性害虫可在体内积累未代谢杀虫剂，成为“有毒猎物”，经寄生关系将毒素传递给寄生蜂，导致寄生蜂羽化率降低、寿命缩短、体型变小，且负面影响可跨代持续。对 133 个寄生蜂物种的 Rdl 基因分析还发现，12 个物种携带抗性突变，其中 11 种的宿主同样存在 Rdl 抗性。",
+    "species_latin": "Myzus persicae",
+    "species_en": "green peach aphid",
+    "species_zh": "桃蚜",
+    "takeaway": "靶标抗性害虫可成为杀虫剂“储存库”并定向毒害天敌，提示杀虫剂抗性评估须纳入经抗性宿主的间接暴露风险。",
+    "conclusion": "抗性宿主（蚜虫、果蝇）体内高浓度杀虫剂残留显著降低寄生蜂适合度并具跨代效应；寄生蜂 Rdl 抗性突变与宿主抗性高度重合，提示杀虫剂经宿主传递可能驱动高营养级的平行抗性进化；未来 IPM 与生态风险评估应包含抗性害虫介导的间接暴露。",
+    "keywords": [
+      "杀虫剂抗性",
+      "靶标抗性",
+      "寄生蜂",
+      "Rdl",
+      "新烟碱",
+      "多杀菌素",
+      "生态风险",
+      "三营养级"
+    ]
+  },
+  {
+    "id": "manual-20261025-patent-pesticide-roundup",
+    "title": "12个重磅潜力专利农药新品种盘点：除草剂、杀虫剂、杀菌剂全景梳理",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "农资与市场（农药资讯网）",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-25",
+    "url": "http://www.enongzi.com/news/details?id=4987ac8a-5143-4e58-915f-7da821a4641d",
+    "doi": "",
+    "pmid": "",
+    "abstract": "文章盘点全球 12 个具重磅潜力的专利农药新品种，其中杀虫剂包括溴虫氟苯双酰胺、环丙氟虫胺、氟噁唑酰胺、异噁唑虫酰胺，均为 GABA 门控氯离子通道别构调节剂，并逐一梳理各品种的作用机理、登记开发进展与专利情况。同时涵盖四氟咯草胺等新型作用机理除草剂与多款杀菌剂。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该盘点集中呈现以 GABA 氯离子通道别构调节剂为代表的新一代专利杀虫剂及其作用机制与商业化时间表。",
+    "conclusion": "4 个重点在研杀虫剂均作用于 GABA 门控氯离子通道（IRAC 第30组等），与现有药剂无交互抗性，是应对抗性害虫的重要新品；文章同时给出各化合物专利到期时间与全球登记路线，为研发与市场跟踪提供参考。",
+    "keywords": [
+      "新型杀虫剂",
+      "GABA门控氯离子通道",
+      "异噁唑虫酰胺",
+      "溴虫氟苯双酰胺",
+      "氟噁唑酰胺",
+      "作用靶标",
+      "专利农药",
+      "抗性管理"
+    ]
+  },
+  {
+    "id": "manual-20261025-isocycloseram-incipio",
+    "title": "先正达加拿大推出异噁唑虫酰胺叶面杀虫剂，将于2027年上市",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "世界农化网",
+    "authors": "",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-25",
+    "url": "https://cn.agropages.com/News/NewsDetail---38917.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "先正达加拿大公司推出基于 PLINAZOLIN 技术的 Incipio 叶面杀虫剂，活性成分为异噁唑虫酰胺，属 IRAC 第30组 GABA 门控氯离子通道变构调节剂，预计 2027 年生长季上市。该产品已登记用于马铃薯、苹果、芸苔属、葫芦科及多种特种作物，可防治科罗拉多马铃薯甲虫、马铃薯叶蝉、欧洲玉米螟及螨类，且与现有作用机理无交互抗性。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "异噁唑虫酰胺（IRAC 第30组）在加拿大推进登记，为多种作物害虫提供全新作用机理的抗性管理工具。",
+    "conclusion": "Incipio 以 GABA 门控氯离子通道变构调节为作用机制，具快速停食、最长14天持效、2小时耐雨水冲刷及无交互抗性等特点；异噁唑虫酰胺已在阿根廷、印度、巴西、澳大利亚等多国登记上市，加拿大六产品于2026年5月获批。",
+    "keywords": [
+      "异噁唑虫酰胺",
+      "isocycloseram",
+      "GABA门控氯离子通道",
+      "IRAC第30组",
+      "新型杀虫剂",
+      "PLINAZOLIN",
+      "抗性管理"
+    ]
+  }
+]
