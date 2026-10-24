@@ -24,6 +24,7 @@ import os
 import smtplib
 import ssl
 import sys
+import urllib.parse
 from datetime import datetime, timedelta, timezone
 from email.header import Header
 from email.mime.multipart import MIMEMultipart
@@ -54,6 +55,16 @@ BOARD_COLOR = {
 
 # 在线看板地址（用于邮件中的"⭐ 收藏"深链：点击后打开看板 ?star=ID 自动收藏）
 PAGES_BASE = "https://triiumpher.github.io/t2t-literature-board/"
+
+
+def bing_search_url(title):
+    """news.google.com 跳转链接在国内无法打开时, 用必应按标题检索作为可点击兜底。"""
+    return "https://cn.bing.com/search?q=" + urllib.parse.quote(str(title or ""))
+
+
+def gnews_blocked(it):
+    """Google News 全球资讯且链接仍为无法直接打开的 news.google.com 跳转。"""
+    return it.get("type") == "news" and "news.google.com" in it.get("url", "")
 
 
 def today_cn():
@@ -135,7 +146,11 @@ def render_text(groups, today):
             if it.get("conclusion"):
                 lines.append(f"    主要结论: {it['conclusion']}")
             if it.get("url"):
-                lines.append(f"    链接: {it['url']}")
+                if gnews_blocked(it):
+                    lines.append(f"    必应找原文: {bing_search_url(it.get('title', ''))}")
+                    lines.append(f"    Google News(可能打不开): {it['url']}")
+                else:
+                    lines.append(f"    链接: {it['url']}")
             if it.get("id"):
                 lines.append(f"    ⭐ 收藏: {PAGES_BASE}?star={it['id']}")
             lines.append("")
@@ -162,7 +177,8 @@ def render_html(groups, today):
         for it in its:
             title = esc(it.get("title", ""))
             url = it.get("url", "")
-            title_html = f'<a href="{esc(url)}" style="color:{color};text-decoration:none;font-weight:600;font-size:15px;">{title}</a>' if url else f'<span style="font-weight:600;font-size:15px;">{title}</span>'
+            title_href = bing_search_url(it.get("title", "")) if gnews_blocked(it) else url
+            title_html = f'<a href="{esc(title_href)}" style="color:{color};text-decoration:none;font-weight:600;font-size:15px;">{title}</a>' if title_href else f'<span style="font-weight:600;font-size:15px;">{title}</span>'
             meta = " · ".join(p for p in [esc(it.get("source", "")), esc(it.get("publish_date", "")),
                                           ("检索源: " + esc(it.get("via", ""))) if it.get("via") else ""] if p)
             sp = species_line(it)
@@ -179,6 +195,9 @@ def render_html(groups, today):
                 parts.append(f'<div style="background:#eff6ff;border-left:3px solid {color};padding:7px 10px;border-radius:4px;font-size:13px;margin:6px 0;">📌 一句话总结：{esc(it.get("takeaway"))}</div>')
             if it.get("conclusion"):
                 parts.append(f'<div style="background:#f9fafb;border-left:3px solid #9ca3af;padding:7px 10px;border-radius:4px;font-size:13px;margin:6px 0;color:#374151;">🔍 主要结论：{esc(it.get("conclusion"))}</div>')
+            if gnews_blocked(it):
+                parts.append(f'<div style="margin:8px 0 0;"><a href="{esc(bing_search_url(it.get("title", "")))}" style="color:#075985;text-decoration:none;font-size:12.5px;font-weight:600;">🔍 必应找原文</a>'
+                             f'&nbsp;&nbsp;<a href="{esc(url)}" style="color:#9ca3af;text-decoration:none;font-size:12px;">Google News（可能打不开）</a></div>')
             if it.get("id"):
                 star_url = f"{PAGES_BASE}?star={it['id']}"
                 parts.append(f'<div style="margin:8px 0 0;"><a href="{esc(star_url)}" style="color:#d97706;text-decoration:none;font-size:12.5px;font-weight:600;">⭐ 收藏到看板</a></div>')
