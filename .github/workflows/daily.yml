@@ -36,6 +36,13 @@ jobs:
             git checkout 621ee121135991d41859abe35c3fd62b8c4ecee1 -- literature.json
           fi
 
+      - name: Fetch global multilingual news (Google News + GDELT)
+        # 先跑全球资讯: 生成 manual_inbox/global-YYYY-MM-DD.json 分片,
+        # 随后由 fetch_literature.py 现有的 manual_inbox 合并逻辑去重并入主库;
+        # 分片为运行时临时文件, 不随仓库提交; 资讯源失败不阻断正式论文采集与邮件
+        continue-on-error: true
+        run: python3 scripts/fetch_global_news.py --days 2
+
       - name: Fetch multi-board papers (Europe PMC + PubMed + OpenAlex + Scopus)
         env:
           ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
