@@ -1,6 +1,6 @@
 # T2T & 昆虫功能基因组 · 多专题科研文献看板
 
-一个纯静态、零后端、零数据库的**个人科研文献追踪系统**：GitHub Actions 每天从多个公开学术源自动检索 5 个研究方向的**已正式发表**论文，生成可筛选的网页看板，并通过你自己的 SMTP 邮箱把分专题学术日报发到指定邮箱；微信公众号 / 中文资讯由每日补录任务汇入。
+一个纯静态、零后端、零数据库的**个人科研文献追踪系统**：GitHub Actions 每天从多个公开学术源自动检索 5 个研究方向的**已正式发表**论文，并以多语种关键词检索全球新闻媒体资讯（含港澳台与海外媒体），生成可筛选的网页看板，并通过你自己的 SMTP 邮箱把分专题学术日报发到指定邮箱；微信公众号 / 中文资讯由每日补录任务汇入。
 
 - 在线看板：<https://triiumpher.github.io/t2t-literature-board/>
 - 纯前端：`index.html` + `literature.json`，托管于 GitHub Pages
@@ -26,13 +26,17 @@
 | PubMed (E-utilities) | 否 | NCBI，收录最快 |
 | OpenAlex | 否 | 全学科开放库，排除预印本仓库 |
 | **Elsevier Scopus** | **是 `ELSEVIER_API_KEY`** | 第四源；未配 key 时自动跳过、不影响其余三源 |
-| 微信公众号 / 中文资讯 | — | 无合法公开 API，由每日补录任务检索后写入 `literature.json` |
+| 微信公众号 / 中文资讯 | — | 无合法公开 API，由每日补录任务检索后写入 `manual_inbox/` 分片 |
+| **全球多语种资讯** Google News RSS | 否 | 主资讯源。17 个 locale：英语（美/英/印/加/澳）＋繁体中文（港澳台媒体）＋日/韩/西（西班牙/拉美）/葡/法/德/意/印尼/俄，关键词以拉丁学名/英文专名为锚点并辅以各语种翻译词，写入 `manual_inbox/global-*.json` 分片（运行时临时文件，不入库） |
+| **全球多语种资讯** GDELT 2.0 | 否 | 兜底资讯源。14 个 `sourcelang`（英/中/日/韩/西/葡/法/德/意/印尼/俄/阿/越/土），中文仅取港澳台及海外华文源；请求间隔 10s 且 429 时自动退避重试 |
 
-> 每板块设“目标条数”（默认 5）：不足时自动把回溯窗口从 3 天逐步扩大到 7→15 天上限（`cmed` 为 45 天）以尽量凑够；若该方向真实发文不足，则以实际为准，不编造。
+> 正式论文每板块设“目标条数”（默认 5）：不足时自动把回溯窗口从 3 天逐步扩大到 7→15 天上限（`cmed` 为 45 天）以尽量凑够；若该方向真实发文不足，则以实际为准，不编造。全球资讯与中文资讯按板块分别设 25 条/天、总量 100 条/天上限，标题级正则把关，自动排除水体残留监测、网络药理学、营销类噪声。
 
 ## 每条文献的字段
 
-`id, title, type(paper/wechat), boards[], source, authors, publish_date, added_at, url, doi, pmid, abstract`，以及本次新增：
+`id, title, type(paper/wechat/news), boards[], source, authors, publish_date, added_at, url, doi, pmid, abstract`，以及本次新增：
+
+> `type` 三种取值：`paper`＝正式论文（四源自动采集）、`wechat`＝中文资讯（人工补录分片）、`news`＝全球多语种资讯（Google News/GDELT 自动采集）。三类条目共用同一套字段、同一去重索引、同一封分板块邮件。
 
 - `species_latin / species_en / species_zh`：研究物种**拉丁学名 / 英文名 / 中文名**（内置昆虫词典 + 双名法高置信识别，宁空勿错）
 - `takeaway`：**一句话总结**
@@ -42,16 +46,16 @@
 
 ## 每日时间线（北京时间）
 
-1. **06:35** 助手「每日多专题中文资讯补录」任务检索五个板块的微信/中文媒体，去重后提交 `literature.json`
-2. **07:20** GitHub Actions 主触发（UTC `20 23 * * *`）：四源采集 → 分板块发邮件 → 提交数据
-3. **08:47** 兜底触发（UTC `47 0 * * *`）：防止 GitHub 高负载漏跑；脚本当日幂等，不会重复发信
+1. **06:35** 助手「每日多专题中文资讯补录」任务检索五个板块的微信/中文媒体，去重后提交 `manual_inbox/` 分片
+2. **07:20** GitHub Actions 主触发（UTC `20 23 * * *`）：①全球多语种资讯检索（`fetch_global_news.py` → `manual_inbox/global-*.json`）→ ②四源论文采集并把 `manual_inbox/` 全部分片（含中文补录与全球资讯）一并去重并入主库 → ③分板块发邮件 → ④提交数据
+3. **08:47** 兜底触发（UTC `47 0 * * *`）：防止 GitHub 高负载漏跑；脚本当日幂等，不会重复发信、不会重复入库
 
 ## 一次性配置（Repository Settings → Secrets and variables → Actions）
 
 | Secret 名 | 必填 | 内容 |
 |---|---|---|
 | `SMTP_HOST` | 是 | 如 `smtp.126.com` |
-| `SMTP_PORT` | 是 | `465`（SSL）或 `587`（STARTTLS） |
+| `SMTP_PORT` | 是 | `465`（SSL）或 `585`（STARTTLS） |
 | `SMTP_USER` | 是 | 发信邮箱登录名 |
 | `SMTP_PASS` | 是 | 邮箱 **SMTP 授权码**（不是登录密码） |
 | `MAIL_FROM` | 是 | 发信邮箱地址 |
@@ -87,14 +91,17 @@
 
 ```bash
 pip install pyyaml                         # 仅校验 workflow 时需要, 采集/发信纯标准库
-python3 scripts/fetch_literature.py --days 3   # 四源采集并入 literature.json
+python3 scripts/fetch_global_news.py --days 2  # 全球多语种资讯 -> manual_inbox/global-*.json 分片
+python3 scripts/fetch_literature.py --days 3   # 四源论文采集 + 两类分片合并入 literature.json
 python3 scripts/send_digest.py --dry-run       # 生成 state/digest_preview.html 预览, 不发信
 python3 -m http.server 8000                    # 浏览器打开 http://localhost:8000 查看看板
 ```
 
+`fetch_global_news.py` 可选参数：`--no-gnews`（仅跑 GDELT）、`--no-gdelt`（仅跑 Google News）、`--days N`（回溯天数）。
+
 ## 手动补录一条中文资讯
 
-往 `literature.json` 数组里加一条对象即可（注意 `boards` 决定它进哪个板块/邮件段落）：
+往 `manual_inbox/YYYY-MM-DD.json` 写一个条目数组（当天文件可直接追加；与 `literature.json` 同一套去重，次日 Actions 自动并入），单条对象格式如下（注意 `boards` 决定它进哪个板块/邮件段落）：
 
 ```json
 {
@@ -116,11 +123,12 @@ python3 -m http.server 8000                    # 浏览器打开 http://localhos
 }
 ```
 
-## 新增 / 修改板块要改三处
+## 新增 / 修改板块要改四处
 
 1. `scripts/fetch_literature.py` 的 `BOARDS`（四源检索式与相关性规则）
-2. `scripts/send_digest.py` 的 `BOARD_ORDER / BOARD_NAMES / BOARD_COLOR`
-3. `index.html` 的 `BOARDS / BOARD_ORDER`
+2. `scripts/fetch_global_news.py` 的 `EN_QUERIES / NATIVE_TERMS / LANG_INVARIANT` 与分类正则（全球资讯检索词与把关）
+3. `scripts/send_digest.py` 的 `BOARD_ORDER / BOARD_NAMES / BOARD_COLOR`
+4. `index.html` 的 `BOARDS / BOARD_ORDER`
 
 ## 常见问题
 
