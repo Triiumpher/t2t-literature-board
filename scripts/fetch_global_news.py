@@ -336,7 +336,8 @@ def seendate_to_date(s):
 
 # ==================== 相关性分类 ====================
 def classify(title, desc=""):
-    """返回命中的板块 key 列表(可多个); 不命中返回 []。"""
+    """返回命中的板块 key 列表(可多个); 不命中返回 []。
+    同时参考标题与 RSS 描述(新闻标题常省略专业术语)。"""
     blob = f"{title or ''} {desc or ''}"
     boards = []
     if T2T_ANCHOR.search(blob) and GENOME_CTX.search(blob):
@@ -407,6 +408,8 @@ def fetch_gnews(days):
                 source_name = (src_el.text or "").strip() if src_el is not None else ""
                 link = item.findtext("link") or ""
                 pub = rfc822_to_date(item.findtext("pubDate") or "")
+                desc_raw = item.findtext("description") or ""
+                desc = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", desc_raw)).strip()
                 title = clean_title(title, source_name)
                 out.append({
                     "title": title,
@@ -415,6 +418,7 @@ def fetch_gnews(days):
                     "publish_date": pub,
                     "via": f"Google News:{lang}",
                     "lang": lang,
+                    "desc": desc,
                 })
             time.sleep(GNEWS_PAUSE)
     print(f"[info] Google News: 请求 {n_req} 次, 失败 {n_fail} 次, 原始候选 {len(out)} 条")
@@ -529,7 +533,7 @@ def merge_and_classify(raw_items, today):
     accepted = []
     board_count = {b: 0 for b in BOARDS_ORDER}
     for fp, it in merged.items():
-        boards = classify(it["title"])
+        boards = classify(it["title"], it.get("desc", ""))
         if not boards:
             continue
         # 板块配额: 任一板块未超即收
