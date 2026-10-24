@@ -33,6 +33,7 @@ import argparse
 import difflib
 import hashlib
 import html as html_lib
+import http.cookiejar
 import json
 import os
 import re
@@ -544,36 +545,62 @@ def title_sim(a, b):
         ratio = max(ratio, 0.95)
     return ratio
 
+# SOCS 同意 cookie: 绕过 Google 同意墙(consent.google.com), 使文章跳转链接正常 302
+# 该值为 Google 官方公开的「接受所有 cookie」SOCS 标记, 被广泛用于 RSS 阅读器
+SOCS_COOKIE = "CAISHAgCEhJnd3NfMjAyMjA5MF9SQzIaAmRlIAEaBgiAoae5Bg"
+
+
+def _gnews_opener():
+    cj = http.cookiejar.CookieJar()
+    for dom in (".google.com", "news.google.com", "consent.google.com"):
+        cj.set_cookie(http.cookiejar.Cookie(
+            version=0, name="SOCS", value=SOCS_COOKIE,
+            port=None, port_specified=False, domain=dom,
+            domain_specified=True, domain_initial_dot=dom.startswith("."),
+            path="/", path_specified=True, secure=True, expires=None,
+            discard=True, comment=None, comment_url=None, rest={"SameSite": "None"},
+            rfc2109=False))
+    return urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+
+
 def canonicalize_gnews_url(gnews_url):
     """把 news.google.com 跳转链接还原为出版方原文 URL(含 meta refresh / canonical)。
-    失败或仍停在 google 域名时返回 None。"""
+    返回 (url_or_None, 失败原因或 None); 仍停在 google/consent 域名视为失败。"""
     headers = {"User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
                "Accept-Language": "en-US,en;q=0.9"}
     try:
         req = urllib.request.Request(gnews_url, headers=headers)
-        opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor())
-        with opener.open(req, timeout=RESOLVE_TIMEOUT) as r:
+        with _gnews_opener().open(req, timeout=RESOLVE_TIMEOUT) as r:
             final = r.geturl()
             ctype = r.headers.get("Content-Type", "")
             if "html" in ctype or "text" in ctype:
                 body = r.read(800000).decode("utf-8", "ignore")
+                # 同意墙页面里通常带 continue 参数的 meta refresh
                 m = re.search(
                     r'<meta[^>]+http-equiv=["\']?refresh["\']?[^>]*content=["\'][^"\']*url=([^"\'>]+)',
                     body, re.I)
                 if m:
                     cand = urllib.parse.urljoin(final, html_lib.unescape(m.group(1).strip()))
                     if "news.google.com" not in cand and "consent" not in cand:
-                        return cand
+                        return cand, None
+                    # consent 页面: continue 目标仍在 google 域名, 继续尝试跟随
+                    if "consent" in final:
+                        q = urllib.parse.urlparse(final).query
+                        cont = urllib.parse.parse_qs(q).get("continue", [""])[0]
+                        if cont and "news.google.com" not in cont:
+                            return canonicalize_gnews_url(cont)
                 m = re.search(r'<link[^>]+rel=["\']?canonical["\']?[^>]*href=["\']([^"\'>]+)',
                               body, re.I)
-                if m and "news.google.com" not in m.group(1):
-                    return urllib.parse.urljoin(final, html_lib.unescape(m.group(1).strip()))
+                if m and "news.google.com" not in m.group(1) and "consent" not in m.group(1):
+                    return urllib.parse.urljoin(final, html_lib.unescape(m.group(1).strip())), None
             if "news.google.com" not in final and "consent.google" not in final:
-                return final
+                return final, None
+            return None, "consent"
     except Exception as e:  # noqa: BLE001
-        print(f"[warn] 还原 Google News 链接失败: {str(e)[:90]}", file=sys.stderr)
-    return None
+        reason = type(e).__name__
+        print(f"[warn] 还原 Google News 链接失败({reason}): {str(e)[:90]}", file=sys.stderr)
+        return None, reason
 
 def _openalex_resolve(title):
     url = ("https://api.openalex.org/works?"
@@ -632,17 +659,19 @@ def resolve_item_links(items):
     - GDELT 等其他来源条目: 链接保留源网站, 但同样检索 DOI 用于跨源去重。
     全部失败不阻断, 原样保留。"""
     stats = {"doi": 0, "preprint": 0, "canonical": 0, "failed": 0, "unresolved": 0}
+    fail_reasons = {}
     cache = {}
     for it in items:
         is_gnews = it.get("via", "").startswith("Google News")
         if is_gnews:
-            canon = canonicalize_gnews_url(it["url"])
+            canon, reason = canonicalize_gnews_url(it["url"])
             if canon:
                 it["url"] = canon
                 it["link_kind"] = "canonical"
                 stats["canonical"] += 1
             else:
                 stats["failed"] += 1
+                fail_reasons[reason or "unknown"] = fail_reasons.get(reason or "unknown", 0) + 1
         # 预印本(域名/DOI 前缀): 保留原链接, 不做 DOI 转换
         if is_preprint_url(it.get("url", "")):
             it["doi"] = ""
@@ -677,7 +706,8 @@ def resolve_item_links(items):
                 it["link_kind"] = "doi-keepurl"
             stats["doi"] += 1
     print(f"[info] 链接解析: 期刊文章转DOI {stats['doi']} 条, 预印本保留原链接 {stats['preprint']} 条, "
-          f"Google链接还原 {stats['canonical']} 条(失败 {stats['failed']}), 无DOI资讯 {stats['unresolved']} 条")
+          f"Google链接还原 {stats['canonical']} 条(失败 {stats['failed']} {fail_reasons}), "
+          f"无DOI资讯 {stats['unresolved']} 条")
     return stats
 
 
