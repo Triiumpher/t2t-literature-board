@@ -352,6 +352,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20261022-aa1745533a",
+    "title": "Wolbachia redirects host ATP metabolism to suppress viruses in mosquito cells",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNankyTjBuSTJKaEYzOXN2ZE11RXpCZ2pnemFJUV9XNmJLUng4bzlrMW9Jbml1Wm81ODZWQ1hoNnJidkkwWWsxS3dfRHlxYUVWOWFUOGJqUFFjNGlmaTQ1TnFzWXFWZnlMZVUteVVJZW1kSVJUemMwLUdJclpaVmRsMWZlX01HMGNHb2hRSFFUWkE4YXh6UzVfUlA5QnFIdmdPd2hYVA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "沃尔巴克氏体通过重定向蚊细胞ATP代谢抑制病毒",
+    "conclusion": "标题提示沃尔巴克氏体可改变宿主蚊细胞的ATP代谢分配，从而抑制病毒；具体机制与实验证据需见正文，摘要未提供。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "doi-10.1007/s11046-026-01105-1",
     "title": "A Gap-Free Telomere-to-Telomere Genome Assembly of Talaromyces marneffei Strain B33c Provides Insights into Chromosomal Architecture and Comparative Genomics",
     "type": "paper",
@@ -18732,6 +18761,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20250824-8731609bc9",
+    "title": "Peru: Wolbachia mosquito release for Comas district, Lima Province",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Outbreak News Today",
+    "authors": "",
+    "publish_date": "2025-08-24",
+    "added_at": "2026-10-24",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUJHaWR1ZEt5emhkY3RmX0hOR0ZPeDFmcmhTZWtoeEJkUlBHbHBYT0FLbEV0OEExbXFJR2JvbHA0ekhrcExhLThJTm0ydTFBRUU4M3VJWUVoRndSSHJjR3Z6aGxfd0FSMnhCOU55c2xKcUM5dFFGUXJuaHdZTi0teDNn?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "秘鲁利马省科马斯区将释放携带沃尔巴克氏体的蚊子以防控蚊媒疾病。",
+    "conclusion": "该报道指出秘鲁在利马省科马斯区开展沃尔巴克氏体蚊释放项目，属于以蚊媒共生菌沃尔巴克氏体进行生物防控的现场应用，但标题未提供效果数据与具体机制细节。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20250624-20c9c371bc",
     "title": "Paludisme : La résistance des moustiques aux insecticides, un nouveau défi burkinabé",
     "type": "news",
@@ -19160,6 +19218,36 @@
     "link_kind": "doi"
   },
   {
+    "id": "news-20230608-6e344bf3dd",
+    "title": "Wolbachia goes to work in the war on mosquitoes",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2023-06-08",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/d41586-021-02914-8",
+    "doi": "10.1038/d41586-021-02914-8",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "沃尔巴克氏体被用于蚊媒防控，成为对抗蚊虫的新工具",
+    "conclusion": "标题表明沃尔巴克氏体细菌可被应用于蚊虫防治，为控制蚊媒及其传播疾病提供了新思路，但具体机制与效果需依据原文进一步确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20230413-dcf5df95e5",
     "title": "Insecticide ménager : Briochin lance une nouvelle marque baptisée K",
     "type": "news",
@@ -19415,6 +19503,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20220301-72a22e607c",
+    "title": "Removing symbiotic Wolbachia bacteria specifically inhibits oogenesis in a parasitic wasp",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PNAS",
+    "authors": "",
+    "publish_date": "2022-03-01",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1073/pnas.101304298",
+    "doi": "10.1073/pnas.101304298",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Wolbachia bacteria",
+    "species_en": "parasitic wasp",
+    "species_zh": "寄生蜂",
+    "takeaway": "去除共生沃尔巴克氏体可特异性抑制寄生蜂卵子发生",
+    "conclusion": "清除寄生蜂体内的共生沃尔巴克氏体细菌后，其卵子发生受到特异性抑制，提示该共生菌对寄主生殖（尤其卵子形成）具有关键调控作用，且影响具有特异性。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20211124-c3834a67ee",
     "title": "Wolbachia cifB induces cytoplasmic incompatibility in the malaria mosquito vector",
     "type": "news",
@@ -19441,6 +19559,36 @@
     ],
     "via": "Google News:en",
     "link_kind": "doi",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20210923-17580dba9d",
+    "title": "Wolbachia mosquito control: Tested",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Science | AAAS",
+    "authors": "",
+    "publish_date": "2021-09-23",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1126/science.352.6285.526-a",
+    "doi": "10.1126/science.352.6285.526-a",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "沃尔巴克氏体用于蚊虫控制已通过测试验证",
+    "conclusion": "标题表明沃尔巴克氏体介导的蚊虫控制策略已接受实证检验，提示该基于共生菌的防控思路具备可评估性与应用前景，但具体机制与效果需依据原文进一步确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Science",
     "llm_enhanced": true
   },
   {
@@ -19585,6 +19733,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20180924-aa496bc1eb",
+    "title": "A CRISPR–Cas9 gene drive targeting doublesex causes complete population suppression in caged Anopheles gambiae mosquitoes",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2018-09-24",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1038/nbt.4245",
+    "doi": "10.1038/nbt.4245",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Anopheles gambiae",
+    "species_en": "Gambia malaria mosquito",
+    "species_zh": "冈比亚按蚊",
+    "takeaway": "用CRISPR-Cas9基因驱动靶向冈比亚按蚊doublesex基因，在笼养群体中实现完全种群抑制",
+    "conclusion": "靶向doublesex的CRISPR-Cas9基因驱动可使笼养冈比亚按蚊种群完全被抑制，为基于基因驱动的蚊媒种群控制提供了概念验证。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Biotechnology",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20170713-d18745c262",
     "title": "Une nouvelle moustiquaire imprégnée d’un insecticide inédit pour la prévention du paludisme",
     "type": "news",
@@ -19638,6 +19816,36 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20160429-e218cc65ff",
+    "title": "Wolbachia mosquito control: Regulated",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Science | AAAS",
+    "authors": "",
+    "publish_date": "2016-04-29",
+    "added_at": "2026-10-24",
+    "url": "https://doi.org/10.1126/science.352.6285.526-b",
+    "doi": "10.1126/science.352.6285.526-b",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题提示沃尔巴克氏体用于蚊虫防控需纳入监管框架",
+    "conclusion": "该文讨论以沃尔巴克氏体调控蚊媒的防控策略，强调此类释放干预应在规范监管下推进，具体机制与数据因无摘要无法确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Science",
     "llm_enhanced": true
   },
   {
