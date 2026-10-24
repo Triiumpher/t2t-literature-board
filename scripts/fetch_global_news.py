@@ -22,6 +22,7 @@
   邮件与网页看板。分片由 Actions 运行时生成、随 job 销毁, 无需入库。
 容错:
   - 单 locale/单语种请求失败只告警不中断; 两源全部失败也正常退出(不阻断流水线)
+  - GDELT 前两个语种连续被限流即熔断, 跳过剩余语种(出口 IP 被整体限流时不再空等)
   - 同一天重复运行幂等: 与已有当日分片按 id/URL/标题去重后合并
 手动运行:
   python3 scripts/fetch_global_news.py --days 2
@@ -120,7 +121,7 @@ NATIVE_TERMS = {
         "es-ES": "determinación del sexo insecto OR determinación sexual mosquito",
         "es-MX": "determinación del sexo insecto OR determinación sexual mosquito",
         "pt-BR": "determinação do sexo inseto OR determinação sexual mosquito",
-        "fr": "détermination du sexe insecte OR détermination sexuelle moustique",
+        "fr": "détermination du sexe insecto OR détermination sexuelle moustique",
         "de": "Geschlechtsbestimmung Insekt OR Geschlechtsbestimmung Moskito",
         "it": "determinazione del sesso insetto OR zanzara Wolbachia",
         "id": "penentuan kelamin serangga OR nyamuk Wolbachia",
@@ -384,6 +385,7 @@ def fetch_gnews(days):
     """逐 locale × 板块抓取 Google News RSS; 返回原始条目列表。"""
     out = []
     n_req, n_fail = 0, 0
+    board_raw = {b: 0 for b in BOARDS_ORDER}
     for hl, gl, ceid, lang, is_en in GNEWS_LOCALES:
         for board in BOARDS_ORDER:
             q = gnews_query(board, lang) + f" when:{days}d"
@@ -398,6 +400,7 @@ def fetch_gnews(days):
                 print(f"[warn] Google News {lang}/{board} 失败: {str(e)[:120]}", file=sys.stderr)
                 time.sleep(GNEWS_PAUSE * 3)
                 continue
+            board_raw[board] += len(root.findall(".//item"))
             for item in root.findall(".//item"):
                 title = item.findtext("title") or ""
                 src_el = item.find("source")
@@ -415,6 +418,7 @@ def fetch_gnews(days):
                 })
             time.sleep(GNEWS_PAUSE)
     print(f"[info] Google News: 请求 {n_req} 次, 失败 {n_fail} 次, 原始候选 {len(out)} 条")
+    print(f"[info] Google News 各板块原始候选(去重前): {board_raw}")
     return out
 
 
@@ -453,6 +457,7 @@ def gdelt_master_query(lang, country_or):
 def fetch_gdelt(days):
     out = []
     n_req, n_fail = 0, 0
+    consec_fail = 0
     for i, (src_lang, lang, country_or) in enumerate(GDELT_SOURCELANGS):
         q = gdelt_master_query(lang, country_or) + f" sourcelang:{src_lang}"
         url = ("https://api.gdeltproject.org/api/v2/doc/doc?"
@@ -460,12 +465,22 @@ def fetch_gdelt(days):
                    "query": q, "mode": "ArtList", "format": "json",
                    "maxrecords": 200, "timespan": f"{days}d", "sort": "DateDesc"}))
         n_req += 1
-        data = gdelt_get_json(url)
+        # 前两个语种(english/chinese)只做 2 次重试, 快速判定本 IP 是否整体被限
+        retries = 2 if i < 2 else 3
+        data = gdelt_get_json(url, max_retries=retries)
         if data is None:
             n_fail += 1
             arts = []
+            consec_fail += 1
+            # 熔断: 最前面的语种连续失败说明出口 IP 被整体限流, 跳过剩余语种,
+            # 本次以 Google News 为主源, 避免每个语种空等 90s 拖垮整个工作流
+            if consec_fail >= 2 and i <= 2:
+                print("[warn] GDELT 前两个语种连续被限流, 判定本出口 IP 整体受限, "
+                      "跳过剩余语种(本次以 Google News 为主源)", file=sys.stderr)
+                break
         else:
             arts = data.get("articles", []) or []
+            consec_fail = 0
         for a in arts:
             title = re.sub(r"\s+", " ", a.get("title", "") or "").strip()
             link = a.get("url", "") or ""
