@@ -121,7 +121,7 @@ NATIVE_TERMS = {
         "es-ES": "determinación del sexo insecto OR determinación sexual mosquito",
         "es-MX": "determinación del sexo insecto OR determinación sexual mosquito",
         "pt-BR": "determinação do sexo inseto OR determinação sexual mosquito",
-        "fr": "détermination du sexe insecto OR détermination sexuelle moustique",
+        "fr": "détermination du sexe insecte OR détermination sexuelle moustique",
         "de": "Geschlechtsbestimmung Insekt OR Geschlechtsbestimmung Moskito",
         "it": "determinazione del sesso insetto OR zanzara Wolbachia",
         "id": "penentuan kelamin serangga OR nyamuk Wolbachia",
