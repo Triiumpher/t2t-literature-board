@@ -220,7 +220,7 @@ def main():
     ap = argparse.ArgumentParser(description="按板块生成并发送每日文献邮件")
     ap.add_argument("--data", default=os.path.join(os.path.dirname(__file__), "..", "literature.json"))
     ap.add_argument("--dry-run", action="store_true", help="只生成预览, 不实际发信")
-    args = ap.parse()
+    args = ap.parse_args()
 
     today = today_cn().isoformat()
     last = read_last_date()
@@ -262,6 +262,6 @@ def main():
 if __name__ == "__main__":
     try:
         main()
-    except Exception as e:  # noqa: BLE00
+    except Exception as e:  # noqa: BLE001
         print(f"[error] {e}", file=sys.stderr)
         sys.exit(1)
