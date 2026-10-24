@@ -2,11 +2,12 @@ name: Daily Multi-Board Literature Fetch & Mail
 
 on:
   schedule:
-    # GitHub Actions 用 UTC。双时间点冗余, 缓解平台高负载下偶发漏跑:
-    #   23:20 UTC = 北京 07:20(主) ; 00:47 UTC = 北京 08:47(兜底)
+    # GitHub Actions 用 UTC。双时间点冗余, 缓解平台高负载下偶发漏跑/排队延迟:
+    #   22:30 UTC = 北京 06:30(主) ; 23:50 UTC = 北京 07:50(兜底)
+    # 全流程约 10-15 分钟, 主触发保证 9 点前收到; 兜底触发确保漏跑/超时也能补发
     # 当日幂等由 send_digest.py 保证, 重复触发不会发两封邮件
-    - cron: '20 23 * * *'
-    - cron: '47 0 * * *'
+    - cron: '30 22 * * *'
+    - cron: '50 23 * * *'
   workflow_dispatch: {}
 
 permissions:
