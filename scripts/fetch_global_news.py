@@ -55,6 +55,9 @@ GNEWS_PAUSE = 0.4           # Google News 请求间隔(秒)
 GDELT_PAUSE = 10            # GDELT 官方限速 1 req / 5s; 共享 IP 环境取 10s
 RESOLVE_PAUSE = 0.3         # 链接解析/DOI 检索请求间隔(秒)
 RESOLVE_TIMEOUT = 15
+SEARCH_TIMEOUT = 8          # 搜索引擎回退单次请求超时(秒)
+SEARCH_FALLBACK_CAP = 25    # 每轮最多对多少条无 DOI 资讯做搜索引擎回退
+SEARCH_FAIL_CIRCUIT = 3     # 连续失败多少次后停止回退(出口被限流时快速放弃)
 CONTACT_MAIL = os.environ.get("CONTACT_MAIL", "t2t-board@example.com")
 TOOL_NAME = "t2t-literature-board"
 BOARDS_ORDER = ["t2t", "cmed", "sexdet", "ppi", "insecticide"]
@@ -596,9 +599,10 @@ def _accept_consent_and_retry(consent_url, gnews_url, opener, headers):
     return None
 
 
-def canonicalize_gnews_url(gnews_url):
+def canonicalize_gnews_url(gnews_url, allow_consent=True):
     """把 news.google.com 跳转链接还原为出版方原文 URL(含 meta refresh / canonical)。
-    返回 (url_or_None, 失败原因或 None); 仍停在 google/consent 域名视为失败。"""
+    返回 (url_or_None, 失败原因或 None); 仍停在 google/consent 域名视为失败。
+    allow_consent=False 时跳过耗时的同意表单提交(用于批量熔断)。"""
     headers = {"User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
                "Accept-Language": "en-US,en;q=0.9"}
@@ -630,10 +634,11 @@ def canonicalize_gnews_url(gnews_url):
                     return urllib.parse.urljoin(final, html_lib.unescape(m.group(1).strip())), None
             if "news.google.com" not in final and "consent.google" not in final:
                 return final, None
-            # 命中同意墙: 提交同意表单后重试一次
-            retried = _accept_consent_and_retry(final, gnews_url, opener, headers)
-            if retried:
-                return retried, None
+            # 命中同意墙: 提交同意表单后重试一次(仅首条尝试, 批量熔断见 resolve_item_links)
+            if allow_consent:
+                retried = _accept_consent_and_retry(final, gnews_url, opener, headers)
+                if retried:
+                    return retried, None
             return None, "consent"
     except Exception as e:  # noqa: BLE001
         reason = type(e).__name__
@@ -722,17 +727,24 @@ _SEARCH_BLOCKED_HOSTS = ("google.", "youtube.", "facebook.", "twitter.", "x.com"
 
 def search_publisher_url(title, source_url=""):
     """Google 跳转无法还原时, 用标题在 DuckDuckGo/Bing 找回出版方原文链接。
-    优先 RSS source 域名同站结果; 标题相似度 >= 0.86 才采纳。"""
+    优先 RSS source 域名同站结果; 标题相似度 >= 0.86 才采纳。
+    带全局熔断: 连续 SEARCH_FAIL_CIRCUIT 次网络失败/空结果即停止, 并对调用次数封顶。"""
+    if getattr(search_publisher_url, "calls", 0) >= SEARCH_FALLBACK_CAP:
+        return None
+    if getattr(search_publisher_url, "fail_streak", 0) >= SEARCH_FAIL_CIRCUIT:
+        return None
+    search_publisher_url.calls = getattr(search_publisher_url, "calls", 0) + 1
     host_hint = ""
     if source_url:
         m = re.match(r"https?://(?:www\.)?([^/]+)", source_url)
         host_hint = m.group(1).lower() if m else ""
     candidates = []
+    network_ok = True
     # DuckDuckGo HTML 版
     try:
         q = "https://html.duckduckgo.com/html/?" + urllib.parse.urlencode({"q": title})
         req = urllib.request.Request(q, headers=SEARCH_HEADERS)
-        with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT) as r:
+        with urllib.request.urlopen(req, timeout=SEARCH_TIMEOUT) as r:
             body = r.read(400000).decode("utf-8", "ignore")
         for m in re.finditer(
                 r'<a[^>]+class="result__a"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', body, re.S):
@@ -741,13 +753,14 @@ def search_publisher_url(title, source_url=""):
             if href:
                 candidates.append((rt, href))
     except Exception as e:  # noqa: BLE001
+        network_ok = False
         print(f"[warn] DuckDuckGo 回退检索失败: {str(e)[:80]}", file=sys.stderr)
     # Bing 兜底
     if not candidates:
         try:
             q = "https://www.bing.com/search?" + urllib.parse.urlencode({"q": title, "setlang": "en"})
             req = urllib.request.Request(q, headers=SEARCH_HEADERS)
-            with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT) as r:
+            with urllib.request.urlopen(req, timeout=SEARCH_TIMEOUT) as r:
                 body = r.read(400000).decode("utf-8", "ignore")
             for m in re.finditer(r'<li class="b_algo".*?<h2>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>',
                                  body, re.S):
@@ -756,7 +769,9 @@ def search_publisher_url(title, source_url=""):
                 if href:
                     candidates.append((rt, href))
         except Exception as e:  # noqa: BLE001
+            network_ok = False
             print(f"[warn] Bing 回退检索失败: {str(e)[:80]}", file=sys.stderr)
+    found = None
     for rt, href in candidates:
         if not href.startswith("http"):
             continue
@@ -767,9 +782,10 @@ def search_publisher_url(title, source_url=""):
                               or host_hint.endswith(host)):
             continue
         if title_sim(rt, title) >= 0.86:
-            return href
-    # 同站但标题对不上不采纳; 有 host_hint 时不允许跨站, 无 hint 时允许高相似的首条
-    if not host_hint:
+            found = href
+            break
+    # 有 host_hint 时不允许跨站; 无 hint 时允许高相似的首条
+    if not found and not host_hint:
         for rt, href in candidates:
             if not href.startswith("http"):
                 continue
@@ -777,8 +793,14 @@ def search_publisher_url(title, source_url=""):
             if any(host.endswith(b.rstrip(".")) for b in _SEARCH_BLOCKED_HOSTS):
                 continue
             if title_sim(rt, title) >= 0.9:
-                return href
-    return None
+                found = href
+                break
+    if found:
+        search_publisher_url.fail_streak = 0
+    elif not network_ok or not candidates:
+        # 网络失败或被反爬页拦截(无候选)计入熔断
+        search_publisher_url.fail_streak = getattr(search_publisher_url, "fail_streak", 0) + 1
+    return found
 
 
 def resolve_item_links(items):
@@ -792,17 +814,31 @@ def resolve_item_links(items):
              "failed": 0, "unresolved": 0}
     fail_reasons = {}
     cache = {}
+    # 同意墙/跳转批量熔断: 前 2 条均失败则本出口整体不可用, 跳过剩余跳转请求
+    consent_tried = False
+    gnews_blocked = False
+    # 搜索引擎回退熔断状态每轮重置
+    search_publisher_url.calls = 0
+    search_publisher_url.fail_streak = 0
     for it in items:
         is_gnews = it.get("via", "").startswith("Google News")
         if is_gnews:
-            canon, reason = canonicalize_gnews_url(it["url"])
-            if canon:
-                it["url"] = canon
-                it["link_kind"] = "canonical"
-                stats["canonical"] += 1
-            else:
+            if gnews_blocked:
                 stats["failed"] += 1
-                fail_reasons[reason or "unknown"] = fail_reasons.get(reason or "unknown", 0) + 1
+                fail_reasons["skipped"] = fail_reasons.get("skipped", 0) + 1
+            else:
+                canon, reason = canonicalize_gnews_url(it["url"], allow_consent=not consent_tried)
+                if canon:
+                    it["url"] = canon
+                    it["link_kind"] = "canonical"
+                    stats["canonical"] += 1
+                else:
+                    stats["failed"] += 1
+                    fail_reasons[reason or "unknown"] = fail_reasons.get(reason or "unknown", 0) + 1
+                    if reason == "consent":
+                        if consent_tried:
+                            gnews_blocked = True
+                        consent_tried = True
         # 预印本(域名/DOI 前缀): 保留原链接, 不做 DOI 转换
         if is_preprint_url(it.get("url", "")):
             it["doi"] = ""
