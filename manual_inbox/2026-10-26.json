@@ -1,0 +1,95 @@
+[
+  {
+    "id": "manual-20261026-ppbind-affinity",
+    "title": "赛业生物AbSeek平台PPBind模型登刊：PPBind-3D/1D通用蛋白-蛋白结合亲和力AI预测框架助力蛋白药物虚拟筛选",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "中国周刊（咸宁新闻网，赛业生物供稿）",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-26",
+    "url": "http://www.chinaweekly.cn/html/sxzonghe/97016.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "赛业生物与清华珠三角研究院人工智能中心团队在 Antibody Therapeutics 发表 PPBind 蛋白-蛋白结合亲和力预测框架，包含基于自-互注意力几何编码器与单调神经网络约束多任务学习的 PPBind-3D 结构模型，以及经特征对齐知识蒸馏、仅输入序列即可预测的 PPBind-1D 模型。在抗体、纳米抗体亲和力排序案例中验证了其实用价值，网页工具、数据集与代码均开源。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "PPBind以结构模型加序列蒸馏模型覆盖有无三维结构两类场景，可用于蛋白与抗体候选分子的高通量亲和力排序。",
+    "conclusion": "严格iDist聚类划分下 PPBind-3D Pearson相关系数＞0.6、优于PRODIGY等基线；PPBind-1D经特征对齐训练在AlphaFold预测结构不可靠时仍保持稳健（案例Pearson达0.66）；模型局限在于绝对亲和力预测仍有偏差、结构模型依赖复合物结构质量。",
+    "keywords": [
+      "蛋白互作",
+      "蛋白结合亲和力",
+      "深度学习",
+      "知识蒸馏",
+      "蛋白复合物",
+      "虚拟筛选",
+      "PPBind",
+      "PPI"
+    ]
+  },
+  {
+    "id": "manual-20261026-peppi-review-cell-biomaterials",
+    "title": "Cell Biomaterials：西湖大学曾坚阳团队系统梳理肽-蛋白互作，AI赋能多肽药物研发",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "丁香通（丁香学术文献解读）",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-26",
+    "url": "https://m.biomart.cn/news/15/3280289.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "西湖大学曾坚阳团队与宾夕法尼亚大学 Cesar de la Fuente-Nunez 团队合作在 Cell Biomaterials 发表综述 Peptide-protein interactions in drug discovery，系统梳理肽分子的实验发现（噬菌体展示、SPOT、mRNA展示/RaPID、DEL、AS-MS）、AI预测与生成式设计（AlphaFold 3、HighFold、PepFlow、PepGLAD、DiffPepBuilder等），以及治疗应用与临床转化挑战。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该综述整合实验与AI两条路径，给出肽-蛋白互作预测与从头设计的方法全景及KRAS、MDM2/p53、PD-1/PD-L1等靶点转化进展。",
+    "conclusion": "肽分子可模拟蛋白识别界面、拓展可成药靶点空间；未来方向是高通量实验筛选、AI生成模型与自动化合成测试形成设计-合成-测试-学习闭环；模型泛化、负样本不足、膜通透性与可制造性仍是待解难题。",
+    "keywords": [
+      "肽-蛋白互作",
+      "PepPI",
+      "蛋白互作",
+      "生成式设计",
+      "AlphaFold",
+      "多肽药物",
+      "综述",
+      "深度学习"
+    ]
+  },
+  {
+    "id": "manual-20261026-smir-symbiont-resistance-review",
+    "title": "共生体介导的昆虫抗药性：机制、生态遗传与管理权衡（SMIR框架）",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（原文期刊 Pesticide Biochemistry and Physiology）",
+    "authors": "",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-26",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261020000955217.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "杭州师范大学张云华、邵勇奇、张鹏君团队综述提出共生体介导杀虫剂抗性（SMIR）证据框架，归纳细菌共生体影响杀虫剂敏感性的三条反复途径：直接降解杀虫剂、调控宿主解毒与应激通路、多微生物-宿主分布式代谢接力。文章以五级证据水平评估微生物贡献，并讨论共生体获取方式、温度、宿主基因型等对效应方向与田间持久性的影响。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "SMIR框架强调按因果证据强度判定共生体抗性，微生物标志物仅在提供超越宿主标志物的预测价值时才用于抗性监测。",
+    "conclusion": "共生体介导抗性已有多个因果系统支持（如吴氏豆象Burkholderia降解乐果、小菜蛾化学-Bt权衡），但并非普遍解释；效应方向具情境依赖性，可保护亦可敏化；管理转化需定量化分配宿主与微生物效应、菌株级诊断和前瞻性田间验证。",
+    "keywords": [
+      "共生体介导抗性",
+      "杀虫剂抗性",
+      "微生物降解",
+      "解毒代谢",
+      "SMIR",
+      "Burkholderia",
+      "抗性监测",
+      "综述"
+    ]
+  }
+]
