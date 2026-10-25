@@ -301,6 +301,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42911456",
+    "title": "Synthesis and biological assessment of silver nanoparticles using Adiantum incisum extracts",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Discover nano",
+    "authors": "Shuaib MA, Murad W, Khan A, Asad S, Begum HA, Alqahtani O, Alshamrani MA, Al Kazman BSM.",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-25",
+    "url": "https://europepmc.org/article/MED/42911456",
+    "doi": "10.1186/s11671-026-05055-x",
+    "pmid": "42911456",
+    "abstract": "Silver nanoparticles (Ag NPs) were synthesized using methanolic and ethanolic extracts of Adiantum incisum and evaluated different biological activities. The synthesis of Ag NPs was confirmed by color change and UV-vis spectroscopy absorption peak at 400-500 nm. Furthermore, optimized biosynthesis by adjusting parameters such as temperature (50-65 °C for methanolic extract and 35 °C for ethanolic extract), pH (Optimum pH 9-10), and various salt concentrations (0.2 mL NaCl showed maximum stability). Additionally, the characterization of silver nanoparticles was performed using Fourier-transform infrared spectroscopy (FTIR) which revealed the presence of functional groups involved in capping and reduction, X-ray diffraction (XRD) which confirmed the face-centered cubic crystalline structure, energy dispersive X-ray spectroscopy (EDX) confirmed the presence of elemental silver, and scanning electron microscopy (SEM) revealed monodispersed spherical particles. Similarly, the biological activities of plant extracts and synthesized silver nanoparticles were evaluated. Insecticidal assays against Tribolium castaneum showed 56.7% and 53.4% mortality for methanolic and ethanolic Ag NPs at 1000 µg/mL. Phytotoxicity tests against Lemna minor indicated 51.11% inhibition for ethanolic-extract synthesized Ag NPs, while 45.5% inhibition for methanolic-extract synthesized Ag NPs. Antioxidant activity assessed using the 2,2-diphenyl-1-picrylhydrazyl (DPPH) assay revealed 85.2% inhibition for ethanolic Ag NPs and 64.96% inhibition for methanolic Ag NPs at 500 µg/mL. The analgesic potential was evaluated using the acetic acid-induced writhing test, where ethanolic silver nanoparticles demonstrated 65.2% inhibition and methanolic silver nanoparticles 61.11% inhibition at 500 µg/mL. The anti-inflammatory activity showed 79.2% inhibition for methanolic Ag NPs and 75% inhibition for ethanolic Ag NPs at 300 µg/mL. Antibacterial assays against Shigella dysenteriae and Pseudomonas aureginosa showed inhibition zone of 22 mm against S. dysenteriae and 20 mm against P. aureginosa for ethanolic Ag NPs and 22 mm against S. dysenteriae and 18 mm against P. aureginosa for methanolic Ag NPs. Antifungal activity against Aspergillus niger also showed a notable inhibition zone, where methanolic silver nanoparticles showed 14 mm and ethanolic silver nanoparticles showed 12 mm inhibition at 100 µg/mL. Furthermore, some parameters such as particle size or surface charge are the shortcomings of the study. These findings demonstrate that the biosynthesis of silver nanoparticles from A. incisum extracts exhibits significant biological activities, highlighting their potential applications in pharmaceutical and agricultural fields.",
+    "species_latin": "Adiantum incisum",
+    "species_en": "Maidenhair fern",
+    "species_zh": "细叶铁线蕨",
+    "takeaway": "用Adiantum incisum醇提物绿色合成银纳米颗粒，表征其结构并显示杀虫、抗氧化、抗炎及抗菌等多种活性",
+    "conclusion": "该蕨类植物提取物可稳定还原并包覆生成面心立方球形银纳米颗粒，优化温度、pH与盐浓度后，颗粒对赤拟谷盗具杀虫性，并有抗氧化、镇痛、抗炎及抑制痢疾志贺菌和铜绿假单胞菌的活性，提示其多领域应用潜力",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42913090",
     "title": "A telomere-to-telomere (T2T) genome assembly of the Wuzhishan pig",
     "type": "paper",
@@ -18316,6 +18342,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260330-b51fb71637",
+    "title": "New Analyses: EPA Consistently Fails to Warn Public of Pesticide Cancer Risks",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Center for Food Safety",
+    "authors": "",
+    "publish_date": "2026-03-30",
+    "added_at": "2026-10-25",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekJzWTVHUEtEQndNRURiR2Q2TEV4UTJ1MDlONTg1UDhEWUIwODZrQk9UdVpNSnFMT1oyUXFQUWJHZkRiRmVRTDFYWHZwckFva3haMG1YazI1eUE0b1JJRzNqRkZzSUVaZ2E5Ul9JUzQ5VVhqYzIzZjIzaUxMUUIwMnVCVEFUQTNjSXI4a0lGQ3RoUTZ4Yy1QQ1k3VUJMS0ZXR0duLVFQS1FiaGJ3QnMyVlpfUUo2NGZackx4V09fdW8?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "分析显示EPA在农药致癌风险上未持续向公众发出警示",
+    "conclusion": "基于标题可推断，相关分析一致表明美国环保署在农药致癌风险信息上未能履行对公众的警示职责，提示其风险评估与风险沟通存在不足，但具体机制与证据需见原文。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20260327-832e827f18",
     "title": "Certains moustiques résistent désormais aux insecticides et pesticides, selon une nouvelle étude",
     "type": "news",
@@ -19265,8 +19320,8 @@
     "authors": "",
     "publish_date": "2025-04-10",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xNVVyNWZQTjdBRlQ5TWpmelJKRm9mZHRfcVRWNlpRakFfb0I4cUI3ZExtT0lMcUU2ZDdpZmk0VWl0cW1ISUkwekZ5TGh3SkVTcHkySnNxYy1YdGdlU0Zv?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-025-96510-9",
+    "doi": "10.1038/s41598-025-96510-9",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -19280,7 +19335,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20250407-5880598726",
@@ -19349,8 +19405,8 @@
     "authors": "",
     "publish_date": "2025-01-02",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDBrd2hrR2FsSS0yNWhob1pUYnY1RERTb2hlN2dXSkx3VGV5QnNDY21sdmF3N0I0X25LQVZIN2VnaHAybF9LelhJX0VZaF92cXJGalQ0RFJxYXVNdzliNWc4ZzVoTTg2YkdacFR0SFNkeTAyZDRuMGhITnBfdDRWcEZHNGdZUVEyWWVQWVBkS0FDMjJm?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.3389/fphar.2024.1518875",
+    "doi": "10.3389/fphar.2024.1518875",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -19364,7 +19420,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20241212-9bded1f1c3",
@@ -19435,8 +19492,8 @@
     "authors": "",
     "publish_date": "2024-10-18",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zVU9UR2dNMVU4SWI3Y0JNVWhnOE9yN3Z4Z2RVOTBQcVo2eUtuM09iLWZFaWZXR0hkMlNhU05aSEtaTHh3QklPdUFBZ1ZWcGxBbm5nZ1JNY2tORm14Q0Vj?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-024-72784-3",
+    "doi": "10.1038/s41598-024-72784-3",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -19450,7 +19507,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20240927-5772b3fb72",
@@ -19579,8 +19637,8 @@
     "authors": "",
     "publish_date": "2023-11-10",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QWS1IMXBIOUdvMV8zeEpwVVBHcFVqaGY2QlY0OFNxNk83NW5VZTIzNVc4UUFJNmNMTmxrbkM2bXVQcHltbFE5N1NzclpkX0JSN251eVoxOFlRQ0RCU2pR?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s42003-023-05525-3",
+    "doi": "10.1038/s42003-023-05525-3",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -19594,7 +19652,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20230821-361fbe795d",
@@ -19752,8 +19811,8 @@
     "authors": "",
     "publish_date": "2022-12-21",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xU1V1azdGSlhlOUJFUlFzb0lZeEtaUGNkWDJXTlhNVzZ0d294RkJhanl2QkpJU0Z0azhSazd3bmdIZTNHaGJrYWdldkNZSDZ2UFIxQVdYSUpqMDF1cEpN?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41467-022-35593-8",
+    "doi": "10.1038/s41467-022-35593-8",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -19767,7 +19826,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20221202-b035daacf8",
@@ -19867,8 +19927,8 @@
     "authors": "",
     "publish_date": "2022-05-23",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMblpHVndwYThTd0hIN2RyNVotdElhcElRUHd4TXFwaXNWX0JKU2NwaGlTWGRrUV9GMGFRUzBBcEVwUjlRZDE3S1Rydmp1ZmhINUM4UWZMQ2VmU29objdr?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41587-022-01307-0",
+    "doi": "10.1038/s41587-022-01307-0",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -19882,7 +19942,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20220519-1b2456845e",
@@ -19895,8 +19956,8 @@
     "authors": "",
     "publish_date": "2022-05-19",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qTWFadW5XSDMyNFpObWgyTDVOWVBXclRPT292S0RQYmVzOVNvWUd6M3gwMTI1eVpTdUZTTW52S2hGNVdNbTRPZ2w1elFvQ1dCT0ZkTE1QeF9qRkVHdlBV?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-022-12201-9",
+    "doi": "10.1038/s41598-022-12201-9",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -19910,7 +19971,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20220419-569e848525",
@@ -20069,8 +20131,8 @@
     "authors": "",
     "publish_date": "2021-08-19",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1laTI3amVYTExuMzlSaTR4ZENReVAzTE4tOHJlaS1nUEUxbkdKUGQxM01ubzBrazhHLWNvUnV5X1FzaU0zYUhOSjlJX01DOXg3eWRtblRtMUtjTHp4eWNn?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/s41598-021-96265-z",
+    "doi": "10.1038/s41598-021-96265-z",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -20084,7 +20146,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20210609-e918ee0731",
@@ -20268,8 +20331,8 @@
     "authors": "",
     "publish_date": "2016-05-13",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xUWRCd1pGVzZRa2d3M0RXVWx0UmU5RWVHaGxHdE9paTg4S2V5UlNxV2k4MmNTUnZwZGdTN1AzY0tESDU5Q3ZSazVjdUt1WndwandV?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/srep25406",
+    "doi": "10.1038/srep25406",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -20283,7 +20346,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20160429-e218cc65ff",
@@ -20326,8 +20390,8 @@
     "authors": "",
     "publish_date": "2016-04-28",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZS2dlS0JqaVRjN0hnYXhKZl94M3RyZ3VqUmg0Ym9iMEFobGtwT0FaclJHMVJQZlE3WkhFZGRGM0REeC1USm9FU2cwQkJ2UXhtRUN3?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/srep25047",
+    "doi": "10.1038/srep25047",
     "pmid": "",
     "abstract": "",
     "species_latin": "Solanum lycopersicum",
@@ -20341,7 +20405,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20160318-7307107aaf",
