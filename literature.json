@@ -1,5 +1,31 @@
 [
   {
+    "id": "title-repurposingtheinsecticideflufenerimtheonlyanticryptococcusco",
+    "title": "Repurposing the Insecticide Flufenerim, the Only Anti-Cryptococcus Compound Identified in the MMV Global Health Priority Box, as a Candidate for the Environmental Control of the Cryptococcosis Agents",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Godoy J, de Andrade I, de Oliveira E, Avellar-Moura I, Gomes K, da Costa F, de Oliveira M, Taborda C, Guimarães A, Zancopé-Oliveira R, Almeida M, Frases S, Almeida-Paes R.",
+    "publish_date": "2026-10-24",
+    "added_at": "2026-10-25",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Cryptococcus neoformans",
+    "species_en": "Cryptococcus",
+    "species_zh": "隐球菌",
+    "takeaway": "研究将杀虫剂Flufenerim重定位为环境控制隐球菌的候选化合物。",
+    "conclusion": "Flufenerim是MMV全球健康优先盒中唯一被鉴定出的抗隐球菌化合物，本研究提出将其重新利用，作为环境控制隐球菌病病原体的候选方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261024-2328cfa49a",
     "title": "Wolbachia Genomes Evolve Rapidly in Mosquito Cell Culture",
     "type": "news",
@@ -167,7 +193,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -219,7 +245,59 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42913951",
+    "title": "Synthesis, bioevaluation and structure-activity relationship of podocarpamide derivatives from Zanthoxylum alkaloids (ZAs)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Fitoterapia",
+    "authors": "Wu Y, Deng J, Tang X, He C, Liu F, Ke S.",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-25",
+    "url": "https://europepmc.org/article/MED/42913951",
+    "doi": "10.1016/j.fitote.2026.107523",
+    "pmid": "42913951",
+    "abstract": "Natural products have become an important source for the innovation of new drugs and green pesticides due to their structural diversity and novelty. Some alkaloids of the genus Zanthoxylum with cinnamamide core usually exhibit a wide range of biological activities. The representative podocarpamide is isolated in trace amounts from the bark of Zanthoxylum podocarpum (Rutaceae). In this study, the synthetic method of podocarpamide was optimized to achieve large-scale preparation, and a series of podocarpamide derivatives were also designed and synthesized via a structure-activity relationships (SARs)-driven pharmacophore hopping strategy. Through systematic in vitro and in vivo biological evaluations, together with mechanistic studies including scanning electron microscopy (SEM), molecular docking, and DFT calculations, some podocarpamide derivatives with potential antifungal activity were discovered. Especially, compound 1f exhibited broad-spectrum antifungal effects, achieving an EC₅₀ of 9.63 μg/mL against B. cinerea and demonstrating the most potent activity against P. theae (EC₅₀ = 8.95 μg/mL). This work not only enables efficient resource utilization of natural products, but also provides a research basis for the design of structurally novel fungicidal agents derived from Zanthoxylum alkaloids.",
+    "species_latin": "Zanthoxylum podocarpum",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "优化花椒属生物碱podocarpamide合成并衍生化，发现化合物1f具广谱抗真菌活性。",
+    "conclusion": "研究实现了podocarpamide的规模化合成，并基于构效关系设计合成一系列衍生物；经体外、体内评价及SEM、分子对接和DFT机制研究，获得具潜在抗真菌活性的衍生物，其中1f对灰葡萄孢和茶褐枯病菌活性最强，为源自花椒属生物碱的新型杀菌剂设计提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42911287",
+    "title": "Unraveling acetamiprid resistance in Aphis craccivora (Hemiptera: Aphididae): resistance risk assessment, fitness costs, cross-resistance, biochemical and molecular characterization, and in silico docking study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology (London, England)",
+    "authors": "Aioub AAA, Hashem AS, Ahmed HHR, Alkeridis LA, Al-Shahari EA, Shukry M, Hamada HMA, Sayed S, El-Harairy A, Abdel-Wahab SIZ.",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-25",
+    "url": "https://europepmc.org/article/MED/42911287",
+    "doi": "10.1007/s10646-026-03163-z",
+    "pmid": "42911287",
+    "abstract": "Aphis craccivora Koch (Hemiptera: Aphididae) is a major sucking pest of legumes. Neonicotinoid insecticides are extensively utilized for A. craccivora control. The extended use of neonicotinoids, including acetamiprid (ACP) to manage A. craccivora, has led to the development of resistance. However, the potential to delay the development of ACP resistance in A. craccivora has not yet been investigated. Our study aimed to examine the development of ACP resistance in A. craccivora over 20 generations, and the associated heritability (h2), fitness costs, biochemical mechanisms, and potential cross-resistance were evaluated. Gene expression of GST and Cyp-450 was measured under ACP exposure, and molecular docking of ACP with these proteins in the presence of diethyl maleate (DEM) and piperonyl butoxide (PBO) was analyzed. Our data showed that the ACP-resistant (ACP-R) strain of A. craccivora showed a 25.57-fold enhancement in LC₅₀ compared to the Sus-strain, with realized heritability (h²) of 0.21 and reduced fitness (0.69). The net reproduction rate (R0), mean relative growth rate (MRGR), intrinsic rate of increase (r), and finite rate of increase (λ) were markedly lower in the ACP-R strain than in the Sus-strain of A. craccivora. Upregulation of Cyp-450 (CYP18A1, CYP4CJ14) and GST (GSTS3, GSTO1) genes enhanced enzyme activity, while Car-E showed no significant correlation with ACP susceptibility. Enzyme inhibitors PBO and DEM increased ACP toxicity, and molecular docking suggested their interaction with Cyp-450 and GST proteins contributes to resistance. Our findings offer key insights into ACP resistance in A. craccivora, supporting the development of management strategies and decision-making tools.",
+    "species_latin": "Aphis craccivora",
+    "species_en": "Cowpea aphid",
+    "species_zh": "豌豆蚜",
+    "takeaway": "豌豆蚜经20代筛选对啶虫脲抗性升25.57倍，具中等遗传力并伴随适合度代价",
+    "conclusion": "豌豆蚜对啶虫脲的抗性可稳定发展，现实遗传力为0.21，抗性品系适合度下降至0.69且种群增长参数显著降低；CYP18A1、CYP4CJ14及GSTS3、GSTO1上调增强解毒酶活性，PBO与DEM可增效，分子对接提示其与Cyp-450、GST互作参与抗性，为抗性治理提供依据",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -271,7 +349,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -297,7 +375,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -323,7 +401,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -349,7 +427,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -408,6 +486,63 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261025-host-mediated-sequestration",
+    "title": "浙大团队揭示杀虫剂借抗性宿主“偷袭”天敌，可能驱动高营养级的抗性进化",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "世界农化网",
+    "authors": "",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-25",
+    "url": "https://cn.agropages.com/News/NewsDetail---39024.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江大学黄佳、黄健华团队在 PNAS 发表封面论文，提出“宿主介导的杀虫剂转移”新生态暴露途径：携带靶标位点抗性的植食性害虫可在体内积累未代谢杀虫剂，成为“有毒猎物”，经寄生关系将毒素传递给寄生蜂，导致寄生蜂羽化率降低、寿命缩短、体型变小，且负面影响可跨代持续。对 133 个寄生蜂物种的 Rdl 基因分析还发现，12 个物种携带抗性突变，其中 11 种的宿主同样存在 Rdl 抗性。",
+    "species_latin": "Myzus persicae",
+    "species_en": "green peach aphid",
+    "species_zh": "桃蚜",
+    "takeaway": "靶标抗性害虫可成为杀虫剂“储存库”并定向毒害天敌，提示杀虫剂抗性评估须纳入经抗性宿主的间接暴露风险。",
+    "conclusion": "抗性宿主（蚜虫、果蝇）体内高浓度杀虫剂残留显著降低寄生蜂适合度并具跨代效应；寄生蜂 Rdl 抗性突变与宿主抗性高度重合，提示杀虫剂经宿主传递可能驱动高营养级的平行抗性进化；未来 IPM 与生态风险评估应包含抗性害虫介导的间接暴露。",
+    "keywords": [
+      "杀虫剂抗性",
+      "靶标抗性",
+      "寄生蜂",
+      "Rdl",
+      "新烟碱",
+      "多杀菌素",
+      "生态风险",
+      "三营养级"
+    ]
+  },
+  {
+    "id": "pmid-42905803",
+    "title": "Functional expression of heteromeric insect/human nicotinic acetylcholine receptor chimeras without accessory proteins",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Channels (Austin, Tex.)",
+    "authors": "Lokaj G, Nicke A.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-25",
+    "url": "https://europepmc.org/article/MED/42905803",
+    "doi": "10.1080/19336950.2026.2736911",
+    "pmid": "42905803",
+    "abstract": "Nicotinic acetylcholine receptors (nAChRs) are primary targets of insecticides. While most mammalian nAChRs form functional channels in heterologous systems, insect nAChRs remain notoriously difficult to reconstitute. Here, we co-expressed insect/human subunit chimeras to enable functional analysis of heteromeric insect nAChR ligand‑binding sites in Xenopus laevis oocytes. First, EGFP-tagged human/cockroach α7 chimeras (Hα7/Pα7) were generated by exchanging the signal peptide (SP), extracellular (ECD), transmembrane (TMD), and intracellular (L3-4) domains. While all constructs were translated into protein, Hα7-like acetylcholine-evoked currents were only observed when human N- and C-terminal ECD and ICD were present, indicating that these domains impose insect-specific constraints on homomeric nAChR formation. Second, we generated heteromeric chimeric receptors by fusing insect-derived ECDs onto hα7 subunits. Co-expression of Pα6/Hα7 L3-4 and Pα7 ECD /Hα7 chimeras resulted in current amplitudes ECD /Hα7, Aα6 ECD /Hα7, and Aα7 ECD, CT /Hα7 chimeras yielded currents > 1 µA. α-Bungarotoxin inhibited diheteromeric Pα6α7 chimeras (IC 50 49 nM) and triheteromeric Aα5/α6/α7 chimeras (IC 50 51.2 nM). Third, this approach was applied to cockroach Pα2 and Pβ1 subunits. Replacement of the Pα2 ICD and the Pβ1 TMD/ICD with homologous regions from Hα2 and Hβ2 subunits and co-expression with Pα1 resulted in a ~ 100-fold current increase (2.6 µA) compared to the wild‑type Pα1α2β1 receptor. The chimeric receptor was activated by neonicotinoids (EC 50 clothianidin: 24.1 nM, EC 50 thiacloprid: 13.6 nM) and α-bungarotoxin-sensitive (IC 50 : 36.6 nM). In conclusion, we demonstrate that replacement of insect ICD or ICD and TMD enables formation of functional insect-like heteromeric nAChRs without co-expression of chaperones.",
+    "species_latin": "Blattella germanica, Xenopus laevis",
+    "species_en": "German cockroach, African clawed frog",
+    "species_zh": "德国小蠊（蟑螂）、非洲爪蟾",
+    "takeaway": "用昆虫/人α7嵌合体在蛙卵表达昆虫异聚烟碱受体，无需伴侣蛋白即可获得功能通道",
+    "conclusion": "替换昆虫亚基的胞内环或胞内环加跨膜区，可让昆虫异聚nAChR在异源系统中形成功能性通道，且保留对新烟碱类杀虫剂和α-银环蛇毒素的敏感性，为昆虫受体药理学研究提供可行平台",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261021-a2131f7614",
     "title": "India's Food Regulator Proposes New Pesticide Residue Limits for Two Insecticides in Tea for Exports",
     "type": "news",
@@ -458,7 +593,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -484,7 +619,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -510,7 +645,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -614,7 +749,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -640,7 +775,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -666,7 +801,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -692,7 +827,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -718,7 +853,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -909,6 +1044,37 @@
     ],
     "via": "PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261025-patent-pesticide-roundup",
+    "title": "12个重磅潜力专利农药新品种盘点：除草剂、杀虫剂、杀菌剂全景梳理",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "农资与市场（农药资讯网）",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-25",
+    "url": "http://www.enongzi.com/news/details?id=4987ac8a-5143-4e58-915f-7da821a4641d",
+    "doi": "",
+    "pmid": "",
+    "abstract": "文章盘点全球 12 个具重磅潜力的专利农药新品种，其中杀虫剂包括溴虫氟苯双酰胺、环丙氟虫胺、氟噁唑酰胺、异噁唑虫酰胺，均为 GABA 门控氯离子通道别构调节剂，并逐一梳理各品种的作用机理、登记开发进展与专利情况。同时涵盖四氟咯草胺等新型作用机理除草剂与多款杀菌剂。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该盘点集中呈现以 GABA 氯离子通道别构调节剂为代表的新一代专利杀虫剂及其作用机制与商业化时间表。",
+    "conclusion": "4 个重点在研杀虫剂均作用于 GABA 门控氯离子通道（IRAC 第30组等），与现有药剂无交互抗性，是应对抗性害虫的重要新品；文章同时给出各化合物专利到期时间与全球登记路线，为研发与市场跟踪提供参考。",
+    "keywords": [
+      "新型杀虫剂",
+      "GABA门控氯离子通道",
+      "异噁唑虫酰胺",
+      "溴虫氟苯双酰胺",
+      "氟噁唑酰胺",
+      "作用靶标",
+      "专利农药",
+      "抗性管理"
+    ]
   },
   {
     "id": "doi-10.3389/fpls.2026.1967410",
@@ -2823,6 +2989,67 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261025-mulberry-t2t",
+    "title": "aBIOTECH | 重庆市农业科学院完成桑属“珍珠白”T2T无间隙基因组组装并揭示其核型演化与白色果实形成的分子基础",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "科学网（转载aBIOTECH公众号）",
+    "authors": "",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-25",
+    "url": "https://wap.sciencenet.cn/home.php?do=blog&id=1555779&mod=space&uid=3458049",
+    "doi": "",
+    "pmid": "",
+    "abstract": "重庆市农业科学院团队在 aBIOTECH 发表研究，整合 PacBio HiFi、ONT 超长读长与 Hi-C 技术，首次构建白桑品种“珍珠白”（MZB）317.6 Mb 的 T2T 无缺口基因组，锚定14条染色体并完整解析28个端粒和14个着丝粒。研究追踪了桑属核型演化轨迹，并发现 CHS 基因破坏性变异、CHS 家族收缩与 FLS 家族扩张共同导致花青素缺乏，揭示白色果实形成的分子基础。",
+    "species_latin": "Morus alba",
+    "species_en": "white mulberry",
+    "species_zh": "白桑",
+    "takeaway": "首个白桑“珍珠白”T2T无缺口基因组为桑属核型演化与果实颜色变异研究提供了高质量参考。",
+    "conclusion": "MZB 基因组 contig N50 达21.7 Mb、BUSCO 98.0%、QV 52.9，填补旧版250个缺口并纠正1号染色体大规模错误排列；桑属祖先约124 MYA经历古老全基因组复制，MZB保留n=14祖先核型；CHS功能受损与FLS底物分流共同造成白色果实表型。",
+    "keywords": [
+      "T2T基因组",
+      "端粒到端粒",
+      "无缺口组装",
+      "白桑",
+      "Morus alba",
+      "核型演化",
+      "花青素",
+      "CHS"
+    ]
+  },
+  {
+    "id": "manual-20261025-isocycloseram-incipio",
+    "title": "先正达加拿大推出异噁唑虫酰胺叶面杀虫剂，将于2027年上市",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "世界农化网",
+    "authors": "",
+    "publish_date": "2026-10-09",
+    "added_at": "2026-10-25",
+    "url": "https://cn.agropages.com/News/NewsDetail---38917.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "先正达加拿大公司推出基于 PLINAZOLIN 技术的 Incipio 叶面杀虫剂，活性成分为异噁唑虫酰胺，属 IRAC 第30组 GABA 门控氯离子通道变构调节剂，预计 2027 年生长季上市。该产品已登记用于马铃薯、苹果、芸苔属、葫芦科及多种特种作物，可防治科罗拉多马铃薯甲虫、马铃薯叶蝉、欧洲玉米螟及螨类，且与现有作用机理无交互抗性。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "异噁唑虫酰胺（IRAC 第30组）在加拿大推进登记，为多种作物害虫提供全新作用机理的抗性管理工具。",
+    "conclusion": "Incipio 以 GABA 门控氯离子通道变构调节为作用机制，具快速停食、最长14天持效、2小时耐雨水冲刷及无交互抗性等特点；异噁唑虫酰胺已在阿根廷、印度、巴西、澳大利亚等多国登记上市，加拿大六产品于2026年5月获批。",
+    "keywords": [
+      "异噁唑虫酰胺",
+      "isocycloseram",
+      "GABA门控氯离子通道",
+      "IRAC第30组",
+      "新型杀虫剂",
+      "PLINAZOLIN",
+      "抗性管理"
+    ]
+  },
+  {
     "id": "pmid-42852486",
     "title": "Pyrrolidinium ionic liquid and Polysorbate 20 based nanoemulsions of lambda-cyhalothrin: formulation, physicochemical characterization and enhanced surface wettability",
     "type": "paper",
@@ -4005,6 +4232,37 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261025-dogma-ogm-yeast",
+    "title": "无酶密集光学基因组图谱（OGM）实现酵母染色体规模组装：DOGMA流程从细菌到真核基因组的扩展",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-10-02",
+    "added_at": "2026-10-25",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261002024831175.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究将原用于细菌的密集光学基因组图谱组装流程 DOGMA 扩展至真核生物，以酿酒酵母和裂殖酵母为模型，利用基于竞争性结合的无酶密集 OGM 产生连续荧光强度条形码。通过重复元件检测掩蔽、相关性 bargroup 组装与参考辅助精修，实现染色体规模光学图谱组装，且不塌缩非相邻重复位点，并揭示参考基因组中缺失的 >500 kbp 扩展重复阵列。",
+    "species_latin": "Saccharomyces cerevisiae",
+    "species_en": "budding yeast",
+    "species_zh": "酿酒酵母",
+    "takeaway": "DOGMA 证明密集无酶 OGM 可扩展到真核基因组，为解析重复区与复杂染色体结构提供独立于测序的长程组装框架。",
+    "conclusion": "DOGMA 在两种酵母中重建染色体规模图谱，覆盖 >98% 参考条形码，发现染色体 XII 上 ≥550 kbp 重复块及裂殖酵母 III 号染色体两端 ≥1 Mb 的 rDNA 重复阵列；重复感知掩蔽与长程强度谱策略为向更大、更复杂基因组乃至人类基因组扩展奠定基础。",
+    "keywords": [
+      "光学基因组图谱",
+      "OGM",
+      "DOGMA",
+      "酵母",
+      "Saccharomyces cerevisiae",
+      "染色体组装",
+      "重复阵列",
+      "基因组组装"
+    ]
   },
   {
     "id": "news-20261002-007e97c406",
@@ -16344,6 +16602,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260708-f14856bd2f",
+    "title": "Emergency Petition Urges EPA to Add Cancer Warnings to Pesticide Labels",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Center for Biological Diversity",
+    "authors": "",
+    "publish_date": "2026-07-08",
+    "added_at": "2026-10-25",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGlfclRBc19oUmZYX0JpZlk5OU5OTTRkQkdFdi00djFqS2czcmx5SkhNS3c4YWFfVEdONVZ1WXlocEVVaWQyaVZIeGV2STc4d0tpY0xfT1FZNE43d2JMeXdaZTcyMFRfMGVTWWFGb2JPTFFFdmdjc0ZvcFdmcFlWakNab1prUHMzeF9UWmpBeXNJVEFwUlBxSDRpZ1YtcmI4VjI3WlFBanhibXp6OE5wSkg3dGRLLUhXZkZVTDYxVHBvZDkxWklGb05rbFYtcmFhTDk4?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "某紧急请愿要求美国环保署在农药标签上加注致癌警示。",
+    "conclusion": "该请愿主张农药暴露与癌症风险相关，呼吁监管机构通过标签警示强化风险沟通；因无摘要，具体农药品种、证据与机制均不明确。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42735986",
     "title": "A review of acaricide resistance of the Rhipicephalus sanguineus group worldwide",
     "type": "paper",
@@ -17657,8 +17944,8 @@
     "authors": "",
     "publish_date": "2026-05-11",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ25NSU9PZVVWRWxsbjdmcXNsaWdRQTNmX08ybnkxTG9JN0RLcUJOWlozblJJQ3hCWXVhVDRHV2hUcXp5SEJRWXhpODBVbWdQRlFKT2kwWVpkVzhicjhGV282WG1POTdRWlhhclBJS1ZqMlRDZmxBUlpDZmVVdzAxdGFKLURCY1pPVnVCamRKX2w0dW9wdDRkRUhFZ1EzQTByeEFLWVBxNllJR2YtWnRnYnhwODZJSFVQci1qcjZ1U3pvT1c2TElUZ2dkejZfMG9LQnc5MkRNUTZZOWRwZndVXzlHYV8yenRWZ1E?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.7759/cureus.108637",
+    "doi": "10.7759/cureus.108637",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -17672,7 +17959,8 @@
       "en"
     ],
     "via": "Google News:en",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "pmid-42788158",
@@ -18113,6 +18401,65 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260321-4e5ce49399",
+    "title": "Investigating the mechanistic link between pesticide DDT and breast cancer through network toxicology, molecular docking, and molecular dynamics simulation",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-03-21",
+    "added_at": "2026-10-25",
+    "url": "https://doi.org/10.1038/s41598-025-20169-5",
+    "doi": "10.1038/s41598-025-20169-5",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用网络毒理学、分子对接与分子动力学模拟探究DDT与乳腺癌的机制关联",
+    "conclusion": "该研究综合运用网络毒理学、分子对接和分子动力学模拟,从计算层面寻找农药DDT与乳腺癌之间可能的分子靶点与作用通路,为二者关联提供机制线索,尚需实验验证。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260317-9a7f69da90",
+    "title": "Poisoned promise: India among four major contributors to global pesticide toxicity",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Down To Earth",
+    "authors": "",
+    "publish_date": "2026-03-17",
+    "added_at": "2026-10-25",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZjNXSGluYnlTRWhhYzF3WGZzRV9KbzlkWVJKM2JfQ2FhcVRBZ3RVdklsZVV3b1dMM00waWxOakZ3ak51dHhUclJZU20yWmRiSE5nMDlDOGt2T0ZVTmRrWVR3TGpQbGlhWWxBanRlQmhIOXNtZ0llSlhvaFJjaDJsbUtpZ3pHdEtjdVotV18zMUY2V2FXeXRCRzBmcmdlNDFWZEhpYlZPMWF4UHJmS19rV2g0NlBic1VhdWtfU0FxRk40QdIBzwFBVV95cUxNYlJpZU83Nk5fN2NYOFRlZkh0eFRIMEZVOVNIYWZhUmdXVWhHOGp1MkJnTjkzRXFycDBCaElKS2RSbVNfVTZkZ004TDMwV0luYUtkS2xaX0VRbXAzOVNyS3A2M2o3TWx1N0xqWjQ2bm1fb0NiVTdWcmNNOVVfUTNPbUFaeElGVXh2VmxrOEZoaVpIVnRwNmJNTFBhVE83Rkd1ekpLVjJhNmt3MG4zVENQbnlZREhDcWtIT3RKRHBMM1J6Sk5PQVNZSDRya09VeTg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印度是全球农药毒性四大贡献国之一，标题警示农药承诺暗藏毒性风险。",
+    "conclusion": "该文指出印度与另外三个国家共同构成全球农药毒性的主要来源，提示农药使用带来的健康与环境风险需引起重视，但具体机制与数据因无摘要无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20260316-7c3efbb7a5",
     "title": "A dual-branch graph neural network architecture for drug-target binding affinity prediction",
     "type": "news",
@@ -18140,6 +18487,35 @@
     "via": "Google News:en",
     "link_kind": "doi",
     "journal": "Scientific Reports",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260306-e7986004f2",
+    "title": "Nations not on track to meet UN 2030 pesticide risk reduction targets: Study",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "news - Mongabay",
+    "authors": "",
+    "publish_date": "2026-03-06",
+    "added_at": "2026-10-25",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORi04el9RV3c0eko4QkExMUg5RmpJYnpRejFhVXd2cXpQb1luSHRNVVlSZnhxRUREd2p1VDVuOUQ0bTM0SUNqV1dUTW5GUWFFdFpNQU9WZ2RYNUJGUUNyVmg1djkyX3lqOHZQaHdkSUdxczF0OUdKR29Cb2xCbGVDWEVrUTduUG1xYXdSZmF2SUd2aFVrRWUwVjZ1Ul9YWXg4aDlCcGZKWW9JYmxMYWlZ0gG0AUFVX3lxTE9Cc2VEaFdQbmJDU2tHTm5sX3FBTU95VnoyVnZTT0YtRXppemp4Y1ZKeFZaUHdTQ210aGxySlBLeW5NT0oxaUQzaFBtRk9GM3J2UGhjdUFibFVScW1vR3E0bjNrZDlpTG9ldmxOdkJfcnJBSXcxdk93ZHhPSW8td1RnUk13NzlCVk1Kd2dHbmpyTUgwQmg1bldycTlIN21yT2FIRE44VzFZQjc3NlJaOExvaGYtbQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究评估各国农药风险削减进展，发现多数国家难以按期实现联合国2030年减险目标",
+    "conclusion": "基于标题可判断，该研究对各国在联合国2030年农药风险削减目标上的进展进行了评估，结果显示多数国家进度不足、难以如期达标，提示现行农药管控与减险政策力度不够，需加强治理以兑现全球承诺。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -18335,6 +18711,66 @@
       "fr"
     ],
     "via": "Google News:fr",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260128-59b7fb4f3d",
+    "title": "Pesticide cocktails negatively affect soil biodiversity",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-01-28",
+    "added_at": "2026-10-25",
+    "url": "https://doi.org/10.1038/d41586-026-00039-4",
+    "doi": "10.1038/d41586-026-00039-4",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "农药混合暴露会降低土壤生物多样性，但具体机制与物种尚不明确。",
+    "conclusion": "基于标题可谨慎推断：多种农药混合施用对土壤生物多样性具有负面影响，提示农药混配的环境风险需重视；因无摘要，具体机制与科学意义无法确定。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260128-369680bf0c",
+    "title": "Pesticide residues alter taxonomic and functional biodiversity in soils",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-01-28",
+    "added_at": "2026-10-25",
+    "url": "https://doi.org/10.1038/s41586-025-09991-z",
+    "doi": "10.1038/s41586-025-09991-z",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究提示农药残留会改变土壤生物的分类与功能多样性。",
+    "conclusion": "基于标题可推断，农药残留与土壤生物多样性变化相关，其影响不仅体现在物种组成（分类多样性）上，也可能涉及生态功能层面；具体机制与因果方向需原文数据支持。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature",
     "llm_enhanced": true
   },
   {
@@ -19388,6 +19824,36 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20220702-b9c99df470",
+    "title": "Protein–protein interaction and non-interaction predictions using gene sequence natural vector",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2022-07-02",
+    "added_at": "2026-10-25",
+    "url": "https://doi.org/10.1038/s42003-022-03617-0",
+    "doi": "10.1038/s42003-022-03617-0",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出基于基因序列自然向量的方法预测蛋白质间是否相互作用。",
+    "conclusion": "该研究利用基因序列的自然向量表征来预测蛋白质–蛋白质相互作用与非相互作用，为仅凭序列信息推断蛋白互作关系提供了新思路，有望辅助功能注释与互作网络构建。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Communications Biology",
     "llm_enhanced": true
   },
   {
