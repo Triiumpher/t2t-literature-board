@@ -1,0 +1,95 @@
+[
+  {
+    "id": "manual-20261027-cmed-pheromone-aa-ae",
+    "title": "稻纵卷叶螟不同性信息素类型雄蛾的行为反应和转录组水平的差异",
+    "type": "wechat",
+    "boards": [
+      "cmed"
+    ],
+    "source": "昆虫学报（2026年第69卷第9期）",
+    "authors": "",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-10-27",
+    "url": "http://www.insect.org.cn/CN/10.16380/j.kcxb.2026.09.003",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江大学杜永均团队在浙江、江苏、湖南、云南、广东6个稻区用醛醇型（AA）与酯型（AE）两种性信息素诱芯开展田间诱捕，结合触角电位、触角转录组与qRT-PCR比较两类雄蛾。发现两种诱芯的诱捕效果存在显著地理差异，雄蛾对7种关键信息素组分的EAG反应及4个性信息素受体（CmedPR1-4）表达不同，CmedPR1在AA型雄蛾中全域上调、CmedPR3全域下调。",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaffolder",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "稻纵卷叶螟种内性信息素通讯存在地理适应性分化，CmedPR1与CmedPR3是介导两类雄蛾嗅觉行为差异的关键分子靶标。",
+    "conclusion": "AA型与AE型雄蛾在行为选择、外周嗅觉生理及受体基因表达上均发生分化；触角转录组共鉴定81个气味受体基因；研究为地理特异性的性信息素监测与群集诱杀技术提供了理论依据。",
+    "keywords": [
+      "稻纵卷叶螟",
+      "Cnaphalocrocis medinalis",
+      "性信息素",
+      "性信息素受体",
+      "CmedPR",
+      "转录组",
+      "触角电位",
+      "地理分化"
+    ]
+  },
+  {
+    "id": "manual-20261027-hdock-multimer",
+    "title": "HDOCK-Multimer：整合分子对接与组合装配的大型蛋白复合物结构预测方法",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（原文期刊 Nature Computational Science）",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-27",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261014235547911.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究提出HDOCK-Multimer（HDM）框架：先用AF2/AFM生成单体与三聚体亚组分，再依据同源性与两两对接结果选择非对称对接、对称对接或遗传算法组合装配策略，并用IT-score排序。在35个大型异聚复合物、172个大型复合物及7个CASP15靶标上，top-1成功率最高达86%，显著优于CombFold、MoLPC、AlphaFold-Multimer与AlphaFold3，且可在无化学计量输入下推断复合物组成。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "HDOCK-Multimer以对接降低对亚组分质量的依赖、以装配利用两两互作，突破了端到端方法在大型多链复合物上的显存与精度瓶颈。",
+    "conclusion": "混合对接-装配框架在性能与可扩展性上均优于现有最先进方法，可建模AFM/AF3无法处理的超大复合物；界面新颖性分析显示其预测不主要依赖已知界面，具备组装新复合物的能力；未来需发展多体打分函数并扩展对称类型。",
+    "keywords": [
+      "蛋白复合物",
+      "蛋白互作",
+      "分子对接",
+      "组合装配",
+      "HDOCK",
+      "AlphaFold-Multimer",
+      "结构预测",
+      "遗传算法"
+    ]
+  },
+  {
+    "id": "manual-20261027-iodo-imidazopyridine",
+    "title": "含碘咪唑并[4,5-b]吡啶类化合物的设计、合成及杀虫活性研究",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（原文期刊 Chemistry & Biodiversity）",
+    "authors": "",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-27",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261016001308026.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究以oxazosulfyl为先导，经骨架跳跃与活性片段拼接设计合成15个含碘咪唑并[4,5-b]吡啶衍生物，测试对小菜蛾、粘虫和豆蚜的活性。多数化合物在1 mg/L下对粘虫致死率接近100%（oxazosulfyl同期为0%），化合物10a和12a对小菜蛾、粘虫LC50低至0.28～0.96 mg/L，综合活性优于oxazosulfyl。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "oxazosulfyl骨架跳跃并引入碘与酰胺基团可显著提升杀虫活性，为新型杀虫剂提供了高活性先导结构。",
+    "conclusion": "叔胺通常优于仲胺、碘代类似物普遍优于溴代类似物（碘高亲脂性利于穿透表皮）；亲脂性与空间位阻的平衡是活性关键；目标化合物推定靶标为囊泡乙酰胆碱转运蛋白（VAChT），但对豆蚜活性普遍不理想。",
+    "keywords": [
+      "新型杀虫剂",
+      "咪唑并吡啶",
+      "oxazosulfyl",
+      "VAChT",
+      "骨架跳跃",
+      "构效关系",
+      "小菜蛾",
+      "粘虫"
+    ]
+  }
+]
