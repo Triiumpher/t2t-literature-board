@@ -1,5 +1,57 @@
 [
   {
+    "id": "pmid-42926146",
+    "title": "Corrigendum to \"Two decades of spatial and temporal pesticide risk to non-target invertebrates in England farmlands\" [Environ. Int. 204 (2025) 109856]",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environment international",
+    "authors": "Gibbs M, Mancini F, Carvell C, Powney G, Harrower CA, Skinner G, Dearlove E, Robinson A, Schultz CL, Jarvis S, Pywell R, Woodcock BA, Spurgeon D.",
+    "publish_date": "2026-10-24",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42926146",
+    "doi": "10.1016/j.envint.2026.110566",
+    "pmid": "42926146",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该文为英格兰农田农药对非靶标无脊椎动物二十年时空风险研究的更正声明",
+    "conclusion": "本文是对原研究《英格兰农田农药对非靶标无脊椎动物二十年时空风险》的更正（勘误），不涉及新的实验数据或结论；原研究关注农药暴露在空间与时间上对非靶标无脊椎动物的风险，更正内容需以原文为准。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42926000",
+    "title": "EFFICACY OF EUGENOL AGAINST N, N'-DIMETHYL-4,4'-BIPYRIDINIUM DICHLORIDE (PARAQUAT)-INDUCED NA⁺/K⁺/CA²⁺ DYSREGULATION AND BEHAVIORAL DEFICITS IN RAT MODELS",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Brain research bulletin",
+    "authors": "Obinna UO, Augustine IO, Victoria CO, Emeka IC, Ejiofor AJ, Tamunoibelema CB, Samuel OO.",
+    "publish_date": "2026-10-24",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42926000",
+    "doi": "10.1016/j.brainresbull.2026.112176",
+    "pmid": "42926000",
+    "abstract": "BACKGROUND: Ion level disruption causes mitochondrial aberration and alters cytochrome c activity. PURPOSE: To evaluate the efficacy of eugenol in Na+/K+/Ca2+ Cytochrome C dysregulation and behavioral deficits in Wistar rats. METHODS: Forty male Wistar rats were acclimatised for two weeks and assigned to five groups of 8 rats. Group A received feed and normal saline. Groups B, C, D, and E received 10mg/kg paraquat (PQ), and then C, D, and E received eugenol at graded doses of 200, 400, and 600mg/kg. PQ was administered for 28 days at 1-day intervals, before the rats were treated with eugenol for 14 days via the oral route. Social interaction and depression-like behaviours were studied using a sociability chamber and a tail suspension box. RESULTS: In Group B, interstitial Na+/K+ increased, while Ca2+ significantly decreased. In the treated groups, Na+/K+ and Ca2+ levels decreased and increased significantly, respectively. Cytochrome C, Caspase cleavage, and Full-length cytokeratin-18 were significantly increased in the untreated Group B and were reduced by eugenol (p<0.05). In the PQ-untreated Group, social interaction and immobility were impaired, but eugenol attenuated these behavioral deficits. Dopamine levels and gamma-glutamyl transferase activities were lowered and increased in Group B, respectively, while eugenol increased and reduced them (p<0.05). Microscopically, paraquat caused a significant loss of dopaminergic neurons, formation of Lewy bodies, and Pyknosis in the substantia nigra. CONCLUSIONS: Overall, eugenol shows valuable therapeutic potential against pesticide-induced neurotoxicity and associated ion dysregulation.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Wistar rat",
+    "species_zh": "Wistar大鼠",
+    "takeaway": "丁香酚可改善百草枯暴露大鼠的离子紊乱、细胞色素C异常与行为缺陷",
+    "conclusion": "百草枯引起大鼠钠钾升高、钙降低及细胞色素C、Caspase和细胞角蛋白-18异常，并造成多巴胺能神经元丢失与行为障碍；丁香酚剂量依赖性逆转这些改变，显示其对抗农药神经毒性的治疗潜力",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "title-repurposingtheinsecticideflufenerimtheonlyanticryptococcusco",
     "title": "Repurposing the Insecticide Flufenerim, the Only Anti-Cryptococcus Compound Identified in the MMV Global Health Priority Box, as a Candidate for the Environmental Control of the Cryptococcosis Agents",
     "type": "paper",
@@ -10,10 +62,10 @@
     "authors": "Godoy J, de Andrade I, de Oliveira E, Avellar-Moura I, Gomes K, da Costa F, de Oliveira M, Taborda C, Guimarães A, Zancopé-Oliveira R, Almeida M, Frases S, Almeida-Paes R.",
     "publish_date": "2026-10-24",
     "added_at": "2026-10-25",
-    "url": "",
-    "doi": "",
-    "pmid": "",
-    "abstract": "",
+    "url": "https://europepmc.org/article/MED/42923420",
+    "doi": "10.1021/acsomega.6c04207",
+    "pmid": "42923420",
+    "abstract": "Cryptococcus neoformans and Cryptococcus gattii are environmental fungi that cause cryptococcosis, a severe, life-threatening infection, particularly in immunocompromised individuals. Current treatments are limited by toxicity, restricted availability, and the emergence of resistance, highlighting the need for novel antifungal agents. Here, 240 compounds from the Medicines for Malaria Venture (MMV) Global Health Priority Box were screened for activity against these two species. Flufenerim, originally developed as an insecticide, was the only compound that exhibited inhibitory activity at 1 μM (0.364 μg/mL). Minimum inhibitory concentrations ranged from 0.03 μg/mL to >8 μg/mL across 15 isolates, and the compound exhibited a predominantly fungistatic profile, except for one C. gattii strain. At subinhibitory concentrations, flufenerim significantly reduced capsule thickness in both species, melanization in C. neoformans, and urease production in C. gattii, without affecting phospholipase activity. In silico ADMET predictions indicated predicted toxicological risks requiring further evaluation. Cytotoxicity assays further demonstrated that the compound did not exhibit significant toxicity in murine and human macrophages, nor in human brain endothelial cells (HBECs). Exposure of Galleria mellonella larvae to flufenerim produced sublethal physiological effects without mortality. Due to the unfavorable ADMET profile, we evaluated whether this compound could be used for environmental control of fungal reservoirs. Tree-hollow samples spiked with C. neoformans and treated with flufenerim yielded fewer yeast colonies than untreated controls when plated on Staib's agar. These findings identify flufenerim as a new anti-Cryptococcus compound and provide preliminary evidence supporting its potential for reducing C. neoformans recovery from environmental substrates. However, the ecological complexity of Cryptococcus reservoirs and the potential effects on nontarget microorganisms require extensive investigation before any environmental application can be considered.",
     "species_latin": "Cryptococcus neoformans",
     "species_en": "Cryptococcus",
     "species_zh": "隐球菌",
@@ -22,7 +74,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "EuropePMC",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -81,6 +133,58 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.53941/hm.2026.100025",
+    "title": "From Prediction to Design: A Paradigm Shift in AI-Driven Protein–Protein Interaction Research",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Health and Metabolism",
+    "authors": "Yihuang Wu, Wei Hu, Linlin Zhao",
+    "publish_date": "2026-10-23",
+    "added_at": "2026-10-26",
+    "url": "https://doi.org/10.53941/hm.2026.100025",
+    "doi": "10.53941/hm.2026.100025",
+    "pmid": "",
+    "abstract": "Protein-protein interactions (PPIs) form the molecular foundation of cellular life. Over the past two decades, computational methods for PPI analysis have primarily focused on prediction—inferring interaction properties from protein information. However, a notable conceptual shift is underway away from predictive analysis and toward rational protein interaction design. This transformation is driven by breakthroughs in protein language models, diffusion models, and equivariant neural networks. In this review, we discuss how this transition represents a notable conceptual shift, enabling exploration of sequence-structure space that evolution has never sampled. We synthesize the technical foundations, core design tasks, and challenges ahead. We address critical issues including evaluation bias, the hallucination problem, and dual-use considerations. We conclude with grand challenges for the field: mapping design ability boundaries, designing dynamic interactions, and developing interpretable methods for clinical translation. We further describe how modern AI reshapes computational approaches for biological discovery.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出AI蛋白质研究正从预测相互作用转向理性设计，得益于蛋白质语言模型、扩散模型与等变神经网络。",
+    "conclusion": "AI驱动的蛋白质相互作用研究正经历从预测到设计的范式转变，使探索进化未采样的序列-结构空间成为可能；文章梳理技术基础、核心设计任务与挑战，并讨论评估偏差、幻觉和两用风险，提出绘制设计能力边界、设计动态相互作用及发展可解释临床转化方法等重大挑战。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42924434",
+    "title": "The hidden cost of plant protection through systemic insecticides: Balancing pest control with the safeguarding of non-target pollinators",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Integrated environmental assessment and management",
+    "authors": "Cappa F, Iovinella I, Paoli F, Di Cesare F, Baracchi D, Barzanti GP, Marianelli L.",
+    "publish_date": "2026-10-23",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42924434",
+    "doi": "10.1093/inteam/vjag170",
+    "pmid": "42924434",
+    "abstract": "Invasive insect pests present escalating threats to agricultural productivity and environmental stability, often necessitating the intensive use of broad-spectrum insecticides that jeopardize non-target organisms and ecosystem services. Endotherapy (i.e. trunk injection) is increasingly proposed as a sustainable alternative to conventional sprays to minimize environmental dispersion and reduce off-target impact. In the present study, we used the highly polyphagous Japanese beetle Popillia japonica, a quarantine priority pest in EU due to its significant economic and environmental risks, as a model to evaluate the ecological trade-offs of systemic pest management. We assessed the efficacy of three active ingredients, acetamiprid, abamectin, and emamectin benzoate, in controlling the invasive pest. The compounds were injected into linden trees, Tilia spp., at the resumption of vegetative growth, and their translocation to floral tissues was quantified to determine potential risks to the non-target honey bee, Apis mellifera. Results indicate that while acetamiprid provided effective control of adult beetles, its residues detected in flowers significantly reduced honey bee survival and altered feeding behavior in a dose-dependent manner. Crucially, sublethal concentrations of both acetamiprid and abamectin impaired bee cognitive performance, highlighting hidden costs often overlooked in standard ecotoxicity assessments. These findings underscore that the perceived safety of endotherapy is contingent upon active ingredient selection and application timing relative to blooming. Our work demonstrates the necessity of evaluating systemic treatments within a sustainability-oriented framework that balances immediate pest suppression with the long-term safeguarding of pollination services. Such integrated approaches are essential for aligning agricultural practices with global mandates for pesticide reduction and biodiversity conservation.",
+    "species_latin": "Popillia japonica; Apis mellifera; Tilia",
+    "species_en": "Japanese beetle; honey bee; linden",
+    "species_zh": "日本金龟子；蜜蜂；椴树",
+    "takeaway": "树干注射三种杀虫剂可控制日本金龟子，但药剂转运至花部残留会损害蜜蜂生存、取食与认知。",
+    "conclusion": "乙酰甲胺磷类乙酰甲胺磷（acetamiprid）能有效控制日本金龟子成虫，但其花部残留以剂量依赖方式降低蜜蜂存活并改变取食行为；乙酰甲胺磷与阿维菌素的亚致死浓度均损害蜜蜂认知能力。说明树干注射的安全性取决于药剂选择及相对花期的施用时机，需在兼顾害虫压制与授粉昆虫保护的可持续框架下评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -219,7 +323,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -242,6 +346,84 @@
     "species_zh": "狼蛛",
     "takeaway": "草甘膦基除草剂降低狼蛛捕食率，抗生素预处理可缓解此亚致死效应",
     "conclusion": "草甘膦基除草剂对雌性狼蛛具亚致死毒性，显著降低其捕食率；但经四环素预处理改变宿主相关微生物后，捕食率回升，说明该毒性依赖宿主共生等抗生素敏感过程，提示农药对生态系统服务的影响受捕食者生理背景调节",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42922159",
+    "title": "Gap-Free Cannabis sativa Assemblies Reveal Post-Polyploid Genome Remodelling and Refine the Evolution of Cannabinoid Synthase Genes",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant biotechnology journal",
+    "authors": "Zhang J, Qin C, Li Z, Zhao L, Biswas A, Liu T, Luan M, Li L, Li D, Yan J.",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42922159",
+    "doi": "10.1111/pbi.70766",
+    "pmid": "42922159",
+    "abstract": "Despite the therapeutic importance of cannabinoids, the scarcity of gap-free Cannabis genomes has limited the dissection of the genetic and genomic basis of cannabinoid biosynthesis and genome evolution. Here, we generated two haplotype-phased, gap-free, gold-standard assemblies and used them to investigate post-polyploid genome remodelling and refine the evolutionary history of cannabinoid synthase genes. Analyses of these gap-free assemblies recovered a γ whole-genome triplication (WGT) signal shared with core eudicots and provided no evidence for additional lineage-specific whole-genome duplication (WGD) in Cannabis. The extant Cannabis genome reflects long-term retention and divergence of a subset of γ-derived duplicates, together with subsequent non-WGD-derived gene duplications and repeat-associated remodelling that contributed substantially to present-day genome diversification. Furthermore, phylogenomic, structural and syntenic evidence indicate that a precursor duplication predating the Cannabis-Humulus split gave rise to two lineages retained in Cannabis on chromosomes 7 and 2. In Cannabis, the chromosome 7 lineage subsequently expanded and diversified into the functional cannabinoid synthase genes, whereas Humulus retained only the lineage resembling the Cannabis chromosome 2 copy. This asymmetric retention and diversification provide new insights into the origin and specialization of cannabinoid biosynthesis in Cannabis. Together, these results provide a high-quality genomic framework for understanding the history of polyploidy, the evolution of the cannabinoid synthase gene and genome diversification in Cannabis.",
+    "species_latin": "Cannabis sativa",
+    "species_en": "Cannabis",
+    "species_zh": "大麻",
+    "takeaway": "研究发布两个无间隙大麻单倍型基因组，揭示多倍化后基因组重塑及大麻素合成酶基因演化。",
+    "conclusion": "大麻基因组无谱系特异性全基因组复制，现存基因组源于γ三倍化后部分重复的长期保留与分化，以及非全基因组复制来源的基因重复和重复序列相关重塑；大麻与葎草分化前的祖先重复产生两条谱系，大麻7号染色体谱系扩张分化为功能性大麻素合成酶基因，葎草仅保留类似2号染色体拷贝，揭示大麻素生物合成起源与特化。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42925570",
+    "title": "Genetic Modification Technologies and Microbial Interventions for Mosquito Control: Recent Advances in Biological Strategies Against Vector-Borne Diseases",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Journal of vector borne diseases",
+    "authors": "Abbasi E.",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42925570",
+    "doi": "10.4103/jvbd.jvbd_45_26",
+    "pmid": "42925570",
+    "abstract": "BACKGROUND OBJECTIVES: Mosquito-borne diseases continue to pose major global public health challenges, while increasing insecticide resistance and environmental concerns necessitate the development of sustainable alternatives to conventional vector control. This review evaluates recent advances in biological mosquito control, focusing on genetic modification technologies, Wolbachia -based interventions, and entomopathogenic fungi. METHODS: A systematic review was conducted according to PRISMA guidelines. Literature published between 2000 and 2025 was retrieved from PubMed, Scopus, Web of Science, and Google Scholar. Eligible studies investigating mosquito-targeted biological interventions were critically evaluated through qualitative evidence synthesis and methodological quality assessment. RESULTS: The included studies demonstrated variable levels of evidence across intervention types. SIT and selected genetically engineered population-suppression approaches produced substantial reductions in mosquito abundance under field or operational conditions, whereas CRISPR/Cas9 and gene-drive technologies remained supported predominantly by laboratory or contained experimental evidence. Wolbachia population-replacement interventions generated the strongest community-level epidemiological evidence, including reductions in dengue incidence following successful establishment. Entomopathogenic fungi reduced adult mosquito survival mainly under laboratory and semi-field conditions. Across interventions, effectiveness depended on ecological context, operational capacity, surveillance, regulatory requirements, and community engagement. INTERPRETATION CONCLUSION: Biological control technologies provide environmentally sustainable and species-specific alternatives to chemical insecticides. Their successful integration into Integrated Vector Management requires continued ecological monitoring, regulatory oversight, multidisciplinary collaboration, and community engagement to ensure safe and effective large-scale implementation.",
+    "species_latin": "Entomopathogenic fungi",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述表明基因改造、沃尔巴克氏体和虫生真菌等生物防控手段可替代化学杀虫剂，其中沃尔巴克氏体种群替换的流行病学证据最强。",
+    "conclusion": "生物防控技术为蚊媒病控制提供了环境友好、物种特异的化学杀虫剂替代方案；SIT和部分遗传工程种群压制在野外显著降低蚊虫数量，沃尔巴克氏体替换在社区层面降低登革热发病的证据最强，CRISPR/Cas9与基因驱动仍以实验室证据为主；其大规模整合需生态监测、监管、多学科协作与社区参与。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42922156",
+    "title": "Lack of fitness cost associated to CYP9K1-mediated insecticide resistance in Anopheles funestus, represents a threat to vector control",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Manyaka-Tientcheu CRK, Tchouakui M, Djoko Tagne CS, Wondji MJ, Njiokou F, Wondji CS.",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42922156",
+    "doi": "10.1002/ps.71270",
+    "pmid": "42922156",
+    "abstract": "BACKGROUND: Resistance management is critical to maintain insecticide effectiveness in malaria control, and understanding fitness costs of metabolic resistance is key for effective contingency strategies. This study investigates fitness costs linked to two key metabolic resistance mechanisms, CYP9K1 (454A) and GSTe2 (119F) in Anopheles funestus from Central Cameroon. Using DNA-based diagnostic tools, we evaluated fitness parameters, while monitoring changes in resistance alleles frequencies across generations. RESULTS: Our findings reveal that 454A-CYP9K1 confers fitness advantages, notably through accelerated pupation (RR versus SS: OR = 4.85; P < 0.0001) and extended adult longevity (RR versus SS: OR = 4.91; P = 0.0001). By contrast, 119F-GSTe2 showed no significant impact on the mosquito's life traits. No significant correlation was observed between the expression of CYP9K1 or GSTe2 and life traits such as adult lifespan, larval development (P = 0.2 and P = 0.1, respectively), or oviposition. After 13 generations without insecticide exposure, despite the absence of the homozygous-resistant 454A/A-CYP9K1 genotype, the 454A-CYP9K1 resistance allele persisted at moderate frequencies (0.39-0.32), indicating a slow reversal of susceptibility. Contrarily, a faster recovery of susceptibility was observed for GSTe2, with the 119F-GSTe2 resistance allele declining from 0.14 to complete absence. CONCLUSION: These findings elucidate how fitness costs shape insecticide resistance reversal. Although removing insecticide pressure can promote susceptibility restoration, the process might be slower for some (CYP9K1) yet faster for others (GSTe2). Moreover, increased vector longevity associated with resistance could enhance malaria transmission potential. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Anopheles funestus",
+    "species_en": "Funestus mosquito",
+    "species_zh": "富氏按蚊",
+    "takeaway": "喀麦隆按蚊CYP9K1抗性等位基因454A带来化蛹加快与成虫寿命延长等适合度优势，停药13代后仍维持中频。",
+    "conclusion": "CYP9K1介导的代谢抗性未表现适合度代价，反而赋予加速化蛹和延长成虫寿命的优势，使454A等位基因在无杀虫剂压力下消退缓慢；GSTe2的119F等位基因无显著生活史影响且消退更快。抗性伴随的寿命延长可能提升疟疾传播潜能，对媒介控制构成威胁。",
     "keywords": [
       "新型杀虫剂"
     ],
@@ -509,6 +691,32 @@
       "T2T 端粒到端粒基因组"
     ],
     "via": "OpenAlex;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42926360",
+    "title": "The genome sequence of the Toadflax Pug, Eupithecia linariata ([Denis & Schiffermüller], 1775) (Lepidoptera: Geometridae)",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Wellcome open research",
+    "authors": "",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42926360",
+    "doi": "10.12688/wellcomeopenres.26703.2",
+    "pmid": "42926360",
+    "abstract": "We present a genome assembly from an individual male Eupithecia linariata (Toadflax Pug; Arthropoda; Insecta; Lepidoptera; Geometridae). The assembly contains two haplotypes with total lengths of 364.44 megabases and 364.02 megabases. Most of haplotype 1 (99.62%) is scaffolded into 31 chromosomal pseudomolecules, including the Z sex chromosome. Haplotype 2 was assembled to scaffold level. The mitochondrial genome has also been assembled, with a length of 15.44 kilobases. Gene annotation of this assembly on Ensembl identified 12 684 protein-coding genes. This assembly was generated as part of the Darwin Tree of Life project, which produces genomes for eukaryotic species found in Britain and Ireland.",
+    "species_latin": "Eupithecia linariata",
+    "species_en": "Toadflax Pug",
+    "species_zh": "柳穿鱼尺蛾",
+    "takeaway": "完成柳穿鱼尺蛾雄虫基因组组装，含31条染色体假分子与线粒体基因组，注释出12684个蛋白编码基因。",
+    "conclusion": "该研究发布了柳穿鱼尺蛾的染色体水平基因组，两个单倍型各约364兆碱基，单倍型1的99.62%锚定到31条染色体假分子（含Z性染色体），并组装线粒体基因组、注释蛋白编码基因，为尺蛾科遗传与进化研究提供参考。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -857,6 +1065,37 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261026-smir-symbiont-resistance-review",
+    "title": "共生体介导的昆虫抗药性：机制、生态遗传与管理权衡（SMIR框架）",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（原文期刊 Pesticide Biochemistry and Physiology）",
+    "authors": "",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-26",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261020000955217.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "杭州师范大学张云华、邵勇奇、张鹏君团队综述提出共生体介导杀虫剂抗性（SMIR）证据框架，归纳细菌共生体影响杀虫剂敏感性的三条反复途径：直接降解杀虫剂、调控宿主解毒与应激通路、多微生物-宿主分布式代谢接力。文章以五级证据水平评估微生物贡献，并讨论共生体获取方式、温度、宿主基因型等对效应方向与田间持久性的影响。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "SMIR框架强调按因果证据强度判定共生体抗性，微生物标志物仅在提供超越宿主标志物的预测价值时才用于抗性监测。",
+    "conclusion": "共生体介导抗性已有多个因果系统支持（如吴氏豆象Burkholderia降解乐果、小菜蛾化学-Bt权衡），但并非普遍解释；效应方向具情境依赖性，可保护亦可敏化；管理转化需定量化分配宿主与微生物效应、菌株级诊断和前瞻性田间验证。",
+    "keywords": [
+      "共生体介导抗性",
+      "杀虫剂抗性",
+      "微生物降解",
+      "解毒代谢",
+      "SMIR",
+      "Burkholderia",
+      "抗性监测",
+      "综述"
+    ]
+  },
+  {
     "id": "pmid-42913189",
     "title": "Lycopene attenuates imidacloprid-induced cardio-renal toxicity with concomitant modulation of KIM-1, SLC22A2, TNNT2, and Caspase-3 expression in male Wistar albino rats",
     "type": "paper",
@@ -1070,6 +1309,37 @@
     ],
     "via": "PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261026-peppi-review-cell-biomaterials",
+    "title": "Cell Biomaterials：西湖大学曾坚阳团队系统梳理肽-蛋白互作，AI赋能多肽药物研发",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "丁香通（丁香学术文献解读）",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-26",
+    "url": "https://m.biomart.cn/news/15/3280289.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "西湖大学曾坚阳团队与宾夕法尼亚大学 Cesar de la Fuente-Nunez 团队合作在 Cell Biomaterials 发表综述 Peptide-protein interactions in drug discovery，系统梳理肽分子的实验发现（噬菌体展示、SPOT、mRNA展示/RaPID、DEL、AS-MS）、AI预测与生成式设计（AlphaFold 3、HighFold、PepFlow、PepGLAD、DiffPepBuilder等），以及治疗应用与临床转化挑战。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该综述整合实验与AI两条路径，给出肽-蛋白互作预测与从头设计的方法全景及KRAS、MDM2/p53、PD-1/PD-L1等靶点转化进展。",
+    "conclusion": "肽分子可模拟蛋白识别界面、拓展可成药靶点空间；未来方向是高通量实验筛选、AI生成模型与自动化合成测试形成设计-合成-测试-学习闭环；模型泛化、负样本不足、膜通透性与可制造性仍是待解难题。",
+    "keywords": [
+      "肽-蛋白互作",
+      "PepPI",
+      "蛋白互作",
+      "生成式设计",
+      "AlphaFold",
+      "多肽药物",
+      "综述",
+      "深度学习"
+    ]
   },
   {
     "id": "manual-20261025-patent-pesticide-roundup",
@@ -1713,6 +1983,37 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261026-ppbind-affinity",
+    "title": "赛业生物AbSeek平台PPBind模型登刊：PPBind-3D/1D通用蛋白-蛋白结合亲和力AI预测框架助力蛋白药物虚拟筛选",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "中国周刊（咸宁新闻网，赛业生物供稿）",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-26",
+    "url": "http://www.chinaweekly.cn/html/sxzonghe/97016.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "赛业生物与清华珠三角研究院人工智能中心团队在 Antibody Therapeutics 发表 PPBind 蛋白-蛋白结合亲和力预测框架，包含基于自-互注意力几何编码器与单调神经网络约束多任务学习的 PPBind-3D 结构模型，以及经特征对齐知识蒸馏、仅输入序列即可预测的 PPBind-1D 模型。在抗体、纳米抗体亲和力排序案例中验证了其实用价值，网页工具、数据集与代码均开源。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "PPBind以结构模型加序列蒸馏模型覆盖有无三维结构两类场景，可用于蛋白与抗体候选分子的高通量亲和力排序。",
+    "conclusion": "严格iDist聚类划分下 PPBind-3D Pearson相关系数＞0.6、优于PRODIGY等基线；PPBind-1D经特征对齐训练在AlphaFold预测结构不可靠时仍保持稳健（案例Pearson达0.66）；模型局限在于绝对亲和力预测仍有偏差、结构模型依赖复合物结构质量。",
+    "keywords": [
+      "蛋白互作",
+      "蛋白结合亲和力",
+      "深度学习",
+      "知识蒸馏",
+      "蛋白复合物",
+      "虚拟筛选",
+      "PPBind",
+      "PPI"
+    ]
   },
   {
     "id": "manual-20261024-ppbind-affinity",
@@ -3511,6 +3812,61 @@
     "conclusion": "端粒到端粒泛基因组揭示了此前采样不足的基因组演化层面，可能有助于解释植物相对达尔文恼人之谜的快速多样化。",
     "keywords": [
       "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261007-dc1261666e",
+    "title": "General trends - Pesticide usage in Scotland: Grassland and Fodder Crops 2025",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The Scottish Government",
+    "authors": "",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-26",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTU9pTjFScEZlZVhBRVJIa3V1cFlfN2tKM3IzWHQ3aWljeG9DVTVDQzdodGtnbGJiMy14eDJNczkyajNwZkRNMmpBRkdSaFBRMjZCQ3lzWFljeDlydWZaek9BY1RqS0o4bkpTal9lX3JyVEZwYzVTM1FHa3BHYlFxV1VKQWlRRDZiYnhteUVDb2VwSjVCTUQtaUZLWQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "报告概述2025年苏格兰草地与饲草作物的农药使用总体趋势",
+    "conclusion": "该文献为苏格兰草地与饲草作物2025年农药使用的总体趋势报告，属于农药使用统计与监测类资料，未提供具体试验数据或机制结论。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42923537",
+    "title": "Protein-Protein Interface Residue Prediction by Integrating Protein Language Representations and Structural Graph Attention",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "ACS omega",
+    "authors": "Hou Z, He W, Cao W, Li J, Li H, Sun S, Yang H.",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-26",
+    "url": "https://europepmc.org/article/MED/42923537",
+    "doi": "10.1021/acsomega.6c08819",
+    "pmid": "42923537",
+    "abstract": "Accurate residue-level prediction of protein-protein interaction interfaces is important for elucidating molecular recognition mechanisms and guiding targeted drug design. However, interface residues are relatively sparse and governed by complex spatial dependencies, making their accurate identification challenging. In this study, we developed EvoStruct-GAT, a multimodal graph attention model based on the PDBbind v2020.R1 data set. To reduce information leakage arising from sequence homology, receptor and ligand sequences were clustered independently, and the resulting clusters were used to construct training, validation, and test sets with no overlap in either receptor or ligand clusters. EvoStruct-GAT represents the target protein as a residue-level graph and integrates ESM-2 protein language model representations, DSSP-derived structural descriptors, and distance-aware graph attention, together with a combined strategy for addressing class imbalance. Using a minimum cross-partner heavy-atom distance of less than 5 Å to define interface residues, the model achieved an AUROC of 0.8081, an AUPRC of 0.4475, and an F1 score of 0.4562 on the independent test set. Alternative labels based on 4.0 Å, 4.5 Å, and ΔSASA definitions produced comparable AUROC values, indicating that the residue-ranking capability was reasonably robust across the tested interface definitions. Ablation experiments identified ESM-2 representations as the principal contributor to performance, with DSSP information and inter-residue message passing providing additional value. Under a common evaluation protocol, EvoStruct-GAT outperformed simplified internal baselines and showed complementary performance characteristics in external comparisons with publicly available models. These results demonstrate that EvoStruct-GAT can effectively rank potential interface residues without requiring information about a known binding partner, thereby supporting candidate-site selection, experimental validation, and downstream structural and functional analyses.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "EvoStruct-GAT融合ESM-2语言表征与结构图注意力，在无需已知配体信息下有效预测蛋白互作界面残基。",
+    "conclusion": "该多模态图注意力模型整合ESM-2表征、DSSP结构描述符与距离感知消息传递，可对潜在界面残基进行稳健排序，ESM-2贡献最大；在独立测试集上AUROC达0.8081，且不依赖已知结合伙伴信息，有助于候选位点筛选与实验验证。",
+    "keywords": [
+      "蛋白互作预测"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -16919,6 +17275,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260701-33f0447e31",
+    "title": "Trump EPA Approves Its Fifth ‘Forever Chemical’ Pesticide",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Center for Biological Diversity",
+    "authors": "",
+    "publish_date": "2026-07-01",
+    "added_at": "2026-10-26",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVJIWEhSbzl1ZWFOaHZjYnRYSHZSMG1XNWRqRHNJR3F3NXFCd0ZDclNHRjExM3d1MFRkR0h4R0NfTkQzNk85Q0lLZG5QSFhfaE4xSkI3UkJDNzl2ajFPWlNwb05WcWJoVzIxc3A5SlByRHV2RU1BU1VyY1ViOVNleHlFa3cweVM1Tkw0ZVZ0Z1g5X0tPc1pyS29kNTZvVDYtQVIyYmM5YUllM1k5RVVvSDJ5UXFid1M0LTNaQVRR?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "特朗普政府环保署批准第五种含PFAS的农药，涉及持久性化学物质监管。",
+    "conclusion": "标题显示美国环保署在特朗普任内批准了第五种被称为“永久化学品”的农药，反映对PFAS类持久性化学物质在农药中使用的监管放开，其环境持久性与健康风险值得关注。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42376859",
     "title": "Biological and Genetic Approaches in Mosquito Vector Control: Current Advances and Future Challenges",
     "type": "paper",
@@ -20435,6 +20820,35 @@
     ],
     "via": "Google News:en",
     "link_kind": "doi",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20110519-816857118b",
+    "title": "Wolbachia Bacteria Reduce Parasite Levels and Kill the Mosquito that Spreads Malaria",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Johns Hopkins Bloomberg School of Public Health",
+    "authors": "",
+    "publish_date": "2011-05-19",
+    "added_at": "2026-10-26",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tT2N4SThhcG02X2hSY3RfU3N2X3liY3QtWGpfYmZwTjlmVUFqalZQUUVTOW0zTks2QVYzUEVBSm51YnBnSVBlZDAxcUEyLUhmX0U2NEVoX283Q3FsejVV?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "沃尔巴克氏体细菌可降低蚊子体内疟原虫水平并杀死传播疟疾的蚊虫",
+    "conclusion": "基于标题可知，沃尔巴克氏体细菌感染能够抑制蚊虫体内的疟原虫负荷，并导致传播疟疾的蚊虫死亡，提示该共生菌可能作为控制疟疾传播的潜在手段；具体机制与实验细节因摘要缺失无法确定。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   }
 ]
