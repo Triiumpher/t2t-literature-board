@@ -729,6 +729,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42927698",
+    "title": "Degradation patterns and risks quantification of chlorfluazuron, chlorfenapyr and metabolite in chives by multi-model comparison",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Fan Z, Ren X, Zhang M, Wu M, Chen Y, Cheng Y, Chen Z.",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42927698",
+    "doi": "10.1016/j.foodchem.2026.151531",
+    "pmid": "42927698",
+    "abstract": "Elucidating the degradation fate and risk characteristics of chlorfluazuron, chlorfenapyr, and its metabolite in chives in both open-field and greenhouse cultivations is crucial for safeguarding the ecosystem and humans from their hazardous effects. This study shows that the dissipation pattern and concentration variations of these pesticides are governed by multiple factors, including cultivation patterns and climatic conditions. A biexponential model revealed that the half-lives of chlorfluazuron and chlorfenapyr were 5.4-11.8 d and 3.3-11.6 d in chives, respectively, as indicated by lower akaike information criterion values and the residual mass closer to zero. Additionally, tralopyril was detected at concentrations up to 0.02 mg/kg after chlorfenapyr application. A novel risk assessment framework was developed by integrating deterministic modeling with probabilistic Monte Carlo simulation. The deterministic model showed that the chronic dietary risks of chlorfluazuron and chlorfenapyr in chives were 4.731%-12.969% and 0.523%-1.434%, respectively. Children aged 2-6 years were identified as the most significantly exposed group, with risk levels approximately 1.4-1.8 times higher than other groups. Furthermore, rural residents exhibited markedly greater exposure risk than urban counterparts. Notably, chlorfluazuron accounted for 90.04% of the cumulative risk, thereby being prioritized in risk management strategies. Although the exposure risks were acceptable, the potential health hazards of chlorfluazuron to vulnerable groups should be taken into account, given its widespread presence and high contribution to combined risks.",
+    "species_latin": "Allium tuberosum",
+    "species_en": "Chinese chives",
+    "species_zh": "韭菜",
+    "takeaway": "研究韭菜中氟啶脲和虫螨腈及其代谢物的降解规律与膳食风险，双指数模型拟合最佳，儿童风险最高。",
+    "conclusion": "双指数模型更准确描述两种农药在韭菜中的消解动态，虫螨腈可代谢为溴虫腈；确定性模型结合蒙特卡洛模拟显示慢性膳食风险可接受，但2-6岁儿童及农村居民暴露更高，氟啶脲贡献约九成累积风险，应优先管控。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42922159",
     "title": "Gap-Free Cannabis sativa Assemblies Reveal Post-Polyploid Genome Remodelling and Refine the Evolution of Cannabinoid Synthase Genes",
     "type": "paper",
@@ -2213,6 +2239,32 @@
     ]
   },
   {
+    "id": "pmid-42930742",
+    "title": "A Review of Biotechnological Applications of Glomeromycota: Inoculum Production, Plant Performance, Environmental Management, and Metabolites",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of fungi (Basel, Switzerland)",
+    "authors": "Inácio CP, Albuquerque GMR, Alves MAR, Silva IG, da Silva GB, Laranjeira D, Neves RP.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42930742",
+    "doi": "10.3390/jof12100777",
+    "pmid": "42930742",
+    "abstract": "Arbuscular mycorrhizal fungi (Glomeromycota) offer routes to inoculum production, crop management, phytomanagement of contaminated soils, and modulation of plant metabolites. This critical narrative review integrates 102 selected original studies, including genomic, physiological, transcriptomic, cultivation, and field research. Evidence is interpreted by fungal strain, host genotype, tissue, environment, and application-specific endpoint. Host-lipid transfer and asymbiotic propagation inform inoculum manufacture, but spore production remains distinct from infective potency, storage stability, and economic feasibility. Receptor signaling and functional nutrient-transport studies connect symbiotic establishment to resource exchange; stress experiments reveal context-dependent changes in water transport, ion homeostasis, photosynthesis, and oxidative regulation. Commercial-product variability, resident microbiota, pesticide exposure, and ecological responses constrain translation. Metal localization and transport studies distinguish retention, mobilization, and tolerance from contaminant removal. Plant-metabolite experiments demonstrate chemical modulation rather than direct fungal biosynthesis or therapeutic efficacy. Soil carbon and hydraulic responses further show that ecological benefits cannot be generalized across communities or substrates. Development should prioritize verified inocula, defined host × fungal strain × environment combinations, relevant controls, and repeatable field outcomes. The narrative design and author-proposed assessment framework covers a deployment protocol.",
+    "species_latin": "Glomeromycota",
+    "species_en": "Arbuscular mycorrhizal fungi",
+    "species_zh": "丛枝菌根真菌",
+    "takeaway": "综述102项研究，指出丛枝菌根真菌应用需按菌株、宿主与环境组合验证，接种剂与田间效果尚难一概而论",
+    "conclusion": "该综述整合基因组、生理、转录组、培养与田间研究，认为宿主脂质转移与无菌培养可支撑接种剂生产，但产孢量不等于侵染力、储藏稳定性与经济可行性；共生建立与养分交换由受体信号和转运功能连接，逆境响应具情境依赖性；商业产品变异、土著微生物、农药与生态响应限制转化，金属研究应区分滞留、活化与耐受同污染物去除，植物代谢物变化属化学调控而非真菌合成或疗效；建议以验证过的接种物、明确的宿主×菌株×环境组合、恰当对照和可重复田间结果推进应用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42890749",
     "title": "Combined Effects of Beetle Density and Sex Ratio on Reproductive Trade-Offs and Dung Burial in Tunnelling Dung Beetles",
     "type": "paper",
@@ -3465,6 +3517,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42931690",
+    "title": "The Toxic Effects and Mechanism of Acetamiprid Exposure on Testicular Tissue: ALKBH5 Regulates m6A Modification to Affect PI3K-AKT-Mediated Apoptosis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxics",
+    "authors": "Hua X, Li Y, Pang L, Zhang H, Wang Y, Wu B, Gao H, Song Y, Yan Y, Yang H, Qiu Y, Zhao J.",
+    "publish_date": "2026-10-12",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42931690",
+    "doi": "10.3390/toxics14100903",
+    "pmid": "42931690",
+    "abstract": "(1) Background: Acetamiprid, a widely used neonicotinoid insecticide, has increasingly drawn people's attention to its potential reproductive toxicity risks. Although existing studies have shown that exposure to acetamiprid can cause testicular damage, its underlying molecular mechanism has not been fully elucidated. (2) Methods: This study established a mouse model of acetamiprid exposure via free drinking water and combined it with in vitro culture of TM3 cells, aiming to explore the toxic effects of acetamiprid on testicular tissue and its potential mechanism. (3) Results: Acetamiprid exposure induced significant pathological damage to the testicular tissue of mice and significantly reduced sperm quality. Further mechanism studies have shown that acetamiprid down-regulates the expression of RNA demethylase ALKBH5, leading to an overall increase in m6A modification levels, thereby inhibiting the activity of the PI3K/AKT signaling pathway and ultimately inducing apoptosis of TM3 cells. (4) Conclusions: In conclusion, this study, by integrating both internal and external models, has revealed a molecular mechanism by which acetamiprid is involved in testicular injury through epigenetic pathways, providing scientific basis and mechanism clues for assessing reproductive hazards caused by exposure to environmental toxins.",
+    "species_latin": "Mus musculus",
+    "species_en": "House mouse",
+    "species_zh": "小鼠",
+    "takeaway": "啶虫脒经饮水暴露致小鼠睾丸损伤，ALKBH5下调升高m6A并抑制PI3K/AKT促凋亡",
+    "conclusion": "啶虫脒暴露下调RNA去甲基化酶ALKBH5，使m6A修饰整体升高，抑制PI3K/AKT通路活性，诱导TM3细胞凋亡，造成小鼠睾丸病理损伤与精子质量下降；该研究从表观遗传角度揭示啶虫脒致睾丸毒性的分子机制，为评估环境毒素生殖危害提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -20335,6 +20413,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20241125-94918f09cb",
+    "title": "Wolbachia mosquito releases to reach half of Singapore households by 2026 to combat dengue",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "CNA",
+    "authors": "",
+    "publish_date": "2024-11-25",
+    "added_at": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa29tOGswemNsbkU3bzhjTU5ab0JRRjVGNUVBZFg2N0ZOQ09HMDRLN0tVaTdNdHlKWmtRX1JXemxmVlp2cWlyb1Y3NjZZejduNnR2WnU3dUQxUFk3TzZOblhYNVlhUkI5bkpWMTYwQU1WWkRSZy1VLTFQdDREd3hnUE5rMC16QVFRaTUya1FnSkNpYnFEWUZFeG9NU2F5VUw3dW9fSzF5RQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "新加坡计划到2026年向半数家庭释放携带沃尔巴克氏体的蚊子以防控登革热",
+    "conclusion": "新加坡拟通过大规模释放沃尔巴克氏体感染蚊虫，抑制登革热传播，覆盖至2026年约半数家庭，属于以蚊媒种群干预为核心的公共卫生防控策略。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20241107-c69cfa54ae",
     "title": "Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction",
     "type": "news",
@@ -21231,6 +21338,36 @@
     "via": "Google News:en",
     "link_kind": "doi",
     "journal": "Nature Biotechnology",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20180803-43560f21c1",
+    "title": "Reciprocal Perspective for Improved Protein-Protein Interaction Prediction",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2018-08-03",
+    "added_at": "2026-10-27",
+    "url": "https://doi.org/10.1038/s41598-018-30044-1",
+    "doi": "10.1038/s41598-018-30044-1",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出互反视角方法改进蛋白质-蛋白质相互作用预测",
+    "conclusion": "该研究针对蛋白质-蛋白质相互作用预测问题，提出互反视角的思路，有望提升预测性能，但摘要缺失，具体机制与验证结果无法确定。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
     "llm_enhanced": true
   },
   {
