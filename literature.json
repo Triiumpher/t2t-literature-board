@@ -1,5 +1,355 @@
 [
   {
+    "id": "news-20261027-bdce77757a",
+    "title": "Systematic analysis links hundreds of pesticides to breast cancer risk",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-27",
+    "url": "https://bioengineer.org/systematic-analysis-links-hundreds-of-pesticides-to-breast-cancer-risk/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "系统分析将数百种农药与乳腺癌风险联系起来。",
+    "conclusion": "该研究通过系统分析发现数百种农药与乳腺癌风险存在关联，提示农药暴露可能是乳腺癌的重要环境风险因素，为后续机制研究与风险评估提供线索。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261027-90d93768a4",
+    "title": "Dye-and-chelator bilayer electrode detects diazinon pesticide in fruit samples",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWFIMlB5OHg5bG9xVkxaWkpQQ0QyR2lIT0RDUGNLQURSbkxWNnlBai1HMW5jbmQ3NU9MTEU5b3JFU2VNX01DTi16V0FQSUF3RUt5bkd6bUk5ZGJsUF9mejR2emlhNUF1SVZLWUk1WTJPMHZUQU9zTkgyYXJ1LUt0Tk45ZkVQXzZLY2ZfRGlHRk5iWXFxckRlRWctZXVjdExFRHVWVGFB?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究构建染料-螯合剂双层电极，用于检测水果样品中的二嗪农农药。",
+    "conclusion": "该工作提出一种基于染料与螯合剂双层修饰的电极传感方案，可对水果样品中的二嗪农进行检测，为农药残留的快速电化学分析提供了新思路。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261027-5155b66624",
+    "title": "UK Pesticide Register’s October Update Adds Syngenta Cereal Fungicide and New FMC, BASF Products",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Global Agriculture",
+    "authors": "",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS2RsVlJiTkNYTUJRa3QwM3VhWDVhbF8yNlFydzRrYVpMTWg0RVo4N1Nuc25LaVRULW5KOHFVWnJEOU9POXFVQ0tvU0VFN3NYODloWlF1VF9DUzBVSTVKalItUEtlSW1sQk5pZFdtZDVDQWlTUnk3TU9oUGdWalpPb1hwaUhnclhpVzR0SzU4b0RQVjZua3BIcE5zOVYyLU5RY2JtR0ZWZjNxNGEtWUhncG1HUXJOekgySWQtRFJkXy1OVmhqWlVzWmdxNEZ6bHFWQTU1ZUs4NDhUOVRISkdn?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "英国农药登记10月更新新增先正达谷物杀菌剂及FMC、巴斯夫新产品",
+    "conclusion": "英国农药登记册10月更新收录了先正达一款谷物杀菌剂，以及FMC和巴斯夫的新产品，反映相关产品在英国获得登记准入。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261026-cb1a345d91",
+    "title": "Pesticides in the spotlight: organic farming must be part of the debate",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bio Eco Actual",
+    "authors": "",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSWxnZW1id3NvYXVjcUR0SXpSN3dSM3JQN1R3NFVyYTg5aU1YRG9zRHBpMjRmbEl6a0h1Zk0yOXhOTWdoTW5CWTJNeGJSUjZxZU5lOVFmWVZQOVUwcjBPaWludEtYb2cwdmZnNW5OdnBuSHR0US1mN2duaHgtUWdDcg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "评论文章主张有机农业应纳入农药影响讨论，但无摘要故无具体发现。",
+    "conclusion": "该文为观点性评论，标题表明作者认为讨论农药问题时必须把有机农业纳入其中；因缺摘要，无法给出机制或实证结论。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42928463",
+    "title": "A Telomere-to-Telomere Genome Assembly and Demographic History Inference of Ostrya rehderiana",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "G3 (Bethesda, Md.)",
+    "authors": "Cheng WY, Xue TY, Li YY, Wang R, Zhao L, Chen XY.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42928463",
+    "doi": "10.1093/g3journal/jkag297",
+    "pmid": "42928463",
+    "abstract": "Ostrya rehderiana is a critically endangered plant species with an extremely small population size. However, the absence of high-quality genome assembly has impeded the understanding of the causes and genetic consequences of its endangered status, especially how theses genetic consequences result in the failure of its population regeneration. In this study, we integrated PacBio HiFi, Oxford Nanopore (ONT) long-read sequencing, Hi-C, Illumina resequencing, and RNA-seq data to generate a telomere-to-telomere (T2T) genome assembly and annotation for this species. The assembled genome has a total size of 349.04 Mb and was successfully anchored to eight pseudochromosomes. A total of 28,698 protein-coding genes were predicted, of which 27,476 were functionally annotated. The BUSCO completeness score reached 98.9%, indicating a high level of assembly completeness and accuracy. Based on this T2T genome assembly, we reconstructed historical changes in effective population size using the PSMC model. The results revealed pronounced long-term fluctuations in population size, followed by a recent continuous decline. This study provides an important genomic resource for exploring the mechanisms underlying the endangered status of O. rehderiana offering a foundation for conservation genetics research on plant species with extremely small populations.",
+    "species_latin": "Ostrya rehderiana",
+    "species_en": "Rehder's hornbeam",
+    "species_zh": "小果桦",
+    "takeaway": "研究用多平台测序完成濒危植物小果桦T2T基因组，并推断其种群长期波动后近期持续下降。",
+    "conclusion": "研究构建了349.04 Mb、锚定8条假染色体的端粒到端粒基因组，预测28,698个蛋白编码基因，BUSCO完整度98.9%；基于该组装重建有效种群历史，发现种群规模长期剧烈波动、近期持续衰退，为揭示其濒危机制与保护遗传学研究提供高质量基因组资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42932389",
+    "title": "Extensive mobilome heterogeneity in a widespread endosymbiont: A candidate dimeric plasmid and highly fragmented prophages in Wolbachia from Culex pipiens",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS genetics",
+    "authors": "Brunner A, Mahout M, Amoros J, Rahmoun M, Jarry M, Bordenstein SR, Bordenstein SR, Trouche B, Reveillaud J.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42932389",
+    "doi": "10.1371/journal.pgen.1012347",
+    "pmid": "42932389",
+    "abstract": "The obligate, intracellular bacteria Wolbachia have gained increasing interest due to their selfish modifications of host arthropod reproduction, impacts on host evolution, and utility in vector control efforts to reduce arbovirus transmission worldwide. Despite their highly reduced genomes, Wolbachia harbor a rich mobilome that includes phages, insertion sequences and plasmids in mosquito vectors. However, these repeat-rich mobile genetic elements are notoriously difficult to assemble and can generate artificial, chimeric sequences that obscure their true diversity. As a result, conventional genome sequencing and assembly approaches often fail to resolve the complexity, leaving critical gaps of knowledge on how these elements evolve, mobilize, and shape both symbiont and host genomes. To address these challenges, we established a novel Oxford Nanopore long-read sequencing strategy that avoids prior PCR amplification and leverages single-dissected, female ovaries. Using this approach, we report and characterize-directly from native long-read molecules-the first near-complete Wolbachia genome and its mobile elements from individual ovaries of the mosquito vector Culex pipiens molestus. Additional short reads from individuals of the same strain were used to assess and validate candidate mutations, particularly in repetitive regions. We report a new dimeric structure of the pWCP plasmid, suggesting the existence of multimeric plasmid forms potentially associated with active replication. We also observed extensive fragmentation of prophage WO regions despite long read sequencing, underscoring their structural complexity. Raw long read analyses recovered multiple alternative gene syntenies within WO regions, pointing to heterogeneous prophage architectures missed by the assembly and marked diversity of WO elements in Wolbachia of Culex pipiens (wPip) group strains. Taken together, our results illuminate the structural heterogeneity of the endosymbiont genome that is shaped by integrated and episomal mobile elements.",
+    "species_latin": "Culex pipiens",
+    "species_en": "southern house mosquito",
+    "species_zh": "致倦库蚊",
+    "takeaway": "用纳米孔长读长直接测序单只蚊卵巢，揭示致倦库蚊沃尔巴克氏体具二聚体质粒与高度碎片化前噬菌体。",
+    "conclusion": "研究建立免PCR的单卵巢长读长测序策略，直接从天然分子获得近完整沃尔巴克氏体基因组及移动元件；发现pWCP质粒存在二聚体形式，提示多聚体或与活跃复制相关，且WO前噬菌体区域虽经长读长仍高度碎片化、存在多种基因排列，显示wPip群菌株移动元件结构异质性显著。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42932306",
+    "title": "RAStoERK: A reference interaction atlas for insights into signaling and disease",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Cell reports",
+    "authors": "Vucak G, Didusch S, Cannizzaro L, Santiago A, Hartl M, Menche J, Baccarini M.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42932306",
+    "doi": "10.1016/j.celrep.2026.118201",
+    "pmid": "42932306",
+    "abstract": "The RAS/RAF/MEK/ERK pathway has been extensively studied for its roles in physiology and disease, yet a systems-level view of its interplay with the broader cellular context is lacking, limiting insight into paralog-specific roles, mutation-driven rewiring, and cross-pathway integration. To address this, we simultaneously mapped the interactomes of all pathway components and their activating and inactivating mutations, identifying 2,500 high-confidence interactors, 88% of which previously unreported, and generating a high-confidence, comprehensive reference map of the pathway in resting and activated states. The pathway behaves like a \"molecular organism\" that connects to other signaling complexes, operates from distinct subcellular sites, and integrates into networks relevant to physiology and disease. Dataset exploration uncovers paralog- and mutation-specific interaction signatures and pathway-level crosstalk, including previously unknown connections to mRNA metabolism and WNT signaling. The interactomes available at RAStoERK.univie.ac.at provide a foundational community resource for unbiased discovery, targeted mechanistic studies, and potential therapeutic exploration.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究绘制RAS/RAF/MEK/ERK通路全部组分及其激活/失活突变体的互作组图谱，发现2500个高置信互作因子，其中88%为新发现。",
+    "conclusion": "该通路如同一个“分子生物体”，在不同亚细胞位置与其他信号复合物连接并整合进生理与疾病网络；数据集揭示旁系同源物与突变特异的互作特征及通路间串扰，包括与mRNA代谢和WNT信号的新联系，为机制研究与治疗探索提供参考资源。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42932220",
+    "title": "Small brown planthopper infestation enhances it reproduction and insecticide tolerance by manipulating glucose distribution and levels in rice",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "eLife",
+    "authors": "Zhang H, Zhang Q, Ge H, Wei J, Qian K, Liu X, Li H, Wang J.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42932220",
+    "doi": "10.7554/elife.110514",
+    "pmid": "42932220",
+    "abstract": "The evolutionary arms race between plants and insects involves not only direct defense and counter-defense but also sophisticated resource manipulation. However, how herbivorous insects respond to host nutritional signals to modulate their fitness traits remains unclear. This study investigates how the small brown planthopper (SBPH, Laodelphax striatellus) manipulates host plant carbohydrate allocation, and to elucidate the molecular mechanisms by which the acquired glucose enhances SBPH fecundity and insecticide tolerance. Using molecular, pharmacological, and biochemical approaches, we found that SBPH infestation induced systemic carbohydrate reallocation in rice, elevating whole-plant glucose levels by promoting aerial accumulation while depleting root reserves. Host-derived glucose enhanced SBPH fecundity by activating the target of rapamycin (TOR) pathway, upregulating juvenile hormone (JH) signaling, and increasing vitellogenin production. For imidacloprid tolerance, glucose boosted glutathione S-transferase (GST) activity via two synergistic mechanisms: by upregulating glutamate cysteine ligase (GCL) to increase glutathione synthesis, and transcriptionally via the glucose-TOR-JH axis to induce LsGSTe1 (SBPH epsilon class GST) and LsGSTo1 (SBPH omega class GST) expression. Our findings establish host-derived glucose as a central signaling molecule that SBPH utilizes to modulate conserved pathways for simultaneous optimization of reproduction and insecticide resistance. This reveals a multifaceted nutrient-responsive mechanism in insect pests and identifies the glucose-TOR-JH axis as critical molecular targets for developing nutrient-based pest control strategies, such as disrupting insect nutrient-sensing pathways or modulating host carbohydrate metabolism.",
+    "species_latin": "Laodelphax striatellus",
+    "species_en": "small brown planthopper",
+    "species_zh": "灰飞虱",
+    "takeaway": "灰飞虱取食改变水稻葡萄糖分配，借宿主葡萄糖激活TOR-JH通路提升繁殖力与吡虫啉耐受性",
+    "conclusion": "灰飞虱侵染促使水稻碳水化合物向地上部转移、根部储备耗竭，宿主来源葡萄糖经TOR通路激活保幼激素信号并促进卵黄原蛋白生成以提高产卵量；同时葡萄糖通过促进谷胱甘肽合成及经葡萄糖-TOR-JH轴诱导LsGSTe1、LsGSTo1表达增强GST活性，从而提升吡虫啉耐受性，揭示害虫利用宿主营养信号协同优化繁殖与抗药性的机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42932040",
+    "title": "Presence of Heterozygous V1016G kdr Mutation in Pyrethroid Insecticide Resistance in Aedes aegypti a Dengue vector from Southern India",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta parasitologica",
+    "authors": "Anbalagan R, M P, Henri M, Kaseem FS, Jeevitha S, Malik MR, Krishnan J.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42932040",
+    "doi": "10.1007/s11686-026-01424-9",
+    "pmid": "42932040",
+    "abstract": "BACKGROUND: Aedes aegypti is a primary vector of Dengue, Chikungunya, and Zika viruses, and its control relies heavily on pyrethroid insecticides. However, the development of resistance in mosquito populations poses a major challenge to effective vector control. This study aimed to investigate the presence of the V1016G knockdown resistance (kdr) mutation in Aedes aegypti collected from Nagapattinam district, Tamil Nadu, India. METHODS: Aedes immatures were collected from selected field sites and subjected to insecticide susceptibility testing using World Health Organization (WHO) guidelines. Genomic DNA was extracted, and allele-specific PCR was performed to detect the V1016G mutation in the voltage-gated sodium channel gene (vgsc). RESULTS: The analysis revealed the presence of the V1016G mutation in heterozygous form (VG) among the tested samples. No homozygous mutants (GG) were detected. The presence of heterozygous individuals indicates an early stage of resistance development, likely due to ongoing insecticide selection pressure. Bioassay results showed reduced susceptibility to pyrethroids in these populations, supporting the molecular findings. CONCLUSION: This study provides baseline data on the genetic mechanism of pyrethroid resistance in Aedes aegypti from Nagapattinam district. Regular monitoring of kdr mutations is essential to detect resistance early and guide insecticide use policies. Integrating molecular surveillance with conventional control measures will help delay the spread of resistance and improve the long-term success of vector management programs. The findings highlight the need for alternative control strategies and responsible insecticide use to maintain the effectiveness of current interventions.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "Yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "印度南部登革热媒介埃及伊蚊中检出杂合V1016G kdr突变，生物测定显示对拟除虫菊酯敏感性下降。",
+    "conclusion": "纳加帕蒂南地区埃及伊蚊种群仅存在杂合V1016G突变，未见纯合突变，提示抗性处于早期阶段，与生物测定中拟除虫菊酯敏感性降低一致；应持续监测kdr突变并结合分子监测与常规防控，以延缓抗性扩散。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42931940",
+    "title": "Legacy (Organochlorine) and Current Use (Neonicotinoid) Pesticides in Fish from Two Subtropical River Basins",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Archives of environmental contamination and toxicology",
+    "authors": "Marsay M, Ohoro CR, Nimako C, Yohannes YB, Ikenaka Y, Smit NJ, Ishizuka M, Wepener V.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42931940",
+    "doi": "10.1007/s00244-026-01219-z",
+    "pmid": "42931940",
+    "abstract": "The rapid population growth across Africa has increased the demand for food production, resulting in increased pesticide use. South Africa is among the top four pesticide importers in Sub-Saharan Africa, raising significant concerns regarding the contamination of freshwater ecosystems. Organochlorine pesticides (OCPs), historically used for agriculture and vector control, persist in the environment due to their high lipophilicity and long half-lives. Despite bans on many OCPs, residues remain in aquatic systems, potentially affecting non-target organisms such as fish. Similarly, neonicotinoids, introduced as safer alternatives, are now linked to adverse effects on aquatic biota, yet little is known about their bioaccumulation in wild fish species in southern Africa. This study investigated 13 neonicotinoids and 19 OCPs in fish muscle tissue from the Inkomati and Letaba catchments. Only two OCPs, p,p'-DDE and p,p'-DDD, were detected, likely due to ongoing DDT use in malaria control. Concentrations were generally low and varied between sites, with higher values found in the Letaba catchment. Neonicotinoids were detected at low concentrations, with acetamiprid and imidacloprid being the most prevalent, although the concentrations were lower than those reported globally. Muscle tissue, representing long-term exposure, may underestimate total pesticide burdens due to lower lipid content than other tissue types. Findings suggest that the detected residues reflect the persistent legacy of historical DDT use, potential ongoing localised DDT use for malaria vector control, as well as ongoing neonicotinoid use in agricultural systems. Although concentrations were below levels of concern for vertebrates, this study highlights the need for continued monitoring and expanded tissue analysis to better understand bioaccumulation and ecological risks in southern African freshwater systems.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究南非两条亚热带河流鱼肌肉中有机氯与新烟碱类农药残留，浓度低但检出DDT代谢物及吡虫啉等。",
+    "conclusion": "鱼肌肉中仅检出p,p'-DDE和p,p'-DDD两种有机氯，反映历史及疟疾防控中持续使用DDT的遗留；新烟碱类以啶虫脒和吡虫啉为主，浓度低于全球报道。残留水平对脊椎动物风险较低，但提示需持续监测并分析更多组织以评估生物累积与生态风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42928584",
+    "title": "Large-Scale Monitoring, Biochemical Mechanism, and Fitness Cost of Resistance to Chlorfenapyr in a Near-Isogenic Strain of Spodoptera litura (Lepidoptera: Noctuidae) From China",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Liu C, Tang J, Qu C, Ma X, Wang R.",
+    "publish_date": "2026-10-25",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42928584",
+    "doi": "10.1002/jat.70491",
+    "pmid": "42928584",
+    "abstract": "Spodoptera litura is a globally important polyphagous herbivore that has developed resistance to many widely used insecticides. Chlorfenapyr is a pyrrole insecticide with demonstrated efficacy against lepidopteran pests, but the susceptibility baseline and field-evolved resistance in S. litura remain poorly characterized. In this study, we built a near-isogenic strain (JZ-NIL) based on one field-collected chlorfenapyr-resistant population of S. litura and characterized patterns of cross-resistance, fitness costs, and mechanism of metabolic resistance. In comparison with the susceptible Lab-S strain, the field-sampled JZ population displayed approximately 225.0-fold resistance to chlorfenapyr. The JZ-NIL strain was built and showed 124.2-fold chlorfenapyr resistance, with no apparent cross-resistance to broflanilide, chlorpyrifos, chlorantraniliprole, emamectin benzoate, indoxacarb, and spinetoram. Assays of enzyme activity and tests of synergism showed that diethyl maleate (DEM) made a synergistic ratio of 1.9 against chlorfenapyr, and glutathione S-transferase (GST) activity in JZ-NIL was 1.8-fold significantly higher than in the strain of Lab-S, indicating that GST-mediated metabolism contributes to chlorfenapyr resistance. In addition, pupation rate, fecundity, and hatchability were significantly lower in JZ-NIL than in Lab-S. The relative fitness of JZ-NIL was 0.54 compared with Lab-S. Overall, these results indicate that GST-mediated detoxification contributes to chlorfenapyr resistance in S. litura and that this resistance is associated with significant fitness costs. Further studies are needed to clarify the metabolic and target-site mechanisms underlying chlorfenapyr resistance.",
+    "species_latin": "Spodoptera litura",
+    "species_en": "tobacco cutworm",
+    "species_zh": "斜纹夜蛾",
+    "takeaway": "基于田间抗性种群构建近等基因系，揭示斜纹夜蛾对虫螨腈抗性由GST介导并伴随适合度代价",
+    "conclusion": "田间斜纹夜蛾种群对虫螨腈产生高水平抗性，近等基因系JZ-NIL抗性达124.2倍，且对多种其他杀虫剂无交互抗性；DEM增效与GST活性升高表明谷胱甘肽S-转移酶介导的代谢解毒是抗性机制之一，同时抗性品系化蛹率、繁殖力与孵化率下降，相对适合度为0.54，存在明显适合度代价。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42928408",
+    "title": "The Pesticide Pyrethroid Metabolite 3-Phenoxybenzoic Acid (3-PBA) Impairs Human Cardiac Na&lt;sub&gt;v&lt;/sub&gt;1.5 and Action Potential Depolarization",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Cardiovascular toxicology",
+    "authors": "de Lima Conceição MR, Marques LP, da Silva Alcantara F, de Morais RLT, Fogaça-Santos V, Orts DJB, Pesquero JB, de Souza DS, Roman-Campos D.",
+    "publish_date": "2026-10-25",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42928408",
+    "doi": "10.1007/s12012-026-10212-w",
+    "pmid": "42928408",
+    "abstract": "Pyrethroid insecticides (PYRs) are widely used worldwide, and their primary metabolite, 3-phenoxybenzoic acid (3-PBA), serves as a near-ubiquitous biomarker of human exposure to PYRs. While epidemiological data consistently link urinary 3-PBA to increased cardiometabolic risk and coronary heart disease, the underlying electrophysiological mechanisms of its direct potential cardiotoxicity remain unexplored. Parent PYRs are known to exert cardiotoxic effects by enhancing the late sodium current (I Na-L ) and inducing arrhythmia, but the direct effect of 3-PBA on heart excitability has not been previously investigated. This study demonstrates that 3-PBA interacts with human cardiac Na v 1.5 expressed in Human Embryonic Kidney (HEK293) cells, and significantly increases I Na-L in a concentration-dependent manner with an EC 50 of 51.3 ± 5.1 µM. The metabolite does not alter the voltage dependence of activation and inactivation, but it significantly delays the recovery from inactivation of the peak sodium current. In human induced pluripotent stem cell-derived cardiomyocytes (CM-hiPSCs) and adult rat ventricular myocytes, 3-PBA reduced maximal depolarization rate (dV/dt), indicating impaired depolarization dynamics and reduced peak sodium current. At the organ level, acute exposure in isolated rat hearts did not significantly alter standard ECG parameters. Collectively, these findings suggest that 3-PBA is not electrophysiologically inert but directly modulates cardiac sodium channel function, although at supraphysiological concentration. This provides new evidence of the biological activity of 3-PBA and suggests that its cardiotoxic potential may become clinically relevant under conditions of high dose and chronic exposure or in susceptible populations.",
+    "species_latin": "Homo sapiens; Rattus norvegicus",
+    "species_en": "Human; Rat",
+    "species_zh": "人；大鼠",
+    "takeaway": "拟除虫菊酯代谢物3-PBA可增强人心脏Nav1.5晚钠电流并延缓失活恢复，降低心肌细胞去极化速率。",
+    "conclusion": "3-PBA并非电生理惰性，它直接作用于人心脏Nav1.5通道，浓度依赖性地增大晚钠电流并延迟峰值钠电流失活恢复，在hiPSC心肌细胞和大鼠心室肌细胞中降低最大去极化速率，提示高剂量或慢性暴露下可能具有心脏毒性风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42927596",
+    "title": "Inhibition Kinetics of Protein Inhibitors of Carboxypeptidase-A and Cysteine Protease Isolated from Non-Host Plants of Helicoverpa armigera Against Gut Proteases",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The protein journal",
+    "authors": "Kipgen L, Rangra S, Aggarwal KK.",
+    "publish_date": "2026-10-25",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42927596",
+    "doi": "10.1007/s10930-026-10362-4",
+    "pmid": "42927596",
+    "abstract": "Plant protease inhibitors have been suggested as one of the pest control strategies to control Helicoverpa armigera. To isolate protease inhibitors that are effective against H. armigera gut proteases, plants were screened for the presence of potent protease inhibitors after segregating them into host and non-host depending on whether H. armigera was reported to feed on it or not. A carboxypeptidase inhibitor and a cysteine protease inhibitor were isolated from non-host plants Oxalis corniculata (OcPI) and Withania somnifera (WsPI) respectively. Both inhibitors have K i in the micromolar range, active between pH 2.6 to pH 10.6, and are stable up to 75 °C. At 3 inhibitor units per gram of diet (IU/g) each, OcPI caused higher mortality (24%) than WsPI (12%) or Bowman Birk (20%) serine protease inhibitor (BBI). However, higher mortality (40%) was observed when the three inhibitors were combined than when used individually suggesting an additive effect. Also, a similar additive effect in lengthening the duration of the larval stage for surviving larvae was observed.",
+    "species_latin": "Helicoverpa armigera",
+    "species_en": "Cotton bollworm",
+    "species_zh": "棉铃虫",
+    "takeaway": "从非寄主植物分离的两种蛋白酶抑制剂可抑制棉铃虫肠道蛋白酶，联用效果更佳",
+    "conclusion": "从酢浆草和睡茄中分别分离出羧肽酶抑制剂OcPI和半胱氨酸蛋白酶抑制剂WsPI，二者在微摩尔级抑制浓度下于宽pH范围稳定耐热；单用可致幼虫死亡，三者联用呈加性效应，显著提高死亡率并延长幼虫期，提示非寄主植物抑制剂组合是棉铃虫防治的潜在策略",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42926146",
     "title": "Corrigendum to \"Two decades of spatial and temporal pesticide risk to non-target invertebrates in England farmlands\" [Environ. Int. 204 (2025) 109856]",
     "type": "paper",
@@ -22,7 +372,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -48,7 +398,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -133,6 +483,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42927695",
+    "title": "Cellulose nanofibers enhance the binding of pea protein amyloid fibrils with 2,5-dimethylpyrazine via regulating protein conformation and microstructure",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Food chemistry",
+    "authors": "Lin L, Hu L, Wang X, Liang X, Zhang Y, Yu Z, Liu Y, Sui X, Xiao Y.",
+    "publish_date": "2026-10-23",
+    "added_at": "2026-10-27",
+    "url": "https://europepmc.org/article/MED/42927695",
+    "doi": "10.1016/j.foodchem.2026.151743",
+    "pmid": "42927695",
+    "abstract": "In this study, the effects of cellulose nanofibers (CNF) on the structural characteristics, physicochemical properties, and aroma-binding performance of pea protein amyloid fibrils (PAFs) toward 2,5-dimethylpyrazine were investigated. Compared with pea protein isolate (PPI), acid-heat fibrillation markedly altered the surface charge, secondary structure, and microstructure of pea protein, thereby increasing the binding ratio toward 2,5-dimethylpyrazine from 8.95% to 16.50%. CNF incorporation further reorganized the PAFs network, improved microstructural compactness, and enhanced the thermal stability of aroma binding. Notably, the binding ratio of the PAFs + CNF composite reached 30.30%, indicating that CNF incorporation markedly enhanced the aroma-binding performance of PAFs. This improvement may be associated with CNF-mediated conformational regulation and local microstructural confinement of PAFs. These findings provide insight into the role of CNF in regulating the structure and aroma-binding behavior of PAFs, offering a potential strategy for designing protein-based composite flavor carriers.",
+    "species_latin": "Pisum sativum",
+    "species_en": "Pea",
+    "species_zh": "豌豆",
+    "takeaway": "纤维素纳米纤维通过调控豌豆蛋白淀粉样纤维构象与微观结构，将其对2,5-二甲基吡嗪的结合率提升至30.30%",
+    "conclusion": "酸热处理使豌豆蛋白形成淀粉样纤维，结合率由8.95%升至16.50%；加入纤维素纳米纤维后纤维网络更致密、热稳定性增强，结合率进一步提高到30.30%，机制可能涉及构象调控与局部微结构限域，为蛋白基复合风味载体设计提供思路",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -271,7 +647,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -375,7 +751,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -531,7 +907,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -690,7 +1066,36 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261021-7221b02576",
+    "title": "Why seed companies are turning to genetics as pesticide options disappear",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "FeedNavigator.com",
+    "authors": "",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3NCRERSMEFXMWw4Rms2UFVUT09EMm9fbmxOSFdsRF9xVmtKRFlnYm1seHc2cFVSUWptX0p1Nm1sVlhMMzFnYzM3VFcxeVlpWEFzTnYxMDdtd2dtUXlMVzVqNE5nS1FzcGtnYzZDblRQMXE5bzlpOGlrTGdmREhYNTZfc3VqUkptcFc4Y2NqWjlrVlRMQ1VHZWRBbmh6QlJ3NURWU281RzlFOVk2N3A4VVBXbS1tdzVZU1pWdlVR?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "农药选择减少背景下，种子公司转向遗传学手段进行作物保护",
+    "conclusion": "随着可用农药品种减少，种子企业日益依靠遗传改良来提升作物自身的抗虫抗病能力，以替代化学防治。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -701,7 +1106,7 @@
       "sexdet"
     ],
     "source": "Wellcome open research",
-    "authors": "",
+    "authors": "Natural History Museum Genome Acquisition Lab, Darwin Tree of Life Barcoding Collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
     "publish_date": "2026-10-21",
     "added_at": "2026-10-26",
     "url": "https://europepmc.org/article/MED/42926360",
@@ -716,7 +1121,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1777,6 +2182,37 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261027-iodo-imidazopyridine",
+    "title": "含碘咪唑并[4,5-b]吡啶类化合物的设计、合成及杀虫活性研究",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通（原文期刊 Chemistry & Biodiversity）",
+    "authors": "",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-27",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261016001308026.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究以oxazosulfyl为先导，经骨架跳跃与活性片段拼接设计合成15个含碘咪唑并[4,5-b]吡啶衍生物，测试对小菜蛾、粘虫和豆蚜的活性。多数化合物在1 mg/L下对粘虫致死率接近100%（oxazosulfyl同期为0%），化合物10a和12a对小菜蛾、粘虫LC50低至0.28～0.96 mg/L，综合活性优于oxazosulfyl。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "oxazosulfyl骨架跳跃并引入碘与酰胺基团可显著提升杀虫活性，为新型杀虫剂提供了高活性先导结构。",
+    "conclusion": "叔胺通常优于仲胺、碘代类似物普遍优于溴代类似物（碘高亲脂性利于穿透表皮）；亲脂性与空间位阻的平衡是活性关键；目标化合物推定靶标为囊泡乙酰胆碱转运蛋白（VAChT），但对豆蚜活性普遍不理想。",
+    "keywords": [
+      "新型杀虫剂",
+      "咪唑并吡啶",
+      "oxazosulfyl",
+      "VAChT",
+      "骨架跳跃",
+      "构效关系",
+      "小菜蛾",
+      "粘虫"
+    ]
+  },
+  {
     "id": "pmid-42890749",
     "title": "Combined Effects of Beetle Density and Sex Ratio on Reproductive Trade-Offs and Dung Burial in Tunnelling Dung Beetles",
     "type": "paper",
@@ -1983,6 +2419,37 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261027-hdock-multimer",
+    "title": "HDOCK-Multimer：整合分子对接与组合装配的大型蛋白复合物结构预测方法",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（原文期刊 Nature Computational Science）",
+    "authors": "",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-27",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261014235547911.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究提出HDOCK-Multimer（HDM）框架：先用AF2/AFM生成单体与三聚体亚组分，再依据同源性与两两对接结果选择非对称对接、对称对接或遗传算法组合装配策略，并用IT-score排序。在35个大型异聚复合物、172个大型复合物及7个CASP15靶标上，top-1成功率最高达86%，显著优于CombFold、MoLPC、AlphaFold-Multimer与AlphaFold3，且可在无化学计量输入下推断复合物组成。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "HDOCK-Multimer以对接降低对亚组分质量的依赖、以装配利用两两互作，突破了端到端方法在大型多链复合物上的显存与精度瓶颈。",
+    "conclusion": "混合对接-装配框架在性能与可扩展性上均优于现有最先进方法，可建模AFM/AF3无法处理的超大复合物；界面新颖性分析显示其预测不主要依赖已知界面，具备组装新复合物的能力；未来需发展多体打分函数并扩展对称类型。",
+    "keywords": [
+      "蛋白复合物",
+      "蛋白互作",
+      "分子对接",
+      "组合装配",
+      "HDOCK",
+      "AlphaFold-Multimer",
+      "结构预测",
+      "遗传算法"
+    ]
   },
   {
     "id": "manual-20261026-ppbind-affinity",
@@ -7254,6 +7721,37 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261027-cmed-pheromone-aa-ae",
+    "title": "稻纵卷叶螟不同性信息素类型雄蛾的行为反应和转录组水平的差异",
+    "type": "wechat",
+    "boards": [
+      "cmed"
+    ],
+    "source": "昆虫学报（2026年第69卷第9期）",
+    "authors": "",
+    "publish_date": "2026-09-20",
+    "added_at": "2026-10-27",
+    "url": "http://www.insect.org.cn/CN/10.16380/j.kcxb.2026.09.003",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江大学杜永均团队在浙江、江苏、湖南、云南、广东6个稻区用醛醇型（AA）与酯型（AE）两种性信息素诱芯开展田间诱捕，结合触角电位、触角转录组与qRT-PCR比较两类雄蛾。发现两种诱芯的诱捕效果存在显著地理差异，雄蛾对7种关键信息素组分的EAG反应及4个性信息素受体（CmedPR1-4）表达不同，CmedPR1在AA型雄蛾中全域上调、CmedPR3全域下调。",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaffolder",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "稻纵卷叶螟种内性信息素通讯存在地理适应性分化，CmedPR1与CmedPR3是介导两类雄蛾嗅觉行为差异的关键分子靶标。",
+    "conclusion": "AA型与AE型雄蛾在行为选择、外周嗅觉生理及受体基因表达上均发生分化；触角转录组共鉴定81个气味受体基因；研究为地理特异性的性信息素监测与群集诱杀技术提供了理论依据。",
+    "keywords": [
+      "稻纵卷叶螟",
+      "Cnaphalocrocis medinalis",
+      "性信息素",
+      "性信息素受体",
+      "CmedPR",
+      "转录组",
+      "触角电位",
+      "地理分化"
+    ]
   },
   {
     "id": "pmid-42783337",
@@ -20012,6 +20510,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20240104-294468397e",
+    "title": "GreenLight Biosciences Secures U.S. EPA Registration for New Bioinsecticide",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AgriBusiness Global",
+    "authors": "",
+    "publish_date": "2024-01-04",
+    "added_at": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd21jR3ZvbFVwWDhueE4zS0hnbTJqcWxXMmpuWk1TdVZzY2pfdGY0WTZaRXNiSk9DcV9BQ1RUMEdjTUhPOEZHWUtENlJDQTNNTVFJeG5meUU0Vm5McHZsbFlFVW5hZ1loZzBFN0VpbEVTOXZCS2huSW5wNWNaVkRqM2NBWkRJQ21BMWVNT1pKTG1XWlFqS19XSEFFS1ZQNVhJcHBNRFBSR1JmVzhsalJhNkswSUtpYUROaGdTMEtlUjZIaVMxYjJBSms4RDdMMnV6alRmNXl0VdIB3AFBVV95cUxPNVdOdm0wdUtQNjY2VlBrRmxRUVd4RWtRYUlJMDFrTkNRT1dfYi1FWHVESHhmVHEzVEZOdjFpajVpX2lDNjR0dFdPS1RMUnNWU0tyamg1OGxPUEE3Rmx6UndhZElmMlVkQ1R1UjlXSE9oTXlucktCZHAwU1BMakx5Y1VvWklrQnpBUGp2eHg2U3g0MHJaZlQ3enpXS24wSFM3YzhoVUFXZkZ2T0d5ZEJqOXNsVDFrUFduVFRidkVnR0o4Mm1MTlBadjJPS2publJmTTlQVWRBUGlTNEhs?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "GreenLight生物科学公司的新型生物杀虫剂获得美国环保署注册批准。",
+    "conclusion": "该消息表明GreenLight生物科学公司研发的一款新型生物杀虫剂已通过美国环保署的注册审批，具备在美国合法销售和使用的资格；这体现了生物农药监管准入的进展，但具体防治对象、有效成分和作用机制尚未披露。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "es-MX"
+    ],
+    "via": "Google News:es-MX",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20231110-b531f425d5",
     "title": "Enhancing alphafold-multimer-based protein complex structure prediction with MULTICOM in CASP15",
     "type": "news",
@@ -20645,6 +21172,35 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20200124-8d7a20570f",
+    "title": "Pintura insecticida: un nuevo enfoque contra las enfermedades transmitidas por vectores",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "CORDIS",
+    "authors": "",
+    "publish_date": "2020-01-24",
+    "added_at": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnRuaXZVS21YQTlyQ3UwbEpjVklTeUJUVGtVaWQyWjNBak1falUzVTZ0cm9LRmpfTUN6ekNrbzlFRTFpOFh2ZTVLcEdEc21PVjNFXzFSS3VXVXJodzBVa19oMmJhTmtMNHhsNHl0ZDlsWER3X2hUZXVqLXVNZXVvc3RIQWx6SjZFZHNOc2c0ZXNiTV9GQTBmQXJsQThFcmI5NU5UMVFILVhKNnFPT3c?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Pintura insecticida",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题提出杀虫涂料作为防控媒介传播疾病的新思路",
+    "conclusion": "该文提出将杀虫涂料作为防控蚊媒等病媒传播疾病的新策略，属于概念性探讨，具体机制与效果需正文验证。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "es-MX"
+    ],
+    "via": "Google News:es-MX",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
