@@ -1,0 +1,68 @@
+[
+  {
+    "id": "manual-20261028-mimicry-masquerade-review",
+    "title": "Annual Review of Entomology：张蔚课题组受邀综述昆虫拟态与乔装的演化遗传学",
+    "type": "wechat",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "北京大学生命科学学院",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-28",
+    "url": "https://www.bio.pku.edu.cn/homes/Index/news_cont/22/19159.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "张蔚课题组受邀在Annual Review of Entomology发表长篇综述“Evolutionary genetics of insect mimicry and masquerade”，系统梳理贝茨拟态、穆勒拟态、性间拟态与乔装的遗传发育机制。文章总结性别决定基因doublesex在多个凤蝶物种雌性拟态多态性及相关“超基因”形成中的关键作用，强调演化热点基因、非编码序列与结构变异对表型多样化的推动。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "昆虫拟态与乔装的表型适应多由doublesex等少数演化热点基因、顺式调控元件与结构变异驱动，为性二型与趋同演化提供了统一的遗传学视角。",
+    "conclusion": "凤蝶雌性拟态由doublesex控制、袖蝶翅图案由顺式调控元件驱动、熊蜂体色由Abd-B位点控制、异痣蟌性间拟态涉及大片段染色体结构变异；现有研究过度集中于少数“开关”基因，其上下游调控网络仍待解析。",
+    "keywords": [
+      "昆虫",
+      "性别决定",
+      "doublesex",
+      "拟态",
+      "乔装",
+      "超基因",
+      "演化遗传学",
+      "性二型",
+      "凤蝶",
+      "综述"
+    ]
+  },
+  {
+    "id": "manual-20261028-pei-spcp3-rna-pesticide",
+    "title": "中国农大沈杰/闫硕团队构建PEI功能化星型聚阳离子纳米递送平台，实现蚜虫广谱RNAi绿色防控",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农业大学植物保护学院（原文期刊 Journal of Nanobiotechnology）",
+    "authors": "",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-28",
+    "url": "https://cpp.cau.edu.cn/art/2026/10/21/art_21979_1142127.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "团队对星形阳离子聚合物SPc进行聚乙烯亚胺（PEI）功能化，构建SPcP3载体，与dsRNA组装成球形纳米复合物，显著提升dsRNA抗核酸酶、耐高温与极端pH的稳定性。细胞摄取效率较裸dsRNA提高26.5倍，机制上协同激活内吞、囊泡转运、溶酶体与跨膜转运（PEI“质子海绵”效应）；基于5种蚜虫保守的ATP-d、CHS、EcR序列组装的多靶点shRNA配方室内防效达87.3%–96.9%，对作物、天敌异色瓢虫及Sf9细胞无明显不良影响。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "PEI功能化纳米载体通过“质子海绵”效应突破dsRNA叶面沉积、表皮渗透与细胞内化多重屏障，实现可规模化、环境友好的广谱蚜虫RNA农药。",
+    "conclusion": "SPcP3以静电、氢键与范德华力稳定装载dsRNA，增强靶基因沉默与RNAi杀虫活性；多靶点shRNA配方对5种蚜虫防效87.3%–96.9%，为RNA农药的高效递送与科学设计提供了新平台。",
+    "keywords": [
+      "RNA生物农药",
+      "dsRNA",
+      "纳米递送",
+      "星型聚阳离子",
+      "SPc",
+      "PEI",
+      "质子海绵",
+      "蚜虫",
+      "广谱防控",
+      "RNAi"
+    ]
+  }
+]
