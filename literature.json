@@ -1,5 +1,109 @@
 [
   {
+    "id": "pmid-42935250",
+    "title": "Rice Expression Database (RED) 2.0: an updated rice database integrating diverse RNA expression profiles based on the telomere-to-telomere reference genome",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nucleic acids research",
+    "authors": "Wang Z, Li M, Chen M, Li Z, Yang D, Zou D, Zhang Z, Xu T.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42935250",
+    "doi": "10.1093/nar/gkag1064",
+    "pmid": "42935250",
+    "abstract": "Rice Expression Database (RED) is a rice gene expression database derived from large-scale RNA-seq data across different tissues and experimental conditions. Here, we present RED 2.0 (https://ngdc.cncb.ac.cn/red) with significant updates and enhancements. Specifically, RED 2.0 contains 357 projects covering 6471 bulk RNA-seq experiments across 18 tissues and 78 single-cell RNA-seq experiments comprising 984 495 cells. All projects are further manually curated and grouped into diverse biological contexts, including abiotic stress, biotic stress, hormone, development, genotype, and anatomy. Notably, based on the telomere-to-telomere assembly of the Nipponbare genome, RED 2.0 incorporates comprehensive expression profiles for 57 359 protein-coding genes (67 818 transcripts), 16 522 long non-coding RNA genes (47 396 transcripts), and 79 007 circular RNAs. In addition, it is equipped with online tools for differential expression analysis, functional enrichment analysis, co-expression network construction, and genome browser. Collectively, RED 2.0 provides a comprehensive expression landscape for both coding and non-coding genes across diverse conditions, serving as an important resource for rice functional genomics and molecular breeding.",
+    "species_latin": "Oryza sativa",
+    "species_en": "Rice",
+    "species_zh": "水稻",
+    "takeaway": "RED 2.0基于端粒到端粒水稻基因组整合357个项目、6471个bulk与78个单细胞RNA-seq实验，构建编码与非编码基因表达图谱。",
+    "conclusion": "RED 2.0在T2T日本晴基因组基础上系统整合多组织、多条件及单细胞转录组数据，覆盖蛋白编码基因、长非编码RNA和环状RNA，并提供差异表达、富集分析、共表达网络与基因组浏览器等工具，为水稻功能基因组学和分子育种提供综合表达资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42934450",
+    "title": "Early phyllosphere remodeling in maize after herbivory uncovers candidate insecticidal bacteria from feeding-altered taxa",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "World journal of microbiology & biotechnology",
+    "authors": "Gu Z, Shen Y, Li Y, Mi L, Shu C, Zhang J, Geng L.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42934450",
+    "doi": "10.1007/s11274-026-05350-w",
+    "pmid": "42934450",
+    "abstract": "The \"cry for help\" hypothesis suggests that herbivore-stressed plants reshape their microbiome for defense, yet the speed and systemic characteristics of the phyllosphere bacterial response to chewing herbivores remain poorly understood. To address this, we examined how larval feeding by fall armyworm (Spodoptera frugiperda) affects the phyllosphere bacterial community within undamaged maize (Zea mays) leaves. We combined 16S amplicon sequencing, culturomics, and machine learning to characterize microbial community dynamics and culture-dependent recover candidate biocontrol strains from herbivory-altered taxa. Localized larval feeding on a single leaf induced rapid changes in the phyllosphere bacterial community of distal undamaged leaves within 12 h. Herbivory modified bacterial cooccurrence network topology. A significantly enriched OTU7 was isolated and identified as Enterobacter strain P12A2, which exhibited high toxicity against S. frugiperda. This study indicates that herbivory-induced systemic changes in the phyllosphere bacterial community of undamaged leaves may serve as a source for identifying novel biological resources. These findings provide a promising basis for developing microbiome-based strategies for sustainable pest management.",
+    "species_latin": "Zea mays",
+    "species_en": "Maize",
+    "species_zh": "玉米",
+    "takeaway": "玉米受草地贪夜蛾取食后12小时内远端未损叶片叶际细菌群落快速重塑，并从中分离出对害虫高毒的Enterobacter菌株P12A2",
+    "conclusion": "局部虫害可系统性地快速改变玉米未受损叶片的叶际细菌群落及共现网络结构，虫害改变的类群可作为筛选新型杀虫微生物资源的来源，为基于微生物组的可持续害虫防控提供依据",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42945433",
+    "title": "Rational Design of a TpTt/NH2-MIL-125(Ti) Dual-Core Photocatalyst With Structural-Electronic Synergy for Enhanced Imidacloprid Degradation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Small (Weinheim an der Bergstrasse, Germany)",
+    "authors": "Yang W, Wang S, Dai Y, Tian L, Liu Y, Ren H.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42945433",
+    "doi": "10.1002/smll.76433",
+    "pmid": "42945433",
+    "abstract": "An in situ-grown TpTt/NH2-MIL-125(Ti) covalent organic framework/metal-organic framework (COF/MOF) heterojunction was constructed for visible-light-driven degradation of imidacloprid (IMD) coupled with peroxymonosulfate (PMS) activation. The composite combines the visible-light absorption and π-conjugated charge-transport framework of TpTt-COF with the porous Ti-containing and amino-functionalized microenvironment of NH2-MIL-125(Ti). X-ray photoelectron spectroscopy (XPS) and photoelectrochemical analyses indicate interfacial charge redistribution and suppressed charge recombination. The optimized TpTt/NH2-MIL-125(Ti)/PMS/Vis system achieved 100% IMD removal within 150 min and retained activity across pH 3-9 and in the presence of common anions. Electron paramagnetic resonance spectroscopy (EPR) spectroscopy and scavenging experiments identified SO4•-, •OH, and 1O2 as the main reactive species. Liquid chromatography-mass spectrometry (LC-MS), DFT-predicted reactive sites, and ECOSAR analysis were integrated to examine the transformation pathway and the predicted ecological toxicity of the products. The distinguishing feature of this study is the integration of an in situ COF/MOF interface, photoassisted PMS activation, and pesticide-specific transformation and toxicity analysis within one catalyst system.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "原位构建TpTt/NH2-MIL-125(Ti)异质结光催化活化PMS，150分钟内完全降解吡虫啉。",
+    "conclusion": "该COF/MOF异质结促进界面电荷分离并抑制复合，在可见光下活化PMS产生SO4•-、•OH和1O2，实现吡虫啉高效降解，且在pH 3-9及常见阴离子存在下保持活性；结合LC-MS与DFT揭示了转化路径并预测产物生态毒性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42944737",
+    "title": "Development and evaluation of an oil-based Beauveria bassiana (Deuteromycota: Hyphomycetes) formulation for control of Galleria mellonella (Lepidoptera: Pyralidae) and its safety to Apis mellifera caucasica (Hemiptera: Aphididae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Dağar RÇ, Biryol S, Eski A, Demir İ.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42944737",
+    "doi": "10.1093/jee/toag327",
+    "pmid": "42944737",
+    "abstract": "The greater wax moth, Galleria mellonella L. (Lepidoptera: Pyralidae), is a major pest causing serious damage to honeycombs and apicultural products. In this study, 9 indigenous Beauveria isolates were screened for their pathogenicity, and HpA-5 was identified as the most virulent isolate based on mortality, LT50, and LC50 values. This isolate also showed higher tolerance to abiotic stress factors, including temperature, UV-B radiation, and humidity. An oil-based mycoinsecticide formulation (WaxGuard) was developed using spray-dried blastospores of the HpA-5 isolate. Under laboratory conditions, WaxGuard caused 86.6% mortality in G. mellonella larvae within 7 d and exhibited comparable efficacy to a commercial product. The non-target effects of WaxGuard were evaluated on honey bees, where only 3.3% mortality was observed after 10 d, classifying the formulation as nontoxic according to IOBC standards. Overall, the results demonstrate that the oil-based formulation of a locally adapted B. bassiana isolate combines high insecticidal efficacy against G. mellonella with minimal adverse effects on honey bees. This study highlights the potential of WaxGuard as a safe and effective biological control agent for sustainable pest management in apicultural systems.",
+    "species_latin": "Galleria mellonella",
+    "species_en": "Greater wax moth",
+    "species_zh": "大蜡螟",
+    "takeaway": "筛选出高毒力球孢白僵菌HpA-5并制成油基制剂WaxGuard，对蜡螟防效高且对蜜蜂安全。",
+    "conclusion": "本土球孢白僵菌HpA-5菌株对蜡螟毒力最强且耐高温、紫外和低湿；以其芽生孢子开发的油基制剂WaxGuard在室内7天使蜡螟幼虫死亡率达86.6%，与商业产品相当，对蜜蜂10天死亡率仅3.3%，按IOBC标准属无毒，可作为蜂业系统中安全有效的生物防治剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261027-bdce77757a",
     "title": "Systematic analysis links hundreds of pesticides to breast cancer risk",
     "type": "news",
@@ -87,6 +191,110 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42933618",
+    "title": "Uncovering intergenic DNA i-motifs in the telomere-to-telomere human genome",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "International journal of biological macromolecules",
+    "authors": "Remori V, Lourenço P, Miranda A, Prest M, Cruz C, Fasano M.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42933618",
+    "doi": "10.1016/j.ijbiomac.2026.155034",
+    "pmid": "42933618",
+    "abstract": "Noncanonical DNA structures such as i-motifs (iMs) are emerging as versatile functional elements within the human genome, yet their distribution and properties outside regulatory regions remain poorly characterized. Leveraging the complete telomere-to-telomere (T2T-CHM13) genome assembly, we generated an updated genome-wide catalogue of putative iM-forming sequences by implementing a bioinformatics pipeline for the systematic detection and statistical assessment of cytosine-rich motifs consistent with canonical iM-forming patterns. The analysis identified 789,952 candidates, representing a 6.39% increase over our previous hg38-based catalogue. Sequence-level comparison showed that 707,333 candidates (89.54%) had an identical sequence on the same chromosome and strand in the hg38-derived candidate set, whereas 82,619 (10.46%) were T2T-unmatched under these criteria. From this dataset, we focused on two distal-intergenic candidates selected to represent different positions within the T2T-CHM13 intergenic PSSM-score distribution and contrasting sequence architectures. The two candidates were characterized through an integrated biophysical workflow combining circular dichroism spectroscopy, UV absorption analyses (including thermal and isothermal difference spectra), nuclear magnetic resonance spectroscopy, native polyacrylamide gel electrophoresis, and size-exclusion chromatography. Both sequences adopted canonical iM folds under mildly acidic conditions (pH ≤ 6.25), displaying reversible, pH-dependent folding and distinct thermodynamic transitions. Despite similar lengths, the two iMs exhibited distinct stability and pH responsiveness, which could be rationalized by differences in cytosine density, C-tract organization, and loop architecture. Overall, this study provides a comprehensive set of iMs candidates within the T2T-CHM13 assembly, and it defines key structural and thermodynamic features of intergenic iMs.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "基于T2T-CHM13基因组系统筛查出789,952个潜在i-motif序列，并验证两个基因间区候选在弱酸下形成可逆折叠的iM结构。",
+    "conclusion": "研究构建了T2T-CHM13全基因组i-motif候选目录，较hg38增加6.39%，并发现约10%候选为T2T特有；两个远端基因间区序列在pH≤6.25下形成典型iM折叠，其稳定性与pH响应差异可由胞嘧啶密度、C-tract组织和环结构解释，为基因间区iM的结构与热力学特征提供了依据。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42934903",
+    "title": "Design, synthesis and larvicidal activity of novel imidazo[2,1-b][1,3,4]thiadiazole carboxamides against Anopheles arabiensis and in silico target exploration",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Gopikumar IJ, Haroun M, Pandurangan K, Dutta A, Chopra D, Gleiser RM, Tratrat C, Hegde S, Nagaraja S, Attimarad M, Nair AB, Morsy MA, Venugopala KN, Deb PK.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42934903",
+    "doi": "10.1002/ps.71431",
+    "pmid": "42934903",
+    "abstract": "Background Widespread resistance among malaria vectors to conventional insecticides, coupled with the limited availability of insecticides with novel mechanisms of action, necessitates the discovery of new chemical scaffolds for vector control. Anopheles arabiensis is an important malaria vector in sub-Saharan Africa and poses additional control challenges due to its behavioral adaptability and rising insecticide resistance. This study aimed to design, synthesize, characterize, and evaluate novel 6-(4-substituted phenyl)imidazo[2,1-b][1,3,4]thiadiazole-2-carboxamide derivatives (6a-6i) as potential larvicidal agents. Results Novel derivatives were synthesized and evaluated against third-instar A. arabiensis larvae. At 4 μg/mL, mortality ranged from 18% to 97% after 48 h. Compound 6e, bearing a sulfolane substituent, was the most active, producing 93% and 97% mortality at 24 and 48 h, respectively, comparable to temephos (99% at both time points). Its median lethal concentration (LC 50 ) values were 1.17 and 1.03 μg/mL, respectively, compared with 1.41 and 1.21 μg/mL for temephos, corresponding to an efficiency ratio of 0.9 at both time points. Structure-activity relationship (SAR) analysis indicated that the C-6 trifluoromethyl group and polar hydrogen-bond-accepting substituents were favorable. Molecular docking identified adenosine kinase as a potential target, with recurrent interactions involving Gly64, Asn221, and Leu133. Conclusion The findings identify imidazo[2,1-b][1,3,4]thiadiazole as a promising scaffold for developing new larvicidal chemotypes. Compound 6e represents the most promising lead and provides a basis for further optimization and validation of this scaffold for innovative malaria-vector control strategies. © 2026 Society of Chemical Industry.",
+    "species_latin": "Anopheles arabiensis",
+    "species_en": "Arabiensis mosquito",
+    "species_zh": "阿拉伯按蚊",
+    "takeaway": "合成咪唑并噻二唑甲酰胺衍生物，其中6e对阿拉伯按蚊幼虫杀灭活性最强，LC50约1.0 μg/mL。",
+    "conclusion": "该类咪唑并[2,1-b][1,3,4]噻二唑骨架可作为新型杀幼虫先导结构；6e含环丁砜取代基，活性与对照药双硫磷相当，构效关系显示C-6三氟甲基和极性氢键受体取代有利，分子对接提示腺苷激酶可能为作用靶点。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42933369",
+    "title": "Imazamox-Induced Hematotoxicity, Oxidative Stress, Inflammation, and DNA Damage in Rainbow Trout: Modulatory Effects of Borax",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Parlak V, Akbey T, Yeltekin AC, Ozgeris FB, Alak G, Ucar A, Turkez H, Atamanalp M.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42933369",
+    "doi": "10.1002/jat.70490",
+    "pmid": "42933369",
+    "abstract": "Imazamox (IMZMX) is an imidazolinone herbicide that may reach aquatic environments and affect non-target organisms. This study evaluated acute IMZMX toxicity and the potential modulatory effects of borax (BRX) in rainbow trout (Oncorhynchus mykiss) using hematological, stress, oxidative/antioxidant, inflammatory, DNA-damage, and apoptotic biomarkers. Fish were assigned to control, IMZMX, IMZMX + BRX, and BRX groups and sampled after 48 and 96 h. IMZMX exposure reduced red blood cell (RBC) count, hemoglobin (Hgb), and hematocrit (Hct), with associated changes in mean corpuscular volume (MCV), mean corpuscular Hgb (MCH), and MCH concentration (MCHC). Cortisol increased significantly in the IMZMX group at 48 and 96 h, consistent with an acute stress response. IMZMX also disrupted antioxidant homeostasis, including superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and reduced glutathione (GSH), and increased malondialdehyde (MDA) and myeloperoxidase (MPO), indicating enhanced oxidative injury. Changes in nuclear factor erythroid 2-related factor 2 (Nrf2), interleukin-6 (IL-6), and tumor necrosis factor alpha (TNF-α) further indicated redox-sensitive inflammatory modulation. In addition, IMZMX increased 8-hydroxy-2'-deoxyguanosine (8-OHdG) and caspase-3, supporting oxidative DNA damage and apoptosis. Co-exposure to BRX generally shifted several altered biomarkers toward control values, suggesting a protective or modulatory effect under the tested acute conditions. These findings support further investigation of boron compounds as context-dependent modulators of pesticide-induced oxidative injury in fish, while emphasizing the need to define dose-, route-, and duration-dependent safety limits.",
+    "species_latin": "Oncorhynchus mykiss",
+    "species_en": "Rainbow trout",
+    "species_zh": "虹鳟",
+    "takeaway": "咪唑乙烟酸除草剂使虹鳟产生血液毒性、氧化应激、炎症及DNA损伤，硼砂共暴露可部分缓解这些指标异常。",
+    "conclusion": "咪唑乙烟酸急性暴露会降低虹鳟红细胞、血红蛋白和红细胞压积，升高皮质醇，扰乱抗氧化酶与GSH平衡，增加MDA、MPO、8-OHdG和caspase-3，并改变Nrf2、IL-6、TNF-α，提示氧化损伤、炎症、DNA损伤与凋亡；硼砂共暴露使多项指标趋向对照，显示一定保护或调节作用，但其安全性受剂量、途径和暴露时长影响。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42933345",
+    "title": "Divergent horizontal transfer of insecticides in a social termite",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Li XL, Hu XL, Li ZQ.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42933345",
+    "doi": "10.1016/j.ecoenv.2026.120975",
+    "pmid": "42933345",
+    "abstract": "In social insects, horizontal transfer determines whether insecticides can spread from exposed individuals to untreated nestmates and achieve colony-level effects. However, transfer outcomes may diverge substantially even among insecticides with comparable acute toxicity. In this study, horizontal transfer among six insecticides was evaluated in the social termite Coptotermes formosanus to examine factors potentially associated with transfer divergence. Acute toxicity differed markedly among insecticides, but transfer performance did not follow the same pattern. Chlorpyrifos exhibited the highest acute toxicity yet produced the weakest horizontal transfer, whereas bifenthrin, imidacloprid, and chlorantraniliprole caused greater recipient mortality despite comparatively higher LC₅₀ values. Notably, bifenthrin retained strong transfer despite its relatively high acute toxicity, indicating that acute toxicity alone could not explain transfer outcomes. Regression analysis showed no relationship between LC₅₀ and recipient survival. Donor survival varied among treatments, with chlorpyrifos causing rapid donor mortality, whereas bifenthrin and thiotraniliprole allowed longer survival. Feeding activity and detoxification enzyme responses differed among treatments, suggesting compound-specific differences in donor physiological condition after exposure. Together, these findings demonstrate that horizontal transfer outcomes may diverge beyond what can be explained by acute toxicity alone and may be associated with differences in donor persistence and post-exposure condition. More broadly, the results highlight how individual-level responses to chemical exposure may shape secondary toxicant transfer within social systems, emphasizing the importance of social transmission processes in determining the ecological consequences of insecticide exposure.",
+    "species_latin": "Coptotermes formosanus",
+    "species_en": "Formosan subterranean termite",
+    "species_zh": "台湾乳白蚁",
+    "takeaway": "在台湾乳白蚁中，六种杀虫剂的水平传递效果与急性毒性并不一致，说明仅凭急性毒性无法预测群体传递效果。",
+    "conclusion": "杀虫剂的水平传递效果不能仅由急性毒性解释：毒死蜱急性毒性最高但传递最弱，联苯菊酯等虽LC₅₀较高却造成更多受药个体死亡。供体存活时间与暴露后生理状态（取食、解毒酶反应）的差异可能与传递分化有关，表明个体对化学暴露的响应会影响社会性昆虫群体内的二次传递，凸显社会传播过程在决定杀虫剂生态效应中的重要性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261026-cb1a345d91",
     "title": "Pesticides in the spotlight: organic farming must be part of the debate",
     "type": "news",
@@ -138,7 +346,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -164,7 +372,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -190,7 +398,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -216,7 +424,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -242,7 +450,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -268,7 +476,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -347,6 +555,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42935373",
+    "title": "Microsatellite expansion redirects chromatin modifiers to confer insect resistance to Bt bioinsecticides",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nucleic acids research",
+    "authors": "Ouyang C, Sun K, Wang F, Ye F, Zhu L, Dong L, Bai Y, Cheng Z, Wu M, Crickmore N, Zhou X, Zhang Y, Guo Z.",
+    "publish_date": "2026-10-24",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42935373",
+    "doi": "10.1093/nar/gkag1058",
+    "pmid": "42935373",
+    "abstract": "Microsatellites are highly mutable genomic elements, yet their role in adaptive gene regulation in insects remains poorly understood. Here, we show that a tetranucleotide (ATGT) microsatellite expansion in the promoter of ABCC2, a key Bacillus thuringiensis (Bt) toxin receptor gene, epigenetically silences its expression and confers resistance to Bt Cry1Ac toxin in Plutella xylostella (L.). Mechanistically, long repeats (≥27 units) in Cry1Ac-resistant strains preferentially recruit the histone methyltransferase E(z), promoting H3K27me2/3 deposition, chromatin compaction, and transcriptional silencing, whereas short repeats in susceptible strains maintain open chromatin through Tip60-mediated H4K5 acetylation. This repeat expansion alone is sufficient to repress ABCC2, thereby conferring Bt resistance, while repeat length, chromatin state, and associated phenotypes partially revert under relaxed selection. These findings define a previously uncharacterized cis-acting element dynamically orchestrating insecticide resistance-associated gene expression and identify microsatellite-driven chromatin remodeling as a general and plastic regulatory strategy underlying rapid xenobiotic-resistance evolution in insects.",
+    "species_latin": "Plutella xylostella",
+    "species_en": "diamondback moth",
+    "species_zh": "小菜蛾",
+    "takeaway": "小菜蛾ABCC2启动子微卫星扩增招募E(z)致染色质沉默，赋予Bt抗性",
+    "conclusion": "ABCC2启动子ATGT微卫星扩增通过招募组蛋白甲基转移酶E(z)、增加H3K27me2/3并压缩染色质，表观沉默该Bt受体基因，从而产生Cry1Ac抗性；短重复则经Tip60介导H4K5乙酰化维持开放染色质。该重复扩增足以导致抗性，且放松选择后部分可逆，揭示微卫星驱动染色质重塑是昆虫快速抗药性进化的可塑调控策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -1096,6 +1330,39 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261028-pei-spcp3-rna-pesticide",
+    "title": "中国农大沈杰/闫硕团队构建PEI功能化星型聚阳离子纳米递送平台，实现蚜虫广谱RNAi绿色防控",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农业大学植物保护学院（原文期刊 Journal of Nanobiotechnology）",
+    "authors": "",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-28",
+    "url": "https://cpp.cau.edu.cn/art/2026/10/21/art_21979_1142127.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "团队对星形阳离子聚合物SPc进行聚乙烯亚胺（PEI）功能化，构建SPcP3载体，与dsRNA组装成球形纳米复合物，显著提升dsRNA抗核酸酶、耐高温与极端pH的稳定性。细胞摄取效率较裸dsRNA提高26.5倍，机制上协同激活内吞、囊泡转运、溶酶体与跨膜转运（PEI“质子海绵”效应）；基于5种蚜虫保守的ATP-d、CHS、EcR序列组装的多靶点shRNA配方室内防效达87.3%–96.9%，对作物、天敌异色瓢虫及Sf9细胞无明显不良影响。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "PEI功能化纳米载体通过“质子海绵”效应突破dsRNA叶面沉积、表皮渗透与细胞内化多重屏障，实现可规模化、环境友好的广谱蚜虫RNA农药。",
+    "conclusion": "SPcP3以静电、氢键与范德华力稳定装载dsRNA，增强靶基因沉默与RNAi杀虫活性；多靶点shRNA配方对5种蚜虫防效87.3%–96.9%，为RNA农药的高效递送与科学设计提供了新平台。",
+    "keywords": [
+      "RNA生物农药",
+      "dsRNA",
+      "纳米递送",
+      "星型聚阳离子",
+      "SPc",
+      "PEI",
+      "质子海绵",
+      "蚜虫",
+      "广谱防控",
+      "RNAi"
+    ]
+  },
+  {
     "id": "news-20261021-7221b02576",
     "title": "Why seed companies are turning to genetics as pesticide options disappear",
     "type": "news",
@@ -1496,6 +1763,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20261020-9494f0f026",
+    "title": "Discussion Held on Pesticide-Free Farm Exports",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Global New Light Of Myanmar",
+    "authors": "",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-28",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQazdUOU5wb3RDNGJoSVNXRG52WUFPN1BzeWYxSkdNXy1rNHZ1WjdveC1pbVR5dk9BYkRBLThTRzRvVU5meEhrYjZmRl9TemRqMlBSS1QwR3hxYXhTNXc4UWFLLWw1aFZ3OFVnZUNfUDFnMDJhcVJGRWdiNVlMSDZLblhFVXZkaHdiTnBCMlhkcVVWQ2RpSV90cGtEVE0?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "会议讨论无农药农场出口议题，未涉及具体物种或实验数据。",
+    "conclusion": "该文献仅为会议讨论记录，聚焦无农药农场产品的出口问题，未提供研究数据、机制或科学结论，无法得出实质性科学发现。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261026-smir-symbiont-resistance-review",
     "title": "共生体介导的昆虫抗药性：机制、生态遗传与管理权衡（SMIR框架）",
     "type": "wechat",
@@ -1740,6 +2036,39 @@
     ],
     "via": "PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261028-mimicry-masquerade-review",
+    "title": "Annual Review of Entomology：张蔚课题组受邀综述昆虫拟态与乔装的演化遗传学",
+    "type": "wechat",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "北京大学生命科学学院",
+    "authors": "",
+    "publish_date": "2026-10-19",
+    "added_at": "2026-10-28",
+    "url": "https://www.bio.pku.edu.cn/homes/Index/news_cont/22/19159.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "张蔚课题组受邀在Annual Review of Entomology发表长篇综述“Evolutionary genetics of insect mimicry and masquerade”，系统梳理贝茨拟态、穆勒拟态、性间拟态与乔装的遗传发育机制。文章总结性别决定基因doublesex在多个凤蝶物种雌性拟态多态性及相关“超基因”形成中的关键作用，强调演化热点基因、非编码序列与结构变异对表型多样化的推动。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "昆虫拟态与乔装的表型适应多由doublesex等少数演化热点基因、顺式调控元件与结构变异驱动，为性二型与趋同演化提供了统一的遗传学视角。",
+    "conclusion": "凤蝶雌性拟态由doublesex控制、袖蝶翅图案由顺式调控元件驱动、熊蜂体色由Abd-B位点控制、异痣蟌性间拟态涉及大片段染色体结构变异；现有研究过度集中于少数“开关”基因，其上下游调控网络仍待解析。",
+    "keywords": [
+      "昆虫",
+      "性别决定",
+      "doublesex",
+      "拟态",
+      "乔装",
+      "超基因",
+      "演化遗传学",
+      "性二型",
+      "凤蝶",
+      "综述"
+    ]
   },
   {
     "id": "manual-20261026-peppi-review-cell-biomaterials",
@@ -2205,6 +2534,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42943122",
+    "title": "Genome-Wide Identification and Expression Analysis of Aquaporin Gene Family in 84K Poplar",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plants (Basel, Switzerland)",
+    "authors": "Zhu M, Wang K, Wang J, Sun K, Wang H, Li Y, Wang J, Zhu S.",
+    "publish_date": "2026-10-16",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42943122",
+    "doi": "10.3390/plants15203167",
+    "pmid": "42943122",
+    "abstract": "Aquaporins (AQPs) mediate the transmembrane transport of water and diverse small molecules, playing essential roles in plant growth and development and stress responses. However, their genome-wide organization and evolution at the subgenome level in hybrid 84K poplar (Populus alba × Populus tremula var. glandulosa) remain incompletely characterized. Based on the telomere-to-telomere genome of 84K poplar, we identified 94 PagAQPs, with 46 and 48 members in the A and G subgenomes, respectively. Phylogenetic analysis classified them into five subfamilies unevenly distributed across 29 chromosomes, with PagPIP and PagTIP being the two largest subfamilies. Most PagAQPs were retained as corresponding A/G allelic pairs, whereas few exhibit subgenome-specific retention. Valid Ka/Ks ratios for 38 allelic pairs and 59 paralogous gene pairs were all below 1, indicating predominant purifying selection. Gene structure, conserved motifs, and substrate-recognition residues showed conservation within subfamilies and divergence among subfamilies. The promoters contained predicted cis-acting elements associated with light, phytohormone and abiotic stress responses. Expression profiling showed that some PagPIP and PagTIP members were highly expressed in vascular tissues and exhibited changes in transcript abundance under nitrogen and drought treatments. Compared with wild-type plants, the 35S:PagPIP2;6A overexpression lines were shorter before treatment and exhibited higher leaf relative water content and lower malondialdehyde content after water withholding. This study systematically characterized the subgenomic distribution, evolutionary features and expression patterns of the PagAQP family in 84K poplar and identified candidate genes for further functional investigation.",
+    "species_latin": "Populus alba × Populus tremula var. glandulosa",
+    "species_en": "84K poplar (white poplar × trembling aspen hybrid)",
+    "species_zh": "84K杨（白杨×腺毛杨杂种）",
+    "takeaway": "基于端粒到端粒基因组在84K杨中鉴定94个AQP基因，揭示亚基因组分布、纯化选择及PagPIP2;6A抗旱功能",
+    "conclusion": "84K杨AQP家族共94个成员，A、G亚基因组分别含46和48个，分属五个亚家族且不均分布于29条染色体；多数保留为A/G等位基因对，Ka/Ks均小于1表明以纯化选择为主；启动子含光、激素和逆境响应元件，部分PagPIP、PagTIP在维管组织高表达并响应氮与干旱；过表达PagPIP2;6A可提高叶片相对含水量、降低丙二醛含量，增强抗旱性。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -3744,6 +4099,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42940952",
+    "title": "Host Pre-Adaptation and Sublethal Indoxacarb Interactively Affect Growth and Development of &lt;i&gt;Cnaphalocrocis medinalis&lt;/i&gt;, with Potential Involvement of P450 and Juvenile Hormone-Related Genes",
+    "type": "paper",
+    "boards": [
+      "cmed"
+    ],
+    "source": "Insects",
+    "authors": "Shen S, Wen R, Yang Y, Xu H, Chen Y, Li C, Lu Y, Liu Y, Chen Y, Lu Z, Wu Y, Guo J.",
+    "publish_date": "2026-10-10",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42940952",
+    "doi": "10.3390/insects17101043",
+    "pmid": "42940952",
+    "abstract": "Host switching alters insecticide responses, but its interplay with sublethal stress remains unclear. We examined if host pre-adaptation modulates sublethal indoxacarb effects on Cnaphalocrocis medinalis and whether P450 and juvenile hormone-related genes are involved. Two long-term laboratory populations with different origins and rearing histories were used: a wheat-reared population (collected 2019 in Nanjing; >20 generations) and a rice-reared population (collected 2021 in Hangzhou; >10 generations). They were reciprocally transferred onto rice and wheat, establishing four host switching treatments (RR, RW, WR, WW). Second-instar larvae were exposed to LC 25 indoxacarb, after which we recorded larval and pupal development, fecundity and egg hatchability, and quantified six P450 genes ( CmedCYP49A1 , CmedCYP6AE30 , CmedCYP12A2 , CmedCYP301A1 , CmedCYP4V2 , and CmedCYP4AE76 ) and four JH-related genes ( CmedAT , CmedJHAMT , CmedJHE , and CmedJHBP1 ). Host switching was associated with altered susceptibility, with RR more susceptible than RW and WW less susceptible than WR. Developmental effects were instar-specific. Pupal traits were affected by insecticide treatment and population origin, whereas reproductive traits were mainly affected by population origin. P450 and JH-related genes showed gene-specific expression patterns and were associated with some phenotypic changes. Gene expression correlated with phenotypes, suggesting potential trade-offs among detoxification, development, and reproduction. These laboratory findings indicate that host pre-adaptation and sublethal indoxacarb affect life-history traits in trait- and instar-specific ways. P450 and JH genes are potentially involved and merit functional validation, but field validation is needed before management application.",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaf roller",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "宿主预适应与亚致死茚虫威交互影响稻纵卷叶螟发育，P450和保幼激素基因可能参与",
+    "conclusion": "宿主转换改变稻纵卷叶螟对茚虫威的敏感性，亚致死剂量与宿主预适应以性状和虫龄特异的方式影响生长发育与繁殖；P450及保幼激素相关基因表达与表型相关，提示解毒、发育与繁殖间可能存在权衡，但需功能与田间验证",
+    "keywords": [
+      "稻纵卷叶螟功能基因组学"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261014-bph-endosymbiont-folate",
     "title": "【Cell Reports】华中农业大学揭示共生菌经叶酸介导DNA甲基化调控褐飞虱杀虫剂敏感性的新机制",
     "type": "wechat",
@@ -4359,6 +4740,35 @@
       "T2T 端粒到端粒基因组"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261007-c12067f6ff",
+    "title": "Study Links Neonicotinoid Pesticide to Brain Damage, Spotlighting a Mechanism Ignored by Regulators",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Beyond Pesticides",
+    "authors": "",
+    "publish_date": "2026-10-07",
+    "added_at": "2026-10-28",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbVF4QllPbFhyLUdLLW04QnVqVUJmNnpZWmhJY2wzb0x0RFZUUmlRYnZCYWdLT0x0cGc2THpOY0JZbjJxRllyNWhkUDYtd0ViS09oNVBYdUk2VnJVSmlfT1FHSTRKcjhLN0xLNy1qaVJ2VllnVjlFWUJNLXJoRXRzWGpFUEFWa25LSU93U0FDaU5rbkU2THN3Uy1fenJoODB6YUtiVlRoZGlwT05BVVVkd3BfRDNpcWVPTGYxTW1DajFxWTQ4Q3VsQlZRLWdHbVdiQTJNZ3FRdnR4TGkwemdCZ2wybjA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究提示新烟碱类农药可致脑损伤，并揭示监管机构忽视的机制。",
+    "conclusion": "该研究将新烟碱类农药暴露与脑损伤联系起来，并提出一种此前未被监管机构纳入评估的致病机制，提示现行风险评估可能低估其神经毒性，需重新审视相关监管标准。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -5302,6 +5712,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "title-hostpreadaptationandsublethalindoxacarbinteractivelyaffectgr",
+    "title": "Host Pre-Adaptation and Sublethal Indoxacarb Interactively Affect Growth and Development of Cnaphalocrocis medinalis, with Potential Involvement of P450 and Juvenile Hormone-Related Genes",
+    "type": "paper",
+    "boards": [
+      "cmed"
+    ],
+    "source": "Insects",
+    "authors": "Shen S, Wen R, Yang Y, Xu H, Chen Y, Li C, Lu Y, Liu Y, Chen Y, Lu Z, Wu Y, Guo J.",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-10-28",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaffolder",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "宿主预适应与亚致死茚虫威共同影响稻纵卷叶螟生长发育，P450及保幼激素相关基因或参与其中",
+    "conclusion": "宿主预适应和亚致死剂量茚虫威的交互作用可改变稻纵卷叶螟的生长与发育表现，其机制可能涉及细胞色素P450解毒酶系与保幼激素通路相关基因的调控，提示寄主适应性与低剂量杀虫剂暴露在害虫种群动态中具有联合效应。",
+    "keywords": [
+      "稻纵卷叶螟功能基因组学"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
