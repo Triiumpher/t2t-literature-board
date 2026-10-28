@@ -143,7 +143,7 @@
     "authors": "",
     "publish_date": "2026-10-27",
     "added_at": "2026-10-27",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWFIMlB5OHg5bG9xVkxaWkpQQ0QyR2lIT0RDUGNLQURSbkxWNnlBai1HMW5jbmQ3NU9MTEU5b3JFU2VNX01DTi16V0FQSUF3RUt5bkd6bUk5ZGJsUF9mejR2emlhNUF1SVZLWUk1WTJPMHZUQU9zTkgyYXJ1LUt0Tk45ZkVQXzZLY2ZfRGlHRk5iWXFxckRlRWctZXVjdExFRHVWVGFB?oc=5",
+    "url": "https://bioengineer.org/dye-and-chelator-bilayer-electrode-detects-diazinon-pesticide-in-fruit-samples/",
     "doi": "",
     "pmid": "",
     "abstract": "",
@@ -158,7 +158,7 @@
       "en"
     ],
     "via": "Google News:en",
-    "link_kind": "",
+    "link_kind": "search",
     "llm_enhanced": true
   },
   {
@@ -1792,6 +1792,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42940992",
+    "title": "Toxicological Stability of Piper aduncum L. Essential Oil During Storage Against Stored-Product Insect Pests",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Tamwing GDS, Almeida GC, Nascimento JMD, Oliveira RV, de Araújo CS, Silva GLD, Rojas MOAI, Gonçalves FJT, Cantanhede LB, Barbosa DRES, Carvalho MS, Silva GN, Lopes LM, Soares MRA, Sousa AH.",
+    "publish_date": "2026-10-20",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42940992",
+    "doi": "10.3390/insects17101084",
+    "pmid": "42940992",
+    "abstract": "Piper aduncum L. essential oil (PAEO) has insecticidal potential, but its performance under different storage conditions remains incompletely characterized. We compared PAEO stored at 5, 20, or 35 °C protected from light and, in a separate experiment at 20 °C, under light-protected or light-exposed conditions. Adults of four stored-product beetle species were tested after 4, 8, and 12 months. Initial GC-MS characterization showed that dillapiole accounted for 70.34% of the chromatographic area. Replicate-level mortality counts were analyzed using binomial-probit models. Assessment time was associated with concentration-mortality responses for all four species; the trajectories were species dependent and often non-monotonic. Exploratory within-assessment model comparisons generally showed higher median lethal concentrations for the bottles stored at 35 °C or exposed to light at 4 and 8 months, although these patterns differed by species. The storage experiments were not factorial. Each condition had one oil bottle, and differences between assessment dates cannot be attributed solely to oil aging because concurrent fresh-oil controls were unavailable. PAEO remained insecticidally active at each assessment, but chemical changes and their mechanisms were not tested longitudinally.",
+    "species_latin": "Piper aduncum",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究不同储存条件下胡椒叶精油对四种储粮甲虫的杀虫活性，发现各评估期仍有活性但浓度-死亡响应随物种和时间变化。",
+    "conclusion": "胡椒叶精油在5、20、35℃避光及20℃光照条件下储存12个月后仍具杀虫活性，但浓度-死亡响应轨迹因物种而异且常非单调；35℃或光照储存的样品在4和8个月时中位致死浓度倾向更高。因实验非析因设计、每条件仅一瓶且无同期新鲜油对照，储存差异不能完全归因于油老化，化学变化机制未纵向验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261026-smir-symbiont-resistance-review",
     "title": "共生体介导的昆虫抗药性：机制、生态遗传与管理权衡（SMIR框架）",
     "type": "wechat",
@@ -2828,6 +2854,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42941922",
+    "title": "Nanoencapsulation of Essential Oils for Food Preservation and Agricultural Applications: A Systematic Review of Biological Efficacy, Safety, and Technological Challenges",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of molecular sciences",
+    "authors": "Diogo Gonçalves S, Silva LR.",
+    "publish_date": "2026-10-15",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42941922",
+    "doi": "10.3390/ijms27209154",
+    "pmid": "42941922",
+    "abstract": "Essential oils (EOs) are promising natural bioactive compounds for food preservation and sustainable agriculture because of their antimicrobial, antifungal, antioxidant, and insecticidal properties. However, poor water solubility, high volatility, and chemical instability limit their practical application. Nanoencapsulation has emerged as an effective strategy to improve EOs stability, bioavailability, controlled release, and biological performance. This systematic review evaluated the efficacy, safety, and technological challenges of nanoencapsulated EOs for food and agricultural applications. The review followed PRISMA 2020 guidelines. Scopus, PubMed, and Web of Science were systematically searched, and original experimental studies reporting at least one safety-related outcome were included. Risk of bias was assessed using the Quality Assessment Tool for In Vitro Studies, and results were synthesized narratively. Of 776 records identified, 19 studies met the inclusion criteria. Nanoencapsulation generally improved EOs stability, controlled release, and biological persistence while frequently enhancing antimicrobial, antifungal, antioxidant, insecticidal, and preservation efficacy. Preliminary safety assessments, including cytotoxicity, hemolysis, phytotoxicity, sensory evaluation, and nanoparticle migration, were generally favourable. However, methodological heterogeneity, predominantly laboratory-based evidence, and limited long-term toxicity and industrial validation reduce the certainty of the evidence. Overall, nanoencapsulation represents a promising approach for enhancing the practical application of EOs, although standardized safety assessments and large-scale validation studies are needed before widespread commercial implementation.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "系统综述19项实验研究显示，纳米包封可提升精油稳定性、控释性及抗菌、抗氧化、杀虫等生物效能，安全性初步良好。",
+    "conclusion": "纳米包封能改善精油的稳定性、控释与生物持久性，并常增强其抗菌、抗真菌、抗氧化、杀虫及保鲜效果；初步安全性评价总体良好。但研究方法异质性大、证据多来自实验室、缺乏长期毒性与工业验证，证据确定性有限，商业化前需标准化安全评估与大规模验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261027-hdock-multimer",
     "title": "HDOCK-Multimer：整合分子对接与组合装配的大型蛋白复合物结构预测方法",
     "type": "wechat",
@@ -3303,6 +3355,58 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42940970",
+    "title": "Insect CncC: Roles in Redox Homeostasis, Physiology, and Insecticide Resistance, with Prospects for Biotechnological Applications",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Cen Y, Chen Y, Wang K, Chen D, Ahmad S, Jamil M, Ouyang G, Meng X.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42940970",
+    "doi": "10.3390/insects17101061",
+    "pmid": "42940970",
+    "abstract": "The Cap 'n' collar isoform C (CncC) transcription factor, the insect ortholog of mammalian nuclear factor erythroid 2-related factor 2 (Nrf2), serves as a central regulator of redox homeostasis and xenobiotic detoxification. Increasing evidence demonstrates that the functions of CncC extend beyond stress responses to include metamorphosis, immunity, reproduction, aging, and the development of metabolic insecticide resistance. In this review, we synthesize recent advances in insect CncC biology, with a focus on the conserved CncC/Keap1-ARE signaling pathway and its role in the detoxification of phytochemicals and insecticides. We further discuss insect-specific regulatory interactions between CncC and ecdysone signaling, as well as the gut microbiota, and compare insect CncC with mammalian Nrf2. From an applied perspective, we discuss CncC as a target for resistance management, including strategies involving RNAi and small-molecule inhibitors, its potential application in inducible bioreactors, and its value as a biomarker in environmental risk assessment. We conclude by identifying key open questions, including tissue-specific regulation, fitness costs of constitutive activation, and field relevance of CncC-mediated resistance, and highlight how addressing these gaps can support the development of sustainable pest control strategies.",
+    "species_latin": "",
+    "species_en": "Insects",
+    "species_zh": "昆虫",
+    "takeaway": "综述指出昆虫CncC是氧化还原与解毒核心调控因子，参与发育、免疫、生殖及杀虫剂抗性，具生物技术应用前景。",
+    "conclusion": "CncC/Keap1-ARE通路保守调控解毒与氧化应激，并与蜕皮激素信号和肠道菌群存在昆虫特有互作；CncC可作为抗性治理靶标、诱导型生物反应器元件及环境风险评估标志物，但组织特异性调控、组成性激活适合度代价与田间相关性仍待阐明。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42939598",
+    "title": "Chemical Profiling, Antifungal and Insecticidal Activities of Santolina chamaecyparissus L. Essential Oil: An Integrated Experimental and In Silico Study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Current issues in molecular biology",
+    "authors": "Zouhri A, El-Mernissi R, Houiat A, Abdelfattah B, Khibech O, El-Mernissi Y, Bouhrim M, Basilua JM, Zouirech O, S Alharbi M, A Mothana R, Al-Yousef HM, Senhaji N, Hajji L.",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42939598",
+    "doi": "10.3390/cimb48101060",
+    "pmid": "42939598",
+    "abstract": "Santolina chamaecyparissus L. essential oil (EO) was investigated for its chemical composition, antifungal and insecticidal activities, together with complementary molecular docking and ADMET analyses. GC-MS revealed a monoterpene-rich profile dominated by santolina triene (48.44%), α-pinene (14.05%), camphor (8.80%), myrcene (5.17%), and α-thujene (4.26%). The EO exhibited antifungal activity against Fusarium oxysporum and Aspergillus brasiliensis, with MIC and MFC values of 4 mg/mL and concentration-dependent inhibition of mycelial growth. Insecticidal activity against Rhyzopertha dominica was demonstrated through fumigant, topical-contact, and treated-grain assays, with efficacy varying according to concentration and exposure duration. Molecular docking identified α-thujene and p-cymene as the highest-ranked tested EO constituents against fungal CYP51B and insect AChE, respectively. ADMET predictions highlighted favorable physicochemical characteristics alongside potential toxicity-related liabilities requiring experimental verification. These findings provide a basis for further investigation of S. chamaecyparissus EO and its constituents as potential natural antifungal and insecticidal agents.",
+    "species_latin": "Santolina chamaecyparissus",
+    "species_en": "Lavender cotton",
+    "species_zh": "圣甘菊",
+    "takeaway": "圣甘菊精油富含单萜，具抗真菌与杀虫活性，分子对接提示α-侧柏烯和p-伞花烃为关键成分",
+    "conclusion": "该精油对尖孢镰刀菌和巴西曲霉有浓度依赖性抑菌作用，对谷蠹具熏蒸、触杀及处理谷物杀虫活性；分子对接显示α-侧柏烯与p-伞花烃分别对真菌CYP51B和昆虫AChE结合最佳，ADMET提示理化性质良好但存在需实验验证的毒性风险，可作为天然抗真菌与杀虫剂的研发基础",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42916041",
     "title": "Structural Modifications Redirect Phenylpyrazole Ectoparasiticides from the Ion Channel Pore to an Allosteric Site on GABA Receptors",
     "type": "paper",
@@ -3638,6 +3742,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42943573",
+    "title": "Silver Nanoparticles Biosynthesized from Metarhizium anisopliae Crude Extract: Insecticidal Activity, Residual Efficacy, and Metabolic Responses in Solenopsis invicta",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Microorganisms",
+    "authors": "Wang D, Wu C, Li W, Cai H, Ni J, Tong Y.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42943573",
+    "doi": "10.3390/microorganisms14102334",
+    "pmid": "42943573",
+    "abstract": "Green biosynthesis of silver nanoparticles using natural biological extracts represents a promising route to develop eco-friendly nanopesticides; nevertheless, many biogenic nanoformulations suffer from poor photostability and rapid loss of bioactivity under field sunlight exposure. In this study, silver nanoparticles (Des-AgNPs) were one-pot biosynthesized using crude fermentation extract from the entomopathogenic fungus Metarhizium anisopliae (Metschn.) Sorokīn, which served as both a reducing agent and a surface-capping ligand. Solenopsis invicta Buren was employed as a model pest to evaluate the physicochemical features, insecticidal potency, outdoor residual stability, and underlying metabolic toxic mechanism of the resulting nanomaterial. The synthesized Des-AgNPs exhibited high crystallinity, favorable dispersibility, and excellent colloidal stability. Laboratory bioassays demonstrated potent insecticidal activity against S. invicta workers, with a 5-day LC50 of 174.74 mg/kg. Notably, outdoor exposure assays revealed that Des-AgNPs significantly outperformed the unformulated fungal crude extract in residual efficacy: Des-AgNPs retained high insecticidal activity after 96 h of environmental exposure, whereas the free crude extract underwent a pronounced decline in toxicity within 24 h. Untargeted LC-MS-based metabolomics was further applied to decipher the multi-target toxic responses triggered by Des-AgNPs. In total, 540 differential metabolites (321 upregulated, 183 downregulated) were identified. KEGG pathway enrichment revealed significant disruptions in glutathione metabolism, cytochrome P450-mediated xenobiotic detoxification, tyrosine/dopamine neurotransmitter metabolism, and ABC-transporter-driven efflux pathways. These metabolic perturbations reflected oxidative stress, impaired energy metabolism, compromised cell membrane integrity, disrupted neural transmission, and biomacromolecule damage in the model pest. Collectively, our results demonstrate that entomopathogenic-fungal-extract-capped silver nanoparticles can overcome the photodegradation drawback of free fungal bioactive metabolites. This mycosynthetic strategy provides a feasible framework for constructing stable, high-performance nanobiopesticides, and the workflow could be extended to other fungal extracts and target insect pests beyond the present model system.",
+    "species_latin": "Solenopsis invicta",
+    "species_en": "Red imported fire ant",
+    "species_zh": "红火蚁",
+    "takeaway": "用绿僵菌粗提物绿色合成银纳米颗粒，对红火蚁具强杀虫活性且户外残留稳定性显著优于游离粗提物",
+    "conclusion": "绿僵菌发酵粗提物兼作还原剂与封端配体，一锅法合成的银纳米颗粒结晶度高、分散性与胶体稳定性好，对红火蚁工蚁5天LC50为174.74 mg/kg；户外暴露96小时仍保持高杀虫活性，而游离粗提物24小时内毒性明显下降，克服了真菌活性代谢物易光降解的缺陷。代谢组学显示其扰乱谷胱甘肽代谢、细胞色素P450解毒、酪氨酸/多巴胺神经递质及ABC转运外排通路，引发氧化应激、能量代谢受损、膜完整性破坏与神经传导障碍，体现多靶点毒性机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42940964",
+    "title": "Sublethal Effects of Abamectin on the Detoxification Enzyme System, Growth, and Reproduction of Cylas formicarius (Fabricius)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Lu F, Zhang Q, Li M, He P, Luo Q, Gu Y, Tang P, Zhao M, Munir S, Tang G.",
+    "publish_date": "2026-10-13",
+    "added_at": "2026-10-28",
+    "url": "https://europepmc.org/article/MED/42940964",
+    "doi": "10.3390/insects17101055",
+    "pmid": "42940964",
+    "abstract": "Cylas formicarius (Fabricius, 1798) (Coleoptera: Brentidae), the sweetpotato weevil, is an important quarantine pest in sweetpotato production. Exploring the detoxification enzyme responses of pests under pesticide stress helps to clarify the physiological mechanism of pesticide tolerance. Meanwhile, evaluating sublethal pesticide effects on population life tables is critical for revealing transgenerational ecological risks and guiding sustainable pest management. In this study, we analyzed how abamectin affected detoxification enzyme systems, fecundity, growth, and development of C. formicarius. The sweetpotato root-dipping method was used to assess the 48 h toxicity of abamectin to C. formicarius adults. The adult C. formicarius had LC10 and LC30 values of 0.645 and 1.709 mg/L, respectively. Sublethal abamectin induced significant temporal alterations in CarE, GST, and CYP450 activities in C. formicarius. The three detoxification enzymes exhibited distinct dynamic trends and divergent induction or inhibition responses under LC10 and LC30 stress, showing clear temporal specificity. The oviposition period, adult longevity, and fecundity of the parental generation were significantly reduced by sublethal abamectin. In the F1 generation, developmental periods of eggs, larvae, and pupae were longer, whereas adult longevity and total lifespan were shorter than those of the control, and fecundity was also markedly decreased. These results demonstrate that changes in detoxification enzyme activities constitute an important physiological response of C. formicarius under abamectin stress. Population life-table analysis further confirmed the transgenerational inhibitory impacts of sublethal abamectin on weevil population performance. Combining physiological enzyme assays with population life-table evaluation helps us comprehensively understand sublethal risks of this insecticide; this work provides a theoretical basis for rational field application and long-term sustainable management of C. formicarius.",
+    "species_latin": "Cylas formicarius",
+    "species_en": "sweetpotato weevil",
+    "species_zh": "甘薯小象甲",
+    "takeaway": "亚致死剂量阿维菌素改变甘薯小象甲解毒酶活性，并跨代抑制其生长与繁殖。",
+    "conclusion": "阿维菌素亚致死浓度（LC10、LC30）使甘薯小象甲CarE、GST和CYP450活性呈时间特异性动态变化，亲代产卵期、寿命和产卵量下降，F1代发育延长、寿命缩短、繁殖力降低，表明解毒酶响应是重要生理机制，且该药对种群表现具跨代抑制作用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -21109,6 +21265,35 @@
     "via": "Google News:en",
     "llm_enhanced": true,
     "link_kind": "doi"
+  },
+  {
+    "id": "news-20231028-24965a75bf",
+    "title": "Topological links in predicted protein complex structures reveal limitations of AlphaFold | Communications Biology",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2023-10-28",
+    "added_at": "2026-10-28",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwTXowT2Y5aTFfSUp1RjY4dmhURjRuTEl6NWRCNWM2eXFGcWlpWjhRV0c5MUxVdnh0RHRDS2ZjanhHSV85WEpOUXVsOTd0Q0NURkF1MTZmRW5iNzVuT1dn?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究分析AlphaFold预测的蛋白质复合物结构中的拓扑链接，揭示其局限性。",
+    "conclusion": "通过考察预测蛋白质复合物结构中的拓扑链接特征，发现AlphaFold在复合物结构预测上存在局限，提示需谨慎评估其预测结果的可靠性。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
   },
   {
     "id": "news-20230821-361fbe795d",
