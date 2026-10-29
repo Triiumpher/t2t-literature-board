@@ -1,5 +1,277 @@
 [
   {
+    "id": "news-20261029-06d9972135",
+    "title": "Halving Hazardous Pesticides in Europe Would Reshape Farms, Trade and Land Use",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-29",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMy0yWlg0dGNsSUdRamFLQXdwOTZtbE1fOGY2dVhvQnVYS3FOZTVIZmJNNlhwT2JucnpuTHpnb2JTa2VIVGd4MDRKZDU0MEVrdVZsY2wzQWV4bG1WRE0xMEk2azlEcXl1aU5ZU1dnZUMxTXFINV9JRVJwaS00VUZnS0xOZVRwMEsxUEZFOG4zT3VUZi15d0R6cVdQZm9aUEU0bEFjUw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究评估欧洲农药减半对农场、贸易与土地利用的重塑作用",
+    "conclusion": "将欧洲 hazardous pesticides 使用量减半会显著改变农业生产结构、农产品贸易格局与土地利用方式，说明农药减量政策的影响超出农场层面，需在环境健康目标与农业经济、贸易和土地配置之间统筹权衡。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261028-e6721de1e7",
+    "title": "Moringa and Spirulina Ease Pesticide Damage in Nile Tilapia",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1c1U1pNSzRCZGZoRGpfMThHMkozRVY1WG9ZV25MVGZPRGxCREZocGxnRDAxeXU0a28zNlhWTnFvQmdLaGxGMDdFVl9nZXJzdUF2Z0Y5THRvb21uN2M4Z05oUHpROXFXVTZkbnBEdmRrY2RQaTJmT091RGtDNWozWWNSZ25HaGU5MXZfWg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Oreochromis niloticus",
+    "species_en": "Nile tilapia",
+    "species_zh": "尼罗罗非鱼",
+    "takeaway": "标题提示辣木与螺旋藻可减轻尼罗罗非鱼的农药损伤",
+    "conclusion": "仅凭标题可知，研究关注辣木和螺旋藻对尼罗罗非鱼农药毒性的缓解作用，提示两种植物性饲料添加物可能具有保护效应，但具体机制与效果需原文数据支持。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261028-c34f882dde",
+    "title": "Board to vote on whether Wisconsin DNR can craft new pesticide regulations",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "WPR",
+    "authors": "",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkU1YzZJNy1VUEZoQlVwWE5pZnJuSEloMnB4NzRPaHdNU2JVUndiUjRSZVlhUWswVnhUR2dnOHJCRFpNcHV5TUhTSUtHUTBRUDNEVGVzUmxJUmFIMm9QQTJBbDkwdE9QUEYwejVNRDUzM2VWVHQ0aF9TUm03Yzk0amE2NjUtV1dBNVg0?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "威斯康星州董事会将表决是否授权自然资源部制定新的农药法规。",
+    "conclusion": "标题仅表明一项程序性表决：威斯康星州相关董事会就是否允许州自然资源部（DNR）起草新的农药管理法规进行投票，未涉及具体科学发现或机制。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261028-a99812b2d8",
+    "title": "Plant waste enzymes and nanozymes team up to break down pesticides",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://bioengineer.org/plant-waste-enzymes-and-nanozymes-team-up-to-break-down-pesticides/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "植物废弃物来源的酶与纳米酶协同用于降解农药。",
+    "conclusion": "标题提示一种将植物废弃物提取酶与纳米酶结合的降解策略，用于分解农药，可能提升降解效率并实现废弃物资源化利用；具体机制与效果因无摘要暂无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42949635",
+    "title": "Gapless Complete Genome and Multi-Omics Illuminate Immune Adaptation and Host-Virus Interactions in a Coronavirus Reservoir",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "authors": "Wang Y, Zhang S, Ouyang L, Du X, Huang X, Wang Z, Xie H, Tang J, Lou L, Ling W, Wang W, Zhou J, Liu Z, Hu Y, Wei F, Huang G.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42949635",
+    "doi": "10.1002/advs.78422",
+    "pmid": "42949635",
+    "abstract": "Bats are major reservoirs of emerging viruses, including severe acute respiratory syndrome-related coronaviruses, yet they exhibit remarkable tolerance to viral infections with limited clinical manifestations-a longstanding immunological paradox. Here, we generate a telomere-to-telomere (T2T) de novo genome assembly for Rhinolophus sinicus (R. sinicus), designated T2T-RSC1.0 (2.14 Gb), comprising 17 fully anchored autosomes and both sex chromosomes. This gapless assembly resolves 129.19 Mb of previously unresolved regions (PURs) and enables annotation of 848 previously unannotated genes, including 131 protein-coding genes and five pseudogenes on the 33.75 Mb Y chromosome. Using 2.12 × 105 newly identified single-nucleotide polymorphisms within PURs, population genomic analyses resolve three major genetic groups and provide improved resolution of genome-wide population structure. Comparative analyses further reveal population-level associations between major histocompatibility complex polymorphism and viral diversity. Multi-omics and functional analyses reveal a coordinated evolutionary remodeling of antiviral defense, antigen presentation, cytokine signaling, and inflammatory regulation in horseshoe bats. This study provides an unparalleled genomic resource for R. sinicus and establishes an integrated framework for investigating immune evolution, long-term host-virus coexistence, and mammalian adaptive evolution.",
+    "species_latin": "Rhinolophus sinicus",
+    "species_en": "Chinese horseshoe bat",
+    "species_zh": "中华菊头蝠",
+    "takeaway": "中华菊头蝠T2T无间隙基因组结合多组学揭示其抗病毒免疫重塑与病毒共存的遗传基础",
+    "conclusion": "研究完成中华菊头蝠端粒到端粒无间隙基因组组装，填补129.19 Mb未解析区并注释848个新基因，基于新SNP解析种群结构，发现MHC多态性与病毒多样性的群体关联；多组学与功能分析表明蝙蝠抗病毒防御、抗原呈递、细胞因子信号与炎症调控发生协同演化重塑，为理解宿主—病毒长期共存及哺乳动物适应性演化提供整合框架。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42950171",
+    "title": "The Regulatory Landscape of Insecticide Resistance Evolution in Arthropod Pests",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Annual review of entomology",
+    "authors": "Guo Z, Dermauw W, Zhou X, Crickmore N, Zhang Y.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42950171",
+    "doi": "10.1146/annurev-ento-020926-092935",
+    "pmid": "42950171",
+    "abstract": "Insecticide resistance threatens global agriculture and public health, highlighting the need to understand its underlying molecular mechanisms. Transcriptional regulation is a major component of resistance evolution, shaping the temporal, spatial, and quantitative expression of resistance-associated genes. Accumulating evidence indicates that cis-regulatory variation and trans-acting factors frequently underpin this transcriptional reprogramming, while gene duplication provides additional dosage effects. Emerging studies further implicate RNA-mediated mechanisms as additional regulatory layers. These processes often operate through defined signaling pathways, particularly MAPK-mediated networks, that coordinate the expression of detoxification enzymes and transporters, enabling rapid adaptation while shaping associated fitness trade-offs. Dissecting these complex networks through multi-omics and functional genomics can help clarify the evolutionary architecture of metabolic resistance and provide a basis for improved resistance monitoring and management.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出昆虫抗药性演化依赖顺式变异、反式因子、基因复制及RNA调控，并经MAPK通路协调解毒酶与转运蛋白表达。",
+    "conclusion": "杀虫剂抗性演化主要由转录调控驱动：顺式调控变异与反式作用因子重塑抗性相关基因的时空与表达量，基因复制提供剂量效应，RNA介导机制构成额外调控层；这些过程常经MAPK信号网络协调解毒酶和转运蛋白表达，实现快速适应并带来适合度代价。多组学与功能基因组学有助于解析代谢抗性的演化架构，为抗性监测与治理提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42950004",
+    "title": "Patterns of insecticide resistance in Aedes aegypti and Aedes albopictus in different cities across Cameroon",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PloS one",
+    "authors": "Djiappi-Tchamen B, Djapoum Theno C, Nana-Ndjangwo S, Mavridis K, Balaska S, Talipouo A, Joko S, Djamouko-Djonkam L, Bamou R, Mayi AMP, Kamgang B, Awono-Ambéné P, Dadji GAF, Vontas J, Antonio-Nkondjio C.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42950004",
+    "doi": "10.1371/journal.pone.0361227",
+    "pmid": "42950004",
+    "abstract": "The increasing frequency of arboviral diseases' outbreaks in Cameroon necessitates evidence-based vector control. However, the efficacy of chemical control interventions is seriously threatened by the rapid evolution of insecticide resistance in Aedes vector populations. This study investigated the insecticide resistance profiles of Aedes aegypti and Aedes albopictus across ecologically diverse cities in Cameroon. Aedes larvae were collected from April to November 2024 in eight major cities representing diverse ecological landscapes across Cameroon: Yaoundé (Congo-Guinean equatorial forest); Douala and Kribi (coastal areas); Nkongsamba, Bafoussam, Mbouda, and Maroua (highland areas); and Bertoua (sub-tropical/savanna transition zone). World Health Organization (WHO) insecticide susceptibility bioassays were conducted on F1 adults against pyrethroids (0.75% permethrin, 0.05% deltamethrin), carbamates (0.1% propoxur, 0.1% bendiocarb), and organophosphates (0.05% pirimiphos-methyl). Molecular mechanisms potentially driving insecticide resistance were characterized using multiplex TaqMan qPCR to genotype kdr mutations and RT-qPCR to quantify the expression of detoxification genes such as cytochrome P450s, Glutathione S-transferases, and Carboxylesterases. Ae. aegypti displayed widespread resistance to pyrethroids, with mortality as low as 17.4% (permethrin, Kribi). This resistance could possibly be attributed to distinct geographic distribution of target-site mutations, with F1534C ranging from absent in Bafoussam to 95% in Kribi and Bertoua (alongside high frequencies in Yaoundé and Douala), and V1016I peaking at 46.3% in Bertoua while remaining absent in Bafoussam and Maroua. Furthermore, double-mutant homozygous haplotypes (CC-II) reached up to 15%, alongside massive metabolic upregulation, notably a 184.8-fold increase in GSTD4 expression in Bafoussam. In contrast, Ae albopictus populations appeared generally more susceptible across most sites, though localized resistance to permethrin and deltamethrin emerged in Douala and Nkongsamba. Susceptibility to bendiocarb and pirimiphos-methyl was observed across all sites for both species. In contrast, most of these populations were found to be resistant to propoxur. The continued susceptibility of Ae. albopictus in most regions, contrasted with its emerging resistance in urban centers, underscores the need for species-specific and geographically tailored management interventions. Overall, these findings emphasize the urgent need to deploy targeted larviciding approaches in breeding sites and integrate routine resistance monitoring to mitigate the spread of arboviral vectors across Cameroon.",
+    "species_latin": "Aedes aegypti, Aedes albopictus",
+    "species_en": "Yellow fever mosquito, Asian tiger mosquito",
+    "species_zh": "埃及伊蚊、白纹伊蚊",
+    "takeaway": "喀麦隆八城埃及伊蚊普遍抗拟除虫菊酯，白纹伊蚊较敏感，kdr突变与解毒基因上调驱动抗性。",
+    "conclusion": "埃及伊蚊对拟除虫菊酯呈广泛抗性，与F1534C、V1016I靶位突变的地理差异分布及GSTD4等解毒基因大幅上调相关；白纹伊蚊多数地点仍较敏感，仅杜阿拉和恩孔桑巴出现局部抗性；两种伊蚊对氨基甲酸酯和有机磷仍敏感，提示应分物种分区域制定媒介防控策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42949516",
+    "title": "Nature's Complexity for Crop Protection: Integrating Botanical Solutions into Biodiverse Agricultural Landscapes",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Chimia",
+    "authors": "Singh A, Schuman MC, Lucas-Barbosa D.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42949516",
+    "doi": "10.2533/chimia.2026.701",
+    "pmid": "42949516",
+    "abstract": "In this concept paper, we examine multidimensional effects of botanical, plant-based pesticides through a farmer-centric lens. We first analyse the existing literature regarding the environmental and crop-protection benefits of botanicals and then explore challenges associated with their adoption. Additionally, we analyse the context-dependent impacts of botanicals on beneficial non-target organisms, such as parasitoids. Throughout, we emphasize our understanding of the direct implications for smallholder farmers. We show that most methodologies used in developing botanicals are not participatory but rather top-down and driven by interests and decisions of researchers. Furthermore, existing literature remains highly technical, focusing mainly on biochemical properties and species-specific impacts while overlooking field relevance for resource-constrained producers. The outlook similarly prioritizes laboratory efficacy, biochemical optimization, and commercial scale production, while neglecting socioeconomic and infrastructural limitations faced by rural communities. Finally, our evaluation indicates that existing research into botanicals tends to be reductionist, often focusing on single compound or pest species, and thereby does not consider the influence of agrobiodiversity on the potential applications and effectiveness of botanicals, limiting their development and use in practice. To bridge this critical gap, we propose farmer-inclusive research pathways and a multi-dimensional matrix to ensure that future botanical innovations are practically and economically viable.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "概念文章指出植物源农药研究偏实验室与自上而下，忽视小农需求与农田生物多样性，提出农民参与的研究路径。",
+    "conclusion": "现有植物源农药研发多为研究者主导的自上而下模式，文献偏重生化特性与单一化合物或靶标，忽略田间适用性、社会经济限制及农田生物多样性影响，导致实践转化受限；应纳入农民参与并采用多维评估矩阵。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42900790",
+    "title": "Discovery and Engineering of a Flavin-Containing Monooxygenase From Bradyrhizobium sp. 200 for the Asymmetric Synthesis of an Indoxacarb Intermediate",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Chembiochem : a European journal of chemical biology",
+    "authors": "Hao Y, Jiang H, Liu N, Zhang X, Bai Y.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42900790",
+    "doi": "10.1002/cbic.70575",
+    "pmid": "42900790",
+    "abstract": "Indoxacarb is an oxadiazine insecticide bearing a single stereogenic center, of which only the (S)-enantiomer exhibits insecticidal activity. Therefore, the synthesis of the key intermediate (S)-5-chloro-2-methoxycarbonyl-2-hydroxy-1-indanone (2) is crucial for the enantioselective total synthesis of Indoxacarb. In this study, a flavin-containing monooxygenase from Bradyrhizobium sp. 200 (BjFMO) was employed for the asymmetric synthesis of this chiral intermediate, offering a biocatalytic approach as a potential complement to conventional chemical routes. Based on molecular docking and sequence alignment, several amino acid residues located in the FAD and NADPH-binding domains were selected for site-saturation mutagenesis. In combination with rational design, additional positions potentially affecting catalytic activity and stability were subjected to site-directed mutagenesis. Beneficial single mutations were iteratively combined to generate the final variant, BjFMOM9. Under optimal conditions, BjFMOM9 displayed a twofold increase in specific activity compared with the wild type. Its half-life at 40 °C was extended from 1.3 to 3.0 h, and its tolerance toward isopropanol, ethanol, and acetone was markedly enhanced. In a preparative synthesis, BjFMOM9 consistently outperformed the wild type, achieving >80% conversion within 10 h and >90% ee for the (S)-product.",
+    "species_latin": "Bradyrhizobium sp. 200",
+    "species_en": "Bradyrhizobium",
+    "species_zh": "慢生根瘤菌",
+    "takeaway": "研究者改造慢生根瘤菌FMO酶，获得变体BjFMOM9，显著提升催化活性、热稳定性与有机溶剂耐受性，高效合成茚虫威手性中间体。",
+    "conclusion": "基于分子对接与序列比对进行定点饱和及理性设计突变，迭代组合有益突变获得BjFMOM9；其比活力提高2倍，40℃半衰期由1.3小时延长至3.0小时，异丙醇、乙醇和丙酮耐受性明显增强，制备级反应10小时内转化率超80%，(S)-产物ee超90%，为茚虫威对映选择性合成提供生物催化替代途径。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42947535",
+    "title": "\"Illuminating\" the silkworm chassis: Synthetic biology-driven evolution of genetic-based sexing circuits",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Insect science",
+    "authors": "Li C, Cao M, Li B.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42947535",
+    "doi": "10.1111/1744-7917.70385",
+    "pmid": "42947535",
+    "abstract": "The silkworm (Bombyx mori), a classical lepidopteran model, is evolving into a highly tractable synthetic biology chassis. In modern sericulture, genetic sexing circuits provide a rational design framework for efficient all-male rearing, effectively overcoming the gene dosage disruptions and fitness costs associated with traditional radiation-induced chromosomal translocations. This review systematically summarizes the construction strategies and industrial applications of these circuits. We outline the optimization of sex determination elements and highlight the advantages of far-red optical markers in penetrating host physical barriers and reducing cytotoxicity. Furthermore, we trace the evolution of genomic manipulation tools from random transposon insertions to targeted CRISPR/Cas9 integration into genomic safe harbors (GSHs). To address circuit instability during multigenerational rearing, protective molecular strategies-including boundary insulators, conditional expression, and automatic excision networks-are evaluated. We also explore the industrial interface that integrates standardized biological optical reporters with artificial intelligence and high-throughput optoelectronic sorting hardware. Ultimately, engineering principles derived from the silkworm chassis can provide a molecular framework for the sterile insect technique in global pest management, with future directions pointing toward footprint-free genome editing and dynamic conditional regulation.",
+    "species_latin": "Bombyx mori",
+    "species_en": "silkworm",
+    "species_zh": "家蚕",
+    "takeaway": "综述家蚕合成生物学底盘上遗传性别控制回路的构建策略与产业化应用",
+    "conclusion": "家蚕正发展为可操作的合成生物学底盘；遗传性别控制回路可替代辐射诱变染色体易位，实现高效全雄饲养。优化性别决定元件、远红光标记、CRISPR/Cas9定点整合至基因组安全港及绝缘子等保护策略提升回路稳定性，并与AI光电分选硬件衔接，为害虫不育技术提供分子框架。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42935250",
     "title": "Rice Expression Database (RED) 2.0: an updated rice database integrating diverse RNA expression profiles based on the telomere-to-telomere reference genome",
     "type": "paper",
@@ -188,6 +460,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42945666",
+    "title": "Novel neonicotinoid flupyradifurone exhibits sublethal toxicity to natural enemies ladybeetles Propylea japonica by disturbing multi-level metabolic systems",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Li W, Zheng J, Ma Y, Wu Y, Liu J, Zhang S, Zhao Y, Peng Y.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42945666",
+    "doi": "10.1016/j.jhazmat.2026.144028",
+    "pmid": "42945666",
+    "abstract": "Flupyradifurone, a novel neonicotinoid insecticide widely used against sap-sucking pests, has poorly characterized sublethal effects on non-target natural enemies. We assessed sublethal effects of 0.5 and 3 mg/L flupyradifurone on Propylea japonica using biological, biochemical, transcriptomic, and metabolomic assays. Flupyradifurone significantly prolonged larval development and reduced adult body weight and fecundity, without affecting survival, pupation, or emergence. Enzyme activities (GST, POD and AChE) and nutritional substance contents (glycogen and free fatty acids) generally decreased at 12 and 24 h. However, CarE activity and total protein content showed no significant changes at 24 h. Transcriptomics analysis identified 1798 and 1607 differentially expressed genes, enriched in xenobiotic metabolism, immunity, and nutrient metabolism. Key genes GST, UGT, Duox, and TPS were significantly downregulated, whereas GLD was significantly upregulated, and Lys and FASN were significantly induced only at the low concentration. RNAi silencing of GST, UGT, Duox, TPS, and GLD increased ladybeetles susceptibility to flupyradifurone. Metabolomics analysis identified 483 and 508 differentially accumulated metabolites, with disruptions in glutathione, amino acid, and lipid metabolism. Thus, flupyradifurone suppresses detoxification and immunity, depletes energy reserves, and inhibits development and reproduction in P. japonica, highlighting the need to incorporate sublethal effects into ecological risk assessments.",
+    "species_latin": "Propylea japonica",
+    "species_en": "ladybeetle",
+    "species_zh": "日本龟瓢虫",
+    "takeaway": "氟吡呋喃酮亚致死浓度延长日本龟瓢虫幼虫发育并降低成虫体重与繁殖力，扰乱多层级代谢系统。",
+    "conclusion": "新型新烟碱类杀虫剂氟吡呋喃酮在亚致死浓度下抑制日本龟瓢虫解毒与免疫相关基因表达，干扰谷胱甘肽、氨基酸和脂质代谢，耗竭能量储备，从而延长幼虫发育、降低成虫体重与产卵量，提示生态风险评估应纳入亚致死效应。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -4029,6 +4327,38 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261029-pioxaniliprole-registration",
+    "title": "首创！新型双酰胺类杀虫剂pioxaniliprole（硫环虫酰胺）在印度获准登记",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "农药资讯网（Agrox）",
+    "authors": "",
+    "publish_date": "2026-10-12",
+    "added_at": "2026-10-29",
+    "url": "https://jsppa.com.cn/article.php?id=17606",
+    "doi": "",
+    "pmid": "",
+    "abstract": "印度PI Industries公司自主创制的新型双酰胺类杀虫剂有效成分pioxaniliprole（中文名硫环虫酰胺，CAS 2368920-61-8，商品名Pioxazon）在印度获得原药及制剂登记，被CIBRC认定为印度首个自主研发的杀虫剂有效成分。该成分具吡啶甲酰胺结构，2019年报道、2024年5月获ISO正式通用名；20% w/v悬浮剂已获批用于水稻（三化螟、稻纵卷叶螟、草地贪夜蛾）、辣椒、番茄、鹰嘴豆等作物的鳞翅目害虫防治。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "新型双酰胺类杀虫剂pioxaniliprole（硫环虫酰胺）完成印度登记，为水稻、蔬菜鳞翅目害虫提供了新的广谱高效防治工具。",
+    "conclusion": "pioxaniliprole是PI Industries首个从发现到登记全链条打通的自主分子，20% SC制剂对水稻三化螟、稻纵卷叶螟、草地贪夜蛾及蔬菜棉铃虫、斜纹夜蛾、荚螟等表现出广谱高效杀虫活性。",
+    "keywords": [
+      "新型杀虫剂",
+      "双酰胺类",
+      "pioxaniliprole",
+      "硫环虫酰胺",
+      "吡啶甲酰胺",
+      "登记",
+      "鳞翅目害虫",
+      "稻纵卷叶螟",
+      "PI Industries"
+    ]
   },
   {
     "id": "pmid-42931690",
@@ -20831,6 +21161,35 @@
       "en"
     ],
     "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20250713-cebd076e90",
+    "title": "Vacances d'été 2025 : les insecticides parient sur de nouveaux modes d’action",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "LSA conso",
+    "authors": "",
+    "publish_date": "2025-07-13",
+    "added_at": "2026-10-29",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUtQZ2RlUi1GRTlJa09iM0g0aGROS0JnNTF0c0hVOFdfaXVqdjgyMlJQdXVBZmdJM1VyaDRCNkozem0wZTFidzE0aDdmVUpMbGZSZ1U2UXI5RHFwQWxEWG0xVTRRMDVvclBLcVVuQ0xmME82UGRodm1KNXFrYm5mTHdOTzdMZVZLSVBQU0wxNW5tdFJYMUlpUl8zWFhvX1pjbG9qeTdsZ25iLUxR?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "2025年夏季杀虫剂市场聚焦于新型作用机制的研发与推广",
+    "conclusion": "标题显示2025年夏季杀虫剂领域的发展方向是依靠新作用机制的产品，反映害虫抗药性压力下业界寻求突破传统靶标的策略，但缺乏摘要无法确认具体机制或数据。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "fr"
+    ],
+    "via": "Google News:fr",
     "link_kind": "",
     "llm_enhanced": true
   },
