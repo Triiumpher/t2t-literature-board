@@ -10,7 +10,7 @@
     "authors": "",
     "publish_date": "2026-10-29",
     "added_at": "2026-10-29",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMy0yWlg0dGNsSUdRamFLQXdwOTZtbE1fOGY2dVhvQnVYS3FOZTVIZmJNNlhwT2JucnpuTHpnb2JTa2VIVGd4MDRKZDU0MEVrdVZsY2wzQWV4bG1WRE0xMEk2azlEcXl1aU5ZU1dnZUMxTXFINV9JRVJwaS00VUZnS0xOZVRwMEsxUEZFOG4zT3VUZi15d0R6cVdQZm9aUEU0bEFjUw?oc=5",
+    "url": "https://bioengineer.org/halving-hazardous-pesticides-in-europe-would-reshape-farms-trade-and-land-use/",
     "doi": "",
     "pmid": "",
     "abstract": "",
@@ -25,7 +25,7 @@
       "en"
     ],
     "via": "Google News:en",
-    "link_kind": "",
+    "link_kind": "search",
     "llm_enhanced": true
   },
   {
@@ -1625,6 +1625,32 @@
       "T2T 端粒到端粒基因组"
     ],
     "via": "EuropePMC;OpenAlex;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42945665",
+    "title": "Effect of neonicotinoid insecticide exposure during early life on neurodevelopment: An integrated assessment via animal models and the TRAEC strategy",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Wang A, Zhai J, Xu X, Jia F, Ma X, Liu Y, Ding C, Xu Q, Guan Q, Yu Y, Jiao J, Xia Y.",
+    "publish_date": "2026-10-21",
+    "added_at": "2026-10-29",
+    "url": "https://europepmc.org/article/MED/42945665",
+    "doi": "10.1016/j.jhazmat.2026.143987",
+    "pmid": "42945665",
+    "abstract": "The potential neurodevelopmental risks of gestational neonicotinoid (NNIs) exposure have attracted increasing attention. Our previous population study revealed that prenatal thiamethoxam (THM) exposure affects offspring neurocognitive development, but the underlying mechanisms remain unclear, and systematic risk assessment and risk comparison of NNIs are still scarce. We systematically investigated the neurodevelopmental effects of early-life THM exposure by integrating an original animal model with the Targeted Risk Assessment of Environmental Chemicals (TRAEC) risk assessment framework. In the animal model, the results showed that prenatal exposure to 0.50 mg/kg bw/day THM induced anxiety-like behavior and cognitive impairment in mouse offspring, with evident hippocampal dentate gyrus damage in male offspring. KEGG analysis revealed that male offspring primarily involved pathways related to cellular structure and growth, while female offspring exhibited alterations in energy metabolism and oxidative stress. Based on multidimensional evidence using the TRAEC framework, early-life NNI exposure yielded a moderate neurodevelopmental risk score of 7.72, with THM (risk scores: 7.33) and thiacloprid (7.65) posing the highest risks. This study provides clues to the potential neurodevelopmental toxicity mechanisms of THM and characterized its environmental risk using the TRAEC framework, providing scientific evidence for policy formulation.",
+    "species_latin": "Mus musculus",
+    "species_en": "House mouse",
+    "species_zh": "小家鼠",
+    "takeaway": "小鼠孕期噻虫嗪暴露致子代焦虑与认知损伤，TRAEC评估显示新烟碱类具中度神经发育风险",
+    "conclusion": "孕期噻虫嗪暴露可致小鼠子代焦虑样行为和认知障碍，雄性海马齿状回受损明显；转录通路分析显示雄雌子代机制不同，雄性偏细胞结构与生长，雌性偏能量代谢与氧化应激。TRAEC框架评估早期新烟碱暴露神经发育风险为中度，噻虫嗪与噻虫啉风险最高，为政策制定提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -3650,6 +3676,36 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261014-b63200e680",
+    "title": "HDOCK-Multimer: improved structure prediction of large protein complexes by integrating docking and combinatorial assembly",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-10-14",
+    "added_at": "2026-10-29",
+    "url": "https://doi.org/10.1038/s43588-026-01062-1",
+    "doi": "10.1038/s43588-026-01062-1",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "HDOCK-Multimer通过整合分子对接与组合组装，提升大型蛋白复合物的结构预测能力。",
+    "conclusion": "该工具将对接与组合组装策略结合，用于大型蛋白复合物的结构预测，有望改善此类复合物的建模效果；具体性能与机制需依据全文验证。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Computational Science",
     "llm_enhanced": true
   },
   {
@@ -16240,6 +16296,35 @@
       "结构预测",
       "蛋白表达底盘"
     ]
+  },
+  {
+    "id": "news-20260818-9d81425117",
+    "title": "State Pesticide Control Board proposes to strengthen regulation of two classes of chemicals known to threaten biodiversity",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Concord Monitor",
+    "authors": "",
+    "publish_date": "2026-08-18",
+    "added_at": "2026-10-29",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQW5lUmtzRTlfTjUzVldGQnRxSHFuaVpIaXlMdldXd1o1cnVxdm1zdDZTeHpqU1lkUkN4ekRpbWc1NEJuRE1DeHhOcVN0eHJqcjhoRHdaamVTM3BaRlFoX2hqMDFBRHJzQ2ZOY0hMZF9aajRiV0VaSHoyb1pLWThwQVhKblRrdw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "某州农药管理委员会拟加强对两类危害生物多样性化学品的监管。",
+    "conclusion": "该委员会提出强化对两类已知威胁生物多样性的化学品的管控，体现监管层对农药生态风险的关注，但具体物质、措施与效果尚不明确。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
   },
   {
     "id": "news-20260818-3855eca465",
