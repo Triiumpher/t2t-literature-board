@@ -1,5 +1,361 @@
 [
   {
+    "id": "news-20261030-677d53c177",
+    "title": "Plant Compounds Show Promise Against Pesticide-Linked Sperm Damage in Animal Studies",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-30",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVFRQX0hsUklJU0NRRFlhZ0NvbTdocWhsdUN1dDg4OVpOOTlmRHNtSVl5Q2RLZFk1NDl0WlliZHhZN2VhaHh6Q1B0bTMySmoyWjRaMmgyWmphT1RlRTdRVzZ6R2g0OXI4OXZ1cnJrYUUwVllhemlTdmpFb1F2bGI3MFlrTmhZZTBQekVETHktNzNBOTY5TEJQcGNiWnd6TDAwc0xxV0hEZ005SjlfcUE?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述动物研究提示植物化合物或可缓解农药相关精子损伤",
+    "conclusion": "基于标题可见，该文汇总动物实验证据，提示某些植物来源化合物对农药暴露所致精子损伤具有潜在保护作用；具体成分、机制与证据强度因摘要缺失无法确定，需谨慎解读。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261030-0743931b52",
+    "title": "European Consumers Fear Pesticides More Than Gene-Edited Watermelon, Survey Finds",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-30",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVE5ncGJyTkR2QWFIbkNtMVJBUUtXbVdWVXctRVR4aUF3cjZYWUdEbmVoaGxIQ1lTenlqR2pUOFRQRUVVTDMzc3ZmMWVIUDU1YVhLNHdORFZ0UWNrWjFFQWdOZWQ2ajNqb2NkendONkkwQ0wwXzNoTjAzZ2pYMDRXZmJzaldJMlliWHBzQ3pLd2I1RVdqeFl6NFprMEdjVDlJRlI1TmIzNDE?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Citrullus lanatus",
+    "species_en": "Watermelon",
+    "species_zh": "西瓜",
+    "takeaway": "欧洲消费者调查显示，人们对农药的担忧高于对基因编辑西瓜的担忧。",
+    "conclusion": "该调查表明，欧洲消费者对基因编辑西瓜的接受度可能高于对农药残留的担忧，提示食品安全沟通与监管应重视消费者对农药与基因编辑技术的风险感知差异。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261029-e52f047031",
+    "title": "Guyana's Rice Exports: EU's New Pesticide Rules Threaten $72 Million Trade",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PravdaReport",
+    "authors": "",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGVYMkI5SGVyYWk1bkJiQmh6UW1OZU1iUGdQLW5ubUpFS3h2ZkFaaGdJaHotR2h4a1Zad2xfN1o1elk3ak8tQjY4MWZ0N0t5U1J4NW9JZEJ4WGlyWEgzTW40Y0dWcmEzY0JHb1JycXRsSGxob3N1bGJ3blFITjdiNmtIRndtbVU?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Oryza sativa",
+    "species_en": "Rice",
+    "species_zh": "水稻",
+    "takeaway": "欧盟新农药残留规则可能危及圭亚那约7200万美元的对欧大米出口贸易",
+    "conclusion": "标题提示欧盟收紧农药监管将冲击圭亚那大米出口，涉及约7200万美元贸易额，但缺乏摘要细节，具体机制与影响程度无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261029-d48784f4c7",
+    "title": "New Covalent Organic Framework Extracts Seven Carbamate Pesticides from Fruit",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmk3WldKd2NFdlN4cjlQOURMVU1LM1V2NUtvbXVicUZBZC1qbnFsTmxjRHIyZDkyeHBhbFpHRThrMmY1SVhvYWJyTkszSm1ZNUdhNVZEM2ZiWUh0V0Vlb3h4aU5JeVRmMEQ1WTRzYVBFYTNKdDVDWXFHNGg5Q0t4MFBDMUNCblZvM3hBYWotbFFBRjVNejVnMkdfaU96TUtadDFiMw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究构建新型共价有机框架材料，用于水果中七种氨基甲酸酯类农药的萃取。",
+    "conclusion": "该工作开发了一种共价有机框架吸附材料，可同时萃取水果样品中的七种氨基甲酸酯类农药，为多残留样品前处理提供了新思路，但具体性能与机制需见全文。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261029-4631e0c335",
+    "title": "Canada’s Pesticide Handling Draws Scrutiny Over New Review Rules",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bloomberg Law News",
+    "authors": "",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMEIwYXNvaVNIRk0xN2syQkdVODJHLVJWMm1aVWdKbXpvNFcwRXRDdWdyMkZvQVFSOWtCMXcySGhjVldEdm1QNEpuQy1EU1pLcHc5ZC1DdlY2dWxPQVNrUzZORUN2NW1EUk9RbVJEUl9JU2hIQUNDXzE3NWMwaGprd2ROaHpOTTdRcjZEck9fbURTTTQ2RWQ2aEIxWDIwYm5GWGdhdFVvMnhPVi1NMW9ucUtnblJlaWtl?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "加拿大农药处理因新审查规则受到审视，涉及监管政策而非具体物种研究",
+    "conclusion": "标题显示加拿大农药处理实践因新的审查规则而引发关注，反映监管政策层面的争议，未涉及具体生物学机制或物种实验结论",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261029-064363ac27",
+    "title": "Chromatography Method Detects Ten Pesticide Residues in Capsicum Samples",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDBiV3dXWVQzRENLeElkaTlRXzJZbVVrWi1OLVNYbUVpcDl6YlA3WHpTMGFQMTRYdk9rc1ZRdUlTRnFNU3BiN3Ytb1Vka2FpU3N5eC1IM2FQVk1NR1ZaaE0xZHNKU2JqbXgyQ2dteXlKaVhsZ2NTNnUzV1JhTmxydjNaZWcyVHozYXVzZ05aVDhISzZ0VkFIVjBDdnktUQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Capsicum annuum",
+    "species_en": "pepper",
+    "species_zh": "辣椒",
+    "takeaway": "色谱法可同时检测辣椒样品中十种农药残留。",
+    "conclusion": "该研究建立了一种色谱检测方法，能够对辣椒样品中的十种农药残留进行同时测定，为辣椒农药残留监测提供技术手段。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42956080",
+    "title": "Type III CI factors from wAlbB induce cytoplasmic incompatibility via a Host Modification mechanism",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS pathogens",
+    "authors": "Hou X, Goh FG, Liu S, Liu Y, Yong XE, Lin Q, Cai Y.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42956080",
+    "doi": "10.1371/journal.ppat.1014760",
+    "pmid": "42956080",
+    "abstract": "The widespread prevalence of the endosymbiotic bacterium Wolbachia among insect species relies on its ability to invade and manipulate host reproduction via several ways, among which cytoplasmic incompatibility (CI) is most studied. Two non-mutually exclusive models, the Host-Modification (HM) and the Toxin-Antidote (TA), have been proposed to explain the molecular basis of CI. Here, we investigate the CI-inducing activity of the Type III CI factors (cifs) from wAlbB, a strain currently being deployed to combat mosquito-borne diseases. This set of Cifs displays conserved subcellular localization dynamics in various insect cells. Both cifA and cifB are required for the induction of DNA damage in cultured cells, and transgenic Drosophila. Moreover, these cifs induce CI in Drosophila through the two-by-one manner, meaning cifA and cifB act together during spermatogenesis to induce CI, and maternal cifA can reverse the effect. Mechanistically, genetic, biochemical, cellular, and proteomic analyses reveal that this pair of cifs acts during the early stage of spermatogenesis but is dispensable in late-stage germline cells for CI induction. Collectively, our findings support the notion that wAlbB Type III cifs induce CI via a HM-based mechanism. Additional analyses suggest that different Wolbachia strains may employ distinct molecular mechanisms to induce CI.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "wAlbB的III型cif因子需cifA与cifB协同在精子发生早期诱导DNA损伤和胞质不亲和，支持宿主修饰机制。",
+    "conclusion": "wAlbB III型cif因子通过cifA与cifB在精子发生早期协同作用诱导DNA损伤，并以母源cifA逆转效应，符合宿主修饰机制；不同沃尔巴克氏体菌株可能采用不同分子机制诱导胞质不亲和。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42955857",
+    "title": "Natural Occurrence and Molecular Diversity of Wolbachia Endosymbiont DNA in Wild Mosquito Populations of Central India",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+    "authors": "Khan N, Jain M, Mishra AK, Das A.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42955857",
+    "doi": "10.1177/15303667261501725",
+    "pmid": "42955857",
+    "abstract": "BACKGROUND: Utilizing Wolbachia for mosquito biocontrol requires baseline understanding of natural infection dynamics, lineage diversity, and host-symbiont phylogenetic concordance across native vector populations. METHODS: We collected 2,167 adult mosquitoes (Anopheles, Culex, Aedes, and Mansonia) across five districts in central India (Madhya Pradesh and Chhattisgarh). Specimens were screened in 263 genus-level pools via wsp PCR. Positive pools were brought to individuals level, typed across three different loci (ftsZ, gltA, and GroEL) of Wolbachia spp., and validated by mosquito barcoding (cox1, ITS2). Maximum likelihood phylogenies were constructed for all six loci both for Wolbachia (four) and mosquitoes (two). RESULTS: Overall, 27 pools (10.26%) and 49 individuals (21.21%) were wsp-positive that includes 17 Anopheles, 18 Culex, 9 Aedes, and 5 Mansonia. Culicines exhibited robust multilocus amplification, whereas all 17 Anopheles failed to amplify at ftsZ, gltA, and GroEL. Phylogenetic trees of the mosquito-host cox1 and ITS2 resolved all four genera and five wsp-positive Anopheles species into monophyletic clades with 84-100% bootstrap support. In Wolbachia phylogenies, culicine isolates clustered in Supergroup B (wPip), with ftsZ and gltA trees resolving Mansonia symbionts into a well-supported, distinct lineage (95-97% bootstrap). Crucially, the wsp tree revealed that four An. annularis sequences formed a monophyletic clade (89-98% bootstrap), clustering with the bat-fly endosymbiont Penicillidia jenynsii rather than mosquito-adapted strains. Primary malaria vectors (An. culicifacies and An. fluviatilis) tested negative for Wolbachia. CONCLUSIONS: Phylogenetic divergence and housekeeping gene dropout indicate that wsp detection in wild Anopheles represents transient or horizontal acquisition rather than stable intracellular endosymbiosis. Multilocus phylogenetic validation is critical prior to deploying symbiont-based biocontrol.",
+    "species_latin": "Penicillidia jenynsii",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印度中部野生蚊群中沃尔巴克氏体感染率低且以库蚊类为主，按蚊的wsp阳性可能源于水平获得而非稳定共生。",
+    "conclusion": "库蚊类携带B超群沃尔巴克氏体，曼蚊共生体构成独立谱系；按蚊虽检出wsp，但持家基因均未扩增，且序列与蝙蝠蝇共生体聚为一支，提示为短暂或水平获得，而非稳定胞内共生。主要疟疾媒介检测为阴性，说明基于共生菌的蚊媒防控前须做多基因系统发育验证。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42955472",
+    "title": "Antibiotic Treatment Reduces Wing Size and Alters Wing Shape in a Neotropical Drosophila (Diptera: Drosophilidae)",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Neotropical entomology",
+    "authors": "Moreira MM, Bouzada Dias LP, Sena LCP, Pereira FMC, Kloss TG, Yotoko K.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42955472",
+    "doi": "10.1007/s13744-026-01442-2",
+    "pmid": "42955472",
+    "abstract": "Antibiotics are widely used in studies of insect-microorganism interactions, particularly to investigate symbiotic associations. However, antibiotic exposure may also induce unexpected physiological and developmental effects. Tetracycline is often used to remove Wolbachia from different hosts, allowing comparisons between infected and uninfected lines. This treatment, however, may also affect the host's microbiota, physiology, and gene expression. In this study, we evaluated the effects of tetracycline on wing size and shape in 339 males of Drosophila prosaltans in three different generations. An original isofemale line was divided into sublines exposed to four generations of antibiotic treatment, followed by recovery generations in which the microbiota was reestablished, including reinoculation with feces from untreated males. Geometric morphometric analyses revealed a significant reduction in wing size in all treated sublines, which persisted after microbiota recovery. All sublines showed changes in wing shape after four generations of antibiotic treatment, and two returned to the original shape after recovery. These results suggest that the effects of tetracycline can persist for several generations, likely due to changes in the gut microbiota and gene expression. Such long-lasting effects may have broader phenotypic consequences and should be considered when interpreting studies that use antibiotics in host-symbiont interaction research.",
+    "species_latin": "Drosophila prosaltans",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "四环素处理使果蝇翅变小、翅形改变，且翅变小在菌群恢复后仍持续多代。",
+    "conclusion": "四环素会缩小Drosophila prosaltans的翅尺寸并改变翅形；翅尺寸的缩小在肠道菌群恢复后仍持续多代，翅形改变则部分可逆。这说明抗生素对宿主表型有长期影响，可能源于肠道菌群与基因表达的改变，在宿主-共生体研究中需谨慎解读抗生素处理结果。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42956046",
+    "title": "Lethal and sublethal influence of triflumezopyrim on life history traits and enzyme activities in the bean bug, Riptortus pedestris (Hemiptera: Alydidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PloS one",
+    "authors": "Tian G, Guo J, An J, Yuan H, Hu Z, Li Y, Gao Z.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42956046",
+    "doi": "10.1371/journal.pone.0361771",
+    "pmid": "42956046",
+    "abstract": "Riptortus pedestris (Fab.) is an important soybean pest in East Asia, where its piercing-sucking feeding behavior leads to soybean syndrome. Triflumezopyrim, a novel mesoionic insecticide, has been widely applied to control sap-sucking insects. However, its lethal and sublethal impacts on R. pedestris remain poorly understood. This study investigated the lethal and sublethal effects of triflumezopyrim on R. pedestris using bioassays, age-stage two-sex life table analyses, and enzyme activity measurements. Results demonstrated that triflumezopyrim exhibited strong toxicity (LC50 = 7.46 mg/L) and notable repellent activity against R. pedestris. Exposure of nymphs to sublethal concentrations (LC10 and LC30) significantly prolonged nymphal development and the adult preoviposition period, while reducing adult longevity, oviposition duration, and fecundity in the parental (F0) generation. In addition, LC30 exposure produced adverse transgenerational effects in the F1 generation, including extended adult preoviposition period, decreased male longevity, reduced oviposition duration, fecundity, net reproductive rate (R0), intrinsic rate of increase (r), and finite rate of increase (λ) of the population. Moreover, both LC10 and LC30 treatments led to substantial elevation in the activities of antioxidant (superoxide dismutase and peroxidase) and detoxification (multifunctional oxidase and glutathione S-transferase) enzymes. These findings indicate that triflumezopyrim exerts strong acute toxicity and pronounced sublethal inhibitory effects on R. pedestris, ultimately suppressing population growth potential. This study offers a scientific basis for the rational use of triflumezopyrim as well as the development of strategies for the management of this species.",
+    "species_latin": "Riptortus pedestris",
+    "species_en": "bean bug",
+    "species_zh": "点蜂缘蝽",
+    "takeaway": "三氟苯嘧啶对点蜂缘蝽具强急性毒性与驱避性，亚致死浓度抑制其发育、繁殖及种群增长并升高解毒酶活性",
+    "conclusion": "三氟苯嘧啶对点蜂缘蝽有较强急性毒性和驱避作用；LC10与LC30亚致死处理延长若虫发育和产卵前期、降低成虫寿命与繁殖力，LC30还产生跨代不利影响并降低种群内禀增长率等参数，同时显著提高抗氧化与解毒酶活性，说明该药可抑制种群增长潜力，为其合理使用和该害虫治理提供依据",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42955847",
+    "title": "Larvicidal activity of Zanthoxylum oxyphyllum Edgew. extract against Culex pipiens",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",
+    "authors": "Zoramthara K, Manngaihsiam R, Sarmah MP, Boro HH, Vanlalmuanpuii K, Mongku M, Morajkar A, Kharat KR.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42955847",
+    "doi": "10.1080/03601234.2026.2752903",
+    "pmid": "42955847",
+    "abstract": "The increasing incidence of synthetic pesticide resistance in Culex pipiens, a principal vector for lymphatic filariasis, demands the immediate advancement of sustainable mosquitocides. This current research shows the larvicidal effectiveness, molecular processes, and environmental safety of the plant extract Zanthoxylum oxyphyllum (ZOM). Metabolite profiling using Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS) showed the presence of flavonoid glycosides such as fortunellin and linarin, phenolic derivatives, and nitrogenous metabolites. ZOM showed larvicidal action against day-2 third-instar C. pipiens that depended on the dose and the period. The LC50 and LC90 values decreased from 43.14 (30.78-60.45) ppm and 132.46 (94.52-185.65) ppm at 12 h to 36.16 (26.06-50.16) ppm and 99.163 (71.48-137.56) ppm at 24 h, which showed that the activity of the treatment increased with time. Compared to untreated controls, ZOM-treated larvae had lower levels of both alkaline phosphatase (0.03797 vs. 0.00282 U mg-1 protein) and acetylcholinesterase (0.00396 vs. 0.00153 U mg-1 protein) activity. Standardized acute toxicity testing, as per OECD 2025 recommendations, aids in showing that ZOM does not harm the non-target indicator species Danio rerio. These results may confirm that ZOM is an effective, target-specific, and environmentally acceptable option for sustainable vector control programs against mosquitoes.",
+    "species_latin": "Culex pipiens",
+    "species_en": "southern house mosquito",
+    "species_zh": "致倦库蚊",
+    "takeaway": "小花花椒提取物对致倦库蚊幼虫具剂量和时间依赖性杀灭作用，且对斑马鱼安全。",
+    "conclusion": "小花花椒提取物含黄酮苷等成分，可抑制幼虫碱性磷酸酶与乙酰胆碱酯酶活性，24小时LC50约36 ppm，杀蚊活性随时间增强，且按OECD方法对非靶标斑马鱼无急性毒性，提示其可作为可持续、环境友好的蚊媒控制候选植物源杀虫剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42954671",
+    "title": "Combining Metarhizium anisopliae with spinetoram synergistically suppresses Frankliniella occidentalis via reciprocal enhancement",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Virulence",
+    "authors": "Yu L, Chen J, Xia Y, Guo B, Yu Y, Peng G.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42954671",
+    "doi": "10.1080/21505594.2026.2753272",
+    "pmid": "42954671",
+    "abstract": "The combination of insecticides and entomopathogenic fungi, valued for both high efficacy and environmental compatibility, has become an important strategy for sustainable pest management, and their efficient combinations and underlying mechanisms have emerged as key research topics. Metarhizium anisopliae CQMa421 combined with compatible spinetoram exerts synergistic insecticidal activity against Frankliniella occidentalis, enhancing pest susceptibility to spinetoram, suppressing second-generation nymph, pupa and adult populations, and reducing the overall pupation rate. Mechanistically, the combined treatment upregulated the resistance target nAChRα6 and disrupted the activity of resistance-associated detoxifying enzymes (GST, CarE, POD, and CYP450) compared with spinetoram, while downregulating immune genes (GNBP1/2, Spätzle1/2, MyD881, Defensin, and PPO) compared with CQMa421. Accordingly, the median times for spore germination (GT50) and appressorium formation (AT50) of CQMa421 on the thrips cuticle were significantly shortened. Field trials showed that the combination (1 × 107 conidia/mL CQMa421 + 10 mg/L spinetoram) provided superior rapid and persistent control (90.67% at 3 d; 86.33% at 14 d) compared with spinetoram at 20 mg/L (74.33% and 43.33%, respectively). Consistently, in the continuous control trial (six applications of the combined treatment vs nine of spinetoram), the combined treatment maintained significantly lower thrips population densities during peak infestation. This study shows that CQMa421 combined with spinetoram disrupts detoxification enzyme activity, enhances pesticide sensitivity in F. occidentalis, and facilitates early cuticular colonization by CQMa421, achieving synergistic control efficacy through reciprocal enhancement. This synergism was validated under field conditions. These findings provide a theoretical and practical basis for effective, safe field fungal-chemical control.",
+    "species_latin": "Frankliniella occidentalis",
+    "species_en": "Western flower thrips",
+    "species_zh": "西花蓟马",
+    "takeaway": "金龟子绿僵菌CQMa421与乙基多杀菌素联用通过双向增强协同防控西花蓟马，田间防效更优更持久",
+    "conclusion": "CQMa421与乙基多杀菌素复配可抑制西花蓟马解毒酶活性、提高其对药剂的敏感性，同时缩短孢子萌发和附着胞形成时间、促进菌体早期定殖，形成双向增强的协同控害效果；田间试验证实该组合速效性与持效性均优于单用乙基多杀菌素，为真菌—化学农药联合防控提供了理论与实践依据",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42954329",
+    "title": "A Toxicophenomic Assessment of Glyphosate Effects on Wildflowers Using Multispectral Imaging",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology and chemistry",
+    "authors": "Guzniczak V, Rosenqvist E, Jensen SM.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42954329",
+    "doi": "10.1093/etojnl/vgag284",
+    "pmid": "42954329",
+    "abstract": "Pesticide spray drift is a threat to wildflowers and hence to biodiversity and pollinator habitat. Nontarget species are included in risk assessment of pesticides, yet current ecotoxicological studies rely on destructive and/or low-throughput measurements that do not capture the entire phenotype over time. They also rarely include a large variety of species. The use of novel approaches such as toxicophenomics could tackle these limitations. The present study aimed to validate multispectral indices derived from toxicophenomic measurements and assess interspecific variation in glyphosate sensitivity. The method development focused on two species of wildflowers (Centaurea cyanus and Sinapis arvensis) and was applied to four more wildflower species (Papaver rhoeas, Geranium molle, Veronica agrestis, Prunella vulgaris) and one crop species (Hordeum vulgare). Plants were exposed to eight doses of the herbicide glyphosate and monitored in an automated phenotyping platform. High-throughput multispectral measurements were used to calculate vegetation indices. Four high-throughput indices covering various plant physiological processes were chosen based on the strength and consistency of their correlation with well-established low-throughput endpoints, and they were used for a dose-response analysis and benchmark dose estimation. Out of the four indices, those related to pigments (Red-edge chlorophyll index for chlorophyll content and reflectance at 570nm for anthocyanin content) performed best, with the reflectance at 570mn yielding having the highest concordance with low-throughput estimations. Further fine-tuning is recommended for the other two high-throughput indices related to water (Normalized water index) and photosynthesis-related processes (Pigment corrected photochemical reflectance index). The high-throughput data allowed to identify large differences in sensitivity between species. Including a wide range of species in risk assessment is recommended to account for this variability. Toxicophenomics using multispectral imaging and pigment reflectance indices is promising for ecotoxicological studies as it offers high-resolution data that accurately reflect the physiological responses of plants exposed to pesticide spray drift.",
+    "species_latin": "Centaurea cyanus, Sinapis arvensis, Papaver rhoeas, Geranium molle, Veronica agrestis, Prunella vulgaris, Hordeum vulgare",
+    "species_en": "cornflower, wild mustard, common poppy, dove's-foot crane's-bill, green field speedwell, common selfheal, barley",
+    "species_zh": "矢车菊、野芥菜、虞美人、柔毛老鹳草、直立婆婆纳、夏枯草、大麦",
+    "takeaway": "用多光谱成像对多种野生植物进行毒性表型组分析，发现不同物种对草甘膦敏感性差异很大，色素反射指数最可靠。",
+    "conclusion": "多光谱高通量指数中，与色素相关的红边叶绿素指数和570nm反射率与低通量终点一致性最好，可用于剂量-反应与基准剂量估计；物种间草甘膦敏感性差异显著，风险评估应纳入更多物种。毒性表型组学结合多光谱成像可提供高分辨率、准确反映表型的数据，是生态毒理学研究的有力工具。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261029-06d9972135",
     "title": "Halving Hazardous Pesticides in Europe Would Reshape Farms, Trade and Land Use",
     "type": "news",
@@ -26,6 +382,84 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42950995",
+    "title": "The combined toxicity of polystyrene microplastics and glyphosate on Daphnia magna: Physiological and behavioral responses",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+    "authors": "Yu Y, Luo M, Zhu Z, Chen Y, Yu X.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42950995",
+    "doi": "10.1016/j.cbpc.2026.110731",
+    "pmid": "42950995",
+    "abstract": "Although microplastics (MPs) and glyphosate (Gly) commonly co-occur in aquatic environments, their combined toxic effects and underlying mechanisms remain poorly understood. In this study, Daphnia magna was exposed to polystyrene MPs (12 mg/L) and Gly (40 mg/L) individually and in combination for 96 h to evaluate their ecotoxicity. MPs accumulation, heart rate, swimming behavior, antioxidant enzyme activities (SOD, CAT, GST), malondialdehyde (MDA) content, apoptosis, intestinal histopathology, and expression of immunity- and reproduction-related genes were examined. MPs were rapidly ingested and persistently accumulated in the gut, and Gly co-exposure did not significantly alter accumulation levels. Combined exposure transiently increased the heart rate, significantly inhibited swimming behavior, induced oxidative stress, exacerbated apoptosis, and caused severe intestinal damage. A two-way ANOVA showed that the type of the MPs × Gly interaction differed among the measured responses: the interaction was synergistic for the stress- and detoxification-related indicators (GST activity, HSP70 and GST expression) and antagonistic for the oxidative-damage and reproduction-related indicators (SOD, MDA, CYP360 and Vtg), whereas no significant interaction was detected for CAT, DHB, EST, CYP314, FKBP39 or the cell death-associated fluorescence index. These results indicate that co-exposure to MPs and Gly produces non-additive effects in D. magna, with the type of interaction depending on the endpoint assessed. This study provides a scientific basis for assessing the ecological risks of combined MPs and pesticide pollution in aquatic environments.",
+    "species_latin": "Daphnia magna",
+    "species_en": "water flea",
+    "species_zh": "大型溞",
+    "takeaway": "聚苯乙烯微塑料与草甘膦共暴露96小时对大型溞产生非加和毒性，交互类型随检测指标而异。",
+    "conclusion": "微塑料被大型溞快速摄入并滞留肠道，草甘膦不改变其累积量；联合暴露短暂升高心率、显著抑制游泳行为、诱导氧化应激、加剧细胞凋亡并造成严重肠道损伤。双因素方差分析显示，二者交互在应激与解毒指标上呈协同，在氧化损伤与生殖指标上呈拮抗，部分指标无显著交互，表明复合污染效应依赖检测终点，为评估微塑料与农药联合生态风险提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42953644",
+    "title": "Design, synthesis, bioassay, and molecular docking of novel thiazolo[3,2-a]pyrimidine derivatives as insecticidal and antimicrobial agents",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "RSC advances",
+    "authors": "Mohamed SA, Zaki RM, Danial AW, Kamal El-Dean AM, Saddik AA, Abd-Elnabi AD, Tolba MS, Fouad MR.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42953644",
+    "doi": "10.1039/d6ra08710h",
+    "pmid": "42953644",
+    "abstract": "A new series of fused thiazolo[3,2-a]pyrimidine derivatives was designed, synthesized, and comprehensively characterized with the aim of discovering potent insecticidal and antimicrobial agents. The synthetic strategy commenced with the regioselective S-alkylation of ethyl 4-(4-methoxyphenyl)-6-methyl-2-thioxo-1,2,3,4-tetrahydropyrimidine-5-carboxylate (1) with bromomalononitrile to afford the key o-aminothiazolo[3,2-a]pyrimidine carbonitrile (2), which was subsequently elaborated via sequential condensation with triethyl orthoformate and hydrazine hydrate into the tricyclic amino-imino pyrimido[4',5':4,5]thiazolo[3,2-a]pyrimidine (4). Divergent cyclocondensation of 4 with triethyl orthoformate, acetylacetone, or benzaldehyde furnished the tetracyclic [1,2,4]triazolo-fused analogues (5-7). All newly synthesized compounds were unequivocally characterized by elemental analysis, FT-IR, 1H and 13C NMR spectroscopy, and mass spectrometry. The antimicrobial activity of the synthesized compounds was evaluated against an array of bacterial and fungal strains using the agar disc diffusion method, while their insecticidal efficacy was assessed against fourth-instar larvae of the cotton leafworm Spodoptera littoralis under laboratory conditions. Compound 4 exhibited the broadest antimicrobial spectrum, whereas compound 5 produced the largest inhibition zone (20.33 mm) against Fusarium oxysporum. In the insecticidal bioassay, compound 7 was the most potent, with an LC50 of 2727.042 mg L-1. Molecular docking studies against acetylcholinesterase (AChE) and cytochrome P450 monooxygenases (CYP450) identified compound 7 as the top-ranked binder for both targets (binding energies of -8.6 and -8.2 kcal mol-1, respectively), establishing a robust structure-activity relationship consistent with the biological data. These findings position the synthesized thiazolo/triazolo-pyrimidine scaffolds as promising lead structures for the development of next-generation insecticidal and antimicrobial agents.",
+    "species_latin": "Spodoptera littoralis",
+    "species_en": "cotton leafworm",
+    "species_zh": "棉贪夜蛾",
+    "takeaway": "合成新型噻唑并嘧啶衍生物，其中化合物7杀虫活性最强，并对AChE和CYP450结合最佳。",
+    "conclusion": "该研究合成了一系列噻唑并[3,2-a]嘧啶及三唑并稠合衍生物，化合物4抗菌谱最广，化合物5对尖孢镰刀菌抑菌圈最大，化合物7杀虫活性最强（LC50 2727.042 mg/L），分子对接显示其与AChE和CYP450结合能最优，揭示了结构与活性的关系，为开发新型杀虫和抗菌先导化合物提供了依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42953411",
+    "title": "Brominated 1,4-dihydropyridine derivatives as potential insecticides against the cotton aphid (Aphis gossypii): synthesis, characterization, biological evaluation, and molecular docking studies",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "RSC advances",
+    "authors": "Hakeem IJ, Al-Rooqi MM, Kamel MS, Abdullah Alzahrani AY, Khamis AG, Drar AM, Amer AA, Jassas RS, Ahmed SA, Sharaf M.",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42953411",
+    "doi": "10.1039/d6ra08804j",
+    "pmid": "42953411",
+    "abstract": "A new series of brominated 1,4-dihydropyridine derivatives bearing various aryl and heteroaryl substituents was successfully synthesized through a microwave-assisted multicomponent Hantzsch reaction followed by bromination under solar irradiation. The synthesized compounds were characterized by IR, 1H NMR, 13C NMR spectroscopy and elemental analyses. Their insecticidal activities were evaluated against adult and nymphal stages of the cotton aphid, Aphis gossypii, using the leaf-dipping bioassay technique. Biological evaluation demonstrated that all synthesized derivatives exhibited significant insecticidal activity, with nymphs showing greater susceptibility than adults. Among the tested compounds, derivative 5e displayed the highest activity, with LC50 values of 0.18 and 3.03 mg L-1 against nymphs and adults, respectively. To investigate the potential mode of action, molecular docking studies were performed against acetylcholinesterase (AChE). All compounds showed favorable binding affinities toward the enzyme, ranging from -8.3 to -9.0 kcal mol-1. Compound 5d exhibited the strongest predicted binding affinity (-9.0 kcal mol-1), while the biologically most active derivative, 5e, showed a docking score of -8.7 kcal mol-1. The combined biological and computational results indicate that brominated 1,4-dihydropyridine derivatives represent promising lead structures for the development of new insecticidal agents against A. gossypii.",
+    "species_latin": "Aphis gossypii",
+    "species_en": "cotton aphid",
+    "species_zh": "棉蚜",
+    "takeaway": "微波辅助合成溴代1,4-二氢吡啶类化合物，其中5e对棉蚜若虫LC50仅0.18 mg/L，活性最强。",
+    "conclusion": "合成的溴代1,4-二氢吡啶衍生物对棉蚜均有显著杀虫活性，若虫比成虫更敏感，5e活性最高；分子对接显示化合物与乙酰胆碱酯酶结合良好，提示该酶可能是作用靶标，此类结构可作为开发新型棉蚜杀虫剂的先导。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -138,7 +572,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -164,7 +598,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -190,7 +624,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -216,7 +650,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -246,6 +680,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42948160",
+    "title": "Plant-oil-based adhesive formulations induce plant stress responses and enhance resistance of &lt;i&gt;Chrysanthemum&lt;/i&gt; to western flower thrips",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "RSC advances",
+    "authors": "Bierman TV, Fernandes HP, Seo S, Bezemer TM, Vrieling K, Van Zwieten R, Kodger TE, Klinkhamer PGL, Choi YH.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42948160",
+    "doi": "10.1039/d6ra07230e",
+    "pmid": "42948160",
+    "abstract": "We tested whether a new pest control method: sprayable adhesive droplets made from oxidized plant oils (MIX), can physically trap thrips on Chrysanthemum leaf surfaces and investigated the effects of spraying plants with MIX on the metabolome of local and systemic leaves in interaction with herbivory of thrips. MIX adhesive did not effectively trap thrips. However, total thrips damage and reproduction were reduced by MIX spraying, especially on leaves in the middle of the shoot (the youngest tissue when sprayed). Regarding metabolomic effects, no interaction between MIX application and thrips herbivory was found. Locally, the levels of several plant-stress related compounds differed between the leaves of MIX-sprayed- and control plants. No systemic effect of spraying was observed in newly grown leaves. Thrips infestation and plant tissue age were themselves also associated with differences in the contents of several metabolites that are linked to herbivore resistance.",
+    "species_latin": "Chrysanthemum morifolium",
+    "species_en": "Chrysanthemum",
+    "species_zh": "菊花",
+    "takeaway": "植物油基粘附剂虽不能有效粘住蓟马，但可诱导菊花局部应激代谢变化并减轻蓟马危害与繁殖",
+    "conclusion": "MIX粘附剂未能物理粘捕西花蓟马，但喷施后菊花中部叶片受害与蓟马繁殖均下降；代谢组显示喷施与取食无交互作用，仅局部应激相关化合物水平改变，新叶无系统效应，说明其防效依赖局部诱导而非物理捕获",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42947535",
     "title": "\"Illuminating\" the silkworm chassis: Synthetic biology-driven evolution of genetic-based sexing circuits",
     "type": "paper",
@@ -268,7 +728,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -346,7 +806,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -372,7 +832,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1258,6 +1718,35 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261022-98190502ac",
+    "title": "Viewpoint: Activists hype ‘dangerous level’ of pesticide residues in Driscoll berries: Separating health concerns from fear-mongering",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Genetic Literacy Project",
+    "authors": "",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWV9IOF9BNHdkcnV4RVVITUp6NUNUUC12SlhMaF85X2Z4b1hpd1RORHU3R3pDTl9IMlcyRTB6NVM0SFRmMzc2UENyVy1iallhOTFPOHItcmZHdmlVWGhOTTZQZnRzU3NxckhreWNIejV3aTlzLWFlTkhFRDZCWFlIVlZIWENBV3BheDFTekxTV01FeHpxSjBYODA2ZVpwTUdaWmZFNnRVZXlvU0RoYkdXU0Y1ZnhXQ1RKRkljOUxFNXRXdktlV0FpX0czY3lSLVRSalp5TmZRelNfODVZZ2JFM0VIVm5ZRFlyZ3dicTZ0X0dTazFITFZvSjlQMnU4Um9tclBIOFhWbw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "评论文章批评活动人士夸大Driscoll浆果农药残留的“危险水平”，主张区分健康关切与制造恐慌。",
+    "conclusion": "该文为观点评论，认为活动人士对Driscoll浆果农药残留“危险水平”的宣传属于夸大和恐慌营销，应把真实的健康风险评估与恐惧煽动区分开来；文中未提供原始实验数据或机制研究。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
@@ -11598,6 +12087,34 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260908-2a23bf499b",
+    "title": "新菌株A3可抑制多種植物病害並具生物農藥開發潛力",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "農業知識入口網",
+    "authors": "",
+    "publish_date": "2026-09-08",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BbU9HVDRyUGpSVVNvQXZiT0JLOXFWRVkzdDE2Ml95M3JBdDIyR1BWVW9NT1ZjdkdIV3cxbnA2b1FXRWE0YmVjMkpLTmR0Z0RMemJGZkVDWEtBRkdHYlg5NHdWclQxSFR5WVNpbWR0ZllYN01VWlFEa3VR?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "新菌株A3可抑制多種植物病害並具生物農藥開發潛力",
+    "conclusion": "",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "zh-Hant-HK"
+    ],
+    "via": "Google News:zh-Hant-HK",
+    "link_kind": ""
+  },
+  {
     "id": "pmid-42710574",
     "title": "Acaricidal potential of plants: a strategic alternative for efficient tick management",
     "type": "paper",
@@ -21678,6 +22195,35 @@
       "es-MX"
     ],
     "via": "Google News:es-MX",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20231210-b54b8b4dae",
+    "title": "Pesticides - NYSDEC",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "New York State Department of Environmental Conservation (.gov)",
+    "authors": "",
+    "publish_date": "2023-12-10",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TbjJPUDM0bWV2Ymp0S24tRUtKUUt2YWEtWVlFa29Hem02aVFlWkFSWURmVlh5VU5VT1V5UlpvZlN2OG5mXzlxOEF3VHFVUW9xNlVIWXhSN05ERVViTFV3azg4MHU?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "纽约州环保厅发布的农药主题资料，未涉及具体研究。",
+    "conclusion": "该材料仅为纽约州环境保护部门关于农药的专题页面，没有摘要或研究数据，无法得出科学结论。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
     "link_kind": "",
     "llm_enhanced": true
   },
