@@ -1,0 +1,34 @@
+[
+  {
+    "id": "manual-20261031-gal4-uas-helarm",
+    "title": "建立 GAL4/UAS 二元表达系统用于棉铃虫抗性基因的功能验证",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-10-17",
+    "added_at": "2026-10-31",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261017001017104.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究团队在全球性鳞翅目害虫棉铃虫中建立了首个功能性 GAL4/UAS 二元转基因表达系统：以 EF1α 启动子驱动 GAL4 的驱动株系与 UAS 效应株系杂交后，报告基因转录量提高 3.4 倍。作为概念验证，过表达显性 Cry1Ac 抗性等位基因 HaTSPAN1mt（T92C）使棉铃虫对 Cry1Ac 的抗性提高 62.33 倍，而野生型 HaTSPAN1 不改变敏感性。",
+    "species_latin": "Helicoverpa armigera",
+    "species_en": "Cotton bollworm",
+    "species_zh": "棉铃虫",
+    "takeaway": "棉铃虫中首个 GAL4/UAS 平台建成，可在农业害虫体内直接做抗性基因的功能获得性验证。",
+    "conclusion": "GAL4/UAS 系统在棉铃虫细胞与活体水平均有效，过表达 HaTSPAN1 T92C 突变体可独立赋予 62.33 倍 Cry1Ac 抗性，为非模式农业昆虫的抗性基因功能验证提供了可移植的新工具。",
+    "keywords": [
+      "GAL4/UAS",
+      "棉铃虫",
+      "抗性基因",
+      "Cry1Ac",
+      "Bt抗性",
+      "HaTSPAN1",
+      "转基因",
+      "功能获得",
+      "杀虫剂抗性"
+    ]
+  }
+]
