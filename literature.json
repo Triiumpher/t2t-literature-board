@@ -945,7 +945,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1475,6 +1475,58 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42950489",
+    "title": "Compound mobility and soil retention capacity shape neonicotinoid leaching to recharge-sensitive groundwater",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Water research",
+    "authors": "Hou S, Wang X, Guo C, Xu J.",
+    "publish_date": "2026-10-23",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42950489",
+    "doi": "10.1016/j.watres.2026.127200",
+    "pmid": "42950489",
+    "abstract": "Recharge-sensitive aquifers are vulnerable to current-use pesticides, but linking field occurrence to compound-specific transport remains difficult. We combined groundwater monitoring at 93 sites across dry and wet seasons in tropical-island Hainan, China, with compound-level mobility analysis and sorption and saturated-column experiments on two end-member neonicotinoids. Neonicotinoids occurred in 98.9% of samples. Among eight compounds with available property data, detection frequency increased with the calculated Groundwater Ubiquity Score and typical soil half-life (Spearman ρ = 0.83 and 0.93); the persistence association was more stable across reporting thresholds, compound subsets and parameter-range scenarios. Dinotefuran was weakly sorbed and eluted earlier, whereas thiacloprid showed delayed, tailed breakthrough and increasing apparent retardation across the tested soil cation exchange capacity (CEC) gradient. A two-site model improved the description of thiacloprid in both selected comparison soils. At field scale, widespread detections across both campaigns contrasted with infrequent, high wet-season imidaclothiz concentrations that dominated the concentration sum. The wet-season sum was 4.5 times the dry-season sum, although concentrations declined at most individual wells. These complementary observations support a screening framework based on compound mobility-persistence, soil retention capacity and seasonal sampling, without treating laboratory parameters as calibrated predictions of field transport.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "海南地下水监测结合迁移性与吸附实验表明,新烟碱类农药检出普遍,其淋溶受化合物迁移性、持久性及土壤截留能力共同驱动。",
+    "conclusion": "新烟碱类在热带岛屿地下水普遍检出,检出频率与迁移性评分及土壤半衰期正相关,持久性关联更稳健;呋虫胺吸附弱、淋出早,噻虫啉因土壤阳离子交换量升高而延迟穿透且阻滞增强。田间湿季浓度总和为干季4.5倍,但多数单井浓度下降,提示应以化合物迁移-持久性、土壤截留与季节采样构建筛查框架,而非将实验室参数直接外推为田间预测。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42945767",
+    "title": "Unraveling pyrethroid-induced multisystem toxicity in fish: a review of pathways, drivers, and countermeasures",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "authors": "Xu M, She S, Yang S, Fei H.",
+    "publish_date": "2026-10-23",
+    "added_at": "2026-10-30",
+    "url": "https://europepmc.org/article/MED/42945767",
+    "doi": "10.1016/j.aquatox.2026.108054",
+    "pmid": "42945767",
+    "abstract": "Pyrethroid pesticides, widely applied in agriculture and public health, frequently contaminate aquatic ecosystems and pose substantial risks to teleost fish due to their lipophilicity and bioaccumulation potential. This review synthesizes recent advances in understanding pyrethroid-induced multisystem toxicity in teleosts, covering neurotoxicity via voltage-gated sodium channel disruption, cardiovascular impairment, reproductive and endocrine disruption, immunotoxicity, and metabolic dysfunction. Oxidative stress emerges as a common mediator across these effects. Toxicity is modulated by abiotic factors (temperature, salinity, sediment organic matter), biotic factors (species, developmental stage, sex), and co-exposure with other contaminants. Detoxification strategies include physical/chemical remediation, microbial biodegradation, and nutritional or immunomodulatory interventions that enhance endogenous antioxidant defenses. Despite progress, critical knowledge gaps remain regarding chronic low-level exposure, metabolite toxicity, transgenerational epigenetic effects, and climate-change interactions. Future research should integrate molecular, organismal, and environmental data to develop predictive risk assessment frameworks and field-applicable mitigation measures, ensuring sustainable pyrethroid use while safeguarding fish health and aquatic biodiversity.",
+    "species_latin": "",
+    "species_en": "Teleost fish",
+    "species_zh": "硬骨鱼",
+    "takeaway": "综述拟除虫菊酯经氧化应激介导鱼类多系统毒性，并梳理其影响因素与解毒对策。",
+    "conclusion": "拟除虫菊酯通过干扰电压门控钠通道并诱发氧化应激，导致鱼类神经、心血管、生殖内分泌、免疫及代谢等多系统损伤；毒性受温度、盐度、物种、发育阶段及共暴露等因素调节，可通过物理化学修复、微生物降解和营养免疫干预缓解，但慢性低剂量暴露、代谢物毒性及气候变化交互作用仍待研究。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -4871,6 +4923,35 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261012-e83f44ad06",
+    "title": "Earn pesticide, education credits through new MSU Pesticide Safety Webinar Series",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Michigan Farm News",
+    "authors": "",
+    "publish_date": "2026-10-12",
+    "added_at": "2026-10-30",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlF4WlZaelhyY1pieWFFNDBiVFJ2Ny1VMlhvQVFtMGhVdWFfTHlzUXlhdlYteUI1OEloMzY3cDhRc2hEeXJKNTVTYkF5WXA3LTVJTkM0anpzdXFtWFFQU1Y5NmFpR2xQSjloWjgtSDBMMGRMbzRzUkgwakxhc1UwZmtSZ2ZtS052RmY1UnZia3EwZmQ5eGV3TFlWWUdBZGpxY3Q0YVd6d2JnbTl6YmUzUzcxSy1NY0JkajJUUmFZOS14YXFEdVFBbElvVQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "密歇根州立大学推出农药安全网络研讨会系列，参与者可借此获得农药施用学分与教育学分。",
+    "conclusion": "该研讨会系列面向农药使用者提供安全培训，并以学分激励参与，属于继续教育推广项目，未涉及具体研究结论或机制。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
