@@ -975,6 +975,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42948168",
+    "title": "Baseline Clinical Predictors and Toxicological Drivers of In-Hospital Poisoning Mortality in Resource-Constrained Emergency Care: A Firth Penalized Regression Analysis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Health science reports",
+    "authors": "Hurisa Z, Demissie A, Mekonnen N, Asefa B, Girma A, Bekele H, Gebremeskel T.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-10-31",
+    "url": "https://europepmc.org/article/MED/42948168",
+    "doi": "10.1002/hsr2.73455",
+    "pmid": "42948168",
+    "abstract": "Background Evidence regarding clinical characteristics and determinants of mortality among patients with acute poisoning in agricultural regions of Ethiopia remains limited. This study aimed to evaluate baseline clinical predictors associated with in-hospital mortality among acutely poisoned patients in a low-resource tertiary emergency department. Methods A retrospective observational study was conducted among consecutive acute poisoning cases presenting to Asella Referral and Teaching Hospital (October 2022-September 2024). Of 372 screened cases, 7 patients who left against medical advice were excluded, yielding a final analytical cohort of 365 patients. Sociodemographic, toxicological, and clinical data were extracted from medical records. The primary outcome was in-hospital mortality. Multivariable Firth penalized logistic regression was performed to minimize small-sample bias given sparse outcome events (15 deaths). A sensitivity model additionally adjusted for sex and rural residence. Results The median age of patients was 22.0 years (IQR: 19.0-27.0); 230 (61.8%) were aged 15-24 years, 199 (53.5%) were female, and 245 (65.9%) were rural residents. Insecticides were the predominant poisoning category (157; 42.2%). Aluminum Phosphide (AlP) exposure occurred in 43 (11.6%) patients, resulting in 12 deaths (case-fatality rate: 27.9%; 95% CI 15.3%-43.7%). Overall in-hospital mortality was 4.1% (15/365; 95% CI 2.3%-6.6%), with AlP accounting for 80.0% of all cohort deaths. In the primary multivariable Firth model, AlP exposure (aOR 30.48, 95% CI 7.88-117.95) and admission Glasgow Coma Scale Conclusions Impaired consciousness at admission (GCS < 15) and Aluminum Phosphide exposure serve as critical baseline indicators for rapid, low-cost risk stratification. While these exploratory parameters highlight high-risk groups, prospective multi-center validation across diverse hospital tiers is required before formal integration into clinical triage algorithms.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "埃塞俄比亚资源有限急诊中，磷化铝暴露与入院GCS<15是急性中毒院内死亡的关键预测因素。",
+    "conclusion": "在低资源急诊环境中，磷化铝暴露和入院时意识受损（GCS<15）是急性中毒患者院内死亡的重要基线预测指标，可用于快速、低成本的风险分层；但需多中心前瞻性验证后才能纳入临床分诊流程。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42948160",
     "title": "Plant-oil-based adhesive formulations induce plant stress responses and enhance resistance of &lt;i&gt;Chrysanthemum&lt;/i&gt; to western flower thrips",
     "type": "paper",
@@ -1239,6 +1265,32 @@
     "conclusion": "0.5%木瓜蛋白酶在分离卵块时对两种丽蝇幼期发育干扰最小，能维持幼虫体重与发育稳定性；NaOH和KOH对大头金蝇和Chrysomya putoria造成物种特异性亚致死影响，后者对碱性物质更敏感。木瓜蛋白酶是蛆疗中更安全的卵块分离剂。",
     "keywords": [
       "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42936720",
+    "title": "Zinc Oxide and Graphitic Carbon Nitride/ZnO Nanocomposites in Food Safety and Preservation: Synthesis, Antimicrobial Mechanisms, and Application Prospects",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food science & nutrition",
+    "authors": "Zakari DA, Khalil I, Olateju KS, Ugli STM, Rakhimberdievich NA, Abrorbek S, Amoka AG, Moyosore AA.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-10-31",
+    "url": "https://europepmc.org/article/MED/42936720",
+    "doi": "10.1002/fsn3.72509",
+    "pmid": "42936720",
+    "abstract": "Foodborne disease remains a major global health and economic burden, with recent World Health Organization estimates attributing roughly 866 million illnesses and 1.52 million deaths annually to 42 major foodborne hazards. Conventional preservation and decontamination strategies are increasingly challenged by antimicrobial-resistant pathogens, chemical residues, and mycotoxin contamination, creating demand for complementary nanotechnology-based interventions. Zinc oxide (ZnO) nanoparticles and their heterojunctions with graphitic carbon nitride (g-C 3 N 4 ) have emerged as versatile platforms combining broad-spectrum antimicrobial activity with visible-light-driven photocatalytic detoxification. This review synthesizes recent literature on the synthesis of ZnO nanoparticles by conventional and green/biogenic routes, including microbially mediated synthesis using actinobacteria such as Streptomyces species, and on the design of g-C 3 N 4 /ZnO S-scheme heterojunctions that suppress charge-carrier recombination while preserving strong redox potentials. We examine the principal antimicrobial and photocatalytic mechanisms-reactive oxygen species generation, Zn 2+ ion release, and direct membrane interaction-and their translation into food-relevant applications, including antimicrobial active packaging films and coatings, photocatalytic degradation of mycotoxins and pesticide residues, and nanomaterial-based biosensors for pathogen and spoilage detection. Toxicological and regulatory considerations, including nanoparticle migration from food-contact materials and evolving European Food Safety Authority and United States Food and Drug Administration frameworks, are discussed alongside persistent gaps in standardized safety testing, scale-up reproducibility, and life-cycle assessment. We conclude by outlining research priorities-particularly the systematic evaluation of biogenic ZnO and g-C 3 N 4 /ZnO composites under real food matrices and regulatory-relevant conditions-needed to advance these materials from laboratory demonstration toward safe, standardized, and sustainable adoption across the food value chain.",
+    "species_latin": "Streptomyces sp.",
+    "species_en": "Streptomyces",
+    "species_zh": "链霉菌属",
+    "takeaway": "综述ZnO与g-C3N4/ZnO纳米复合材料的合成、抗菌机制及在食品安全保鲜中的应用前景",
+    "conclusion": "ZnO纳米颗粒及其与g-C3N4构成的S型异质结兼具广谱抗菌与可见光催化解毒能力，可通过活性氧生成、Zn2+释放和膜相互作用发挥作用，在活性包装、真菌毒素与农药残留降解及生物传感方面具应用潜力，但标准化安全测试、规模化重现性与生命周期评估仍待完善。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "EuropePMC",
     "llm_enhanced": true
@@ -20341,6 +20393,35 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260605-23817c51e7",
+    "title": "ICAR-IARI, New Delhi Organises Two-Day Hands-on Training on Pesticide Residue Analysis",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Indian Council Of Agricultural Research",
+    "authors": "",
+    "publish_date": "2026-06-05",
+    "added_at": "2026-10-31",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkVDend3emtRQUJvNHdiNVNyX2JyRmhnakxCSHlDMVdYN2tfMUVXWjZHUTFGdURCWjA1c2I5a2VNcEdDSWVQb1pHTEZpVDVsVzJTOXk2eDdQZnM2aXdLbURxQXEydzJ1WVVfeldKaE1iZzRLbFFueEhZVDdDQXNJVV9YZkVzU3pDcnFZRnJhNXpkYXlkNDREOFR2NExwVEJDblBJVA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印度农业研究所举办为期两天的农药残留分析实操培训。",
+    "conclusion": "该消息报道印度农业研究所组织了为期两天的农药残留分析动手培训，旨在提升参与者的农药残留检测实操能力，未涉及具体研究结论或机制。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
