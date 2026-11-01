@@ -1,5 +1,166 @@
 [
   {
+    "id": "news-20261101-7d37890048",
+    "title": "東亜ST生物農薬で輸出遅延業績悪化 新規契約が成長左右",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Chosunbiz",
+    "authors": "",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-01",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXpmczlST21MNXV4LTcyZFVoOF8wQzJiNFkxbXRoMENLakcxMXlXakZyamdGRlRKanhta0lON3NUYmROSVl6NVd0R25XVFIwZGxBWEVNRUZNeElxQ09nLTNWOWkyNnNVZjU2c0lWcFh6NVIxbUNlUTJBMjZTVC1kUdIBlAFBVV95cUxPUDJGTTdGZWJXd3M2TVdjM3ZzU0NBZWVWalhnUE8tN0NOWlJGcUN0V3B6clBlMUVMSG1zVnhYNHgzZm90MDJsWnNyLWNITWo3bWRuUldjR1U3TlpLZ1Q1SkVtNU5hT0NuZEJoUjNENkpuTXBjdElyaGJ4U2dGOWFCSEgxV1RJVDVkQzdTWnZJYjRMVFh0?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "東亜ST生物農薬で輸出遅延業績悪化 新規契約が成長左右",
+    "conclusion": "",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "ja"
+    ],
+    "via": "Google News:ja",
+    "link_kind": ""
+  },
+  {
+    "id": "pmid-42961328",
+    "title": "Nuclear Functional Divergence and Genetic Basis of Cap Colour Variation Revealed by T2T Genomes of Two Compatible Monokaryons in Pholiota adiposa",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Microbial biotechnology",
+    "authors": "Liu T, Fan Y, Liu Y, Yan D, Liu Y, Song S, Lu C, Guo Y, Zhang D, Sun S, Wang S, Gao Q.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-01",
+    "url": "https://europepmc.org/article/MED/42961328",
+    "doi": "10.1111/1751-7915.70463",
+    "pmid": "42961328",
+    "abstract": "Basidiomycete fungi maintain a dikaryotic state throughout their life cycle, in which two genetically distinct haploid nuclei coexist within the same cytoplasm. However, the extent and functional significance of inter-nuclear genomic divergence remain poorly understood. Here, we present the first telomere-to-telomere assemblies of two compatible monokaryons (D1 and D11) from a wild isolate of Pholiota adiposa, achieving 13 complete chromosomes with zero gaps and Benchmarking Universal Single-Copy Orthologs completeness of 98.6% and 98.3%, substantially outperforming the previous fragmented assembly. The two nuclei exhibit only 75% collinear genes, with 570 (D1) and 668 (D11) strain-specific genes. D1-specific genes are enriched in energy metabolism, consistent with faster mycelial growth, while D11-specific genes are enriched in genetic information processing and mitogen-activated protein kinase signalling, revealing functional complementarity between the two haploid nuclei. Resequencing of 18 wild accessions identified two candidate regions associated with red pileus colour on chromosomes 6 and 12, the former as a major-effect locus and the latter harbouring multiple pigment-associated genes. Kyoto Encyclopedia of Genes and Genomes enrichment implicated phenylalanine metabolism, tyrosine metabolism, and terpenoid biosynthesis in colour formation, suggesting coordinated regulation across metabolic networks. This framework facilitates dissection of nuclear functional divergence and provides candidate targets for understanding fungal phenotypic variation.",
+    "species_latin": "Pholiota adiposa",
+    "species_en": "Fat pholiota",
+    "species_zh": "脂肪鳞伞",
+    "takeaway": "研究用T2T基因组揭示脂肪鳞伞两个单核核间功能分化及菌盖颜色遗传基础",
+    "conclusion": "两个可亲和单核的完整基因组显示核间仅75%共线基因且各有特异基因，分别富集于能量代谢与遗传信息处理/MAPK信号，体现功能互补；18份野生材料重测序定位到6号和12号染色体上与红色菌盖相关的候选区，涉及苯丙氨酸、酪氨酸代谢及萜类生物合成，提示颜色形成受多代谢网络协同调控。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42808833",
+    "title": "Integrated Biomarker Assessment of Bifenthrin, Chlorpyrifos and Endosulfan Toxicity in Indigenous Carps (Catla catla and Labeo rohita): Oxidative Stress, Genotoxicity and Nuclear Alterations",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary medicine and science",
+    "authors": "Naz H, Abdullah S, Ahmed T, Abbas K, Ijaz MU, Ullah Q, Naz S, Khan RU, Rossi L, Ahmad S, Alonaizan R.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-01",
+    "url": "https://europepmc.org/article/MED/42808833",
+    "doi": "10.1002/vms3.71230",
+    "pmid": "42808833",
+    "abstract": "Background The extensive use of pesticides in agriculture has increased their runoff into aquatic ecosystems, posing serious risks to non-target organisms. Fish are recognized as sensitive bioindicators and are widely used to evaluate the ecological impacts of pesticide contamination. Objective This study investigated the acute toxic effects of bifenthrin + chlorpyrifos (B + C) and bifenthrin + endosulfan (B + E) mixtures on antioxidant enzyme activities, DNA damage and nuclear abnormalities (NAs) in Catla catla and Labeo rohita. Methods Acute toxicity tests were conducted to determine the 96-h LC 50 values of both pesticide mixtures. Fish were subsequently exposed to the respective LC 50 concentrations for 4 days, with sampling at 24-h intervals. Antioxidant enzymes, including superoxide dismutase (SOD), glutathione S-transferase (GST), peroxidase (POx) and catalase (CAT), were evaluated in different organs. Genotoxic effects were assessed through micronucleus (MN), NAs, damaged nuclei and genomic damage index (GDI) analyses. Results The 96-h LC 50 values of the B + E mixture were 1.86 ± 0.01 and 2.84 ± 0.02 µg L -1 , whereas those of the B + C mixture were 2.09 ± 0.01 and 3.41 ± 0.07 µg L -1 for C. catla and L. rohita, respectively. C. catla exhibited greater sensitivity to both mixtures. SOD and GST activities increased significantly (p Conclusion Combined exposure to bifenthrin-chlorpyrifos and bifenthrin-endosulfan mixtures induces pronounced oxidative stress and genotoxic damage in C. catla and L. rohita, highlighting the usefulness of antioxidant and DNA damage biomarkers for monitoring pesticide contamination in aquatic environments.",
+    "species_latin": "Catla catla、Labeo rohita",
+    "species_en": "Catla、Rohu",
+    "species_zh": "卡特拉鲃、南亚野鲮",
+    "takeaway": "联苯菊酯与毒死蜱或硫丹混剂对两种本土鲤科鱼造成氧化应激和遗传毒性，卡特拉鲃更敏感。",
+    "conclusion": "两种混剂均显著改变SOD、GST等抗氧化酶活性，并引起微核、核异常及基因组损伤；卡特拉鲃的96小时LC50更低、敏感性更高，说明抗氧化与DNA损伤指标可用于监测农药污染。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42788283",
+    "title": "Design of Lipopeptides and dsRNA-Lipopeptide Complexes for Sprayable RNAi-Based Plant Protection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of peptide science : an official publication of the European Peptide Society",
+    "authors": "Geisler P, Steiniger F, Vilcinskas A, Hellmann C.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-01",
+    "url": "https://europepmc.org/article/MED/42788283",
+    "doi": "10.1002/psc.70133",
+    "pmid": "42788283",
+    "abstract": "Broad-spectrum insecticides persist in the environment, affecting non-target organisms and selecting for resistant pest populations. In contrast, RNA interference (RNAi) achieves species-targeted pest control triggered by the delivery of exogenous double-stranded RNA (dsRNA), which is biodegradable and broken down into harmless components by nucleases. Sprayable applications require suitable formulation strategies for dsRNA protection during delivery. Here, we describe the preparation of dsRNA-lipopeptide complexes (LPCs) composed of non-toxic short-chain lipopeptide surfactants by microfluidic mixing, yielding positively charged dispersions of LPCs < 200 nm in diameter, which encapsulate and protect dsRNA from enzymatic degradation. Some lipopeptides were found to undergo thermo-reversible gelation, self-assembling to fibrillar nanostructures, but remained effective for dsRNA delivery to induce mortality in Colorado potato beetle larvae feeding on sprayed plants. Our results show that lipopeptide surfactants are suitable for the formulation of dsRNA to enable effective delivery to pest insects.",
+    "species_latin": "Leptinotarsa decemlineata",
+    "species_en": "Colorado potato beetle",
+    "species_zh": "马铃薯甲虫",
+    "takeaway": "用微流控混合制备脂肽-dsRNA复合物，可保护dsRNA并有效防控马铃薯甲虫幼虫",
+    "conclusion": "无毒短链脂肽表面活性剂经微流控混合与dsRNA形成小于200纳米的带正电复合物，能包裹并保护dsRNA免受酶降解；部分脂肽具热可逆凝胶化并自组装成纤维状纳米结构，但仍可递送dsRNA，使取食喷施植株的马铃薯甲虫幼虫死亡，表明脂肽适合用于dsRNA制剂化以实现对害虫的有效递送。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261031-792f7798c3",
+    "title": "Pesticide load rises, derailing targets",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The Copenhagen Post",
+    "authors": "",
+    "publish_date": "2026-10-31",
+    "added_at": "2026-11-01",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUd4V2RkbUQwcGd2LUlzbWUtbHFiTFcyc2ladmd6ZW1nRF9aeUZSNW9tNDB1TnJsYmlZdFVrVTRRU3VvaGUyR1d3MllrZUJuZEJhNjRaaTY2Y3Z2TmVONGc2ck9NeFNERzNfalVQTjA1VlRpOVN2WkJPVXptVmFqMk1yd09TcTRoSXJr?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究指出农药负荷持续上升，使既定减药目标难以实现。",
+    "conclusion": "农药使用量增加的趋势与既定减量目标相背离，提示现行政策或措施不足以遏制农药负荷上升，需加强管控以实现目标。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42963513",
+    "title": "Biosynthesis, characterization, and acaricidal activity of silver nanoparticles from Ficus carica leaf extract against Rhipicephalus (Boophilus) microplus ticks, a Vector of Bacterial Pathogens\"",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Discover nano",
+    "authors": "Malak N, Ullah S, Qarni A, Khan A, Niaz S, Bayugar RC, Ali H, Said MA, Alqahtani FM, Younous YA, Khan A.",
+    "publish_date": "2026-10-30",
+    "added_at": "2026-11-01",
+    "url": "https://europepmc.org/article/MED/42963513",
+    "doi": "10.1186/s11671-026-05049-9",
+    "pmid": "42963513",
+    "abstract": "Rhipicephalus microplus is a significant ectoparasite of cattle and the emergence of resistance to acaricides has created a need for developing sustainable approaches to its control. The purpose of this study was to prepare green silver nanoparticles with the aqueous extract of the leaves of Ficus carica and assess the acaricidal activity of these nanoparticles against Rhipicephalus microplus. The nanoparticle formation at 429 nm, crystalline structure, spherical morphology and elemental composition of silver were confirmed using the methods of ultravio-let spectrophotometry, X-ray diffraction, scanning electron microscopy, and ener-gy-dispersive X-ray spectroscopy. The acaricidal activity was tested at 5-60 mg/mL in both larval packet and adult immersion bioassays. The nanoparticles and cypermethrin reduced larval mortality by 100% and 94% respectively, after 48 h, and oviposition inhibition was 84.79% and 87.53% respectively when used at 60 mg/mL. The study of molecular docking of the compounds resulted in 2 H-1-Benzopyran-2-one being the most active compound with a binding affinity of - 8.2 kcal/mol with the membrane associated progesterone receptor component protein of Rhipicephalus microplus. The results revealed that the green synthesized Ficus carica silver nanoparticles exhibit significant acaricidal activity and are good candidates for environmentally friendly tick control.Clinical trial: Not applicable.",
+    "species_latin": "Rhipicephalus microplus",
+    "species_en": "Southern cattle tick",
+    "species_zh": "微小扇头蜱",
+    "takeaway": "无花果叶提取物绿色合成银纳米颗粒，对微小扇头蜱具显著杀螨活性",
+    "conclusion": "无花果叶水提物合成的银纳米颗粒经表征为球形晶态银，在60 mg/mL时对微小扇头蜱幼虫致死率达100%、产卵抑制率84.79%，效果接近氯氰菊酯；分子对接提示2H-1-苯并吡喃-2-酮与孕酮受体相关蛋白结合最强，表明该绿色纳米制剂可作为环境友好型蜱防控候选。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261030-e54f35fae6",
     "title": "Bridging the Confidence Gap: Advancing the Use of Non-Animal Methods in Pesticide Toxicity Assessment",
     "type": "news",
@@ -109,7 +270,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -135,7 +296,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -161,7 +322,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -187,7 +348,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -5638,7 +5799,7 @@
     "keywords": [
       "稻纵卷叶螟功能基因组学"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -22424,6 +22585,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20250110-e372143223",
+    "title": "Deep Drug–Target Binding Affinity Prediction Base on Multiple Feature Extraction and Fusion",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "ACS Publications",
+    "authors": "",
+    "publish_date": "2025-01-10",
+    "added_at": "2026-11-01",
+    "url": "https://doi.org/10.1021/acsomega.4c08048",
+    "doi": "10.1021/acsomega.4c08048",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出融合多种特征提取的药物-靶点结合亲和力深度预测方法",
+    "conclusion": "该研究构建了一种基于多重特征提取与融合的深度学习框架，用于预测药物与靶点之间的结合亲和力，有望提升亲和力预测的准确性，为药物筛选与靶点识别提供计算支持。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "ACS Omega",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20250102-be9f0ce046",
     "title": "Protein-ligand binding affinity prediction using multi-instance learning with docking structures",
     "type": "news",
@@ -22798,6 +22989,36 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20231020-729f48093f",
+    "title": "Binding affinity predictions with hybrid quantum-classical convolutional neural networks",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2023-10-20",
+    "added_at": "2026-11-01",
+    "url": "https://doi.org/10.1038/s41598-023-45269-y",
+    "doi": "10.1038/s41598-023-45269-y",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出混合量子-经典卷积神经网络用于预测分子结合亲和力",
+    "conclusion": "该工作将量子计算与经典卷积神经网络结合，构建混合模型以预测分子结合亲和力，为药物发现中的亲和力评估提供新思路，但具体性能与机制需见正文。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
     "llm_enhanced": true
   },
   {
