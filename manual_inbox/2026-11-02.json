@@ -1,0 +1,36 @@
+[
+  {
+    "id": "manual-20261102-pholiota-t2t-dual-nucleus",
+    "title": "Pholiota adiposa双核T2T基因组揭示核功能分化与菌盖颜色变异的遗传基础",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通（原文期刊 Microbial Biotechnology）",
+    "authors": "",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-02",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261101000524421.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究从野生黄伞分离株 HS5 获得两个可亲合单核体 D1 和 D11，整合 PacBio HiFi、ONT 超长读段与 Hi-C 数据，完成 13 条染色体的零缺口 T2T 组装，BUSCO 完整性分别达 98.6% 和 98.3%。两个细胞核仅 75% 的基因共线，D1 特异性基因富集于能量代谢通路、D11 特异性基因富集于遗传信息处理与 MAPK 信号通路；对 18 份野生种质重测序，在 6 号和 12 号染色体上定位两个与红色菌盖颜色相关的候选区域。",
+    "species_latin": "Pholiota adiposa",
+    "species_en": "Pholiota adiposa",
+    "species_zh": "黄伞（多脂鳞伞）",
+    "takeaway": "首个担子菌双核配对 T2T 参考基因组，证实双核真菌的两个单倍体核分别特化于能量代谢与遗传信息处理。",
+    "conclusion": "两个可亲合单倍体核呈功能互补的核特化设计，D1 偏向能量代谢与快速生长、D11 偏向基因组维护与交配信号；重测序在 6 号染色体（主效应位点）和 12 号染色体（含多个色素基因）定位红色菌盖候选区域，表明真菌色素沉着受多代谢网络协同调控而非单一基因控制。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "零缺口组装",
+      "黄伞",
+      "Pholiota adiposa",
+      "担子菌",
+      "双核",
+      "核功能分化",
+      "菌盖颜色",
+      "MAPK",
+      "BUSCO"
+    ]
+  }
+]
