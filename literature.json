@@ -73,7 +73,7 @@
     "authors": "",
     "publish_date": "2026-11-01",
     "added_at": "2026-11-02",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWW9zQ05xM1lsYkNaSXkzR3YxZ3l6Rm9NS3NZZ3Z5OXl0R2NtRFB1d1FYdzZnQjRjaDFtNnNRZ3JuNHlBWnB1S2VXbUlaNm9HZjBkalI0Y2Etb3ZlemdTdG9FQ3YxUjlZdmp4NGN3cC0tWklza1N3b2kwaFQ3N3d6LV9RSzBfWWtaQmstWVhRZVF1Q2lVVkp0UjJXeUc0blJaN1B6Qw?oc=5",
+    "url": "https://www.global-agriculture.com/biologicals/solasta-bio-submits-first-us-biopesticide-registration/",
     "doi": "",
     "pmid": "",
     "abstract": "",
@@ -88,7 +88,7 @@
       "en"
     ],
     "via": "Google News:en",
-    "link_kind": "",
+    "link_kind": "search",
     "llm_enhanced": true
   },
   {
@@ -23533,6 +23533,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20240819-a5ee97e9c3",
+    "title": "Wolbachia-Infected Mosquitoes for Dengue Control",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Drishti IAS",
+    "authors": "",
+    "publish_date": "2024-08-19",
+    "added_at": "2026-11-02",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajlXWlM1TFd6Rk9ITVBrNU1OOFFMTkJDNzFfUUh3SWtfZ1NMeUZueDdEcU5wVVJfNENfc0ptQmEwdFhQeDl6SlBkMDBia3JFZHNJMVFnTnFWeDBxM21aZExPTnBBZzFwcEF4UEszZmNoUkJ5UFZCazlHNHgzbDI4d3hLV1ZvSEY2RnZGcXI2Nnp4ejBBR0NkaG4xazI1TEdqLUc2ajVYUHlOaUdMQ2c?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题指出利用感染沃尔巴克氏体的蚊虫进行登革热防控，属防控策略探讨。",
+    "conclusion": "该文围绕以沃尔巴克氏体感染蚊虫作为登革热防控手段展开，但摘要缺失，具体机制与效果无法确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20240718-c3ae2b2a4b",
     "title": "Profiling protein–protein interactions to predict the efficacy of B-cell-lymphoma-2-homology-3 mimetics for acute myeloid leukaemia",
     "type": "news",
@@ -24405,6 +24434,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20200826-0e94fc6d9e",
+    "title": "World Mosquito Program’s Wolbachia method dramatically reduces dengue incidence in randomised controlled trial in Indonesia",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Monash University",
+    "authors": "",
+    "publish_date": "2020-08-26",
+    "added_at": "2026-11-02",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUDFTZVY1QWhsRV9ka3QwcUVxX0pxaTMzVGJqeDRzMWxvUEs1NlE1R0VXd0dSNkplYzFPY1dVa0JpQ1JQWjJQa3Jkdk1JdS1WYW1fTkU2ckFRcS1xaTF0WnF0SVJLNk5DV3dRcGxUWUl6MWFUWmJFbi1HRzFiLXRhVU81M2U2M1BfSjlock0yblY5dTZ3ZGJBc2FWSEFGRjBWNk83Y1hrckVyM19Rc2pBWE1sei0wM2VRdlRWc250RUludnFMU3JldU9ScjY1anJBajVwY3FDcko5Q1RscV9rdTJpTFlBT001VDdtaFZaQ00?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印尼随机对照试验显示，世界蚊虫计划用沃尔巴克氏体法大幅降低登革热发病率",
+    "conclusion": "在印度尼西亚开展的随机对照试验表明，释放携带沃尔巴克氏体的蚊虫可显著减少登革热发病，提示该生物防控策略具有大规模应用潜力。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20200826-852aef95f5",
     "title": "World Mosquito Program’s Wolbachia method dramatically reduces dengue incidence in Indonesia",
     "type": "news",
@@ -24519,6 +24577,35 @@
     "via": "Google News:en",
     "link_kind": "doi",
     "journal": "Scientific Reports",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20180411-d973175fc9",
+    "title": "Wolbachia method: reducing mosquito-spread diseases",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Monash Lens",
+    "authors": "",
+    "publish_date": "2018-04-11",
+    "added_at": "2026-11-02",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXNtRWQxLS1lWk1wdUNPY1JJalZnT1REd0ptRHlDSVNwU1AwdFBLM1B2ZUhub1c3YzQ5bVVySmh5Wkl0YnlzYlYyNnBWLVgwOXplejBIbk41UVhTNThCLW9JOExackh1UTBCMnpGbGRzNjJqQ3c0OEJ3MmoxU1VSNnpuZw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "沃尔巴克氏体方法可用于减少蚊媒疾病传播",
+    "conclusion": "标题表明该文介绍利用沃尔巴克氏体（Wolbachia）控制蚊媒传染病的策略，核心在于通过蚊虫携带该共生菌来阻断病原体传播，从而降低蚊媒疾病的发生风险。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
