@@ -1,5 +1,109 @@
 [
   {
+    "id": "pmid-42970589",
+    "title": "Development and characterization of western corn rootworm (Diabrotica virgifera virgifera LeConte) resistant to non-Cry insecticidal proteins Mpp75Aa1.1 and Vpb4Da2",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PloS one",
+    "authors": "Moar W, Khajuria C, Miller K, Pleau M, Werner B, Price P, Fridley J, Yin Y, Willse A, Tyre AJ, Head G.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-03",
+    "url": "https://europepmc.org/article/MED/42970589",
+    "doi": "10.1371/journal.pone.0359428",
+    "pmid": "42970589",
+    "abstract": "Transgenic maize expressing Bacillus thuringiensis (Bt) proteins, and more recently DvSnf7 dsRNA, has been adopted across the Midwestern U.S. Corn Belt to control western corn rootworm (WCR; Diabrotica virgifera virgifera LeConte) and other corn rootworm species. However, resistance has been reported to all five Bt proteins currently used to control WCR. This leaves DvSnf7 dsRNA as the only trait active against WCR without reported field resistance, emphasizing the need for alternative management tools. Mpp75Aa1.1 from Brevibacillus laterosporus and Vpb4Da2 from Bt are two proteins with high efficacy against WCR that do not have cross-resistance to any current commercial Bt protein. To predict the nature of future WCR field resistance to these proteins when used in planta, WCR colonies resistant to maize plants expressing either Mpp75Aa1.1 or Vpb4Da2 were developed by repeated selection on plants containing that protein. We confirmed resistance for both the Mpp75Aa1.1-selected colony (after generation 13, with 10 under selection) and the Vpb4Da2-selected colony (after generation 14, with 10 under selection) using larval recovery and beetle emergence assays with insecticidal protein-expressing maize seedlings and protein diet bioassays. Mpp75Aa1.1-resistant WCR survived and emerged comparably on Mpp75Aa1.1-expressing and non-traited maize, and exhibited a concentration response with an estimated resistance ratio of 5 on diet containing Mpp75Aa1.1. Vpb4Da2-resistant WCR also survived and emerged comparably on Vpb4Da2-expressing and non-traited maize and had no concentration response (i.e., no mortality) on diet containing Vpb4Da2, indicating a high level of resistance. Dominance for both resistant WCR colonies ranged from semidominant to incompletely recessive with increasing dose; effective dominance was estimated to be 0.23 (95% CI 0.12-0.35) and 0.24 (0.16-0.32) for Mpp75Aa1.1 and Vpb4Da2, respectively. These resistant colonies will be a useful tool for understanding the risk of WCR evolving resistance to these proteins when they are deployed commercially in maize.",
+    "species_latin": "Diabrotica virgifera virgifera",
+    "species_en": "western corn rootworm",
+    "species_zh": "西方玉米根萤叶甲",
+    "takeaway": "通过连续选育获得抗Mpp75Aa1.1和Vpb4Da2的玉米根萤叶甲品系，抗性呈半显性至不完全隐性。",
+    "conclusion": "在表达Mpp75Aa1.1或Vpb4Da2的玉米上连续选育，分别于第13代和第14代获得稳定抗性品系；抗性品系在相应蛋白饲料上存活率高，Mpp75Aa1.1抗性倍数约5倍，Vpb4Da2抗性品系则完全无死亡率，显示高水平抗性；两种抗性均随剂量增加由半显性趋于不完全隐性，有效显性度约0.23和0.24。这些品系可用于评估田间抗性风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42968410",
+    "title": "From fast-follower to emerging innovator: a critical review of 68 ISO-approved pesticides developed in China (2002-2025), resistance-management potential and translational barriers",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Tan HJ, Zhang J.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-03",
+    "url": "https://europepmc.org/article/MED/42968410",
+    "doi": "10.1002/ps.71418",
+    "pmid": "42968410",
+    "abstract": "BACKGROUND: China has emerged as a major source of innovative crop-protection chemistry, yet the international applicability of its domestically developed agrochemical pipeline has not been critically evaluated. We systematically identified and analyzed 68 China-developed insecticides, acaricides, nematicides, fungicides and herbicides that received ISO common names between 2002 and 2025, and assessed their structural evolution, resistance-management potential and translational progress. RESULTS: The portfolio comprises 18 insecticides, 6 acaricides, 3 nematicides, 20 fungicides and 21 herbicides, showing a shift from early pyrethroid and strobilurin modifications to heterocyclic scaffolds such as meta-diamides, pyrazolecarboxamides and benzoylpyrazoles. On the basis of publicly available data, no compound has a confirmed first-in-class binding site. As of 30 April 2026, none had achieved Codex maximum residue limit (MRL) establishment, EU active-substance approval, or Japan registration; only 11 (16.2%) had been listed/classified by Resistance Action Committee (RAC). The China Translational Attainment Index (TAI) (0.040) was therefore driven solely by RAC listing, versus 0.444 for the non-China comparator (P < 0.001). Additionally, only 18 compounds (26.5%) had publicly available baseline-sensitivity data. CONCLUSION: These 68 compounds are a valuable resource for global resistance management, but their international use is constrained by translational deficits. Absence of Codex MRLs, limited baseline-sensitivity data, and incomplete resistance and environmental fate data are core barriers to registration and stewardship. Prioritized data generation is needed to bridge this gap and support international registration and stewardship. © 2026 Society of Chemical Industry.",
+    "species_latin": "Codex maximum",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "系统分析2002-2025年获ISO通用名的68个中国研发农药,发现其结构创新提升但国际转化严重不足。",
+    "conclusion": "这68个农药涵盖杀虫、杀螨、杀线虫、杀菌和除草剂,结构由早期拟除虫菊酯和甲氧基丙烯酸酯类修饰转向杂环骨架,但无化合物具确证的首创结合位点。国际转化受限于缺乏Codex残留限量、欧盟批准和日本登记,仅少数被抗性行动委员会收录,基线敏感性数据稀缺,需优先补齐数据以支持全球登记与抗性治理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42968229",
+    "title": "Deep learning-based prediction of insect odorant receptor-ligand interactions for behavioral regulator discovery",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Wang S, Wang P, Agnihotri A, Xu W, Wang G.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-03",
+    "url": "https://europepmc.org/article/MED/42968229",
+    "doi": "10.1002/ps.71454",
+    "pmid": "42968229",
+    "abstract": "BACKGROUND: Widespread chemical insecticide use causes resistance and ecological damage, driving need for sustainable pest control via olfaction-based behavioral regulators targeting odorant receptors (ORs). Conventional screening is costly and low-throughput. Deep learning (DL) offers solutions but faces challenges of scarce data, distinct OR-ligand binding properties, and requirements for explainability to guide regulator design. RESULTS: To explore effective representations of volatile compounds under a limited data setting, we developed three deep learning models based on molecular descriptors (Concat-Desc), molecular graphs (Concat-GNN), and Simplified Molecular Input Line Entry System (SMILES) sequences (Cross-Attn) for OR-ligand interaction prediction. Trained on 4566 experimental pairs from M2iOR database, all DL models outperformed quantitative structure-activity relationship (QSAR) baselines. Concat-Desc and Cross-Attn achieved superior performance (test area under the receiver operating characteristic curve (AUC) = 0.891-0.927; accuracy = 0.810-0.843). The explainability modules highlighted model-associated ligand features and protein sequence positions. CONCLUSION: Molecular descriptors and SMILES are effective for volatile compounds in data-limited scenarios, while graph representations require further optimization. Integrated explainability modules provide testable hypotheses for experimental validation and future design, establishing a computational framework for artificial intelligence (AI)-driven insect chemical ecology. Limitations include data scarcity and limited species coverage that future studies must address. © 2026 Society of Chemical Industry.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用分子描述符、图神经网络和SMILES序列构建深度学习模型预测昆虫气味受体与配体互作，描述符和SMILES模型表现最佳。",
+    "conclusion": "在数据有限条件下，基于分子描述符和SMILES序列的深度学习模型优于传统QSAR方法，可高精度预测气味受体-配体互作，其可解释性模块能提供可验证的配体特征与蛋白位点假设，为AI驱动的昆虫化学生态学及行为调控剂设计建立计算框架。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42967495",
+    "title": "Repurposing Regulatory Rodent Toxicology Safety Archives to Identify Candidate Hormetic Longevity Agents Highlights Emergent Mitochondrial Mechanisms",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aging cell",
+    "authors": "Miwa S, Kucheryavenko O, Herrmann K, Raimundo A, Xue F, Mohanraj K, Saunter C, Niemann L, Weinkove D, von Zglinicki T.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-03",
+    "url": "https://europepmc.org/article/MED/42967495",
+    "doi": "10.1111/acel.70797",
+    "pmid": "42967495",
+    "abstract": "Efforts to extend longevity and healthspan have benefited from the use of in vitro systems, short-lived model organisms and computational approaches, but translation to humans depends on demonstrating efficacy and safety in mammalian in vivo models. However, rigorously controlled rodent lifespan studies are slow, costly and low-throughput. Hormesis, the induction of adaptive stress response pathways by low-level toxic or metabolic challenges, provides a mechanistic means for improved resilience, but testing hormetic dose-response relationships in mammals is logistically challenging. Regulatory long-term toxicity studies, mandated for chemical authorisation, routinely generate lifespan and chronic toxicity data from large cohorts across multiple dose groups and therefore represent an underused resource for detecting unexpected survival benefits. We mined a random subset of the German Federal Institute for Risk Assessment (BfR) electronic archive for long-term rodent pesticide studies in ≥ 50 animals per dose and sex. From qualifying studies with 154 substances, we identified 27 substances (18% of entries) that significantly increased survival at study termination (≥ 10%, p < 0.05). Fifteen publicly disclosable substances were examined further; roughly half perturbed mitochondrial oxygen consumption rates in mammalian cells, and bromoxynil acted as a mitochondrial uncoupler. Back-translation to Caenorhabditis elegans showed bromoxynil improved multiple healthspan indicators without compromising organismal health. Regulatory toxicity archives can thus be repurposed to identify candidate compounds, targets and mechanisms for mammalian healthy ageing research, complement conventional screening pipelines, align with 3Rs by maximising existing data, and supply high-quality datasets for AI-driven prioritisation of interventions for rigorous preclinical follow-up.",
+    "species_latin": "Caenorhabditis elegans",
+    "species_en": "Caenorhabditis elegans",
+    "species_zh": "秀丽隐杆线虫",
+    "takeaway": "挖掘德国BfR啮齿类农药毒性档案，发现27种物质显著延长生存，溴苯腈经线粒体解偶联改善健康寿命。",
+    "conclusion": "监管长期毒性档案可再利用以筛选促健康衰老候选物；约半数候选物扰动线粒体耗氧，溴苯腈作为线粒体解偶联剂在秀丽隐杆线虫中改善多项健康寿命指标且不损害健康，提示线粒体机制参与 hormesis 介导的长寿效应，并符合3R原则。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261102-pholiota-t2t-dual-nucleus",
     "title": "Pholiota adiposa双核T2T基因组揭示核功能分化与菌盖颜色变异的遗传基础",
     "type": "wechat",
@@ -509,7 +613,7 @@
     "authors": "",
     "publish_date": "2026-10-30",
     "added_at": "2026-10-30",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVFRQX0hsUklJU0NRRFlhZ0NvbTdocWhsdUN1dDg4OVpOOTlmRHNtSVl5Q2RLZFk1NDl0WlliZHhZN2VhaHh6Q1B0bTMySmoyWjRaMmgyWmphT1RlRTdRVzZ6R2g0OXI4OXZ1cnJrYUUwVllhemlTdmpFb1F2bGI3MFlrTmhZZTBQekVETHktNzNBOTY5TEJQcGNiWnd6TDAwc0xxV0hEZ005SjlfcUE?oc=5",
+    "url": "https://bioengineer.org/plant-compounds-show-promise-against-pesticide-linked-sperm-damage-in-animal-studies/",
     "doi": "",
     "pmid": "",
     "abstract": "",
@@ -524,7 +628,7 @@
       "en"
     ],
     "via": "Google News:en",
-    "link_kind": "",
+    "link_kind": "search",
     "llm_enhanced": true
   },
   {
@@ -538,7 +642,7 @@
     "authors": "",
     "publish_date": "2026-10-30",
     "added_at": "2026-10-30",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVE5ncGJyTkR2QWFIbkNtMVJBUUtXbVdWVXctRVR4aUF3cjZYWUdEbmVoaGxIQ1lTenlqR2pUOFRQRUVVTDMzc3ZmMWVIUDU1YVhLNHdORFZ0UWNrWjFFQWdOZWQ2ajNqb2NkendONkkwQ0wwXzNoTjAzZ2pYMDRXZmJzaldJMlliWHBzQ3pLd2I1RVdqeFl6NFprMEdjVDlJRlI1TmIzNDE?oc=5",
+    "url": "https://bioengineer.org/european-consumers-fear-pesticides-more-than-gene-edited-watermelon-survey-finds/",
     "doi": "",
     "pmid": "",
     "abstract": "",
@@ -553,7 +657,7 @@
       "en"
     ],
     "via": "Google News:en",
-    "link_kind": "",
+    "link_kind": "search",
     "llm_enhanced": true
   },
   {
@@ -22276,6 +22380,36 @@
       "fr"
     ],
     "via": "Google News:fr",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260326-d783a511ce",
+    "title": "The inhibition mechanism of Wolbachia on mosquito-borne RNA virus replication as seen through lipid metabolism regulation",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Frontiers",
+    "authors": "",
+    "publish_date": "2026-03-26",
+    "added_at": "2026-11-03",
+    "url": "https://doi.org/10.3389/fmicb.2026.1749424",
+    "doi": "10.3389/fmicb.2026.1749424",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究揭示沃尔巴克氏体通过调控脂质代谢抑制蚊媒RNA病毒复制的机制",
+    "conclusion": "沃尔巴克氏体可能借助对宿主脂质代谢的调节来抑制蚊媒RNA病毒的复制，为理解其抗病毒机制及蚊媒病防控提供新线索，具体通路尚待摘要证实。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Frontiers in Microbiology",
     "llm_enhanced": true
   },
   {
