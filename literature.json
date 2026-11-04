@@ -1,5 +1,271 @@
 [
   {
+    "id": "news-20261103-7810a74634",
+    "title": "Chlorpyrifos Pesticide Exposure Detected in Infants, Raising New Neurotoxicity Concerns",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AboutLawsuits.com",
+    "authors": "",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcE9WeGVBTmNjcjFPeGw0ZEk4SUprQ2JtQXBnTkYzem9XR1ZiRVE5QXlxY3FHcVV6RkJUOWxOM0tRZ1RsNTNaVjNCVUZmLXFqUUI1SWJ4Tmk1NnRZM2RLQ3lFVGF3ODFIcHBHc3hQR1FrZUd0V014MHpoRkhRWGU2ZC1vZm5OanRSU2VITjZmajVESlcyaGQxTFAwZ1lzSHpmVEJGYThzWms3U1dNVmktYzJmZXo?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "研究在婴儿体内检出毒死蜱农药暴露，提示需关注其神经毒性风险",
+    "conclusion": "标题提示婴儿已出现毒死蜱农药暴露，可能带来新的神经毒性隐患，需进一步评估其对婴幼儿神经系统发育的影响",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261103-1ca01f3668",
+    "title": "New AFBI surveys will gather information on fruit growers’ pesticide needs",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Farming Life",
+    "authors": "",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-04",
+    "url": "https://www.farminglife.com/business/new-afbi-surveys-will-gather-information-on-fruit-growers-pesticide-needs-9328006",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "AFBI将开展新调查，了解果农对农药的需求。",
+    "conclusion": "该文预告AFBI将启动新一轮调查，系统收集果农在病虫害防治中的农药需求信息，为后续农药登记、使用指导或植保政策提供依据；因无摘要，具体机制与结果尚不明确。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42976159",
+    "title": "Leaving X: How scale insects repeatedly evolved alternatives to chromosomal sex determination",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Molecular biology and evolution",
+    "authors": "Mongue AJ, Powell EC, Liesenfelt T, Grebler E, Markee A.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42976159",
+    "doi": "10.1093/molbev/msag275",
+    "pmid": "42976159",
+    "abstract": "Reproduction is a core feature of life, yet it is still unclear why sex determination systems are conserved for hundreds of millions of years in some taxa but repeatedly turn over in others. A prime example is the true bugs; the vast majority of families employ a conserved X sex chromosomal system, but in scale insects (Coccomorpha), sex determination systems are more varied. Scale insects may retain X chromosomes, employ a form of haplodiploidy known as paternal genome elimination (PGE), or reproduce via selfing as simultaneous hermaphrodites. We sequenced 17 new scale insect species to study sex determination transitions. We recovered two independent losses of the X, once in the family Monophlebidae and a second time at the base of the PGE families. In the former, genomic rearrangements begin before the X is lost, leading to a pair of massive autosomes to which the X fuses in hermaphrodites. In the latter, the X chromosome has multiple fates, from being preserved intact, albeit without sex determination function, to being reshuffled as part of a massive whole genome rearrangement in mealybugs. We analyzed ortholog conservation across the transitions and found few genes lost, with only one orthogroup lost in both, and a number of orthogroups gained, suggesting these transitions did not require large changes to gene content. Finally, extreme sexual dimorphism of gene expression predates sex determination turnover and lingers on some formerly X-linked sequences. Together, these results illustrate the multiple routes to sex determination turnover, refine causal hypotheses, and provide a wealth of new resources for genomic study of scale insects.",
+    "species_latin": "Coccomorpha",
+    "species_en": "scale insects",
+    "species_zh": "蚧虫（蚧总科）",
+    "takeaway": "测序17种蚧虫揭示X染色体性决定系统两次独立丢失及多种演化路径",
+    "conclusion": "蚧虫中X染色体性决定系统至少两次独立丢失：一次在Monophlebidae科，伴随基因组重排与X融合于大型常染色体；一次在PGE类群基部，X或被保留但失去性决定功能，或在粉蚧中随全基因组重排被打散。转变过程基因得失很少，说明性决定更替不依赖基因内容大幅改变；基因表达的极端性别二态性先于性决定更替出现并残留在部分原X连锁序列上。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42974927",
+    "title": "Combined exposure to flupyradifurone and microplastics: differential toxicity across three pollinator species",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Zavatta L, Cilia G, Cabiddu L, Masetti A, Magagnoli S, Molinari M, Sgolastra F, Burgio G.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42974927",
+    "doi": "10.1002/ps.71447",
+    "pmid": "42974927",
+    "abstract": "BACKGROUND: Multiple stressors have been identified as threats to pollinators, many of which are related to human activities. Pesticides are among the most studied stressors affecting pollinators, whereas microplastic residues represent an emerging and less studied threat. This study investigated the combined effects of polystyrene microplastics and the pesticide flupyradifurone on three pollinator species: Apis mellifera ligustica, Bombus terrestris, and Eristalis tenax. Acute oral toxicity tests were conducted by feeding individuals with different doses of flupyradifurone alone or in combination with a fixed concentration of microplastics. RESULTS: The median lethal dose (LD50) of flupyradifurone differed among species. In A. mellifera, the LD50 was 0.91 μg/insect (95% confidence interval (CI): 0.38-1.20). In B. terrestris, the LD50 decreased from 46.10 μg/insect (95% CI: 37.55-59.02) to 31.17 μg/insect (95% CI: 25.66-38.11) in the presence of microplastics, showing a different response under co-exposure. For E. tenax, a reliable LD50 could not be estimated. Only the highest tested dose (4.8 μg/insect) caused significantly higher mortality than the control, with no effect of microplastics. CONCLUSION: Acute mortality was mainly related to flupyradifurone exposure, while the effect of polystyrene microplastics differed among species. In B. terrestris, the presence of microplastics was associated with a lower LD50, suggesting that interactions between microplastics and pesticides may differ among pollinator species. Longer-term studies are needed to better understand the potential effects of microplastics on pollinators. © 2026 Society of Chemical Industry.",
+    "species_latin": "Apis mellifera ligustica, Bombus terrestris, Eristalis tenax",
+    "species_en": "Italian honey bee, buff-tailed bumblebee, drone fly",
+    "species_zh": "意大利蜜蜂、熊蜂、长尾管蚜蝇",
+    "takeaway": "微塑料与氟吡呋喃酮共暴露对三种传粉昆虫急性毒性存在种间差异，熊蜂LD50下降。",
+    "conclusion": "急性死亡主要由氟吡呋喃酮驱动，聚苯乙烯微塑料的影响因物种而异；仅熊蜂在共暴露下LD50降低，提示微塑料与农药的交互作用具有物种特异性，需开展长期研究。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42972871",
+    "title": "Evaluation of insecticide susceptibility and biological fitness of the brown planthopper Nilaparvata lugens under different warming exposure regimes",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Wu S, Hu H, Luo D, Zhang H, Lu W, Li J, Li R, Li M, Liao X.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42972871",
+    "doi": "10.1002/ps.71463",
+    "pmid": "42972871",
+    "abstract": "Global warming is expected to alter insect fitness and insecticide efficacy, yet the effects of different durations of warming exposure remain unclear. This study evaluated the effects of four warming exposure regimes (acute warming, AW; developmental warming, DW; transgenerational warming, TW; and parental warming, PW) on the population fitness and insecticide susceptibility of the brown planthopper, Nilaparvata lugens, a major rice pest in Asia. AW transiently stimulated reproduction and extended adult longevity. Conversely, sustained warming over one generation (DW) or two generations (TW) induced a resource trade-off marked by the up-regulation of thermotolerance genes and the down-regulation of cytochrome P450 detoxification genes, resulting in diminished fecundity, delayed development, and heightened sensitivity to multiple insecticides. Restricted warming to the parental generation, followed by a recovery generation at normal temperature (PW), restored reproductive performance and insecticide susceptibility to control levels. Temporal warming regimes significantly modulate the fitness and insecticide susceptibility of N. lugens. These findings underscore the need to consider not only the magnitude but also the duration and warming regimes when predicting pest population dynamics and designing pest management strategies that are resilient to climate change. © 2026 Society of Chemical Industry.",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "不同升温时长调控褐飞虱适合度与药敏性，持续跨代升温降低生殖力并增强杀虫剂敏感性",
+    "conclusion": "急性升温短暂促进生殖并延长成虫寿命；而一个或两个世代的持续升温引发资源权衡，上调耐热基因、下调细胞色素P450解毒基因，导致生殖力下降、发育延迟且对多种杀虫剂更敏感；仅亲代升温后恢复常温可恢复至对照水平。升温时长与方式显著影响褐飞虱适合度和药敏性，预测种群动态与制定气候韧性害虫治理策略需同时考虑升温幅度、持续时间与暴露方式。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42972613",
+    "title": "Effects of Biosynthesized Silver Nanoparticles on Feeding Behavior, Selected Insecticide Resistance-Associated Gene Expression, and Permethrin Susceptibility in <i>Anopheles gambiae</i>: A Laboratory Study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+    "authors": "Abbasi E.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42972613",
+    "doi": "10.1177/15303667261501722",
+    "pmid": "42972613",
+    "abstract": "Insecticide resistance in Anopheles gambiae threatens malaria control. This study evaluated biosynthesized silver nanoparticles (AgNPs) derived from the endophytic fungus Aspergillus niger for their effects on mosquito feeding behavior, resistance-associated gene expression, and permethrin susceptibility. AgNPs were biosynthesized using cell-free extracellular metabolites of an A. niger isolate and characterized by ultraviolet-visible spectroscopy, transmission electron microscopy (TEM), dynamic light scattering, zeta-potential analysis, and Fourier-transform infrared spectroscopy. The nanoparticles were predominantly spherical, with mean TEM and hydrodynamic diameters of 25.6 ± 4.2 and 28.3 ± 5.1 nm, respectively, a polydispersity index of 0.21, and a zeta potential of -32.4 ± 2.8 mV. Adult A. gambiae were exposed to 0.1, 0.5, and 1.0 mg/L AgNPs. AgNP exposure significantly and concentration-dependently delayed host-seeking, reduced feeding success and blood-meal volume, and decreased responsiveness to a standardized human-odor stimulus (p < 0.001). Expression of the resistance-associated genes Cyp6m2, Cyp6p3, and Ace1 decreased by up to 71%, 66%, and 59%, respectively (p < 0.001). Permethrin-induced mortality increased from 45.8 ± 5.1% in controls to 89.3 ± 4.2% at the highest AgNP concentration, indicating enhanced permethrin-associated mortality but not restoration of full susceptibility. Biosynthesized AgNPs altered behavioral and selected molecular endpoints and enhanced permethrin-associated mortality in resistant A. gambiae under controlled laboratory conditions. These findings provide laboratory-scale evidence supporting further investigation of fungal-derived AgNPs as potential adjuncts to vector control. However, operational effectiveness, environmental persistence, nontarget effects, ecological safety, and effects on malaria transmission were not evaluated and require validation in mechanistic, semifield, ecological, and field studies.",
+    "species_latin": "Anopheles gambiae",
+    "species_en": "African malaria mosquito",
+    "species_zh": "冈比亚按蚊",
+    "takeaway": "黑曲霉合成银纳米颗粒可浓度依赖地抑制冈比亚按蚊取食并增强氯菊酯致死率",
+    "conclusion": "真菌合成的银纳米颗粒能延缓冈比亚按蚊寻血、降低取食成功率与血餐量，下调Cyp6m2、Cyp6p3和Ace1抗性相关基因表达，并提高氯菊酯致死率，但未完全恢复敏感性；仅属实验室证据，其现场效果与生态安全性尚待验证",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42971457",
+    "title": "Integrated Assessment of Cyanobacterial Blooms, Pesticides, and Reproductive Toxicity in a Eutrophic Reservoir",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Moraes ACN, Souza BM, Ribeiro AO, Nogueira MG, Vilar MCP, Azevedo SMFO, Montagner CC, Nobrega RH.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42971457",
+    "doi": "10.1016/j.envpol.2026.129426",
+    "pmid": "42971457",
+    "abstract": "The Barra Bonita Reservoir (São Paulo, Brazil) is a eutrophic system subject to intense anthropogenic pressures, including nutrient enrichment and contamination by emerging pollutants. This study evaluated the seasonal dynamics of water quality, cyanobacteria, cyanotoxins, and pesticides, and assessed their biological effects through in vivo exposure experiments using zebrafish (Danio rerio). Water samples were collected in summer, autumn, winter, and spring of 2024 for limnological, chemical, and toxicological analyses. Results revealed pronounced seasonal variability, with eutrophic conditions persisting throughout the year, characterized by high nutrient concentrations and continuous cyanobacterial dominance. Cyanobacterial densities exceeded regulatory limits in all seasons, with a marked bloom in spring, accompanied by peak microcystin concentrations (27.83 ± 5.56 μg/L). Pesticide occurrence also varied seasonally, with greater chemical diversity in summer and maximum concentrations of fipronil (11.4 ng/L) and hexazinone (1.9 ng/L) in spring. In vivo assays demonstrated that exposure to reservoir water induced significant modulation of genes related to the hypothalamic-pituitary-gonadal axis, steroidogenesis, and germ cell development, indicating modulation of endocrine related transcriptional pathways. Additionally, all exposure groups showed reduced spermatozoa production compared to controls, while androgen (11-ketotestosterone) plasma levels were normal in most seasons but significantly increased in spring. These findings highlight seasonal associations between eutrophic conditions, contaminant occurrence, and molecular and reproductive responses. This study underscores the importance of integrated monitoring and management strategies to mitigate risks associated with cyanobacterial blooms and pesticides in tropical reservoirs.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "巴西富营养水库全年蓝藻超标、春季微囊藻毒素与农药峰值最高，斑马鱼暴露后生殖相关基因转录受扰且精子生成减少。",
+    "conclusion": "该水库全年维持富营养与蓝藻优势，春季藻华伴随微囊藻毒素及氟虫腈、环嗪酮浓度峰值；水库水暴露可改变斑马鱼下丘脑-垂体-性腺轴、类固醇合成及生殖细胞发育相关基因表达，并普遍降低精子产量，提示富营养化、蓝藻毒素与农药存在季节性关联的生殖内分泌风险，需加强综合监测与管理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42971394",
+    "title": "Deciphering bioactive biomolecules of Photorhabdus sp.: Integrated molecular, biochemical, and metabolomic insights into its bioinsecticidal activity against galleria mellonella and Holotrichia serrata",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of invertebrate pathology",
+    "authors": "Chellappa S, Mani J, Uthandi S, Purushothaman SK, Balasubramanian S, Kuppusamy H, Ragupathy TV, Subburamu K, Muthusamy R.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42971394",
+    "doi": "10.1016/j.jip.2026.108786",
+    "pmid": "42971394",
+    "abstract": "Photorhabdus is a gram-negative symbiotic bacteria having a relationship with entomopathogenic nematodes (EPN), Heterorhabditis spp. They are known to produce several toxins, antibiotics with antifungal and antibacterial compounds; hence, they are gaining considerable attention due to commercial interest in insecticidal metabolites active against several insect pests. Eight Photorhabdus luminescens were isolated from EPN Heterorhabditis indica strains maintained in the culture collection of ICAR-Sugarcane Breeding Institute, Coimbatore. Based on morphological, biochemical and molecular characterization using 16S rDNA-specific primers, all the eight bacteria were identified as Photorhabdus luminescens subsp. akhurstii. The 16S rDNA sequences were submitted to GenBank. Insecticidal activity of cell-free supernatant of bacterial strains against wax moth Galleria mellonella larvae and first instar white grub Holotrichia serrata revealed 51.2-99.2 and 35.1-81.2% mortality respectively. Among the eight bacteria tested, P. luminescens ssp. akhurstii strain SBIPLATND78 recorded maximum mortality of G. mellonella (99.2%) as well as H. serrata (81.25%). Purification and identification of insecticidal metabolites from P. luminescence subsp. akhurstii (SBIPLATND78) was done using GC-MS analysis. The total ion chromatogram (TIC) showed the presence of 40 compounds, and the GC-MS profile showed the presence of anti-helminthic and bioactive compounds such as 2,5-Piperazinedione, 3-benzyl-6-isopropyl-, n-Tetracosanol-1, and p-Cymene-2,5-diol. Molecular docking studies identified strong interactions between biomolecules and G. mellonella protein targets, with 2,5-piperazinedione, 3-benzyl-6-isopropyl showing the highest binding affinity (-6.4 kcal/mol). Further in vitro evaluation of 2,5-piperazinedione confirmed the insecticidal effect against G. mellonella, which also strengthens the study. The present study revealed P. luminescens subsp. Akhurstii exhibited strong insecticidal potential through the production of bioactive metabolites with significant toxicity against G. mellonella and H. serrata. These novel findings highlight its promising nature as an eco-friendly biocontrol agent for sustainable insect pest management and provide a molecular basis for the development of novel bio-insecticides.",
+    "species_latin": "Galleria mellonella, Holotrichia serrata",
+    "species_en": "greater wax moth, white grub",
+    "species_zh": "蜡螟、白蛴螬",
+    "takeaway": "从印度甘蔗害虫线虫中分离的发光杆菌SBIPLATND78代谢物对蜡螟和白蛴螬杀虫活性最强",
+    "conclusion": "八株发光杆菌均鉴定为P. luminescens subsp. akhurstii，其无细胞上清对蜡螟和白蛴螬一龄幼虫均有致死作用，菌株SBIPLATND78效果最佳；GC-MS检出40种化合物，其中2,5-哌嗪二酮衍生物经分子对接与体外验证具杀虫活性，提示该菌代谢物可作为环保型生物杀虫剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42971258",
+    "title": "Cyclotides from Clitoria ternatea: Genomic Organization, Biosynthesis, and Roles in Plant Defense",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Planta medica",
+    "authors": "Kumar R, Yeo LM, Singaram N, Mah SH, Bunawan H, Lee KW, Yap WHH.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42971258",
+    "doi": "10.1055/a-2995-3627",
+    "pmid": "42971258",
+    "abstract": "Clitoria ternatea, commonly known as butterfly pea, is a perennial legume widely recognized for its ornamental and medicinal value. Beyond its characteristic anthocyanin-rich blue flowers, the plant produces cyclotides, a type of ultra-stable, cyclic cystine-knot peptide, with exceptional biological functions. Unlike other cyclotide-bearing families that carry independent cyclotide genes, C. ternatea integrates cyclotide domains into albumin-1 genes, replacing β-chain domains through divergent or convergent evolution. Genomic and transcriptomic studies reveal a large repertoire of albumin-1 loci and associated biosynthetic enzymes, including asparaginyl endopeptidases (butelase-1), protein disulphide isomerases, and peptidyl-prolyl isomerases, which orchestrate the cyclization, folding, and stabilization of cyclotides. Transcriptome analyses further demonstrate tissue-specific expression patterns, with distinct cyclotides such as cliotides T2 and T3 enriched in flowers and pods, and cliotides T8-T10 specialized in seeds, reflecting adaptive responses to localized biotic stress. Functionally, C. ternatea cyclotides exhibit broad-spectrum defense properties, including insecticidal, bactericidal, nematicidal, and antifungal activities, primarily through membrane permeabilization and disruption of lipid bilayers. Their preferential affinity for phosphatidylethanolamine-rich membranes highlights their selective toxicity toward insect and microbial targets. Recent advances in synthetic biology exploit cyclotides' structural stability as molecular scaffolds for therapeutic peptide design, with applications in immunomodulatory, antimicrobial, and anticancer drug development. This review consolidates genomic, transcriptomic, and functional insights into cyclotide biosynthesis and activity in C. ternatea, highlighting its evolutionary distinctiveness and biotechnological potential. Future research integrating multi-omics and spatial single-cell analyses can further unravel regulatory networks, defense dynamics, and translational applications of these unique plant peptides.",
+    "species_latin": "Clitoria ternatea",
+    "species_en": "butterfly pea",
+    "species_zh": "蝶豆",
+    "takeaway": "蝶豆将环肽结构域嵌入白蛋白-1基因，经特定酶催化环化折叠，产生具广谱防御活性的环肽。",
+    "conclusion": "蝶豆通过将环肽结构域整合进白蛋白-1基因（替代β链），并借助天冬酰胺内肽酶等酶完成环化与折叠，形成组织特异性分布的环肽；这些环肽以膜透化和破坏脂质双层为主要机制，发挥杀虫、抗菌、杀线虫和抗真菌作用，且对富含磷脂酰乙醇胺的膜具选择性，体现进化独特性与生物技术潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42969320",
+    "title": "Scoping when bit length of molecular fingerprints determines the reliability of computational tools in environmental chemistry and toxicology",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental science. Processes & impacts",
+    "authors": "Doeze Jager M, Reij E, Probst D, Sigmund G.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42969320",
+    "doi": "10.1039/d6em00634e",
+    "pmid": "42969320",
+    "abstract": "Many modern computational tools to describe or predict the behaviour of organic chemicals rely on molecular fingerprints. Fingerprints are used as descriptors for structure-activity relationship modelling and structure-based clustering of chemicals across the fields of environmental chemistry, technology and (eco)toxicology. Here, we highlight how Extended Connectivity Fingerprint (ECFP), RDKit fingerprint, Atom Pair fingerprint, and Torsion fingerprint, among others, are susceptible to \"bit collisions\", which result in the same fingerprint for different molecular structures in a given dataset. Bit collisions can be introduced during hashing, where two distinct fragments result in the same hash, or more commonly, where the folding operation assigns two different structures to the same bit index. These collisions can occur at the molecular level, where two distinct substructures in a molecule collide, or at the dataset level, where collisions occur due to molecular aggregation. Using two curated datasets (pesticide degradation and global chemical inventory data), we show that bit collision is inversely related to the bit size of fingerprints and is more pronounced in Atom Pair and RDKit fingerprints compared to ECFP and Torsion fingerprints. In addition, molecular size and atom count are positively related to bit collisions. At the widely used ECFP4 with a bit length of 1024, bit collisions occurred for approximately 50% of the molecules in both tested datasets. Finally, we showcase how bit collisions can be detrimental for predictive modelling of targets with high certainty, such as hydrophobicity, while their effect is less visible for more uncertain and \"noisy\" targets such as persistence. Overall, this study provides guidance on fingerprint and bit size selection for predictive modelling in environmental chemistry, ecotoxicology and environmental technology.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "分子指纹位长过短会引发比特碰撞，使不同结构难以区分，进而影响环境化学与毒理学预测的可靠性。",
+    "conclusion": "比特碰撞随指纹位长增加而减少，Atom Pair与RDKit指纹比ECFP和Torsion更易碰撞；分子越大、原子越多碰撞越多。常用ECFP4（1024位）在两个数据集中约半数分子发生碰撞，且对高确定性目标（如疏水性）预测危害更明显，对噪声大的目标影响较小。研究为指纹类型与位长选择提供指导。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42970589",
     "title": "Development and characterization of western corn rootworm (Diabrotica virgifera virgifera LeConte) resistant to non-Cry insecticidal proteins Mpp75Aa1.1 and Vpb4Da2",
     "type": "paper",
@@ -22,7 +288,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42971791",
+    "title": "Host Development and Environment Influence the Microbiomes of Aquatic Insects and Riparian Spiders",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Environmental microbiology",
+    "authors": "Esser M, Perrotta B, Kidd K.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42971791",
+    "doi": "10.1111/1462-2920.70472",
+    "pmid": "42971791",
+    "abstract": "Larval aquatic insects harbour diverse microbiomes critical for physiology and development, yet the effects of metamorphosis combined with environmental exposures on this community remain unknown. Herein we examined bacterial microbiome composition and predicted function across larval and adult stages of three families of aquatic insects and riparian spider predators, collected upstream and downstream of wastewater treatment plants (WWTPs) in Ontario, Canada. Insect host developmental stage was the primary driver of microbiome structure. Larval microbiomes were more diverse and showed higher abundances in pathways reflecting active feeding. Larval and adult populations of holometabolous insects shared few ASVs (3.8%-12.6% of the combined ASV pool), whereas a larger proportion was shared in hemimetabolous insects (23.4%). WWTP effluent exposures led to selective microbial filtering rather than broad community restructuring. Macroinvertebrate and spider microbiomes sampled downstream were characterized by higher abundances in bacterial taxa associated with wastewaters and increased xenobiotic degradation pathways. Such impacts on spider microbiomes provide evidence that ecological impacts of effluents cross the aquatic-terrestrial boundary. Lastly, a significant decrease of vertically transmitted endosymbionts (Rickettsiella, Wolbachia) was detected in aquatic insects, representing a pathway through which effluent pollution may affect host fitness without detectably altering overall microbiome diversity.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "昆虫发育阶段主导水生昆虫及岸边蜘蛛微生物组，污水厂尾水选择性过滤菌群并降低垂直传播内共生菌。",
+    "conclusion": "宿主发育阶段是微生物组结构的首要驱动因素，全变态昆虫幼虫与成虫共享ASV少，不完全变态共享较多；尾水暴露引起选择性微生物过滤而非整体重构，下游水生昆虫和蜘蛛富集与污水相关菌及异源物质降解通路，说明污水生态影响跨越水陆边界；水生昆虫中垂直传播内共生菌Rickettsiella和Wolbachia显著减少，可能是污染影响宿主适合度的途径。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -48,7 +340,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -74,7 +366,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -100,7 +392,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
