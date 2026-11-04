@@ -623,6 +623,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42966528",
+    "title": "Environmental endocrine-disrupting chemicals as ototoxicants: a systematic review of epidemiological evidence",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Floriano da Silva CF, Garcia ÉC, Nunes de Sousa A, Máximo VG, Soares Beserra BT, Quaglio Bellozi PM, Fabro de Bem A, Amato AA.",
+    "publish_date": "2026-10-31",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42966528",
+    "doi": "10.1016/j.envres.2026.126081",
+    "pmid": "42966528",
+    "abstract": "Hearing loss affects over 1.5 billion people globally and is projected to rise substantially by 2050. While several environmental pollutants are established ototoxicants, those that act as endocrine-disrupting chemicals (EDCs) have received far less attention as auditory hazards, despite mechanistic evidence for effects on thyroid hormone signaling, oxidative stress, and direct cochlear toxicity. No systematic review has comprehensively synthesized the human evidence linking EDC exposure to auditory outcomes. We conducted a systematic review in accordance with PRISMA 2020 guidelines (PROSPERO CRD420261383642). PubMed, Scopus, and Web of Science were searched from inception to June 10, 2026. Observational studies assessing EDC exposure through biological samples and hearing function by pure-tone audiometry or otoacoustic emissions (OAE) were eligible, and risk of bias was assessed using the Office of Health Assessment and Translation (OHAT) tool. Twenty-three studies were included (16 cross-sectional, 6 cohort, 1 case-control), encompassing ten EDC classes: polychlorinated biphenyls (PCBs), per- and polyfluoroalkyl substances (PFAS), organochlorine pesticides, organophosphates, parabens, phenols, pyrethroids, volatile organic compounds, phthalates, and polychlorinated dibenzofurans. Evidence was most consistent for PCBs, for which postnatal exposure was associated with reduced OAE amplitudes across repeated analyses of a single birth cohort, and for PFAS, with perfluorononanoic acid showing the most robust audiometric associations. Parabens and bisphenol A were associated with cochlear dysfunction in pediatric populations, though on the basis of a single research group. Within-class heterogeneity for phenols and PCBs cautioned against class-level generalizations. Overall, the evidence suggests that exposure to several EDC classes may be associated with impaired hearing in humans, supporting the inclusion of cochlear outcomes in EDC risk assessment and environmental health surveillance while underscoring the need for independent replication.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "系统综述23项观察性研究提示，多类内分泌干扰物暴露可能与人类听力受损相关，其中PCBs和PFAS证据最一致。",
+    "conclusion": "综述表明，多类内分泌干扰化学物暴露可能与人类听力功能受损相关，其中多氯联苯与产后耳声发射振幅降低、全氟壬酸与听阈异常关联最为一致；对羟基苯甲酸酯和双酚A的耳蜗毒性证据仅来自单一团队，酚类与多氯联苯的类别内异质性提示不宜作类别层面推广。结果支持将耳蜗结局纳入内分泌干扰物风险评估与环境健康监测，但亟需独立重复验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42966486",
     "title": "Hyperactivating effect of botanical monoterpenes is suppressed by antagonists of the octopaminergic/tyraminergic system in Triatoma infestans",
     "type": "paper",
@@ -950,6 +976,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42957036",
+    "title": "Serum concentrations of neonicotinoids and internal exposure linked to biomarkers of liver injury of Budd-Chiari syndrome population",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Li Z, Shen B, Guo J, Lei W, Li Q, Liang X, Wang H, Xu H, Zu M, Zhang Q.",
+    "publish_date": "2026-10-29",
+    "added_at": "2026-11-04",
+    "url": "https://europepmc.org/article/MED/42957036",
+    "doi": "10.1016/j.envpol.2026.129441",
+    "pmid": "42957036",
+    "abstract": "Neonicotinoid insecticides (NNIs) are ubiquitously detected in human blood, yet their health impacts on populations with impaired liver function remain poorly understood. This study assessed eight NNIs in BCS patient serum and their associations with liver injury biomarkers. Generalized linear models with product terms examined effect modification by sex and hepatocellular carcinoma (HCC) status. Results showed that dinotefuran (DIN), acetamiprid (ACE), clothianidin (CLO), thiamethoxam (THIA), imidacloprid (IMI), and thiacloprid (THI) had a detection rate of 100%. The median concentration of ∑8NNIs was 392.4 ng/L, with IMI being the predominant contributor (249.0 ng/L). In the adjusted models, DIN was significantly positively associated with aspartate aminotransferase (AST) (β = 13.07, 95% CI: 0.66-25.48, p = 0.040); THIA was significantly negatively associated with D-dimer (β = -0.267, p = 0.038) and fibrinogen (β = -0.208, p = 0.033). Interaction analyses revealed that sex significantly modified the association between DIN and activated partial thromboplastin time (p = 0.007), while HCC status significantly modified the associations of THIA with gamma-glutamyl transferase (GGT, p = 0.005), CLO with GGT (p = 0.002), and IMI with albumin (p = 0.031). In conclusion, NNI exposure is widespread in the serum of BCS patients. DIN is associated with hepatocellular injury, THIA is associated with coagulation function biomarkers, and these associations are significantly modified by sex and HCC status. This study provides novel epidemiological evidence for understanding the risks of NNI exposure in populations with impaired liver function.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "布加综合征患者血清中新烟碱类杀虫剂普遍检出，呋虫胺与肝细胞损伤指标AST正相关。",
+    "conclusion": "布加综合征患者普遍暴露于新烟碱类杀虫剂，呋虫胺与肝细胞损伤相关，噻虫嗪与凝血功能指标相关，且性别和肝癌状态会显著改变这些关联，为肝功能受损人群的农药暴露风险评估提供了流行病学证据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -23756,6 +23808,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20250227-72dd32404b",
+    "title": "Assessing market failures driving pesticide resistance",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Science | AAAS",
+    "authors": "",
+    "publish_date": "2025-02-27",
+    "added_at": "2026-11-04",
+    "url": "https://doi.org/10.1126/science.adv4313",
+    "doi": "10.1126/science.adv4313",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究从市场失灵角度评估农药抗药性的成因，指出市场机制缺陷会推动抗药性发展。",
+    "conclusion": "该文提出应把农药抗药性视为市场失灵的结果来分析：市场机制未能有效约束用药行为，可能促使抗药性加剧，因此治理抗药性需同时校正市场激励与监管。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "fr"
+    ],
+    "via": "Google News:fr",
+    "link_kind": "doi",
+    "journal": "Science",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20250110-e372143223",
     "title": "Deep Drug–Target Binding Affinity Prediction Base on Multiple Feature Extraction and Fusion",
     "type": "news",
@@ -25206,6 +25288,36 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20030508-63d3aff606",
+    "title": "Insecticide resistance in mosquito vectors",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2003-05-08",
+    "added_at": "2026-11-04",
+    "url": "https://doi.org/10.1038/423136b",
+    "doi": "10.1038/423136b",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述蚊媒杀虫剂抗性问题",
+    "conclusion": "蚊媒对杀虫剂的抗性威胁病媒控制，需持续监测抗性并优化用药策略。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "fr"
+    ],
+    "via": "Google News:fr",
+    "link_kind": "doi",
+    "journal": "Nature",
     "llm_enhanced": true
   }
 ]
