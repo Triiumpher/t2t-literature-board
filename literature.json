@@ -233,7 +233,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -259,7 +259,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -760,6 +760,32 @@
       "T2T 端粒到端粒基因组"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42980448",
+    "title": "Design and Evaluation of Piperonyl Amidine Derivatives as Inhibitors of Insect Chitinolytic Enzymes",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Ni X, Ma S, Zhang E, Yuan P, Zhu L, Xu X, Qian X, Yang Q, Li Z.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42980448",
+    "doi": "10.1021/acs.jafc.6c06187",
+    "pmid": "42980448",
+    "abstract": "Chitinolytic enzymes play essential roles in insect molting and represent attractive targets for the development of insect growth regulators. A series of piperonyl amidine derivatives (7a-7x) was designed and synthesized by integrating a piperonyl scaffold with an amidine-containing fragment. These compounds were evaluated against four chitinolytic enzymes from Ostrinia furnacalis. Several analogues showed notable inhibition of OfChtI and OfChi-h at 10 μM. Compound 7i inhibited OfChtI and OfChi-h by 83.2% and 93.6%, respectively, with Ki values of 1.424 and 0.113 μM. Molecular docking suggested that differences in subsite occupancy and binding interactions may account for the differential inhibitory activity of 7i toward the four enzymes. In vivo, 7i showed insecticidal activity against O. furnacalis, Mythimna separata, and Plutella xylostella at 500 mg·L-1 and suppressed larval growth and development in O. furnacalis. These findings support the piperonyl amidine scaffold as a useful lead for further optimization.",
+    "species_latin": "Ostrinia furnacalis",
+    "species_en": "Asian corn borer",
+    "species_zh": "玉米螟",
+    "takeaway": "设计胡椒基脒类衍生物抑制玉米螟几丁质酶，7i抑酶强且具杀虫活性",
+    "conclusion": "胡椒基脒骨架可有效抑制OfChtI与OfChi-h，7i因亚位点占据与结合方式差异表现选择性；其室内对玉米螟、黏虫和小菜蛾有杀虫活性并抑制玉米螟幼虫生长，提示该骨架可作为昆虫生长调节剂先导进一步优化。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
