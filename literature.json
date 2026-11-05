@@ -1,5 +1,424 @@
 [
   {
+    "id": "news-20261105-cef162b29e",
+    "title": "Chemical Lobby Claims Major Victory After Trump Administration Guts MAHA Pesticide Strategy",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The New American",
+    "authors": "",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-05",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU0IyYXFhWG1BUzBFdjRSX1NyeUJRaGdROVBxOVY3clZabkxlbDJDT3NacDcwc0dMQkd5c1VWcks3OHJRNDlTbjF6Qmd1YS00cUU1TEJIWFdoczVUY1hMNDVNX2dSSnBHM1FfUjhmWmVlcXJ6UU5DQnBjWVA2TkRnaE51bl8zODhYd2lNUko3SzBPcTNjOVhDNXhZblNQdW9UY1kxaUcwSkZEdXMyNEFjN2ZDeFBvQjdSVmVNdVJ5ZEliZkJBUkREc25PYw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题报道化工游说团体称在特朗普政府削弱MAHA农药战略后取得重大胜利",
+    "conclusion": "仅凭标题可知，这是一则新闻而非研究论文：特朗普政府削减了MAHA农药战略，化工行业游说团体对此表示欢迎并宣称获胜。标题未提供具体机制或科学数据，无法得出学术结论。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42981283",
+    "title": "Filling the gaps in Australian angiosperm genomes",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "PloS one",
+    "authors": "Allnutt TR, McLay TGB, Jones A, Edwards R, Holmes GD, Schmidt-Lebuhn AN, Andrew RL, Fowler RM, Jackson C, Lum M, Bruhl JJ, Ferguson S, Fournier-Level A, Lewsey MG, Roach M, Shaldoom T, Cantrill DJ.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42981283",
+    "doi": "10.1371/journal.pone.0359340",
+    "pmid": "42981283",
+    "abstract": "The Genomics for Australian Plants Initiative (GAP) reference genome project aimed to provide high quality angiosperm genomes for previously underrepresented taxonomic groups with evolutionary significance, cultural value, biogeographic importance, and concerning conservation status in Australia. Here we present the results of long-read genomic sequencing and assembly for 29 selected angiosperm species, including analyses of genome completeness, contiguity, ploidy, gene annotations, and repeat content. Plastid and mitochondrion genomes were also assembled and annotated. The data provided a diverse selection of genome size, ploidy and complexity, which were compared. The long read sequencing methods, PacBio HiFi, and Oxford Nanopore Technologies (ONT), used in tandem and individually where appropriate, provided high quality near complete telomere to telomere assemblies. These genomes provide valuable genomic resources for Australian plants that will enable and extend research in evolution, conservation, functional adaptation, and comparative genomics.",
+    "species_latin": "Magnoliopsida",
+    "species_en": "Angiosperms",
+    "species_zh": "被子植物",
+    "takeaway": "澳大利亚植物基因组计划用长读长测序完成29种被子植物高质量基因组组装，填补研究空白。",
+    "conclusion": "该计划采用PacBio HiFi与ONT长读长测序，对29种具有进化、文化、生物地理或保护意义的澳大利亚被子植物进行基因组组装，获得接近端粒到端粒的完整基因组，并完成质体、线粒体基因组及基因注释与重复序列分析，为进化、保护、功能适应和比较基因组学研究提供重要资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42275087",
+    "title": "An annotated, chromosome-level genome for the spotted turtle, Clemmys guttata",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "The Journal of heredity",
+    "authors": "Krueger CJ, Cooper RD, Sethuraman A, Shaffer HB.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42275087",
+    "doi": "10.1093/jhered/esag049",
+    "pmid": "42275087",
+    "abstract": "The spotted turtle (Clemmys guttata) is the sole extant member of the genus Clemmys and can be found in shallow wetlands across eastern North America. In recent decades, habitat alterations and poaching have reduced spotted turtle populations by more than 50% range-wide, resulting in federal protection in Canada and state-level protection within the United States. Here, we provide an annotated, chromosome-level assembly of C. guttata derived from long- and ultra-long read data as an addition to the conservation genomics resources for the species. The assembly comprises 2,286,936,868 base pairs, 98.5% of which are assembled in 25 contigs, consistent with published karyotypic data (n = 25) and including 16 gapless, telomere-to-telomere chromosome sequences. BUSCO scores indicate a highly complete assembly (99.4%). Annotation of the genome yielded 21,335 protein-coding genes with a BUSCO completeness score of 98.4%. Comparisons with a separate assembly derived from long-read and Hi-C data showed that substituting ultra-long for Hi-C sequencing can improve telomere assembly and reduce structural errors in this taxon at the cost of reduced haplotype phasing, though primary assemblies are highly syntenic overall. PSMC analyses of both assemblies independently revealed a long, essentially identical history of population declines in spotted turtles. Coupled with range-wide genomic sampling, these resources will provide critical data to understand genetic structure, patterns of local adaptation, and demographic history in this species and help stem additional declines.",
+    "species_latin": "Clemmys guttata",
+    "species_en": "Spotted turtle",
+    "species_zh": "斑点龟",
+    "takeaway": "研究用长读与超长读数据组装出斑点龟染色体级注释基因组，含16条端粒到端粒完整染色体。",
+    "conclusion": "该染色体级基因组高度完整（BUSCO 99.4%），注释到21,335个蛋白编码基因；用超长读替代Hi-C可改善端粒组装并减少结构错误，但单倍型定相能力下降；两套组装均独立揭示斑点龟长期且一致的种群下降历史，为保护基因组学提供关键资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42980366",
+    "title": "RtmR is a membrane-embedded RRM family RNA-binding protein",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "mBio",
+    "authors": "Vander Griend JA, Ludvik DA, Nottage HC, Mehle A, Mandel MJ.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42980366",
+    "doi": "10.1128/mbio.01960-26",
+    "pmid": "42980366",
+    "abstract": "The animal symbiont Vibrio fischeri has served as a model organism for molecular processes underlying bacterial group behaviors, including quorum sensing, and biofilm development. Here, using a genetic approach to identify negative regulators of biofilm formation in V. fischeri , we identified a membrane-bound RNA-binding protein, RtmR (VF_2432), that acts as an inhibitor of the symbiosis polysaccharide (SYP) biofilm. Membrane localization of the protein seems to be required for protein stability or expression, as truncation of the transmembrane helices led to an inability to detect the protein. The conserved RNP1 and RNP2 motifs in RtmR's cytoplasmic RNA recognition motif (RRM) domain are required for function, and we demonstrate binding to RNA substrates. Identification of RtmR RNA ligands was conducted with an individual-nucleotide resolution crosslinking and immunoprecipitation sequencing (iiCLIP-seq) approach that revealed a large interactome. One transcript identified was that of the biofilm regulatory histidine kinase RscS. We found that RtmR biofilm inhibition depends on RscS activity, and that RtmR negatively regulates levels of RscS. Overall, this work characterizes a novel type of bacterial RNA-binding protein.IMPORTANCEBacterial RNA-binding proteins (RBPs) perform key functions to regulate stress responses and development. Bacterial RBPs, including the RNA chaperones Hfq and ProQ, the global regulator CsrA, and the cold shock proteins (Csps), have been extensively studied, although additional classes of RBPs have been predicted by bioinformatic methods, including those carrying an RNA recognition motif (RRM) domain. This work expands on recent studies of RRM domain proteins in bacteria to characterize a membrane-bound RRM protein that regulates bacterial biofilm development. Given our rapidly expanding knowledge regarding the role of RNA-binding proteins in bacterial molecular biology, this work contributes a new class of membrane-bound regulators with homologs in human pathogens and marine symbionts.",
+    "species_latin": "Vibrio fischeri",
+    "species_en": "Vibrio fischeri",
+    "species_zh": "费氏弧菌",
+    "takeaway": "费氏弧菌膜结合RRM蛋白RtmR通过结合RNA并下调RscS激酶抑制SYP生物膜形成。",
+    "conclusion": "RtmR是新型膜嵌入RRM家族RNA结合蛋白，其跨膜区维持蛋白稳定，胞质RRM结构域的RNP1/RNP2基序为功能所必需；iiCLIP-seq揭示其广泛RNA互作组，其中RscS转录本为关键靶标，RtmR依赖RscS活性负调控其水平从而抑制SYP生物膜，拓展了细菌RNA结合蛋白类别。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42979747",
+    "title": "Holistic integration of protein interaction datasets establishes a framework for exploring the organization and composition of Caenorhabditis elegans germ granules",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Genetics",
+    "authors": "Wills C, Ashe A.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42979747",
+    "doi": "10.1093/genetics/iyag305",
+    "pmid": "42979747",
+    "abstract": "Spatiotemporal organization of biological molecules is a key driver of cellular processes, including many post-transcriptional epigenetic processes. The germline-specific germ granules are biomolecular condensates that act as hubs for mRNA and small RNA processing and are core regulators of germline gene expression programming. Germ granules have been studied extensively in Caenorhabditis elegans, and recent developments have led to many subdivisions of the germ granule into specialized compartments. Rapid advancements in microscopy and protein-protein interaction (PPI) screening techniques have produced a large amount of data towards characterizing the localization of proteins to specific granules. However, common methods used to probe PPIs are limited in their ability to robustly detect valid interactions, especially the multivalent and sometimes transient ones observed in granule environments. Here we perform a meta-analysis of granule protein interaction screens. While these experiments generally enrich for proteins matching the profile of granule-associated proteins, we find that when considering screens individually, reproducibility is surprisingly low, highlighting not only the variability inherent in these methods but also the dynamic nature of the PPI networks present in granules. We developed an algorithm to provide a measure of each protein's association with specific granules across various experiments (a \"granule association metric\" or GAM). By further clustering and investigation of the GAM matrix, we demonstrate the power of this holistic approach to provide deeper insights into germ granule organization, highlight novel candidates, and act as a resource to inform future investigations into granules and their constituent proteins.",
+    "species_latin": "Caenorhabditis elegans",
+    "species_en": "Caenorhabditis elegans",
+    "species_zh": "秀丽隐杆线虫",
+    "takeaway": "整合线虫生殖颗粒蛋白互作数据发现单次筛选重复性低，提出GAM指标揭示颗粒组织与新候选蛋白",
+    "conclusion": "单次蛋白互作筛选重复性有限，反映方法变异与颗粒内互作网络的动态性；跨实验整合的GAM指标可刻画蛋白与特定颗粒的关联，聚类分析深化了对生殖颗粒组成与组织的理解，并提示新候选蛋白，为后续研究提供资源。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "title-sublethalinsecticideexposureandinbreedingimposeadevelopmenta",
+    "title": "Sublethal insecticide exposure and inbreeding impose a developmental bottleneck but enhance crop-damaging traits in surviving Colorado potato beetles",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Royal Society open science",
+    "authors": "Nariman N, Agarwal H, Xu S.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Leptinotarsa decemlineata",
+    "species_en": "Colorado potato beetle",
+    "species_zh": "科罗拉多马铃薯甲虫",
+    "takeaway": "亚致死杀虫剂暴露与近交使科罗拉多马铃薯甲虫发育受限，但存活个体危害作物能力增强",
+    "conclusion": "亚致死杀虫剂暴露和近交共同造成科罗拉多马铃薯甲虫发育瓶颈，但存活个体在作物危害相关性状上表现更强，提示此类胁迫可能筛选出更具破坏力的个体，对害虫治理有警示意义。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42980637",
+    "title": "Highly polar pesticides and their metabolites in diverse foods including tea: analytical methods with LC-MS/MS and risk assessment",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Analytical methods : advancing methods and applications",
+    "authors": "Lin S, Yang H, Xu Y, Yang Y, Qi Q, Wang L, Xu Y, Liu X, He Z, Geng Y.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42980637",
+    "doi": "10.1039/d6ay01168c",
+    "pmid": "42980637",
+    "abstract": "To address growing safety concerns over highly polar pesticide residues in agricultural products, this study developed an efficient method for the simultaneous determination of glyphosate, glufosinate-ammonium, ethephon, and their key metabolites (AMPA, N -acetyl AMPA, N -acetyl glyphosate, N -methyl glyphosate, MPPA, and N -acetyl glufosinate) in thirteen food matrices using a novel ion chromatography column coupled with LC-MS/MS. Sample preparation employs pure water as the sole extraction solvent, followed by Oasis HLB SPE cleanup, thus completely eliminating organic reagents throughout the entire procedure. The method was fully validated across representative matrices, including vegetables, fruits, edible fungi, sugarcane, tea, and spices, showing excellent linearity ( R > 0.992), acceptable recoveries (81.3-125.5%), and intra- and inter-day relative standard deviations (RSDs) ≤ 15%. The limit of quantification (LOQ) was 0.05 mg kg -1 for all analytes, meeting the maximum residue limits established by Codex Alimentarius and national regulatory bodies. Application to tea infusion analysis revealed that the first brew removed 56.5-99.2% of the total residues from dry tea, and a subsequent worst-case dietary risk assessment indicated that the resulting risk quotients were orders of magnitude below 1, implying negligible health risks. This sustainable method not only provides reliable technical support for routine monitoring and food safety assurance but also provides scientific evidence supporting the practice of discarding the first tea infusion as an effective risk-reduction measure.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究建立离子色谱-串联质谱法同时测定13类食品中草铵膦、草甘膦、乙烯利及其代谢物，并评估茶叶冲泡风险。",
+    "conclusion": "纯水提取结合HLB固相萃取、无需有机溶剂的方法在蔬菜、水果、食用菌、甘蔗、茶叶和香料中验证良好，定量限0.05 mg/kg，满足最大残留限量要求；茶叶首泡可去除干茶总残留的56.5%–99.2%，最坏情形膳食风险商远低于1，健康风险可忽略，支持弃去首泡作为减风险措施。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42978549",
+    "title": "Structural replacement with persistent concentration in insecticide registrations for soil-dwelling pest control in China, 2005-2025",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Wang Z, Cui C, Li E, Dong H, Wang W, Yin J, Xiao C, Li K.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42978549",
+    "doi": "10.1002/ps.71440",
+    "pmid": "42978549",
+    "abstract": "Background Changes in insecticide registrations document chemical replacement, but do not necessarily indicate a less concentrated registration structure. We analyzed insecticides first approved in China during 2005-2025 for soil-dwelling pest control, linking products, crop-pest uses and active ingredients (AIs). Results The dataset comprised 1513 products, 1902 crop-pest use entries and 1879 product-AI entries. White grubs and Chinese chive gnats accounted for 43.6% and 17.5% of use entries, respectively. Registration composition shifted from acetylcholinesterase (AChE) inhibitors towards nicotinic acetylcholine receptors (nAChR)-acting insecticides, alongside changes in label toxicity classes. Based on the original IRAC designations, mode-of-action (MoA) diversity and evenness were generally higher after the early study period, but concentration periodically rebounded, whereas annual Top-3 and Top-5 AI shares ranged from 50% to 87%, and from 62.5% to 100%, respectively. Registration breadth and concentration differed among crop-pest systems. Mixture products collectively exceeded single-insecticide products in every annual cohort from 2020 onwards, whereas I + I products alone did so from 2021 onwards and increasingly involved combinations containing nAChR-acting insecticides. Conclusion Chemical replacement was accompanied by partial MoA diversification, persistent concentration and a marked shift towards mixture products in recent cohorts. Growth in product numbers was accompanied by chemical replacement and increasing prevalence of mixture products, but did not eliminate concentration at the AI or MoA level. Linking products, authorized uses and AIs can identify registration patterns that should be compared with current registration, pesticide-use and resistance data; it does not measure actual use, mixture performance or resistance status. © 2026 Society of Chemical Industry.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "2005-2025年中国防治土栖害虫的杀虫剂登记由胆碱酯酶抑制剂转向烟碱型受体作用剂，作用机制部分多样化但集中度持续存在，复配产品明显增多。",
+    "conclusion": "化学替代伴随作用机制部分多样化，但活性成分与作用机制层面的集中度并未消除，且近年复配产品占比显著上升；登记数量增长不等于结构分散，需结合登记、用药与抗性数据进一步比较。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42980428",
+    "title": "Odorant Binding Protein 39 Contributes to the Resistance of Bradysia odoriphaga to Phoxim",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Wang Q, Tan S, Zhu J, Zhang Y, Yang Y.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42980428",
+    "doi": "10.1021/acs.jafc.6c07536",
+    "pmid": "42980428",
+    "abstract": "Bradysia odoriphaga, a major soil-dwelling pest, has developed substantial resistance to numerous pesticides, severely limiting the efficiency of chemical control. Emerging evidence suggests that insect odorant binding proteins (OBPs) may contribute to insecticide resistance, yet their functional roles remain unclear. Here, we identified BodoOBP39 as a larval-specific and cuticle-enriched OBP in B. odoriphaga, which was significantly upregulated in the phoxim-resistant strain. Ligand-binding assays revealed that recombinant BodoOBP39 exhibited the highest binding affinity for phoxim. Three-dimensional modeling and site-directed mutagenesis demonstrated that single mutations (T59A, I62A, and S120A) and the double mutation T59A/S120A all substantially diminished phoxim-binding affinity, validating their critical roles. BodoOBP39 expression was further induced by sublethal phoxim exposure, and RNAi-mediated knockdown increased larval susceptibility to phoxim, suggesting its functional involvement in resistance. These findings advance our understanding of resistance evolution and propose BodoOBP39 as a promising molecular target for developing novel control strategies to manage B. odoriphaga.",
+    "species_latin": "Bradysia odoriphaga",
+    "species_en": "Chinese chive maggot",
+    "species_zh": "韭菜迟眼蕈蚊",
+    "takeaway": "韭菜迟眼蕈蚊幼虫表皮富集的BodoOBP39通过高亲和力结合辛硫磷并受其诱导，参与抗药性形成。",
+    "conclusion": "BodoOBP39是幼虫特异、表皮富集的气味结合蛋白，在辛硫磷抗性品系中显著上调，重组蛋白对辛硫磷亲和力最高；T59、I62、S120位点突变降低结合力，亚致死辛硫磷诱导其表达，RNAi敲低则提高幼虫对辛硫磷的敏感性，表明其功能参与抗性，可作为新治理策略的分子靶标。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42980396",
+    "title": "Chemosensory Protein 10 (CSP10) Is Involved in Resistance to Chlorantraniliprole in Spodoptera frugiperda",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Xu D, Guo Z, Xia G, Ling S, Zhang G, Tian X, Ma K.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42980396",
+    "doi": "10.1021/acs.jafc.6c09395",
+    "pmid": "42980396",
+    "abstract": "Spodoptera frugiperda, an economically important agricultural pest, has developed high resistance to chlorantraniliprole, yet mechanisms beyond metabolic detoxification and target-site mutations remain unclear. Chemosensory proteins (CSPs) have emerged as novel contributors to insecticide resistance via direct sequestration. Here, the transcript abundance of 22 CSPs was evaluated in susceptible (SS) and chlorantraniliprole-resistant (CAP-RR) strains of S. frugiperda using transcriptomics and RT-qPCR. Results showed that CSP10 was notably upregulated in the CAP-RR strain and inducible by the insecticide exposure. RNAi-mediated silencing of CSP10 significantly increased larval susceptibility to chlorantraniliprole. Fluorescence binding assays confirmed strong affinity between CSP10 and chlorantraniliprole. Molecular docking and dynamics further revealed the binding interaction primarily via van der Waals forces. Site-directed mutagenesis coupled with computational alanine scanning revealed Phe6, Ile17, Tyr21, Val25, and Phe38 as critical residues for the interaction. Collectively, our findings establish CSP10 as a key mediator of chlorantraniliprole resistance, offering a promising target for resistance management strategies.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "草地贪夜蛾CSP10通过结合氯虫苯甲酰胺增强抗药性，是关键抗性因子。",
+    "conclusion": "CSP10在抗性品系中上调且可被药剂诱导，沉默后幼虫对氯虫苯甲酰胺更敏感；荧光结合、分子对接与突变实验表明其以范德华力为主结合药剂，Phe6、Ile17、Tyr21、Val25和Phe38为关键位点，提示CSP10是抗性治理的潜在靶标。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42978044",
+    "title": "Rational pesticide design is now more feasible than ever - but what targets and molecules to choose?",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Gressel J, Duke SO.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42978044",
+    "doi": "10.1002/ps.71458",
+    "pmid": "42978044",
+    "abstract": "Modern computational approaches allow the design of pesticides that act on any molecular target, but the choice of a new molecular target or targets for discovery is critical to the success of the resulting small-molecule pesticides. This Perspective discusses what properties should be considered when choosing molecular targets and what molecular properties of the pesticide should be avoided in order to postpone the evolution of non-target-site resistance. Several criteria are discussed: (i) choose targets that cannot be circumvented; (ii) design pesticides to target more than one protein, either different molecular targets or protein-protein interactions, in order to preclude the evolution of target-site resistance; (iii) choose targets that are low in quantity; (iv) choose targets where the binding domain is dissimilar to that in mammals; (v) choose targets that result in toxic compound accumulation when inhibited; (vi) choose targets with sufficient similarity in groups of pests; and (vii) avoid chemical scaffolds that are easily degraded to delay metabolic resistance. It is important to ascertain in advance that incomplete inhibition of the target enzyme results in pest death. Using these criteria can lead to new pesticides that are more likely to have a long market life. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出选择农药分子靶标与分子特性的七项准则，以延缓抗性并延长新农药市场寿命",
+    "conclusion": "现代计算手段使针对任意分子靶标设计农药成为可能，但成败取决于靶标与分子选择。作者提出七条准则：选不可绕过的靶标、多靶标或蛋白互作设计、低丰度靶标、与哺乳动物结合域差异大的靶标、抑制后致毒物积累的靶标、害虫类群间足够相似的靶标，并避免易降解化学骨架；还需预先确认靶酶不完全抑制即可致死，从而延缓靶标与代谢抗性、延长产品市场寿命",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42977996",
+    "title": "From Pesticide Exposure to Persistent Molecular Damage: An Integrated Framework of Genomic Instability, Epigenetic Dysregulation, and Long-Term Toxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Jalali A, Shahmohammadi S, Zolfaghary H.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42977996",
+    "doi": "10.1002/jat.70493",
+    "pmid": "42977996",
+    "abstract": "Pesticide toxicity is increasingly recognized as a chronic and mechanistically complex process extending beyond acute tissue injury. Evidence concerning cellular stress, genotoxicity, epigenetic alterations, susceptibility, and mixture effects has often been evaluated separately, limiting unified interpretation of persistent biological consequences. This review integrates experimental, epidemiological, and mechanistic evidence using an adverse outcome pathway (AOP)-informed framework to organize pesticide-associated molecular initiating events (MIEs), key events (KEs), key event relationships (KERs), and adverse outcomes (AOs), while distinguishing established AOPs from mechanistically plausible AOP-informed modules. We examine interconnected oxidative, mitochondrial, calcium, endoplasmic reticulum, genomic, and epigenetic responses, with particular emphasis on bidirectional crosstalk between mitochondrial metabolism, redox signaling, and epigenetic regulation. Genetic susceptibility and combined pesticide exposure are also considered as modifiers of these relationships and of the persistence and biological significance of molecular changes. Particular attention is given to transient epigenetic responses, persistent epigenetic alterations, intergenerational effects, and true transgenerational inheritance, for which human evidence remains limited. Rather than assuming a single linear pathway, the review highlights convergent and branching relationships in which different pesticide classes may initiate distinct molecular events affecting overlapping downstream KEs. Molecular associations are not considered evidence of causal KERs without appropriate support from biological plausibility, temporal and dose-response concordance, mechanistic evidence, essentiality, and applicability. The review further considers how multi-omics approaches, including MOFA/MOFA+, mixOmics, weighted gene co-expression network analysis (WGCNA), and relevant toxicology/data resources, together with exposure assessment, chemical grouping, read-across, and cumulative-risk approaches, can provide complementary evidence within an AOP-informed framework. The contribution of this review lies primarily in integrating and organizing existing evidence rather than proposing a new toxicological mechanism, AOP, or regulatory framework. Future toxicological strategies should integrate longitudinal evidence, susceptibility factors, exposure mixtures, and quantitative dose-response information to evaluate candidate KEs, their relationships, and relevance to AOs.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述以AOP框架整合农药暴露的基因组不稳定、表观遗传失调与长期毒性证据",
+    "conclusion": "农药毒性是涉及氧化应激、线粒体、钙信号、内质网、基因组与表观遗传等多通路交互的慢性复杂过程，不同类别农药可经不同分子起始事件汇聚于共同下游关键事件；表观遗传改变可短暂或持久并可能跨代传递，但人类证据有限；多组学与暴露评估、化学分组、read-across及累积风险评估可在AOP框架下提供互补证据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42977239",
+    "title": "Illumination selectively strenghens performances of nitrification inhibitor in reducing mixed pesticide residues and nitrous oxide emissions: a tradeoff effect",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Zhang M, Zhou M, Guo T, Efrizal E, Hayati I, Wang Y, Liu F.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42977239",
+    "doi": "10.1016/j.envres.2026.126086",
+    "pmid": "42977239",
+    "abstract": "Pesticides and nitrous oxide (N 2 O) emissions are critical concerns in agricultural systems. Soil nitrogen management could promote pesticide degradation and reduce N 2 O emissions, and dicyandiamide (DCD) is one of the most widely used nitrification inhibitors. The illumination can serve as a crucial mechanism for degrading various pesticides, and the effects of nitrification inhibitors on the soil nitrogen cycle might vary with different illumination conditions. This study investigated the combined effects of DCD and illumination on mixed pesticide residues (carbendazim and paclobutrazol) and N 2 O emissions in soil. Under illumination, DCD application significantly reduced soil carbendazim residues. Meanwhile, the DCD application substantially reduced the N 2 O emission rates by 27% and 13% under dark and illuminated conditions on day 28, respectively. Paclobutrazol residues did not show a detectable response to DCD or illumination during the incubation. Lower carbendazim residues in DCD-treated soil co-occurred with higher soil pH and microbial biomass carbon, greater chitinase activity, and shifts in bacterial taxa and the relative abundances of N-metabolism genes, including norB/C, gdhA/B, and gltS. The illumination augmented DCD's ability to accelerate carbendazim dissipation but impaired the DCD's ability to inhibit the N 2 O emission rates. Meanwhile, illumination concided with higher relative abundances of nitrification-related amoA/B/C and hao genes and a lower proportion of N 2 O-reduction gene nosZ. Under the tested experimental conditions,the illumination could selectively strenghen the performances of nitrification inhibitor in reducing mixed pesticide residues and N 2 O emissions. The tradeoff between carbendazim dissipation and N 2 O emissions should be considered when utilizing the illumination to strengthen the performance of nitrification inhibitors to promote pesticide dissipation.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "光照下DCD更能促进多菌灵降解，却削弱其抑制N2O排放的能力，呈现权衡效应",
+    "conclusion": "双氰胺在光照条件下可显著加速土壤中多菌灵残留的消解，但光照同时削弱了其降低N2O排放的效果；这一权衡与土壤pH、微生物生物量碳、几丁质酶活性及氮代谢相关基因丰度变化有关，提示利用光照强化硝化抑制剂促降解功能时需权衡N2O减排效益。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42977235",
+    "title": "Urinary biomarkers of organophosphates, pyrethroids, neonicotinoids and cognitive performance in adolescents and young adults in agricultural communities in Ecuador",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Parajuli RP, Gould CF, Kayser G, Moore RC, Adira N, Lopez-Paredes D, Suarez-Torres J, Chronister BNC, Suarez-Lopez JR.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42977235",
+    "doi": "10.1016/j.envres.2026.126089",
+    "pmid": "42977235",
+    "abstract": "Background As pesticide use shifts from organophosphates toward pyrethroids and neonicotinoids, few studies have used biomarkers of several pesticide classes to examine cognition in adolescents and young adults, particularly in agricultural communities. Methods We conducted a cross-sectional analysis of 491 participants (50% female; mean age 20.3 years) from the ESPINA cohort in agricultural communities of highland Ecuador in 2022. One first-morning urine sample per participant was analyzed for organophosphate, pyrethroid, and neonicotinoid metabolites and the herbicide 2,4-D. Cognition was assessed with the NIH Toolbox Cognition Battery. Covariate-adjusted robust regression examined associations of individual biomarkers and pesticide-class summary scores with cognitive outcomes; quantile g-computation evaluated biomarker mixtures. We also explored differences by sex. Results Twelve of the 120 exposure-outcome associations were statistically significant at p 2x = -1.12; 95% CI: -2.03, -0.22) and Total (β 2x = -0.68; -1.27, -0.09) Cognition Composites. Most associations involved organophosphates, particularly 3,5,6-trichloro-2-pyridinol (TCPy), and measures of fluid cognition and executive function (organophosphate summary score: Dimensional Change Card Sort β 2x = -0.56; Flanker Inhibitory Control and Attention, β 2x = -0.56). Mixtures were not associated with cognition in the full sample. In exploratory analyses, neonicotinoid biomarkers showed sex-divergent associations, positive in females (crystallized cognition, vocabulary and episodic memory) but null or inverse in males, and organophosphate mixture associations appeared stronger in males. Conclusions This study provides evidence that higher urinary organophosphate metabolite concentrations may be associated with lower cognitive performance, particularly in fluid cognition and executive function. Exploratory analyses suggested sex-specific patterns for neonicotinoid biomarkers, including positive associations with crystallized cognition and memory among females, consistent with our earlier findings in this cohort during adolescence. Replication in other populations is warranted.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人类",
+    "takeaway": "厄瓜多尔农业社区青年尿中有机磷代谢物浓度较高与流体认知和执行功能得分较低相关。",
+    "conclusion": "尿中有机磷代谢物（尤其TCPy）水平较高与青少年和青年流体认知及执行功能表现较差相关；新烟碱类标志物呈现性别差异，女性中与晶体认知和记忆正相关，男性中无关联或呈反向关联；农药混合物在全样本中与认知无显著关联，结论需在其他人群中验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42977230",
+    "title": "Polyketides with growth-promoting, insecticidal and antifungal activities from the sequential co-culture of Cladosporium sp. and Torula mackenziei associated with tissue-cultured seedlings of Nicotiana tabacum L",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Phytochemistry",
+    "authors": "Sun J, Chen J, Zhu Y, Tu Y, Yang X, Yang Y, Ding Z.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42977230",
+    "doi": "10.1016/j.phytochem.2026.115136",
+    "pmid": "42977230",
+    "abstract": "Eight undescribed polyketides, including two sulfur-containing 12-membered lactones, cladotorides A-B (1-2), three γ-butyrolactones, cladotorides C-E (3-5), two dodecanoic acid derivatives, cladotorides F-G (6-7), one farnesylcyclohexenone, cladotoride H (8), and ten known compounds (9-18), were isolated from the sequential co-culture of endophytic fungi Cladosporium sp. and Torula mackenziei derived from tobacco tissue-cultured seedlings. The structures and configurations were established by analysis of NMR, HRESIMS, DP4+ probability analyses, ECD calculation, and Mosher's method. HPLC analysis indicated that compounds 2, 8, 9, and 17 were only detected in the co-culture, and 9 exhibited 92% mortality against Myzus persicae at 200 μg/mL. Compounds 2, 9, and 16 showed triple agricultural activities: plant growth promotion, insecticidal and antifungal activities. Compound 16 increased the shoot length of tobacco seedlings by 61% at 5 μg/mL. Compounds 1-3, 9, 14, and 18 showed antifungal activity against Nigrospora oryzae and Corynespora sp., with MIC values of 1-4 μg/mL.",
+    "species_latin": "Nicotiana tabacum",
+    "species_en": "Tobacco",
+    "species_zh": "烟草",
+    "takeaway": "烟草组培苗内生真菌共培养产生8个新聚酮，其中多个兼具促生、杀虫和抗真菌活性。",
+    "conclusion": "共培养可诱导产生单独培养时未检出的化合物；化合物2、9、16具促植物生长、杀虫和抗真菌三重活性，9对桃蚜死亡率达92%，16使烟草苗茎长增加61%，部分化合物对稻黑孢和棒孢菌MIC为1–4 μg/mL。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42977106",
+    "title": "Toxicity Profile of Three Essential Oils and Biochemical Alterations in Apis mellifera intermissa: Implications for Biopesticide Safety",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology and pharmacology",
+    "authors": "Feloussi I, Alkassab AT, Chahbar N, Abdellaoui K, Boughettas I, Gaida S, Acheuk F, Ghaffar I, Mohammedi A.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42977106",
+    "doi": "10.1016/j.etap.2026.105226",
+    "pmid": "42977106",
+    "abstract": "Essential oils (EOs) are increasingly promoted as eco-friendly biopesticides, but their risks to pollinators remain poorly studied. This study evaluated the acute oral and contact toxicity, and biochemical responses including (AChE, CAT, GST, and MDA) of three Algerian medicinal plant EOs, i.e., Lavandula stoechas, Artemisia absinthium, and Mentha rotundifolia, on Apis mellifera intermissa worker bees, alongside their chemical composition determined by GC-MS. Significant EO dependent differences were evident, with M. rotundifolia exhibiting the highest toxicity in both exposure routes, reaching 85% mortality at 24h exposure, In contrast, L. stoechas and A. absinthium EOs did not induce significant mortality. Artemisia absinthium EO inhibited AChE activity, while Mentha rotundifolia and Lavandula stoechas EOs increased it. All EOs inhibited CAT and GST activities, with contrasting effects on MDA. These findings demonstrate the role of further biomarkers, rather than only toxicity, in the risk characterisation of EOs for comprehensive pollinator safety assessments.",
+    "species_latin": "Apis mellifera intermissa",
+    "species_en": "Honey bee (Tunisian subspecies)",
+    "species_zh": "蜜蜂（突尼斯亚种）",
+    "takeaway": "三种精油对蜜蜂毒性差异明显，薄荷精油最毒，且均改变酶与氧化应激指标。",
+    "conclusion": "三种精油对蜜蜂的毒性和生化影响因种类而异：薄荷精油经口与接触毒性最高，24小时死亡率达85%；薰衣草和苦艾精油未引起显著死亡。苦艾精油抑制AChE，另两种则增强其活性；三者均抑制CAT和GST，对MDA影响不一。提示精油对传粉昆虫的风险评估不能只看致死性，还应纳入生化标志物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261103-7810a74634",
     "title": "Chlorpyrifos Pesticide Exposure Detected in Infants, Raising New Neurotoxicity Concerns",
     "type": "news",
@@ -80,7 +499,7 @@
     "keywords": [
       "昆虫性别决定演化机制"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -106,7 +525,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42978894",
+    "title": "New Genomic Resources for an Invasive Mite Pest Expand the Known Diversity of Pesticide Resistance Mechanisms and Guide Development of KASP Diagnostic Markers",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Evolutionary applications",
+    "authors": "Thia JA, Richardson K, Brown C, Arthur A, Micic S, Lord A, Young ND, Sumanam SB, Chang J, Chang BCH, Wei S, Gasser RB, Schmidt TL, Umina PA, Hoffmann AA.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42978894",
+    "doi": "10.1111/eva.70344",
+    "pmid": "42978894",
+    "abstract": "The redlegged earth mite, Halotydeus destructor , is an invasive pest of grain and pasture crops in Australia. Australian populations are increasingly developing resistance to broad-spectrum pesticides. Here, we assembled a chromosome-level genome for H. destructor , comprising nine chromosomes and totalling approximately 46 Mb. We also generated a genomic dataset from 190 populations collected across thousands of kilometres of its invasive Australian range and across 4 years (2018, 2021, 2022 and 2023), and used this dataset to develop KASP (Kompetitive allele-specific PCR) markers for identifying resistance mutations. We combined pooled whole-genome sequencing with resistance testing for organophosphate pesticides, chlorpyrifos and omethoate, and the pyrethroid pesticide, bifenthrin. Target-site resistance to chlorpyrifos was strongly associated with the common ace G119S mutation. A second mutation, ace A201S, was also common, although its association with chlorpyrifos or omethoate resistance was less clear. Target-site resistance to bifenthrin was strongly associated with the common para L1024F mutation. We also detected several rare target-site mutations that likely contribute to resistance in specific populations, including F331Y in ace , and M918T, M918V, L925I, F1020S and F1538I in para . Copy number variation in ace showed mixed associations with resistance, potentially reflecting the co-occurrence of variable gene copies and target-site mutations segregating within and among populations. Finally, we observed putative compositional and structural differences in genomic regions containing carboxylesterases with high ace -like homology, a group of genes that might be involved in organophosphate metabolism. This study advances the genomic and molecular resources available for H. destructor , and represents the most comprehensive investigation to date of resistance mechanisms and their spatiotemporal distribution in this invasive pest. Our data showed that pesticide resistance in H. destructor likely involves many genes. Nevertheless, target-site mutations are likely to remain key markers for rapid resistance diagnostics, for which our KASP markers will provide valuable tools.",
+    "species_latin": "Halotydeus destructor",
+    "species_en": "redlegged earth mite",
+    "species_zh": "红足地螨",
+    "takeaway": "红足地螨染色体级基因组与190个种群数据揭示多种杀虫剂抗性突变，并开发KASP诊断标记。",
+    "conclusion": "红足地螨对有机磷和拟除虫菊酯的抗性主要由ace G119S和para L1024F等靶标位点突变驱动，另存在多种稀有突变及羧酸酯酶基因区域变异，抗性涉及多基因；KASP标记可用于快速抗性诊断。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -287,6 +732,32 @@
     "conclusion": "在表达Mpp75Aa1.1或Vpb4Da2的玉米上连续选育，分别于第13代和第14代获得稳定抗性品系；抗性品系在相应蛋白饲料上存活率高，Mpp75Aa1.1抗性倍数约5倍，Vpb4Da2抗性品系则完全无死亡率，显示高水平抗性；两种抗性均随剂量增加由半显性趋于不完全隐性，有效显性度约0.23和0.24。这些品系可用于评估田间抗性风险。",
     "keywords": [
       "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42979777",
+    "title": "Telomere-to-telomere genome assembly of the endangered Jacktree (Sinojackia xylocarpa Hu) reveals its centromeric landscape and evolutionary dilemma as a small population",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "The Plant journal : for cell and molecular biology",
+    "authors": "Liang SD, Zheng SS, Wu L, Liu A, Meng HH, Jiang Y, Wang ZW, Ge BJ, Zou WL, Wan Q, Dai XL, Kozlowski G, Li NW, Yan XL, Song YG.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-05",
+    "url": "https://europepmc.org/article/MED/42979777",
+    "doi": "10.1111/tpj.71186",
+    "pmid": "42979777",
+    "abstract": "The endangered status of many plant species is often attributed to a decline in fitness, which drives a sustained decrease in population size under natural conditions. However, the role of highly repetitive genomic regions in the decline of endangered plants remains poorly understood. Here, we present the gap-free telomere-to-telomere (T2T) reference genome for the endangered Jacktree (Sinojackia xylocarpa Hu). It has a genome size of 961.94 Mb, an N50 of 78.05 Mb, and 36 446 predicted protein-coding genes. Using CENH3 chromatin immunoprecipitation sequencing (ChIP-seq), we identified centromeric regions across all 12 chromosomes and revealed that S. xylocarpa centromeres are composed of diverse transposable element (TE) families, with long terminal repeat (LTR) retrotransposons and LINE elements as major components. Notably, the right arm of chromosome 1 exhibited ectopic CENH3 enrichment and a TE accumulation similar to that of centromeric regions, suggesting the formation of a centromere-like chromatin domain. In addition, we detected inversion polymorphisms and inversion heterozygotes in natural populations, predominantly concentrated on the same chromosomal arm. These features may be associated with meiotic abnormalities. Using a high-quality T2T genome assembly, we identified a pattern of genomic erosion facing these small populations characterized by local suppression of recombination linked LTR proliferation and by the accumulation of deleterious mutations in DNA repair genes. This genomic erosion creates an evolutionary dilemma that impairs the purging of deleterious alleles, ultimately threatening long-term adaptability and survival. This study highlights the utility of T2T genome assembly for the conservation of endangered plants.",
+    "species_latin": "Sinojackia xylocarpa",
+    "species_en": "Jacktree",
+    "species_zh": "秤锤树",
+    "takeaway": "研究用T2T基因组和CENH3 ChIP-seq揭示濒危秤锤树着丝粒由多种转座子构成，并发现小种群基因组侵蚀导致演化困境",
+    "conclusion": "该研究完成濒危秤锤树无间隙T2T参考基因组，明确12条染色体着丝粒以LTR反转座子和LINE元件为主，1号染色体右臂出现异位CENH3富集及类似着丝粒的TE聚集；自然群体存在倒位多态与杂合子，可能关联减数分裂异常。小种群中重组受抑、LTR增殖及DNA修复基因有害突变累积造成基因组侵蚀，削弱有害等位基因清除，威胁长期适应与生存。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
@@ -22559,6 +23030,35 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260412-0ecce0d630",
+    "title": "AI for plant protein–protein interactions prediction - Deng - 2026 - The Plant Journal",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Wiley Online Library",
+    "authors": "",
+    "publish_date": "2026-04-12",
+    "added_at": "2026-11-05",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zSEV4cGVMWVJ3TG9wN0RadkN0aFdLVkJRanRCU3pxTlpjYXJpWjBnNXVQN0FSM2ltQ2J6aUZZbkIxcmFMUnRPcjRnc0JmUTE0UlVFSGdiQjhDVmRqY3lXTGI1UQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述AI方法在植物蛋白质-蛋白质相互作用预测中的应用。",
+    "conclusion": "该文献聚焦人工智能技术在植物蛋白质-蛋白质相互作用预测中的应用,属于方法学综述,旨在梳理相关计算预测手段;因无摘要,具体结论与机制无法确定。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
