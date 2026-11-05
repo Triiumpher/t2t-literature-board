@@ -1,0 +1,36 @@
+[
+  {
+    "id": "manual-20261106-faw-ugt-cluster",
+    "title": "Agriculture Communications | 揭示草地贪夜蛾UGT基因簇功能分化驱动杀虫剂耐受与寄主适应",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农业科学院草原研究所官网",
+    "authors": "",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-06",
+    "url": "https://gri.caas.cn/xwdt/zhdt2/c747eb6633814f54b88365270ae1fbf7.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院草原研究所联合深圳农业基因组所、南京农业大学等在 Agriculture Communications 发表研究，通过基因组分析发现草地贪夜蛾47个UGT基因中29个（61.7%）呈簇状分布；结合纳米材料增强RNAi、CRISPR/Cas9敲除及生物测定，证实UGT-C1基因簇主要参与杀虫剂耐受，UGT-C2、UGT-C3分别参与对水稻和玉米的寄主适应。重组蛋白酶活与质谱分析显示UGT33B25/UGT33B26高效催化植物黄酮糖基化，UGT40M12/UGT40R18对黄酮类物质代谢活性较高。",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "串联重复形成的UGT基因簇通过功能分化，使草地贪夜蛾同时获得杀虫剂代谢与寄主植物黄酮解毒能力，为抗药性治理与绿色防控提供新靶点。",
+    "conclusion": "UGT基因簇的功能分化形成了针对不同化学物质的多样化解毒体系：UGT-C1主导杀虫剂耐受，其余基因簇支撑寄主适应；这揭示了入侵害虫寄主适应与杀虫剂耐受协同演化的分子基础，为靶向解毒酶的抑制剂开发和抗性管理提供依据。",
+    "keywords": [
+      "杀虫剂耐受",
+      "抗药性",
+      "UGT",
+      "UDP-糖基转移酶",
+      "解毒代谢",
+      "RNAi",
+      "CRISPR/Cas9",
+      "草地贪夜蛾",
+      "寄主适应",
+      "绿色防控",
+      "Agriculture Communications"
+    ]
+  }
+]
