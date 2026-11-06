@@ -1,0 +1,35 @@
+[
+  {
+    "id": "manual-20261107-ostrya-t2t",
+    "title": "濒危物种铁木（Ostrya rehderiana）首个端粒到端粒（T2T）基因组组装：濒危机制解析与保护实践启示",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261106000653307.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究结合 PacBio HiFi、ONT、Hi-C 与 Illumina 技术，完成极危植物铁木（Ostrya rehderiana）的首个端粒到端粒（T2T）基因组组装：基因组 353.42 Mb，contig N50 达 40.62 Mb，8 条无间隙染色体两端均检测到端粒重复，BUSCO 完整性 98.8%，注释 31,097 个蛋白编码基因。比较基因组分析发现其抗性基因家族显著扩张，迁地保护试验证实该物种仍具广泛环境适应潜力。",
+    "species_latin": "Ostrya rehderiana",
+    "species_en": "Zhejiang hop-hornbeam",
+    "species_zh": "铁木",
+    "takeaway": "极危物种铁木的首个 T2T 基因组表明其濒危主因是历史种群收缩而非抗性基因丧失，为极小种群保护提供了高质量基因组依据。",
+    "conclusion": "8 条无间隙染色体的 T2T 组装揭示铁木经历第四纪冰期种群收缩、但保留了较高的抗逆与适应潜力；抗性基因家族扩张、无物种特异 WGD 事件，结合迁地保护存活率证据，支持以基因组信息指导其保护策略与迁地实践。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无缺口基因组",
+      "濒危植物",
+      "极小种群野生植物",
+      "铁木",
+      "桦木科",
+      "比较基因组",
+      "基因家族扩张",
+      "迁地保护"
+    ]
+  }
+]
