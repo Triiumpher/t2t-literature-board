@@ -1,5 +1,172 @@
 [
   {
+    "id": "manual-20261106-faw-ugt-cluster",
+    "title": "Agriculture Communications | 揭示草地贪夜蛾UGT基因簇功能分化驱动杀虫剂耐受与寄主适应",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农业科学院草原研究所官网",
+    "authors": "",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-06",
+    "url": "https://gri.caas.cn/xwdt/zhdt2/c747eb6633814f54b88365270ae1fbf7.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国农科院草原研究所联合深圳农业基因组所、南京农业大学等在 Agriculture Communications 发表研究，通过基因组分析发现草地贪夜蛾47个UGT基因中29个（61.7%）呈簇状分布；结合纳米材料增强RNAi、CRISPR/Cas9敲除及生物测定，证实UGT-C1基因簇主要参与杀虫剂耐受，UGT-C2、UGT-C3分别参与对水稻和玉米的寄主适应。重组蛋白酶活与质谱分析显示UGT33B25/UGT33B26高效催化植物黄酮糖基化，UGT40M12/UGT40R18对黄酮类物质代谢活性较高。",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "串联重复形成的UGT基因簇通过功能分化，使草地贪夜蛾同时获得杀虫剂代谢与寄主植物黄酮解毒能力，为抗药性治理与绿色防控提供新靶点。",
+    "conclusion": "UGT基因簇的功能分化形成了针对不同化学物质的多样化解毒体系：UGT-C1主导杀虫剂耐受，其余基因簇支撑寄主适应；这揭示了入侵害虫寄主适应与杀虫剂耐受协同演化的分子基础，为靶向解毒酶的抑制剂开发和抗性管理提供依据。",
+    "keywords": [
+      "杀虫剂耐受",
+      "抗药性",
+      "UGT",
+      "UDP-糖基转移酶",
+      "解毒代谢",
+      "RNAi",
+      "CRISPR/Cas9",
+      "草地贪夜蛾",
+      "寄主适应",
+      "绿色防控",
+      "Agriculture Communications"
+    ]
+  },
+  {
+    "id": "news-20261105-7bca9de21c",
+    "title": "Your daily chai and pesticide residues: Why FSSAI is proposing new limits for tea",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "CNBC TV18",
+    "authors": "",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-06",
+    "url": "https://www.cnbctv18.com/lifestyle/food-and-drinks/your-daily-chai-and-pesticide-residues-why-fssai-is-proposing-new-limits-for-tea-20027978.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Camellia sinensis",
+    "species_en": "Tea plant",
+    "species_zh": "茶树",
+    "takeaway": "印度FSSAI拟为茶叶设定农药残留新限值，回应日常饮茶安全关切",
+    "conclusion": "标题显示印度食品安全与标准局正提议针对茶叶制定新的农药残留限量标准，以应对饮茶中的农残暴露问题；具体限值、评估方法与科学依据尚待正文披露。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42986893",
+    "title": "Nitroxoline treatment of Balamuthia mandrillaris triggers genomic crisis, transcriptional collapse, and incomplete encystment via copper and iron chelation",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "PLoS pathogens",
+    "authors": "Marquis KA, Spottiswoode N, Detweiler AM, Neff N, DeRisi JL.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42986893",
+    "doi": "10.1371/journal.ppat.1014783",
+    "pmid": "42986893",
+    "abstract": "Balamuthia mandrillaris is a free-living amoeba that can infect the central nervous system to cause granulomatous amebic encephalitis (GAE), a fatal disease with mortality rates up to 90%. GAE is typically treated with a six-drug regimen with limited efficacy and significant toxicity. Our lab previously identified nitroxoline, a quinolone antibiotic, as a promising therapeutic complement to the existing regimen, and in 2021 nitroxoline was first successfully used to treat a human patient. In this study, we elucidate nitroxoline's mechanism of action using a combination of genomics, transcriptomics, chemical complementation, growth assays, and electron microscopy. In service of this goal, an annotated draft genome of B. mandrillaris strain CDC:V039 was generated using long read sequencing, yielding over 32,000 predicted protein coding sequences, the majority of which were present on telomere-to-telomere predicted chromosomal contigs. Leveraging this resource, comparative transcriptomics were used to characterize encystment responses to three different cellular stressors: nitroxoline, galactose, and hypoxia. Our findings reveal that nitroxoline-induced cysts undergo transcriptional collapse and genomic and structural destabilization via copper and iron chelation, and that preformed cysts are also disrupted by nitroxoline. These data provide insight into nitroxoline's multifaceted impact on B. mandrillaris growth and cellular processes and advance our understanding of the transcriptional landscape associated with stress induced encystment. Our findings support the continued clinical study of nitroxoline as a complement to the existing regimen.",
+    "species_latin": "Balamuthia mandrillaris",
+    "species_en": "Balamuthia mandrillaris",
+    "species_zh": "曼氏巴拉姆希阿米巴",
+    "takeaway": "硝基喹啉通过螯合铜铁破坏曼氏巴拉姆希阿米巴基因组与转录，致其成囊不全",
+    "conclusion": "研究借助长读长测序完成曼氏巴拉姆希阿米巴CDC:V039基因组草图，并结合比较转录组、化学互补、生长实验与电镜，发现硝基喹啉经铜、铁螯合引发转录崩溃及基因组与结构失稳，导致不完整成囊，且能破坏已形成的囊；支持其作为现有方案的辅助药物继续临床研究。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42984256",
+    "title": "Telomere-to-telomere assemblies of Glycine soja and Glycine max uncover novel genomic features of soybean",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "The Plant cell",
+    "authors": "Shen Y, Fang D, Zhang J, Huang Y, Wang X, Liu C, Chen T, Zhang Q, Tan X, Zheng M, Li S, Ma X, Yang C, Liu Y, Duan S, Ji A, Yang X, Shang J, Wei T, Tian Z.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42984256",
+    "doi": "10.1093/plcell/koag338",
+    "pmid": "42984256",
+    "abstract": "Achieving complete, gap-free genome assemblies remains a central challenge in genomics, particularly for repeat-rich plant genomes. Although several telomere-to-telomere (T2T) assemblies have been reported for soybean, highly repetitive genomic regions and the mitochondrial genome remain insufficiently resolved. Here, we assembled gap-free T2T nuclear genomes together with complete mitochondrial and chloroplast genomes for the wild soybean (Glycine soja) SoyW02 and the cultivated soybean (Glycine max) Zhonghuang 13. These assemblies substantially improved the resolution of repetitive genomic regions and enabled biological insights that were previously inaccessible. Comparative analyses uncovered a conserved subtelomeric exchange hub and refined the landscape of soybean satellite repeats, including pericentromere-enriched and chromosome-specific satellites. We further developed a de novo pipeline for identifying tandem duplication gene clusters, enabling systematic analyses of transcriptional and protein sequence divergence, and experimentally demonstrating expression and functional diversification between two duplicated oxidosqualene cyclases. Together, these assemblies establish a foundation for investigating the evolution and functional organization of repetitive genomic regions and will facilitate future soybean functional genomics and molecular breeding.",
+    "species_latin": "Glycine soja; Glycine max",
+    "species_en": "soybean",
+    "species_zh": "大豆（野生大豆与栽培大豆）",
+    "takeaway": "研究完成野生与栽培大豆无间隙T2T基因组及细胞器基因组，揭示重复区新特征与串联重复基因分化。",
+    "conclusion": "构建了野生大豆SoyW02和栽培大豆中黄13的端粒到端粒无间隙核基因组及完整线粒体、叶绿体基因组，显著提升重复区解析度；发现保守的亚端粒交换枢纽，细化卫星重复图谱，并建立串联重复基因簇鉴定流程，实验证实两个氧化鲨烯环化酶重复基因在表达与功能上发生分化，为大豆功能基因组学与分子育种奠定基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42985876",
+    "title": "TurboID proximity labeling combined with structure prediction identifies C3H61/AtTZF5 as a tail-binding protein of Arabidopsis class VIII myosin ATM1",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Plant & cell physiology",
+    "authors": "Nagata S, Sakuraba S, Mishiro-Sato E, Shimada TL, Oe Y, Tachibana K, Obara J, Uchida S, Tominaga M, Ito K, Haraguchi T.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42985876",
+    "doi": "10.1093/pcp/pcag155",
+    "pmid": "42985876",
+    "abstract": "Higher plants possess two classes of myosin molecular motors, class XI and class VIII, both unique to the plant lineage. The diverse cellular functions of class XI myosins, including organelle transport and nuclear positioning, have been elucidated largely through systematic identification of cargo adaptor proteins that bind to their globular tail domains (GTDs). In contrast, no proteome-wide screen for class VIII myosin tail-binding proteins has been reported; the few known interacting proteins were each discovered through studies focused on the binding partner rather than on the myosin itself, leaving the full repertoire of class VIII myosin-associated proteins largely unknown. Here, we employed TurboID-based proximity labeling to systematically identify proteins associated with the GTD of the class VIII myosin ATM1 in Arabidopsis thaliana, as this approach covalently biotinylates neighboring proteins in vivo, enabling their identification even after proteolytic degradation during cell lysis. We identified 233 non-redundant candidate ATM1-proximal proteins. Candidates were prioritized by AlphaFold3-based protein complex structure prediction and evaluated experimentally. By integrating AlphaFold3 prediction, co-immunoprecipitation, subcellular co-localization in living cells under stress, and structure-guided interface mutagenesis, we identified C3H61/AtTZF5 as an ATM1 tail-binding protein. C3H61/AtTZF5, a tandem CCCH zinc finger protein whose family members have been implicated in mRNA turnover, co-localized with the ATM1 tail in eIF4A2-positive granules under heat stress, and targeted substitutions at the AlphaFold3-predicted interface completely abolished the interaction. These findings strongly support a direct association between ATM1 and C3H61/AtTZF5, suggesting a possible link between this class VIII myosin and post-transcriptional gene regulation during stress responses.",
+    "species_latin": "Arabidopsis thaliana",
+    "species_en": "thale cress",
+    "species_zh": "拟南芥",
+    "takeaway": "用TurboID邻近标记结合AlphaFold3预测，在拟南芥中鉴定出VIII类肌球蛋白ATM1尾部结合蛋白C3H61/AtTZF5。",
+    "conclusion": "研究系统筛选到233个ATM1尾部邻近候选蛋白，并经结构预测、共免疫沉淀、胁迫下共定位及界面突变验证，确认C3H61/AtTZF5与ATM1尾部直接结合，且热胁迫下共定位于eIF4A2阳性颗粒，提示VIII类肌球蛋白可能参与胁迫下的转录后基因调控。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42984291",
+    "title": "Biosecurity impacts biodiversity: Reinforcing an ecologically sustainable response to New World screwworm management to safeguard dung beetles in US rangelands",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Medical and veterinary entomology",
+    "authors": "Cavallaro MC, Soares R, Hoback WW.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42984291",
+    "doi": "10.1111/mve.70125",
+    "pmid": "42984291",
+    "abstract": "Within livestock systems, the balance between effective biosecurity and the preservation of biodiversity requires understanding managed rangelands as resilient, productive ecosystems that can naturally regulate pests and pathogens. However, this is often challenged by forecasted loss from regional outbreaks of pests that can cause significant economic damage by compromising animal health. This commentary presents the need for a proactive, landscape-level management response to the recent reintroduction of the New World screwworm (NWS) in the United States that integrates environmentally sustainable, effective suppression strategies. Specifically, we highlight the conservation and role of dung beetle communities as economically significant to livestock production and essential contributors to pasture health. Rapid interventions, specifically chemical control measures, are often necessary to contain emerging threats but can unintentionally impact beneficial insect species and indirectly increase secondary pests. Insecticide and pharmaceutical products used to prevent or treat NWS in livestock systems are excreted in faeces, often as unmetabolized parent compounds, and residual concentrations can cause lethal and sub-lethal effects to dung beetles for weeks to months post-application. We advocate for selective use of chemical-intensive interventions within different frameworks and discuss the risks of landscape-level preventative, herd-level chemical application. Moreover, we emphasize that long-term biosecurity must balance livestock health, environmental integrity and economic stability.",
+    "species_latin": "Cochliomyia hominivorax",
+    "species_en": "New World screwworm",
+    "species_zh": "新大陆螺旋蝇",
+    "takeaway": "新大陆螺旋蝇重返美国，防控用药经粪便残留危害粪甲虫，需兼顾生物安全与牧场生态。",
+    "conclusion": "化学防控虽为遏制螺旋蝇暴发的必要手段，但其药物经牲畜粪便排泄后可在数周至数月内对粪甲虫造成致死与亚致死效应，间接助长次生害虫。作者主张采取景观尺度、选择性的干预框架，避免全群预防性用药，以实现牲畜健康、环境完整与经济稳定的长期平衡。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261105-cef162b29e",
     "title": "Chemical Lobby Claims Major Victory After Trump Administration Guts MAHA Pesticide Strategy",
     "type": "news",
@@ -26,6 +193,58 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42984149",
+    "title": "Blocking Honeybee Preference for Neonicotinoids by Interfering With Dopamine Signaling",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "authors": "Li J, Ge Y, Feng W, Lyon DC, Dai P, Liu YJ.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42984149",
+    "doi": "10.1002/advs.78535",
+    "pmid": "42984149",
+    "abstract": "Honeybees (Apis mellifera) prefer nectar containing neonicotinoids despite severe exposure risk leading to colony collapse. The neural mechanisms underlying this preference behavior remain unknown, impeding the development of effective blocking strategies. Neonicotinoids act as acetylcholine receptor agonists, and dopamine is a vital neuromodulator in addictive behavior. We hypothesize that neonicotinoids could activate brain dopamine signaling in honeybees, reinforcing their feeding behavior. Here, we show that thiamethoxam-laden food is preferred over uncontaminated options, and that prolonged consumption is associated with transient, state-dependent increases in brain dopamine concentrations. Introducing the dopamine receptor antagonist, fluphenazine, reduces thiamethoxam preference. Our study first reveals a key dopamine-associated mechanism underlying neonicotinoid-induced preference behavior in honeybees and provides a potential basis for future strategies to reduce honeybee attraction to insecticide-containing food source through modulation of the preference-related dopamine pathway, thereby helping to preserve honeybee pollination services.",
+    "species_latin": "Apis mellifera",
+    "species_en": "Honeybee",
+    "species_zh": "西方蜜蜂",
+    "takeaway": "蜜蜂偏好含噻虫嗪食物与脑内多巴胺升高有关，多巴胺受体拮抗剂可降低该偏好",
+    "conclusion": "研究揭示蜜蜂对噻虫嗪的偏好由多巴胺信号介导：长期摄入引起脑内多巴胺浓度短暂且状态依赖性升高，使用多巴胺受体拮抗剂氟奋乃静可减弱偏好，为通过调控多巴胺通路减少蜜蜂接触杀虫剂、保护授粉服务提供依据",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42981867",
+    "title": "Towards realistic lower-tier toxicological testing: Species, sex and behaviour shape sensitivity to pesticide exposure",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of environmental management",
+    "authors": "Camenzind DW, Brown AF, Bruckner S, Hehl J, Jeker L, Van Oystaeyen A, Tettamanti F, Strobl V, Williams GR, Neumann P, Straub L.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42981867",
+    "doi": "10.1016/j.jenvman.2026.131264",
+    "pmid": "42981867",
+    "abstract": "Ubiquitous pesticide pollution is a major driver of global wild insect declines and annual managed bee losses. Sensitivity to these chemicals may vary across species, sexes, and ecological contexts. Improving our understanding of the biological and behavioural factors shaping these variations is essential to ensure accuracy in toxicity testing and environmental risk assessment (ERA) schemes. Here, we show clear inter- and intraspecific differences in sensitivity to oral chronic neonicotinoid exposure. Using modified OECD 245 guidelines, we orally exposed female and male honey bees, Apis mellifera, bumble bees, Bombus terrestris, and solitary bees, Osmia bicornis chronically to different thiamethoxam concentrations and monitored mortality and feeding behaviour. When feeding at field-relevant concentrations (< 40 ng g-1), individuals remained unaffected across species. However, species-specific sensitivity to thiamethoxam differed: A. mellifera was the most vulnerable, followed by O. bicornis and B. terrestris. Within species, males were generally more sensitive than females (workers), and female honey bees engaged in tending males exhibited greater mortality than idle counterparts-demonstrating that behaviours can modulate sensitivity to chemicals. While reliance on female honey bees in current ERA schemes may align with the precautionary principle for interspecific variation, our findings show that interspecific differences - particularly between sexes and behavioural states - can substantially influence sensitivity. We therefore advocate for the integration of both sexes and behaviourally relevant conditions into future Tier-1 laboratory toxicity testing to improve the accuracy and ecological relevance of lower tier pollinator risk assessments. Improving our knowledge of how pesticide sensitivity varies in relation to sex differences or behaviours is essential to increase the realism of lower tier ERA estimates to ensure more informed evidence-based policy required to protect non-target species.",
+    "species_latin": "Apis mellifera",
+    "species_en": "honey bee, bumble bee, solitary bee",
+    "species_zh": "意大利蜜蜂、熊蜂、红壁蜂",
+    "takeaway": "慢性噻虫嗪暴露下蜜蜂类物种、性别与行为均影响敏感性，现行风险评估仅用雌性蜜蜂可能不足。",
+    "conclusion": "研究比较三种蜂对慢性口服噻虫嗪的敏感性，发现种间差异明显：意大利蜜蜂最敏感，红壁蜂次之，熊蜂最弱；种内雄性普遍比雌性工蜂更敏感，且雌蜂的照料行为会提高死亡率。说明性别与行为状态可显著调节农药敏感性，建议将两性与行为相关条件纳入一级毒性测试，以提升风险评估的准确性和生态相关性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -737,6 +956,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42981939",
+    "title": "Enhanced pesticide degradation and preservation efficacy of cowpeas using ozone micro-nano bubble ice precooling",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Wu G, Pang Y, Zhou J, Wang X, Lv Y, Fu Y, Deng H.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42981939",
+    "doi": "10.1016/j.foodchem.2026.151880",
+    "pmid": "42981939",
+    "abstract": "Cowpea is prone to postharvest quality deterioration and pesticide contamination. This study evaluated the efficacy of ozone micro-nano bubble ice (O3-MNBI) precooling in enhancing pesticide residue removal and preserving the quality of cowpea. Results revealed that the removal rates of seven pesticides increased by 4.47%-46.84% after 12 min of O3-MNBI treatment (T4) compared with conventional ice-water precooling (CK). Carbendazim exhibited the highest increase in removal efficiency. Six major degradation products (m/z = 77-158) of carbendazim were identified via mass spectrometry, and toxicity analyses confirmed that all six degradation products exhibited lower mutagenic and developmental toxicities than the parent compound. Moreover, the T4 group exhibited a shorter pesticide half-life (T1/2, 26.829 d) than the CK group (43.558 d) during 12 days of storage, along with significantly lower (P < 0.05) weight loss and respiration rate. This study provides a practical strategy for enhancing postharvest quality and safety of cowpea.",
+    "species_latin": "Vigna unguiculata",
+    "species_en": "cowpea",
+    "species_zh": "豇豆",
+    "takeaway": "臭氧微纳米气泡冰预冷12分钟可显著提升豇豆七种农药去除率并改善贮藏品质",
+    "conclusion": "臭氧微纳米气泡冰预冷能有效去除豇豆农药残留，多菌灵降解产物毒性低于母体，且贮藏期农药半衰期更短、失重与呼吸速率更低，为提升豇豆采后品质与安全提供实用策略",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42979777",
     "title": "Telomere-to-telomere genome assembly of the endangered Jacktree (Sinojackia xylocarpa Hu) reveals its centromeric landscape and evolutionary dilemma as a small population",
     "type": "paper",
@@ -759,7 +1004,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -2494,6 +2739,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42981862",
+    "title": "Association between maternal use of spray formulations and development of urological anomalies in offspring up to 2 years old: The Japan environment and Children's study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of pediatric urology",
+    "authors": "Taniguchi Y, Shimomura H, Terasaki E, Yatani K, Taniguchi N, Tokunaga S, Tokuda N, Okuda M, Shima M, Takeshima Y.",
+    "publish_date": "2026-10-26",
+    "added_at": "2026-11-06",
+    "url": "https://europepmc.org/article/MED/42981862",
+    "doi": "10.1016/j.jpurol.2026.106349",
+    "pmid": "42981862",
+    "abstract": "BACKGROUND: Urological anomalies (UAs) are major congenital disorders of the urinary tract and are the leading cause of pediatric end-stage renal disease. Although household spray formulations are widely used during pregnancy, concerns have been raised regarding their potential developmental toxicity. In this work, we aimed to assess the association between maternal spray-formulation use and UAs in offspring aged ≤2 years. OBJECTIVE: We analyzed 80,658 mother-child pairs from the Japan Environment and Children's Study (JECS), a nationwide birth cohort. The maternal use of waterproof, insect-repellent, and insecticide sprays during pregnancy was identified via self-administered questionnaires. Data on UAs diagnosed by physicians up to age 2 years were collected and categorized into vesicoureteral reflux (VUR), hydronephrosis, hypospadias, cryptorchidism, and others. Multivariable logistic regression analyses were performed, adjusting for relevant maternal and neonatal covariates. Analyses stratified by age (0-1 and 1-2 years) and sex were performed. RESULTS: Overall, 1078 UAs were diagnosed (13.4 per 1000 births), predominantly in boys. The maternal use of waterproof and insect-repellent sprays was associated with an increased risk of total UAs among boys during the 0-1-year (adjusted odds ratio [OR]: 1.34, 95% confidence interval [CI]: 1.08-1.66) and 1-2-year periods (OR: 1.31, 95% CI: 1.00-1.71). Insecticide spray exposure was associated with hydronephrosis during the 0-1-year period in girls (OR: 2.15, 95% CI: 1.07-4.34). Among boys, the use of waterproof spray was associated with increased VUR during the 0-2-year period. CONCLUSIONS: Prenatal exposure to certain spray formulations may contribute to the development of UAs in a sex- and age-dependent manner. These findings highlight the need to limit unnecessary chemical exposure during pregnancy and warrant further mechanistic and longitudinal studies to confirm causality and identify specific harmful agents.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "日本8万余母婴队列显示，孕期使用防水或驱虫喷雾与男婴泌尿系统异常风险升高相关，且存在性别和年龄差异。",
+    "conclusion": "孕期接触部分喷雾制剂可能以性别和年龄依赖的方式增加子代泌尿系统异常风险，其中防水与驱虫喷雾主要与男婴总体异常及膀胱输尿管反流相关，杀虫喷雾与女婴肾积水相关；提示孕期应减少不必要化学暴露，但因果性仍需机制与纵向研究确认。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -25437,6 +25708,36 @@
       "ja"
     ],
     "via": "Google News:ja"
+  },
+  {
+    "id": "news-20210119-1959e388d2",
+    "title": "Classification and prediction of protein–protein interaction interface using machine learning algorithm",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2021-01-19",
+    "added_at": "2026-11-06",
+    "url": "https://doi.org/10.1038/s41598-020-80900-2",
+    "doi": "10.1038/s41598-020-80900-2",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究利用机器学习算法对蛋白质-蛋白质相互作用界面进行分类与预测。",
+    "conclusion": "该研究聚焦蛋白质-蛋白质相互作用界面的计算识别问题，采用机器学习算法构建分类与预测方法，有望为界面残基识别及相互作用预测提供自动化手段，但具体性能与机制需依据全文进一步确认。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
+    "llm_enhanced": true
   },
   {
     "id": "news-20201127-5ba996633d",
