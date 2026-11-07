@@ -1,5 +1,307 @@
 [
   {
+    "id": "manual-20261107-ostrya-t2t",
+    "title": "濒危物种铁木（Ostrya rehderiana）首个端粒到端粒（T2T）基因组组装：濒危机制解析与保护实践启示",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261106000653307.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究结合 PacBio HiFi、ONT、Hi-C 与 Illumina 技术，完成极危植物铁木（Ostrya rehderiana）的首个端粒到端粒（T2T）基因组组装：基因组 353.42 Mb，contig N50 达 40.62 Mb，8 条无间隙染色体两端均检测到端粒重复，BUSCO 完整性 98.8%，注释 31,097 个蛋白编码基因。比较基因组分析发现其抗性基因家族显著扩张，迁地保护试验证实该物种仍具广泛环境适应潜力。",
+    "species_latin": "Ostrya rehderiana",
+    "species_en": "Zhejiang hop-hornbeam",
+    "species_zh": "铁木",
+    "takeaway": "极危物种铁木的首个 T2T 基因组表明其濒危主因是历史种群收缩而非抗性基因丧失，为极小种群保护提供了高质量基因组依据。",
+    "conclusion": "8 条无间隙染色体的 T2T 组装揭示铁木经历第四纪冰期种群收缩、但保留了较高的抗逆与适应潜力；抗性基因家族扩张、无物种特异 WGD 事件，结合迁地保护存活率证据，支持以基因组信息指导其保护策略与迁地实践。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无缺口基因组",
+      "濒危植物",
+      "极小种群野生植物",
+      "铁木",
+      "桦木科",
+      "比较基因组",
+      "基因家族扩张",
+      "迁地保护"
+    ]
+  },
+  {
+    "id": "news-20261106-ce92824cc7",
+    "title": "How climate change is driving increased pesticide usage",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Genetic Literacy Project",
+    "authors": "",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://geneticliteracyproject.org/2026/11/05/how-climate-change-is-driving-increased-pesticide-usage/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题指出气候变化正在推动农药使用量上升，但未给出具体物种或研究手段。",
+    "conclusion": "气候变化可能通过改变病虫害发生格局而促使农药施用量增加，提示需关注气候与农业投入之间的关联；因无摘要，具体机制与证据无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261106-8bdb840c2e",
+    "title": "Brazil Pesticide Prices Slide as Generic Competition Intensifies",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Global Agriculture",
+    "authors": "",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://www.global-agriculture.com/crop-protection/brazil-pesticide-prices-slide-as-generic-competition-intensifies/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴西农药价格因仿制药竞争加剧而下滑",
+    "conclusion": "标题显示巴西农药市场仿制产品竞争加剧，带动价格走低，反映该市场竞争格局变化。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42993688",
+    "title": "Sequence-based coevolutionary prediction of species-specific interactomes",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "PLoS computational biology",
+    "authors": "Fernandez-Martin M, Pontes C, Ruiz-Serra V, Valencia A.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://europepmc.org/article/MED/42993688",
+    "doi": "10.1371/journal.pcbi.1014839",
+    "pmid": "42993688",
+    "abstract": "Evolutionarily conserved protein-protein interactions (PPIs) reveal fundamental biological processes. However, predicting protein function solely from these interactions provides an incomplete picture of biological systems. Computational methods for predicting PPIs often struggle due to limited functional annotations in databases, making it difficult to fully understand unique biological systems. This study introduces ContextMirror2.0 (CM2.0), a coevolution-based method designed to address these limitations. Coevolutionary approaches, unlike supervised machine learning methods, do not rely on labelled datasets, proving valuable in addressing the scarcity of data for species-specific PPIs. Around 40% of CM2.0's top-1000 predicted PPIs for E. coli, S. enterica, and S. aureus are supported by experimental PPI databases. However, comparative analysis of the resulting functional communities further revealed both highly conserved interaction patterns and species-specific interactions. CM2.0 leverages coevolutionary information at the phylogenetic level to explore protein interaction dynamics and understand the functional consequences of species-specific variations. This information can inform further studies on the emergence of novel functions, adaptation to specific environments, and the development of targeted therapies.",
+    "species_latin": "Escherichia coli",
+    "species_en": "E. coli, S. enterica, S. aureus",
+    "species_zh": "大肠杆菌、肠炎沙门氏菌、金黄色葡萄球菌",
+    "takeaway": "CM2.0利用系统发育水平的共进化信息预测物种特异性蛋白互作组，无需标注数据，在大肠杆菌等三种细菌中前1000预测约四成获实验数据库支持。",
+    "conclusion": "共进化方法可绕过标注数据稀缺的瓶颈，预测物种特异性蛋白互作；比较功能群落分析同时揭示高度保守的互作模式与物种特有互作，为理解新功能产生、环境适应及靶向治疗提供线索。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42993012",
+    "title": "QuEChERS extraction in ecotoxicology: analytical procedure and applications to biota - a review",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The Analyst",
+    "authors": "Wicht AJ, Kalinke N, Huhn C.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://europepmc.org/article/MED/42993012",
+    "doi": "10.1039/d6an00689b",
+    "pmid": "42993012",
+    "abstract": "This review focuses on publications concerning examples of QuEChERS extraction for the analysis of the body burden of chemicals in biota and metabolite studies including method developments and adjustments to be applied to different organisms. Emerging pollutants are a topic of growing concern. To evaluate associated risks of chemicals in the environment, the knowledge about the chemicals' uptake in biota is crucial to predict effects and their environmental behavior but this requires more chemical analysis. Classical extraction procedures such as solid phase extraction for aqueous samples or extraction of solid samples with a specific organic solvent, mostly developed for target analysis, have several drawbacks such as costs and limited analyte coverage as discussed in this review. Its focus is thus on new strategies and multi-residue extraction procedures with a broader polarity range. The most important among them is the QuEChERS extraction (Quick, Easy, Cheap, Effective, Rugged and Safe) originally developed for pesticide analysis in food. Its advantages like low solvent consumption, the fast and easy sample preparation, the good matrix removal and the broad polarity spectrum of extractable analytes making it interesting also for environmental analysis are presented and limitations and alternatives are discussed. In recent years, these new methods have been increasingly applied in biota analysis including terrestrial and aquatic insects, edible fish and mussels. To be applicable in ecotoxicology, miniaturization, extraction conditions and sample cleanup were optimized for both targeted and non-targeted approaches. These are summarized in this review together with aspects on quantification and figures of merit to provide researchers with a broader view on the possibilities to adapt and enhance their analytical strategies as most of the 66 publications included in this review concerning QuEChERS in environmentally relevant biota samples focus on applications but not on methodological aspects. We summarize applications for different organisms and different classes of chemicals showing that besides pesticides, pharmaceuticals and other wastewater-derived chemicals are more often addressed in recent studies. These applications include investigating contaminant burden in biota from environmental samples, the use of organisms as bioindicators and the assessment of the pollution of aquatic and terrestrial environments.",
+    "species_latin": "Its focus",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述QuEChERS提取法在生态毒理学生物样本分析中的应用、优化与局限",
+    "conclusion": "QuEChERS因溶剂用量少、前处理快速简便、基质去除效果好且可提取极性范围广，经微型化和条件优化后适用于昆虫、鱼类和贻贝等生物体内污染物及代谢物分析，是传统提取方法的有力替代，但现有研究多偏应用、方法学探讨不足。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42992624",
+    "title": "New World screwworm genomics: implications for past, present, and future control strategies",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Arp AP, Paulo DF, Lowman AV, Hickner PV, Novas R, Basika T, Fresia P, Menchaca A, Yusseff-Vanegas SZ, Scott MJ.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://europepmc.org/article/MED/42992624",
+    "doi": "10.1093/jee/toag332",
+    "pmid": "42992624",
+    "abstract": "The New World screwworm, Cochliomyia hominivorax, is a major pest of livestock, wildlife, and occasionally humans in the Americas. Larvae of C. hominivorax are obligate parasites that feed on the living tissues of warm-blooded animals, causing extensive damage, suffering, and death if untreated. C. hominivorax was eliminated from North and Central America through the first application of a genetic control method, the sterile insect technique (SIT), but re-invaded these areas from 2023 to present. The success of the renewed fight against C. hominivorax in North America, and beyond, will depend on the development and application of genetic technologies to augment and improve C. hominivorax control programs. Modern sequencing technologies and bioinformatics methods provide the tools necessary to advance research on comparative transcriptomics, functional genomics, population genetics, pesticide resistance, and the development of novel genetic-based biocontrol systems. The complete C. hominivorax genome is in its second iteration, providing an invaluable tool for developing next-generation control solutions for this species. Development of genetically engineered C. hominivorax sexing strains is ongoing and could greatly reduce SIT costs and improve production and field efficacy. Gene drives, which have incredible potential for population control, are in the early stages of development. Additionally, methods such as CRISPR-engineered sexing strains developed in other insect species could be transferred to C. hominivorax. Despite remaining gaps in our knowledge, the remarkable advances in New World screwworm genomics highlighted here provide a powerful foundation for translational research aimed at improving the management of this devastating pest.",
+    "species_latin": "Cochliomyia hominivorax",
+    "species_en": "New World screwworm",
+    "species_zh": "新世界螺旋蝇",
+    "takeaway": "新世界螺旋蝇基因组研究为改进不育昆虫技术等遗传防控手段提供基础",
+    "conclusion": "新世界螺旋蝇基因组已完成第二版组装，结合比较转录组、功能基因组、群体遗传学与基因驱动、CRISPR性别品系等技术，可降低成本并提升不育昆虫技术效果，为应对其2023年重新入侵北美提供新一代防控基础。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42218626",
+    "title": "Spatial and Temporal Dynamics of Fungicide Resistance in Botrytis cinerea in California Strawberries",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plant disease",
+    "authors": "Cosseboom SD, Blauer KA, Schnabel G, Holmes GJ.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-07",
+    "url": "https://europepmc.org/article/MED/42218626",
+    "doi": "10.1094/pdis-12-25-2517-re",
+    "pmid": "42218626",
+    "abstract": "Spatial and temporal effects of fungicide inputs on resistance selection were evaluated by conducting two field studies and by leveraging publicly available pesticide application data along with previously published fungicide resistance survey results. The trials were conducted to evaluate the short-term impact of fungicide programs on the development of resistance in Botrytis cinerea, the causal agent of Botrytis fruit rot in strawberries; strawberry plots were treated with various single and rotational fungicide regimens over a 6-week period. Resistance in B. cinerea isolates was assessed across five sampling dates using discriminatory dose assays. After the consecutive applications, resistance frequencies tended to remain stable for boscalid and fludioxonil but increased sharply for fenhexamid. After a 6-week period with no fungicide inputs, resistance frequency to fenhexamid tended to decrease, whereas resistance frequency to pyraclostrobin was stable. The findings suggest varying responses in resistance selection and fitness costs depending on the mode of action that the populations were exposed to. The public fungicide application data showed that intensive strawberry production regions with high fungicide inputs were hot spots for fungicide resistance selection. The findings emphasize the need for strategic fungicide use and resistance management.",
+    "species_latin": "Botrytis cinerea",
+    "species_en": "Gray mold",
+    "species_zh": "灰葡萄孢",
+    "takeaway": "加州草莓灰霉病菌对杀菌剂抗性受药剂种类与施药强度影响，高频施药区为抗性热点",
+    "conclusion": "连续施药下，boscalid与fludioxonil抗性频率稳定，fenhexamid抗性显著上升；停用6周后fenhexamid抗性下降而pyraclostrobin抗性稳定，说明抗性选择与适合度代价随作用机制而异；高频施药产区是抗性选择热点，需策略性用药与抗性管理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261105-fdd286c630",
+    "title": "New poll: voters across the political spectrum reject the flagship measures of the EU 'pesticides’ Omnibus",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PAN Europe",
+    "authors": "",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1F0SkRfdFcwVDZHS1VVTzNkQ2JKUlpvNkpEUEo0TDFwcERieXBGMkRnVWlBbFFHUk1JX2Jod1p2bkF5NmVHckpjVThiSkk0RjFLTmxST3FwQUVHX3FYdTd5TlJEWGo5dE81X05aSVNKMGE5QVF6bnNzWFg2UEhqWFhDYjZHT2JBX2VxOXVpelJfTndpSmVMeXNSVWZuel9RX2xqazIxVUJldmVIaElqMUVLZk9RNDZ3YXF5NA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "民调显示各政治立场选民均反对欧盟农药综合法案旗舰措施",
+    "conclusion": "基于民调的报道表明，欧盟“农药综合法案”的核心措施在跨政治光谱的选民中普遍不受欢迎，提示该立法议程面临广泛的公众接受度问题，但具体机制与科学意义需原始调查数据支持。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42987832",
+    "title": "Leveraging human pangenome for improved somatic variant detection",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Cell genomics",
+    "authors": "Fu Q, Xin Z, Miao B, Zhang W, Kong N, Tang Z, Ruttenberg A, Albracht DC, Belter EA, Garza JE, Tomlinson C, Mehinovic E, Shen J, Zhuo X, Dong S, Johnson BK, Majewski MF, Palmer T, Jang HJ, Cheng Y, Li Z, Lawson HA, Lindsay T, Li D, Fulton R, Shen H, Jin SC, Macias-Velasco JF, Wang T.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-07",
+    "url": "https://europepmc.org/article/MED/42987832",
+    "doi": "10.1016/j.xgen.2026.101419",
+    "pmid": "42987832",
+    "abstract": "Somatic variant detection is technically challenging due to low variant allele fractions, the confounding presence of germline variation, and reference bias. Linear references, such as GRCh38, miss sample-specific variation, leading to misalignments and incorrect variant calls. Although telomere-to-telomere donor-specific assemblies (DSAs) accurately represent individual genomes, their application is limited by cost and technical barriers. Alternatively, the graph-based human pangenome provides a scalable framework to improve read alignment and perform genome inference. Here, we benchmarked somatic variant detection using GRCh38, graph-based pangenomes, and pangenome-inferred DSAs with a HapMap mixture dataset and the COLO829 melanoma cell line. Pangenome-guided alignment improves read mapping and somatic variant calling accuracy. Furthermore, personalized pangenomes partially reconstruct donor-specific genomic content, improving accuracy, reducing germline contamination, and enabling detection of events in loci absent or poorly represented in GRCh38. These findings demonstrate that graph-based and personalized pangenomes are effective strategies for enhancing somatic variant detection compared with GRCh38.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "图泛基因组及个性化泛基因组可提升体细胞变异检测准确性，优于GRCh38线性参考。",
+    "conclusion": "基于图的泛基因组比对能改善读段定位与体细胞变异检出；个性化泛基因组可部分重建供体特异基因组内容，提高准确性、减少胚系污染，并检出GRCh38缺失或表征不足位点的事件，是优于线性参考的可行策略。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42989638",
+    "title": "pH/laccase dual-responsive sodium boscalid@lignosulfonate/ε-polylysine/Fe microcapsules for controlled pesticide release with enhanced efficacy and biosafety",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Jia Z, Liu J, Ji L, Chen W, Qian B, Zhang B.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-07",
+    "url": "https://europepmc.org/article/MED/42989638",
+    "doi": "10.1002/ps.71446",
+    "pmid": "42989638",
+    "abstract": "BACKGROUND: Environmentally responsive pesticide delivery systems have gained significant attention for their ability to enhance pesticide utilization, prolong efficacy, and lower environmental risks. Nevertheless, the carrier materials widely adopted in current controlled-release pesticide delivery systems are predominantly synthetic polymers, whose own environmental footprint is of growing concern. RESULTS: In this study, pH/laccase dual-responsive Bos@SL/POL/Fe microcapsules were successfully prepared via electrostatic self-assembly, using sodium lignosulfonate and ε-polylysine as wall materials, and Fe3+ as a crosslinker. The microcapsules had an average particle size of 450.02 nm, encapsulation efficiency of 81.6%, and drug loading of 10.4%. Acidic pH and laccase significantly accelerated boscalid release, and the release process followed first-order kinetics. Compared with commercial boscalid formulation, the microcapsules exhibited better UV shielding, foliar wettability, retention, and rainfast adhesion. The half-maximal effective concentration against Botrytis cinerea at pH 5.0 was 102.50 mg/L, 16% lower than at pH 7.0. The formulation also reduced phytotoxicity to wheat and acute toxicity to zebrafish. CONCLUSION: With their exceptional environmental responsiveness, promising bioactivity, excellent biosafety, and especially their use of natural materials as carriers, these controlled-release systems show great potential for application in modern green agriculture. © 2026 Society of Chemical Industry.",
+    "species_latin": "Botrytis cinerea; Triticum aestivum; Danio rerio",
+    "species_en": "gray mold; wheat; zebrafish",
+    "species_zh": "灰葡萄孢；小麦；斑马鱼",
+    "takeaway": "以木质素磺酸盐/ε-聚赖氨酸/Fe3+自组装载啶酰菌胺微胶囊，具pH/漆酶双响应释放且更高效安全",
+    "conclusion": "该微胶囊以天然材料为壁材，呈pH/漆酶双响应释放并符合一级动力学；较商业制剂具更优紫外屏蔽、叶面润湿、滞留与耐雨黏附，pH 5.0下对灰葡萄孢毒力提高，并降低小麦药害与斑马鱼急性毒性，具绿色农业应用潜力",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42987970",
+    "title": "Efficacy and integration of different control methods against Ostrinia nubilalis Hübner (Lepidoptera: Crambidae) and Sesamia nonagrioides Lefebvre (Lepidoptera: Noctuidae) in Çukurova, Turkey",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of insect science (Online)",
+    "authors": "Kurtuluş A, Kornoşor S.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-07",
+    "url": "https://europepmc.org/article/MED/42987970",
+    "doi": "10.1093/jisesa/ieag118",
+    "pmid": "42987970",
+    "abstract": "Lepidopteran stem borers-the European corn borer, Ostrinia nubilalis Hübner (Lepidoptera: Crambidae), and the Mediterranean corn borer, Sesamia nonagrioides Lefèbvre (Lepidoptera: Noctuidae)-cause substantial yield losses in maize production across the Mediterranean basin, yet reliance on broad-spectrum insecticides, particularly pyrethroids, in this system suppresses natural enemy activity and limits the development of sustainable integrated pest management (IPM) programs. A two-year field study (2012-2013) was conducted in Mersin province, Çukurova, Turkey, to compare the efficacy of four management strategies: integrated management (IM; mating disruption [MD] combined with inundative releases of Trichogramma evanescens Westwood [Hymenoptera: Trichogrammatidae]), biotechnical management (BTM; MD alone), chemical management (CM; three pyrethroid applications), and an untreated control (UC). MD targeting S. nonagrioides reduced egg mass densities by 37%-73% relative to UC across both years. Inundative T. evanescens releases at 10,000 parasitoids per decare (100,000 per hectare) achieved 92%-96% parasitism of O. nubilalis egg masses-providing larval suppression of this pest comparable to that achieved by chemical control-while leaving natural enemy activity intact. CM produced the highest grain yields (717-751 kg/da) but markedly suppressed natural parasitism of both borer species. IM yields (568-649 kg/da) exceeded UC (338-440 kg/da) by 40%-68% and were similar to BTM (552-622 kg/da). These findings demonstrate that combining MD with augmentative T. evanescens releases provides effective, pesticide-free management of both corn borer species simultaneously, offering a viable IPM alternative for Mediterranean maize production.",
+    "species_latin": "Ostrinia nubilalis, Sesamia nonagrioides",
+    "species_en": "European corn borer, Mediterranean corn borer",
+    "species_zh": "欧洲玉米螟、地中海玉米螟",
+    "takeaway": "在土耳其Çukurova玉米田，性信息素迷向结合释放赤眼蜂可同时有效防治两种螟虫且无需农药。",
+    "conclusion": "性信息素迷向使地中海玉米螟卵块密度降低37%-73%，释放赤眼蜂对欧洲玉米螟卵块寄生率达92%-96%，幼虫控制效果与化学防治相当且不伤害天敌；综合管理产量比未处理区高40%-68%，与生物技术管理相近，说明迷向加赤眼蜂释放是地中海玉米生产可行的无农药IPM方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261106-faw-ugt-cluster",
     "title": "Agriculture Communications | 揭示草地贪夜蛾UGT基因簇功能分化驱动杀虫剂耐受与寄主适应",
     "type": "wechat",
@@ -111,7 +413,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -270,7 +572,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -23327,6 +23629,36 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260412-9335241b47",
+    "title": "AI for plant protein–protein interactions prediction",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Wiley Online Library",
+    "authors": "",
+    "publish_date": "2026-04-12",
+    "added_at": "2026-11-07",
+    "url": "https://doi.org/10.1111/tpj.70867",
+    "doi": "10.1111/tpj.70867",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该文探讨用人工智能方法预测植物蛋白质-蛋白质相互作用。",
+    "conclusion": "文章聚焦于将人工智能技术用于植物蛋白质相互作用预测，属于方法学综述或工具介绍，旨在弥补植物领域互作数据稀缺、实验验证成本高的问题，为植物功能基因组研究提供计算预测手段。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "The Plant Journal",
     "llm_enhanced": true
   },
   {
