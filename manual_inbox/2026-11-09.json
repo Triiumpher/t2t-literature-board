@@ -1,0 +1,35 @@
+[
+  {
+    "id": "manual-20261109-cry1f-serine-enterococcus",
+    "title": "植保所揭示Bt Cry1F原毒素C端水解氨基酸协同肠球菌杀虫新机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农科院植物保护研究所",
+    "authors": "",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-09",
+    "url": "http://www.ippcaas.cn/kyjz/db0b0daf0e0b4a48a413fd6b6cb23185.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究发现 Bt Cry1Fa 原毒素的 C 端区域被草地贪夜蛾中肠蛋白酶水解后释放 L-丝氨酸，该氨基酸可促进肠道共生肠球菌形成生物膜，增强其肠道定殖与向血腔异位迁移能力，加速害虫感染并放大杀虫效能。该成果发表于 npj Biofilms and Microbiomes，证实原毒素 C 端水解片段是 Cry 蛋白杀虫活性的重要组成部分。",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "Cry1Fa 原毒素 C 端水解产生的 L-丝氨酸通过诱导肠球菌生物膜与致病性协同杀虫，颠覆了“仅 N 端核心区具杀虫功能”的传统认知。",
+    "conclusion": "Cry 原毒素 C 端水解氨基酸经肠道菌群介导的间接通路参与杀虫活性，拓展了 Bt 杀虫分子机制，为新一代转基因抗虫作物的设计与优化提供理论支撑。",
+    "keywords": [
+      "Bt",
+      "Cry1Fa",
+      "原毒素",
+      "L-丝氨酸",
+      "肠球菌",
+      "生物膜",
+      "肠道菌群",
+      "草地贪夜蛾",
+      "生物农药",
+      "杀虫机制"
+    ]
+  }
+]
