@@ -1,5 +1,89 @@
 [
   {
+    "id": "news-20261107-3df1e06ec2",
+    "title": "Nano-Formulated Naringin Protects Male Rats Against Mancozeb Pesticide Reproductive Damage",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-07",
+    "added_at": "2026-11-08",
+    "url": "https://bioengineer.org/nano-formulated-naringin-protects-male-rats-against-mancozeb-pesticide-reproductive-damage/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "rat",
+    "species_zh": "大鼠",
+    "takeaway": "纳米制剂柚皮苷可保护雄性大鼠免受代森锰锌农药的生殖损伤",
+    "conclusion": "标题提示纳米化柚皮苷对代森锰锌所致雄性大鼠生殖毒性具有保护作用，但摘要缺失，具体机制与效果尚无法确定。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261107-1391034a05",
+    "title": "Responsive Raspberry-Like Microspheres Improve Pesticide Delivery and Reduce Environmental Toxicity",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-07",
+    "added_at": "2026-11-08",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTHkwV1VnNF9XZ2hzbHp4azVrQU14TnBLWHF1ZUdqWE52Z3Z3SHUtRUVCWVNTYVpWVGducFdMcnE1T0swS1RKTl9IUGNiMDl1enBxdTBEb0x3Y1AwYW90VWt0Njh5czdrV0JwdEZrYWZkbFh1b1FLdFNpWmd1TExsRmhienpha1NqTGw3bnRlQU0yQzVfdVBTVk5kRDVzMUhyS1JCbFl6a1BhMGszUDBRdEZnMUNQRGRyeHNaNEpsRmlXQQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用响应性覆盆子状微球载药，提升农药递送效率并降低环境毒性",
+    "conclusion": "该研究开发了覆盆子状响应性微球作为农药载体，可改善农药的递送性能并减少其对环境的毒性，为更安全高效的农药制剂提供思路；具体机制与数据因摘要缺失无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42360822",
+    "title": "Impact of Three Novel Nematicides on Bursaphelenchus xylophilus and Pine Wilt Disease",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plant disease",
+    "authors": "Li T, Li X, Zhang W, Tian W, Huang L, Ye J.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-08",
+    "url": "https://europepmc.org/article/MED/42360822",
+    "doi": "10.1094/pdis-05-26-1007-re",
+    "pmid": "42360822",
+    "abstract": "Options for pesticide control of pine wilt disease (PWD) are currently limited, with efficacy also varying markedly. Thus, there remains an urgent need for stable, highly effective agents to improve field control measures. This study assessed the laboratory toxicity and field effectiveness of three novel nematicides against Bursaphelenchus xylophilus (Steiner & Buhrer 1934) Nickle 1981 (pine wood nematode [PWN]), examining their impact on nematode mortality, feeding, reproduction, and egg hatching at different temperatures, as well as their control efficacy against PWD in Pinus massoniana Lamb. saplings. The tested products included two novel amide nematicides, namely JB-3 (5% JB-3 emulsifiable concentrate and 15% JB-3 suspension concentrate [SC]) and INV-06 microcapsule suspension. All three nematicides were highly effective against PWN, with the JB-3 formulations exhibiting superior nematicidal activity and thermal stability relative to INV-06. However, INV-06 showed superior inhibition of PWN egg hatching and population growth. In disease-severity trials on 4-year-old P. massoniana plants, all three nematicides effectively controlled PWD, especially when applied early. Specifically, spray treatments with 15% JB-3 SC and INV-06 during predisease or early stages yielded pronounced therapeutic effects. In summary, laboratory toxicity assays and field efficacy tests on P. massoniana saplings confirmed that the nematicides effectively killed PWN and suppressed its reproduction, offering promising control for diseased pine trees.",
+    "species_latin": "Bursaphelenchus xylophilus",
+    "species_en": "pine wood nematode",
+    "species_zh": "松材线虫",
+    "takeaway": "三种新型杀线虫剂在室内和田间均能有效抑制松材线虫并控制松材线虫病，其中JB-3制剂杀线活性与热稳定性更优。",
+    "conclusion": "JB-3乳油、JB-3悬浮剂和INV-06微囊悬浮剂均对松材线虫有强杀灭作用，JB-3杀线活性与热稳定性优于INV-06，而INV-06对卵孵化和种群增长的抑制更强；在4年生马尾松上，三种药剂均能有效控制松材线虫病，尤其在发病前或发病初期喷施15% JB-3悬浮剂和INV-06效果显著，为病害防治提供了新选择。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261107-ostrya-t2t",
     "title": "濒危物种铁木（Ostrya rehderiana）首个端粒到端粒（T2T）基因组组装：濒危机制解析与保护实践启示",
     "type": "wechat",
@@ -496,6 +580,39 @@
     "via": "Google News:en",
     "link_kind": "",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261108-se-abcg-diamide",
+    "title": "甜菜夜蛾SeABCG转运蛋白在邻甲酰氨基苯甲酰胺类杀虫剂耐受中的功能鉴定与分子机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-08",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261104082610425.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "基于甜菜夜蛾基因组与转录组鉴定出 17 个 SeABCG 基因，其中 SeABCG3、SeABCG8、SeABCG10 在氰虫苯甲酰胺和氯虫苯甲酰胺处理后显著上调，并在中肠、脂肪体、马氏管等解毒组织高表达。RNAi 敲低后幼虫死亡率提升 20.83%–38.54%，分子对接显示两种杀虫剂可进入三者结合腔并形成氢键，证实 ABCG 亚家族是二酰胺类杀虫剂耐受的关键因子。",
+    "species_latin": "Spodoptera exigua",
+    "species_en": "beet armyworm",
+    "species_zh": "甜菜夜蛾",
+    "takeaway": "甜菜夜蛾 SeABCG3/8/10 作为第Ⅲ阶段外排转运蛋白参与氰虫/氯虫苯甲酰胺耐受，是转运蛋白导向抗性治理的新靶点。",
+    "conclusion": "全基因组刻画结合 RNAi 功能验证与分子对接，确证 SeABCG3、SeABCG8、SeABCG10 介导邻甲酰氨基苯甲酰胺类杀虫剂的主动外排耐受；ABCG 与 ABCB 空间互补、并与Ⅰ阶段 P450 协同构成完整解毒网络。",
+    "keywords": [
+      "ABCG",
+      "ABC转运蛋白",
+      "甜菜夜蛾",
+      "邻甲酰氨基苯甲酰胺",
+      "氯虫苯甲酰胺",
+      "氰虫苯甲酰胺",
+      "二酰胺类杀虫剂",
+      "RNAi",
+      "分子对接",
+      "代谢抗性"
+    ]
   },
   {
     "id": "pmid-42984149",
@@ -1258,6 +1375,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "doi-10.1016/j.pld.2026.10.024",
+    "title": "The first telomere-to-telomere (T2T) genome assembly provides new insights into the endangerment mechanism and conservation practices of Ostrya rehderiana",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Acta Botanica Yunnanica",
+    "authors": "Qi Xing Zhou, Pengyan Zhou, Tian‐Rui Wang, Xin Shen, Yingang Li",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-08",
+    "url": "https://doi.org/10.1016/j.pld.2026.10.024",
+    "doi": "10.1016/j.pld.2026.10.024",
+    "pmid": "",
+    "abstract": "genome assembly provides new insights into the endangerment mechanism and conservation practices of Ostrya rehderiana",
+    "species_latin": "Ostrya rehderiana",
+    "species_en": "Rehder's hornbeam",
+    "species_zh": "天目铁木",
+    "takeaway": "研究完成天目铁木首个端粒到端粒基因组组装，为解析其濒危机制与保护提供依据",
+    "conclusion": "该研究构建了天目铁木首个T2T无间隙基因组，为从基因组层面揭示其濒危的遗传机制并制定保护策略奠定基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42981939",
     "title": "Enhanced pesticide degradation and preservation efficacy of cowpeas using ozone micro-nano bubble ice precooling",
     "type": "paper",
@@ -1746,6 +1889,39 @@
     "via": "Google News:en",
     "link_kind": "",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261108-resistance-reg-review",
+    "title": "Annual Review of Entomology｜郭兆将/张友军团队系统总结害虫抗药性调控机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农科院蔬菜花卉研究所",
+    "authors": "",
+    "publish_date": "2026-10-30",
+    "added_at": "2026-11-08",
+    "url": "http://ivfcaas.ac.cn/xwdt/zhxw/cabedf70f2f1496ba24553301e970d62.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "团队在 Annual Review of Entomology 发表综述，将杀虫剂抗性相关基因的调控机制归纳为五类：顺式调控变异、反式转录因子调控、顺反式协同、基因复制以及非编码 RNA 与 RNA 修饰。综述还梳理了 EGFR/Akt/ERK、GPCR/MAPK、FOXO、ROS/CncC–Maf、HR96 等上游信号通路，以及抗性适合度代价补偿与植物防御—杀虫剂共同适应演化。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该综述系统绘制了节肢动物害虫抗药性演化的基因调控全景，强调 MAPK 枢纽在抗性转录网络中的核心作用。",
+    "conclusion": "抗药性进化不仅源于靶标突变，更依赖多层次表达调控；未来需结合多组学、功能验证与 AI 解析表观遗传、因果变异与田间抗性预测，推动抗药性研究从机制解析走向风险预测与精准监测。",
+    "keywords": [
+      "抗药性",
+      "调控机制",
+      "顺式调控",
+      "反式调控",
+      "MAPK",
+      "CncC",
+      "非编码RNA",
+      "适合度代价",
+      "综述",
+      "Annual Review of Entomology"
+    ]
   },
   {
     "id": "pmid-42963513",
@@ -2478,6 +2654,39 @@
     "via": "Google News:en",
     "link_kind": "search",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261108-microsat-bt-resistance",
+    "title": "Nucleic Acids Research｜微卫星扩增介导小菜蛾Bt抗药性的表观遗传调控新机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农科院蔬菜花卉研究所",
+    "authors": "",
+    "publish_date": "2026-10-28",
+    "added_at": "2026-11-08",
+    "url": "http://www.ivfcaas.ac.cn/xwdt/zhxw/7c3790f6adc64cb8ae0788fd91d0150f.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究发现小菜蛾 ABCC2 基因启动子区 ATGT 四核苷酸微卫星扩增（敏感品系 5 次、抗性品系 34 次）是其表达下调的关键：短重复招募乙酰转移酶 Tip60 经 H4K5ac 维持开放染色质，长重复则结合甲基转移酶 E(z) 经 H3K27 甲基化压缩染色质。CRISPR 将 5 次替换为 34 次后，ABCC2 表达下降且对 Cry1Ac 抗性达近 300 倍。",
+    "species_latin": "Plutella xylostella",
+    "species_en": "diamondback moth",
+    "species_zh": "小菜蛾",
+    "takeaway": "启动子微卫星长度作为表观遗传开关，通过重定向染色质修饰酶抑制 ABCC2 表达，构成全新的 Bt 抗性顺式调控机制。",
+    "conclusion": "ATGT 微卫星扩增以长度依赖方式切换 Tip60/E(z) 结合偏好，介导染色质状态重塑与 Bt 抗性；选择—松弛实验显示该过程可逆，微卫星长度可作为抗药性监测预警的分子靶标。",
+    "keywords": [
+      "微卫星",
+      "Bt抗药性",
+      "ABCC2",
+      "小菜蛾",
+      "表观遗传",
+      "染色质修饰",
+      "Tip60",
+      "PRC2",
+      "CRISPR",
+      "顺式调控"
+    ]
   },
   {
     "id": "pmid-42950995",
@@ -25226,6 +25435,35 @@
     "via": "Google News:en",
     "link_kind": "doi",
     "journal": "Nature Biomedical Engineering",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20240711-ddf0b89448",
+    "title": "Nichino Mexico Launches New Apta Insecticide",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AgriBusiness Global",
+    "authors": "",
+    "publish_date": "2024-07-11",
+    "added_at": "2026-11-08",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHhkTDV0ZDRkNTk4OEZhR0UzSHlid1lqb3JPdmk0dmZRRW9YRXg0djlkbFRhbGxTNm1rOEVIeXZtbFJZWDhzSkkyY2V6bTdtOUMwazhWVktQcExTTjNYa0tjemE4bHpMNWpTRnIySVdPYjFHMlN6SzJPUS03Rzh4X3EzTUZPX1lNbkdfVGVfRHBjbWxkQnVGNHBRUTk4ejBocEc0WlpGZmNKd2h4ZmNR0gG0AUFVX3lxTE52T2Vwb3JGX0kyd0packJSalFBaWVYa2g1RkJlekRUUDhZcUh0cWpEaDdHNkR0RDZ6dndXOF81LUJQenpBMDBFRjN0OU5QOFFwSmNVbUg0T0pTalVDeHNjLWVwazVJWUFTdG1SYzctNWRkQUUtdnU4SlhWVUl4TE5qWFlZdE8xRlhuSHppWjZvYUF0WTdEcUMxa2RQb3pHR3gxdXdyRGhyNUhBQUtBdS11UkNMUg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "日本农药公司墨西哥分部推出新型Apta杀虫剂。",
+    "conclusion": "该报道仅宣布Nichino Mexico上市一款名为Apta的新杀虫剂，未披露有效成分、靶标害虫或防治效果等信息，因此无法评估其作用机制与科学意义。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "es-ES"
+    ],
+    "via": "Google News:es-ES",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
