@@ -1,0 +1,35 @@
+[
+  {
+    "id": "manual-20261110-prunus-pedunculata-t2t",
+    "title": "Genome Biology｜十二倍体荒漠灌木长梗扁桃端粒到端粒基因组揭示多倍化驱动的干旱适应",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "西北农林科技大学生命科学学院",
+    "authors": "",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-10",
+    "url": "https://life.nwafu.edu.cn/kxyj/kydt/0f03a756a3074fe2aee0406d5b9e8f0a.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究完成蒙古高原特有荒漠灌木长梗扁桃（Prunus pedunculata）的端粒到端粒基因组组装，该物种为十二倍体（2n=12×=96），是已测序倍性最高的多年生木本植物；1.38 Gb 基因组解析为 48 条染色体且每条均检测到端粒重复。进化分析证实其为同源多倍体起源，最近一次全基因组复制约在 349 万年前，与青藏高原隆升及亚洲内陆干旱化时间吻合。",
+    "species_latin": "Prunus pedunculata",
+    "species_en": "longstalk almond",
+    "species_zh": "长梗扁桃",
+    "takeaway": "首个十二倍体木本植物 T2T 基因组表明多倍化产生的冗余基因被重新招募用于干旱胁迫响应，支撑荒漠灌木的极端干旱适应。",
+    "conclusion": "长梗扁桃为同源多倍体起源，多倍化事件与亚洲内陆干旱化相关；梯度干旱下器官特异转录组揭示 ABA、CLE25、BES1/BIN2 与生长素信号协同的耐旱网络，干旱响应基因与扩张基因家族显著重叠，为干旱区林木与作物改良提供线索。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "长梗扁桃",
+      "Prunus pedunculata",
+      "十二倍体",
+      "同源多倍体",
+      "全基因组复制",
+      "干旱适应",
+      "染色体组装",
+      "Genome Biology"
+    ]
+  }
+]
