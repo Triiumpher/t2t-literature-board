@@ -1,5 +1,31 @@
 [
   {
+    "id": "pmid-42998311",
+    "title": "Toxicity and transgenerational effects of cyproflanilide on Ostrinia furnacalis (Lepidoptera: Crambidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Huang R, Su Q, Zheng H, Ma L, Peng Y, Zhang W.",
+    "publish_date": "2026-11-07",
+    "added_at": "2026-11-09",
+    "url": "https://europepmc.org/article/MED/42998311",
+    "doi": "10.1093/jee/toag336",
+    "pmid": "42998311",
+    "abstract": "The Asian corn borer, Ostrinia furnacalis (Guenée) (Lepidoptera: Crambidae), is a major pest of corn, with heavily reliance on chemical control for its management. Cyproflanilide, a novel meta-diamide insecticide, exhibits high efficacy against lepidopteran pests. However, its toxicity and transgenerational effects are insufficiently documented. In this study, diet-incorporation bioassays demonstrated the high toxicity to third-instar larvae, with an LC50 of 0.17 μg/ml. The LC5, LC10, and LC30 treatments significantly prolonged larval and pupal durations, reduced larval survival, and markedly decreased pupal weight and adult emergence rate in survivors. Furthermore, these treatments markedly extended preoviposition duration by 0.51, 1.01, and 1.36 days, respectively, but severely impaired female fecundity by 32.84%, 34.97%, and 46.70%. The population parameters, including the intrinsic rate of increase (r), finite rate of increase (λ), and net reproductive rate (R0) were markedly reduced in the LC10 and LC30 groups. At 72 h after exposure to LC10 and LC30, the expression of JH signaling genes (Met and Kr-h1) and 20E receptor genes (EcR and USP) were significantly down-regulated. Strikingly, these negative impacts were also observed in the F1 generation. Specifically, oviposition duration in the progeny of the LC10 and LC30 groups was reduced by 0.53 and 0.79 days, and female fecundity was decreased by 14.03% and 19.90%, respectively, coupled with significantly extended egg, larval, and pupal durations, and declined pupation and adult emergence rates. This study revealed the transgenerational detrimental effects of cyproflanilide on O. furnacalis, and provided deep insight into the insecticidal activity and action mechanism of cyproflanilide.",
+    "species_latin": "Ostrinia furnacalis",
+    "species_en": "Asian corn borer",
+    "species_zh": "亚洲玉米螟",
+    "takeaway": "饲料混药测定显示环丙氟虫酰胺对亚洲玉米螟三龄幼虫高毒，并造成跨代繁殖与发育损害",
+    "conclusion": "环丙氟虫酰胺对亚洲玉米螟三龄幼虫LC50为0.17 μg/ml，亚致死剂量延长幼虫和蛹期、降低存活与化蛹羽化率、减少雌虫产卵量并压低种群增长参数，同时下调JH信号基因Met、Kr-h1及20E受体基因EcR、USP表达；这些不利影响可传递至F1代，揭示其跨代毒性及保幼激素与蜕皮激素信号受抑的可能机制",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261107-3df1e06ec2",
     "title": "Nano-Formulated Naringin Protects Male Rats Against Mancozeb Pesticide Reproductive Damage",
     "type": "news",
@@ -55,6 +81,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42995421",
+    "title": "Multidimensional behavioral signatures of Culex quinquefasciatus (Diptera: Culicidae) in response to botanical volatiles reveal divergent patterns of mosquito displacement and behavioral disturbance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of medical entomology",
+    "authors": "Chandrasegaran K, Cannell E, Popko DA, Gerry AC.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-09",
+    "url": "https://europepmc.org/article/MED/42995421",
+    "doi": "10.1093/jme/tjag168",
+    "pmid": "42995421",
+    "abstract": "Underground storm drain systems (USDS) are productive but under-targeted habitats for Culex quinquefasciatus, where high organic loads, insecticide resistance, and odor-rich conditions complicate mosquito control. Spatial repellents offer a promising alternative, yet \"repellency\" encompasses multiple behavioral modes that remain poorly resolved for botanical volatiles. Here, we evaluated 4 individual plant-derived compounds, 2 whole essential oils, selected vapor-phase mixtures, and USDS water odors using a modified excito-repellency chamber to quantify escape, flying, and walking behaviors in Cx. quinquefasciatus. Botanical oils produced distinct, time-dependent behavioral profiles. Eugenol, citronellol, and geraniol primarily elicited escape-dominant responses consistent with spatial repellency, whereas flight activity under peppermint oil varied with active tube exposure level and time, and was accompanied by comparatively weaker escape responses. Mixture responses generally resembled the behavioral profile of the more strongly represented component rather than showing a clearly intermediate pattern. Joint escape-flight trajectories showed that treatments also differed in the temporal organization of these responses, ranging from rapid, sustained displacement to early within-chamber activation followed by delayed escape. Sewer water odors attenuated the magnitude of escape and flight responses but preserved the relative ordering of treatment-specific behavioral profiles. These findings demonstrate that botanical volatiles can produce distinct behavioral response profiles that remain detectable in a chemically complex odor environment. By repeatedly quantifying escape, flight, and walking activity within a single experimental system, this study provides a comparative behavioral framework to identify volatile treatments that warrant further evaluation to alter adult mosquito retention in odor-rich urban infrastructures, such as underground storm drains.",
+    "species_latin": "Culex quinquefasciatus",
+    "species_en": "southern house mosquito",
+    "species_zh": "致倦库蚊",
+    "takeaway": "用改良驱避腔量化致倦库蚊对植物挥发物的逃逸、飞行和步行反应，发现不同挥发物产生各异的行为干扰模式。",
+    "conclusion": "植物挥发物对致倦库蚊的行为干扰并非单一驱避，丁香酚、香茅醇和香叶醇主要引发以逃逸为主的空间驱避反应，薄荷油的飞行反应随暴露时间和剂量变化且逃逸较弱；混合物行为多接近其中较强成分而非中间型，各处理在逃逸与飞行的时间组织上也有差异；下水道水味可减弱反应幅度但不改变处理间排序，说明复杂气味环境中仍可区分不同挥发物的行为谱，为评估城市地下设施中蚊虫滞留干预提供比较框架。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -197,7 +249,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -901,6 +953,39 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261109-cry1f-serine-enterococcus",
+    "title": "植保所揭示Bt Cry1F原毒素C端水解氨基酸协同肠球菌杀虫新机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农科院植物保护研究所",
+    "authors": "",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-09",
+    "url": "http://www.ippcaas.cn/kyjz/db0b0daf0e0b4a48a413fd6b6cb23185.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究发现 Bt Cry1Fa 原毒素的 C 端区域被草地贪夜蛾中肠蛋白酶水解后释放 L-丝氨酸，该氨基酸可促进肠道共生肠球菌形成生物膜，增强其肠道定殖与向血腔异位迁移能力，加速害虫感染并放大杀虫效能。该成果发表于 npj Biofilms and Microbiomes，证实原毒素 C 端水解片段是 Cry 蛋白杀虫活性的重要组成部分。",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "Cry1Fa 原毒素 C 端水解产生的 L-丝氨酸通过诱导肠球菌生物膜与致病性协同杀虫，颠覆了“仅 N 端核心区具杀虫功能”的传统认知。",
+    "conclusion": "Cry 原毒素 C 端水解氨基酸经肠道菌群介导的间接通路参与杀虫活性，拓展了 Bt 杀虫分子机制，为新一代转基因抗虫作物的设计与优化提供理论支撑。",
+    "keywords": [
+      "Bt",
+      "Cry1Fa",
+      "原毒素",
+      "L-丝氨酸",
+      "肠球菌",
+      "生物膜",
+      "肠道菌群",
+      "草地贪夜蛾",
+      "生物农药",
+      "杀虫机制"
+    ]
+  },
+  {
     "id": "pmid-42978044",
     "title": "Rational pesticide design is now more feasible than ever - but what targets and molecules to choose?",
     "type": "paper",
@@ -1164,6 +1249,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42998652",
+    "title": "Toxicity of oxadiargyl to marine microalgae on competitive displacement and overlooked risk from transformation products",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "authors": "Li Y, Liu S, Zhang Y, Wu M.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-09",
+    "url": "https://europepmc.org/article/MED/42998652",
+    "doi": "10.1016/j.aquatox.2026.108075",
+    "pmid": "42998652",
+    "abstract": "Protoporphyrinogen oxidase (PPO) inhibitors are widely used in agriculture, yet their risks to marine ecosystems are often underestimated due to assumptions of target-site specificity and rapid environmental dissipation. Here, we demonstrated that oxadiargyl (OXA), a representative PPO herbicide, exhibits pronounced toxicity toward marine microalgae at 1-32 µg/L, highlighting the need for monitoring and risk assessment in coastal waters affected by agricultural runoff. Acute 96h-EC50 values for the keystone species Chlorella sp. and Skeletonema costatum were 6.02 and 9.35 μg/L, respectively, indicating they were highly sensitive taxa. OXA could disrupt community hierarchies through the competitive displacement of sensitive species by the tolerant diatom Phaeodactylum tricornutum. Although parent OXA dissipated rapidly in seawater (half-life 0.95 d), persistent toxicity in the solution was observed as the growth of microalgae remained suppressed even after parent OXA fully degraded. Using solid phase extraction-liquid chromatography-high resolution tandem mass spectrometry (SPE-LCHRMS/MS), nine (seven new) transformation products (TPs) were identified. Computational toxicity screening predicted that four TPs retain algal toxicity comparable to that of OXA. These findings demonstrate that rapid dissipation of parent compound does not equate to risk elimination, emphasizing the necessity of integrating community-level competition endpoints and TP profiling in future pesticide risk assessments.",
+    "species_latin": "Chlorella sp., Skeletonema costatum, Phaeodactylum tricornutum",
+    "species_en": "Chlorella sp., Skeletonema costatum, Phaeodactylum tricornutum",
+    "species_zh": "小球藻、中肋骨条藻、三角褐指藻",
+    "takeaway": "恶草酮在1-32微克/升即对海洋微藻有毒，且其转化产物仍具持续毒性。",
+    "conclusion": "恶草酮对海洋微藻毒性强，96小时EC50低至6.02微克/升，可通过竞争置换改变群落结构；母体虽快速降解，但转化产物仍抑制藻类生长，说明快速消散不等于风险消除，风险评估需纳入群落竞争终点与转化产物分析。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
