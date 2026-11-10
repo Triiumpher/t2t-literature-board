@@ -139,6 +139,110 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43003696",
+    "title": "Reduced susceptibility of Cry1Ac- and Cry2Ab-resistant Helicoverpa armigera to transgenic Bt maize events and associated changes in midgut receptor gene expression",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Yu H, Liu B, Li G, Wang W, Zhang C, Tang J, Yang X, Naing ZL, Liang G.",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/43003696",
+    "doi": "10.1002/ps.71476",
+    "pmid": "43003696",
+    "abstract": "BACKGROUND: Large-scale cultivation of transgenic Bt crops effectively controls target pests but increases the risk of resistance evolution. Polyphagous pests such as Helicoverpa armigera may evolve resistance to Bt crops, and cross-resistance among Bt proteins could hasten this process. This study evaluated the susceptibility of Cry1Ac-resistant (BtR1.8, BtR3.6) and Cry2Ab-resistant (2Ab5.0, 2Ab30) H. armigera to three Bt maize events (assessed with leaf, silk, and kernel), DBN9936 (expressing Cry1Ab), DBN3601T (Cry1Ab + Vip3Aa), and Ruifeng 125 (Cry1Ab/Cry2Aj). RESULTS: Compared with the susceptible 96S strain, both Cry1Ac- and Cry2Ab-resistant strains exhibited significantly reduced susceptibility to all three Bt maize events. In diet-incorporated bioassays with lyophilized leaf powder, resistance rations based on EC50 (the concentration preventing 50% of larvae from reaching the third instar within 7 days) ranged from 3.44- to 8.84-fold for Cry1Ac-resistant strains and from 2.20- to 9.53-fold for Cry2Ab-resistant strains (>12.81-fold for 2Ab30 on Ruifeng 125). Bioassays using fresh silk and kernels confirmed significantly lower mortality in resistant strains compared with 96S. Notably, pyramided events (DBN3601T and Ruifeng 125) demonstrated higher insecticidal efficacy against resistant larvae than the single-trait DBN9936, particularly in strains with lower resistance levels. Following Bt maize consumption, reverse transcription quantitative polymerase chain reaction (RT-qPCR) analysis revealed significant downregulation of midgut receptor genes, including ABCC2, ABCC3, ABCA2, APN1, and APN2. Specifically, ABCC2 was significantly downregulated in Cry1Ac-resistant strains, and both ABCC2 and ABCA2 were downregulated in Cry2Ab-resistant strains. CONCLUSION: These results show that laboratory-selected Cry1Ac/Cry2Ab-resistant H. armigera have reduced susceptibility to Cry1Ab-expressing maize tissue and to the pyramided events tested. Lower transcript levels of ABCC2 and ABCA2 were associated with the resistant phenotypes, but the direct association with the reduced susceptibility was not tested. Because the strains were selected in the laboratory, these findings provide information relevant to, but cannot be directly extrapolated to, insect resistance management strategies for Bt maize in China. © 2026 Society of Chemical Industry.",
+    "species_latin": "Helicoverpa armigera",
+    "species_en": "Cotton bollworm",
+    "species_zh": "棉铃虫",
+    "takeaway": "实验室筛选的棉铃虫Cry1Ac/Cry2Ab抗性品系对三种转Bt玉米敏感性下降，中肠受体基因ABCC2、ABCA2等表达下调",
+    "conclusion": "Cry1Ac和Cry2Ab抗性棉铃虫对表达Cry1Ab的单价及聚合Bt玉米均表现出敏感性降低，聚合事件杀虫效果优于单价事件；ABCC2、ABCA2转录水平下降与抗性表型相关，但其与敏感性降低的直接因果关系尚未验证，且因抗性品系为实验室筛选，结论外推需谨慎",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43003679",
+    "title": "Insecticidal gel bait formulations against the poultry litter beetle, Alphitobius diaperinus: integrating toxicological and behavioral analyses",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Gupta V, Brown D, Mizumoto N, Appel A, Liu N.",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/43003679",
+    "doi": "10.1002/ps.71456",
+    "pmid": "43003679",
+    "abstract": "BACKGROUND: The poultry litter beetle, Alphitobius diaperinus, is an important pest of poultry production systems, yet commercial insecticidal gel baits have not been systematically evaluated for its management. We evaluated 10 gel bait formulations against adults from five beetle populations under no-choice and food-choice conditions (50 mg formulation per arena), assessing mortality over 14 days (336) h and short-term bait related and post-exposure responses in separate behavioral assays. RESULTS: Emamectin benzoate and fipronil formulations generally produced the most rapid declines in survival, with LT50 values commonly near or below 24 h, whereas abamectin B1 showed substantial but greater population- and feeding-dependent variation. Boric acid produced slower, progressive mortality, while several neonicotinoid-based formulations and indoxacarb produced slower, more variable, or incomplete mortality; for several baits in particular beetle populations, LT50 was not reached within 336 h. Alternative food generally delayed mortality and increased variability in bait performance. During 8-10 h behavioral observations, imidacloprid produced more frequent behavioral signs of intoxication and knockdown, particularly in the Nash [NC] population (6/15 beetles reached knockdown), whereas only 1/15 boric acid-exposed beetles in each population reached knockdown despite observed bait interaction. CONCLUSION: Gel-bait performance against adult A. diaperinus depends on formulation, population, and feeding context. Integrating mortality kinetics with behavioral observations showed that acute impairment does not necessarily predict longer-term mortality. These findings identify promising bait formulations for field validation and potential incorporation into poultry integrated pest management programs. © 2026 Society of Chemical Industry.",
+    "species_latin": "Alphitobius diaperinus",
+    "species_en": "poultry litter beetle",
+    "species_zh": "鸡舍小粉甲",
+    "takeaway": "评估10种杀虫凝胶饵剂对鸡舍害虫 Alphitobius diaperinus 成虫的效果，发现甲维盐和氟虫腈致死最快，且效果受虫源种群和取食条件影响。",
+    "conclusion": "凝胶饵剂对 Alphitobius diaperinus 成虫的防效取决于制剂类型、昆虫种群和取食环境；甲维盐与氟虫腈致死速度最快，硼酸起效较慢，新烟碱类和茚虫威效果不稳定；行为学上的急性中毒表现不能可靠预测长期死亡率，需结合致死动力学与行为观察筛选田间候选饵剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43003425",
+    "title": "Ecotoxicological Risk and Differential Sensitivity of Natural Enemies to Pesticide-Driven Threats in the Ndop Tropical Wetland Rice Agroecosystem, Cameroon: Implications for Integrated Pest Management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology",
+    "authors": "Nkwatoh TN, Elono ALM, Nkwatoh LS, Ebile PA, Ndindeng SA.",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/43003425",
+    "doi": "10.1002/tox.70210",
+    "pmid": "43003425",
+    "abstract": "Selecting low-toxicity pesticides for Integrated Pest Management (IPM) is vital to protecting non-target natural enemies and maintaining ecosystem health. This study assessed the ecotoxicological risk and natural enemies' differential sensitivity to pesticide-driven biodiversity threats in tropical wetland rice fields in Ndop, Cameroon. The ecotoxicological risks associated with current farming schemes of 626 farmers were assessed using the Pesticides RIsks in the Tropics to Man, Environment and Trade (PRIMET) model based on farmers' pesticide application schemes, toxicity endpoints of the most sensitive parasitic wasp (Aphidius rhopalosiphi) and predatory mite (Typhlodromus pyri) species, and pesticide physicochemical properties. Wilcoxon signed-rank test was used to compare pesticide application concentrations and risk profiles, and pairwise ratio analysis was used for differential sensitivity analysis. Pearson correlation established relationships between variables. Approximately 76.46% of the 17 pesticides (paraquat dichloride, 2,4-D amine, glyphosate, carbendazim, chlorothalonil, copper (I) oxide, maneb, mancozeb, metalaxyl, potassium phosphonate, acetamiprid, chlorpyrifos, cypermethrin, emamectin benzoate, fipronil, imidacloprid, lambda-cyhalothrin) used by farmers were overused, with the PRIMET model predicting definite or possible risks to both species for all seven insecticides, and lambda-cyhalothrin (ETR = 98 800) and cypermethrin (ETR = 122 000) posing the highest acute and chronic definite risks. The fungicides carbendazim, metalaxyl, maneb, and chlorothalonil posed a possible risk (ETR ≤ 100) to T. pyri, while mancozeb posed a definite risk (ETR = 189.7) to A. rhopalosiphi. In contrast, chlorpyrifos (ETR = 6213) and fipronil (ETR = 4463) posed the highest definite risks to A. rhopalosiphi. Overall risk levels did not differ significantly between the two species (p < 0.9), with T. pyri sensitive to 42.9% of applied pesticides and showing 284-fold higher differential sensitivity than A. rhopalosiphi, mostly to pyrethroids. Pearson correlation revealed a highly significant positive relationship between lethal rates and applied concentrations (r = 0.723, p < 0.001). Farmers in wetlands should replace high-risk pesticides, especially pyrethroids, and adopt IPM to reduce risks to non-target beneficial arthropods.",
+    "species_latin": "Aphidius rhopalosiphi",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "喀麦隆Ndop稻田农药普遍超量，PRIMET模型显示七种杀虫剂对天敌构成风险，拟除虫菊酯类风险最高。",
+    "conclusion": "多数农药被超量施用，所有杀虫剂对两种天敌模式生物均呈确定或可能风险，其中高效氯氟氰菊酯和氯氰菊酯急性与慢性风险最高；捕食螨对42.9%的农药敏感，对拟除虫菊酯的差异敏感性远高于寄生蜂，但两物种总体风险水平无显著差异，提示IPM需优先选用低毒农药。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43003326",
+    "title": "Urban-Rural Contrasts in Parent Neonicotinoid Insecticides and Their Transformation Products: Evidence from A River Jointly Affected by Urban and Agricultural Inputs",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental research",
+    "authors": "Pan F, Huang Y, Zhu Z, Han B, Wang J, Liu W.",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/43003326",
+    "doi": "10.1016/j.envres.2026.126135",
+    "pmid": "43003326",
+    "abstract": "Agricultural application is generally considered the primary source of neonicotinoid insecticides (NNIs) in rivers, yet the contribution of urban discharges to riverine pollution patterns of parent NNIs (pNNIs) and their transformation products (TPNNIs) remains poorly understood. This study investigated the co-occurrence of pNNIs and TPNNIs during spring in surface water from the Jialu River, a representative river jointly affected by urban and rural discharges. Both pNNIs and TPNNIs were detected at all sampling sites, with median concentrations of 2141.8 ng/L (14.6 - 5973.2 ng/L) and 319.4 ng/L (9.4 - 1643.4 ng/L), respectively, and were dominated by dinotefuran and desnitro-imidacloprid, respectively. Median total pNNIs and total TPNNIs concentrations in the urban-dominated upper mainstem were 8.9 and 3.6 times the corresponding medians in the predominantly rural Shuangji River, respectively. Cluster analysis combined with pesticide registration and application information, as well as local land-cover characteristics, identified two groups. The first group characterized by dinotefuran enrichment in urban reaches exhibited urban-associated spatial patterns, whereas another group characterized by clothianidin, thiamethoxam, and imidacloprid aligned with local agricultural pesticide use patterns, suggesting agriculture-associated spatial patterns. TPNNIs/pNNIs ratios further characterized compositional differences among river sections. Total organic carbon, total nitrogen, and conductivity were associated with the concentrations and composition of pNNIs and TPNNIs. These environmental associations varied between compound classes. Ecological risks posed by NNIs in Jialu River surface water were high, particularly in the upper and lower mainstems, with dinotefuran and thiamethoxam as the principal risk contributors.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "贾鲁河地表水中母体及转化产物新烟碱类农药全检出，城市段浓度显著高于农村段，生态风险高。",
+    "conclusion": "城市排放对河流新烟碱类农药污染贡献显著：城市主导上游母体及转化产物浓度分别为农村河流的8.9倍和3.6倍，呋虫胺与脱硝基吡虫啉分别主导两类污染物，群落分析区分出城市型与农业型空间格局，总有机碳、总氮和电导率与浓度组成相关，整体生态风险高，呋虫胺和噻虫嗪为主要风险贡献者。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42998311",
     "title": "Toxicity and transgenerational effects of cyproflanilide on Ostrinia furnacalis (Lepidoptera: Crambidae)",
     "type": "paper",
@@ -246,6 +350,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43002964",
+    "title": "Synergistic triazoles-metal ions bridging for active and stable enzyme assembled composite toward high-performance biosensor",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biosensors & bioelectronics",
+    "authors": "Yu B, Shen Y, Su C, Li H, Yan X.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/43002964",
+    "doi": "10.1016/j.bios.2026.119414",
+    "pmid": "43002964",
+    "abstract": "Toxic pesticides pollution is ubiquitous in soil via undirected migration, which poses huge risk on soil properties and soil biodiversity patterns. Developing enzyme-based biosensor opens opportunities for monitoring pesticides migration behavior in soil, yet this technique faces challenges in poor enzyme stability and susceptibility to interference from the soil matrix. Here we design a weak aggregation-coupled multisite bridging strategy to immobilize enzyme, with the aim of constructing a robust enzyme-based biosensor for monitoring pesticide migration in soil. To immobilize enzyme, hydrophobic triazole moieties as a molecular linker drive rapid pre-assembly with acetylcholinesterase enzyme, followed by multivalent coordination locking via metal ions, forming an enzyme-triazoles-metal ions assembled composite (EAC). Notably, this approach enables enzyme immobilization within 5 min, which eliminates the need for large-nanometer-scale framework coordination to preserve substantial catalytic activity of EAC, overcoming the activity-stability tradeoffs in immobilized enzyme. The fabricated EAC-based sensor enables real-time, sensitive tracking of organophosphorus degradation dynamics and migration behavior in three typical types of soil, offering a reliable toolkit for precise monitoring of toxic pesticide pollution. We report a novel application strategy to provide design guidance for future high-performance pesticide biosensors while supporting agroecological practices development.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用三唑-金属离子桥接固定乙酰胆碱酯酶，5分钟组装出高活性稳定复合物，实现土壤中有机磷农药迁移实时监测。",
+    "conclusion": "该研究提出弱聚集耦合多站点桥接策略，以疏水三唑分子连接乙酰胆碱酯酶预组装，再经金属离子多价配位锁定，形成酶-三唑-金属离子复合物。该复合物无需大尺度框架配位即可在5分钟内完成固定，兼顾催化活性与稳定性，突破固定化酶的活性-稳定性权衡，并成功用于三类土壤中有机磷降解与迁移的实时灵敏追踪。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
