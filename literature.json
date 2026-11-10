@@ -1,5 +1,144 @@
 [
   {
+    "id": "news-20261110-4f60ea8b8e",
+    "title": "Brazil's Wolbachia Mosquito Policy Faces Coverage and Delivery Lag",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PravdaReport",
+    "authors": "",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-10",
+    "url": "https://english.pravda.ru/news/world/172054-brazil-wolbachia-mosquito-policy-lag/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴西沃尔巴克氏体蚊媒防控政策面临覆盖不足与投放滞后问题",
+    "conclusion": "标题提示巴西推广携带沃尔巴克氏体的蚊虫以防控蚊媒疾病的政策在覆盖范围和实施进度上存在滞后，具体机制与数据因无摘要无法确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261110-0c7748cf31",
+    "title": "Biochar Hybrid Catalyst Enables Rapid Non-Radical Breakdown of Aquatic Pesticide Pollutants",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-10",
+    "url": "https://bioengineer.org/biochar-hybrid-catalyst-enables-rapid-non-radical-breakdown-of-aquatic-pesticide-pollutants/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "生物炭复合催化剂可快速以非自由基途径降解水体农药污染物",
+    "conclusion": "该研究报道一种生物炭基复合催化剂，能通过非自由基机制快速分解水体中的农药类污染物，为农药污染水体治理提供新思路，但具体机制与效果需原文数据支持。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261109-5e07ae261e",
+    "title": "Magnetic MOF Sorbent Extracts Pesticides From Food and Soil",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-10",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjRxNGo4UWRfRWlEWE5ncnFSaDhzTnlCVVNid0NEbFJfODdJQzdxbld0aDZnTndIQWM5YV8wYi1BZEZtN0NHYzdYaElBMFI2cDRGaDBNME5sSGcxLVJiRGdnazNlTzE0UHY2NkFleklUeUl6eXQwVG80U1QtWjVmTGQ2Mm4ybjdwTnAtdQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "磁性MOF吸附剂用于从食品和土壤中提取农药",
+    "conclusion": "该研究开发了一种磁性金属有机框架吸附剂，可用于食品与土壤样品中农药的萃取，为复杂基质中农药残留的样品前处理提供了新方法。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43002318",
+    "title": "RNA interference targeting host physiological pathways enhances Beauveria bassiana efficacy against the tomato red spider mite Tetranychus evansi",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Experimental & applied acarology",
+    "authors": "Cao Z, Smagghe G, Lan X, Li Z, Gu X, Li G.",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/43002318",
+    "doi": "10.1007/s10493-026-01212-0",
+    "pmid": "43002318",
+    "abstract": "The tomato red spider mite Tetranychus evansi is a major pest of Solanaceous crops and is increasingly difficult to control due to rapid development of resistance to acaricides. Entomopathogenic fungi such as Beauveria bassiana provide environmentally compatible alternatives, but their relatively slow action and variable efficacy limit field performance. This study investigated whether RNA interference (RNAi)-mediated disruption of key physiological pathways in T. evansi could enhance fungal pathogenicity. Spray bioassays revealed stage-specific susceptibility to B. bassiana strain HGS-1, with adult females being the most susceptible stage; however, mortality reached only 54% after 9 days at 1 × 109 spores/mL. To identify molecular targets, genes associated with housekeeping, immune, and cuticle-related functions were screened using RNAi. The result showed that silencing of genes TeATP, TeRPL13, TeRPS18, TeMyd88, TePGRP, TeCPR25, TeHex1, and TeHex2 significantly induced death of adult mites. The fungal infection​ following RNAi showed​ that silencing of these genes increased mitesusceptibility​ to B. bassiana. Co-application of dsRNA and B. bassiana further enhanced control efficacy. In particular, dsTeRPL13 and dsTeNox increased cumulative mortality by 18-19%, while dsTeCHS and dsTeHex1 reduced median lethal time, indicating faster disease progression. These results demonstrate that RNAi-mediated targeting of host physiological pathways can improve the performance of fungal biocontrol. By weakening metabolic capacity, immune defense, and cuticle integrity, this approach offers a promising, biosafe strategy for managing spider mites and addressing acaricide resistance within integrated pest management (IPM) programs.",
+    "species_latin": "Tetranychus evansi",
+    "species_en": "tomato red spider mite",
+    "species_zh": "番茄红蜘蛛",
+    "takeaway": "RNAi沉默番茄红蜘蛛关键生理基因可增强球孢白僵菌致病力，提高防控效果",
+    "conclusion": "沉默TeATP、TeRPL13等管家、免疫及表皮相关基因可显著提高番茄红蜘蛛对球孢白僵菌的敏感性；dsRNA与真菌联用使累计死亡率提高18-19%，并缩短半数致死时间，机制涉及削弱代谢、免疫防御与表皮完整性，为害螨生物防治和抗药性治理提供新策略",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43002068",
+    "title": "Cationic receptor-stabilized Ag nanoparticle-decorated carbon nanotubes for electrochemical monitoring of azamethiphos pesticide",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Analytical methods : advancing methods and applications",
+    "authors": "Kumar M, Dhiman A, Asha, Kaur N, Singh N.",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/43002068",
+    "doi": "10.1039/d6ay02091g",
+    "pmid": "43002068",
+    "abstract": "Although organophosphorus pesticides (OPs) are frequently employed in agriculture and public health, there are significant environmental and health risks associated with their toxicity and persistence. Among them, azamethiphos (AMP) is notable for its propensity to bioaccumulate in the food chain, endangering human health and non-target creatures. This emphasizes the urgent need for a highly sensitive, selective, and trustworthy AMP detection method to guarantee environmental safety and environmental preservation. Here, we created an Ag/IL@CNT nanocomposite for electrochemical AMP detection using a straightforward reduction technique, and we validated its shape and structural characteristics using FESEM and PXRD. Even when structurally identical insecticides were present, the Ag/IL@CNT-modified glassy carbon electrode (GCE) demonstrated good electrocatalytic activity and selectivity toward AMP. Electrochemical DPV measurements showed a linear detection range of 10-170 µM, with a limit of detection (LOD) of 1.45 µM and good linearity (R2 = 0.9930). The sensor also exhibited good reproducibility and operational stability. The analysis of spiked tap water and groundwater samples yielded a satisfactory recovery range of 92-107.5%, with a low relative standard deviation. Overall, the Ag/IL@CNT/GCE sensor provides a cost-effective, rapid, and robust platform for AMP detection over instrumental analysis, showing promising applicability for environmental monitoring, particularly in resource-limited settings.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用Ag/IL@CNT修饰电极电化学检测甲基吡啶磷，检出限1.45 µM，兼具选择性与实用性",
+    "conclusion": "该传感器对甲基吡啶磷表现出良好电催化活性与选择性，线性范围10-170 µM，重现性和稳定性良好；加标水样回收率92-107.5%，为环境监测提供低成本快速平台",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42998311",
     "title": "Toxicity and transgenerational effects of cyproflanilide on Ostrinia furnacalis (Lepidoptera: Crambidae)",
     "type": "paper",
@@ -22,7 +161,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -84,6 +223,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42995004",
+    "title": "Design, synthesis and insecticidal activity of isoxazoline derivatives containing a 1,2,4-triazole thioether moiety",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Ye X, Li Y, Chen S, Yang Z, Wu J.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/42995004",
+    "doi": "10.1002/ps.71467",
+    "pmid": "42995004",
+    "abstract": "Background Isoxazoline insecticides have attracted considerable attention because of their potent insecticidal activity and potential for further structural optimization. Results Using fluxametamide as the lead compound and employing an active substructure hybridization strategy, a total of 28 isoxazoline derivatives (Y1-Y22 and Z1-Z6) were designed and synthesized. Bioassay results showed that several compounds exhibited potential insecticidal activity against Plutella xylostella, Spodoptera frugiperda and Ostrinia furnacalis. Specifically, compound Z3 exhibited the lowest nedian lethal concentration (LC 50 ) value against P. xylostella (0.32 μg mL -1 ) among the tested compounds, which was lower than that of fluxametamide (LC 50 = 1.28 μg mL -1 ). Additionally, compound Z2 showed insecticidal activity against S. frugiperda and O. furnacalis, with LC 50 values of 1.73 and 1.96 μg mL -1 , respectively. Structure-activity relationship (SAR) analysis suggested that the electronic and steric effects of the substituents were associated with differences in insecticidal activity. Molecular docking, molecular dynamics simulations (MD), density functional theory (DFT) calculations and 3D-QSAR (quantitative SAR) analysis also were used to examine the relationship between the structural features of these compounds and their insecticidal activity, providing preliminary information for subsequent structural optimization. Conclusion This study showed that isoxazoline derivatives incorporating a 1,2,4-triazole thioether moiety exhibited potential insecticidal activity. In particular, compounds Z2 and Z3 may be considered for further structural optimization. © 2026 Society of Chemical Industry.",
+    "species_latin": "Plutella xylostella, Spodoptera frugiperda, Ostrinia furnacalis",
+    "species_en": "diamondback moth, fall armyworm, Asian corn borer",
+    "species_zh": "小菜蛾、草地贪夜蛾、玉米螟",
+    "takeaway": "以氟雷拉纳为先导设计28个异噁唑啉三唑硫醚衍生物，Z3对小菜蛾活性优于先导。",
+    "conclusion": "含1,2,4-三唑硫醚的异噁唑啉衍生物具杀虫潜力；取代基电子与空间效应影响活性，Z3对小菜蛾、Z2对草地贪夜蛾和玉米螟活性突出，可作后续优化候选。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42995421",
     "title": "Multidimensional behavioral signatures of Culex quinquefasciatus (Diptera: Culicidae) in response to botanical volatiles reveal divergent patterns of mosquito displacement and behavioral disturbance",
     "type": "paper",
@@ -132,7 +297,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -249,7 +414,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "OpenAlex;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -275,7 +440,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -301,7 +466,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -327,7 +492,66 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261110-prunus-pedunculata-t2t",
+    "title": "Genome Biology｜十二倍体荒漠灌木长梗扁桃端粒到端粒基因组揭示多倍化驱动的干旱适应",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "西北农林科技大学生命科学学院",
+    "authors": "",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-10",
+    "url": "https://life.nwafu.edu.cn/kxyj/kydt/0f03a756a3074fe2aee0406d5b9e8f0a.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究完成蒙古高原特有荒漠灌木长梗扁桃（Prunus pedunculata）的端粒到端粒基因组组装，该物种为十二倍体（2n=12×=96），是已测序倍性最高的多年生木本植物；1.38 Gb 基因组解析为 48 条染色体且每条均检测到端粒重复。进化分析证实其为同源多倍体起源，最近一次全基因组复制约在 349 万年前，与青藏高原隆升及亚洲内陆干旱化时间吻合。",
+    "species_latin": "Prunus pedunculata",
+    "species_en": "longstalk almond",
+    "species_zh": "长梗扁桃",
+    "takeaway": "首个十二倍体木本植物 T2T 基因组表明多倍化产生的冗余基因被重新招募用于干旱胁迫响应，支撑荒漠灌木的极端干旱适应。",
+    "conclusion": "长梗扁桃为同源多倍体起源，多倍化事件与亚洲内陆干旱化相关；梯度干旱下器官特异转录组揭示 ABA、CLE25、BES1/BIN2 与生长素信号协同的耐旱网络，干旱响应基因与扩张基因家族显著重叠，为干旱区林木与作物改良提供线索。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "长梗扁桃",
+      "Prunus pedunculata",
+      "十二倍体",
+      "同源多倍体",
+      "全基因组复制",
+      "干旱适应",
+      "染色体组装",
+      "Genome Biology"
+    ]
+  },
+  {
+    "id": "pmid-42992772",
+    "title": "EGFP Reporter Assay in Transgenic Zebrafish Embryos for Assessing Formulation-Dependent dsRNA Bioavailability",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of visualized experiments : JoVE",
+    "authors": "Dey HP, Weichert FG, Hellmann C, Kirchmaier B, van der Zalm E, Eilebrecht E, Hollert H, Bär S, Eilebrecht S.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/42992772",
+    "doi": "10.3791/74036",
+    "pmid": "42992772",
+    "abstract": "RNA interference (RNAi) is a sequence-specific gene silencing mechanism increasingly exploited for the development of sprayable, species-selective pest control products. For many applications, the trigger molecule double-stranded RNA (dsRNA) must be stabilized via suitable formulation strategies to ensure delivery to the target site and enable biological activity. Currently, there is no standardized approach to assess dsRNA bioavailability as a function of its formulation in fish. However, this is a critical step in assessing the environmental risks posed by formulated dsRNA to fish and other non-target organisms. Here, we present a zebrafish embryo-based assay using the Tg(fli1:EGFP) y1 reporter line to assess dsRNA bioavailability by quantifying RNAi-mediated gene silencing. Based on OECD Test Guideline 236, zebrafish embryos are exposed to sublethal concentrations of nano-lipid formulated dsRNA designed to target the EGFP messenger RNA (mRNA). After 96 h of exposure via immersion, embryos are either assessed microscopically or homogenized to quantify EGFP signal, providing a rapid, high-throughput readout without the need for dissection or individual embryo handling. EGFP downregulation at the protein level, analyzed by fluorescence signal quantification, is complemented by quantifying EGFP mRNA levels using RT-qPCR. Representative results show a concentration-dependent reduction of EGFP signal along with decreased EGFP transcript levels, indicating effective uptake and functional delivery of the nano-lipid formulated dsRNA. This workflow provides a reliable method for assessing the cellular bioavailability of dsRNA as a function of its formulation. Additionally, the microplate reader-based fluorescence measurement offers a straightforward and time-efficient readout, reducing animal use. Utilizing zebrafish embryos, the method is furthermore a refined approach, reducing the need for experiments on protected life stages of fish, supporting the 3Rs principle. More broadly, this protocol is adaptable for additional applications, including the modification of the reporter line, target gene, or nanoparticle-based delivery system for use in developmental and (eco‑)toxicological studies.",
+    "species_latin": "Danio rerio",
+    "species_en": "zebrafish",
+    "species_zh": "斑马鱼",
+    "takeaway": "用Tg(fli1:EGFP)斑马鱼胚胎建立dsRNA生物利用度荧光报告检测法",
+    "conclusion": "该研究基于OECD TG236，将斑马鱼胚胎暴露于纳米脂质配方的dsRNA，通过荧光定量和RT-qPCR检测EGFP沉默，发现呈浓度依赖性的EGFP蛋白与mRNA下降，说明该配方dsRNA可被有效摄取并发挥功能；该方法快速、高通量、减少动物使用，可用于评估dsRNA配方的细胞生物利用度及环境风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -382,7 +606,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -408,7 +632,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -523,7 +747,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -549,7 +773,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -575,7 +799,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -601,7 +825,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -631,6 +855,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42981355",
+    "title": "Strengthening community engagement for the control of Aedes-borne diseases: Insights from an international workshop in Rio de Janeiro, Brazil",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Poinsignon A, Aguiar GA, Jambou M, Birba JW, Moshi IR, Lezaun J, Corbel V, Fournet F, Lenzi MF.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/42981355",
+    "doi": "10.1371/journal.pntd.0014832",
+    "pmid": "42981355",
+    "abstract": "Arboviral diseases transmitted by Aedes mosquitoes, including dengue, chikungunya and zika, represent a growing global public health threat, exacerbated by climate change, rapid urbanisation, social inequalities and weak public infrastructures. While technical innovations in vector control continue to expand, their effectiveness and sustainability largely depend on social dynamics, sustained community engagement and local ownership. We report here insights from the International Workshop Strengthening North-South research cooperation in social sciences for protecting vulnerable populations from Aedes-borne diseases, held in Rio de Janeiro in September 2025. The meeting brought together researchers, public health professionals, and community actors from the Americas, Europe, and Africa. The workshop aimed to explore how social sciences can contribute to the surveillance and control of Aedes-borne diseases, particularly in vulnerable settings. Structured around three thematic sessions, the workshop examined (i) how the social sciences can contribute to better health and well-being in a context of global environmental and climatic changes; (ii) what are the factors shaping communities' perceptions of Aedes control strategies, and how can social sciences contribute to appropriation and implementation of those strategies, including Wolbachia and sterile insect techniques; and (iii) how citizen science tools and digital technologies support surveillance and engagement in the fight against vector-borne diseases? Across sessions, case studies from Latin America, Africa, and Europe highlighted the central role of trust, locally grounded knowledge, participatory governance, and intersectoral collaborations. Discussions emphasised that community engagement is a core determinant of effective and equitable vector-borne disease control. Citizen science initiatives, participatory surveillance, and co-designed interventions were shown to strengthen data quality, improve acceptability of innovations, and empower communities to address structural determinants of exposure. The workshop concluded that integrating social sciences into One Health approaches is essential to develop adaptive, inclusive, and sustainable responses to arboviral threats in a rapidly and unpredictably changing world.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "Aedes mosquito",
+    "species_zh": "伊蚊",
+    "takeaway": "里约热内卢国际研讨会指出，社会科学与社区参与是提升伊蚊传播疾病防控效果和公平性的关键。",
+    "conclusion": "将社会科学纳入“同一健康”框架，通过信任建设、本地知识、参与式治理、跨部门协作以及公民科学和数字工具，可提高伊蚊防控新技术的可接受性与数据质量，并赋能社区应对结构性暴露风险，从而实现有效且公平的媒介传播疾病控制。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -689,7 +939,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -715,7 +965,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -833,10 +1083,10 @@
     "authors": "Nariman N, Agarwal H, Xu S.",
     "publish_date": "2026-11-04",
     "added_at": "2026-11-05",
-    "url": "",
-    "doi": "",
-    "pmid": "",
-    "abstract": "",
+    "url": "https://europepmc.org/article/MED/42979627",
+    "doi": "10.1098/rsos.261014",
+    "pmid": "42979627",
+    "abstract": "Intensive agricultural insecticide use often fails to eradicate pest populations completely, leaving small remnant populations exposed to persistent sublethal residues and potentially elevated inbreeding. How such remnant populations persist remains poorly understood. Here, we examined how inbreeding and sublethal imidacloprid exposure shape survival and post-emergence performance in the Colorado potato beetle ( Leptinotarsa decemlineata ), a major agricultural pest. We compared four groups differing in breeding status and insecticide exposure history, and quantified emergence rate, locomotor activity, feeding behaviour and reproductive output. We found that despite the insecticide dosage being sublethal, both chemical exposure and inbreeding imposed severe developmental costs, reducing the adult emergence rate with no significant interaction effects. However, among the adults, we observed trait-specific phenotypic plasticity. Male locomotor activity was reduced by both stressors, while female activity remained stable. Notably, herbivory significantly increased under both inbreeding and sublethal insecticide exposure. Furthermore, while inbreeding severely reduced both egg production and hatching success, sublethal exposure to the insecticide surprisingly increased hatching success in surviving pairs. These results demonstrate that sublethal insecticide exposure and inbreeding can create a strong developmental bottleneck. Yet, surviving individuals can exhibit compensatory plasticity that maintains or even enhances their capacity for crop damage.",
     "species_latin": "Leptinotarsa decemlineata",
     "species_en": "Colorado potato beetle",
     "species_zh": "科罗拉多马铃薯甲虫",
@@ -1274,7 +1524,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1483,6 +1733,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1016/j.plaphy.2026.111942",
+    "title": "A T2T genome of Rosa chinensis reveals TE insertions underlying petal color variation",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant Physiology and Biochemistry",
+    "authors": "Xiaoni Zhang, Ran Tang, Hongzhen Wu, Yujing Tang, Meichen Wei, Lan Lan, Xingyu Liu, Yiqian Ju, Xueli Wan, 姜新强, Zhiqiang Wu",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-10",
+    "url": "https://doi.org/10.1016/j.plaphy.2026.111942",
+    "doi": "10.1016/j.plaphy.2026.111942",
+    "pmid": "",
+    "abstract": "Roses are important horticultural plants valued for ornamental, food, and essential oil applications, with quality traits underlying their diverse uses. Chinese old rose cultivars represent invaluable genetic resources that contributed to the origin and diversification of modern roses. However, the repetitive and structurally complex rose genome has limited complete reference genomes and hindered studies of genome evolution and the genetic basis of quality traits. Here, we generate a telomere-to-telomere (T2T) genome assembly of Rosa chinensis ‘Chilong Hanzhu’ by integrating PacBio HiFi, ultra-long reads, and Hi-C sequencing technologies. This complete genome resolves previously inaccessible repetitive regions and provides a comprehensive resource for dissecting genome organization and evolution in roses. Using this reference, we systematically characterize the evolutionary dynamics and regulatory impacts of transposable elements (TEs), revealing that lineage-specific TE expansions contribute substantially to genome size variations and regulatory diversity among rose genomes. Integrated comparative genomic and transcriptomic analyses demonstrate that promoter TE insertions are associated with transcriptional divergence across tissues and may contribute to the expression of anthocyanin/proanthocyanin biosynthetic genes underlying flower color variation. Together, our study establishes a high-quality genomic resource for R. chinensis and highlights the critical role of TEs in shaping genome evolution, regulatory innovation, and phenotypic diversification in ornamental plants.",
+    "species_latin": "Rosa chinensis",
+    "species_en": "Rose",
+    "species_zh": "月季",
+    "takeaway": "构建月季'赤龙含珠'端粒到端粒基因组，揭示转座子插入启动子区影响花色相关基因表达。",
+    "conclusion": "该T2T基因组补齐了月季重复与复杂区域，系统解析转座子的演化动态与调控效应，发现谱系特异性转座子扩增推动基因组大小与调控多样性分化；启动子区转座子插入与组织间转录差异相关，可能影响花青素/原花青素合成基因表达，从而塑造花色变异，为观赏植物基因组演化与表型多样化研究提供高质量资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42995424",
+    "title": "Sex-specific inbreeding depression of the life-history traits in Frankliniella occidentalis",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Journal of insect science (Online)",
+    "authors": "Woldemelak WA.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/42995424",
+    "doi": "10.1093/jisesa/ieag121",
+    "pmid": "42995424",
+    "abstract": "Inbreeding depression decreases the fitness of progeny resulting from mating between related individuals. The sex-specific response to inbreeding remains unknown in haplodiploid organisms, which have haploid males and diploid females. This research examines the consequences of inbreeding using 2 different inbreeding protocols: full-sib (brother-sister, BS) and maternal backcross (mother-son, MS) on life history, demographic variables, growth in population size, and morphological stability in Frankliniella occidentalis. The experiment was tested for 3 generations: 1 outbred (F1) and 2 inbred (F2 and F3) for both the BS and MS inbreeding regimes. Sibling mating reduced lifetime reproductive productivity from 101.00 to 60.72 (39.9% reduction); maternal backcrossing led to an even greater reduction from 100.20 to 39.10 (61.3% reduction) by F3 generation. Second-clutch egg number declined from 35.42 (control) to 17.85 (BS F3) and 6.45 (MS F3), representing 49.6% and 81.8% reductions, respectively. Net reproductive rate (R0) was reduced from 48.52 to 14.15 (sibling) and to catastrophic levels of 4.85 (backcross; 90.0% reduction). Intrinsic rate of increase (r) was sharply reduced from 0.185 d-1 to 0.088 d-1 (sibling) and 0.024 d-1 (backcross; 87.0% reduction), while the finite rate of increase (λ) declined from 1.203 to 1.092 and 1.024, respectively. Mean generation time (T) increased from 21.05 to 30.12 d (sibling) and 34.60 d (backcross; 64.3% increase). In the case of maternal backcrossing, there was no purging of deleterious alleles in males due to the haploid phase, since their survival rate dropped drastically to 41.4% and malformation levels reached 32.2% overall, with nearly equal distribution between sexes (16.2% in females and 16.0% in males).",
+    "species_latin": "Frankliniella occidentalis",
+    "species_en": "Western flower thrips",
+    "species_zh": "西花蓟马",
+    "takeaway": "以西花蓟马为对象，比较全同胞交配与母本回交三代，发现近交显著降低繁殖力与种群增长，回交危害更重。",
+    "conclusion": "近交使西花蓟马终身繁殖力、二 clutch 产卵量、净生殖率与内禀增长率大幅下降、世代时间延长，母本回交比全同胞交配更严重；单倍体雄性未能清除有害等位基因，存活率骤降且畸形率升高，说明单倍二倍体昆虫的近交衰退具有性别特异性。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -21082,6 +21384,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-42545116",
+    "title": "How We Simulate Nanopores",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Small methods",
+    "authors": "Mehrafrooz B, Mleziva X, Xu M, Shekari M, Maffeo C, Aksimentiev A.",
+    "publish_date": "2026-08-03",
+    "added_at": "2026-11-10",
+    "url": "https://europepmc.org/article/MED/42545116",
+    "doi": "10.1002/smtd.70904",
+    "pmid": "42545116",
+    "abstract": "Nanopore technology has revolutionized single-molecule science by enabling ultrasensitive characterization of biomolecular structure and interactions via accessible, physics-based tabletop measurements. In a typical experiment, the chemical structure of a biomolecule is determined by measuring a transient blockade of the nanopore ionic current produced by the nanopore passage of the molecule. Nanopore sensing can now deliver a telomere-to-telomere sequence of a human chromosome and is poised to unravel the vast complexity of the proteome. Notwithstanding the three decades of development, a fundamental interpretive bottleneck remains: the method cannot independently determine the 3D structure of a biomolecule as it passes through the nanopore. All-atom molecular dynamics has emerged as a go-to method for determining the structure of the translocating molecules and its relationship with the nanopore current. Here, we review molecular dynamics methods used to simulate the transport through biological, solid-state, and DNA origami nanopores. We highlight how advances in high-performance computing and enhanced sampling are dismantling historical timescale barriers, allowing the simulations to achieve unprecedented experimental relevance. By detailing the path from system construction to the extraction of experimental observables, we illustrate how computational insights are transitioning from providing post-hoc signal interpretation to enabling predictive, rational design of next-generation biosensors.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述用全原子分子动力学模拟纳米孔中分子输运，突破时间尺度限制以关联结构与电流信号",
+    "conclusion": "全原子分子动力学已成为解析分子穿孔三维结构及其与纳米孔电流关系的关键手段；高性能计算与增强采样突破历史时间尺度瓶颈，使模拟从信号事后解释转向对下一代生物传感器的预测性理性设计。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42561677",
     "title": "Research progress, challenges, strategies, and perspectives on pesticides and amphibians: From toxic effects to risk assessment",
     "type": "paper",
@@ -26244,6 +26572,35 @@
     "via": "Google News:en",
     "link_kind": "doi",
     "journal": "Proceedings of the National Academy of Sciences",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20220222-5bc918befd",
+    "title": "Godrej Agrovet Launches New Insecticide Gracia in India",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AgriBusiness Global",
+    "authors": "",
+    "publish_date": "2022-02-22",
+    "added_at": "2026-11-10",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVUc0bFVIQUc3a0RfbkNqOHFFZTI5dVIwQmVyWmJqNGtTTTBIbmZBVHRtZS1HMXZBWFJRVGRKNEpCNmFDcUYxc083TURTd2VyVTVEaWh3TndkNDdKbi13OXV4TUpWNUpYUHc4Sm5zTWNQbjRUeGdsaHJhbUhsblFOcVFzMU01MGp3dndxR2VOMXRDWTJtOXd5cEZBOURlek9vaVBoRkphaE83UzE5MW0xNk5oZ2dsOVFJaXFGS1pR0gHDAUFVX3lxTE9QekFVM3BZVkpYcEJFMkpLb29USDdxZ1VyUFRDQzBGeWI3anN2YTU1bmI3Q25DeG4ydDlvU09NNzhRM1phOEo5TGhTRVBPdFJmS0ZBcU5ZVFBiTjNTdENTSVVIcXlTUjE3SHlYQmV0ZEhfcHVFZFhFMVhmRER0cDdiWDJnX1VwNDl1MUdpUXQ1NGd6cmFlUkZzRGpIay1WNWRLNE9vbVZrVTAxVzAzUVFVdEo0LU5OYjJZSExzMjZhc1g0UQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印度Godrej Agrovet公司推出新杀虫剂Gracia。",
+    "conclusion": "该报道仅宣布Godrej Agrovet在印度上市一款名为Gracia的新型杀虫剂，未披露有效成分、靶标害虫或防治效果等信息，因此无法评估其作用机制与科学意义。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "es-ES"
+    ],
+    "via": "Google News:es-ES;Google News:es-MX",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
