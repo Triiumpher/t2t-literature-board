@@ -1,5 +1,229 @@
 [
   {
+    "id": "manual-20261111-honeybee-dopamine-neonicotinoid",
+    "title": "葛源研究组揭示阻控蜜蜂农药取食偏好性的机制",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国科学院生态环境研究中心",
+    "authors": "",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "http://www.rcees.cas.cn/jz/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中国科学院生态环境研究中心葛源团队联合中国农科院蜜蜂研究所发现，蜜蜂无法靠嗅觉分辨新烟碱类杀虫剂噻虫嗪，却在取食后因脑内多巴胺短暂升高形成虚假奖励信号，对含药食物产生取食偏好；使用多巴胺受体拮抗剂（氟奋乃静）进行药理干预后，偏好性显著消失。相关成果发表于 Advanced Science。",
+    "species_latin": "Apis mellifera",
+    "species_en": "western honeybee",
+    "species_zh": "西方蜜蜂",
+    "takeaway": "噻虫嗪通过短暂激活蜜蜂多巴胺奖赏系统制造取食偏好，阻断多巴胺信号即可消除该偏好，为降低传粉昆虫农药暴露提供干预靶点。",
+    "conclusion": "蜜蜂对新烟碱类杀虫剂的取食偏好源于多巴胺系统短暂激活所增强的食欲动机，而非嗅觉或味觉识别；多巴胺受体拮抗剂可有效阻断该偏好，为通过调控多巴胺通路保护蜜蜂种群与传粉生态功能提供了新思路。",
+    "keywords": [
+      "新烟碱类杀虫剂",
+      "噻虫嗪",
+      "蜜蜂",
+      "多巴胺",
+      "氟奋乃静",
+      "取食偏好",
+      "神经毒理",
+      "传粉昆虫保护",
+      "非靶标生物",
+      "Advanced Science"
+    ]
+  },
+  {
+    "id": "news-20261110-aeb7470c4c",
+    "title": "Groups urge Democrats to remove Farm Bill amendments that “undermine” pesticide safety",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The New Lede",
+    "authors": "",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUSHpwdEtXYnpoeXJKVnFYZmUwN0pkaXo3ZWQtalhONHNpbTFIMEt0aFZBTzZqQUNfX1kzRjJkaS00Y2ZkOWdLWW1mTlB0aWt1SE9RVGluNlhEZXROY0N6YmJzZXMtUjdrRmtVakdlYw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "多个团体呼吁民主党删除会削弱农药安全性的农业法案修正案",
+    "conclusion": "该报道标题显示，一些团体正敦促民主党议员移除农业法案中可能削弱农药安全监管的修正案，反映围绕农药安全立法的政策争议；因无摘要，具体机制与证据不明。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261110-aa65467c18",
+    "title": "Pesticide Resistance Reaches Newer Crop Protection Products, Raising Industry Concerns",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AgroLatam",
+    "authors": "",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3pYeXNZcExUN0FuMllPbUNnYzBINVNGLTllN0Ixb2k2RWFpdFRPZ0VUSzhiVkpqd3hoMEdvbW44Z2U2YXJlX3dtUl9TVlNaRktETGcwV3FKOWdGWXRONlFiMDVrdGsxd2NnUXc2MFBDQnpVTHp2NzJacWFlNml2UUhJSkpmNW90MXUycktFQ2lhczg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "害虫对新型作物保护产品也产生抗药性，引发行业担忧",
+    "conclusion": "标题提示农药抗性已扩展到较新的作物保护产品，抗性范围扩大对植保产品有效性构成威胁，并引起产业界关注；具体机制与数据因无摘要不作推断。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261110-9a558780f0",
+    "title": "Democrats have a new rising star, and he's taking aim at farm pesticides",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AGDAILY",
+    "authors": "",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTdYX056cUZiRWE3SVk3YjY5UnZyMzQwcVNoN3ZPV0RGWnFYRDBuTUpuLVUyYnhfbm5Dd3ZIM3dKU24xaWZCOC1UN0h1MFRpZEloZDhncVFWYWVrelZlX1NwSERwbm4xQ2hZcnBlM3gwMG9pUHVsdjZYUXJfT3ZvVFUxeGt3RTQ0V0RjbzNtUmVCdWhncnc?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "报道一位民主党新星政客将矛头指向农业农药问题。",
+    "conclusion": "该文为新闻标题，未提供研究数据或机制信息，仅表明一位民主党新锐政治人物把农业农药作为其政策关注与批评对象，具体主张与科学结论无法从给定材料确定。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43007505",
+    "title": "Satellite DNA landscape in the alpaca genome and comparison with other camelids",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Chromosome research : an international journal on the molecular, supramolecular and evolutionary aspects of chromosome biology",
+    "authors": "Mendoza-Cerna MN, Anderson HC, Fox CR, Aranda E, de Anda Pulido E, Davis BW, Raudsepp T.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "https://europepmc.org/article/MED/43007505",
+    "doi": "10.1007/s10577-026-09824-3",
+    "pmid": "43007505",
+    "abstract": "Satellite DNAs (satDNAs) are among the least resolved components of telomere-to-telomere (T2T) genome assemblies despite recent advances in long-read sequencing. Among mammals, camelids provide an excellent system to study satDNA evolution because of their exceptional karyotypic conservation despite more than 11 million years of independent evolution. Here, we systematically characterize the satDNA landscape of the chromosome-level alpaca reference genome VicPac4 by combining bioinformatic reference-guided repeat identification, PCR validation, and fluorescence in situ hybridization (FISH). Cross-species PCR analysis of 13 candidate satDNAs revealed two major conservation patterns: six families amplified across all camelids, whereas seven were restricted to South American camelids (SACs). FISH further demonstrated distinct chromosomal organization of nine satDNA families: four showed widespread chromosomal distribution; three localized near centromeres of a subset of chromosomes; one was primarily associated with chromosome 26 but had lower copy number on additional chromosomes, and one exclusively mapped to chromosomes 27 and 36 in all SACs. The latter displayed consistent and prominent copy number differences between species, individuals and homologous chromosomes, suggesting naturally occurring variation in satellite array expansion. This satellite amplified by PCR across Camelidae, whereas FISH detected expanded arrays only in SACs, suggesting differences in satellite organization between SAC and Camels. Beyond satDNA identification, the proposed workflow facilitated the discovery and comparative analysis of pseudogene-rich repetitive blocks in the alpaca genome and their absence in Camels' genome assemblies. These findings substantially expand the alpaca satDNAs catalogue and provide a cytogenetic framework for future T2T genome refinement and comparative studies across Camelidae.",
+    "species_latin": "Vicugna pacos",
+    "species_en": "Alpaca",
+    "species_zh": "羊驼",
+    "takeaway": "研究系统解析羊驼卫星DNA图谱，发现其家族在骆驼科中呈两种保守模式及染色体分布差异。",
+    "conclusion": "羊驼卫星DNA可分为全骆驼科保守与南美骆驼特有两大类，九家族呈现不同染色体组织方式，其中一家族拷贝数在物种、个体及同源染色体间存在自然变异，提示卫星阵列扩张差异；该工作扩展了羊驼卫星DNA目录并为T2T基因组完善与骆驼科比较研究提供细胞遗传学框架。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43006768",
+    "title": "Conserved and taxon-restricted orthogroup expansions of pan-eukaryotic protein complexes",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Genome biology and evolution",
+    "authors": "Francisa O.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "https://europepmc.org/article/MED/43006768",
+    "doi": "10.1093/gbe/evag275",
+    "pmid": "43006768",
+    "abstract": "Protein complexes are central to cell biology and typically verified via a combination of interaction data, complete genome sequencing and comprehensive protein-coding gene predictions for reference eukaryotes. However, this information is lacking for non-reference eukaryotes. Protein complexes can be predicted in species for which no interaction data is available by mapping orthology of verified protein complex components from reference eukaryotes to predicted proteomes. Studies that map conservation of protein complex components by orthology are often limited to a small number of protein queries, an under-representation of non-reference, microbial eukaryotes and are scattered across the literature. Here, I integrate orthology and protein interaction data by mapping proteins of experimentally verified complexes to orthogroups of proteins spanning 31 diverse eukaryotes. Proteins within complex-harbouring orthogroups are retained and distributed more evenly across taxa than non-complex orthogroups. I identified 184 universal orthogroups that included orthologs of known protein complex components from all 31 eukaryotes, consistent with a conserved core repertoire, likely present in the last eukaryotic common ancestor (LECA). I generated the protein complex orthology cartographer (PCOC) suite to find significant duplications and reductions of proteins in universal orthogroups across and between eukaryotes. This revealed both multi-copy and notably single-copy proteins, in all queried species, from the exosome, spliceosome, proteasome, small-ribosomal processome, tRNA synthetases, MCM complexes and RNA polymerase III. Case analyses of Naegleria gruberi and Guillardia theta highlight taxon-specific expansions and show how broader protist inclusion improves domain-wide inference of eukaryotic protein-complex evolution.",
+    "species_latin": "Naegleria gruberi",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "将31种真核生物的蛋白复合体组分映射到直系同源群，发现184个普遍保守群并揭示谱系特异性扩张",
+    "conclusion": "蛋白复合体组分在真核生物中分布更均匀且保留更稳定，184个普遍直系同源群可能源自最后真核共同祖先；外泌体、剪接体、蛋白酶体等复合体存在多拷贝或单拷贝的谱系特异性扩张与缩减，纳入更多原生生物可改进真核蛋白复合体进化的推断",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43007706",
+    "title": "The phototoxicity of certain dyes against the West Nile vector, Culex pipiens larvae (Diptera: Culicidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",
+    "authors": "Younis MS, Khater HF, Hussein AH, Rashed GA, Ibrahim M, Farag SM, Aboelela HM, Moharam AF.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "https://europepmc.org/article/MED/43007706",
+    "doi": "10.1080/03601234.2026.2759092",
+    "pmid": "43007706",
+    "abstract": "Mosquitoes play a crucial role in the transmission of some dangerous infectious diseases. Many chemical insecticides used to control mosquitoes are toxic and ineffective because of insects' resistance. Light activation of dyes produces singlet oxygen and reactive oxygen species, which are insecticidal, in photodynamic insecticides (PDI), and scientists have long recognized this efficient alternative. Three dyes (alizarin red, bromothymol blue, and methylene blue) were evaluated as photosensitizers against the 3rd instar larvae of Culex pipiens. Data show that bromothymol blue has the highest photodynamic toxicity with an LC50 of 0.0026 mg/L, while alizarin red and methylene blue showed lower efficacy with LC50 values of 0.0505 mg/L and 0.5134 mg/L after 6 h post-treatment, compared to chlorpyrifos (0.6211 mg/L). Bromothymol blue was 238.88 times more potent than chlorpyrifos, and its efficacy increased with extended sunlight exposure, with LC50 values decreasing from 0.0204 mg/L (8:00-10:00 am) to 0.0025 mg/L (12:00 pm-14:00 pm). Absorption wavelengths of the three tested photosensitizers were recorded in the range of 200-800 nm. The high-energy molecular optical gap calculations, of the least concentration used, revealed that bromothymol blue exhibits the lowest energy (4.11 eV), compared to alizarin red (4.75 eV) and methylene blue (5.2 eV), suggesting higher reactivity and potentially increasing phototoxicity of bromothymol blue. Bromothymol blue showed the highest effect against C. pipiens larvae, supported by the lowest molecular bandgap energy. Therefore, it could contribute to integrated management programs and serve as an alternative to conventional insecticides.",
+    "species_latin": "Culex pipiens",
+    "species_en": "West Nile vector mosquito",
+    "species_zh": "淡色库蚊",
+    "takeaway": "溴百里酚蓝光动力处理对淡色库蚊三龄幼虫杀虫活性最强，LC50仅0.0026 mg/L，远优于毒死蜱。",
+    "conclusion": "三种染料中溴百里酚蓝光动力毒性最高，其LC50为0.0026 mg/L，是毒死蜱的238.88倍，且随日照时间延长效果增强；其分子能隙最低（4.11 eV），反应活性更高，可解释其更强光毒性，有望作为传统杀虫剂的替代方案用于蚊虫综合治理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43004474",
+    "title": "Evaluation of the bioinsecticidal potential of selected plant extracts against malaria and arboviral vectors",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tropical medicine and health",
+    "authors": "Gebissa N, Tolossa K, Gebresilassie A, Aklilu E, Bisrat D, Kumsa B, Dugassa S.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-11",
+    "url": "https://europepmc.org/article/MED/43004474",
+    "doi": "10.1186/s41182-026-01113-3",
+    "pmid": "43004474",
+    "abstract": "BACKGROUND: Escalating environmental concerns and widespread resistance to synthetic insecticides have intensified the search for sustainable, plant-based alternatives. Botanical bioinsecticides offer a safer profile for non-target organisms and leave minimal environmental residue while effectively suppressing target vector populations. METHODS: Crude extracts from eight native medicinal plants-Ocimum lamiifolium, Lepidium sativum, Amaranthus hybridus, Premna schimperi, Ocimum gratissimum, Argemone mexicana, Lippia adoensis, and Calpurnia aurea-were prepared using 80% methanol and n-hexane solvents. Larvicidal and adulticidal bioassays were conducted under controlled laboratory conditions at concentrations ranging from 62.5 to 2000 ppm against Anopheles arabiensis, Anopheles stephensi, and Aedes aegypti. Mortality data were recorded after 24 h and evaluated via probit analysis to determine LC50 and LC90 values. RESULTS: Among the tested botanicals, the non-polar n-hexane fractions exhibited significant concentration-dependent toxicity. Against Anopheles arabiensis larvae, Ocimum gratissimum displayed the highest potency (LC50 = 596.51 ppm; LC90 = 1084.48 ppm), followed closely by Argemone mexicana (LC50 = 650.88 ppm; LC90 = 1039.50 ppm). Against Aedes aegypti larvae, Lippia adoensis yielded an LC50 of 763.03 ppm (LC90 = 1158.01 ppm), while Argemone mexicana yielded an LC50 of 768.00 ppm (LC90 = 995.17 ppm). Notably, Ocimum gratissimum, Argemone mexicana, and Calpurnia aurea induced 100% larval mortality in Anopheles arabiensis at peak ceiling concentrations of 2000 ppm. Furthermore, n-hexane crude extracts of Ocimum lamiifolium, Lepidium sativum, Amaranthus hybridus, Premna schimperi, Argemone mexicana, Lippia adoensis, and Calpurnia aurea exhibited robust adulticidal efficacy against both Anopheles arabiensis and Aedes aegypti across the evaluated concentration spectrum, with Ocimum lamiifolium and Argemone mexicana achieving absolute (100%) adult mortality at 2000 ppm. All 80% methanol extracts produced negligible baseline activity and were excluded from advanced trials. CONCLUSIONS: The non-polar n-hexane fractions of these local plants demonstrate promising baseline laboratory efficacy, highlighting them as candidates for further semi-field evaluation and advanced formulation testing to determine practical viability and payload durability under natural outdoor settings.",
+    "species_latin": "Anopheles arabiensis, Anopheles stephensi, Aedes aegypti",
+    "species_en": "Arab malaria mosquito, Indian malaria mosquito, yellow fever mosquito",
+    "species_zh": "阿拉伯按蚊、斯氏按蚊、埃及伊蚊",
+    "takeaway": "八种植物正己烷提取物对阿拉伯按蚊、斯氏按蚊和埃及伊蚊幼虫及成蚊有浓度依赖性杀虫活性",
+    "conclusion": "非极性正己烷组分是主要活性来源，80%甲醇提取物几乎无效；Ocimum gratissimum、Argemone mexicana等对阿拉伯按蚊幼虫高效，多种提取物在2000 ppm可致成蚊全部死亡，提示本地植物可开发为可持续的植物源蚊虫杀虫剂",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261110-4f60ea8b8e",
     "title": "Brazil's Wolbachia Mosquito Policy Faces Coverage and Delivery Lag",
     "type": "news",
@@ -985,6 +1209,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43003059",
+    "title": "Functional β-cyclodextrin-based adsorbents for the extraction of antibiotic, pesticide, and mycotoxins from food: Preparation, mechanism and applications",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Carbohydrate research",
+    "authors": "Singh G, Singh L, Kurmi BD, Patel P.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-11",
+    "url": "https://europepmc.org/article/MED/43003059",
+    "doi": "10.1016/j.carres.2026.110159",
+    "pmid": "43003059",
+    "abstract": "Food is a fundamental necessity for human growth and survival, while the presence of contaminants such as antibiotic residues, pesticide residues and mycotoxins can affect food quality as well as human health. β-Cyclodextrin (β-CD) is an oligosaccharide containing seven d-glucose units, with a hydrophobic inner cavity and a hydrophilic outer layer. This review provides a critical overview of the development of β-CD-based adsorbents for extracting contaminants from food. Various types of β-CD adsorbents, including crosslinked β-CD polymer, magnetic β-CD adsorbent, β-CD-coupled molecularly imprinted polymer (MIP), β-CD-coupled metal-organic framework (MOF), and β-CD-coupled covalent organic framework (COF), are critically discussed with emphasis on the preparation, characterization, adsorption mechanism and advantages. The major interactions in contaminant extraction include host-guest inclusion, hydrophobic interactions, hydrogen bonding, van der Waals interactions, and electrostatic interactions. The effect of material modification on adsorption behaviour in terms of selectivity, adsorption capacity and efficiency are critically discussed. Finally, challenges related to matrix effects, toxicity, environmental effects, and scale-up issues are highlighted and future prospects for the development of sustainable β-cyclodextrin adsorbents for food contaminant extraction are proposed.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述β-环糊精基吸附剂用于食品中抗生素、农药和真菌毒素的提取，重点讨论制备、吸附机制与应用。",
+    "conclusion": "β-环糊精基吸附剂（交联聚合物、磁性材料、分子印迹聚合物、金属有机框架、共价有机框架）主要通过主客体包合、疏水作用、氢键、范德华力和静电作用吸附食品污染物；材料改性可调控选择性、吸附容量和效率，但基质效应、毒性、环境影响及放大生产仍是挑战。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -25516,6 +25766,34 @@
     "link_kind": "doi"
   },
   {
+    "id": "news-20251005-30fea1c2de",
+    "title": "圖神經網路助力蛋白質交互作用預測實現突破性進展",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "GeneOnline",
+    "authors": "",
+    "publish_date": "2025-10-05",
+    "added_at": "2026-11-11",
+    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNYmIxWVdyaExNakRweW1HQ094dEJtUmx0SXdoOENkOG1NM1gyUmZtTVo2bU14OXJubUZJX2RFY0xjaFM0N2FuZzhTRzNRWDBsVVFDeTY4S1ZmdXNFYXRwWC1FbnU2RkhVVUg2RFBoenA5MDJMV1FNdU9KZ19QeGhER092Q0taTnZpM2FMaGprMmxaNmFnbDQ3Sm02U1ppeW5nVE5KM3AxdHZLX0R1M0JzSXhEbDRpR1RhX0lhZWhTbjdmOHJEUkpvRjRoTTBYbDViaHliZUZETXBxVUNja2xUeWFNTXprLXh3UC12ajZlTjFDQlliZFBsS213REZ3ZWRSN3d1WVhLLU1jN0NtYTJnODNVMzNWOThIcC1QdHpQN3BQcWFXNUVNTkNkM2NEd3N0QkQ2WmlWeHpXdk5mTEZsekpXaEdsUQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "圖神經網路助力蛋白質交互作用預測實現突破性進展",
+    "conclusion": "",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "zh-Hant-HK"
+    ],
+    "via": "Google News:zh-Hant-HK;Google News:zh-Hant-TW",
+    "link_kind": ""
+  },
+  {
     "id": "news-20251003-8350b388e6",
     "title": "Beyond templates: advancing protein–protein interaction structure prediction with AI",
     "type": "news",
@@ -25977,6 +26255,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20240724-ed9159efb5",
+    "title": "BCL2 표적항암제 효과 예측 단백질 상호작용 ,PPI 바이오마커 개발 - 연구성과 - 연구",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "서울대학교",
+    "authors": "",
+    "publish_date": "2024-07-24",
+    "added_at": "2026-11-11",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82eUc3cUpUXzlIYjkwRW0tamxFNEpXQVFNeEdIcUF0N1hmdXJFR0xzRkstbS1LcFpTMHoxYm9MaXhNR0k4c1BCckp6QlF1eVRXaUxIVGtFV2NsS1ItZjZpV3JNTnVfV19kYmJsMw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究开发用于预测BCL2靶向抗癌药疗效的蛋白互作生物标志物",
+    "conclusion": "该研究聚焦BCL2靶向抗癌药物，提出以蛋白质相互作用（PPI）为基础的生物标志物，用于预测药物疗效，为个体化用药与疗效预判提供新思路；具体机制与验证结果因摘要缺失无法确认。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "ko"
+    ],
+    "via": "Google News:ko",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20240718-c3ae2b2a4b",
     "title": "Profiling protein–protein interactions to predict the efficacy of B-cell-lymphoma-2-homology-3 mimetics for acute myeloid leukaemia",
     "type": "news",
@@ -26036,6 +26343,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20240525-9bbb3dd296",
+    "title": "Diversity of Wolbachia infections in Sri Lankan mosquitoes with a new record of Wolbachia Supergroup B infecting Aedes aegypti vector populations",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2024-05-25",
+    "added_at": "2026-11-11",
+    "url": "https://doi.org/10.1038/s41598-024-62476-3",
+    "doi": "10.1038/s41598-024-62476-3",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "斯里兰卡蚊群中沃尔巴克氏体感染多样，并在埃及伊蚊媒介种群中首次记录到B超群。",
+    "conclusion": "该研究调查了斯里兰卡蚊类的沃尔巴克氏体感染多样性，发现埃及伊蚊媒介种群中存在此前未报道的沃尔巴克氏体B超群感染，提示当地蚊媒与共生菌互作关系可能比已知更复杂，为后续基于沃尔巴克氏体的蚊媒防控策略提供了基础信息。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20240514-be52c25d51",
     "title": "Mosquitoes with Wolbachia",
     "type": "news",
@@ -26062,6 +26399,34 @@
     ],
     "via": "Google News:en",
     "llm_enhanced": true
+  },
+  {
+    "id": "news-20240513-cc01a28f1a",
+    "title": "CPI預測？PPI 預測？ 通膨降溫? 通膨升溫？ 0506-0510 一週股市分析",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "StockFeel 股感",
+    "authors": "",
+    "publish_date": "2024-05-13",
+    "added_at": "2026-11-11",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjZwU0o4YXZJWm4yVVBFV1MwQ3RTWTByNWNBR1FTRTJ1TzVhaUlvT0tKVjFuZmhmQnJpcEtqa3RhN0EydldfY2MwbEprXzhLdmYxNVh0d2tCeUUyNnRzY3hMRjdIUkRqS1RlZU1wdnZhRV91aXNRZzhkOVlMWFctNkViN2k2cGlMWXc?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "CPI預測？PPI 預測？ 通膨降溫? 通膨升溫？ 0506-0510 一週股市分析",
+    "conclusion": "",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "zh-Hant-HK"
+    ],
+    "via": "Google News:zh-Hant-HK;Google News:zh-Hant-TW",
+    "link_kind": ""
   },
   {
     "id": "news-20240314-3289bf378f",
@@ -26144,6 +26509,35 @@
     "conclusion": "该材料仅为纽约州环境保护部门关于农药的专题页面，没有摘要或研究数据，无法得出科学结论。",
     "keywords": [
       "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20231122-76fd6ae550",
+    "title": "UGM Expert: Wolbachia Mosquitoes are Safe for Humans, Can Reduce Dengue Cases",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Universitas Gadjah Mada",
+    "authors": "",
+    "publish_date": "2023-11-22",
+    "added_at": "2026-11-11",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUJxVTZmQ09MOXp4dWktRWJCdHMyVVVyOXdSWGdydWhHRHNXa0p3VUpMRUh1bGVSNzlXVjVMbzVGWnJkUGwyYlU2QVVxRmtBaFZqSkR2bjFWU21fdEZqSWJZc1M2dkdIc05RclBtMzAxMEhQWnlpV1NlWUNraGo1NzJpQWplRmhhY0tUZHdDaHVqZ2syU3pBYmxrQXRZa1huUWIzZA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "Mosquito",
+    "species_zh": "蚊子",
+    "takeaway": "专家称携带沃尔巴克氏体的蚊子对人安全，可减少登革热病例",
+    "conclusion": "基于标题信息，专家观点认为携带沃尔巴克氏体的蚊子不会危害人类，并有望通过蚊媒控制降低登革热发病率；具体机制与数据未在材料中给出。",
+    "keywords": [
+      "昆虫性别决定演化机制",
       "全球资讯",
       "en"
     ],
@@ -26500,6 +26894,36 @@
     "via": "Google News:en",
     "llm_enhanced": true,
     "link_kind": "doi"
+  },
+  {
+    "id": "news-20221114-391d24ced2",
+    "title": "A Wolbachia factor for male killing in lepidopteran insects",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2022-11-14",
+    "added_at": "2026-11-11",
+    "url": "https://doi.org/10.1038/s41467-022-34488-y",
+    "doi": "10.1038/s41467-022-34488-y",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "lepidopteran insects",
+    "species_zh": "鳞翅目昆虫",
+    "takeaway": "研究鉴定出一种沃尔巴克氏体因子，在鳞翅目昆虫中导致雄性致死。",
+    "conclusion": "该研究聚焦于沃尔巴克氏体在鳞翅目昆虫中引发雄性致死的遗传因子，提示共生菌通过特定因子操控宿主性别命运，为理解昆虫性别决定与共生菌互作提供线索。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Communications",
+    "llm_enhanced": true
   },
   {
     "id": "news-20220815-c3a89d7ca9",
@@ -27023,6 +27447,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20190129-b71ca3eab6",
+    "title": "Using host species traits to understand the Wolbachia infection distribution across terrestrial beetles",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2019-01-29",
+    "added_at": "2026-11-11",
+    "url": "https://doi.org/10.1038/s41598-018-38155-5",
+    "doi": "10.1038/s41598-018-38155-5",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "beetles",
+    "species_zh": "甲虫",
+    "takeaway": "研究借助宿主性状分析陆生甲虫中沃尔巴克氏体感染的分布格局",
+    "conclusion": "该研究以陆生甲虫为对象，结合宿主物种性状探讨沃尔巴克氏体感染的分布规律，提示宿主特征可能影响共生菌感染在甲虫类群间的差异，为理解其传播与分布提供线索。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Reports",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20180924-aa496bc1eb",
     "title": "A CRISPR–Cas9 gene drive targeting doublesex causes complete population suppression in caged Anopheles gambiae mosquitoes",
     "type": "news",
@@ -27083,6 +27537,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20180416-43a4e8f0e2",
+    "title": "Variation in Wolbachia effects on Aedes mosquitoes as a determinant of invasiveness and vectorial capacity",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2018-04-16",
+    "added_at": "2026-11-11",
+    "url": "https://doi.org/10.1038/s41467-018-03981-8",
+    "doi": "10.1038/s41467-018-03981-8",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Aedes",
+    "species_en": "Aedes mosquito",
+    "species_zh": "伊蚊",
+    "takeaway": "沃尔巴克氏体对伊蚊的影响存在差异，可能决定其入侵性与媒介效能",
+    "conclusion": "沃尔巴克氏体对伊蚊的作用并非一致，这种差异可能影响蚊虫的入侵能力与传播疾病的能力，提示共生菌与宿主互作的变异性在媒介控制中具有重要意义",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Nature Communications",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20180411-d973175fc9",
     "title": "Wolbachia method: reducing mosquito-spread diseases",
     "type": "news",
@@ -27109,6 +27593,36 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20171103-c67262918f",
+    "title": "The bacterium Wolbachia exploits host innate immunity to establish a symbiotic relationship with the dengue vector mosquito Aedes aegypti",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2017-11-03",
+    "added_at": "2026-11-11",
+    "url": "https://doi.org/10.1038/ismej.2017.174",
+    "doi": "10.1038/ismej.2017.174",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Aedes aegypti",
+    "species_en": "yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "沃尔巴克氏体利用埃及伊蚊先天免疫建立共生关系",
+    "conclusion": "标题提示沃尔巴克氏体通过利用宿主埃及伊蚊的先天免疫系统来建立共生关系，该机制可能与登革热媒介蚊虫的共生调控有关，但摘要缺失，具体机制与证据无法确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "The ISME Journal",
     "llm_enhanced": true
   },
   {
