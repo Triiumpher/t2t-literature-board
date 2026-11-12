@@ -930,6 +930,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43008619",
+    "title": "A comparative review of multi-target receptor strategies for electrochemical multi-pesticide detection in food matrices",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Suwarno NI, Nevada BAN, Swara RR, Zakiyyah SN, Kurnia I, Ridwan YS, Fransisca N, Hartati YW, Irkham.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-12",
+    "url": "https://europepmc.org/article/MED/43008619",
+    "doi": "10.1016/j.foodchem.2026.151998",
+    "pmid": "43008619",
+    "abstract": "Pesticide residues in food pose significant food safety and environmental health risks, particularly when multiple pesticides coexist. Although LC-MS and GC-MS offer sensitive, simultaneous detection, their high costs, bulky instruments, and complex sample preparation limit on-site application. Electrochemical sensors provide portable, affordable, and rapid alternatives, but conventional designs primarily detect single analytes. Multi-target receptor strategies, including double/multi-template molecularly imprinted polymers (D/MMIPs), double/multi-aptamers, acetylcholinesterase (AChE)-based systems, metal organic frameworks (MOFs), antibodies, and biochar, address this limitation by enabling simultaneous pesticide detection. Some achieve picomolar detection limits; notably, a dual-signal electrochemiluminescence aptasensor detected acetamiprid and malathion at 0.015 and 0.018 pM, respectively, with 94-102% recoveries in food samples. This review examines developments from 2019 to 2026 in electrochemical multi-pesticide sensors employing multi-target receptors, an underexplored research area. It compares receptor strategies, analytical performance, and practical potential for reliable food safety monitoring, highlighting opportunities for broader on-site implementation across diverse food matrices and settings.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述2019-2026年多靶标受体电化学传感器同时检测食品中多种农药的策略与性能。",
+    "conclusion": "双/多模板分子印迹聚合物、双/多适配体、乙酰胆碱酯酶体系、金属有机框架、抗体和生物炭等多靶标受体策略，使电化学传感器从单靶标检测拓展到多种农药同时检测，部分可达皮摩尔级灵敏度，在食品样本中回收率良好，为现场食品安全监测提供便携低成本方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42995004",
     "title": "Design, synthesis and insecticidal activity of isoxazoline derivatives containing a 1,2,4-triazole thioether moiety",
     "type": "paper",
@@ -1588,6 +1614,58 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43008818",
+    "title": "Insecticide resistance evolution and assisted gene flow interact to shape the evolution of plasticity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Proceedings. Biological sciences",
+    "authors": "Prileson EG, Campagnari B, Ruotsalainen B, Shahmohamadloo RS, Zetina C, Rudman SM.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-12",
+    "url": "https://europepmc.org/article/MED/43008818",
+    "doi": "10.1098/rspb.2026.2085",
+    "pmid": "43008818",
+    "abstract": "Adaptive phenotypic plasticity can bolster fitness in changing environments, but the extent to which plasticity evolves rapidly, and which forces shape its evolutionary trajectory, are largely unknown. To empirically study the evolution of plasticity, we first conducted a replicated field experiment in which Drosophila melanogaster populations adapted to insecticide exposure and a subset of these populations received high diversity assisted gene flow. We then reared individuals from each population across temperature and insecticide treatments in common garden conditions to test the following questions: (i) has prior selection and rapid adaptation of insecticide resistance led to evolved shifts in plasticity relative to naive populations? (ii) Does gene flow from genetically diverse populations contribute to adaptive plasticity evolution relative to gene flow-restricted low diversity populations? Both gene flow and prior evolution of resistance influenced the evolution of plasticity for multiple traits and were often maladaptive for resistant and gene flow-restricted populations, suggesting a trade-off between trait and plasticity evolution. Assisted gene flow minimized maladaptive plasticity potentially through relaxation of underlying epistatic or pleiotropic constraints. Together, these results demonstrate the dynamic interactions between trait evolution, the evolution of plasticity and forces that shape genetic diversity, with implications for conservation of threatened populations.",
+    "species_latin": "Drosophila melanogaster",
+    "species_en": "fruit fly",
+    "species_zh": "黑腹果蝇",
+    "takeaway": "黑腹果蝇田间抗药性进化与辅助基因流共同改变性状可塑性，且常呈适应不良。",
+    "conclusion": "抗药性选择与辅助基因流均影响多性状可塑性进化；抗性和基因流受限群体的可塑性多属适应不良，提示性状进化与可塑性进化存在权衡，而高多样性基因流可通过缓解上位或基因多效约束减少适应不良可塑性，对濒危种群保护有启示。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43008675",
+    "title": "Multi-stimuli-responsive metal-polyphenol nanocapsules: From self-assembly mechanism to morphology-controlled foliar interfacial adhesion",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of colloid and interface science",
+    "authors": "Duan H, Luan F, Liu X, Zhao X, Zou N, Li X, Liu F.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-12",
+    "url": "https://europepmc.org/article/MED/43008675",
+    "doi": "10.1016/j.jcis.2026.141893",
+    "pmid": "43008675",
+    "abstract": "Achieving controlled release and dynamic interfacial adhesion at complex biological surfaces using soft colloidal carriers remains a fundamental challenge in colloid and interface science. Herein, we fabricate STPF nanocapsules via spontaneous self-assembly driven by hydrogen bonding of sustainable precursors and metal-polyphenol coordination crosslinking. The assembly mechanism-governed by synergistic π-π stacking, hydrogen bonding, and metal-phenolic coordination-is rigorously verified by FTIR, 1H NMR, XPS, and molecular dynamics simulations. Through a facile sol-gel crosslinking strategy with BHT via hydrogen bonding, the STPF network enables universal encapsulation of multiple pesticides (phoxim, lambda-cyhalothrin, abamectin) with scalable manufacturing potential. The pesticide-loaded nanocapsules exhibit multi-stimuli-responsive release behaviors triggered by ROS, Fe3+, pH, and laccase, accompanied by particle swelling and structural softening-a dynamic morphological evolution that actively modulates the nanocapsule-foliar interfacial interaction. Compared with conventional suspension concentrates, STPF nanocapsules achieve significantly enhanced rainfastness and retention on cowpea stems, with improvements in abamectin photostability (54.71%), rainfastness (49.19%), and stem retention (9.24%). Critically, the structural softening during cargo release further fortifies foliar retention over time, elevating 24 h control efficacy against Tetranychus urticae by up to 38.24%. This work establishes a mechanistic linkage between stimuli-driven morphology evolution and programmable interfacial adhesion, offering fundamental insights into the design of smart soft colloidal systems with environment-adaptive interfacial behavior.",
+    "species_latin": "Vigna unguiculata; Tetranychus urticae",
+    "species_en": "cowpea; two-spotted spider mite",
+    "species_zh": "豇豆；二斑叶螨",
+    "takeaway": "金属-多酚纳米胶囊经自组装与交联制成，能响应多种刺激释放农药并增强叶面黏附与防效。",
+    "conclusion": "研究阐明STPF纳米胶囊由π-π堆积、氢键和金属-酚配位驱动自组装，可广谱包载农药并响应ROS、Fe3+、pH和漆酶释放；释放中颗粒溶胀软化动态增强叶面黏附，显著提升耐雨性、持留量与光稳定性，对二斑叶螨防效提高38.24%。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -2258,6 +2336,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43013306",
+    "title": "Cord Serum Neonicotinoid-Related Biomarkers and Neurodevelopment From Early to Middle Childhood",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "JAMA network open",
+    "authors": "Nagata A, Okumura A, Takahashi N, Nomura Y, Harada T, Iwabuchi T, Nishimura T, Tsuchiya KJ.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-12",
+    "url": "https://europepmc.org/article/MED/43013306",
+    "doi": "10.1001/jamanetworkopen.2026.43481",
+    "pmid": "43013306",
+    "abstract": "IMPORTANCE: Despite widespread neonicotinoid insecticide use, evidence on prenatal exposure and neurodevelopment beyond early childhood remains limited. OBJECTIVE: To examine whether cord serum concentrations of the neonicotinoid-related biomarkers dinotefuran and desmethyl-acetamiprid (dm-ACE) are associated with domain-specific neurodevelopment from infancy through middle childhood. DESIGN, SETTING, AND PARTICIPANTS: This prospective cohort study included individuals randomly selected from eligible Hamamatsu Birth Cohort for Mothers and Children Study participants born between December 2007 and March 2012 in Japan; assessments spanned ages 10 months to 9 years. Data were analyzed between October 2025 and September 2026. EXPOSURES: Cord serum dinotefuran and dm-ACE concentrations measured at birth and categorized into quartiles. MAIN OUTCOMES AND MEASURES: Outcomes were standardized scores for 5 Mullen Scales of Early Learning (MSEL) domains at ages 10 to 32 months and 4 Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV) indices at age 9 years. Associations were examined using linear regression and expressed as mean MSEL or WISC-IV differences in SD units at quartile 3 (Q3) and Q4 concentrations (combined Q1-Q2 was the reference). RESULTS: Among 200 individuals, 102 (51.0%) were male and 13 (6.5%) were born preterm; 185 (92.5%) to 195 (97.5%) were included in age-specific MSEL analyses and 178 (89.0%) in WISC-IV analyses. Dinotefuran groups included 96 individuals (48.0%) in Q1 and Q2, 47 (23.5%) in Q3, and 57 (28.5%) in Q4. dm-ACE groups included 82 (41.0%) in Q1 and Q2, 63 (31.5%) in Q3, and 55 (27.5%) in Q4. Early childhood associations across neurodevelopmental scale scores varied by age and concentration group, and there were no associations after false discovery rate (FDR) correction. At age 9 years, Q3 dinotefuran concentration was associated with lower WISC-IV Processing Speed Index scores compared with Q1 to Q2 scores (mean difference, -0.50 [95% CI, -0.81 to -0.20] SDs; q = .01), and Q4 dm-ACE concentration was associated with lower Perceptual Reasoning Index scores (mean difference, -0.47 [95% CI, -0.81 to -0.14] SDs; q = .03). CONCLUSIONS AND RELEVANCE: In this cohort study of infants and children in Japan, small differences in some neurodevelopmental scale scores in early childhood were observed in association with dinotefuran and dm-ACE cord serum concentrations, but there were no associations after FDR correction. At age 9 years, dinotefuran was associated with lower processing speed and dm-ACE with lower perceptual reasoning. Overall, these findings suggest domain- and age-specific associations rather than a uniform or sustained pattern across development; confirmation in larger cohorts is needed.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "脐带血清呋虫胺与dm-ACE暴露与9岁儿童部分认知指数下降相关，婴幼儿期无稳定关联",
+    "conclusion": "产前呋虫胺和dm-ACE暴露与婴幼儿期神经发育无稳健关联，但较高浓度分别与9岁时加工速度指数和知觉推理指数得分降低相关，提示产前新烟碱类暴露可能对学龄中期特定认知领域产生长期影响。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
