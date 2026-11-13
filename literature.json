@@ -1,5 +1,257 @@
 [
   {
+    "id": "news-20261113-0b93f0887b",
+    "title": "Researchers Assemble Near Gap-Free Genome for Indigenous Chinese Guanling Cattle",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-13",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmJQaUZRdUFiVDVjazRZcTA3eDNrb19BZjVOei1KaFNRZl9fdHV6ZXhmY1ZvVEFnYzBRN2RQSzRTcWtKaGpVMms5TDU1UGNtaGVGY1FSNW13M3hXMW9DckZpWDZrOHhuZjl2M1ZOZjJHYWRZTmEyUG9ISDVqZmZyQmhpaUdzUU9ZS0pvZGYxNkF1TmZhVGt2YTJEZnpUam9EemZWS3VUVEI?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Bos taurus",
+    "species_en": "Guanling cattle",
+    "species_zh": "关岭牛",
+    "takeaway": "研究人员为中国地方品种关岭牛组装出接近无间隙的基因组。",
+    "conclusion": "该研究完成了关岭牛近乎无间隙的基因组组装，为解析这一中国本土黄牛品种的遗传特征、种质资源保护及分子育种提供了高质量参考基因组基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261112-e987ee5379",
+    "title": "Pesticides and Neurological Symptoms Predict Severe Adolescent Oral Poisoning",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-13",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3V6MGR0dnMyTEhtR1FGUDdXQmVUTDBfaHRLRWR0c3ZITTdKa2ZpYllYSFo5RXdtaVhqTnJzSFA0T2tjcHdDM2REN2RxT2hwWnZ0aDZUdE9lY3ZvWk5jS25OZ2xDYm4yMFl2Rk5tdUhmNHRJUHdXNEQ5Qmp5YmZtVTg2Qlo3WFJwd1psaE9FMlFncTQzeVZBUEFyUnlnOTdUN2Y4ag?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究提示农药暴露与神经系统症状可预测青少年经口中毒的严重程度。",
+    "conclusion": "基于标题可推断，农药接触及神经系统症状是青少年经口中毒病情严重的预测因素，提示临床应重视此类暴露史与神经症状评估，以识别高危患者。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261112-ceb902cd6d",
+    "title": "Fungal Biopesticide Suppresses Okra Jassids and Increases Pod Yields in Nepal",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-13",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JoemRDcHNCYUpBSXh3NXVYZ0NIb3hHZkwyNlQ0aUpYN0hxUkxrSkhER2NCdU1ReDVRQk5pTUt2MWZYN0YtN2MzVFNnS21IUkFlTWJNRmxBUkRtYjI4My1zbHBzWUUzUXdiYmxQR2FUbzVFYnZuVEh5cFNoZ0U2Sl90YXRuMWxreENmaDRhSnM1Wk91OFJkcnM3Wi11VkZ1aGZ3YQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Abelmoschus esculentus",
+    "species_en": "Okra",
+    "species_zh": "秋葵",
+    "takeaway": "尼泊尔试验显示真菌生物农药可抑制秋葵叶蝉并提高豆荚产量",
+    "conclusion": "在尼泊尔开展的田间研究提示，真菌类生物农药对秋葵叶蝉具有抑制作用，并能提升秋葵豆荚产量，为化学农药替代提供可能，但具体机制与效果需原文数据支持。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261112-c5b0624d26",
+    "title": "Literature Review Highlights Intestinal Impacts and Mechanisms of Toxicity from Dietary Pesticide Exposure",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Beyond Pesticides",
+    "authors": "",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-13",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX1FGX250aXRyUXZtM09sRnlqUmVFbE80Z0JpS2dnTG1UdWpvdVVVR2ZRaVNqUU9XVVhSOWxDc3RfcmJwa25XTnl6dUxVQ3Yzd3RZa2c0ekVlbWRJcXYya3BmQTdpaG5NS20wSUp3dGdpaDJ5Sm5CSGZDWWo4OXpFMURKY2hCWXAzTWRpYnJYLXItV0F5cllDeVMxNHN6QlFPTUxVdHhQRkN1R05wRDRCUVd6cnBWTDg2ZllhZC1RU0JIczFoN0d3UGRuU19YOHBVd3pRWk5rOVhHQjhQZ1J3UTdZeWlZcUlQSVB0LVVMQQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出膳食农药暴露可损伤肠道并涉及多种毒性机制。",
+    "conclusion": "该文献综述聚焦膳食农药暴露对肠道的影响及其毒性机制，提示农药经口摄入后可能通过多种途径损害肠道健康，需重视膳食农药暴露的肠道风险。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261112-b5269af2be",
+    "title": "India’s Registration Committee Clears 14 New Pesticide Products",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Global Agriculture",
+    "authors": "",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-13",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzkzc1pnLTUxcFNZenpMT3FDdzlLV3NYRGZ6ZXdqYjZ4REJQSWNsSW10LXAyLWozdmNLWXZ1ck9ZSXBHVHdpSGNOQVMyNzNWeVBjbTV3ZURfOWd2NzVKcnkwMFFVZDQxTTI1TVRLOG5MdjZxWk1hWVcta211QW5veXdtQTdHRE5QRThaeU00VEtWZ3hncDVwZzlhWUxtRlBhcERyWDJJLWxTaWQyZTJzT0s1ekg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印度登记委员会批准14种新农药产品，涉及农药登记管理。",
+    "conclusion": "印度登记委员会通过14种新农药产品的登记审批，体现该国农药产品准入与监管流程的推进，但具体品种、有效成分及用途未在材料中说明。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261112-8378358c92",
+    "title": "Complete Telomere-to-Telomere Genome Reveals Symbiotic Adaptations in Butyriboletus roseoflavus",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-13",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2lLN3Jtc2dMWWVhNy1VQnF4T016LXU3S1R1VUdmdEQtdnNXejBOUWt2MEVFWmNXWnI5bW1ta0h2ZHFJYUhybGU4YzRlb3ZYWUNUR3ZPT0pOT2dkUlNvMGZHU2xUTDBYRzkydWJkTTFGdWNsU1RCNXBuNTQwckxPdEN2N1ZkNUJ0MWw5aVFpTU84UFVSdXFHM2szcGtvTDlEaTVHOW5UZWQyS2JhMWpLT0tQS1R5QnNsS2xQSg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Butyriboletus roseoflavus",
+    "species_en": "Rosy-yellow Butyriboletus",
+    "species_zh": "玫瑰黄牛肝菌",
+    "takeaway": "研究完成玫瑰黄牛肝菌端粒到端粒完整基因组，揭示其共生适应特征",
+    "conclusion": "该研究组装出玫瑰黄牛肝菌端粒到端粒无间隙完整基因组，为解析该真菌与宿主植物共生适应的遗传基础提供了高质量参考基因组，有助于理解外生菌根共生机制。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43017795",
+    "title": "Insecticidal activity of selected plant essential oils against four major urban tree insect pests",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Jang YS.",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43017795",
+    "doi": "10.1093/jee/toag338",
+    "pmid": "43017795",
+    "abstract": "Urban trees provide important ecological and aesthetic benefits but are increasingly threatened by sap-feeding and defoliating insect pests. This study evaluated the insecticidal activities of seven commercial essential oils and a supercritical carbon dioxide (SC-CO2) extract of Zanthoxylum piperitum against four major urban tree pests: Aphis gossypii, Metcalfa pruinosa, Hyphantria cunea, and Lycorma delicatula. Chemical compositions were characterized by gas chromatography-mass spectrometry, and insecticidal activity was assessed using direct-spray, concentration-mortality, and residual-contact bioassays. Dinotefuran was included as a conventional neonicotinoid reference treatment. Among the botanical materials, cinnamon essential oil consistently produced the highest mortality, while the Z. piperitum SC-CO2 extract also showed high activity. At 24 h after treatment, dinotefuran produced corrected mortalities of 52.7-83.4% across the four insect species. Probit analysis based on dead and surviving insect counts from five tested concentrations showed that cinnamon essential oil had LC50 values of 0.37-0.54% (v/v), while the Z. piperitum SC-CO2 extract had values of 0.45-0.60% (w/v); these different concentration units preclude a direct numerical potency ranking. All fitted probit models showed no significant lack of fit. Residual-contact bioassays further showed that cinnamon oil retained the greatest insecticidal activity during the 72-h residue-aging period, followed by the Z. piperitum extract. These findings support the potential of cinnamon essential oil and Z. piperitum SC-CO2 extract as botanical insecticide candidates for urban tree pest management. However, semifield and field evaluations, including phytotoxicity and effects on natural enemies, pollinators, aquatic organisms, and other nontarget species, are required before practical incorporation into integrated pest management programs.",
+    "species_latin": "Aphis gossypii, Lycorma delicatula, Hyphantria cunea, Metcalfa pruinosa",
+    "species_en": "Cotton aphid, Spotted lanternfly, Fall webworm, Citrus flatid planthopper",
+    "species_zh": "棉蚜、斑衣蜡蝉、美国白蛾、青翅蜡蝉",
+    "takeaway": "肉桂精油与花椒SC-CO2提取物对四种城市树木害虫均显示高杀虫活性，肉桂精油效果最佳。",
+    "conclusion": "肉桂精油和花椒超临界CO2提取物对蚜虫、叶蝉、美国白蛾和斑衣蜡蝉均有较强杀虫作用，肉桂精油在72小时残留期内活性最高，LC50为0.37-0.54%(v/v)。二者有望成为城市树木害虫防治的植物源杀虫剂候选，但实际应用前仍需半田间和田间试验评估药害及对非靶标生物的影响。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43010864",
+    "title": "Wolbachia facilitates the reproduction of a parthenogenetic ladybird",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Insect molecular biology",
+    "authors": "Jecha K, Parthuisot N, Lecompte E, Schwander T, Magro A.",
+    "publish_date": "2026-11-11",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43010864",
+    "doi": "10.1111/imb.70074",
+    "pmid": "43010864",
+    "abstract": "Wolbachia is a bacterial endosymbiont that is primarily transmitted from mother to offspring. As a result of the increased transmission by females, strains that favour the production of female offspring, such as by inducing parthenogenesis, are selected for. Here, we assess the role of Wolbachia in recently discovered parthenogenetic populations of the ladybird Nephus voeltzkowi by treating females with an antibiotic. Our results demonstrate that the treatment decreases Wolbachia load, subsequently reducing egg production and development among parthenogenetic females, while having no effect on sexual females. Wolbachia load and reproduction then rebound when the treatment is removed. This suggests that the Wolbachia infection is necessary for successful reproduction in the parthenogenetic females, and it may play a two-part role by facilitating egg laying and late embryo development. The co-occurrence of Wolbachia infection and parthenogenesis in N. voeltzkowi, as well as Wolbachia's effect on host reproduction, makes this a likely candidate for Wolbachia-induced parthenogenesis outside of haplo-diploids. Understanding how Wolbachia impacts diverse insect reproductive systems can shed light on the extent to which these bacteria can affect hosts for their own gain.",
+    "species_latin": "Nephus voeltzkowi",
+    "species_en": "ladybird",
+    "species_zh": "沃氏瓢虫",
+    "takeaway": "抗生素降低沃尔巴克氏体载量后，孤雌瓢虫产卵与胚胎发育下降，说明该菌是其繁殖所必需。",
+    "conclusion": "沃尔巴克氏体感染是孤雌生殖雌虫成功繁殖的必要条件，可能通过促进产卵和晚期胚胎发育两方面发挥作用；该菌与孤雌生殖共存且影响宿主繁殖，提示其可能在单倍二倍体之外诱导孤雌生殖。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43014482",
+    "title": "Evolutionary patterns and functional consequences of acetylcholinesterase mutations associated with organophosphate resistance in Panonychus citri",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insect biochemistry and molecular biology",
+    "authors": "Pan D, Chen HY, Xia MH, Li CZ, Archdeacon L, Yuan GR, O Reilly AO, Wang JJ, Dou W.",
+    "publish_date": "2026-11-11",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43014482",
+    "doi": "10.1016/j.ibmb.2026.104691",
+    "pmid": "43014482",
+    "abstract": "Organophosphate insecticides (OPs) inhibit acetylcholinesterase (AChE), and target-site mutations in the Ace gene represent an important resistance mechanism in arthropod pests. However, the evolutionary origins of such mutations and their functional consequences in field populations remain incompletely resolved. Here, we surveyed three nonsynonymous Ace substitutions, A352S, G480A, and Y483W (corresponding to A201S, G328A, and F331W in Torpedo californica), across 31 P. citri field populations sampled from major citrus-growing regions of China. Fragment-specific haplotype analyses revealed close relationships between resistance-associated and susceptible haplotypes, although the unphased fragments limited the determination of full-length haplotype ancestry. Bioassays and binding analyses showed that these substitutions reduced OP binding and produced modest decreases in susceptibility to chlorpyrifos, profenofos, and phoxim, with the Y483W substitution showing the largest effect. Molecular modelling suggested that Y483W may impair insecticide binding through steric hindrance, whereas A352S and G480A may act through indirect structural effects. Moreover, introduction of the corresponding substitutions into Drosophila revealed pronounced fitness-related effects, including reduced fecundity, lower egg-to-adult viability, shortened lifespan, impaired locomotor performance, diminished heat tolerance, and disrupted circadian activity rhythms. Together, these results link field allele distributions and fragment-specific haplotype relationships with the functional effects of AChE substitutions on organophosphate susceptibility, and provide a basis for further investigating how these resistance-associated alleles are maintained in natural populations.",
+    "species_latin": "Panonychus citri",
+    "species_en": "Citrus red mite",
+    "species_zh": "柑橘全爪螨",
+    "takeaway": "在中国31个柑橘全爪螨田间种群中，AChE的A352S、G480A、Y483W突变降低有机磷结合与敏感性，并带来明显适合度代价",
+    "conclusion": "三种Ace抗性突变与敏感单倍型亲缘接近，均可削弱毒死蜱、丙溴磷和辛硫磷的结合与敏感性，其中Y483W效应最大，可能通过空间位阻起作用，另两种则可能通过间接结构效应起作用；这些突变在果蝇中造成繁殖力、存活率、寿命、运动、耐热与节律等多方面适合度代价，为解释抗性等位基因在自然种群中的维持提供依据",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261111-ee569ad3a9",
     "title": "SKUAST-K sets up bio-input production centre at Wadura to promote pesticide-free farming",
     "type": "news",
@@ -167,7 +419,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -223,6 +475,84 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43013904",
+    "title": "Tannic acid-Cu<sup>2</sup>⁺ functionalized ZIF-67 nanocarriers for smart delivery of prochloraz to synergistic control of cucumber gray mold",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Colloids and surfaces. B, Biointerfaces",
+    "authors": "Liu T, Duan M, Zhang J, Wei J, Liu J.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43013904",
+    "doi": "10.1016/j.colsurfb.2026.116328",
+    "pmid": "43013904",
+    "abstract": "Nanodelivery systems provide efficient strategies to replace traditional agrochemicals due to the characteristics of on-demand release, low environmental risk, and less pesticide losses. Herein, we developed zeolitic imidazolate framework-67 composite (Pro@ZIF-67@TA/Cu) based on tannic acid and Cu2+ (TA/Cu) load with prochloraz (Pro) for the smart control of Botrytis cinerea. The Pro@ZIF-67@TA/Cu has an acid-responsive release property, which was related to the degradation of ZIF-67 under acidic conditions. The obtained Pro@ZIF-67@TA/Cu exhibited better photostability, retention, and adhesion properties. Compared with Pro technical (Pro TC), the photolysis half-life was higher than 4.2 times and the retention amount was increased by 100.0%. Importantly, the introduction of TA/Cu enhanced the foliar adhesion of Pro@ZIF-67@TA/Cu on cucumber leaves, reducing the contact angle by 55.4%. Additionally, in vitro activity of Pro@ZIF-67@TA/Cu showed better fungicidal activity than that of Pro TC, and the EC50 value was reduced by 28.3%. The therapeutic activity test indicated that Pro@ZIF-67@TA/Cu was more effective in preventing Botrytis cinerea than Pro suspension, which was attributed to the synergistic fungicidal activity of ZIF-67@TA/Cu. Importantly, the Pro@ZIF-67@TA/Cu alleviated the adverse effects of Pro on cucumber plants and was relatively safe for non-target organisms. These results highlighted the application potential of Pro@ZIF-67@TA/Cu as an efficient pesticide nanodelivery system to control plant diseases in sustainable agriculture.",
+    "species_latin": "Botrytis cinerea",
+    "species_en": "Gray mold fungus",
+    "species_zh": "黄瓜灰霉病菌",
+    "takeaway": "单宁酸-Cu²⁺修饰ZIF-67负载咪鲜胺，实现酸响应释放并协同防治黄瓜灰霉病",
+    "conclusion": "该纳米载体在酸性条件下降解释放咪鲜胺，光稳定性、叶面滞留与黏附性显著提升，离体抑菌活性优于原药，对黄瓜植株安全性高且对非靶标生物风险低，具可持续农业应用潜力",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43008012",
+    "title": "Integrated network toxicology and experimental validation identify VCAM1 as a candidate molecular link between pyrethroid exposure and keloid",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PloS one",
+    "authors": "Wang Z, Yang C, Wang W, Zhang Z, Sun Z, Diao Z.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43008012",
+    "doi": "10.1371/journal.pone.0362474",
+    "pmid": "43008012",
+    "abstract": "Background Keloids are fibroproliferative skin lesions characterized by excessive extracellular matrix deposition. The potential molecular links between pyrethroid exposure and keloid-associated alterations remain unclear. Methods We integrated network toxicology, machine learning, single-cell transcriptomics, virtual gene perturbation, molecular docking, molecular dynamics simulation, external transcriptomic validation, and qRT-PCR to investigate candidate molecular links between pyrethroid exposure and keloid. Results A total of 127 shared candidate targets between pyrethroid insecticides and keloid were identified, mainly enriched in MAPK, PI3K-Akt, and FoxO signaling pathways. Three machine-learning algorithms prioritized VCAM1 and FGFR1. In GSE145725, both genes showed significant differential expression and high dataset-level discriminatory performance. In the integrated external validation cohort generated from GSE90051 and GSE158395, VCAM1 remained significantly upregulated and showed good discriminatory performance (AUC = 0.869), whereas FGFR1 showed weaker external support (AUC = 0.677) without significant differential expression. Molecular docking and 100-ns molecular dynamics simulation supported the structural plausibility of selected pyrethroid-target interactions, particularly theta-cypermethrin with VCAM1. Single-cell analysis characterized the cell-type-specific distribution of candidate genes, while virtual gene perturbation suggested a putative VCAM1-SOCS3 regulatory relationship. qRT-PCR further showed that 20 μM cypermethrin exposure for 24 h significantly increased VCAM1 mRNA expression in KEL FIB cells. Conclusion VCAM1 emerged as the most consistently supported candidate linking cypermethrin exposure with keloid-associated molecular alterations, while the predicted VCAM1-SOCS3 relationship requires further mechanistic validation.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用网络毒理学与实验验证发现，拟除虫菊酯暴露与瘢痕疙瘩的候选分子连接是VCAM1。",
+    "conclusion": "网络毒理学、机器学习与多组学验证共同锁定VCAM1为拟除虫菊酯（尤其氯氰菊酯）暴露与瘢痕疙瘩关联的最稳定候选分子，其与SOCS3的调控关系尚待机制验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43007378",
+    "title": "Larval exposure to insecticides increases adult susceptibility to bluetongue virus in Culicoides sonorensis Wirth and Jones (Diptera: Ceratopogonidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology (London, England)",
+    "authors": "Bunkers BE, McGregor BL, Drolet BS, McDermott EG.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43007378",
+    "doi": "10.1007/s10646-026-03183-9",
+    "pmid": "43007378",
+    "abstract": "Culicoides biting midges develop in organically enriched habitats, such as livestock wastewater, which can accumulate pesticide residues from livestock treatments. In some instances, larval development sites are directly targeted with insecticides for vector control. These environmental stressors can affect larval survival and gene expression patterns that govern development and long-term fitness, such as altered immune function. This overlap in gene pathways reflects the integration of detoxification in immunity as a response to both chemical stress and pathogenic threats. As a result, detoxifying pesticides at sublethal levels may developmentally compromise insect vectors, making them more vulnerable to infections in later life stages. In this study, larvae of Culicoides sonorensis Wirth and Jones, a major North American bluetongue virus (BTV) vector, were exposed to the lethal concentration for 10% of the test population (LC₁₀) of three distinct classes of insecticides (permethrin, yeast microencapsulated (YME) fluralaner, or methoprene) while controls received equal amounts of solvent (ethanol or water). Survivors were reared to adulthood and offered defibrinated sheep blood spiked with BTV at three days post-emergence. Engorged females were held for up to 14 days post-infection. At 1, 3, 7, 10, and 14 days post-infection, up to 10 females per treatment group were sampled to test for BTV infection and dissemination using RT-qPCR. Infection and dissemination rates, as well as viral titers as quantified by qPCR, were compared across time points and treatments to evaluate whether sublethal pesticide exposure of larvae alters vector competence of adults for BTV. Exposure to three different pesticides resulted in significantly increased BTV titers, particularly at 7 days post-infection (YME fluralaner and methoprene) and 14 days post-infection (permethrin). Infection and dissemination rates at 7 days post-infection were also significantly higher in midges exposed to YME fluralaner and methoprene. Midges exposed to permethrin had significantly higher dissemination rates at 14 days post-infection. Implications of changes in infection dynamics are discussed.",
+    "species_latin": "Culicoides sonorensis",
+    "species_en": "Sonoran biting midge",
+    "species_zh": "索诺拉库蠓",
+    "takeaway": "库蠓幼虫接触亚致死杀虫剂后，成虫对蓝舌病病毒的易感性升高",
+    "conclusion": "幼虫期接触三种亚致死浓度杀虫剂均会提高成虫蓝舌病病毒滴度，其中氟雷拉纳和甲氧普烯还提高感染率与播散率，说明化学胁迫可能通过免疫与解毒通路整合削弱媒介能力",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43010416",
     "title": "Integrating Ion Mobility Mass Spectrometry Data with AlphaFold and Rosetta Improves Protein Complex Structure Prediction",
     "type": "paper",
@@ -271,7 +601,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -297,7 +627,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -323,7 +653,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -469,7 +799,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -495,7 +825,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -521,7 +851,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -547,7 +877,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -609,6 +939,38 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261113-computational-intel-protein-modeling",
+    "title": "计算智能驱动蛋白质结构与功能预测建模：从同源推断与模板依赖到蛋白质语言模型基础范式",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通（转自 Biomolecules 特刊社论）",
+    "authors": "",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-13",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261109081745761.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "生物通中文推介的一篇 Biomolecules 开放获取社论，将计算智能驱动的蛋白质科学划分为四个时代：序列同源推断、模板依赖的同源建模与穿线、基于深度学习的接触图与结构预测、以及以 AlphaFold2/3 与 ESMFold 为代表的蛋白质语言模型时代；并围绕该范式组织特刊，收录蛋白结合残基预测 PMSFF、壳聚糖酶热稳定性计算设计、抗体-抗原互作模型 MambaAAI、水稻 OsNHX1 结构机制与酶 kcat 预测框架 AUKAT 五项原创研究，指出结构问题基本解决后，蛋白-蛋白相互作用等功能预测成为新前沿。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "一篇梳理蛋白质计算四十年范式演进的中文综述资讯，明确蛋白互作与功能预测是结构预测成熟后的核心前沿，并展示五项 PLM 驱动的代表性工作。",
+    "conclusion": "计算智能已将蛋白质研究推进至蛋白质语言模型时代，结构预测“缺数据”问题大体解决，功能预测（含蛋白-蛋白相互作用、突变效应、配体结合与酶动力学）成为核心前沿；序列表示学习、端到端结构模型与计算设计可闭环支撑结合残基、互作、稳定性与酶动力学研究，基础模型驱动的多任务通用预测与蛋白设计是下一前沿。",
+    "keywords": [
+      "蛋白互作",
+      "蛋白质语言模型",
+      "深度学习",
+      "结构预测",
+      "AlphaFold3",
+      "抗体抗原互作",
+      "结合残基预测",
+      "功能预测",
+      "综述"
+    ]
+  },
+  {
     "id": "pmid-43011011",
     "title": "Salicornia: a halophyte with unique salt-tolerant genes for developing future climate-resilient crops, high-value bioproducts and saline land utilization",
     "type": "paper",
@@ -631,7 +993,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -843,6 +1205,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43001316",
+    "title": "Siblings in Flight: Unravelling Reproductive Barriers Between Two Butterfly Sister Species",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Ecology and evolution",
+    "authors": "Torrado-Blanco L, Vila R, Lukhtanov VA, Seoane-Rodríguez C, Cornet C, Lucek K, Vila M.",
+    "publish_date": "2026-11-08",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43001316",
+    "doi": "10.1002/ece3.74533",
+    "pmid": "43001316",
+    "abstract": "Understanding how reproductive isolation is maintained between closely related taxa is a central question in evolutionary biology. Here, we investigate the mechanisms underlying divergence and isolation between two sister butterflies, Erebia palarica and Erebia meolans , which occur in sympatry in the Cantabrian Mountains (N Spain) and in allopatry elsewhere. Using an integrative approach, we combine genetic, genome synteny and cytogenetic analyses, Wolbachia screening, and geometric morphometrics to assess their evolutionary history and elucidate potential reproductive barriers between these species. The phylogeographic pattern suggests that both species diverged in allopatry, coming into secondary contact along the Cantabrian Mountains after the last glacial maximum. Both mitochondrial and nuclear markers recover reciprocal monophyly, indicating the absence of recent hybridisation. The identical chromosome numbers in both species (2 n = 28), the absence of major chromosomal rearrangements or straightforward genitalia differentiation, and the presence of the same Wolbachia strain in all infected individuals suggest that neither chromosomal rearrangements nor Wolbachia -induced incompatibilities contribute to their reproductive isolation in sympatry. In contrast, morphometric analyses show a significant divergence in wing size consistent with asymmetric character displacement: sympatric populations of E. palarica exhibit larger wings relative to both allopatric conspecifics and sympatric E. meolans , whereas E. meolans shows little size variation across northern Spain. Our findings point to wing size divergence in E. palarica as a response to sympatry with E. meolans . Overall, this study provides novel empirical evidence for morphometric character displacement in the family Nymphalidae, highlights the importance of multidisciplinary approaches for understanding species differentiation, and sets a framework for future genomic studies of speciation and reproductive isolation between closely related taxa.",
+    "species_latin": "Erebia palarica, Erebia meolans",
+    "species_en": "",
+    "species_zh": "帕拉里亚眼蝶、米奥兰眼蝶",
+    "takeaway": "研究两种近缘眼蝶，发现同域分布下翅型大小分化符合不对称性状替换，而非染色体或沃尔巴克氏体隔离。",
+    "conclusion": "两种眼蝶在异域分化后于坎塔布连山二次接触，线粒体与核标记均呈互惠单系，无近期杂交；染色体数目相同、无重大重排、无生殖器分化、沃尔巴克氏体株系一致，故这些均非生殖隔离主因；同域E. palarica翅显著增大，符合不对称性状替换，提示翅型分化是对同域共存的行为生态响应。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
