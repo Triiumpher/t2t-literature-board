@@ -196,7 +196,33 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43017926",
+    "title": "Toxicological epidemiology and utilization patterns of Nepal's first institution-based poison information center",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Clinical toxicology (Philadelphia, Pa.)",
+    "authors": "Kharel R, Ghimire R, Prasad P, Pokharel A, Sharma R, Mudwari A, Gyanwali P, Bajracharya SR, Pandey A, Karki R, Pandit A, Bista A, Muskan V, Adhikari P, Malekhu K, Timalsina Y, Thapa A, Hayes E, Baird J, Kazzi Z.",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43017926",
+    "doi": "10.1080/15563650.2026.2754283",
+    "pmid": "43017926",
+    "abstract": "Introduction Poisoning remains a major cause of preventable morbidity and mortality in low- and middle-income countries, yet Nepal has historically lacked centralized toxicology surveillance and consultation services. In 2023, piloting of an institution-based poison information center was done at Tribhuvan University Teaching Hospital through a multi-national collaboration. We describe the epidemiology, utilization patterns, and clinical characteristics of cases managed during the pilot phase of the Nepal Poison Information Center. Methods We conducted a descriptive analysis of prospectively collected data from all consultations reported to the Nepal Poison Information Center between September 2023 and December 2024. Trained poison center specialists documented demographic characteristics, exposure details, toxicological agents, consultation characteristics, and clinical disposition using a secure database. Data cleaning and descriptive analyses were conducted using SAS statistical software (version 9.4; SAS Institute Inc., Cary, NC). Results A total of 393 poisoning cases were managed during the pilot period (September 2023-December 2024). Most patients were aged 18-39 years (53.4%), and 53.7% were female. Suspected intentional self-harm (suicidal-intent) accounted for 55.0% of exposures. Pesticides were the most common toxicological agents (46.1%), with insecticides (50.3%) and rodenticides (26.0%) predominating. Non-pesticide exposures included mushroom poisoning (8.1%), chemical exposures (7.6%), snake envenomation (6.9%), and medication-related poisonings (3.3%). The median time from exposure to poison information center phone call was four hours (IQR 1.0-15.0 hours). International toxicology experts were consulted in 28.2% of cases. The most common initial clinical disposition was observation in the emergency department (39.2%). Discussion: First, cases were dominated by intentional exposures, with suspected suicide accounting for 55% of all consultations. Second, pesticides represented nearly half of all primary toxicological agents (46.1%), with insecticides and rodenticides as the most common subtypes. Third, nearly one in three cases required consultation with international toxicology experts (28.2%), highlighting both the complexity of poisoning presentations and the limited availability of specialized toxicology expertise within Nepal. Together, these findings demonstrate that the pilot institutional PIC successfully operationalized a 24/7 toxicology consultation and follow-up model (previously described) while generating a centralized dataset capable of informing toxicovigilance, suicide prevention strategies, and regulatory policy. The PIC's model requires a daily follow up (and earlier if clinically indicated) of the patient (via phone by calling the treating providers) to acquire patient's clinical status and disposition plan. This study highlights the essential components required for sustainable poison center operations, including dedicated staffing, reliable telecommunications infrastructure, structured training pathways, continuous quality improvement processes, and integration of poisoning management within national emergency care and public health frameworks. Anchoring the pilot at Tribhuvan University Teaching Hospital, a government-affiliated academic institution, was a strategic decision that provided institutional credibility, access to clinical pharmacology leadership, and a platform for national advocacy. Conclusion During its pilot phase, Nepal's first institutional poison information center successfully delivered nationwide toxicology consultation and generated a centralized poisoning dataset. The predominance of intentional pesticide exposures and rising burden of other agents underscores the need for integrated suicide prevention strategies, strengthened pesticide regulation, and sustained investment in toxicology capacity and poison center infrastructure in Nepal.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "尼泊尔首个院内毒物信息中心试点显示，农药中毒与蓄意自伤为主，咨询多依赖国际专家。",
+    "conclusion": "该试点中心一年余管理393例中毒咨询，以18-39岁女性居多，55%为疑似蓄意自伤，农药占46.1%（杀虫剂与灭鼠剂为主），暴露至来电中位4小时，28.2%需国际专家会诊，提示尼泊尔亟需本地化毒理监测与咨询服务。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -1074,7 +1100,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1100,7 +1126,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1126,7 +1152,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1152,7 +1178,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1178,7 +1204,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1204,7 +1230,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1340,7 +1366,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1392,7 +1418,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1636,6 +1662,32 @@
     "species_zh": "灰葡萄孢",
     "takeaway": "加州草莓灰霉病菌对杀菌剂抗性受药剂种类与施药强度影响，高频施药区为抗性热点",
     "conclusion": "连续施药下，boscalid与fludioxonil抗性频率稳定，fenhexamid抗性显著上升；停用6周后fenhexamid抗性下降而pyraclostrobin抗性稳定，说明抗性选择与适合度代价随作用机制而异；高频施药产区是抗性选择热点，需策略性用药与抗性管理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43014168",
+    "title": "Dehalobacter-mediated reductive dechlorination of the organophosphorus insecticide chlorpyrifos in mangrove sediments",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Water research",
+    "authors": "Li J, Zhong Y, Yang S, Wu J, Zhang Y, Zeng Y, Song J, Zhu X, Li D, Ling J, Yu Z, Häggblom MM, Peng P.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-13",
+    "url": "https://europepmc.org/article/MED/43014168",
+    "doi": "10.1016/j.watres.2026.127280",
+    "pmid": "43014168",
+    "abstract": "Mangrove sediments are important sinks for organic contaminants, including the widely used chlorinated organophosphorus insecticide chlorpyrifos (CPF). Although CPF degradation under oxic conditions has been extensively studied, its anaerobic transformation in reducing coastal environments remains poorly understood. Here, a mangrove sediment-derived anaerobic enrichment culture achieved nearly complete transformation of 10 mg L-1 CPF within 10 days. Ultraperformance liquid chromatography-Orbitrap high-resolution mass spectrometry (UPLCOrbitrap-HRMS) revealed the formation of a mono-dechlorinated CPF product, which was tentatively assigned as O,Odiethyl O-(3,5-dichloro-2-pyridinyl) phosphorothioate based on tandem mass spectrometry (MS/MS) evidence and density functional theory (DFT) calculations of C-Cl bond dissociation energies. The enrichment culture also reductively dechlorinated 3,5,6-trichloro-2-pyridinol (TCP), a common CPF transformation product, primarily to 5,6-dichloro-2-pyridinol, with Ecological Structure-Activity Relationships (ECOSAR) modeling predicting lower aquatic toxicity for the dechlorinated products than for their parent compounds. 16S rRNA gene amplicon sequencing and metagenomic analyses revealed marked enrichment of Dehalobacter during active CPF transformation, strongly implicating this organohalide-respiring lineage in CPF dechlorination. A high-quality Dehalobacter metagenome-assembled genome harboring 39 rdhA homologs was recovered. Integrated metatranscriptomic and metaproteomic analyses further prioritized four candidate reductive dehalogenases (CPF-RDH1/2/3/9), with CPF-RDH2 showing the strongest proteomic support. Together, these findings uncover an overlooked anaerobic transformation route of CPF through direct reductive dechlorination and highlight the potential role of Dehalobacter-associated organohalide respiration in the environmental fate of chlorinated organophosphorus contaminants in mangrove sediments.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "红树林沉积物富集培养中，Dehalobacter介导毒死蜱还原脱氯，10天内近乎完全转化。",
+    "conclusion": "红树林沉积物厌氧富集培养可将毒死蜱直接还原脱氯，生成单脱氯产物，并进一步转化TCP；Dehalobacter显著富集，其基因组含39个rdhA同源基因，蛋白组支持CPF-RDH2为关键还原脱卤酶，揭示被忽视的厌氧转化途径。",
     "keywords": [
       "新型杀虫剂"
     ],
