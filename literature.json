@@ -1639,6 +1639,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43023311",
+    "title": "Natural Product-Derived Antimicrobials: Emerging Strategies to Combat Antimicrobial Resistance",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Current topics in medicinal chemistry",
+    "authors": "Kumar A, Bharati AC, Parveen G, Chaudhary R, Ansari I.",
+    "publish_date": "2026-11-06",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43023311",
+    "doi": "10.2174/0115680266526376261102111901",
+    "pmid": "43023311",
+    "abstract": "Antimicrobial agents are the mainstay of therapeutic intervention against bacterial pathogens, which have bactericidal or bacteriostatic effects by disrupting key cellular functions. Nevertheless, the development and spread of antimicrobial resistance worldwide has become a severe social health crisis, making traditional treatment methods less effective against multidrugresistant organisms. The phenomenon of resistance is the driving force behind the pressing need to find new antimicrobial scaffolds that can circumvent existing resistance mechanisms. Natural products have historically been a source of antimicrobial agents, serving as the basis for many clinically effective antibiotics in modern medicine. Modern research efforts are investigating diverse biological sources, such as phytochemicals from medicinal plants, essential oils rich in bioactive terpenoids and phenolic compounds, antimicrobial peptides with membrane-disrupting activity, and synthetic-optimized traditional antibiotics. Moreover, metallic nanoparticles, including silver and gold, show potential antimicrobial activity at nanoscale concentrations, representing novel therapeutic modalities. Secondary metabolites from bacteria and fungi continue to yield structurally diverse compounds with strong antimicrobial activity against pesticide-resistant agricultural pathogens. All these new therapeutic platforms show significant potential to overcome evolved resistance mechanisms through new mechanisms of action, new cellular targets, and improved bioavailability profiles. The existing evidence suggests that naturally derived compounds, rationally designed and developed with nanotechnology-based delivery systems, can be used to restore antimicrobial activity against otherwise drug-resistant pathogens. This approach to natural product-based antimicrobial discovery is a strategy for the discovery and development of antimicrobial candidates that can help tackle the current global antimicrobial resistance crisis.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述天然产物衍生抗菌策略，涵盖植物化学物、精油、抗菌肽、金属纳米颗粒及微生物次级代谢物，可绕过现有耐药机制。",
+    "conclusion": "天然来源化合物结合纳米递送系统与合理设计，能通过新作用机制、新靶点和改善的生物利用度恢复对耐药病原体的抗菌活性，是应对全球抗菌药物耐药危机的重要候选开发路径。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43008619",
     "title": "A comparative review of multi-target receptor strategies for electrochemical multi-pesticide detection in food matrices",
     "type": "paper",
@@ -2349,6 +2375,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43019725",
+    "title": "LC-HRMS-based target, suspect and non-target screening of Greek peaches and nectarines: pesticide occurrence, transformation products and dietary risk assessment",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Alampanos VD, Koronaiou LA, Petromelidou S, Gkantou AD, Danis TG, Lambropoulou DA.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43019725",
+    "doi": "10.1016/j.foodchem.2026.151939",
+    "pmid": "43019725",
+    "abstract": "Peaches and nectarines (Prunus persica) are widely consumed stone fruits requiring comprehensive residue monitoring. Herein, an integrated LC-HRMS workflow combining target, suspect, and non-target screening was applied to 74 samples collected from the two major Greek production subregions. Target analysis enabled the quantification of 22 pesticide residues with cyprodinil, tebuconazole, difenoconazole, boscalid, fludioxonil, etofenprox, and pyraclostrobin among the most frequently detected. Comparison with EU MRLs showed only two slight exceedances, corresponding to 2.7% of samples, below the recent EFSA-reported average. Target-driven suspect screening, supported by literature-derived MS data, retention time prediction, and in silico MS/MS fragmentation, enabled the tentative annotation of nine transformation products associated with five pesticides. Non-target screening expanded chemical characterization by annotating emerging contaminants and endogenous compounds. Dietary risk assessment indicated acute and chronic exposure below toxicological reference values, suggesting no appreciable consumer risk. The workflow demonstrates the value of integrated LC-HRMS for pesticide monitoring and broader chemical profiling.",
+    "species_latin": "Prunus persica",
+    "species_en": "Peach",
+    "species_zh": "桃",
+    "takeaway": "用LC-HRMS靶向、疑似及非靶向筛查希腊桃与油桃，检出22种农药残留，仅2例超标，膳食风险可忽略。",
+    "conclusion": "研究整合靶向、疑似和非靶向LC-HRMS流程分析希腊两大产区74份桃与油桃样品，定量22种农药残留，仅2.7%样品略超欧盟最大残留限量，低于EFSA近期平均水平；并初步鉴定出5种农药相关的9种转化产物。急性和慢性膳食暴露均低于毒理学参考值，消费者风险不显著，表明该整合流程适用于农药监测与更广泛的化学轮廓分析。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
