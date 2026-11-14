@@ -1,0 +1,39 @@
+[
+  {
+    "id": "manual-20261115-designed-msa-ppi",
+    "title": "基于设计的多重序列比对引导AlphaFold改进环介导蛋白质-蛋白质相互作用的建模",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261115000610770.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对柔性环介导的异源复合物（纳米抗体、抗体、单克隆抗体-抗原）界面共进化信号弱、构象可变导致 AlphaFold 建模困难的问题，本研究提出利用 ProteinMPNN 界面设计生成的合成多重序列比对（MSA）引导 AlphaFold2-Multimer 与 AlphaFold3 预测的框架。基准测试显示设计 MSA 编码了界面特异性接触信息，既能判别兼容与不兼容界面，又能对低置信度盲预测进行结构优化与重排序。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "ProteinMPNN 设计的浅层合成 MSA 可作为可控输入引导 AlphaFold，显著提升环介导蛋白质-蛋白质相互作用的建模与盲预测成功率。",
+    "conclusion": "工程化 MSA 可编码蛋白质-蛋白质界面信息并引导 AlphaFold 对环介导相互作用的预测：对兼容界面产生高置信度准确结构、对不兼容界面给出低置信度或结构不一致结果，从而实现模型优劣判别；在盲预测中经聚类、优化与重排序将低置信度案例总体成功率从 22.2% 提升至 48.1%，且计算成本适度，ProteinMPNN 数秒即可生成 MSA、AF3 采样在 20 个种子内收敛。",
+    "keywords": [
+      "蛋白质-蛋白质相互作用",
+      "PPI",
+      "AlphaFold",
+      "AlphaFold2-Multimer",
+      "AlphaFold3",
+      "ProteinMPNN",
+      "多重序列比对",
+      "MSA",
+      "环介导相互作用",
+      "抗体-抗原",
+      "纳米抗体",
+      "结构预测",
+      "深度学习",
+      "蛋白质设计"
+    ]
+  }
+]
