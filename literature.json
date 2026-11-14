@@ -1,5 +1,92 @@
 [
   {
+    "id": "news-20261114-b918da7abc",
+    "title": "Mishandled Data Means No One Knows if California’s New Pesticide Regulation Protects Workers",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Inside Climate News",
+    "authors": "",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-14",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVS1vOVNyUDlvU19qUzhBQXpuWVBGbW9rZVBpNG5fcnJDblBVZE9MaTZ1bDhITDV1dW53a1k0cElDaGpNWU04ZkxBSThBaERoaWlaV2tZY1JxZGh2RkRKOVpXMjA0Vy0zUHdNVEtuZkZfXzd4WHFKc2N5Vkh2UzJNRmp6d1JIcll0MVZ2QkdtRXl3ejg3bVFj?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "因数据管理不当，加州新农药法规是否真正保护工人无法判断。",
+    "conclusion": "标题指出加州新农药监管措施的保护效果因数据处置不当而无法评估，凸显农药暴露监测与数据治理对工人健康保护的关键意义。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261114-81933b79fc",
+    "title": "Review: Nanotechnology Offers Efficient Pesticide Degradation Alternatives",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-14",
+    "url": "https://bioengineer.org/review-nanotechnology-offers-efficient-pesticide-degradation-alternatives/",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出纳米技术可为农药降解提供高效替代方案。",
+    "conclusion": "该综述认为纳米技术是有望高效降解农药残留的新途径，可弥补传统降解方法的不足，但具体机制与适用范围需结合原文进一步确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261113-82309e6c00",
+    "title": "Study Uncovers Microbial Risks in Takeaway Salads Despite Consumer Pesticide Fears",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-14",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmFNaTU3YzRTSHRvY1NaQ1pxLWpnWEtVOExzY1FMVzAtQUVsTXpYRUNGOVFfQWhjSTB5bW12cFM3TUppV3ROY0NVb1hFY1dyQmJGQWZocERfb1FFNnlaNDF6UlV4ZjluUzFfQTROMDZIRFZkWlBQcVZfTnlKcVVjR0pUZU5oVVFXWDJQTTFPeWRjY3lJd3BsLWNGTWJTTWdPZjZoLUxvVE5pR1E?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究揭示外卖沙拉存在微生物风险，而消费者担忧的农药残留并非主要隐患",
+    "conclusion": "该研究提示外卖沙拉的主要食品安全隐患在于微生物污染，而非消费者普遍担心的农药残留，为外卖生鲜食品的风险认知与监管重点提供了参考。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261113-0b93f0887b",
     "title": "Researchers Assemble Near Gap-Free Genome for Indigenous Chinese Guanling Cattle",
     "type": "news",
@@ -26,6 +113,110 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1186/s12864-026-13538-5",
+    "title": "A near telomere-to-telomere gap-free genome assembly of the Chinese indigenous Guanling cattle",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "BMC Genomics",
+    "authors": "Di Zhou, Ling Wang, Rong Yang, Yanli Lv, Xingzhou Tian, Xin Wang, Longxin Xu, Gaimiao Han, 吕风勇",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-14",
+    "url": "https://doi.org/10.1186/s12864-026-13538-5",
+    "doi": "10.1186/s12864-026-13538-5",
+    "pmid": "",
+    "abstract": "Abstract Background High-quality reference genomes are critical for elucidating the genetic architecture of complex traits in livestock. Conventional assemblies often contain gaps in repetitive regions, limiting the resolution of structural variation and regulatory elements. Telomere-to-telomere (T2T) assemblies enabled by PacBio HiFi, Oxford Nanopore ultra-long sequencing, and Hi-C provide gap-free chromosomal scaffolds. Although T2T genomes have been reported for humans and a limited number of cattle breeds, such resources remain unavailable for many indigenous breeds. Guanling cattle, an indigenous breed from southwestern China belonging to the southern Chinese cattle group and carrying mixed taurine and indicine ancestry, are known for high meat yield, protein content, and low fat, lack a complete reference genome, constraining studies of meat quality, adaptation, and conservation. Results By integrating PacBio HiFi, ONT ultra-long, and Hi-C data, we constructed a near T2T haplotype-collapsed genome assembly for Guanling cattle. The ~3.25 Gb assembly was anchored to 31 chromosomes, achieving a contig N50 of 111.67 Mb and leaving gaps only on the Y chromosome. The assembly showed excellent quality, with >99.9% read mapping rates, QV values exceeding 40, and 98.3% BUSCO completeness. Hi-C data revealed conserved three-dimensional chromatin organization, including A/B compartments, TADs, and chromatin loops. Genome annotation identified 56.74% repetitive elements, dominated by LINEs, and 1,157,450 SSRs enriched in A/T mononucleotides. We predicted 22,854 protein-coding genes, of which 99.7% were functionally annotated, along with a comprehensive set of non-coding RNAs. Comparative genomics uncovered a highly conserved bovine genome framework in Guanling cattle, with lineage-specific gene family dynamics and positive selection shaping adaptive divergence. Conclusions This near T2T assembly provides a high-quality genomic foundation for dissecting the genetic basis of superior meat quality, supporting precision breeding, evolutionary studies, and conservation of Guanling cattle. It also enriches indigenous bovine genomic resources and facilitates future pangenome analyses.",
+    "species_latin": "Bos taurus",
+    "species_en": "Guanling cattle",
+    "species_zh": "关岭牛",
+    "takeaway": "研究用HiFi、ONT超长读长与Hi-C数据组装出关岭牛近T2T无gap基因组，仅Y染色体留缺口。",
+    "conclusion": "该近T2T组装质量高、注释完整，揭示关岭牛基因组高度保守并存在谱系特异性基因家族扩张与正选择，为肉质性状解析、精准育种、进化与保护研究提供高质量基因组基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.3389/fgene.2026.1995121",
+    "title": "Resolving previously unresolved regions to advance genetic improvement of domesticated animals: technological foundations, breakthroughs, research directions, and current challenges of T2T assemblies",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Frontiers in Genetics",
+    "authors": "Dubala Wu, Yaxuan Jiao, Binhong Wen, Ting Wang, Tianwei Zhang, Sile Hu, Chun Li, Tiecheng Wu, Baoli Yu, Jianghong Wu",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-14",
+    "url": "https://doi.org/10.3389/fgene.2026.1995121",
+    "doi": "10.3389/fgene.2026.1995121",
+    "pmid": "",
+    "abstract": "The difficulty of assembling domesticated animals genomes is related to genome size, but it depends more critically on differences in repetitive sequence content, transposon load, and structural variant density. Owing to limitations in read length and to mapping ambiguity in repetitive regions, these regions and the structural variants within them have long been difficult to detect accurately with short-read sequencing, or they have resulted in assembly breaks and misjoins. Telomere to telomere (T2T) assembly, by constructing gapless complete chromosome sequences that run from telomere to telomere, has substantially improved the resolvability of such complex regions, and the coevolution of long-read sequencing and assembly algorithms is its technical prerequisite. This review outlines the core technological foundations of T2T assembly and summarizes the major breakthroughs of T2T: reshaping the resolution of chromosomal structures and the understanding of species evolution in domesticated animals, systematically uncovering structural variations, novel genes, and selection signals missed by traditional genomes, and providing in-depth resolution of population differentiation and gene flow patterns. It also explores the translational pathways, functional validation methods, and future application directions of the previously unresolved regions (PUR) revealed by T2T in breeding. Furthermore, this review objectively evaluates the current challenges and limitations of T2T technology in domesticated animal research and comprehensively outlines the bottlenecks in its practical application. It aims to provide a theoretical reference and technical support for the in-depth application of high-precision complete genome technology in the fields of domesticated animal evolution research, germplasm innovation, and molecular breeding.",
+    "species_latin": "",
+    "species_en": "domesticated animals",
+    "species_zh": "家养动物",
+    "takeaway": "综述T2T组装技术如何解析家养动物未解析区域并推动遗传改良",
+    "conclusion": "T2T无间隙组装突破重复序列和结构变异检测瓶颈，揭示传统基因组遗漏的结构变异、新基因与选择信号，深化群体分化与基因流认识，为家养动物进化研究、种质创新和分子育种提供高精度基因组技术支撑。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43020720",
+    "title": "Resistance fuels biological invasions while offering new avenues for RNAi-based pest management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Trends in biotechnology",
+    "authors": "He C, Liang J, Zhang R, Cao P, Zheng H, Yang J, Ji Y, Zhang C, Shi C, Fu B, Pan H, Chu D, Wu Q, Wang S, Guo Z, Fei Z, Nauen R, Ibrahim SS, Reitz SR, Xie W, Bass C, Yang X, Zhou X, Zhang Y.",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43020720",
+    "doi": "10.1016/j.tibtech.2026.10.014",
+    "pmid": "43020720",
+    "abstract": "Global trade and climate change have accelerated the spread of invasive agricultural pests while intensifying insecticide resistance. In the sweet potato whitefly, Bemisia tabaci, 2 decades of nationwide monitoring efforts revealed rapid displacement of one population, B/MEAM1, by another, Q/MED, illustrating an 'invasion treadmill' driven by competitive asymmetry between invasive lineages. In this research article, we identify the cytochrome P450 CYP6CX3 as a key contributor to imidacloprid resistance and exploit it as a molecular target for mechanism-informed spray-induced gene silencing. Functional analyses demonstrated that CYP6CX3 overexpression and allelic variation contribute to resistance, while semi-enclosed greenhouse trials showed that topical double-stranded RNA delivery enhanced insecticide sensitivity and mitigated host damage from both herbivory and sooty mold. These findings connect invasion dynamics with resistance evolution and establish detoxification genes as practical RNAi targets for sustainable pest management and integrated pest management programs by reducing chemical inputs while maintaining or restoring the efficacy of conventional insecticides.",
+    "species_latin": "Bemisia tabaci",
+    "species_en": "sweet potato whitefly",
+    "species_zh": "烟粉虱",
+    "takeaway": "烟粉虱CYP6CX3介导吡虫啉抗性，可作为RNAi靶标增强药效并减轻危害",
+    "conclusion": "烟粉虱Q/MED谱系取代B/MEAM1体现抗性与入侵的耦合；CYP6CX3过表达及等位变异导致吡虫啉抗性，以其为靶点的喷雾诱导基因沉默可恢复杀虫剂敏感性、减少化学投入并减轻取食与煤污病危害，为可持续害虫治理提供新途径",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43020349",
+    "title": "Acute deltamethrin exposure impairs resistance against bacterial and viral infections by compromising the gill-intestinal mucosal barriers in black carp (Mylopharyngodon piceus)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Fish & shellfish immunology",
+    "authors": "Zhao X, Wu H, Yang Y, Li D, Song R, Wu Z, Li H, Ren S, Liu X.",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43020349",
+    "doi": "10.1016/j.fsi.2026.111823",
+    "pmid": "43020349",
+    "abstract": "Previous studies have examined deltamethrin (DEL) toxicity in individual mucosal organs. However, few have assessed its effects on both gill and intestinal barriers alongside resistance to bacterial and viral infections. This study examined gill and intestinal responses in black carp (Mylopharyngodon piceus) exposed to DEL at 0.75 or 1.22 μg/L for 48 and 96 h. DEL caused epithelial injury in the gills and intestine, with earlier and more pronounced lesions in the gills. At 96 h, superoxide dismutase and glutathione peroxidase activities and malondialdehyde levels increased in both tissues. DEL reduced tight junction gene expression and altered the transcript levels of caspase-1, caspase-3, and IL-1β and corresponding protein levels, with responses varying by tissue and time. The relative abundance of Acinetobacter spp. increased in both tissues at 96 h. Following DEL exposure at 1.22 μg/L for 96 h, mortality after Aeromonas hydrophila and grass carp reovirus (GCRV) challenge increased from 30% to 60% and from 40% to 70%, respectively, accompanied by reduced expression of several immune genes relative to infection alone. These findings demonstrate that acute DEL exposure disrupts mucosal homeostasis and increases disease susceptibility, supporting the inclusion of mucosal health and infection outcomes in pesticide safety assessments in aquaculture.",
+    "species_latin": "Mylopharyngodon piceus",
+    "species_en": "Black carp",
+    "species_zh": "青鱼",
+    "takeaway": "急性溴氰菊酯暴露损伤青鱼鳃与肠黏膜屏障，降低其对细菌和病毒的抵抗力。",
+    "conclusion": "溴氰菊酯引起青鱼鳃和肠上皮损伤、氧化应激及紧密连接基因表达下降，并改变炎症与凋亡相关分子表达，使不动杆菌丰度升高；暴露后青鱼对嗜水气单胞菌和草鱼呼肠孤病毒的死亡率显著上升，免疫基因表达受抑，表明该农药破坏黏膜稳态并增加疾病易感性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -223,6 +414,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43019985",
+    "title": "Field evidence and data-driven modeling of neonicotinoid contamination in Chinese tap water: Drivers, exposure risks, and mitigation potential",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Yu W, Jin H, Zheng Y, Chen T, Fu Y, Shao J, Liu G, Wu D, Du W, Shen G, Chen Y.",
+    "publish_date": "2026-11-11",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43019985",
+    "doi": "10.1016/j.jhazmat.2026.144189",
+    "pmid": "43019985",
+    "abstract": "Neonicotinoid insecticides (NEOs) and their metabolites are emerging drinking-water contaminants, while their nationwide occurrence patterns and spatial driving factors remain poorly characterized in China. This study integrated field monitoring across 192 sites, literature-derived datasets, and data-driven models to systematically investigate NEO contamination in Chinese tap water, identify key drivers, and assess population exposure risks and mitigation potential. Total concentrations of parent and metabolite NEOs ranged from 4.94 to 111 ng/L, with significantly higher levels in eastern China than in western regions. Random forest analysis identified overall pesticide use, source-to-cropland distance, free chlorine, and permanganate index as dominant predictors of parent NEO spatial variability. Structural equation modeling further revealed direct and indirect associations of agricultural activities, precipitation, and treatment-related indicators with contamination levels. Screening-level risk assessment indicated generally low but spatially heterogeneous exposure risks; free chlorine, permanganate index, and source-cropland distance explained 34.7%, 8.70%, and 7.28% of modeled risk variability, respectively. A hypothetical 25 km source-farmland separation scenario suggested reduced modeled risks. These findings provide a national-scale baseline and support targeted monitoring, source water protection, and treatment optimization for drinking water safety management.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究整合192个点位监测与数据驱动模型，揭示中国自来水新烟碱污染东部高于西部，农药用量与水源距离等为主要驱动因素。",
+    "conclusion": "中国自来水新烟碱及代谢物浓度4.94–111 ng/L，东部显著高于西部；农药使用量、水源至农田距离、游离氯和高锰酸盐指数是空间分异主因，暴露风险总体偏低但存在空间异质性，水源与农田分离可降低模拟风险。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43019733",
+    "title": "Recent progress in the analysis of benzoylurea insecticide residues in food: Enhancing sensitivity and efficiency from pretreatment to detection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Zhang X, Bian Y, Wang X, Zhang Y, Feng XS.",
+    "publish_date": "2026-11-11",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43019733",
+    "doi": "10.1016/j.foodchem.2026.152068",
+    "pmid": "43019733",
+    "abstract": "Benzoylurea insecticides are extensively employed in fruits and vegetables for pest control, yet their residues pose health hazards and accelerate resistance. Current detection methods are hindered by matrix effects, inadequate sensitivity, poor selectivity, laborious pretreatment, and low automation. This review systematically summarizes recent advances since 2021 in pretreatment techniques, including dispersive liquid-liquid microextraction, solid-phase extraction, dispersive solid-phase extraction, magnetic solid-phase extraction, QuEChERS, and various solid-phase microextraction approaches, with particular emphasis on innovative solvents and adsorbents. For analytical detection, high-performance liquid chromatography coupled with different detectors and emerging sensor technologies is highlighted. Furthermore, a comparative assessment of these methods is presented, covering their advantages and limitations. Finally, future trends are discussed, pointing toward faster, more stable, automated, environmentally friendly, and highly specific and selective methodologies. This review aims to provide a valuable reference for advancing the reliable determination of benzoylurea insecticides in food matrices.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述2021年以来食品中苯甲酰脲类杀虫剂残留的前处理与检测技术进展，强调新型溶剂/吸附剂提升灵敏度与效率。",
+    "conclusion": "分散液液微萃取、固相萃取、QuEChERS及固相微萃取等前处理技术结合高效液相色谱与新型传感器，可改善基质效应、灵敏度和选择性；未来趋向快速、稳定、自动化、环境友好和高特异性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -498,6 +741,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43019994",
+    "title": "Systematic analysis of MYB transcription factors in lotus (Nelumbo nucifera) reveals NnMYB48 as a positive regulator of aporphine alkaloid biosynthesis",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant physiology and biochemistry : PPB",
+    "authors": "Zhang M, Yang Z, He R, Zhang Y, Huang Z, Liu J, Sun H, Li J, Yang M, Deng X.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43019994",
+    "doi": "10.1016/j.plaphy.2026.111955",
+    "pmid": "43019994",
+    "abstract": "Aporphine alkaloids in lotus (Nelumbo nucifera) are medicinally significant compounds, and their biosynthesis is orchestrated by a complex network involving various transcription factors (TFs). MYB TFs constitute one of the most critical classes, yet their specific functions in lotus aporphine alkaloid biosynthesis remained largely unexplored. Using the newly assembled lotus telomere-to-telomere (T2T) genome, we systematically characterized the full complement lotus MYB genes and identified 126 R2R3-MYBs, 57 1R-MYBs, five R1R2R3-MYBs, and one 4R-MYB. Phylogenetic and gene duplication analysis revealed 63 collinear NnMYB gene pairs and 15 tandemly arrayed gene clusters, indicating that both whole-genome and local tandem duplication events collectively drove the expansion of the NnMYB family. Correlation analysis between gene expression and aporphine abundance identified 44 NnMYB candidates potentially involved in aporphine biosynthesis. Among them, NnMYB48 was predominantly expressed in the lotus leaves and showed a rapid transcriptional response to methyl jasmonate (MeJA). Transient overexpression of NnMYB48 in lotus petals markedly upregulated multiple aporphine biosynthetic genes and increased the accumulation of major aporphine alkaloids. Further dual-luciferase reporter assays, yeast one-hybrid, and electrophoretic mobility shift assays confirmed that NnMYB48 directly binds to the promoters of NnTYDC and NnCYP80G, thereby activating their transcription and promoting alkaloid biosynthesis. Collectively, these findings provide critical insights into the evolution trajectory and functional diversification of the NnMYB family in lotus.",
+    "species_latin": "Nelumbo nucifera",
+    "species_en": "Sacred lotus",
+    "species_zh": "莲",
+    "takeaway": "基于T2T基因组鉴定莲MYB家族，发现NnMYB48直接激活NnTYDC与NnCYP80G，促进阿朴啡类生物碱合成。",
+    "conclusion": "研究系统鉴定了莲MYB转录因子家族，揭示全基因组与串联重复共同驱动其扩张，并筛选出44个与阿朴啡生物碱相关的候选基因。NnMYB48在叶片高表达且响应茉莉酸甲酯，通过直接结合NnTYDC和NnCYP80G启动子激活转录，正向调控阿朴啡类生物碱积累，为莲生物碱代谢调控与MYB家族功能演化提供依据。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -962,6 +1231,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43022695",
+    "title": "Detection of &lt;i&gt;Arsenophonus&lt;/i&gt; and &lt;i&gt;Spiroplasma&lt;/i&gt; throughout the life cycle of Colombian populations of &lt;i&gt;Spodoptera frugiperda&lt;/i&gt;: evidence of potential vertical transmission",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PeerJ",
+    "authors": "Yepes-Acevedo AJ, Lopez-Rivera N, Montoya-Ruiz C, Moreno-Herrera CX, Saldamando-Benjumea CI.",
+    "publish_date": "2026-11-09",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43022695",
+    "doi": "10.7717/peerj.21921",
+    "pmid": "43022695",
+    "abstract": "Background Spodoptera frugiperda , commonly known as the fall armyworm (FAW), is a pest of great economic importance in corn. The species has recently expanded from the Western Hemisphere to Africa, Asia, and Oceania, increasing its global impact. FAW has diverged into two strains, corn and rice, which differ in genetics, reproductive isolation, resistance to insecticides and to Bacillus thuringiensis , and, more recently found, in their microbiota. Endosymbionts such as Arsenophonus and Spiroplasma have been detected using next-generation sequencing (NGS) of the 16S rRNA gene. However, information on additional endosymbionts and their transmission dynamics remains limited. Therefore, the objectives of this study were to (i) evaluate the presence of endosymbionts such as Arsenophonus, Cardinium , Spiroplasma , and Wolbachia as well as the intracellular parasite Microsporidia, throughout the life cycle of both strains of S. frugiperda , (ii) assess their potential vertical transmission, and (iii) examine possible associations between these symbionts and life-history traits in this insect. Methods Larvae were sampled from corn and rice fields in central and eastern Colombia. Laboratory colonies of the corn and rice strains of S. frugiperda were maintained under controlled conditions. Strain identity was confirmed using diagnostic molecular markers ( MspI , SacI , FR). Within each strain, one-to-one crosses were performed to construct life cycle tables and estimate life-history traits components. DNA was subsequently extracted from parental individuals and from eggs, larvae, pupae, and adults. Following extraction, conventional and real-time polymerase chain reaction (PCR) using an intercalating dye were conducted to identify the genera Arsenophonus, Cardinium , Spiroplasma , and Wolbachia , the intracellular parasite Microsporidia and positive amplifications were confirmed by Sanger sequencing. Results Arsenophonus was detected exclusively in the corn strain using conventional PCR and confirmed by Sanger sequencing. Additionally, Spiroplasma was detected in both strains using real-time PCR using an intercalating dye. The detection of these endosymbionts across developmental stages is consistent with, vertical transmission. Differences in life-history traits components were observed between the two strains, but no clear association was detected between these differences and the presence of either endosymbiont under the conditions evaluated. These results highlight the need for further studies to evaluate the potential role of endosymbionts in the biology of this pest and to further on to better understand their transmission dynamics and possible ecological interactions.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "在哥伦比亚草地贪夜蛾玉米品系全生命周期检出Arsenophonus，两品系均检出Spiroplasma，提示可经垂直传播。",
+    "conclusion": "Arsenophonus仅见于玉米品系，Spiroplasma在两品系均有分布，且二者在卵、幼虫、蛹、成虫各阶段均可检出，提示存在母系垂直传播；这为理解共生菌与寄主品系分化及生活史特征的关联提供了依据。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -2776,6 +3071,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43023725",
+    "title": "Modeling distinct pathogenesis of early- and late-onset preeclampsia via hierarchical representation learning of interactome",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Briefings in bioinformatics",
+    "authors": "Sufriyana H, Wu YW, Chiu HS, Sumazin P, Su EC.",
+    "publish_date": "2026-11-02",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43023725",
+    "doi": "10.1093/bib/bbag627",
+    "pmid": "43023725",
+    "abstract": "OBJECTIVES: We developed and validated the pathogenesis models by hierarchical representation learning of interactomes connecting endometrial maturation, placentation, chorioamnionitis, and hemolysis, elevated liver enzyme, and low platelet (HELLP) syndrome. METHODS: We utilized 19 gene sets from our previous work to infer interactomes to develop (n = 177) and validate (n = 352) explainable artificial intelligence models for each preeclampsia subtype using deep-insight visible neural network, gradient-weighted class activation mapping, and large language model. RESULTS: The hierarchically learned representations identified novel genes for late-onset preeclampsia (LOPE), similar to chorioamnionitis (ANKRD13A, SLA), and HELLP syndrome (PDE5A). We also identified novel genes for early-onset preeclampsia (EOPE), similar to HELLP syndrome (SWAP70, GREM2, GPR146, PIP5K1B, EZR). CONCLUSIONS: Our pathogenesis models connected HELLP syndrome with both LOPE and EOPE. However, chorioamnionitis was only connected with LOPE.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "用分层表征学习构建交互组模型，揭示早发型与晚发型子痫前期发病机制存在差异。",
+    "conclusion": "研究通过可解释AI模型将HELLP综合征与早发型和晚发型子痫前期均联系起来，而绒毛膜羊膜炎仅与晚发型相关，并识别出各亚型的新候选基因，提示两种亚型发病机制不同。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -4693,6 +5014,32 @@
     "species_zh": "慢生根瘤菌",
     "takeaway": "研究者改造慢生根瘤菌FMO酶，获得变体BjFMOM9，显著提升催化活性、热稳定性与有机溶剂耐受性，高效合成茚虫威手性中间体。",
     "conclusion": "基于分子对接与序列比对进行定点饱和及理性设计突变，迭代组合有益突变获得BjFMOM9；其比活力提高2倍，40℃半衰期由1.3小时延长至3.0小时，异丙醇、乙醇和丙酮耐受性明显增强，制备级反应10小时内转化率超80%，(S)-产物ee超90%，为茚虫威对映选择性合成提供生物催化替代途径。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43022548",
+    "title": "Ecotoxicological Effects of a Commercial Fenthion-Based Formulation on the Survival, Hatching, and Growth of Artemia salina L.: Implications for Risk Assessment in Marine and Estuarine Environments",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Mendes da Silva L, Ramos RP, Ferreira JL, Landim JLF, Magalhães ME, Andrade-Vieira LF.",
+    "publish_date": "2026-10-27",
+    "added_at": "2026-11-14",
+    "url": "https://europepmc.org/article/MED/43022548",
+    "doi": "10.1021/acsomega.6c06726",
+    "pmid": "43022548",
+    "abstract": "This present study evaluated the effects of a commercial formulation based on fenthion on survival, hatching, and growth of Artemia salina, and characterized the environmental risk of this insecticide to marine and estuarine ecosystems. The fenthion-based commercial formulation was tested at concentrations ranging from 0.001 up to 731 mg/L using different bioassays: a standard 48-h acute test, a 14-day long-term test, and also two 72-h assays (one for cyst hatching, another for growth inhibition). Obtained EC50 values were fully integrated with available literature data to construct a species sensitivity distribution (SSD) curve, which then determined the hazardous concentration for 5% of species (HC5), the predicted no-effect concentration (PNEC), and the risk quotient (RQ). In the acute assay, the formulation showed low toxicity, with EC50 of 212.36 mg/L at 24 h and 16.64 mg/L at 48 h. In contrast, high toxicity was observed in long-term tests, with EC50 of 0.0752 mg/L after 8 days and 0.0052 mg/L after 14 days of exposure. Minor effects were observed on hatching rate (EC50 = 101.75 mg/L), whereas more pronounced effects were seen on hatching speed (EC50 = 19.88 mg/L) and nauplii growth (EC10 = 0.076 mg/L). The HC5 from the SSD was 0.000104 mg/L, while PNEC was 0.000020 mg/L. The average RQ was 1.86, indicating high risk. Overall, these results demonstrate the ecotoxicological potential of a fenthion-based commercial formulation for relevant organisms in marine and estuarine ecosystems, reinforcing the importance of regulatory measures and environmental monitoring in areas subject to contamination by this insecticide.",
+    "species_latin": "Artemia salina",
+    "species_en": "Brine shrimp",
+    "species_zh": "卤虫",
+    "takeaway": "倍硫磷商品制剂对卤虫急性毒性低但长期毒性高，环境风险商达1.86，提示高风险。",
+    "conclusion": "该倍硫磷制剂对卤虫的急性毒性较低，但长期暴露（8–14天）毒性显著增强，且明显抑制无节幼体生长；基于物种敏感分布推导的HC5与PNEC极低，平均风险商1.86表明对海洋与河口生态系统构成高风险，需加强监管与环境监测。",
     "keywords": [
       "新型杀虫剂"
     ],
