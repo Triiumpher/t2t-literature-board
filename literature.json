@@ -1,5 +1,182 @@
 [
   {
+    "id": "manual-20261115-designed-msa-ppi",
+    "title": "基于设计的多重序列比对引导AlphaFold改进环介导蛋白质-蛋白质相互作用的建模",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-15",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261115000610770.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对柔性环介导的异源复合物（纳米抗体、抗体、单克隆抗体-抗原）界面共进化信号弱、构象可变导致 AlphaFold 建模困难的问题，本研究提出利用 ProteinMPNN 界面设计生成的合成多重序列比对（MSA）引导 AlphaFold2-Multimer 与 AlphaFold3 预测的框架。基准测试显示设计 MSA 编码了界面特异性接触信息，既能判别兼容与不兼容界面，又能对低置信度盲预测进行结构优化与重排序。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "ProteinMPNN 设计的浅层合成 MSA 可作为可控输入引导 AlphaFold，显著提升环介导蛋白质-蛋白质相互作用的建模与盲预测成功率。",
+    "conclusion": "工程化 MSA 可编码蛋白质-蛋白质界面信息并引导 AlphaFold 对环介导相互作用的预测：对兼容界面产生高置信度准确结构、对不兼容界面给出低置信度或结构不一致结果，从而实现模型优劣判别；在盲预测中经聚类、优化与重排序将低置信度案例总体成功率从 22.2% 提升至 48.1%，且计算成本适度，ProteinMPNN 数秒即可生成 MSA、AF3 采样在 20 个种子内收敛。",
+    "keywords": [
+      "蛋白质-蛋白质相互作用",
+      "PPI",
+      "AlphaFold",
+      "AlphaFold2-Multimer",
+      "AlphaFold3",
+      "ProteinMPNN",
+      "多重序列比对",
+      "MSA",
+      "环介导相互作用",
+      "抗体-抗原",
+      "纳米抗体",
+      "结构预测",
+      "深度学习",
+      "蛋白质设计"
+    ]
+  },
+  {
+    "id": "news-20261115-7b7c20a96c",
+    "title": "A gap-free telomere-to-telomere pig reference genome provides insights into Eurasian pig diversity",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-15",
+    "url": "https://doi.org/10.1038/s41422-026-01319-4",
+    "doi": "10.1038/s41422-026-01319-4",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Sus scrofa",
+    "species_en": "Pig",
+    "species_zh": "猪",
+    "takeaway": "研究完成无间隙端粒到端粒猪参考基因组，为解析欧亚猪多样性提供基础。",
+    "conclusion": "构建了无间隙、端粒到端粒的猪参考基因组，可更完整地呈现基因组结构，为研究欧亚猪的遗传多样性与群体分化提供高质量参考基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Cell Research",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261115-0b1698b432",
+    "title": "Complete Telomere-to-Telomere Pig Reference Genome Uncovers Hidden Structural Diversity and Evolution",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-15",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcldYNlJPWGNaRzlBbm5SUmQ3T3phNzlpbUtKa0g4VmJicGtITmlLYnBGejdydXpBQ2ZBbzUzV0ozQ2dudjFhTlNHTEFadk5EYWs0Z19RZ2tLR0t3MkVvLU9TWmVHUHhyTVhnTWtQU3l2RHJsai1KeUtxNkNTY1U0WnJnTVFibHhrRjFrT01uRmlYMFhSQS03VmF5VU1xMkZ2anJCOGV5TjhCT1M2YTlWWGhaMUFqclNYQUtxZkcyNVVVRUFD?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Sus scrofa",
+    "species_en": "Pig",
+    "species_zh": "猪",
+    "takeaway": "研究完成猪端粒到端粒完整参考基因组，揭示此前隐藏的结构多样性与演化特征",
+    "conclusion": "该工作构建了猪的端粒到端粒无间隙参考基因组，弥补了以往参考基因组中重复区和结构变异难以解析的不足，从而发现此前被隐藏的结构多样性，并为猪的基因组演化研究提供更完整的基准。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261114-33fcf4c13b",
+    "title": "Study Links Information Access and Education to Vegetable Farmer Pesticide Safety Knowledge",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-15",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0NkU000NVQ4aG16NWpkWmJMQ2VYdU45SVhBVnNKRkp6dzBCWXU3Y3NOb09MM2FFUlVoM0NnVXh1ekVrSFJPMHBCenRYZXk1RTh0RmpPTEtnR21sMllSSGdiVkJvRkxEMWplWjRoLXpzWVNscThrdmhpaGhSQUk2Rk1BbDl5bUVOc2NKeXI4WGpXTFRlNC05eWpldTNkVWJ2VjZwTFQtUWVzOGdfVmp6QkE0WllRQnc?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究将信息获取与教育同菜农农药安全知识水平相联系。",
+    "conclusion": "标题提示信息获取渠道与教育程度可能是影响菜农掌握农药安全知识的关键因素，但无摘要，具体机制与结果无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43026720",
+    "title": "Wolbachia induces excess ecdysteroid production to enhance female reproduction in Laodelphax striatellus",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "The ISME journal",
+    "authors": "Guo Y, Song ZW, Huang F, Xiao HX, Shi BB, Zhang XQ, Shao JY, Yang Q, Zhang ZF.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-15",
+    "url": "https://europepmc.org/article/MED/43026720",
+    "doi": "10.1093/ismejo/wrag283",
+    "pmid": "43026720",
+    "abstract": "Wolbachia, one of the most widespread intracellular bacteria, is abundant in the ovaries of the small brown planthopper, Laodelphax striatellus. Wolbachia significantly enhances L. striatellus egg production; however, the mechanistic role of host hormones remains unclear. Here, we investigated how Wolbachia manipulates L. striatellus reproduction through the host ecdysteroid hormone pathway. Wolbachia infection elevated the levels of ovarian ecdysone and 20-hydroxyecdysone (20E), hormonal increases that are crucial as RNA interference knockdown of the synthesis genes CYP315A1 (for ecdysone) and CYP314A1 (for 20E) reduced hormone titres and suppressed fecundity, whereas 20E supplementation restored egg production. Furthermore, we precisely located germline stem cells (GSCs) in the posterior tropharium and identified mitotic nurse cell precursors (NCPs) in the anterior region. In infected females, these specific tropharia regions exhibited a high proportion of pH3-positive GSCs and NCPs and low apoptosis rate. Wolbachia microinjection into uninfected hosts recapitulated the entire phenotype, elevating 20E levels, enhancing tropharia cell proliferation, and increasing fecundity, confirming a direct causal relationship. Collectively, our findings demonstrate that Wolbachia elevates ovarian 20E levels to stimulate mitosis and suppress apoptosis within precisely mapped GSC and NCP populations in the tropharium, thereby enhancing host reproduction. These findings provide valuable insights into symbiont-driven reproductive enhancement and highlight potential strategies for insect population management.",
+    "species_latin": "Laodelphax striatellus",
+    "species_en": "small brown planthopper",
+    "species_zh": "灰飞虱",
+    "takeaway": "沃尔巴克氏体通过提高卵巢蜕皮激素与20E水平，促进生殖干细胞分裂并抑制凋亡，从而提升灰飞虱产卵量",
+    "conclusion": "沃尔巴克氏体感染提高灰飞虱卵巢中蜕皮酮和20E滴度，20E作用于滋养区精确定位的生殖干细胞及护理细胞前体，促进其有丝分裂、抑制凋亡，进而增强雌性繁殖力；显微注射实验证实该因果链，揭示共生菌调控宿主激素以提升生殖的机制",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43026029",
+    "title": "Integrated population genomics and phenotypic analyses reveal geographic structure and signatures of recent positive-selection underlying insecticide resistance in Anopheles arabiensis from The Gambia, West Africa",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Genome biology and evolution",
+    "authors": "Seck F, Mwangi JN, Clarkson CS, Cham S, Faal S, Jawara M, Jatta E, Gibba B, Diabaté A, Dia I, Bennett KL, D'Alessandro U, Amambua-Ngwa A, Miles A, Opondo K, Assogba BS.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-15",
+    "url": "https://europepmc.org/article/MED/43026029",
+    "doi": "10.1093/gbe/evag277",
+    "pmid": "43026029",
+    "abstract": "Insecticide resistance in malaria vectors is spreading, with newly identified resistance markers raising operational challenges and threatening malaria reduction. Anopheles arabiensis is an important vector in The Gambia; however, the molecular basis of its insecticide resistance remains poorly understood. We observed signals of population structure between coastal and inland An. arabiensis populations in The Gambia, indicating restricted gene flow likely influenced by environmental variation. Pyrethroid and DDT resistance were widespread. However, the prevalence of both phenotypic and genetic insecticide resistance differed between coastal and inland populations. For instance, the Vgsc-L995S and Vgsc-L995F substitutions conferring pyrethroid and DDT resistance were more frequent in coastal populations and were associated with markedly higher phenotypic resistance to these insecticides. We also identified increased frequencies of copy number variation at Cytochrome P450 (Cyp6aa/p, Cyp9k1) and carboxylesterase (Coeae2-7 g) metabolic resistance markers in coastal An. arabiensis. Some observed gene amplifications were unique to Gambian coastal populations, suggesting their independent evolution. Furthermore, we found evidence of genomic regions under recent positive selection on chromosomes 2L:37,282,152-37,298,202 and 3R:28,590,243-28,602,280 with more pronounced selection signals observed among coastal populations. Coastal populations of An. arabiensis displayed an enrichment of resistance alleles, suggesting a localised pressure driving the evolution, selection and spread of resistance mechanisms. These findings underscore the importance of genomic surveillance in concert with bioassays to inform targeted vector control interventions. They also highlight the need to identify the sources and impacts of insecticide pressure acting on recently detected genomic regions under selection in the coastal regions of The Gambia.",
+    "species_latin": "Anopheles arabiensis",
+    "species_en": "Arabiensis mosquito",
+    "species_zh": "阿拉伯按蚊",
+    "takeaway": "冈比亚沿海与内陆阿拉伯按蚊存在遗传分化，沿海群体杀虫剂抗性等位基因更富集并受近期正选择。",
+    "conclusion": "冈比亚阿拉伯按蚊沿海与内陆群体间基因流受限，沿海群体中Vgsc突变及P450、羧酸酯酶拷贝数变异频率更高，并检测到2L和3R上近期正选择区域，提示局部杀虫剂压力驱动抗性进化与扩散，需结合基因组监测与生物测定指导靶向防控。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261114-b918da7abc",
     "title": "Mishandled Data Means No One Knows if California’s New Pesticide Regulation Protects Workers",
     "type": "news",
@@ -58,6 +235,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43031333",
+    "title": "No cross-resistance to cry toxins and strong fitness costs associated with Vip3Aa resistance in a chitin synthase knockout strain of Helicoverpa armigera",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Zhang M, Liu C, Gao L, Song Y, Liu Y, Yang Y, He YZ.",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-15",
+    "url": "https://europepmc.org/article/MED/43031333",
+    "doi": "10.1002/ps.71485",
+    "pmid": "43031333",
+    "abstract": "BACKGROUND: Genetically modified crops expressing insecticidal proteins from Bacillus thuringiensis (Bt) are widely planted to suppress pest populations, but the emergence of resistance in pests threatens their durability. The evolution of resistance is strongly shaped by cross-resistance patterns and associated fitness costs. Recent studies have linked loss-of-function mutations in the chitin synthase 2 (CHS2) gene with resistance to Vip3Aa in several lepidopteran pests, including the cotton bollworm Helicoverpa armigera. However, whether disruption of CHS2 confers cross-resistance to Cry toxins and imposes fitness costs in H. armigera remains unknown. Here, we examined the cross-resistance profile of a Vip3Aa-resistant H. armigera strain with CHS2 knocked out (CHS2-KO) and assessed its fitness costs when reared on wheat germ diet, cotton leaves, and corn ears lacking Vip3Aa. RESULTS: The CHS2-KO strain exhibited >2852-fold recessive resistance to Vip3Aa but had no cross-resistance to Cry1Ac or Cry2Ab. When maintained on wheat germ diet without Vip3Aa, CHS2-KO had delayed development and lower larval survival, lower pupal weight, and reduced adult fecundity relative to the susceptible parental strain SCD. Survival of CHS2-KO larvae was 1% after 7 days on cotton leaves and 2% after 5 days on corn ears, indicating marked fitness costs. No peritrophic matrix was found in the midguts of CHS2-KO larvae. Midgut transcriptome profiling of CHS2-KO larvae revealed upregulation of transcripts involved in protein digestion, cellular absorption, and immune responses with a corresponding decline in transcripts involved in metabolism. CONCLUSION: Vip3Aa resistance in H. armigera mediated by loss-of-function mutations in CHS2 is inherited as a recessive trait, lacks cross-resistance to Cry toxins, and incurs strong fitness costs. These findings suggest that complete loss of CHS2, as seen in the CHS2-KO strain, may be negatively selected in the absence of Vip3Aa. © 2026 Society of Chemical Industry.",
+    "species_latin": "Helicoverpa armigera",
+    "species_en": "Cotton bollworm",
+    "species_zh": "棉铃虫",
+    "takeaway": "棉铃虫CHS2敲除株对Vip3Aa高抗且无Cry交叉抗性，但适合度代价显著",
+    "conclusion": "CHS2功能缺失介导的Vip3Aa抗性为隐性遗传，对Cry1Ac和Cry2Ab无交叉抗性；该突变导致围食膜缺失、发育延迟、存活与繁殖力下降，在无Vip3Aa选择压下可能被负选择，有助于抗性治理",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261113-82309e6c00",
     "title": "Study Uncovers Microbial Risks in Takeaway Salads Despite Consumer Pesticide Fears",
     "type": "news",
@@ -113,6 +316,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.3897/imafungus.17.205844",
+    "title": "The T2T genome of Butyriboletus roseoflavus confirms genomic adaptations to ectomycorrhizal symbiosis",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "IMA Fungus",
+    "authors": "Kaiming Gao, Jingling Li, Chang Zhang, Yang Ni, Jujie Wang, Qian Zhang, 刘思妤, Qianru Li, Guoan Shen, Chang Liu",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-15",
+    "url": "https://doi.org/10.3897/imafungus.17.205844",
+    "doi": "10.3897/imafungus.17.205844",
+    "pmid": "",
+    "abstract": "Butyriboletus roseoflavus is an edible ectomycorrhizal bolete that is currently only available from wild collection. To investigate genomic features associated with the ectomycorrhizal nutritional mode, we generated gap-free, haplotype-resolved telomere-to-telomere (T2T) genome assemblies of B. roseoflavus specimen HN25B01 using PacBio HiFi sequencing. The two haplotype assemblies, Hap1 and Hap2, were 31.49 Mb and 32.26 Mb in length, respectively. Phylogenomic analysis placed B. roseoflavus close to Butyriboletus appendiculatus and Butyriboletus subappendiculatus , with their common ancestor estimated to have existed approximately 67 million years ago. Using Hap1 as the representative genome, we compared carbohydrate-active enzymes (CAZymes), secreted proteases, small secreted proteins (SSPs), and secondary metabolite biosynthetic gene clusters across fungi representing ectomycorrhizal, dual symbiotrophic/saprotrophic, and saprotrophic nutritional modes. Seven of the 15 functional categories (CE, GH, PL, AP, GP, SP, and T1PKS) showed significant differences in copy numbers among nutritional modes (Kruskal–Wallis test, p < 0.05). Saprotrophic fungi generally exhibited higher CE, GH, PL, SP, and T1PKS copy numbers, whereas ectomycorrhizal fungi generally exhibited higher AP and GP copy numbers. The B. roseoflavus Hap1 genome contained nine CE, 100 GH, two PL, and 21 SP genes, as well as 108 genes encoding SSPs. Metagenomic analysis revealed differences in microbial community composition between soil associated with the stipe base (SBS) of B. roseoflavus fruiting bodies and the surrounding soil (SS). Nitrogen-fixing and phosphate-solubilizing taxa, including Bradyrhizobium and Paraburkholderia , were more abundant in the SBS samples than in the SS samples. Together, these findings offer a high-quality genomic resource and confirm genomic adaptations to ectomycorrhizal symbiosis, which may facilitate future investigations into the biology, nutritional ecology, and cultivation of B. roseoflavus .",
+    "species_latin": "Butyriboletus roseoflavus",
+    "species_en": "Pink-yellow bolete",
+    "species_zh": "粉黄牛肝菌",
+    "takeaway": "研究用PacBio HiFi测序组装出粉黄牛肝菌无间隙双单倍型T2T基因组，比较揭示其与外生菌根共生相关的基因组适应。",
+    "conclusion": "粉黄牛肝菌两个单倍型基因组分别约31.49和32.26 Mb，与近缘种共同祖先约6700万年前。比较分析显示，腐生真菌的CE、GH、PL、SP和T1PKS拷贝数较高，而外生菌根真菌的AP和GP拷贝数较高；其菌柄基部土壤中固氮与溶磷菌更富集，提示基因组与根际微生物协同适应外生菌根营养方式。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
@@ -741,6 +970,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43025166",
+    "title": "Discovery of biphenyl tetrazole derivatives as potent Keap1-Nrf2 protein-protein interaction inhibitors via structure-guided modification for the intervention of hypoxia-induced injury",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "European journal of medicinal chemistry",
+    "authors": "Yang J, Li C, Nie Q, Liu C, Cheng L, Wu Y, He J, Cao W, Chen SW, Zhang J.",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-15",
+    "url": "https://europepmc.org/article/MED/43025166",
+    "doi": "10.1016/j.ejmech.2026.119500",
+    "pmid": "43025166",
+    "abstract": "Hypoxia injury is typically accompanied by increased oxidative stress, leading to cellular dysfunction and tissue damage. Activation of the Keap1-Nrf2 pathway, which regulates antioxidant and cytoprotective defenses, represents a critical strategy for combating hypoxia injury. Here, guided by the binding mode of LY2183240 within the Keap1 Kelch domain, we designed and synthesized a series of novel biphenyl tetrazole derivatives with systematic modifications on the terminal phenyl ring. We used a hypoxia model established in PC12 cells with CoCl2 or a hypoxic incubator, and identified compounds that exerted protective effects. Furthermore, their therapeutic potential as Keap1-Nrf2 protein-protein interaction inhibitors was evaluated. Among them, YL-6 and YL-7 exhibited potent Nrf2-activating capabilities. Enzymatic counter-screening demonstrated that YL-6 and YL-7 did not significantly inhibit FAAH or MAGL at concentrations of up to 10 μM. A fluorescence polarization competition assay confirmed that these compounds bind directly to the Keap1 Kelch domain and disrupt the interaction between Keap1 and Nrf2. Intracellular enzyme activity assays and Western blot analysis results showed that YL-6 and YL-7 effectively induced the expression of Nrf2-dependent antioxidant enzymes, including HO-1 and NQO1, and significantly enhanced cellular resistance to oxidative stress. DCFH-DA fluorescence probe staining showed that YL-6 and YL-7 reduced intracellular reactive oxygen species (ROS) levels, alleviated cellular damage, and markedly attenuated oxidative stress responses under hypoxic conditions. Furthermore, Western blot analysis confirmed that YL-6 and YL-7 effectively promoted Nrf2 translocation from the cytoplasm to the nucleus, enhancing the regulatory function of Nrf2 on downstream antioxidant genes. Importantly, we knocked down Nrf2 expression in PC12 cells by siRNA transfection. The protective effects of YL-6 and YL-7 against hypoxic cell injury were markedly diminished when Nrf2 expression was reduced. These findings demonstrate that biphenyl tetrazole derivatives effectively activate the Nrf2 pathway and offer potential therapeutic strategies through their antioxidant effects to address the challenges posed by hypoxia-induced injury.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Rat pheochromocytoma cells (PC12)",
+    "species_zh": "大鼠嗜铬细胞瘤细胞",
+    "takeaway": "设计联苯四唑类Keap1-Nrf2抑制剂，YL-6/YL-7经PC12缺氧模型验证可抗氧化护细胞",
+    "conclusion": "联苯四唑衍生物YL-6和YL-7直接结合Keap1 Kelch结构域，阻断Keap1-Nrf2互作，促Nrf2核转位并上调HO-1、NQO1，降低ROS、缓解缺氧损伤；siRNA敲低Nrf2后保护作用消失，证实其依赖Nrf2通路，具缺氧损伤干预潜力",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -1987,6 +2242,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43027022",
+    "title": "Ligand-Specific Remodeling of the Anopheles gambiae RDL GABA Receptor by the A296S Mutation Differentiates Recognition of Fipronil and Fluralaner",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Biology",
+    "authors": "Al-Akeel RK, Ibrahim IM, Alkhaibari AM, Mohamed A, Zhang W, Takeda M, Ezat AA.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-15",
+    "url": "https://europepmc.org/article/MED/43027022",
+    "doi": "10.3390/biology15212011",
+    "pmid": "43027022",
+    "abstract": "The γ-aminobutyric acid (GABA)-gated chloride channel Resistance to Dieldrin (RDL) receptor is a major molecular target of insecticides, yet the structural basis by which resistance-associated mutations differentially influence chemically distinct ligands remains incompletely understood. Here, we investigated the effects of the classical A296S substitution on the interactions of the Anopheles gambiae RDL receptor with the phenylpyrazole fipronil and the isoxazoline fluralaner using homology modeling, molecular docking, 200 ns molecular dynamics simulations (apo receptors and three independent replicas of each ligand-bound complex), and MM/PBSA free-energy calculations that include an interaction-entropy (IE) term. Apo-state molecular dynamics simulations showed that A296S preserved the overall structural stability of the receptor while locally modifying the environment of the pore-lining M2 transmembrane helix. Although docking scored fluralaner more favorably than fipronil in both receptor variants, the replicated molecular dynamics simulations revealed ligand- and genotype-dependent behavior. In the wild-type receptor, fluralaner remained stably bound and had a favorable MM/PBSA free-energy estimate (-18.3 ± 4.2 kcal/mol), whereas the ligand RMSD of fipronil increased progressively and its estimate was close to zero (+1.2 ± 9.5 kcal/mol). In the A296S model, the fipronil estimate was similar (+1.6 ± 4.3 kcal/mol), but the fluralaner estimate became unfavorable (+10.0 ± 1.8 kcal/mol), and Ser296 itself contributed slightly unfavorably to both ligands. Together, these findings indicate that A296S does not act as a universal determinant of ligand recognition but is associated with ligand-specific changes in the modeled interaction landscape, with the larger predicted effect on fluralaner. These predictions derive from a homology model, were not tested by electrophysiology or binding assays, and do not measure functional resistance. They may nonetheless help inform the interpretation of cross-resistance patterns and structure-guided efforts targeting GABA receptor-based insecticides.",
+    "species_latin": "Anopheles gambiae",
+    "species_en": "African malaria mosquito",
+    "species_zh": "冈比亚按蚊",
+    "takeaway": "用同源建模与分子动力学模拟发现，冈比亚按蚊RDL受体的A296S突变对氟雷拉纳结合影响大于氟虫腈。",
+    "conclusion": "A296S并非通用的配体识别决定因素，而是引起配体特异性的相互作用格局改变：野生型中氟雷拉纳结合稳定、自由能有利，突变后转为不利；氟虫腈在两型中均接近零。结果提示该突变可能影响交叉抗性模式，但仅为计算预测，未经电生理或结合实验验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -3409,6 +3690,58 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43028059",
+    "title": "Small Supernumerary Marker Chromosomes in Humans: From Classical Cytogenetics to High-Resolution Cytogenomics",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "International journal of molecular sciences",
+    "authors": "Rubtsov NB, Karamysheva TV, Kashevarova AA, Lebedev IN.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-15",
+    "url": "https://europepmc.org/article/MED/43028059",
+    "doi": "10.3390/ijms27219812",
+    "pmid": "43028059",
+    "abstract": "Small supernumerary marker chromosomes (sSMCs) are additional chromosomal elements smaller than or equal to chromosome 20, with a prevalence of ~0.044% in the population. Their clinical impact ranges from asymptomatic carriage to severe congenital, neurodevelopmental, and other disorders. Accurate diagnosis and interpretation remain challenging due to their small physical size, frequent tissue-specific mosaicism, and variable expression of similar gene content across different genetic backgrounds, which is well known for numerous clinically significant gene variants. This review synthesizes current knowledge on sSMC biology, diagnostics, and clinical management, highlighting the paradigm shift from classical cytogenetics to high-resolution genomic and cytogenomic approaches, including long-read genome sequencing combined with telomere-to-telomere chromosome assemblies. We present an updated sSMC classification based on sSMC DNA content and structural organization, discuss molecular mechanisms of sSMC biogenesis, and critically evaluate the diagnostic utility of microarray comparative genomic hybridization, whole-genome sequencing, and chromosome microdissection-based approaches. We also discuss breakpoint positions in sSMC formation, sSMC localization in nuclear spatial compartments, and tissue distribution patterns as factors with possible influence on the sSMC manifestation. Some of these properties might be used as criteria for assessing the pathogenic potential of sSMCs, while others require further investigation. Furthermore, we refine pathogenicity assessment frameworks by incorporating sSMC content and morphology. By integrating cutting-edge molecular cytogenetics with standardized interpretive guidelines, this narrative review provides a useful framework for precise sSMC characterization, which is essential for genetic counseling and targeted clinical management.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "综述小超数标记染色体从经典细胞遗传学到高分辨细胞基因组学的诊断演进与致病性评估框架",
+    "conclusion": "sSMC诊断已从经典细胞遗传学转向微阵列、全基因组测序及长读长结合端粒到端粒组装的高分辨细胞基因组学；基于DNA含量与结构组织的新分类、发生机制及断裂点、核内定位和组织分布等因素，可完善致病性评估，为遗传咨询和临床管理提供框架。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43026976",
+    "title": "Genome-Wide Identification and Expression Profiling of Brassinosteroid-Responsive WRKY Transcription Factors Potentially Involved in Natural Rubber Biosynthesis in Hevea brasiliensis",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Biology",
+    "authors": "Ni X, Fan S, Lin G, Guo B, Liu M, Wang L.",
+    "publish_date": "2026-11-01",
+    "added_at": "2026-11-15",
+    "url": "https://europepmc.org/article/MED/43026976",
+    "doi": "10.3390/biology15211965",
+    "pmid": "43026976",
+    "abstract": "Natural rubber is synthesized in the laticifers of Hevea brasiliensis, but the transcriptional networks regulating latex-associated processes remain poorly understood. In particular, whether WRKY transcription factors participate in brassinosteroid (BR)-responsive regulation remains unclear. We identified the HbWRKY family using the haplotype A telomere-to-telomere reference genome of Hevea brasiliensis and integrated phylogeny, gene structure, duplication type, synteny, Ka/Ks, promoter cis-elements, tissue expression, and BR-treated transcriptomic data. The 109 HbWRKY proteins comprised 21 Group I, 72 Group II, and 14 Group III members, together with one atypical protein and one Group I-like protein. Whole-genome or segmental duplication accounted for 102 genes (93.6%), and Ka/Ks was below 1 for all 111 duplicated HbWRKY pairs, consistent with purifying selection. G-box elements occurred in 84 promoters (77.1%). Eighty-nine genes were expressed in bark and 37 in latex, with latex showing the highest value for nine genes. Seven HbWRKY genes were differentially expressed after BR treatment, and all were downregulated. HbWRKY7 (HbAchr10M0003572) and HbWRKY28 (HbAchr15M0012484) were prioritized because both combined differential expression following BR treatment, their highest recorded expression in bark among the seven tissues, and predicted promoter G-boxes. This updated family resource narrows the candidates for testing a BR-WRKY regulatory module in rubber tree.",
+    "species_latin": "Hevea brasiliensis",
+    "species_en": "Para rubber tree",
+    "species_zh": "巴西橡胶树",
+    "takeaway": "在橡胶树中鉴定出109个HbWRKY基因，发现7个响应油菜素内酯且均下调，锁定HbWRKY7与HbWRKY28为候选调控因子",
+    "conclusion": "该研究基于单倍型端粒到端粒参考基因组系统鉴定了橡胶树HbWRKY家族，揭示其扩张主要由全基因组或片段重复驱动并受纯化选择；结合BR处理转录组发现7个BR响应基因均下调，其中HbWRKY7和HbWRKY28兼具差异表达、树皮高表达及启动子G-box，为验证BR-WRKY调控天然橡胶生物合成的模块提供了候选靶标",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
