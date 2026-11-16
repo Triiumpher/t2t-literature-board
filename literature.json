@@ -1,5 +1,43 @@
 [
   {
+    "id": "manual-20261116-t2t-pig",
+    "title": "无间隙端粒到端粒猪参考基因组揭示欧亚猪多样性",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-16",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261116023959062.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究以杜洛克母猪 TJ Tabasco 为材料，整合 PacBio HiFi、ONT 超长读长与 Hi-C 测序，构建无间隙 T2T 猪参考基因组 T2T-Sscrofa（GCA_000003025.7），实现 18 条常染色体与 X 染色体的端粒到端粒组装，核基因组 2.688 Gb。相比 Sscrofa11.1 新增 274.8 Mb 先前未组装区域、注释 21,108 个蛋白编码基因（含 256 个新基因），并结合 45 个长读个体与 1303 个群体样本的结构变异和群体遗传学分析，揭示欧亚猪的遗传多样性与驯化历史。",
+    "species_latin": "Sus scrofa domesticus",
+    "species_en": "domestic pig",
+    "species_zh": "家猪",
+    "takeaway": "无间隙 T2T 猪基因组填补了 Sscrofa11.1 的 93 个缺口与着丝粒等重复区域，并以结构变异和群体数据系统刻画欧亚猪多样性。",
+    "conclusion": "T2T-Sscrofa 解决了既往缺失或错误组装的复杂重复区域（着丝粒、节段重复），新增序列占比约 10%、重复元件比例升至 50.24%，BUSCO 完整度 98.2%、组装质量值 68.8；基于 229,824 个结构变异与过亿 SNP 的分析区分了亚洲/欧洲家猪与野猪支系，鉴定出 MC1R、TBX19、EHMT1 等选择信号基因，为猪育种、生物医学模型与基因组演化研究提供了更完整的参考资源。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无间隙基因组",
+      "猪基因组",
+      "T2T-Sscrofa",
+      "Sscrofa11.1",
+      "家猪",
+      "着丝粒",
+      "节段重复",
+      "结构变异",
+      "群体遗传学",
+      "PacBio HiFi",
+      "ONT 超长读长",
+      "Hi-C",
+      "驯化"
+    ]
+  },
+  {
     "id": "manual-20261115-designed-msa-ppi",
     "title": "基于设计的多重序列比对引导AlphaFold改进环介导蛋白质-蛋白质相互作用的建模",
     "type": "wechat",
@@ -39,18 +77,18 @@
   {
     "id": "news-20261115-7b7c20a96c",
     "title": "A gap-free telomere-to-telomere pig reference genome provides insights into Eurasian pig diversity",
-    "type": "news",
+    "type": "paper",
     "boards": [
       "t2t"
     ],
     "source": "Nature",
-    "authors": "",
+    "authors": "Li D, Wang Y, Yuan T, Li X, Quan Y, Tian X, Liu W, Schachtschneider KM, Schook LB, Crooijmans RPMA, Ding R, Groenen MAM, Derks MFL, Yu T.",
     "publish_date": "2026-11-15",
     "added_at": "2026-11-15",
     "url": "https://doi.org/10.1038/s41422-026-01319-4",
     "doi": "10.1038/s41422-026-01319-4",
-    "pmid": "",
-    "abstract": "",
+    "pmid": "43034152",
+    "abstract": "Abstract The domestic pig is a key agricultural species and biomedical model, yet its reference genome has remained incomplete. Using PacBio HiFi, Oxford Nanopore reads, and Hi-C sequencing, we assembled the first telomere-to-telomere (T2T), gap-free pig genome (T2T-Sscrofa). Importantly, this assembly derives from the same individual pig that provided the original reference genome, thereby completing the long-standing foundation of pig genomics. This assembly resolves 274.8 Mb of previously unassembled sequence, including centromeres, segmental duplications, and ribosomal DNA arrays, and identifies 255 new protein-coding genes. Comparative analyses reveal a Robertsonian translocation in the western European wild boar and extensive structural variation across global pig populations. T2T-Sscrofa provides a comprehensive genomic foundation for agricultural, evolutionary, and biomedical research.",
     "species_latin": "Sus scrofa",
     "species_en": "Pig",
     "species_zh": "猪",
@@ -61,7 +99,7 @@
       "全球资讯",
       "en"
     ],
-    "via": "Google News:en",
+    "via": "EuropePMC;Google News:en;OpenAlex;PubMed",
     "link_kind": "doi",
     "journal": "Cell Research",
     "llm_enhanced": true
@@ -93,6 +131,136 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43033574",
+    "title": "Characterization, Epidemiology, and Host Range of &lt;i&gt;Alternaria solani&lt;/i&gt; f. sp. &lt;i&gt;lactucae&lt;/i&gt;, the Causal Pathogen of Alternaria leaf spot of lettuce",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Plant disease",
+    "authors": "Koike ST, Ruiz MF, Gutierrez O, Stanghellini H, Rashidi M, Guerrero J, Miller D, Cosio LD, Michelmore RW.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-16",
+    "url": "https://europepmc.org/article/MED/43033574",
+    "doi": "10.1094/pdis-03-26-0493-re",
+    "pmid": "43033574",
+    "abstract": "An undescribed leaf spot disease was first seen on lettuce grown in coastal California in 2023. Caused by a species of Alternaria , the symptoms were round to irregular, gray green to brown leaf spots having concentric rings; these symptoms were distinct from those of other known foliar diseases of lettuce in the state. Inoculation experiments showed that 15 different cultivars of iceberg, romaine, green leaf, red leaf, and butterhead lettuce types were susceptible. When 22 non-lettuce crops in seven plant families were inoculated, this Alternaria sp. caused disease on only endive, potato, and tomato. Conidial morphology of the lettuce pathogen resembled that of the potato early blight pathogen, A. solani . When an A. solani isolate from potato was inoculated onto potato and lettuce, the potato developed severe early blight, but the lettuce remained symptomless. In 8- to 11-month-old Petri plate cultures, the lettuce Alternaria sp. isolates formed microsclerotia; when inoculated onto lettuce, the microsclerotia caused the leaf spot disease. Whole-genome sequencing and calculation of average nucleotide identity indicated that the lettuce Alternaria sp. and A. solani isolates clustered together, although the lettuce isolates were distinct from the potato pathogen and represented a new forma specialis , A. solani f. sp. lactucae , within the A. solani species complex. We present a near-complete telomere-to-telomere genome assembly for this pathogen. Secretome and effector differences between A. solani f. sp. lactucae and potato A. solani isolates provide the foundation for future molecular studies into differential host pathogenicity.",
+    "species_latin": "Lactuca sativa",
+    "species_en": "Lettuce",
+    "species_zh": "莴苣",
+    "takeaway": "研究鉴定出莴苣链格孢叶斑病由新专化型A. solani f. sp. lactucae引起，并完成其近端粒到端粒基因组组装。",
+    "conclusion": "该病害2023年首次在加州沿海莴苣上发现，可侵染多种莴苣栽培型，寄主范围窄，仅侵染菊苣、马铃薯和番茄；病原形态似马铃薯早疫病菌，但接种不侵染莴苣，基因组与分泌组分析支持其为一个新专化型，为致病性分化研究奠定基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43034049",
+    "title": "Identification of geraniol as a bioactive compound from Fraxinus mandschurica and development of a sustained-release microemulsion for emerald ash borer management",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Zhang Q, Su X, Chen X, Xiao J, Wang H, Li H.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-16",
+    "url": "https://europepmc.org/article/MED/43034049",
+    "doi": "10.1093/jee/toag348",
+    "pmid": "43034049",
+    "abstract": "The emerald ash borer (EAB; Agrilus planipennis Fairmaire, Coleoptera: Buprestidae) is a devastating invasive pest of Fraxinus trees. Because foliar maturation feeding before oviposition represents the sole exposed phase in the insect's life cycle, developing eco-friendly agents to target adults during this period provides a critical period to disrupt reproduction. Through untargeted metabolomics, we characterized constitutive secondary metabolites in the phloem of resistant Fraxinus mandschurica Rupr. (Lamiales: Oleaceae) and susceptible Fraxinus velutina Torr. (Lamiales: Oleaceae), identifying a specific enrichment of the monoterpene geraniol in F. mandschurica. To exploit the insecticidal and repellent properties of geraniol while mitigating its volatility, an oil-in-water microemulsion (mean droplet size: 56.77 nm) was developed using Tween 80 and ethanol. Laboratory bioassays demonstrated that the microemulsion significantly enhanced fumigant and contact toxicity against EAB adults compared with unformulated geraniol, markedly reducing both LC50 and LD50 values while extending residual activity from 48 to 120 h. In growth chamber foliage trials, the formulation effectively suppressed adult feeding damage while inducing substantial mortality. This study demonstrates that geraniol is a key bioactive compound associated with F. mandschurica and provides an effective, sustained-release botanical microemulsion for green management of adult EAB.",
+    "species_latin": "Agrilus planipennis",
+    "species_en": "emerald ash borer, Manchurian ash, velvet ash",
+    "species_zh": "白蜡窄吉丁、水曲柳、绒毛白蜡",
+    "takeaway": "从抗性水曲柳中鉴定出香叶醇，制成缓释微乳剂可显著增强对白蜡窄吉丁成虫的毒杀与驱避效果。",
+    "conclusion": "香叶醇是抗性水曲柳中与抗虫性相关的关键单萜类活性物质；以其为有效成分、Tween 80与乙醇为辅料制成的水包油微乳剂（平均粒径56.77 nm）能提升熏蒸与触杀毒力、降低LC50与LD50，并将持效期由48小时延长至120小时，在室内叶片试验中有效抑制成虫取食并造成较高死亡率，为白蜡窄吉丁成虫期绿色防控提供了缓释植物源制剂。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43033362",
+    "title": "Insect-resistant rice and Metarhizium anisopliae sustain the brown planthopper susceptibility through AMPK-mediated lipid redistribution",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Crop health",
+    "authors": "Lin K, Hu Y, Smagghe G, Zhang W.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-16",
+    "url": "https://europepmc.org/article/MED/43033362",
+    "doi": "10.1007/s44297-026-00090-7",
+    "pmid": "43033362",
+    "abstract": "The brown planthopper (BPH), Nilaparvata lugens, rapidly overcomes host resistance and develops insecticide resistance, undermining sustainable rice pest control. Here, we show that combining insect-resistant rice IR36 with the entomopathogenic fungus Metarhizium anisopliae CQMa421 provides durable suppression of BPH under laboratory conditions. Across multiple generations, chemical insecticides drove resistance and host adaptation, whereas M. anisopliae maintained susceptibility. Combined exposure redistributed lipids by reducing diacylglycerol (DAG) and adenosine triphosphate (ATP) in the fat body and ovary while increasing DAG in the hemolymph, thereby prioritizing humoral immunity. This redistribution was mediated by AMPK activation in the fat body, which inhibited insulin signaling and lipid catabolism while limiting detoxification and reproduction. AMPK-mediated energy reallocation sustained BPH sensitivity to both resistant rice and fungal infection. Integrating plant resistance with microbial biocontrol therefore suppresses host adaptation and delays resistance evolution, offering a sustainable pest management strategy.",
+    "species_latin": "Nilaparvata lugens",
+    "species_en": "brown planthopper",
+    "species_zh": "褐飞虱",
+    "takeaway": "抗虫水稻IR36与金龟子绿僵菌CQMa421联用通过AMPK介导的脂质重分配维持褐飞虱敏感性",
+    "conclusion": "抗虫水稻与绿僵菌联合处理可激活褐飞虱脂肪体AMPK，抑制胰岛素信号与脂质分解，使DAG和ATP从脂肪体、卵巢向血淋巴重分配，优先保障体液免疫而削弱解毒与繁殖，从而持续抑制其抗性进化，为可持续害虫治理提供新策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43033079",
+    "title": "Time-driven combined toxicity and membrane damage-oriented mechanism of dipterex and its metabolites to Vibrio qinghaiensis sp.-Q67",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology and chemistry",
+    "authors": "Zhang J, Zhao Y, Li N, Chen R, Zhang J, Shen H, Fu X, Deng H, Tang W.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-16",
+    "url": "https://europepmc.org/article/MED/43033079",
+    "doi": "10.1093/etojnl/vgag295",
+    "pmid": "43033079",
+    "abstract": "A widely used pesticide dipterex (DIP) and their environmental transformation products such as dichloroacetamide (DCAM) and trichloroethanol (TRI), often co-occur in aquatic ecosystems, yet their dynamic combined toxicity and underlying mechanisms of such complex mixtures to the aquatic organisms remain largely unknown. Disruption of the cell membrane has been reported as a critical toxicity mechanism of some pesticides. Therefore, to reveal the time characteristics of combined toxicity and its possible potential mechanisms of DIP and its two major metabolites, DCAM and TRI, the single and combed exposure toxicity of DIP and its two metabolites to a freshwater luminescent bacterium Vibrio qinghaiensis sp. -Q67 (Q67) in different exposure times (0.25, 2, 4, 8, 12 hr) was determined by the time-dependent microplate toxicity analysis (t-MTA) method. Toxicity interactions were characterized by the concentration addition (CA) model and the deviation from CA model (dCA). Cell membrane damage of Q67 was assessed by scanning electron microscopy (SEM) and measuring conductivity, resistivity, and total dissolved solids (TDS). Results showed that both the parent compound DIP and its two metabolites can produce obvious acute and time-dependent toxicity on Q67. Surprisingly, the metabolite TRI exhibited higher acute toxicity (0.25 hr) than DIP, while DIP showed stronger chronic toxicity (12 hr) than TRI. Combined toxicity exhibited predominantly weak synergism and additivity, with time- and concentration-ratio dependence. The three test chemicals and their mixtures significantly augmented membrane permeability of Q67 (with increased conductivity and TDS, decreased resistivity), and made cells' surface shrinkage, boundaries blur and cell-cell adhere. DIP displayed the strongest membrane-damaging capacity. This study highlights the importance of incorporating multiple exposure time windows in ecological risk assessment of parent compounds as well as their metabolites, and underscores that cell membrane damage is a key mechanistic pathway for their toxicity to Q67.",
+    "species_latin": "Vibrio qinghaiensis",
+    "species_en": "Qinghai luminous bacterium Q67",
+    "species_zh": "青海弧菌Q67",
+    "takeaway": "敌敌畏及其代谢物对青海弧菌Q67呈时间依赖毒性，膜损伤是关键机制",
+    "conclusion": "敌敌畏及代谢物DCAM、TRI对Q67均产生急性且时间依赖的毒性，联合毒性以弱协同和相加为主并受时间与浓度比影响；三者及混合物显著增加膜通透性并致细胞表面皱缩、边界模糊和黏附，敌敌畏膜损伤能力最强，提示风险评估应纳入多时间窗并关注膜损伤通路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42360820",
+    "title": "The No-Copper Challenge to Control Downy Mildew of Grapevine Based on a Clove Oil Formulation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plant disease",
+    "authors": "Bouvy M, Parent L, Guise JF, Gaveau N, Verdelet S, Trotel-Aziz P, Mondello V, Fontaine F.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-16",
+    "url": "https://europepmc.org/article/MED/42360820",
+    "doi": "10.1094/pdis-03-26-0590-re",
+    "pmid": "42360820",
+    "abstract": "Despite the limitation on copper use by the European Union because of its dangerous accumulation in soil, cupric fungicides remain the primary plant protection products for controlling grapevine downy mildew ( Plasmopara viticola ), particularly in organic viticulture. This study investigates the efficacy of ND24_55, a novel formulation based on carbonated hydroxyapatite and clove oil, as a sustainable alternative. Results from in vitro, in vivo, and in planta experiments under controlled conditions confirmed the formulation's ability to control the oomycete through both preventive and curative strategies. This efficacy is attributed to a direct inhibitory effect on zoospore release and germination, alongside biostimulant and priming effects that vary based on the application dose. Although a transient impact on photosynthesis was observed, the formulation effectively suppressed disease development. These findings suggest that ND24_55 could represent a viable biopesticide candidate for grapevine protection, with future research necessary to evaluate its performance under vineyard field conditions.",
+    "species_latin": "Vitis vinifera",
+    "species_en": "Grapevine",
+    "species_zh": "葡萄",
+    "takeaway": "丁香酚制剂ND24_55通过抑制游动孢子释放与萌发，在受控条件下可预防和治疗葡萄霜霉病。",
+    "conclusion": "ND24_55以碳酸羟基磷灰石和丁香油为基础，对葡萄霜霉病菌兼具直接抑制游动孢子释放与萌发及生物刺激、 priming效应，虽短暂影响光合作用，但能有效控病，有望成为替代铜制剂的生物农药，尚需田间验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -257,7 +425,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -316,6 +484,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43033708",
+    "title": "TFP-NDA covalent organic framework for efficient extraction of organophosphorus and carbamates pesticides and their metabolites from herbal teas prior to UHPLC-MS/MS",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Food chemistry",
+    "authors": "Lee HL, Huang HE, Ceng YJ.",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-16",
+    "url": "https://europepmc.org/article/MED/43033708",
+    "doi": "10.1016/j.foodchem.2026.152152",
+    "pmid": "43033708",
+    "abstract": "The presence of organophosphorus and carbamate pesticide residues in herbal foods raises significant food safety concerns due to their acetylcholinesterase inhibiting toxicity. These serious concerns raise the demand for a highly sensitive and selective analytical strategy to monitor the pesticide levels. This study reports the first application of a β-ketoenamine (1,3,5, -triformylpholoroglucinol (TFP) and 1,5-napthalenediamine (NDA) covalent organic framework (COF) as a micro-dispersive solid phase extraction (μ-dSPE) sorbent for the determination of multiple pesticides and metabolites in herbal tea. The COF provided efficient and selective enrichment via synergistic π-π interactions, hydrogen bonding and hydrophobic effects. Combined with UHPLC-MS/MS, this method delivered excellent linearity (0.20-100.0 ng mL-1; R2 ≥ 0.995), low detection limits (0.034-0.492 ng mL-1) and reliable recoveries (83.19-118.12%) with good precision (RSD < 9.92%). The proposed method offers a robust strategy for pesticide surveillance in herbal products, supporting food safety assessment.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "β-酮烯胺COF首次用作μ-dSPE吸附剂，结合UHPLC-MS/MS高效富集并检测草药茶中多种有机磷、氨基甲酸酯农药及代谢物。",
+    "conclusion": "TFP-NDA共价有机框架通过π-π作用、氢键和疏水效应协同实现选择性富集，与UHPLC-MS/MS联用后线性良好、检出限低至0.034–0.492 ng/mL、回收率可靠，为草药产品农药残留监测提供稳健分析策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -12661,6 +12855,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42907028",
+    "title": "Supramolecular α-cyclodextrin-mediated fully bio-based Pickering emulsions as plant-derived biopesticide erucamide delivery systems enabling sustainable crop protection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Carbohydrate polymers",
+    "authors": "Zhang H, Bao L, Wang W, Yu M, Cao C, Zhao P, Huang Q, Cao L.",
+    "publish_date": "2026-09-29",
+    "added_at": "2026-11-16",
+    "url": "https://europepmc.org/article/MED/42907028",
+    "doi": "10.1016/j.carbpol.2026.125902",
+    "pmid": "42907028",
+    "abstract": "The novel plant-derived biopesticide erucamide (Eru) holds promise for controlling plant bacterial diseases, yet its poor water solubility and formulation instability limit practical application. Here, supramolecular aggregate particles in aqueous solution via host-guest recognition between α-cyclodextrin (α-CD) and Eru were constructed. These particles serve as the sole stabilizer to emulsify a carvacrol (Car) oil phase pre-loaded with additional Eru, yielding a surfactant-free, all-natural Pickering emulsion (PE). Compared with a conventional suspension concentrate (SC), the PE exhibits superior wettability and adhesion on superhydrophobic rice leaves, improving pesticide utilization efficiency. In addition, the PE exhibited potent inhibitory activity against the mycelial growth of nine fungal pathogens, with EC50 values ranging from 8.2 to 37.2 μg/mL. This antifungal activity is closely associated with the incorporated Car, as the SC formulation without Car showed no inhibition against these strains under the same conditions. Moreover, in a 14-day greenhouse trial on rice seedlings, the PE treatment resulted in a 17.2% increase in root length, 5.6% increase in shoot length, and 17.8% increase in aboveground fresh weight relative to the untreated control. This study provides a distinctive paradigm for developing eco-friendly multifunctional agrochemical formulations, particularly for hydrophobic, long-alkyl-chain active ingredients, to overcome solubility and utilization challenges.",
+    "species_latin": "Oryza sativa",
+    "species_en": "Rice",
+    "species_zh": "水稻",
+    "takeaway": "利用α-环糊精与芥酸酰胺主客体识别构建超分子颗粒，稳定无表面活性剂全生物基Pickering乳液，提升难溶农药叶面利用与防效。",
+    "conclusion": "α-环糊精与芥酸酰胺通过主客体识别形成超分子聚集体，可单独稳定含香芹酚与芥酸酰胺的油相，制得全天然Pickering乳液。该乳液在水稻超疏水叶面润湿黏附性优于悬浮剂，对九种病原真菌具抑制作用，且温室试验促进水稻幼苗生长，为疏水长链活性成分的绿色递送提供新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -28377,6 +28597,35 @@
     "via": "Google News:en",
     "llm_enhanced": true,
     "link_kind": "doi"
+  },
+  {
+    "id": "news-20230615-cdc4b728a2",
+    "title": "Les nouveaux pesticides « extincteurs de gènes » inquiètent les scientifiques",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Reporterre, le média de l'écologie",
+    "authors": "",
+    "publish_date": "2023-06-15",
+    "added_at": "2026-11-16",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU25iX3VMcTVvSlpHVjRIX0J4bFpXTC0tMHNmQkU3aXpHUWhlZnppU1ViOFM5dFdSbHYwTHF6QnRGcjBxV052dE1tUFdramZPY1Q2N2k5WWlDMXIzd2RLVFRxSW9halBUNUU1WGZVM1pOMU5abG1leVhRc2cwaDJILUx6TXdQTlRPc3hrejBoOVFaSUNlbzFsMWdRWHg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "科学家对新型“基因灭火器”农药表达担忧，但标题未涉及具体研究对象或实验发现。",
+    "conclusion": "该文标题提示，一类被称为“基因灭火器”的新型农药引发科学界忧虑；因无摘要，无法说明其作用机制或具体科学意义，仅能确认讨论对象为这类农药及其潜在风险。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "fr"
+    ],
+    "via": "Google News:fr",
+    "link_kind": "",
+    "llm_enhanced": true
   },
   {
     "id": "news-20230608-6e344bf3dd",
