@@ -1,0 +1,40 @@
+[
+  {
+    "id": "manual-20261117-whitefly-cyp6cx3-sigs",
+    "title": "中国农科院蔬菜花卉所张友军院士团队在国际著名期刊(IF=16.6)上发表研究成果",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "网易号（植物研究进展）",
+    "authors": "",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-17",
+    "url": "https://www.163.com/dy/article/LBQHGN760512JDTM.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "基于 2003–2023 年全国烟粉虱种群动态监测，研究发现我国田间优势种群由 B 型（MEAM1）转向 Q 型（MED），驱动因素是 Q 型对吡虫啉更强的代谢抗药性。团队鉴定出关键 P450 基因 CYP6CX3，其过量表达与 F222L、F226I 突变协同增强抗性，并由 MAPK-USP 信号通路转录调控；进而构建靶向 CYP6CX3 的喷施诱导基因沉默（SIGS）体系，dsCYP6CX3 可恢复烟粉虱对吡虫啉的敏感性并减轻煤污病。",
+    "species_latin": "Bemisia tabaci",
+    "species_en": "silverleaf whitefly",
+    "species_zh": "烟粉虱",
+    "takeaway": "20 年监测证实抗药性驱动烟粉虱 B/Q 隐种替代，CYP6CX3 是核心抗性基因，也是 RNAi 绿色防控的新靶标。",
+    "conclusion": "研究从信号转导（MAPK-USP）、转录调控到解毒代谢（CYP6CX3 过量表达叠加 F222L/F226I 突变）三个层面系统阐明了 Q 型烟粉虱吡虫啉代谢抗性的形成机制；室内与温室试验证明喷施 dsCYP6CX3 的 SIGS 策略能显著恢复药剂敏感性，配合初步非靶标安全评价，为延缓抗药性、开发新型 RNAi 生物农药和入侵害虫绿色治理提供了理论与技术依据。",
+    "keywords": [
+      "烟粉虱",
+      "Bemisia tabaci",
+      "CYP6CX3",
+      "P450",
+      "吡虫啉",
+      "新烟碱",
+      "代谢抗药性",
+      "种群替代",
+      "生物入侵",
+      "MAPK-USP",
+      "RNAi",
+      "SIGS",
+      "dsRNA",
+      "生物农药",
+      "绿色防控"
+    ]
+  }
+]
