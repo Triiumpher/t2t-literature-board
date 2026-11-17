@@ -1,5 +1,114 @@
 [
   {
+    "id": "news-20261117-8b038fbb2a",
+    "title": "石原バイオサイエンス、生物農薬の新製品を発売",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "化学工業日報 電子版",
+    "authors": "",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-17",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYjN2NDBZWFdINXFxZWRmbDhZMUM3NTctcGdXZnM0Xy1tbVpLRWxCdFNYVGwwZDVWcW1uaUN6Mm8xTm1oRWNqSENsQng3S1JqM1M4?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "石原バイオサイエンス、生物農薬の新製品を発売",
+    "conclusion": "",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "ja"
+    ],
+    "via": "Google News:ja",
+    "link_kind": ""
+  },
+  {
+    "id": "news-20261116-cc95933448",
+    "title": "Bionema’s Formulation Technology Lifts Biopesticide Efficacy From 58% to 97.5%",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Global Agriculture",
+    "authors": "",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-17",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUklkUWFTWi1zMzdMVDB2dGpuWC00bHdRVVE2Qm9CSkJiWVBHaHNucTFmR0Z0MHFTa2xUZFFZMlhydjV1UGRTcHZ5OWN3dWVrWGxfVmFpV0tPRHhjOUlZc1JqLTRNUVdaWFlXenpHX2tFRDY5SjdLcWt0V2dXazJFOW5GMDVwTS1FR1lUckxXd3FSd3V6aGxkTDhubVBWYTllVE5DcDNDSkFSd0hxX0tHX3VuOGY5RHdWQmVGTHFsdWQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "Bionema制剂技术将生物农药效力从58%提升至97.5%",
+    "conclusion": "Bionema的制剂技术显著提高了生物农药的防治效力，使其从58%升至97.5%，表明制剂工艺优化可大幅增强生物农药性能，有助于减少化学农药依赖。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43039130",
+    "title": "Metabolic perturbations involved in the association of neonicotinoid insecticide exposure with thyroid stimulating hormone in children: A longitudinal panel study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Liu M, Huang K, Hu S, Zhang B, Zhou Y, Yang L, Huo W, Mao Z, Zhang X.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-17",
+    "url": "https://europepmc.org/article/MED/43039130",
+    "doi": "10.1016/j.envpol.2026.129564",
+    "pmid": "43039130",
+    "abstract": "Epidemiological evidence regarding the effects of neonicotinoid insecticides (NNIs) exposure on children's thyroid function and the underlying metabolic mechanisms remained scarce. We conducted a longitudinal panel study among children aged 4-12 years to assess associations of 15 urinary NNIs and their metabolites with thyroid function, and to identify potential metabolomics pathways. We found robust positive associations of desnitro-thiamethoxam (DN-THM) and acetamiprid (ACE) with thyroid-stimulating hormone (TSH) and TSH/free thyroxine (FT4), while imidaclothiz was associated with FT4 (False Discovery Rates <0.05). Random forest and linear mixed-effect models revealed that, of the 2067 detected serum metabolites, hundreds were significantly related to DN-THM, ACE, and thyroid function biomarkers. Up to 17 overlapping metabolites related to DN-THM, TSH and TSH/FT4, including 3-hydroxyphenylurea, Phosphatidylcholine(15:0_20:3), glucosaminic acid, γ-glutamylcysteine, Indole 3-Carboxaldehyde and so on, showed significant mediation in DN-THM-associated TSH or TSH/FT4 elevation, with mediated proportions ranging from 10.12% to 15.06%. All significant metabolites were enriched in 5 shared metabolic pathways: sphingolipid metabolism, tyrosine metabolism, glutathione metabolism, pentose phosphate pathway, glycosylphosphatidylinositol-anchor biosynthesis. Moreover, we found that the significant clinical biomarkers within these overlapping metabolic pathways were significantly related to DN-THM and metabolites. The effects of DN-THM on TSH and TSH/FT4 were more evident in those with high total cholesterol and low-density lipoprotein cholesterol, and low glutathione reductase levels. Accordingly, higher NNIs exposure was associated with increased TSH and TSH/FT4 ratio in children, partly through disturbances in lipid and glutathione metabolism.",
+    "species_latin": "",
+    "species_en": "children",
+    "species_zh": "儿童",
+    "takeaway": "儿童纵向面板研究发现新烟碱暴露与TSH升高相关，部分由脂质和谷胱甘肽代谢扰动介导。",
+    "conclusion": "儿童尿中新烟碱类暴露（尤其DN-THM和ACE）与TSH及TSH/FT4升高稳健相关；多种血清代谢物部分介导该关联，涉及鞘脂、酪氨酸、谷胱甘肽代谢等通路，提示脂质与谷胱甘肽代谢紊乱是潜在机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-42347557",
+    "title": "Efficacy of Metofluthrin Spatial Emanators to Reduce Human Vector Contact in Papua New Guinea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The Journal of infectious diseases",
+    "authors": "Katusele M, Johnson P, Omera E, Lahu D, Sakur M, Molem D, Moti M, Wolowil E, Peter B, Ibam C, Lagur S, Richardson JH, Macdonald M, Ome-Kaius M, Robinson LJ, Laman M, Karl S.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-17",
+    "url": "https://europepmc.org/article/MED/42347557",
+    "doi": "10.1093/infdis/jiag298",
+    "pmid": "42347557",
+    "abstract": "BACKGROUND: Alternative vector control tools are needed to address rising malaria burden in Papua New Guinea (PNG), where outdoor transmission and reduced insecticidal efficacy of insecticide-treated nets (ITNs) create persistent protection gaps. Volatile pyrethroid spatial emanators (SEs) release active ingredients that deter or kill mosquitoes, and 2 SE products have recently been WHO prequalified for malaria vector control. METHODS: We evaluated the entomological efficacy of SumiOne™ SEs in 2 villages in PNG. Spatial emanators were installed indoors only or both indoors and outdoors in semi-enclosed peridomestic spaces, with 12 houses per intervention arm. Human landing catches and sentinel cage bioassays were conducted over 8 weeks and compared with a control arm. RESULTS: Human-vector contact was significantly reduced indoors, with a protective efficacy of 60%-80% in both intervention arms for 5-6 weeks, declining at approximately 6%-7% per week. No significant reduction in outdoor human-vector contact was detected. Indoor sentinel cage bioassays showed >80% 24-hour mortality for 7 weeks, and complete 60 minute knockdown and inhibition of probing for 8 weeks. CONCLUSIONS: SumiOne™ SEs substantially reduced indoor mosquito exposure and may complement ITNs for malaria control in PNG. Future research should prioritize increased longevity and stronger outdoor impact.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "在巴布亚新几内亚两村试验中，SumiOne™空间散发器使室内人蚊接触降低60%-80%，但室外无显著效果。",
+    "conclusion": "该挥发性菊酯类空间散发器可显著减少室内蚊虫暴露，并维持较长时间的高击倒与致死效果，有望作为药浸蚊帐的补充手段用于当地疟疾防控；但其防护随时间衰减且对室外传播无效，后续需提升持效期与室外防护能力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261116-t2t-pig",
     "title": "无间隙端粒到端粒猪参考基因组揭示欧亚猪多样性",
     "type": "wechat",
@@ -36,6 +145,122 @@
       "Hi-C",
       "驯化"
     ]
+  },
+  {
+    "id": "manual-20261117-whitefly-cyp6cx3-sigs",
+    "title": "中国农科院蔬菜花卉所张友军院士团队在国际著名期刊(IF=16.6)上发表研究成果",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "网易号（植物研究进展）",
+    "authors": "",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-17",
+    "url": "https://www.163.com/dy/article/LBQHGN760512JDTM.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "基于 2003–2023 年全国烟粉虱种群动态监测，研究发现我国田间优势种群由 B 型（MEAM1）转向 Q 型（MED），驱动因素是 Q 型对吡虫啉更强的代谢抗药性。团队鉴定出关键 P450 基因 CYP6CX3，其过量表达与 F222L、F226I 突变协同增强抗性，并由 MAPK-USP 信号通路转录调控；进而构建靶向 CYP6CX3 的喷施诱导基因沉默（SIGS）体系，dsCYP6CX3 可恢复烟粉虱对吡虫啉的敏感性并减轻煤污病。",
+    "species_latin": "Bemisia tabaci",
+    "species_en": "silverleaf whitefly",
+    "species_zh": "烟粉虱",
+    "takeaway": "20 年监测证实抗药性驱动烟粉虱 B/Q 隐种替代，CYP6CX3 是核心抗性基因，也是 RNAi 绿色防控的新靶标。",
+    "conclusion": "研究从信号转导（MAPK-USP）、转录调控到解毒代谢（CYP6CX3 过量表达叠加 F222L/F226I 突变）三个层面系统阐明了 Q 型烟粉虱吡虫啉代谢抗性的形成机制；室内与温室试验证明喷施 dsCYP6CX3 的 SIGS 策略能显著恢复药剂敏感性，配合初步非靶标安全评价，为延缓抗药性、开发新型 RNAi 生物农药和入侵害虫绿色治理提供了理论与技术依据。",
+    "keywords": [
+      "烟粉虱",
+      "Bemisia tabaci",
+      "CYP6CX3",
+      "P450",
+      "吡虫啉",
+      "新烟碱",
+      "代谢抗药性",
+      "种群替代",
+      "生物入侵",
+      "MAPK-USP",
+      "RNAi",
+      "SIGS",
+      "dsRNA",
+      "生物农药",
+      "绿色防控"
+    ]
+  },
+  {
+    "id": "pmid-43036039",
+    "title": "GPCR-Mediated Regulation of Cytochrome P450 Drives Sulfoxaflor Resistance in Aphis gossypii Glover",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "authors": "Lv H, Li X, Yang C, Guo Z, Huang Y, He S, Wan H, Li J, Bass C, Ma K.",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-17",
+    "url": "https://europepmc.org/article/MED/43036039",
+    "doi": "10.1002/advs.78754",
+    "pmid": "43036039",
+    "abstract": "Rapid evolution of insecticide resistance threatens agricultural productivity. While the fundamental molecular and biochemical mechanisms underlying resistance are well documented, the regulatory processes governing resistance-associated genes, particularly those involving signal-regulated transcription factors, remain poorly understood. Here, we investigated trans-regulation of cytochrome P450 genes associated with sulfoxaflor resistance in Aphis gossypii Glover. Our findings suggest that G protein-coupled receptor (GPCR)-associated signaling and cAMP response element binding protein contribute to resistance-associated P450 gene regulation. FISH and RT-qPCR demonstrate that DopR1 transcripts are enriched in the epidermis, and β-1A transcripts are enriched in the head. Molecular docking, heterologous expression, and biolayer interferometry assays demonstrate that DopR1 and β-1A participate in cellular recognition or response to sulfoxaflor and activate downstream cAMP signaling. Silencing DopR1 and β-1A reduced cAMP content, PKA activity, P450 enzyme activity, and resistance-related P450 expression, thereby enhancing aphid sensitivity to sulfoxaflor. Inhibitor-based suppression, pathway gene silencing, and dual-luciferase reporter assays implicated AC-2, AC-5, PKA-4, PKA-7, CRTC, and CREB in regulating critical resistance-related genes, especially CYP6CY19. Furthermore, functional validation using transgenic Drosophila melanogaster expressing CYP6CY13 and CYP6CY19 demonstrated increased sulfoxaflor tolerance. Collectively, these findings support a working model linking GPCR-associated signaling to the regulation of selected resistance-associated P450 genes in A. gossypii.",
+    "species_latin": "Aphis gossypii",
+    "species_en": "Cotton aphid",
+    "species_zh": "棉蚜",
+    "takeaway": "棉蚜通过DopR1/β-1A受体激活cAMP-PKA-CREB通路，调控CYP6CY19等P450基因表达，驱动氟啶虫胺腈抗性",
+    "conclusion": "GPCR相关信号（DopR1、β-1A）感知氟啶虫胺腈并激活cAMP信号，经AC-2/AC-5、PKA-4/PKA-7、CRTC与CREB调控CYP6CY19等抗性相关P450基因表达，提高棉蚜抗药性；转基因果蝇验证CYP6CY13/CYP6CY19增强耐受性，揭示信号调控转录是抗性进化的关键环节",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43035356",
+    "title": "Repeated field treatment selects for reduced susceptibility to acaricides in Varroa destructor",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Moreno-Martí S, Millán Leiva A, Calatayud F, Mompó A, Segura I, Simó E, González-Cabrera J, Hernández-Rodríguez CS.",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-17",
+    "url": "https://europepmc.org/article/MED/43035356",
+    "doi": "10.1002/ps.71500",
+    "pmid": "43035356",
+    "abstract": "Background Varroa destructor control relies on a few synthetic acaricides, to which resistance is widespread. We assessed over 2 years how repeated field treatment with one acaricide changes mite susceptibility. Eighty honey bee colonies infested with one mite population of intermediate susceptibility were allocated by blocked randomization to coumaphos, amitraz, tau-fluvalinate or oxalic acid (20 each), applied twice yearly after baseline sampling. Susceptibility was assessed before treatment (T0) and after two (T1) and four (T2) applications, using strip-contact bioassays for coumaphos and amitraz and genotyping of the L925V mutation in the voltage-gated sodium channel for pyrethroids. Data from 73 colonies (coumaphos, 16; amitraz, 20; tau-fluvalinate, 19; oxalic acid, 18) were analyzed with linear mixed-effects models. Results In coumaphos-treated colonies, coumaphos bioassay mortality fell from 42% (95% confidence interval (CI) 36-48) at T0 to 21% (15-27) at T1 and 19% (10-27) at T2, a decline of 25-36 percentage points larger than in the other three treatments (P ≤ 0.001). In tau-fluvalinate-treated colonies, the proportion of mites carrying at least one susceptible L925 allele fell from 33% (24-43) at T0 to 8% (4-15) at T1 and 6% (1-23) at T2, a change differing from every other treatment (P ≤ 0.018). In amitraz-treated colonies, amitraz bioassay mortality decreased from 86% (82-90) to 74% (69-79) at T2, a change differing only from coumaphos-treated colonies. Conclusion Four consecutive applications of coumaphos or tau-fluvalinate within 2 years markedly reduced susceptibility to that compound, mostly after the first two applications. These results support acaricide rotation and regular susceptibility monitoring in V. destructor management. © 2026 Society of Chemical Industry.",
+    "species_latin": "Varroa destructor",
+    "species_en": "Varroa mite",
+    "species_zh": "狄斯瓦螨",
+    "takeaway": "两年四次田间用药后，蝇螨对蝇毒磷和氟胺氰菊酯的敏感性显著下降，且多在前两次用药后出现。",
+    "conclusion": "重复施用蝇毒磷使螨虫生物测定死亡率大幅下降，施用氟胺氰菊酯使携带敏感L925等位基因的螨比例明显降低；双甲脒影响较小。说明单一杀螨剂连续使用会快速筛选出敏感性下降的种群，支持轮换用药并定期监测敏感性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43035317",
+    "title": "Dendritic mesoporous silica nanoparticles enhance RNA interference and insecticide susceptibility in the beet webworm, Loxostege sticticalis",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Zhang H, Zhao Q, Altanchimeg D, Liu N, Wang K, Lin K, Liu Z.",
+    "publish_date": "2026-11-15",
+    "added_at": "2026-11-17",
+    "url": "https://europepmc.org/article/MED/43035317",
+    "doi": "10.1002/ps.71484",
+    "pmid": "43035317",
+    "abstract": "Background The beet webworm, Loxostege sticticalis, is a devastating migratory insect pest across the northern hemisphere. Its poor RNA interference (RNAi) response to exogenously applied double-stranded RNA (dsRNA), a common challenge in many lepidopteran insects, has severely hindered functional genomics and the development of RNAi-based biocontrol. Results To address this issue, we developed a simple RNAi enhancement strategy using dendritic mesoporous silica nanoparticles (DMSNs). By simply vortex-mixing dsRNA with DMSNs (0.25× to 2.0× mass ratios), gene silencing efficiency was significantly improved with both injection and oral application methods. Targeting the acetylcholinesterase gene (ace1), RNAi efficiency, determined by real-time quantitative polymerase chain reaction, rose from 31.58% with dsRNA alone to >62% with dsRNA-DMSNs at 50 ng/insect via microinjection. Oral application of dsRNA-DMSNs also achieved a relatively high RNAi efficiency. Silencing ace1 increased larval susceptibility to insecticides triazophos and isoprocarb, confirming its functional role. Conclusion Compared with traditional RNAi techniques, the DMSN-based approach is simple, cost-effective, and high-throughput compatible. This study not only offers a promising platform for high-throughput gene functional analysis in recalcitrant lepidopterans, but also facilitates the development of nanoparticle-enhanced RNAi as a potential next-generation pest control tool, at least under controlled laboratory conditions. © 2026 Society of Chemical Industry.",
+    "species_latin": "Loxostege sticticalis",
+    "species_en": "beet webworm",
+    "species_zh": "草地螟",
+    "takeaway": "用树枝状介孔二氧化硅纳米颗粒递送dsRNA，显著提升草地螟RNAi效率并增强其杀虫剂敏感性",
+    "conclusion": "将dsRNA与DMSNs简单涡旋混合即可通过注射和口服显著提高草地螟的基因沉默效率，靶向ace1的沉默率由约32%升至62%以上，并增加幼虫对三唑磷和异丙威的敏感性；该策略简便、低成本、易高通量，为顽固性鳞翅目昆虫的基因功能研究和纳米增强RNAi害虫防控提供平台。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "manual-20261115-designed-msa-ppi",
@@ -400,6 +625,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43038826",
+    "title": "Synergistic MOFs/POMs boost activity, photostability, and residue-degradability of biogenic insecticides for high-efficiency and residue-free pest control",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Zhou XQ, Li H, Tang R, Wu Y, Zhao G, Lv N, Fan J.",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-17",
+    "url": "https://europepmc.org/article/MED/43038826",
+    "doi": "10.1016/j.jhazmat.2026.144214",
+    "pmid": "43038826",
+    "abstract": "Biogenic insecticides pose lower environmental risks but are limited by poor control efficiency and insufficient stability. We present a hybrid nanosystem (NU-1000/MN/Ru4) in which the biogenic insecticide matrine (MN) and Ru4-bridged polyoxometalates (Ru4) are electrostatically assembled and co-encapsulated within the hierarchical pores of the MOFs (metal-organic frameworks) NU-1000. NU-1000/MN/Ru4 exhibits excellent insecticidal activity against a broad spectrum of pests. The porous architecture of NU-1000 allows efficient loading and controlled release of MN, contributing to the sustained control efficacy. The antibacterial activity of Ru4 enables it to serve as a synergist for MN, disrupting pest gut bacteria and suppressing detoxification metabolism. Moreover, NU-1000/MN/Ru4 is better suited for field application because NU-1000 enhances penetration, foliar adhesion, and photoprotection, thereby improving targeting, deposition, and photostability of MN. Beyond efficient pest control, NU-1000/MN/Ru4 leaves no residue, as Ru4 catalyzes the degradation of MN immediately after its insecticidal action. Importantly, both NU-1000 and Ru4 show short-term biosafety, highlighting their eco-friendly potential. These findings demonstrate that polyoxometalates with antibacterial and catalytic capacity act as both synergists and photocatalysts, while porous MOFs function as delivery nanocarriers and protective scaffolds. This combination dramatically enhances the activity, photostability, and catalytic residue-degradability of biogenic insecticides, enabling high-efficiency, residue-free pest control.",
+    "species_latin": "The porous",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "MOF负载苦参碱与多酸构建纳米体系，提升杀虫活性、光稳定性并实现无残留防控",
+    "conclusion": "NU-1000/MN/Ru4纳米体系通过MOF多孔结构实现苦参碱控释与光保护，Ru4兼具抗菌协同和催化降解功能，可破坏害虫肠道菌群、抑制解毒代谢，并在杀虫后催化降解苦参碱，实现高效、无残留且短期生物安全的害虫防控。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -27102,6 +27353,36 @@
       "en"
     ],
     "via": "Google News:en",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260211-5823dbd76c",
+    "title": "Dengue Suppression by Male Wolbachia-Infected Mosquitoes",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "The New England Journal of Medicine",
+    "authors": "",
+    "publish_date": "2026-02-11",
+    "added_at": "2026-11-17",
+    "url": "https://doi.org/10.1056/nejmoa2503304",
+    "doi": "10.1056/nejmoa2503304",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题提示利用感染沃尔巴克氏体的雄性蚊虫可抑制登革热传播。",
+    "conclusion": "仅凭标题可知，该研究聚焦于以感染沃尔巴克氏体的雄性蚊虫作为控制手段来压制登革热；具体机制、效果与数据因缺少摘要无法确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "New England Journal of Medicine",
     "llm_enhanced": true
   },
   {
