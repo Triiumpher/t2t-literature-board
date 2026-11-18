@@ -1,5 +1,170 @@
 [
   {
+    "id": "news-20261118-d2c5040cbb",
+    "title": "Review Documents Insecticide Resistance and Operational Barriers Limiting Congo Aedes Control",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-18",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcEU1MVNvdVdpcDFnSU93VWdqYjVPN3V5UTRNSW5nWm00Sm1yY0RDNVdHVWhCZk1PbE1td2hvQ2YxR1lKUTlGNV9JOU5YcEo1NjJxM2w5bl9zRVhvblg0a2I2ZnRIU05ndWd4SUpWeVpsRDA5bFh4QVV5ajBYUVJ3V0VWdENGRTZNdndUQzdCN1FaVjRXUkN4b29OVlRIVnhfX0dBVldlMnZWTm96OXN0X21hNEFXeWdWT3c?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Aedes sp.",
+    "species_en": "Aedes mosquito",
+    "species_zh": "伊蚊",
+    "takeaway": "综述指出刚果伊蚊控制受杀虫剂抗性与操作障碍双重制约",
+    "conclusion": "该综述聚焦刚果地区伊蚊防控，梳理杀虫剂抗性及实际执行中的操作障碍，提示抗性演化与落地困难共同削弱媒介控制效果，需在抗性监测与操作策略上协同改进。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261117-bb193e10d0",
+    "title": "Biological Crop Protection (Bio-Pesticide) Market",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "openPR.com",
+    "authors": "",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-18",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjJGOUctNjRwUDVfRmFBSktDLWpLZ0xKakRYaG53cDBLNWR3czRGN3h2QjJJa1lwQlgxbTBoVzQ1ZUQtaHVYWThDOTV3WTlfUjluUU1FV1dpWGxVU1otaTdqcGZUcm1NNE9BTnNYMkd3Q2ZQR0VjdGV5RnI3ZnhvVmNRNTVtcFkxS3dJ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题显示本文聚焦生物农药（生物作物保护）市场，未涉及具体研究或发现。",
+    "conclusion": "本文主题为生物作物保护（生物农药）市场，可能涉及市场规模、趋势或产业分析；因无摘要，无法给出具体结论或机制。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261117-89b651f8f3",
+    "title": "Pesticide phase-out indicators still not agreed at UN summit in Geneva — Health Policy Watch",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "UA.NEWS",
+    "authors": "",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-18",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3ZxVlB6bjNaczlKb3BqQWJnYkZ3VkNSMWk5NUxwd2FwN3RFU1V6UTFxUzdmTlExdEc2a2diS3B4U3dYVU10QTJCMFlWSDI0UjdTMUxnMW81dGlGaVpnSWtROFVuVTlBb1ducS1OX3R2by0wY3dvQkN4UUx6Y2w5M2tBWks0d0FfZzRmNFBlNmlyZnVYaGdpMFNSRldqSklDUjdza1doZ19WUjA2aThBVjU4RHNPdlVxQ3JNT2dQby15ZDZxU3c?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "日内瓦联合国峰会上，各方仍未就农药淘汰指标达成一致。",
+    "conclusion": "该报道指出，在日内瓦举行的联合国峰会上，关于农药淘汰的衡量指标仍未达成共识，反映出全球农药治理在监测与问责框架上存在分歧，后续谈判仍需推进。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43042462",
+    "title": "HIPPIE 3.0: expanding experimental evidence for mining and predicting protein interaction networks",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nucleic acids research",
+    "authors": "Ås J, Pelz K, Gonçalves-Kulik M, Bernett J, Battini F, Cihan M, More P, List M, Blumenthal DB, Schaefer MH, Andrade-Navarro MA.",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43042462",
+    "doi": "10.1093/nar/gkag1183",
+    "pmid": "43042462",
+    "abstract": "Protein-protein interactions (PPIs) are central to cellular function, disease gene identification, and therapeutic targeting. Human Integrated Protein-Protein Interaction rEference (HIPPIE) provides a confidence-scored reference network of experimentally supported human PPIs by integrating evidence from multiple resources and assigning reliability scores to individual interactions. Here, we present HIPPIE 3.0, a major update that substantially expands the scale and scope of the resource. HIPPIE now contains ~1.2 million experimentally supported PPIs, a fourfold increase since the last major release, including 71 000 isoform-specific interactions. Beyond interaction data, HIPPIE captures the underlying experimental search space by incorporating non-interacting protein pairs experimentally tested, and provides large-scale cross-species conservation annotations. This release expands the catalog of experimental methods, recalibrates confidence scores, and introduces a redesigned web interface that improves data access and exploration. To support machine learning applications, HIPPIE 3.0 provides high-confidence positive interactions and negative training datasets, together with tools for generating sequence-similarity- and degree-aware benchmark splits to reduce performance inflation caused by data leakage. By combining an expanded experimental interactome with benchmark-generation strategies tailored for PPI prediction, HIPPIE 3.0 serves as both a reference interactome and a platform for evaluating PPI prediction methods. HIPPIE 3.0 is freely available at hippie-db.net.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "HIPPIE 3.0整合约120万条实验支持的人类蛋白互作并新增阴性样本与基准划分工具，助力互作预测。",
+    "conclusion": "该数据库大幅扩充实验支持的蛋白互作数据并纳入实验检测但未互作的蛋白对、跨物种保守性注释及重校准置信评分，同时提供高质量正负样本与防数据泄漏的基准划分策略，使其既是参考互作组又是评估互作预测方法的平台。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43043961",
+    "title": "TopoPPI: A geometry-aware platform for visualization and low-distortion mapping of protein-protein interaction interfaces",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "PLoS computational biology",
+    "authors": "Zhong S.",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43043961",
+    "doi": "10.1371/journal.pcbi.1014963",
+    "pmid": "43043961",
+    "abstract": "Protein-protein interfaces encode molecular recognition through spatially organized contacts, yet their buried, curved surfaces are difficult to inspect as a whole. Flattening these surfaces can expose interface organization but introduces geometric distortion and may divide individual residues into disconnected regions. We present TopoPPI, a geometry-aware platform that converts interaction surfaces into low-distortion two-dimensional atlases while retaining links to source atoms, residues and contacts. TopoPPI extends OptCuts with a contact-weighted penalty for seam-induced fragmentation of residue footprints-the surface regions assigned to individual residues-jointly balancing continuity, seam length and distortion. In a leakage-controlled benchmark of 2,236 experimental complexes, the geometry-only OptCuts foundation achieved 88.39% lower family-weighted scale-fair distortion than the next-best tested parameterization across 2,209 complete comparable outputs. Across 2,204 exact-domain comparisons, TopoPPI reduced family-weighted residue-footprint fragmentation by 12.81% (95% confidence interval, 11.50-14.05%), with a 2.60% increase in normalized seam length and a 0.061% increase in scale-fair distortion. Continuity gains extended to 1,180 fixed-pose pairs of AlphaFold monomer models and 145 predicted complexes, with fragmentation reductions of 18.60% and 11.65%, respectively. Functionally annotated antibody and colicin-immunity interfaces demonstrated reconnection of the footprints of experimentally characterized binding and specificity residues. Further applications mapped published binding and folding free-energy estimates onto the KRAS-RAF1 interface and compared shared receptor residues across two growth-hormone recognition sites. Available through graphical and command-line interfaces, TopoPPI provides a residue-aware visualization framework for integrating structural contacts and functional annotations within geometrically controlled interface maps.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "TopoPPI以几何感知方法将蛋白互作界面展平为低失真二维图谱，显著减少残基足迹断裂。",
+    "conclusion": "TopoPPI在OptCuts基础上加入接触加权惩罚，联合优化连续性、接缝长度与失真，在数千个实验复合物及AlphaFold模型中显著降低残基足迹碎片化，并保持失真基本不变，可将结构接触与功能注释整合到几何可控的界面图中。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43043931",
+    "title": "Structure-based computational screening of cyclotides as putative CYP19A1-binding scaffolds for modulation of estrogen biosynthesis in adenomyosis",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "PloS one",
+    "authors": "Üstünel S, Ali N.",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43043931",
+    "doi": "10.1371/journal.pone.0352405",
+    "pmid": "43043931",
+    "abstract": "Adenomyosis is a chronic estrogen-dependent gynecological disorder associated with dysmenorrhea, abnormal uterine bleeding, chronic pelvic pain, infertility, and recurrent implantation failure. Because human placental aromatase cytochrome P450 (CYP19A1) plays a central role in local estrogen biosynthesis, this study employed an integrated in silico workflow to identify cyclotide scaffolds capable of interacting with CYP19A1. The receptor structure was prepared and validated, while protein-protein interaction analysis confirmed its involvement in steroidogenesis and estrogen biosynthesis. Twenty cyclotides were modeled and screened against the predicted active site of CYP19A1. Based on an integrated evaluation of HADDOCK and ClusPro docking, binding orientation, and interaction characteristics, cycloviolacin O4 was prioritized as the lead candidate. The predicted CYP19A1-cycloviolacin O4 complex exhibited a HADDOCK score of -82.8 ± 9.8, a cluster RMSD of 0.2 ± 0.1 Å, and a ClusPro energy score of -872.1. Docking against the reference inhibitor exemestane and the reference peptide SNA-60-367-10 provided additional computational benchmarking. Subsequent 500 ns molecular dynamics simulations, normal mode analysis, and MM-GBSA/MM-PBSA calculations supported the predicted structural stability and dynamic compatibility of the complex, yielding binding free energies of -66.58 ± 3.46 kcal/mol (MM-GBSA) and -4.56 ± 4.29 kcal/mol (MM-PBSA). Computational safety assessment predicted cycloviolacin O4 to be non-antigenic, non-allergenic, and non-toxic, while immune simulation suggested a balanced immune response. Collectively, these findings identify cycloviolacin O4 as a computationally predicted CYP19A1-binding cyclotide scaffold. However, these observations are derived exclusively from computational analyses and require biochemical, cellular, and in vivo validation before any conclusions regarding biological activity or therapeutic potential can be drawn.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "计算筛选发现环肽cycloviolacin O4可结合CYP19A1，或为干预子宫腺肌病雌激素合成的候选骨架。",
+    "conclusion": "研究通过分子对接、分子动力学模拟及结合自由能计算，预测cycloviolacin O4能与CYP19A1活性位点稳定结合，且计算安全性评估显示其无明显抗原性、致敏性和毒性。该环肽可作为靶向CYP19A1调节局部雌激素合成的候选支架，但结论完全来自计算分析，尚需生化、细胞及体内实验验证。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261117-8b038fbb2a",
     "title": "石原バイオサイエンス、生物農薬の新製品を発売",
     "type": "news",
@@ -26,6 +191,136 @@
     ],
     "via": "Google News:ja",
     "link_kind": ""
+  },
+  {
+    "id": "pmid-43040032",
+    "title": "Differential transcript expression and differential transcript usage using Salmon and edgeR",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature protocols",
+    "authors": "Dong X, Chen L, Nie J, Smyth GK, Chen Y.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43040032",
+    "doi": "10.1038/s41596-026-01443-w",
+    "pmid": "43040032",
+    "abstract": "Differential transcript expression (DTE) and differential transcript usample information and experimentalsage (DTU) analyses provide high-resolution insights into transcript-level changes and regulatory mechanisms. Here we present a protocol built around the recently developed edgeR DTE and DTU frameworks, which incorporate quantification-uncertainty correction and new quasi-likelihood methods that have been demonstrated to outperform alternative tools in statistical power, false discovery rate control and computational efficiency. These methods are general and can be applied to any well-annotated reference transcriptome. To illustrate the workflow, we apply the protocol using the complete telomere-to-telomere (T2T-CHM13) human reference genome, whose improved assembly and transcript annotation offer enhanced accuracy for transcript-level analyses of human samples. The protocol uses Salmon for fast transcript quantification, incorporates strategies for organizing GFF-based annotations and employs edgeR for assessing DTE and DTU while accounting for read-to-transcript ambiguity and variation between biological replicates. Applying the workflow to an RNA-sequencing dataset from human lung adenocarcinoma cell lines, we show that the combination of Salmon and edgeR reliably identifies differentially expressed or differentially used transcripts between experimental conditions. The end-to-end protocol can be completed in under 2 h for quantification in Salmon and less than 10 min for statistical analysis in edgeR. It provides a flexible, high-performance framework for transcript-level analyses across diverse organisms and reference genomes and can be carried out by researchers with basic experience using the Unix command line and R.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人类",
+    "takeaway": "提出基于Salmon与edgeR的转录本差异表达及差异使用分析流程，可高效可靠识别条件间差异转录本。",
+    "conclusion": "该流程整合Salmon快速定量与edgeR的DTE/DTU统计框架，校正定量不确定性与重复间变异，在统计功效和错误发现率控制上优于同类工具；以T2T-CHM13人类参考基因组和肺腺癌细胞系数据验证其可靠性，适用于多种生物转录本水平分析。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43039959",
+    "title": "High-quality pig pan-genome resources illuminate centromere evolution and enhance genotype-phenotype mapping",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature genetics",
+    "authors": "Feng Y, Du H, Zhang J, Ma Y, Lu S, Ni R, Liu Z, Ma S, An Z, Jin W, Tong S, Gao Z, Lu J, Wu J, Zhang H, Yin Z, Bao W, Wang H, Zheng X, Li B, Song J, Zhou S, Zhao Y, Zhou L, Zhang R, Liu J.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43039959",
+    "doi": "10.1038/s41588-026-02829-y",
+    "pmid": "43039959",
+    "abstract": "Pigs are important agricultural resources and valuable biomedical models, necessitating a high-quality pan-genome to comprehensively capture genomic diversity. Here we present an extensive genomic and phenotypic resource comprising 3 telomere-to-telomere (T2T) genomes and 16 high-quality assemblies. This resource enables the construction of the pig pan-transcriptome and pan-metabolome, thereby enhancing genotype-phenotype mapping. Using 12 Y-chromosome assemblies, we resolved centromere repositioning at basepair resolution, establishing centromeres as unique evolutionary markers. Reconstruction of centromeric three-dimensional genomic architecture revealed their role as structural scaffolds that concentrate chromatin interactions. We identified eEF1A1, a transcriptionally active gene consistently located near chromosome 1 centromeres, as a candidate hotspot for karyotype variation. From a pan-structural variation map, we pinpointed AKR1B1 as a key gene underlying hypoxia adaptation. Moreover, a graph-based pan-genome built from T2T genomes improved heritability capture. Together, this work provides a foundation for studies of centromere evolution, adaptive genetics and precision breeding.",
+    "species_latin": "Sus scrofa",
+    "species_en": "Pig",
+    "species_zh": "猪",
+    "takeaway": "构建猪泛基因组与多组学资源，解析着丝粒演化并提升基因型-表型关联。",
+    "conclusion": "研究组装了3个T2T及16个高质量猪基因组，结合泛转录组与泛代谢组增强基因型-表型映射；以12个Y染色体组装在碱基分辨率揭示着丝粒重定位及其三维结构支架作用，鉴定eEF1A1为核型变异候选热点、AKR1B1为低氧适应关键基因，基于图的泛基因组提升遗传力捕获，为着丝粒演化、适应性遗传与精准育种奠定基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43040905",
+    "title": "The CaBIM1-CaAP2/ERF142 Interaction Enhances Cold Tolerance by Regulating Lignin Biosynthesis via Cinnamyl Alcohol Dehydrogenase 1 and Phenylalanine Ammonia-Lyase in Pepper",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Plant, cell & environment",
+    "authors": "Zhang H, Wang Q, Pei Y, Li M, Wu X, Chen R.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43040905",
+    "doi": "10.1111/pce.71051",
+    "pmid": "43040905",
+    "abstract": "Cold stress severely restricts growth, development, and productivity of pepper (Capsicum annuum L.), a thermophilic and cold-sensitive solanaceous crop. Lignin biosynthesis plays a vital role in plant cold tolerance; however, the upstream transcriptional regulatory modules governing phenylpropanoid-lignin pathway genes under cold stress remain largely unknown. Here, we identified and functionally characterized a protein complex consisting of CaAP2/ERF142 and CaBIM1 that enhances cold tolerance in pepper by transcriptionally activating lignin biosynthetic genes. CaCAD1, a key lignin biosynthetic gene, was rapidly induced by cold and positively regulated cold tolerance in pepper. Virus-induced gene silencing (VIGS) of CaCAD1 reduced lignin accumulation, disrupted membrane stability, and aggravated cold-induced injury. We further demonstrated that CaAP2/ERF142 directly bound to conserved AP2-binding motifs in the promoters of both CaCAD1 and CaPAL, and functioned as a transcriptional activator. Silencing CaAP2/ERF142 impaired ROS scavenging, suppressed lignin deposition, and reduced cold tolerance, whereas overexpression of CaAP2/ERF142 in tomato enhanced cold resistance. Protein-protein interaction assays confirmed that CaAP2/ERF142 physically interacts with CaBIM1 in vitro and in vivo. CaBIM1 was localized to the nucleus, induced by cold, and positively regulated cold tolerance by promoting lignin biosynthesis and antioxidant capacity. Silencing CaBIM1 phenocopied the cold-hypersensitive phenotype of CaAP2/ERF142-silenced plants, and overexpression of CaBIM1 in tomato enhanced cold tolerance. Collectively, our findings reveal a novel molecular module in which the CaBIM1-CaAP2/ERF142 complex directly activates CaPAL and CaCAD1 transcription to promote lignin accumulation thereby improving cold tolerance in pepper. This study expands the regulatory network of plant cold stress responses and provides valuable gene resources for molecular breeding of cold-tolerant pepper cultivars.",
+    "species_latin": "Capsicum annuum",
+    "species_en": "Pepper",
+    "species_zh": "辣椒",
+    "takeaway": "辣椒中CaBIM1-CaAP2/ERF142复合体激活CaPAL与CaCAD1促进木质素合成，增强耐寒性",
+    "conclusion": "CaAP2/ERF142直接结合CaCAD1和CaPAL启动子的AP2基序并作为转录激活因子，与核定位的CaBIM1互作形成复合体，协同促进木质素沉积和抗氧化能力，从而提高辣椒耐寒性；沉默任一基因均导致冷敏感表型，过表达则增强番茄耐寒性，揭示了植物低温响应新调控模块并提供育种基因资源",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43039750",
+    "title": "Corrigendum to 'Subcellular proteomic analysis of the DDR2 interactome in a neuronal cell model exposed to Aβ42' [BBA-Proteins and Proteomics 1874 (2026) 1-8/141173]",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biochimica et biophysica acta. Proteins and proteomics",
+    "authors": "Das R, Mukhopadhyay D.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43039750",
+    "doi": "10.1016/j.bbapap.2026.141194",
+    "pmid": "43039750",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "该文为Aβ42处理神经元模型中DDR2互作组亚细胞蛋白质组研究的更正声明",
+    "conclusion": "本文是对既往研究的更正，原研究在暴露于Aβ42的神经元细胞模型中开展DDR2相互作用蛋白的亚细胞蛋白质组分析，本次更正可能涉及原文数据或表述的修正，具体更正内容需查阅原文。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43040864",
+    "title": "Endophytes in Plant Stress Resilience: Mechanisms, Applications, and Challenges for Climate-Resilient Agriculture",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plant, cell & environment",
+    "authors": "Muhammad M, Wahab A, Waheed A, Shurigin V, Gul H, Egamberdieva D, Li L, Wang L.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43040864",
+    "doi": "10.1111/pce.71065",
+    "pmid": "43040864",
+    "abstract": "Symbiotic relationships between endophytes and plants have emerged as a dynamic field of study with far-reaching implications for crop production and ecosystem management. They enhance plant tolerance to a range of biotic and abiotic stresses, offering sustainable solutions for agriculture and ecosystem sustainability. This review examines their multifaceted roles, particularly as natural biocontrol agents that reduce dependence on chemical pesticides and promote sustainable development. At the same time, they mitigate abiotic stressors, such as drought, salinity, temperature extremes, and biotic stress, by modulating plant physiological and biochemical responses, including antioxidant activity, osmolyte accumulation, and nutrient acquisition. These interactions support the development of climate-resilient crop varieties and their integration into precision and sustainable agricultural practices in changing climate scenarios. Beyond agriculture, they support ecosystem restoration and phytoremediation by removing heavy metals and helping recover degraded habitats. Biotechnological applications of endophytes include producing bioactive compounds, eco-friendly biopesticides, and effective bioremediation agents. Challenges remain in fully characterising these communities because of their diversity, complex interactions, limited databases, and ethical considerations for their biotechnological deployment. Emerging directions include designer synthetic communities (SynComs), multi-omics dissection of host-endophyte interactions, seed-borne transmission, data-driven strain discovery, and resilience to compound stresses. Endophyte research thus advances the scientific basis for sustainable agriculture, environmental restoration, and biotechnological application. Fully exploiting endophytes' potential will require further mechanistic research, standardised methods, and coordinated cross-disciplinary effort to address present and future global challenges.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出内生菌通过调控抗氧化、渗透调节与养分获取等机制增强作物抗逆性，可助力气候韧性农业。",
+    "conclusion": "内生菌与植物共生可缓解干旱、盐碱、极端温度及生物胁迫，并作为生物防治替代化学农药；同时可用于重金属去除与生境修复。其应用仍受群落多样性复杂、数据库不足及伦理问题制约，未来方向包括合成菌群、多组学解析、种子传播与数据驱动菌株发掘。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
   },
   {
     "id": "news-20261116-cc95933448",
@@ -79,7 +374,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -650,7 +945,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -760,7 +1055,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
