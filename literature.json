@@ -68,7 +68,7 @@
     "authors": "",
     "publish_date": "2026-11-17",
     "added_at": "2026-11-18",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3ZxVlB6bjNaczlKb3BqQWJnYkZ3VkNSMWk5NUxwd2FwN3RFU1V6UTFxUzdmTlExdEc2a2diS3B4U3dYVU10QTJCMFlWSDI0UjdTMUxnMW81dGlGaVpnSWtROFVuVTlBb1ducS1OX3R2by0wY3dvQkN4UUx6Y2w5M2tBWks0d0FfZzRmNFBlNmlyZnVYaGdpMFNSRldqSklDUjdza1doZ19WUjA2aThBVjU4RHNPdlVxQ3JNT2dQby15ZDZxU3c?oc=5",
+    "url": "https://ua.news/en/dovkolo-svitu/na-samiti-oon-u-zhenevi-dosi-ne-pogodili-pokazniki-vidmovi-vid-pestitsidiv-health-policy-watch",
     "doi": "",
     "pmid": "",
     "abstract": "",
@@ -83,7 +83,7 @@
       "en"
     ],
     "via": "Google News:en",
-    "link_kind": "",
+    "link_kind": "search",
     "llm_enhanced": true
   },
   {
@@ -3396,6 +3396,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43044673",
+    "title": "Modelling the adoption of integrated pest management: informing policy approaches to pesticide-reduction targets",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of the Royal Society, Interface",
+    "authors": "Vincent EMR, Parnell S, Hill EM.",
+    "publish_date": "2026-11-04",
+    "added_at": "2026-11-18",
+    "url": "https://europepmc.org/article/MED/43044673",
+    "doi": "10.1098/rsif.2025.1333",
+    "pmid": "43044673",
+    "abstract": "UK crop growers face challenges in maintaining yields while mitigating environmental impacts of farming. There is attention on policies advocating sustainable alternatives to pesticide use for the long-term control and prevention of crop diseases. One such method is integrated pest management (IPM), which, despite its acknowledged effectiveness, has seen limited adoption in the UK to date. The 'UK Pesticides National Action Plan 2025' sets a minimum target for reducing impacts of pesticide use, while also supporting increased uptake of IPM. We developed a joint epidemiological-behavioural model, which we applied to Septoria tritici blotch (STB) in wheat, parametrized using contemporary data. Performing simulations with the model, in which growers could choose to use either IPM or a conventional fungicide regime, the projected rate of IPM adoption by 2030 was just 2.16%, failing to meet the UK's pesticide reduction targets. We found that policies addressing behavioural barriers had the greatest potential to improve these adoption trends for the control of STB, with lesser improvements for investment in IPM research and financial subsidies. A push for initial adoption also increased the likelihood of attaining time-dependent pesticide-reduction targets. We, therefore, encourage IPM adoption policies that can improve growers' knowledge and access to IPM implementation training, resources and services.",
+    "species_latin": "Triticum aestivum",
+    "species_en": "Wheat",
+    "species_zh": "小麦",
+    "takeaway": "用流行病学-行为联合模型模拟小麦STB防治，预测2030年IPM采用率仅2.16%，难达减药目标。",
+    "conclusion": "行为障碍是IPM采用率低的主因；针对行为障碍的政策比研发投入和补贴更能提升采用率，推动初始采用也有助于实现分阶段减药目标，故应加强农户知识、培训与资源服务。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
