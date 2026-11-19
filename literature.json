@@ -1,5 +1,355 @@
 [
   {
+    "id": "news-20261119-8ad4ffa856",
+    "title": "New Bio-Based Pesticide Formulation Inhibits Nine Fungal Pathogens and Boosts Rice Root Growth",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AgroLatam",
+    "authors": "",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-19",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPazFTNnhxWTZKSGxBTlVOYU43YkxwbmpkZ1c4M2hkeUR2VHpBU1RzajFWWjV4M0thWXVXeDJSSkJxWGZxb0xDOGd0S3NTajgwUXVzSm55RFl3ZDFGUnZhWDZ2eGMzS1FmNWktQWo0enR6TldvYkdrZHV4d1lzY2U2bk92cGprYkxDQV96Z0k0cWZ2MHBsUmIyclRuTUhJSmdMY3dNcU1lSHZEMWMzVUFwd1gtVURMS0UzTDBzM3A2VHlDaE91czhTeDhuV1U4aUU3aWY0Nm9pTGo3T0ktZ0E?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Oryza sativa",
+    "species_en": "Rice",
+    "species_zh": "水稻",
+    "takeaway": "一种新型生物基农药制剂可抑制九种真菌病原并促进水稻根系生长",
+    "conclusion": "该生物基农药制剂在体外对九种真菌病原具有抑制作用，同时能促进水稻根系生长，提示其兼具防病与促生潜力，但具体机制与田间效果尚待摘要信息确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261119-037904e4ca",
+    "title": "Research reveals behavioural barriers could block pesticide reduction targets",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Agronomist & Arable Farmer",
+    "authors": "",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-19",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY01SVm9WNDhhRHU1bUNxQUswNi1yYmJqY01tZTE5UHAyaEpid0ZQSzl2VExuUTd6YkgtZ2h1UEF1QlNTY19wSldWNWk5QmtaeFNYak9ETERfRnlsc0hodXRTdUZzZEt0cUpCY3c4VWRCTWVvTVRxclhkYjc3aGczUnBmMjdqQzA3TW9FU0dRbWc3THhjV0hVbHdtTV9YdjhNMzhzc3l6anRKWmR0U1B6T1ZYV3p6Mll1UWc?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究提示昆虫行为障碍可能使农药减量目标难以实现",
+    "conclusion": "标题表明行为层面的障碍会削弱农药减量政策的效果，提示仅靠减少用药量未必能达成防控目标，需重视害虫行为机制在治理中的作用。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261118-224314b6e7",
+    "title": "Gap-free pig genome assembled, revealing 275 million previously hidden base pairs",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Fix The News",
+    "authors": "",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdnhTcDdXYktrWkpnOUFhTDdYb3YzTnZwUnNSaVd0Y3dDWW9sZHdWN1EyQWZzeFBxTGFFVEx4UnJENjNJSDQtbjRxeDVhZldWSmlfRlczZS02NGYxWC0wUGs4ZUYwZEdhVExEbEw0SHJ5SU9LYXB1NFg2dGpxcENSaTEtQ00yMXEtemUtV3A0bw?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Sus scrofa",
+    "species_en": "pig",
+    "species_zh": "猪",
+    "takeaway": "研究团队完成无间隙猪基因组组装，新揭示2.75亿个此前隐藏的碱基对。",
+    "conclusion": "通过无间隙基因组组装，补全了猪基因组中此前无法解析的约2.75亿个碱基对，为猪的遗传学研究和育种提供了更完整的参考序列。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261118-0e8fb7f69e",
+    "title": "Pesticide Handlers in Tanzanian Agriculture Show Significant Acetylcholinesterase Enzyme Suppression",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON21wRFYzNFRqUV93T050MWlyVnBSNlRCejVnUHB3anU3cjYyZDF3QnRDZHgxbGl3bng0Rm1XLVFIOU9VUGVxVTZjeTdvZmZnVzM3U0FiXzJyQkIxeExja3FkampQOW5NZEFUNUkxa0VMcUVLMldFdEtMdkdJNGxZeFZRNVFHNjRkSk5pWkVydzg4SFd4dDhWNTZDNWZlZksxdkM2Nm91Z1FWSjMyX242RnFqV0t0ZVh2R0l0NVBqYXlNNmM?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "坦桑尼亚农业农药接触者乙酰胆碱酯酶受显著抑制",
+    "conclusion": "标题提示坦桑尼亚农业中接触农药的人群出现明显的乙酰胆碱酯酶活性抑制，反映有机磷或氨基甲酸酯类农药暴露导致的胆碱能毒性风险，提示需加强职业暴露监测与防护。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43036284",
+    "title": "Osteoglossid pangenome reveals ancient teleost evolution and population dynamics",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Zoological research",
+    "authors": "Mu XD, Huan RJ, Yang YX, Wang YY, Li HL, Liu Y, Bian C.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43036284",
+    "doi": "10.24272/j.issn.2095-8137.2026.191",
+    "pmid": "43036284",
+    "abstract": "Osteoglossidae, one of the most ancient freshwater fish lineages exhibiting transcontinental disjunction, offers important insights into early teleost evolution and historical biogeography. Using integrated sequencing strategies, we report two telomere-to-telomere (T2T) chromosome-level genome assemblies for pirarucu ( Arapaima gigas) and Australian bonytongue ( Scleropages jardinii) and a near T2T genome assembly for black arowana ( Osteoglossum ferreirai). The BUSCO completeness was >97% for all the assemblies, markedly surpassing most of the previous osteoglossid assemblies. Using these reference genomes, we reconstructed a time-calibrated phylogeny, estimated major divergence times and evaluated vicariance hypotheses related to Gondwana. We found that the divergence between Osteoglossum and Scleropages is estimated at 52.6 million years ago (Ma), supporting the hypothesis that their vicariant events may have resulted from the separation of Australia from the Antarctica-South America landmass. In addition, we reconstructed and analyzed the ancestral karyotypes of Scleropages and Osteoglossum, revealing five and ten major chromosomal rearrangements, respectively. We further systematically reconstructed and parsed the historical population dynamics across most of the Osteoglossidae species, demonstrating dramatic declines in effective population sizes for most Osteoglossidae species during the Last Glacial Period. Together, our findings offer a comprehensive genomic perspective on the evolutionary history, genome architecture, and historical biogeography of Osteoglossidae while also providing essential resources for future conservation and research.",
+    "species_latin": "Arapaima gigas, Scleropages jardinii, Osteoglossum ferreirai",
+    "species_en": "pirarucu, Australian bonytongue, black arowana",
+    "species_zh": "巨骨舌鱼、澳洲骨舌鱼、费氏骨舌鱼",
+    "takeaway": "构建三种骨舌鱼高质量T2T基因组，揭示其古老演化、染色体变异及末次冰期种群骤降",
+    "conclusion": "研究完成皮拉鲁库鱼、澳洲骨舌鱼和黑骨舌鱼的高质量染色体级基因组组装，重建系统发育与分化时间，支持骨舌鱼跨大陆分布源于冈瓦纳大陆分离的隔离分化假说；同时揭示骨舌鱼科物种在末次冰期有效种群规模大幅下降，为保护与研究提供基因组资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43044838",
+    "title": "Modelling modified insect release interventions for malaria control: a scoping review and thematic comparison with dengue",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Proceedings. Biological sciences",
+    "authors": "Lakshminarayanan P, Tiley K, Lim AY, Susong K, Kristan M, Walker T, Brady O.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43044838",
+    "doi": "10.1098/rspb.2026.2083",
+    "pmid": "43044838",
+    "abstract": "Wolbachia is a promising new intervention for malaria control. While modelling has supported Wolbachia deployment for dengue control, its application in Anopheles is still emerging. We systematically reviewed dynamic transmission models of Wolbachia-based modified insect releases for malaria using PubMed and Embase. Evidence was compared primarily with Wolbachia-based dengue models from a parallel Wolbachia-Aedes aegypti scoping review and secondarily with gene drive-based Anopheles models identified through a separate systematic search. Across 110 included studies, three major gaps were identified. First, context-dependent fitness effects are rarely incorporated, with many models assuming high maternal transmission (MT) and cytoplasmic incompatibility (CI), limiting assessment of how environmental variability influences persistence. Second, spatial heterogeneity is infrequently modelled despite evidence that mosquito movement shapes Wolbachia spread. Third, few studies embed Wolbachia dynamics within integrated malaria transmission models, preventing estimation of epidemiological impact to assess Wolbachia's role in malaria control and elimination. Lessons from Wolbachia-based dengue control and parallel developments in gene drive provide an established framework, with actionable pathways for advancement. Addressing these priorities will be essential to guide safe, effective and scalable implementation of Wolbachia as a new malaria control intervention.",
+    "species_latin": "Anopheles sp.",
+    "species_en": "Anopheles mosquito",
+    "species_zh": "按蚊",
+    "takeaway": "综述110项研究，发现沃尔巴克氏体疟疾模型在适应度、空间异质性与流行病学整合上存在三大缺口。",
+    "conclusion": "现有沃尔巴克氏体疟疾传播模型多假设高母系传播与胞质不亲和，忽视环境依赖的适应度效应和蚊虫空间移动，且很少嵌入完整疟疾传播框架，难以评估流行病学效果；可借鉴登革热模型与基因驱动研究框架推进。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43046660",
+    "title": "Fluorescent Modulation of H2O2 Nanosensor Responses from ss(GT)15-DNA Single-Walled Carbon Nanotube-Protein Complexes",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "ACS sensors",
+    "authors": "Porter TK, Sánchez-Velázquez G, Ospina L, Alizadehmojarad AA, Wang X, Strano MS.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43046660",
+    "doi": "10.1021/acssensors.6c02824",
+    "pmid": "43046660",
+    "abstract": "Fluorescent single-walled carbon nanotube (SWNT) sensors offer single-molecule sensitivity and resistance to photobleaching, but their deployment in biological media is often complicated by protein adsorption that can alter the sensor's response to its target analyte. Herein, we evaluate how hydrogen peroxide (H2O2), a commonly studied analyte, changes the nanosensor response of protein complexes with ss(GT)15 DNA-wrapped SWNTs (G-SWNT) as a model nanosensor interface. We define an attenuation factor to quantify deviations from the uncomplexed response across a broad range of concentrations and protein type, fitting the resulting dose-response behavior to single-site and two-step adsorption models that include the H2O2 analyte. We find that the H2O2 response varied widely across proteins, ranging from enhanced quenching to complete attenuation to full inversion of the signal direction. For 14 protein-G-SWNT complexes, attenuation followed protein surface occupancy and was captured by a Langmuir model, while the remainder exhibited non-monotonic behavior reflecting protein-protein or protein-analyte interactions. Horseradish peroxidase and laccase, the strongest quenchers post protein-complex formation, converted the conventional turn-off sensor into a turn-on sensor; we show through complementary H2O2 experiments and modeling that this inversion is well described by competitive adsorption coupled to a protein-analyte reaction mechanism. Concurrent absorbance and emission bleaching identify charge-transfer doping by redox-active metal cofactors as the underlying photophysical mechanism. It may be possible to generalize these results to inform how the influence of off-target protein adsorption alters fluorescent nanosensor responses, with direct implications for designing fluorescent sensors in protein-rich environments.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "蛋白质吸附会显著改变ss(GT)15-DNA包裹碳纳米管对H2O2的荧光响应，甚至使信号方向反转。",
+    "conclusion": "蛋白与G-SWNT复合后，H2O2响应因蛋白种类而异，从增强猝灭到完全衰减乃至信号反转；多数复合物符合Langmuir表面占据模型，辣根过氧化物酶和漆酶通过竞争吸附与蛋白-分析物反应使turn-off转为turn-on，其机制涉及氧化还原金属辅因子引起的电荷转移掺杂。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43050592",
+    "title": "Insecticide increases glyphosate resistance in Ipomoea purpurea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Evolution; international journal of organic evolution",
+    "authors": "Zhang GM, Baucom RS.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43050592",
+    "doi": "10.1093/evolut/qpag207",
+    "pmid": "43050592",
+    "abstract": "The evolution of plant resistance naturally occurs in complex, multifaceted environments that consist of multiple simultaneous stressors. Understanding how shifting environmental contexts may shape resistance evolution requires empirical studies that consider the combined effects of interacting potential stressors on fitness and selection. Here, we examined how exposure to an insecticide impacts the evolution of resistance to the herbicide glyphosate in Ipomoea purpurea (common morning glory). Through a factorial field experiment, we manipulated glyphosate and an insecticide to estimate selection on glyphosate and herbivory resistance. We found that glyphosate, not herbivory, acted as the primary agent of selection, favoring higher levels of glyphosate resistance. In the presence of glyphosate alone, positive correlational selection favored a combination of higher glyphosate and herbivory resistance, supporting prior work that suggested these traits may be linked. Importantly, insecticide exposure increased the level of glyphosate resistance and marginally weakened the strength of selection acting upon the trait. Together, our results indicate that the expression of herbicide resistance is context-dependent, and that additional chemicals like insecticide have the potential to alter the evolutionary trajectories of plant defense.",
+    "species_latin": "Ipomoea purpurea",
+    "species_en": "common morning glory",
+    "species_zh": "圆叶牵牛",
+    "takeaway": "田间实验发现杀虫剂可提高圆叶牵牛对草甘膦的抗性水平并略微削弱选择强度",
+    "conclusion": "草甘膦是驱动圆叶牵牛抗性进化的主要选择因子，单独使用时正向相关选择偏好草甘膦抗性与食草抗性的组合；杀虫剂暴露会提升草甘膦抗性表达并轻微减弱选择压力，表明除草剂抗性表达依赖环境背景，其他化学物质可改变植物防御的进化轨迹。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43049831",
+    "title": "Multistage Insecticidal Activity of Juniperus phoenicea Essential Oil Against Culex pipiens, a Major West Nile Virus Vector: Biochemical and Histopathological Effects, Molecular Docking, and Non-target Selectivity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta parasitologica",
+    "authors": "Madani F, Haleche I, Metrah HA, Osmani SEI, Bounechada M, Tail G.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43049831",
+    "doi": "10.1007/s11686-026-01442-7",
+    "pmid": "43049831",
+    "abstract": "PURPOSE: Given the need for environmentally sustainable alternatives for mosquito control, this study aimed to assess the biocidal potential of Juniperus phoenicea essential oil (EC) against developmental stages of Culex pipiens, a major vector of West Nile virus and other pathogens, while elucidating its biochemical and histopathological effects, interactions with acetylcholinesterase (AChE), and effects on two non-target aquatic organisms, Daphnia magna and Cloeon dipterum. METHODS: Egg-hatching inhibition, larvicidal, and pupicidal bioassays were conducted to determine IC₅₀ and LC₅₀ values, as appropriate. The chemical composition of the essential oil (EO) was characterized using gas chromatography-mass spectrometry (GC-MS). Changes in protein, carbohydrate, and lipid contents, as well as histopathological alterations in the midgut, were assessed. Molecular docking was performed to investigate the potential interactions of all identified EO constituents with AChE. The toxicity of EO to D. magna and C. dipterum was also evaluated. RESULTS: GC-MS analysis identified 101 compounds, with α-pinene (21.12%), trans-calamene (4.87%), and 1,10-di-epi-cubenol (3.69%) as the predominant constituents. The EO inhibited egg hatching and exhibited larvicidal and pupicidal activities, with an IC50 of 130.4 µL/L for egg-hatching inhibition and LC50 values of 56.15 and 107.2 µL/L for larvae and pupae, respectively. Larvae exhibited the lowest LC50 among the tested life stages. Exposure induced metabolic disturbances and marked midgut alterations. Manooloxide showed the most favorable predicted binding energy for AChE (- 8.2 kcal/mol). In D. magna, mortality remained below 30% at the tested concentrations, whereas no mortality was observed in C. dipterum. CONCLUSION: To our knowledge, this study provides the first integrated assessment of J. phoenicea essential oil against the egg, larval, and pupal stages of C. pipiens, integrating biochemical and histopathological analyses with molecular docking predictions involving AChE and an assessment of toxicity to non-target aquatic organisms. Its activity across multiple developmental stages and the limited mortality observed in the tested non-target species suggest potential for further investigation as a botanical insecticide for integrated vector management, pending further evaluation of its ecological safety and selectivity.",
+    "species_latin": "Culex pipiens",
+    "species_en": "northern house mosquito",
+    "species_zh": "淡色库蚊",
+    "takeaway": "圆柏精油对淡色库蚊幼虫杀虫活性最强，并干扰代谢、损伤中肠、抑制乙酰胆碱酯酶，对非靶标水生生物毒性低。",
+    "conclusion": "圆柏精油含101种成分，以α-蒎烯为主，能抑制卵孵化并杀灭幼虫和蛹，其中幼虫最敏感；其作用伴随代谢紊乱和中肠组织损伤，分子对接提示成分可与乙酰胆碱酯酶结合，且对大型溞和双翅目稚虫毒性低，具备多阶段控蚊潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43049417",
+    "title": "Biodegradation of Carbamate Insecticide Indoxacarb through a Lower-Risk Metabolic Pathway by a Novel Degrading Strain, Agrobacterium sp. DPX-5",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Cheng Z, Geng Y, Li S, Ma X, Hua R, Fang L.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43049417",
+    "doi": "10.1021/acs.jafc.6c10487",
+    "pmid": "43049417",
+    "abstract": "Indoxacarb is considered a substitute for some highly toxic carbamate insecticides after their prohibition. However, it is easily hydrolyzed into the highly toxic N-decarbomethoxylated metabolite (DCJW) in the environment and nontarget organisms. In this study, an indoxacarb-degrading strain, Agrobacterium sp. DPX-5, was screened. It could degrade 57.8% of 10 mg/L indoxacarb within 24 h in LB medium with urea. Three degradation products M513, M469, and M455 were identified. The structures of the degradation products revealed a new low-risk hydrolysis metabolic pathway, which does not produce DCJW. Two novel functional indoxacarb-hydrolyzing enzymes InhA and InhB were found and characterized, with purified InhA showing higher degradation activity than InhB. Their key binding sites were further verified by molecular docking and point mutation. The research not only provides strain and enzyme resources but also discovers a lower-risk indoxacarb metabolic pathway to providing technical support for the bioremediation of carbamate insecticides.",
+    "species_latin": "Agrobacterium sp.",
+    "species_en": "Agrobacterium",
+    "species_zh": "农杆菌",
+    "takeaway": "新菌株Agrobacterium sp. DPX-5可在24小时内降解57.8%的茚虫威，并发现不产生高毒代谢物DCJW的低风险水解途径。",
+    "conclusion": "该菌株通过新型水解酶InhA和InhB将茚虫威降解为M513、M469和M455，避开了生成高毒DCJW的路径，为氨基甲酸酯类杀虫剂的生物修复提供了菌株、酶资源和低风险代谢途径。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43049414",
+    "title": "Innovative Research on the Agricultural Insecticidal Activity of Lotilaner and Its Derivatives",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Wu S, Zhou P, Zhuang X, Wu J, Li Y, Song H, Liu Y, Ma Y, Wang Z, Wang Q.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43049414",
+    "doi": "10.1021/acs.jafc.6c13537",
+    "pmid": "43049414",
+    "abstract": "Isoxazolines exhibit potent insecticidal activity, but their toxicity to beneficial insects limits agricultural applications. Here, we first explored the veterinary isoxazoline lotilaner as a lead for agricultural insecticide discovery. We designed and synthesized a series of diacylhydrazine-containing derivatives. Lotilaner showed strong activity against P. xylostella (LC50 = 0.305 mg/L), while I-9S exhibited activity against S. frugiperda (LC50 = 2.69 mg/L) comparable to that of lotilaner (3.41 mg/L). I-9S also outperformed its enantiomer I-9R, indicating stereoselective insecticidal activity. Molecular docking, molecular dynamics simulations, and DFT calculations provided insights into potential receptor interactions and electronic properties. Notably, the honeybee acute oral LD50 increased from 0.297 μg/bee for lotilaner to 3.32 μg/bee for I-9S, representing an approximately 11-fold increase in LD50 and reduced honeybee toxicity. These findings support scaffold modification of lotilaner as a promising approach to developing agricultural isoxazoline insecticides with favorable activity and improved honeybee safety.",
+    "species_latin": "Plutella xylostella, Spodoptera frugiperda, Apis mellifera",
+    "species_en": "diamondback moth, fall armyworm, honeybee",
+    "species_zh": "小菜蛾、草地贪夜蛾、蜜蜂",
+    "takeaway": "以兽用异噁唑啉lotilaner为先导合成二酰肼衍生物，I-9S对害虫活性好且对蜜蜂毒性降低约11倍",
+    "conclusion": "Lotilaner对斜纹夜蛾类害虫小菜蛾活性强，其含二酰肼衍生物I-9S对草地贪夜蛾活性与母体相当且具立体选择性；分子对接与动力学模拟提示受体作用与电子性质基础。关键的是I-9S使蜜蜂急性经口LD50由0.297升至3.32 μg/蜂，毒性显著下降，表明改造lotilaner骨架可兼顾杀虫活性与蜜蜂安全性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43049390",
+    "title": "Discovery of 3,5-Bis(trifluoromethyl)phenyl-Substituted Isoxazoline Derivatives as Insecticide Candidates",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Yang S, Du L, Ma Y, Zhu J, Wu Y, An G, Zhao C, Xu H, Yao G.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43049390",
+    "doi": "10.1021/acs.jafc.6c03304",
+    "pmid": "43049390",
+    "abstract": "Isoxazoline insecticides are effective in controlling a variety of agricultural pests; however, their high toxicity to honeybees can limit their agricultural application. In this study, we designed and synthesized a series of isoxazoline derivatives using a fluorine-distribution-guided optimization strategy. Bioassays demonstrated that several derivatives retained potent insecticidal activity. Notably, A34 exhibited potent insecticidal activity against Plutella xylostella, Spodoptera frugiperda, Spodoptera exigua and Spodoptera litura, with LC50 values of 0.05, 0.49, 0.21, and 0.29 mg/L, respectively. Importantly, A34 displayed reduced toxicity to honeybees, with an LD50 value of 2.12 μg/bee, 23.6-fold higher than that of fluralaner. SAR analyses indicated that the terminal amide architecture and fluorination pattern were associated with both insecticidal activity and acute oral toxicity to honeybees. Computational analyses suggested possible differences in receptor interactions between A34 and fluralaner. These findings provide a basis for developing isoxazoline insecticide candidates with potent insecticidal activity and reduced toxicity to honeybees.",
+    "species_latin": "Plutella xylostella, Spodoptera frugiperda, Spodoptera exigua, Spodoptera litura, Apis mellifera",
+    "species_en": "diamondback moth, fall armyworm, beet armyworm, tobacco cutworm, honeybee",
+    "species_zh": "小菜蛾、草地贪夜蛾、甜菜夜蛾、斜纹夜蛾、蜜蜂",
+    "takeaway": "以氟分布导向设计异噁唑啉衍生物，获得对多种害虫高效且对蜜蜂低毒的候选物A34。",
+    "conclusion": "研究通过氟分布导向优化合成异噁唑啉衍生物，A34对四种鳞翅目害虫保持强杀虫活性，同时对蜜蜂急性口服毒性显著低于氟雷拉纳，说明末端酰胺结构与氟化模式共同影响杀虫活性及蜜蜂毒性，为开发高效低蜂毒杀虫剂提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43049388",
+    "title": "Rational Design of Novel Piperine Derivatives Bearing an N-Sulfonylpiperazine Moiety as Selectively Potent OfChtII Inhibitors",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of agricultural and food chemistry",
+    "authors": "Wang N, Jiang Z, Chen J, Yang Z, Qiu S, Xu Z, Huang J, Yang Q, Duan H.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43049388",
+    "doi": "10.1021/acs.jafc.6c12931",
+    "pmid": "43049388",
+    "abstract": "OfChtII, an indispensable enzyme whose expression precedes other chitinases in the chitin metabolic system of Ostrinia furnacalis, becomes a promising target for green pest control. In this work, a series of novel piperine derivatives bearing an N-sulfonylpiperazine moiety were rationally designed and synthesized based on the binding cavity characteristics of OfChtII. Among them, compound I-H15 (Ki = 0.88 μM) exhibited superior inhibitory potency against OfChtII over piperine (Ki = 50.06 μM). In vivo bioassays demonstrated that I-H15 displayed high insecticidal efficacy and prominent growth-inhibitory effects on O. furnacalis at 500 μg/mL. Molecular mechanism demonstrated that I-H15 deeply occupies the previously unexploited subsite -2 of OfChtII and forms critical interactions through hydrogen bonding, π-π stacking, and π-cation with key residues Trp1951 and Phe1889 in OfChtII, as shown by molecular simulations. This study validates a subsite-targeted optimization strategy by discovering novel piperine derivatives and offers a promising lead for developing eco-friendly Chitinase inhibitors against O. furnacalis.",
+    "species_latin": "Ostrinia furnacalis",
+    "species_en": "Asian corn borer",
+    "species_zh": "玉米螟",
+    "takeaway": "基于OfChtII结合腔设计胡椒碱衍生物，I-H15抑制活性显著提升并具杀虫效果",
+    "conclusion": "围绕OfChtII结合腔特征设计合成含N-磺酰基哌嗪的胡椒碱衍生物，其中I-H15对OfChtII抑制力远强于胡椒碱，并在活体实验中表现杀虫与生长抑制活性；分子模拟显示其占据此前未利用的-2亚位点，与Trp1951、Phe1889形成氢键、π-π堆积和π-阳离子作用，验证了亚位点靶向优化策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261118-d2c5040cbb",
     "title": "Review Documents Insecticide Resistance and Operational Barriers Limiting Congo Aedes Control",
     "type": "news",
@@ -26,6 +376,110 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261119-pig-centromere-pan",
+    "title": "基于端粒到端粒(T2T)基因组与泛多组学的猪着丝粒演化解析及基因型–表型映射增强",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-19",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261117001023908.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究覆盖 19 个代表性猪品种，构建 3 个端粒到端粒（T2T）基因组与 16 个高质量染色体级组装，并整合 9 种组织的转录组与代谢组建立泛转录组、泛代谢组和猪泛着丝粒图谱。借助 12 个 Y 染色体组装在碱基对分辨率解析着丝粒重定位，区分南方/北方支系，提出 1 号染色体着丝粒频繁重定位与 eEF1A1 转录活性相关的基因组脆弱性机制，并从泛结构变异图谱中锁定 AKR1B1 为低氧适应关键基因；基于 T2T 的图泛基因组提高了遗传力捕获，配套建立 PigMAP 数据库。",
+    "species_latin": "Sus scrofa domesticus",
+    "species_en": "domestic pig",
+    "species_zh": "家猪",
+    "takeaway": "3 个 T2T 猪基因组与泛多组学资源完整解析了着丝粒（尤其 Y 染色体）重定位演化，并以图泛基因组增强基因型–表型映射。",
+    "conclusion": "3 个 T2T 基因组（contig N50 63.2–147.1 Mb、平均 BUSCO 98.1%）补齐了既有猪参考基因组在着丝粒、Y 染色体等复杂区域的缺口；CENP-A ChIP-seq 与 FISH 鉴定 CenI–CenIII 保守卫星，12 个 Y 染色体着丝粒分为南、北两支且位置随 Y-2.4-k 重复长度渐进移动，3D 基因组显示着丝粒为染色质压缩的结构支架；功能实验证实 AKR1B1 上游插入下调其表达并限制低氧下细胞周期进程，基于 T2T 的图泛基因组在 334 头 Yorkshire 猪 2052 个分子性状上平均遗传力较 Sscrofa11.1 提高 0.03，为着丝粒演化、适应性遗传学与精准育种提供了基础资源。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "猪泛基因组",
+      "着丝粒重定位",
+      "着丝粒演化",
+      "Y染色体",
+      "CENP-A",
+      "eEF1A1",
+      "AKR1B1",
+      "低氧适应",
+      "图泛基因组",
+      "遗传力",
+      "泛转录组",
+      "泛代谢组",
+      "结构变异",
+      "精准育种",
+      "家猪"
+    ]
+  },
+  {
+    "id": "manual-20261119-rna-pesticide-registration",
+    "title": "我国RNA农药创制取得新进展，登记资料要求同步落地，绿色农药产业化窗口加速打开——RNA农药:给病虫害一次“精准关机”",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "中国农网（农民日报客户端）",
+    "authors": "",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-19",
+    "url": "https://www.farmer.com.cn/2026/11/17/wap_991034055.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "报道梳理 RNA 农药的作用机制（dsRNA 经 Dicer 切割为 siRNA、装配 RISC 定点切割靶 mRNA）与国内外产业化进展：美国 Calantha、瓦螨用 Vadescana、墨西哥 Oifirax 相继获批，我国硅羿科技烟草花叶病毒衣壳蛋白核酸干扰素于 5 月 13 日登记，成为全球首款正式获批的 RNA 杀菌剂，生产成本降至每克 1 美元以下。同时介绍 10 月 19 日《全国农药产业发展“十五五”规划》与 10 月 20 日第 1076 号公告《核糖核酸（RNA）农药登记资料要求（试行）》确立的“序列特异性设计＋生物信息学筛查＋非靶标暴露评价＋试验验证”评价体系，并由三位专家解答转基因属性、口服安全性与非靶标风险等问题。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "我国 RNA 农药首张登记证与登记资料要求同步落地，dsRNA 生物农药从基础研究迈入产业化与规范化审批阶段。",
+    "conclusion": "RNA 农药以 RNA 干扰机制实现一虫一序列的靶向防控，具有靶标特异性强、残留风险低、环境友好等优势，并非转基因产品且外源 RNA 经口服难完整进入人体细胞；随着“十五五”规划鼓励核酸干扰等前沿技术、登记资料要求与行业标准建立评价证据链，以及国内外多款产品获批和成本大幅下降，RNA 农药已具备产业化条件，但仍需在制剂、成本、标准与推广上持续完善，作为现代植保体系的重要补充与化学防治、抗药性治理形成互补。",
+    "keywords": [
+      "RNA农药",
+      "dsRNA",
+      "RNA干扰",
+      "RNAi",
+      "生物农药",
+      "SIGS",
+      "RISC",
+      "siRNA",
+      "Dicer",
+      "农药登记",
+      "绿色防控",
+      "新烟碱替代",
+      "抗药性治理",
+      "核酸干扰素",
+      "精准育种"
+    ]
+  },
+  {
+    "id": "pmid-43046336",
+    "title": "Fitness costs and effects on the peritrophic matrix associated with chitin synthase 2 gene knockout in Vip3Aa-resistant Helicoverpa zea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Heu CC, Schutze IX, LeRoy DM, Wang YH, DeGain BA, Carrière Y, Tabashnik BE, Fabrick JA.",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43046336",
+    "doi": "10.1002/ps.71497",
+    "pmid": "43046336",
+    "abstract": "Background Genetically engineered crops producing insecticidal Bacillus thuringiensis (Bt) proteins are used globally to manage key insect pests, including Helicoverpa zea (Lepidoptera: Noctuidae). In the United States, H. zea has evolved practical resistance to Bt corn and cotton producing crystalline Bt proteins and early warning of resistance to the vegetative insecticidal protein Vip3Aa has been reported. CRISPR/Cas9 gene editing that introduced disruptive mutations in the H. zea chitin synthase 2 (CHS2) gene facilitated creation of a strain (CHS2-KO) with 29 000-fold resistance to Vip3Aa relative to its parental susceptible strain, LAB-S. However, quantitative information about fitness costs associated with CHS2-mediated resistance remains limited. Here, we tested whether CHS2-KO exhibited costs affecting survival, development time, and pupal mass on diet without Vip3Aa, and examined direct effects on the peritrophic matrix (PM). Results Relative to LAB-S, fitness costs in CHS2-KO were 27.8% for neonate to adult survival, 23.2% for neonate to adult development time, and 17.8% for pupal mass. An intact PM was evident in LAB-S and F1 larvae, but not in CHS2-KO larvae. Conclusion Mutations disrupting the CHS2 gene in the CHS2-KO strain of H. zea were associated with large fitness costs affecting survival, development time, and pupal mass when reared on diet under laboratory conditions. Also, no intact PM was evident in CHS2-KO. These results suggest that costs could oppose the spread of knockout alleles in the absence of Vip3Aa, although their magnitude on host plants and applicability to less disruptive CHS2 resistance alleles remain to be determined. © 2026 Society of Chemical Industry. This article has been contributed to by U.S. Government employees and their work is in the public domain in the USA.",
+    "species_latin": "Helicoverpa zea",
+    "species_en": "corn earworm",
+    "species_zh": "玉米 earworm",
+    "takeaway": "敲除玉米 earworm 的 CHS2 基因使其对 Vip3Aa 抗性大增，但伴随显著适合度代价并破坏围食膜。",
+    "conclusion": "CHS2 基因敲除导致玉米 earworm 在无 Vip3Aa 环境下存活率、发育时间和蛹重均显著下降，且围食膜完整性丧失；这些适合度代价可能在缺乏选择压时限制敲除等位基因扩散，但其在寄主植物上的表现及对温和抗性等位基因的适用性仍需验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -135,7 +589,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -161,7 +615,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -191,6 +645,32 @@
     ],
     "via": "Google News:ja",
     "link_kind": ""
+  },
+  {
+    "id": "doi-10.3389/fpls.2026.1977680",
+    "title": "Populus euphratica: genomes, functional genomics and abiotic-stress adaptation",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Frontiers in Plant Science",
+    "authors": "Chuanlei Xiao, Huimin Guo",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-19",
+    "url": "https://doi.org/10.3389/fpls.2026.1977680",
+    "doi": "10.3389/fpls.2026.1977680",
+    "pmid": "",
+    "abstract": "The desert poplar Populus euphratica ( P. euphratica ) is a xero-halophytic Salicaceae tree adapted to arid and saline habitats and a valuable model for studying abiotic-stress tolerance in woody perennials. Genomic resources for this species have progressed from fragmented draft assemblies to chromosome-level and telomere-to-telomere (T2T) references, including sex-specific assemblies. In parallel, functional studies have begun to connect genomic variation, heterophylly, ion transport, hormone signaling, redox regulation and microbiome interactions with stress resilience, yet much of this evidence comes from heterologous systems. Here, we synthesize recent progress in P. euphratica genome assembly, heterophylly, responses to salinity, drought, heavy metals, and extreme temperatures, as well as molecular-breeding strategies. We explicitly distinguish correlative evidence, heterologous functional validation and native validation, and we discuss shared regulatory nodes, cross-talk and trade-offs among stresses. We also highlight unresolved challenges in native functional validation, pan-genomic diversity, multi-stress integration, transgene-free genome editing, and field-level breeding deployment. A more integrated and evidence-aware framework should help translate P. euphratica stress-adaptation biology into conservation and tree-improvement strategies.",
+    "species_latin": "Populus euphratica",
+    "species_en": "Desert poplar",
+    "species_zh": "胡杨",
+    "takeaway": "综述胡杨从基因组组装到非生物胁迫适应的功能基因组学进展与挑战",
+    "conclusion": "胡杨基因组资源已从碎片化草图升级到染色体级和T2T参考，并揭示异形叶、离子转运、激素信号、氧化还原及微生物组与抗逆性的关联；但多数证据来自异源系统，需加强原生验证、泛基因组、多胁迫整合与无转基因编辑，以推动保育和树种改良。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-43040032",
@@ -241,7 +721,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
