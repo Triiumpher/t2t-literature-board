@@ -3465,6 +3465,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43051047",
+    "title": "Thiram exposure impairs tibial chondrocyte maturation and ECM synthesis by disrupting the NAD+/Sirt1-driven glycolytic checkpoint",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Liu K, Wu X, Hou J, Li Y, Li Y, Tang Z, Shubhra QTH, Chang YF, Zhang H.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-19",
+    "url": "https://europepmc.org/article/MED/43051047",
+    "doi": "10.1016/j.jhazmat.2026.144140",
+    "pmid": "43051047",
+    "abstract": "Thiram, a dithiocarbamate pesticide, induces tibial dyschondroplasia (TD) in broilers, but its metabolic toxicity mechanism remains unclear. Using thiram‑exposed broilers (100 mg/kg feed) and primary chondrocytes (10 μM thiram), we investigated whether thiram disrupts chondrocyte maturation and extracellular matrix (ECM) synthesis by impairing NAD+‑dependent glycolysis. Thiram reduced the NAD+/NADH ratio and Sirt1 activity in tibial growth plates and downregulated glucose transporter 1 (GLUT1) and glycolytic enzymes (HK2, ENO1, LDHA). This metabolic crisis, evidenced by decreased glucose uptake, lactate production, ATP, and sulfated glycosaminoglycan synthesis, was accompanied by impaired chondrogenic markers (Sox9, Runx2, Aggrecan, Col2A1) and abnormal cartilage histology. Rescue experiments showed that GLUT1 overexpression partially reversed glycolytic defects and chondrocyte dysfunction caused by Sirt1 knockdown; Sirt1 knockdown attenuated, but did not abolish, GLUT1-mediated protection, and GLUT1 inhibition aggravated these impairments, indicating GLUT1 is a downstream mediator of Sirt1-driven glycolysis. Nicotinamide mononucleotide (NMN), an NAD+ precursor, elevated NAD+, reactivated Sirt1, upregulated GLUT1‑mediated glycolysis, and reversed thiram‑induced ECM loss and maturation arrest. We identify the NAD+/Sirt1/GLUT1 axis as a critical checkpoint that thiram targets to suppress chondrocyte glycolysis and differentiation, revealing a novel toxicological pathway, and suggest NAD+ replenishment may mitigate pesticide‑associated skeletal disorders, with implications for environmental health risk assessment.",
+    "species_latin": "Gallus gallus domesticus",
+    "species_en": "Broiler chicken",
+    "species_zh": "肉鸡",
+    "takeaway": "福美双通过破坏NAD+/Sirt1/GLUT1轴抑制肉鸡胫骨软骨细胞糖酵解与成熟，NMN可逆转此损伤",
+    "conclusion": "福美双降低胫骨生长板NAD+/NADH比值与Sirt1活性，下调GLUT1及糖酵解酶，导致软骨细胞能量代谢危机、ECM合成减少和成熟受阻；GLUT1是Sirt1驱动糖酵解的下游介导因子，补充NAD+前体NMN可恢复该通路并逆转损伤，提示NAD+补充或可缓解农药相关骨骼疾病。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43027022",
     "title": "Ligand-Specific Remodeling of the Anopheles gambiae RDL GABA Receptor by the A296S Mutation Differentiates Recognition of Fipronil and Fluralaner",
     "type": "paper",
