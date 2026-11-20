@@ -1,5 +1,174 @@
 [
   {
+    "id": "news-20261119-bee5a68427",
+    "title": "The telomere-to-telomere (T2T) genome of spotted seal ( Phoca largha",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://doi.org/10.1038/s41597-026-08813-9",
+    "doi": "10.1038/s41597-026-08813-9",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Phoca largha",
+    "species_en": "Spotted seal",
+    "species_zh": "斑海豹",
+    "takeaway": "研究完成斑海豹端粒到端粒(T2T)完整基因组组装。",
+    "conclusion": "该工作构建了斑海豹端粒到端粒无间隙基因组,为斑海豹遗传多样性、进化适应与保护遗传学研究提供高质量参考基因组基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Data",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261119-ac495063ab",
+    "title": "Host Species and Wolbachia Shape Bacterial Communities in Co-Occurring South Korean Mosquitoes",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1lDTWVfSnVRaFJJcXpCSXVxVmhlR3FMRkdLNk1qN3lxeU9peUwxUER3bEFuWjI2SFBnRzFUVWc1YUdxSkg5WksxRGoxVDlyUHdLdGQ4M3RMUEJhbWtyXy1MZWRoTVpKaXF3UGJPYlNfVkxzcHNqSXR1b01EOGlGSWJBclh0M3FvdEl6MWQ2VW5CZXVHaDhNc3FocHBITE9OWnVHRjFSbVNveEVIdDdodlh5R3pRaGhDbjFB?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究韩国共栖蚊虫时发现，宿主种类与沃尔巴克氏体共同塑造其细菌群落。",
+    "conclusion": "在韩国共栖的多种蚊虫中，宿主物种身份和沃尔巴克氏体感染共同影响蚊虫体内细菌群落的组成，说明宿主遗传背景与内共生菌是塑造蚊虫微生物组结构的重要因素。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261119-8900824114",
+    "title": "California to double statewide pesticide air monitoring network with four new stations",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Imperial Valley Press Online",
+    "authors": "",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRVNrXzE3djFiMktoSFZJSDRZQTJZNTJ0Y1BFeU81RnUzOGZzU1FtMmJ2Y2stbm9LZkpPdTN3Vzk5MExhZjZMLTRHWm8tQnlEVHkwNWFaYV9MT1BUZUdZR2J4Z0o3RVRCTkwzTU4tOFBkcmR3N3R3RHExb0xNM2E0SWxJbFRlZ2l1TFdUbloyeDUwd2MyVHNKU0dXY0REdU5RSWdaTy1kRVdtVlp3cmdzN2kzVzJRREZxNHlTMVo3bHVYcklObWZjUUpVeXBtTDJpSmxjaUpYdC0xVVh4dnZ1OExPdDdKVmFLS2xKQ1pnbWpYTDVzN3Ezd2xOR09yOHVy?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "加州将新增四个监测站，使全州农药空气监测网络规模翻倍。",
+    "conclusion": "加州计划通过增设四个新站点，把全州农药空气监测网络扩大一倍，以加强对空气中农药残留的监测覆盖。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261119-768b503668",
+    "title": "€2.9BN Invested in Biopesticide Innovation, but EU Farmers Still Face Long Waits for New Solutions",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Global Agriculture",
+    "authors": "",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeFJERnA1YWJqRGl1R0pTc2REM1lGS3VCakx1MTBQSTNUY1NfSElNSy1ULVN1YzhuSVZNdF9XUUFOZ28xSldrQmY3WDh0c3M5WUwwb2xkUTNrX1NnM003a3ZjV21tc0dTRDVrZzFLaG5pd1Zkc3BXbUxaams0NTRvZFJQanBLa0xiNUl4YXlqUDZScnBvckMyUkc0NTk5OWpELU1PZjFwRFVETnZoTEliS0JYaHpoeUMwWENCZTNvM2FLYk9EZXNJLVVHOHRPWWxldDVsUVpVWktQcmJucUtnZHdCQQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "欧盟已投入29亿欧元用于生物农药创新，但农民仍难以及时获得新产品。",
+    "conclusion": "尽管欧盟在生物农药创新上投入巨大，新产品的上市审批与推广仍存在明显滞后，农民难以及时获得替代化学农药的解决方案，反映出研发投入与监管落地之间的脱节。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43056056",
+    "title": "Efficient removal of pesticides from water by metal-organic frameworks (MOFs): Adsorption efficacy, kinetic studies, and toxicological implications",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental science and pollution research international",
+    "authors": "Badawy MEI, Taha MAI, Abdel-Razik RK, El-Aswad AF, Abo-El-Saad MM.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://europepmc.org/article/MED/43056056",
+    "doi": "10.1007/s11356-026-38359-7",
+    "pmid": "43056056",
+    "abstract": "Three metal-organic frameworks (MOFs), namely CuBDC, ZnBDC, and ZrBDC, were synthesized via a hydro-solvothermal approach using 1,4-benzenedicarboxylic acid (BDC) as the organic linker. For the first time, these materials were compared for their efficiency in removing the pesticides florasulam, metalaxyl, and thiamethoxam from aqueous solutions. The novelty lies in the systematic evaluation of these three MOFs against different pesticide classes, coupled with a preliminary safety assessment of the best-performing material. Characterization (SEM, zeta potential, FT-IR, XRD) confirmed their formation, with particle sizes of 24.00, 20.68, and 47.01 nm, respectively, and good colloidal stability (zeta potential: - 10.1 to - 20.5 mV). A Plackett-Burman design identified adsorbent dosage as the most significant factor. Under optimized conditions, all MOFs exhibited high removal efficiencies, consistently exceeding 94% for the three pesticides, with ZrBDC-MOFs showing superior and most consistent performance (up to 99.66% for florasulam). Detailed kinetic and isotherm studies on ZrBDC-MOFs revealed that the adsorption process was fast, reaching equilibrium within 15-25 min. The pseudo-second-order model best described the kinetics (R2 = 0.99), while the Freundlich (for florasulam and thiamethoxam, R2 ≥ 0.92) and Temkin (for metalaxyl, R2 = 0.98) models best fitted the isotherm data, suggesting heterogeneous surface binding and adsorbate-adsorbent interactions, respectively. Crucially, a 28-day toxicological study in rats revealed that a high dose (175 mg/kg body weight) of ZrBDC-MOFs induced oxidative stress and histopathological changes, highlighting the necessity of careful risk assessment for future applications. This work underscores the high potential of MOFs, particularly ZrBDC-MOFs, as effective pesticide adsorbents, while also providing a critical first step toward understanding their safety profile.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Rat",
+    "species_zh": "大鼠",
+    "takeaway": "研究合成三种MOF去除水中农药，ZrBDC效果最佳但高剂量对大鼠有毒性风险",
+    "conclusion": "CuBDC、ZnBDC和ZrBDC三种MOF对氟草敏、甲霜灵和噻虫嗪的去除率均超94%，ZrBDC性能最优且最稳定，吸附在15-25分钟内达平衡，符合准二级动力学，等温线符合Freundlich或Temkin模型；但大鼠28天毒理实验显示高剂量ZrBDC会引发氧化应激和病理改变，提示应用前需评估安全性",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43055759",
+    "title": "Employing Allium cepa to Evaluate the Cyto- and Genotoxicity of Organic Extracts from Coastal Waters of Yucatan, Mexico",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bulletin of environmental contamination and toxicology",
+    "authors": "Rodríguez-Fuentes G, Uribe-López JA, Noreña-Barroso E.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://europepmc.org/article/MED/43055759",
+    "doi": "10.1007/s00128-026-04377-x",
+    "pmid": "43055759",
+    "abstract": "In the Yucatan Peninsula (Mexico), groundwater is the main freshwater source and the main receptor of wastewater. Without surface rivers, groundwater flows toward the coast, discharging into marshes and the sea and potentially carrying contaminants to coastal ecosystems. We assessed 28 water samples from marine, marsh, and groundwater-spring sites near the port of Sisal, Yucatan. Organic compounds were concentrated by solid-phase extraction. We analyzed the extracts for 20 organochlorine pesticides, chlorpyrifos, and 16 polycyclic aromatic hydrocarbons (PAHs), and tested them with the Allium cepa (onion) root bioassay, a standardized plant model for cytotoxicity (mitotic index, root growth) and genotoxicity (nuclear abnormalities). Bioassay responses differed between controls and coastal extracts. Naphthalene was detected in all samples. Total PAHs were highest (14.06 ng/L) at harbor sites near vessel and fuel-handling activities. Eleven pesticides were not detected, whereas α-HCH, β + γ-HCH, and chlorpyrifos were highest at marsh sites. Root growth correlated positively with total PAHs, acenaphthylene, benzo[a]anthracene, and chrysene, and the mitotic index correlated negatively with dibenzo[a, h]anthracene; no pesticide correlated with bioassay responses. Although the target compounds represent only part of the organic mixture, the bioassay is a useful complementary screening tool for coastal waters.",
+    "species_latin": "Allium cepa",
+    "species_en": "onion",
+    "species_zh": "洋葱",
+    "takeaway": "用洋葱根尖试验评估墨西哥尤卡坦沿岸水样有机提取物的细胞与遗传毒性，发现PAHs与根生长相关。",
+    "conclusion": "沿岸水样有机提取物在洋葱根尖试验中表现出与对照不同的细胞和遗传毒性响应；总PAHs在港口站点最高，α-HCH、β+γ-HCH和毒死蜱在沼泽站点最高；根生长与总PAHs、苊烯、苯并[a]蒽和䓛正相关，有丝分裂指数与二苯并[a,h]蒽负相关，农药与生物试验响应无相关性。该生物试验可作为沿岸水质的补充筛查工具。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261119-8ad4ffa856",
     "title": "New Bio-Based Pesticide Formulation Inhibits Nine Fungal Pathogens and Boosts Rice Root Growth",
     "type": "news",
@@ -216,7 +385,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -242,7 +411,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -589,7 +758,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -645,6 +814,32 @@
     ],
     "via": "Google News:ja",
     "link_kind": ""
+  },
+  {
+    "id": "pmid-43050787",
+    "title": "Malvidin pretreatment is associated with attenuation of myocardial histopathological and immunohistochemical alterations linked to a fipronil-containing formulation in mice",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tissue & cell",
+    "authors": "Şahin U, Şahin M, Özmen Ö.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-20",
+    "url": "https://europepmc.org/article/MED/43050787",
+    "doi": "10.1016/j.tice.2026.104165",
+    "pmid": "43050787",
+    "abstract": "Fipronil is a phenylpyrazole insecticide associated with oxidative, inflammatory, mitochondrial, and structural alterations. This study investigated whether malvidin attenuates myocardial alterations associated with a commercial fipronil-containing formulation in mice. Forty-eight male CD-1 mice were allocated to Control, Fipronil, Fipronil + Malvidin, and Malvidin groups (n = 12 per group). The fipronil formulation (5 mg/kg) and malvidin (5 mg/kg) were administered orally for 14 days, malvidin 2 h beforehand in the Fipronil + Malvidin group. Histopathological alterations were scored semiquantitatively by a blinded pathologist. Col-I, Col-III, eNOS, and VEGF-A immunoreactivity was assessed immunohistochemically, and Hmox1, Vegfa, Fos, Il6, and Smad3 mRNA expression by qPCR. The fipronil formulation was associated with myocardial hyperemia and hemorrhage, with cardiomyocyte degeneration in a subset of animals. Malvidin pretreatment was associated with significantly lower histopathological scores than the formulation alone (p < 0.05), although not fully normalized. Col-I, Col-III, eNOS, and VEGF-A immunoreactivity increased in the Fipronil group versus Control and was significantly lower in the Fipronil + Malvidin group than in the Fipronil group. All five transcripts were increased in the Fipronil group versus Control; expression was lower with malvidin pretreatment, but no comparison with the Fipronil group remained significant after Holm correction, and malvidin alone did not alter them. These findings suggest that malvidin pretreatment was associated with attenuation of certain histopathological and immunohistochemical alterations. However, transcriptional attenuation was not statistically confirmed, functional cardioprotection was not assessed, the vehicle control was not matched to the formulation excipients, and histopathological findings may reflect terminal artifacts.",
+    "species_latin": "Mus musculus",
+    "species_en": "CD-1 mouse",
+    "species_zh": "CD-1小鼠",
+    "takeaway": "锦葵色素预处理可减轻氟虫腈制剂所致小鼠心肌组织病理与免疫组化异常",
+    "conclusion": "在CD-1小鼠中，含氟虫腈制剂引起心肌充血出血、心肌细胞变性及Col-I、Col-III、eNOS、VEGF-A免疫反应增强；锦葵色素预处理可显著降低组织病理评分并减弱上述免疫组化改变，但转录水平变化未获统计学确认，且未评估功能性心脏保护，故仅提示相关性而非确证因果关系。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
   },
   {
     "id": "doi-10.3389/fpls.2026.1977680",
@@ -1401,6 +1596,82 @@
     "via": "Google News:en",
     "link_kind": "search",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261120-domestic-animal-t2t-review",
+    "title": "T2T组装破解家养动物基因组“未解区域”:技术基础、突破性发现、研究方向与现存挑战",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-20",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261113000208600.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "该综述以“未解区域（PUR）”为统一对象，系统梳理 PacBio HiFi 与 ONT 超长读长双平台、分型组装算法、Verkko 流程及六维质控体系如何支撑家养动物 T2T 组装。文章总结了 T2T 对家畜着丝粒组成、性染色体快速演化、禽类微染色体结构及结构变异检测的新认识，并讨论 PUR 变异在育种中的转化路径、功能验证方法与单倍型偏倚、重复区拓扑不确定性等现存挑战。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "以 PUR 为主线的家养动物 T2T 综述，阐明技术协同、突破性发现与“可解析不等于可用于育种”的转化边界。",
+    "conclusion": "T2T 组装是长读长测序与组装算法协同演化的产物，“HiFi 保准确、ONT 跨重复”的双平台整合成为主流策略，trio-binning 与 Verkko 分别在有系谱和无系谱场景下完成单倍型分型；T2T 揭示家畜功能着丝粒可由转座元件而非经典卫星构成、性染色体（尤其 Y 染色体）经历物种特异性快速演化、禽类微染色体具有保守的 TCHEST 排布并富集生产性状基因，且大量与耐寒、尾脂、绒性状相关的结构变异此前被短读长遗漏；但 PUR 的解锁在物种和区域间并不均一，PUR 变异须依次通过群体有效性、性状因果性和育种可交付性筛选，仅有极少数能进入育种实践。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "家养动物",
+      "PUR",
+      "未解区域",
+      "PacBio HiFi",
+      "ONT超长读长",
+      "Verkko",
+      "单倍型分型",
+      "着丝粒演化",
+      "性染色体",
+      "Y染色体",
+      "禽类微染色体",
+      "结构变异",
+      "分子育种",
+      "质量控制"
+    ]
+  },
+  {
+    "id": "manual-20261120-cofolding-antibody-benchmark",
+    "title": "标准化基准评估开源共折叠模型预测抗体–抗原复合物:从对接精度到相互作用特异性",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-20",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261113082557242.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究在新建的 SAbDab2-Bench（200 个 Fv/VHH 复合物）与 Ab-FoldBench 上，以标准化输入和界面指标对 AlphaFold 3、Protenix-v2、ESMFold2、ESMFold2-fast 和 OpenDDE 五款共折叠模型进行基准评估。OpenDDE 中位 DockQ 与对接通过率最高（33% 高质量预测），Protenix-v2 紧随其后且差异不显著，二者均优于 AlphaFold 3；诱饵复合物测试显示非同源抗原置换比界面突变更一致地降低置信度，而 OpenDDE 对部分诱饵仍保留较高置信度。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "开源共折叠模型在抗体–抗原复合物预测上已达或超过 AlphaFold 3，模型选择需权衡对接精度、推理时间与诱饵排斥能力。",
+    "conclusion": "在标准化基准上 OpenDDE 获得最高中位 DockQ（0.61）和 33% 高质量预测比例，Protenix-v2 为 28%，AlphaFold 3 总通过率 52%，ESMFold2-fast 对接精度最低但推理最快，适合超大规模初筛；作用感知置信度与实际 DockQ 强相关（Spearman 0.77–0.82），但最优阈值存在模型依赖，需在自有数据上重新校准；模型总体能可靠捕获宽泛的伙伴特异性，但对精细界面突变的识别仍有限，Protenix-v2 提供最佳的精度–时间–诱饵排斥综合平衡，为抗体发现与工程化改造中的模型配置提供了指导框架。",
+    "keywords": [
+      "蛋白互作",
+      "共折叠模型",
+      "抗体抗原复合物",
+      "AlphaFold 3",
+      "Protenix",
+      "ESMFold2",
+      "OpenDDE",
+      "DockQ",
+      "蛋白对接",
+      "基准评估",
+      "SAbDab",
+      "相互作用特异性",
+      "蛋白质复合物",
+      "抗体设计"
+    ]
   },
   {
     "id": "pmid-43038826",
@@ -2191,6 +2462,45 @@
     ],
     "via": "PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261120-soybean-t2t",
+    "title": "「Plant Cell」崖州湾国家实验室发表野生大豆与栽培大豆端粒到端粒基因组组装完成",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "搜狐号（生信帮镜像）",
+    "authors": "",
+    "publish_date": "2026-11-10",
+    "added_at": "2026-11-20",
+    "url": "https://news.sohu.com/a/1099333927_122604723",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究利用约 320× ONT 超长读长、90× HiFi 并结合 Hi-C/HiSeq，完成野生大豆 SoyW02 与栽培大豆中黄 13（ZH13）各 20 条染色体的无缺口 T2T 核基因组，并组装出完整叶绿体与线粒体基因组。经 Hi-C、Bionano、ddPCR、PCR/Sanger 多平台交叉验证，研究解析了 rDNA 阵列拷贝数、亚端粒交换枢纽、卫星重复图谱与串联重复基因簇，并发现 8 个 NUPT/NUMT 细胞器到核转移事件。",
+    "species_latin": "Glycine max",
+    "species_en": "soybean",
+    "species_zh": "大豆",
+    "takeaway": "野生与栽培大豆 T2T 基因组连同完整细胞器基因组，系统揭示了重复区、亚端粒交换与卫星重复的新基因组特征。",
+    "conclusion": "ZH13 与 SoyW02 的 T2T 组装 QV 分别达 66.27 和 73.09、BUSCO 达 99.40% 和 99.50%，完整解析了 152,221 bp 四分体叶绿体与多连接拓扑线粒体；新组装的 45S/5S rDNA 拷贝数较旧 T2T 最多增加 25 倍和 3 倍，端粒长度在同源染色体间高度同步（相关系数 0.81–0.96），Chr05 右端存在亚端粒交换枢纽，着丝粒区域鉴定出 Sat91/Sat92 及五个新卫星并经 FISH 验证；约 20% 基因组存在结构变异且富集于着丝粒，谱系特异基因富集线粒体–核信号与细胞壁成分，为大豆重复区演化、功能基因挖掘与分子育种提供了完整参考。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "大豆",
+      "野生大豆",
+      "Glycine max",
+      "Glycine soja",
+      "无缺口基因组",
+      "ONT超长读长",
+      "细胞器基因组",
+      "rDNA",
+      "亚端粒",
+      "卫星重复",
+      "结构变异",
+      "NUPT",
+      "NUMT",
+      "Plant Cell"
+    ]
   },
   {
     "id": "pmid-43025166",
@@ -3462,6 +3772,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43056687",
+    "title": "Functional analysis of sex-lethal (sxl ) gene in Dendroctonus armandi  Tsai et Li (Coleoptera: Curculionidae: Scolytinae) and its response to environmental treatment",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Environmental entomology",
+    "authors": "Wang J, Liao S, Mao X, Lin H, Wei H, Tang M, Chen H.",
+    "publish_date": "2026-11-05",
+    "added_at": "2026-11-20",
+    "url": "https://europepmc.org/article/MED/43056687",
+    "doi": "10.1093/ee/nvag113",
+    "pmid": "43056687",
+    "abstract": "Sex-determining genes act as core regulators of sexual differentiation in insects. The sex-lethal (sxl) gene plays a widely conserved central role in insect sex determination, but it had not been identified in Dendroctonus armandi until now. In this study, we cloned and functionally analyzed 4 alternatively spliced isoforms of the Dasxl gene, namely Dasxl1, Dasxl2, Dasxl3, and Dasxl4-using RNA interference (RNAi) technology. These 4 isoforms were expressed throughout all developmental stages, and their expression levels showed significant differences between adult males and females. Their expression was also influenced by temperature, feeding duration, and terpenoid exposure in a sexually dimorphic manner. RNAi experiments revealed complex regulatory interactions among the 4 isoforms, knocking down one isoform frequently led to substantial changes in the others. Furthermore, silencing individual Dasxl isoforms significantly increased mortality and reduced emergence rates in D. armandi. These findings provide a theoretical foundation for further research on the sex determination cascade in this species.",
+    "species_latin": "Dendroctonus armandi",
+    "species_en": "Chinese white pine beetle",
+    "species_zh": "华山松大小蠹",
+    "takeaway": "克隆华山松大小蠹4个Dasxl剪接型，RNAi揭示其性别差异表达及对温度、取食和萜类响应并影响存活。",
+    "conclusion": "Dasxl基因存在4个可变剪接型，各发育阶段均表达且雌雄差异显著，并受温度、取食时长和萜类化合物影响；沉默任一剪接型会引起其他剪接型表达变化，并提高死亡率、降低羽化率，表明Dasxl参与该虫性别决定与生存调控。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
