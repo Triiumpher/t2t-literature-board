@@ -169,6 +169,84 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43058030",
+    "title": "Environmentally Relevant Lambda-Cyhalothrin Concentration Induces Genotoxicity and Oxidative Stress in the Early Life Stages of Rhinella arenarum",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental toxicology",
+    "authors": "Laborde MRR, Ruiz de Arcaute C, Soloneski S.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://europepmc.org/article/MED/43058030",
+    "doi": "10.1002/tox.70213",
+    "pmid": "43058030",
+    "abstract": "Pyrethroid insecticides are frequently reported in aquatic environments as a consequence of their extensive use in agricultural and domestic applications. However, their impact on non-target organisms, particularly amphibians, remains poorly understood. In this investigation, we studied DNA damage and oxidative stress-related responses in Rhinella arenarum tadpoles exposed to an environmentally relevant concentration of lambda-cyhalothrin (LCT). Laboratory acute exposure was performed at 0.1 μg/L of LCT, employing Karate with Zeon Technology (25% LCT). Experiments were conducted after 48 and 96 h of treatment. The alkaline comet assay was used to examine DNA integrity by detecting strand breaks involving both single- and double-stranded DNA. Oxidative status was characterised through catalase (CAT) and glutathione S-transferase (GST) activities, together with reduced glutathione (GSH) content. The data revealed that LCT exposure increased DNA strand breaks by 4.1- and 4.8-fold at 48 and 96 h, respectively. At 48 h, CAT and GST activities increased, whereas GSH content decreased, suggesting an early antioxidant response accompanied by glutathione depletion. In contrast, after 96 h, CAT and GSH levels increased, while GST activity remained unchanged. Our findings highlight the importance of employing the comet assay together with the estimation of antioxidant responses for the early detection of environmental toxicity in amphibian monitoring programmes, particularly for assessing pesticide exposure. Taken together, these results improve the current understanding of the ecological risk that the pyrethroid LCT poses to aquatic environments.",
+    "species_latin": "Rhinella arenarum",
+    "species_en": "Argentine toad",
+    "species_zh": "阿根廷蟾蜍",
+    "takeaway": "环境浓度0.1 μg/L高效氯氟氰菊酯暴露使蟾蜍蝌蚪DNA断裂显著增加并引发氧化应激反应",
+    "conclusion": "环境相关浓度的高效氯氟氰菊酯可在48和96小时内诱导Rhinella arenarum蝌蚪DNA链断裂增加约4至5倍，并伴随过氧化氢酶、谷胱甘肽S-转移酶活性及还原型谷胱甘肽含量的时序性变化，表明该农药通过氧化应激途径产生遗传毒性；彗星实验结合抗氧化指标可用于两栖类环境毒性早期监测。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43057552",
+    "title": "Entomological survey for potential Anopheles malaria vectors and their insecticide resistance status in agricultural and peri-urban sites of Central and Southern Greece",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Acta tropica",
+    "authors": "Balaska S, Parnassa V, Vitaliotis IL, Mastis S, Alexandris NC, Skevofylaka A, Kampouraki A, Koliopoulos G, Vontas J, Kioulos I.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://europepmc.org/article/MED/43057552",
+    "doi": "10.1016/j.actatropica.2026.108421",
+    "pmid": "43057552",
+    "abstract": "Greece has eliminated malaria for several decades now, however the ecological settings as being transformed in response to climatic crisis and the current geo-political situation may pose an epidemiological risk. Evidence on Anopheles vector species occurrence and their insecticide resistance (IR) profile in the country is limited and this study aims to narrow this gap. To this end, Anopheles collections were performed in selected agricultural and peri-urban sites throughout Greece, during 2021-2024. Α sub-set of the populations was assessed for their response to insecticides commonly used in the country, showing evidence of resistance to deltamethrin in Corinthia and Boeotia, and possible resistance for the Phthiotis collection, based on CDC guidelines, while all the characterized populations showed a tendency towards susceptibility to the bacterial larvicide Bti (WHO larval bioassays). A multi-locus DNA barcoding approach identified totally five Anopheles species, with distinct abundances and distribution patterns, including epidemiologically relevant malaria vectors, such as An. sacharovi, Αn. labranchiae and An. claviger. In parallel, monitoring of common pyrethroid resistance-associated mutations in the voltage-gated sodium channel gene revealed the exclusive presence of the wild-type allele L1014. Lastly, a Plasmodium parasite detection assay was applied in the adult Anopheles specimens from Phthiotis producing negative results. In all, our survey updates the Anopheles species distribution map of central and southern Greece and provides valuable evidence on populations' IR status, to support future vector control targeted initiatives. The presence of malaria competent vector species, along with sporadic deltamethrin resistance records, stress the importance of systematic monitoring practices to maintain malaria transmission elimination.",
+    "species_latin": "Anopheles sacharovi, Anopheles labranchiae, Anopheles claviger",
+    "species_en": "Sacharov's malaria mosquito, Labranchiae mosquito, Claviger mosquito",
+    "species_zh": "萨氏按蚊、拉氏按蚊、五斑按蚊",
+    "takeaway": "2021-2024年希腊中南部农区与城郊按蚊调查发现三种疟疾相关媒介，并检出局部溴氰菊酯抗性。",
+    "conclusion": "希腊中南部存在萨氏按蚊、拉氏按蚊和五斑按蚊等疟疾相关媒介，分布与丰度各异；部分种群对溴氰菊酯表现抗性或可能抗性，但对Bti仍趋敏感，且未检出击倒抗性相关L1014突变，提示需持续系统监测以维持疟疾消除状态。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43057009",
+    "title": "Dicrotophos exposure is associated with spermatogenic impairment and BCAT1-associated Sertoli-cell dysfunction: A disease-oriented toxicogenomic study of non-obstructive azoospermia",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology and environmental safety",
+    "authors": "Zhou R, Zhang K, Wu S, Luo W, Yang C, Liu C.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-20",
+    "url": "https://europepmc.org/article/MED/43057009",
+    "doi": "10.1016/j.ecoenv.2026.121078",
+    "pmid": "43057009",
+    "abstract": "Non-obstructive azoospermia (NOA) is a severe form of male infertility. Pesticide exposure has been suspected to impair spermatogenesis, yet the molecular route by which it might do so remains poorly understood. Here we combined a disease-oriented toxicogenomic screen with transcriptomic, biochemical and in vivo experiments. We derived a 20-gene signature from public human testicular transcriptomes and reproduced it in a busulfan mouse model of spermatogenic injury. The signature classified NOA and control samples in discovery and external cohorts. Intersecting the Comparative Toxicogenomics Database with pesticide annotation and predicted reproductive toxicity yielded seven candidates; we carried dicrotophos forward because it was the least characterized of the seven. Docking and microscale thermophoresis identified BCAT1 as the strongest binder among three proteins tested (Kd = 48.61 μM; 95% CI 42.19-56.08 μM), and molecular dynamics supported a stable complex. Single-cell data placed BCAT1 mainly in Sertoli cells. In TM4 cells, dicrotophos slowed BCAT1 degradation without changing its specific transaminase activity and reduced blood-testis barrier and Sertoli-cell support genes, effects partly reversed by Bcat1 knockdown. Subchronic exposure of mice produced dose-related spermatogenic damage, lower testosterone and higher testicular BCAT1. Two-sample Mendelian randomization linked genetically predicted plasma BCAT1 to NOA (odds ratio = 2.05, 95% CI = 1.22-3.47). Our findings provide evidence that dicrotophos exposure is associated with spermatogenic impairment in mice, and identify BCAT1-associated Sertoli-cell dysfunction as one plausible mechanism; whether this pathway operates in human NOA remains untested.",
+    "species_latin": "Mus musculus",
+    "species_en": "Mouse",
+    "species_zh": "小鼠",
+    "takeaway": "敌敌畏暴露经BCAT1致支持细胞功能障碍，关联小鼠精子发生损伤",
+    "conclusion": "研究提示敌敌畏暴露与小鼠精子发生损伤相关，BCAT1在支持细胞中蓄积并削弱血睾屏障及支持功能，可能是潜在机制；孟德尔随机化支持血浆BCAT1与NOA遗传关联，但该通路在人类NOA中尚未验证。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261119-8ad4ffa856",
     "title": "New Bio-Based Pesticide Formulation Inhibits Nine Fungal Pathogens and Boosts Rice Root Growth",
     "type": "news",
