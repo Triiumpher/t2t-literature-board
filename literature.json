@@ -29480,6 +29480,36 @@
     "link_kind": "doi"
   },
   {
+    "id": "news-20251015-0e3cd988f3",
+    "title": "AlphaFold3 prediction of protein-protein complex: Is it ready for thermodynamic analysis?",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Science Partner Journals",
+    "authors": "",
+    "publish_date": "2025-10-15",
+    "added_at": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.csbj.2025.10.015",
+    "doi": "10.1016/j.csbj.2025.10.015",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "评估AlphaFold3预测蛋白复合物结构能否用于热力学分析",
+    "conclusion": "标题以提问方式审视AlphaFold3预测的蛋白-蛋白复合物结构是否已具备热力学分析所需的精度与可靠性，提示需谨慎评估其在该用途上的适用性，但具体结论需见正文。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Computational and Structural Biotechnology Journal",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20251005-30fea1c2de",
     "title": "圖神經網路助力蛋白質交互作用預測實現突破性進展",
     "type": "news",
