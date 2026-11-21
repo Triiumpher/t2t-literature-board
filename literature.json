@@ -1,5 +1,294 @@
 [
   {
+    "id": "news-20261120-18bd365ddb",
+    "title": "Pesticide meant to kill invasive slugs harms West’s iconic banana slugs, study finds",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Lookout Eugene-Springfield",
+    "authors": "",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN2p2Z1BIem9MSmFDRE1sZTRhTWw4VlBhbmFTUTlVb3M5U05TUjM5LVpqVFhneVZaaUlLZ1lkeUdZeGN1Z2RlUHo2Y2V6TmdMVWN6V2c3TGNFWTNFRGVuZ2pPbUhoc0tHYjFZNmtOMXg1YTh5cnZyWDIzbS0yYVN3WmZCV3E3amFuRU1qakV1TThKb0FiRWMySkZiR3NxcXJYbVkyZGpxbzZZYVdyTHlrOUtPQUpCREJ2NUE4dzJxVFNHdGc5MEdQeUQ0MjN1NG5pZ2dHNVlfSFlGNUhWN0w5cmdhQUM?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Ariolimax columbianus",
+    "species_en": "Banana slug",
+    "species_zh": "香蕉蛞蝓",
+    "takeaway": "研究报道杀灭入侵蛞蝓的农药会伤害美国西部标志性香蕉蛞蝓",
+    "conclusion": "基于标题可知，用于防治入侵蛞蝓的农药对西部标志性香蕉蛞蝓造成伤害，提示该类农药存在非靶标风险，需关注本土物种保护。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43059369",
+    "title": "CovPDB 2.0: an expanded covalent protein-ligand interactome",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Nucleic acids research",
+    "authors": "Feng Y, Qaseem A, Pfäffle SP, Moumbock AFA, Xu Q, Pan S, Schiedel M, Günther S.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43059369",
+    "doi": "10.1093/nar/gkag1218",
+    "pmid": "43059369",
+    "abstract": "The rational design of covalently binding inhibitors to specifically block selected target proteins has become a common strategy in drug discovery. Such design is based on structural insights into how electrophilic ligands bind to nucleophilic residues. CovPDB v1.0 provided high-resolution cocrystal structures of biologically relevant covalent protein-ligand complexes curated from the Protein Data Bank. Here, we describe CovPDB v2.0, a substantially extended release that addresses three main limitations of the original resource. First, to reflect the numerous novel covalently binding ligands developed and structurally elucidated over the past 4 years, we have classified, annotated, and integrated these entries into the database. This expands the collection from ~2300 to ~6200 protein-ligand complexes, comprising ~3600 pre-reactive ligands, ~1300 target proteins, 119 warheads, and 27 reaction types. Second, we expanded the structural scope beyond experimental cocrystals by generating AlphaFold3 cofolding models for additional ~6800 covalent complexes for which we had experimental evidence for a covalent ligand binding. Third, we added ~7100 non-covalent complexes in which the binding-site cysteines are annotated with a predicted reactivity and ligandability scores. A redesigned web interface allows users to browse, filter, and cross-search experimental, modelled, and ligandable-cysteine entries. CovPDB 2.0 is freely accessible at https://www.pharmbioinf.uni-freiburg.de/covpdb.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "CovPDB 2.0 将共价蛋白-配体复合物数据扩至约6200个实验结构，并新增AlphaFold3模型与半胱氨酸可配体性评分。",
+    "conclusion": "该数据库整合了实验解析的共价复合物、AlphaFold3共折叠预测模型及带反应性与可配体性评分的非共价复合物，并重构检索界面，为共价抑制剂理性设计提供更全面的结构资源。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43063158",
+    "title": "GSNMF: A Graph-Regularized Nonnegative Matrix Factorization Framework With Biological Priors for Protein-Protein Interaction Prediction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "IEEE transactions on computational biology and bioinformatics",
+    "authors": "Yan Y, Tian T, Zhang W.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43063158",
+    "doi": "10.1109/tcbbio.2026.3756406",
+    "pmid": "43063158",
+    "abstract": "Accurate prediction of protein-protein interactions (PPIs) supports the reconstruction of cellular networks and the prioritization of experimentally testable hypotheses. Network-based prediction is challenged by sparse, noisy, and incomplete interaction data, motivating the integration of complementary biological information. We propose GSNMF, a graph-regularized nonnegative matrix factorization framework that combines PPI topology and Gene Ontology (GO) semantic similarity through a shared latent basis. View-specific coefficient matrices reconstruct the topological and functional information, while graph Laplacian regularization encourages neighborhood consistency and an element-wise $L_{p}$ penalty, with $1< p< 2$, regularizes the shared basis. The reconstructed interaction scores are symmetrized and subsequently adjusted using subcellular-localization compatibility. Soft localization weighting attenuates scores for protein pairs without shared annotations rather than excluding them outright. Evaluation on five Saccharomyces cerevisiae PPI datasets shows competitive performance against representative matrix-factorization baselines. Localization ablations illustrate the tradeoff between prioritizing compatible pairs and suppressing recorded interactions lacking shared localization annotations. On collins2007 and DIP core, soft weighting preserves nearly the same P@100 as hard filtering while yielding higher AUPRC. These findings support the use of complementary functional information and localization-aware candidate prioritization within a shared-factorization framework. Because unobserved pairs are provisionally treated as negatives, the reported performance measures recovery of recorded interactions rather than definitive biological interaction accuracy.",
+    "species_latin": "Saccharomyces cerevisiae",
+    "species_en": "Baker's yeast",
+    "species_zh": "酿酒酵母",
+    "takeaway": "GSNMF融合PPI拓扑与GO语义相似度并引入亚细胞定位加权，在酵母PPI数据上优于矩阵分解基线。",
+    "conclusion": "图正则化非负矩阵分解通过共享潜在基整合拓扑与功能信息，图拉普拉斯正则保证邻域一致性，Lp惩罚约束共享基；软定位加权在保留P@100的同时提升AUPRC，说明互补功能信息与定位感知排序有效，但未观测对暂作负例，指标反映记录互作的召回而非真实生物学准确性。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43062754",
+    "title": "Flupyradifurone-induced cytotoxicity, oxidative stress, DNA damage, and apoptosis in human bronchial epithelial cells",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental science and pollution research international",
+    "authors": "Şekeroğlu V, Atlı Şekeroğlu Z, Kontaş Yedier S, Börçek Kasurka C, Bal YC.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43062754",
+    "doi": "10.1007/s11356-026-38436-x",
+    "pmid": "43062754",
+    "abstract": "Flupyradifurone (FLUP), a butenolide insecticide, is used to control many pest insect species in agricultural and horticultural crops including neonicotinoid-resistant populations. However, its toxicological effects against human lung cells are not known. We examined the effects of FLUP on cell viability, proliferation, apoptosis, DNA damage, and oxidative stress in human bronchial epithelial cells (BEAS-2B). Our results indicate that FLUP decreased cell viability and proliferation in a concentration-dependent manner. It induced DNA single- and double-strand breaks. Increased apoptosis rate was found in FLUP-treated cells. It also induced oxidative stress by reducing antioxidant capacity and elevating oxidative burden. Our results also support the hypothesis that ROS formation and antioxidant depletion may be central mechanisms for FLUP-induced genotoxicity. To contextualize these cellular responses within the framework of human physiological exposure, an in silico respiratory toxicokinetic and reverse-dosimetry model was used. Toxicokinetic estimates indicate that concentrations resulting in acute cytotoxic and genotoxic effects in vitro greatly exceed localized target tissue doses achieved under realistic occupational aerosol deposition and dynamic physiological clearance, thus reflecting intrinsic molecular hazard identification rather than direct ambient exposure risk. It is recommended that further mechanistically refined in vitro and in vivo studies using physiologically relevant models be conducted to fully elucidate the long-term respiratory impact and support regulatory risk assessment of FLUP in humans.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "氟吡呋喃酮在体外人支气管上皮细胞中呈浓度依赖性降低活力并引发DNA损伤与凋亡，氧化应激是核心机制。",
+    "conclusion": "FLUP可抑制BEAS-2B细胞增殖、诱导DNA单双链断裂和凋亡，并通过削弱抗氧化能力、升高氧化负荷造成氧化应激；ROS生成与抗氧化耗竭可能是其遗传毒性的关键机制。毒代动力学模型显示体外有效浓度远高于真实暴露下的靶组织剂量，故结果属危害识别而非直接暴露风险评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43062744",
+    "title": "Species-specific sensitivity to imidacloprid: ecotoxicological effects on congeneric cladocerans and ecological risk assessment",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ecotoxicology (London, England)",
+    "authors": "Lackman KP, Martins CMG, Moraes JS, Domingos Da Cruz LA, Montagner CC, Moreira RA.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43062744",
+    "doi": "10.1007/s10646-026-03186-6",
+    "pmid": "43062744",
+    "abstract": "Imidacloprid is an emerging contaminant that frequently reaches aquatic ecosystems and may adversely affect non-target biota. This study evaluated imidacloprid toxicity to four cladoceran species under laboratory conditions. Acute tests were conducted with the exotic species Daphnia similis (1-5 mg L⁻¹), D. magna (4-64 mg L⁻¹), and Ceriodaphnia dubia (0.5-8 mg L⁻¹), and the native C. silvestrii (0.5-8 mg L⁻¹). Chronic tests assessed reproduction in D. similis and D. magna at measured concentrations of 0.013-0.143 mg L⁻¹, while feeding assays evaluated ingestion in all four species at measured concentrations of 0.030-0.143 mg L⁻¹. An acute species sensitivity distribution (SSD) combined the experimental 48-h EC₅₀ values obtained for these four species with published 48-h EC₅₀ and LC₅₀ values for other freshwater crustaceans, including cladocerans, ostracods, and cyclopoid copepods. Ecological risk was estimated using Brazilian measured environmental concentrations and risk quotients (RQ = MEC/PNEC). Acute sensitivity decreased in the order C. silvestrii > C. dubia > D. similis > D. magna. Chronic exposure significantly reduced reproduction in both Daphnia species from 0.013 mg L⁻¹. Only C. silvestrii showed reduced ingestion, at 0.050 mg L⁻¹. The SSD yielded an HC₅ of 6.57 µg L⁻¹ (95% CI: 1.18-76.49 µg L⁻¹). Central RQs ranged from 0.0015 to 0.556, indicating negligible to moderate acute risk, whereas the maximum RQ based on the lower confidence limit was 3.09, indicating potentially high acute risk under the most conservative scenario. These findings emphasize interspecific and endpoint-dependent responses and the importance of native species and broader taxonomic representation in pesticide risk assessments.",
+    "species_latin": "Daphnia magna",
+    "species_en": "water flea",
+    "species_zh": "大型溞、模糊溞、可疑网纹溞、silvestrii网纹溞",
+    "takeaway": "新烟碱类杀虫剂吡虫啉对四种枝角类急性毒性差异明显，本土Ceriodaphnia silvestrii最敏感，慢性繁殖与摄食端点亦受影响。",
+    "conclusion": "吡虫啉对枝角类的急性敏感性顺序为C. silvestrii>C. dubia>D. similis>D. magna；0.013 mg/L起即抑制两种溞类繁殖，仅本土C. silvestrii摄食在0.050 mg/L下降。物种敏感分布HC₅为6.57 µg/L，巴西地表水风险商多为可忽略至中等，但最保守情景下可达3.09，提示潜在高急性风险，强调本土物种与多端点评估的重要性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43017217",
+    "title": "Enhanced control of Sclerotinia sclerotiorum using pH-responsive chitosan nanoparticles loaded with a synergistic ternary fungicide",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of pesticide science",
+    "authors": "Zhang B, Zhou P, Liu Q, Wang Y, Wang J, Li J.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43017217",
+    "doi": "10.1584/jpestics.d26-025",
+    "pmid": "43017217",
+    "abstract": "Sclerotinia sclerotiorum causes stem rot on many crops. Current management faces fungicide resistance and low pesticide efficiency. A ternary mixture of fludioxonil, fluindapyr, and difenoconazole (FFD) at a 3 : 6 : 1 mass ratio showed strong synergy (SR = 2.58). This mixture was loaded into pH-responsive chitosan nanoparticles (FFD-CS NPs). The nanoparticles were spherical, with a mean size of 176.1 nm and a zeta potential of 46.4 mV. pH-dependent assays showed higher antifungal activity at pH 3.0 (EC50 = 0.0022 vs. 0.0038 µg/mL for FFD-CS NPs vs. FFD) than at pH 7.0 (0.0121 vs. 0.0238 µg/mL), exceeding non-encapsulated FFD. On detached oilseed rape leaves, FFD provided 100% protective efficacy at 5 µg/mL. On potted plants, FFD-CS NPs achieved 97.6% curative efficacy on oilseed rape at 5 µg/mL and 83.1% protective efficacy on cucumber at 1 µg/mL, significantly higher than those of both FFD and single fungicides. The pH-responsive FFD-CS NPs enable on-demand fungicide release, enhancing efficacy and offering a sustainable strategy for the management of Sclerotinia stem rot.",
+    "species_latin": "Sclerotinia sclerotiorum",
+    "species_en": "White mold fungus",
+    "species_zh": "核盘菌",
+    "takeaway": "将三元杀菌剂FFD装入pH响应壳聚糖纳米粒，可按需释放并显著提升对核盘菌的防效",
+    "conclusion": "氟啶胺、fluindapyr与苯醚甲环唑按3:6:1复配具强协同作用，载入pH响应壳聚糖纳米粒后粒径约176 nm，在酸性条件下活性更强，离体叶片与盆栽试验中防效与治疗作用均优于游离药剂及单剂，为菌核病绿色防控提供新策略",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43017207",
+    "title": "Research on the molecular mechanisms governing the uptake, translocation, and accumulation of hydrophobic compounds, such as pesticides, in crops",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of pesticide science",
+    "authors": "Inui H.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43017207",
+    "doi": "10.1584/jpestics.j26-04",
+    "pmid": "43017207",
+    "abstract": "Hydrophobic compounds, including certain types of pesticides and pollutants, are generally considered to exhibit limited root-to-shoot translocation because of their strong affinity for lipids and soil organic matter. However, cucurbit crops such as zucchini and pumpkin uniquely accumulate these compounds in aerial tissues. This review summarizes current knowledge of the molecular mechanisms underlying the uptake, translocation, and accumulation of hydrophobic compounds in plants, with particular emphasis on recent advances in cucurbit species. Our studies have demonstrated that major latex-like proteins (MLPs) in xylem sap function as carrier proteins that bind structurally diverse hydrophobic compounds and facilitate their long-distance transport from roots to shoots. We also describe the physiological roles of MLPs and recent strategies to regulate their expression or ligand-binding activity to reduce contaminant accumulation in crops. These findings provide new insights into the fate of hydrophobic chemicals in plants and offer promising approaches for improving crop safety, pesticide management, and phytoremediation technologies.",
+    "species_latin": "Cucurbita pepo",
+    "species_en": "zucchini, pumpkin (cucurbit crops)",
+    "species_zh": "西葫芦、南瓜（葫芦科作物）",
+    "takeaway": "葫芦科作物中MLP蛋白作为木质部载体结合疏水化合物，介导其从根向地上部远距离运输与积累。",
+    "conclusion": "综述指出，疏水农药等化合物虽通常根到地上部转运有限，但葫芦科作物可独特积累；其机制在于木质部汁液中的主要乳胶样蛋白（MLPs）作为载体结合结构多样的疏水化合物并促进长距离运输，调控MLP表达或配体结合活性可减少作物污染物积累，为作物安全、农药管理和植物修复提供新思路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43016918",
+    "title": "Growth-inhibitory activities of 1-(disubstituted benzyl)-2-methylbenzimidazole derivatives against Bombyx mori larvae",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of pesticide science",
+    "authors": "Inoue K, Kutsuwada K, Ikeda I, Shiotsuki T.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43016918",
+    "doi": "10.1584/jpestics.d26-021",
+    "pmid": "43016918",
+    "abstract": "The increasing prevalence of pesticide-resistant insects underscores the urgent need for novel control agents. We previously demonstrated that 1-benzyl-2-methylbenzimidazole derivatives (BMBIs) exhibit insecticidal activities against silkworm (Bombyx mori), a lepidopteran model insect; however, their efficacy still needs to be improved. To address this limitation, we synthesized a series of 1-(disubstituted benzyl)-2-methylbenzimidazole derivatives (hereafter referred to as disubstituted BMBIs) as candidate insect growth regulators (IGRs) and evaluated their activities. Notably, the developed compounds exerted various effects, including acute toxicity and growth inhibition, with the timing and severity of lethality varying according to the substituent type and position on the 1-benzyl group. Moreover, several 2',4'-disubstituted BMBIs exhibited pronounced larvicidal activity. At 10 µg/larva, 2'-Me-4'-Cl (2) induced 87% acute lethality and 7% growth inhibition, whereas 2'-Me-4'-Br (5) induced 40% acute lethality and 30% growth inhibition. Overall, the BMBI series exhibited diverse biological profiles consistent with effects on multiple molecular targets, including the disruption of insect hormonal pathways.",
+    "species_latin": "Bombyx mori",
+    "species_en": "silkworm",
+    "species_zh": "家蚕",
+    "takeaway": "合成双取代苄基苯并咪唑类化合物，对家蚕幼虫具急性毒性与生长抑制，2'-Me-4'-Cl活性最强。",
+    "conclusion": "双取代BMBIs作为候选昆虫生长调节剂，其毒性和生长抑制效果随1-苄基上取代基类型与位置变化；2',4'-双取代衍生物杀幼虫活性突出，其中2'-Me-4'-Cl在10 µg/头时引起87%急性死亡和7%生长抑制，提示该类化合物可能作用于多个分子靶标，包括干扰昆虫激素通路。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43059150",
+    "title": "T2T-guided EPFL9 editing: Stepwise stomatal-density reductions in Populus \"Beilinxiongzhu 1\"",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Journal of integrative plant biology",
+    "authors": "Huang M, Li M, Jiao Z, Han S, Liu C, Yin W, Xia X.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43059150",
+    "doi": "10.1111/jipb.70447",
+    "pmid": "43059150",
+    "abstract": "Guided by the first complete genome of the elite poplar cultivar 'Beilinxiongzhu 1', editing the stomatal development gene EPFL9 reduced the density of leaf pores and water loss while improving water use efficiency under drought.",
+    "species_latin": "Populus",
+    "species_en": "Poplar",
+    "species_zh": "杨树（'北林雄株1号'品种）",
+    "takeaway": "基于杨树T2T基因组编辑EPFL9基因，降低叶片气孔密度与失水，提升干旱下水分利用效率",
+    "conclusion": "以'北林雄株1号'首个完整基因组为指导，对气孔发育基因EPFL9进行编辑，可逐步降低叶片气孔密度、减少水分散失，并在干旱条件下提高水分利用效率，为杨树抗旱节水育种提供了精准基因组编辑策略。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43059028",
+    "title": "Large-scale phenotypic and genotypic monitoring reveals insecticide susceptibility dynamics and resistance allele frequencies in Brazilian populations of Rachiplusia nu (Lepidoptera: Noctuidae)",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Godoy DN, Dallanora A, Liberalesso O, Grzybowski JL, Cargnin MP, Pretto VE, Tamiosso ZZ, Palharini RB, Bernardi O.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43059028",
+    "doi": "10.1002/ps.71508",
+    "pmid": "43059028",
+    "abstract": "Background The sunflower looper, Rachiplusia nu (Guenée, 1852), has become an increasingly important soybean pest in Brazil following the evolution of resistance to Cry1Ac-expressing soybean, resulting in greater reliance on insecticides for its control. To support insect resistance management (IRM), we integrated phenotypic monitoring with 17 insecticides representing IRAC mode-of-action groups 1, 3, 5, 6, 13, 15, 18, 22, and 28, and genotypic monitoring using F 2 screens for five selected insecticides to assess insecticide susceptibility and resistance allele frequencies in Brazilian populations of R. nu. Results Phenotypic monitoring showed that mortality was generally >94% for most insecticides evaluated in R. nu populations collected during the 2022/23 to 2024/25 soybean seasons. However, the most pronounced reductions in susceptibility were observed for triflumuron, methoxyfenozide, methomyl, and metaflumizone from the 2023/24 soybean season onward. Genotypic monitoring using F 2 screens detected positive lines only for methomyl and lambda-cyhalothrin in selected R. nu populations collected during the 2023/24 to 2025/26 soybean seasons, with overall estimated resistance allele frequencies of 0.0992 and 0.0557, respectively. No positive F 2 lines were detected for flubendiamide, triflumuron, or bifenthrin. Conclusion Brazilian populations of R. nu remain broadly susceptible to most insecticides evaluated. However, reduced phenotypic susceptibility and a high estimated resistance allele frequency for methomyl, together with the detection of resistance alleles to lambda-cyhalothrin, indicate incipient resistance and highlight the need for continued resistance monitoring. These findings provide a scientific basis for IRM programs, enabling timely management decisions to delay resistance evolution under field conditions. © 2026 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+    "species_latin": "Rachiplusia nu",
+    "species_en": "sunflower looper",
+    "species_zh": "向日葵尺蠖",
+    "takeaway": "巴西Rachiplusia nu种群对多数杀虫剂仍敏感，但灭多威抗性等位基因频率较高，需持续监测。",
+    "conclusion": "巴西R. nu种群对多数供试杀虫剂仍普遍敏感，但自2023/24季起对灭多威、三氟脲、甲氧虫酰肼和氰氟虫腙的表型敏感性下降；F2筛选仅检出灭多威和高效氯氟氰菊酯抗性等位基因，频率分别为0.0992和0.0557，提示抗性处于早期阶段，应持续监测以支撑抗性治理。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43059018",
+    "title": "Thiol reactivity and ferroptosis sensitization as toxic mechanisms of the phthalimide pesticides folpet and captan",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxicological sciences : an official journal of the Society of Toxicology",
+    "authors": "Jakaria M, Cannon JR.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43059018",
+    "doi": "10.1093/toxsci/kfag145",
+    "pmid": "43059018",
+    "abstract": "Captan and folpet are phthalimide fungicides widely used in agricultural and non-agricultural settings and have been identified as environmental risk factors for Parkinson's disease (PD). These pesticides are highly reactive with cellular thiols, particularly glutathione (GSH), disrupting redox homeostasis and inducing neuronal toxicity; however, the mechanisms underlying their neurotoxicity remain poorly understood. Ferroptosis is an iron-dependent form of regulated cell death characterized by impaired antioxidant defenses, including GSH depletion and phospholipid peroxidation. This study examined whether captan and folpet induce or modulate ferroptosis in immortalized neuronal and non-neuronal cell lines. Cytotoxicity and intracellular GSH levels were assessed using calcein AM and monochlorobimane assays, respectively. Captan and folpet exhibited marked cytotoxicity in rat dopaminergic (N27) cells, with IC₅₀ values of 3.7 and 6.2 μM, respectively. Co-treatment with the thiol-containing compounds N-acetylcysteine and dithiothreitol markedly protected against toxicity induced by both pesticides, supporting thiol reactivity as an important mechanism underlying their toxicity. In addition, captan and folpet did not substantially induce ferroptotic cell death on their own; they significantly enhanced susceptibility to RSL3-induced ferroptotic stress while attenuating erastin-induced cytotoxicity. These differential effects may reflect the distinct mechanisms by which RSL3 and erastin initiate ferroptotic stress, together with the thiol-reactive properties of captan and folpet. Collectively, these findings identify context-dependent modulation of ferroptotic susceptibility as a previously unrecognized mechanism that may contribute to the cellular effects of these PD-associated pesticides.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Rat",
+    "species_zh": "大鼠",
+    "takeaway": "邻苯二甲酰亚胺类杀菌剂克菌丹和灭菌丹通过巯基反应致毒，并改变细胞对铁死亡的敏感性。",
+    "conclusion": "克菌丹和灭菌丹对多巴胺能神经元具有明显细胞毒性，其毒性主要依赖与巯基（尤其谷胱甘肽）的高反应性；二者本身不显著诱导铁死亡，却能增强RSL3诱导的铁死亡敏感性、减弱erastin的毒性，提示其对铁死亡易感性的情境依赖性调节是此前未被认识的作用机制，或与其帕金森病相关风险有关。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261119-bee5a68427",
     "title": "The telomere-to-telomere (T2T) genome of spotted seal ( Phoca largha",
     "type": "news",
@@ -139,7 +428,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -165,7 +454,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -191,7 +480,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -217,7 +506,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -243,7 +532,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -302,6 +591,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43061219",
+    "title": "Identification and dissection of the thousand-grain weight gene &lt;i&gt;TaPTC52&lt;/i&gt; and its distal functional variant in wheat",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Molecular breeding : new strategies in plant improvement",
+    "authors": "Kou C, Zhao M, Ren W, Zhang Y, Zan X, Han L, Qi X, Dong H.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-21",
+    "url": "https://europepmc.org/article/MED/43061219",
+    "doi": "10.1007/s11032-026-01744-8",
+    "pmid": "43061219",
+    "abstract": "Thousand-grain weight (TGW) is a primary determinant of grain yield in bread wheat ( Triticum aestivum L.) and exhibits high broad-sense heritability, making it a critical target for genetic improvement. In this study, we evaluated TGW in a panel of 120 modern bread wheat cultivars across two consecutive growing seasons, and conducted whole-genome resequencing aligned to the gap-free Chinese Spring telomere-to-telomere (T2T) reference genome. Quality filtering yielded 6,313,343 high-confidence, independent single nucleotide polymorphisms (SNPs). Integrating genome-wide association studies (GWAS) across three mixed linear models with selective sweep scans based on population differentiation statistics (Fst), nucleotide diversity ratios (Pi), and cross-population composite likelihood ratio (XP-CLR) tests mapped a major candidate gene, TaPTC52 , within a 646.3 to 646.8 Mb interval on chromosome 5A. This gene encodes protochlorophyllide-dependent translocon component 52. We also detected a putative minor candidate gene encoding a sesquiterpene synthase on chromosome arm 2AS. Haplotype analysis revealed that a regulatory SNP at Chr5A: 646,781,924 bp, located 24.4 kb upstream of the TaPTC52 transcription start site, underlies the divergence between the favorable Hap1 and the alternative Hap2. Accessions carrying Hap1 with the T allele produced significantly higher TGW than those carrying Hap2 with the C allele ( P cis -regulatory element and abolishes predicted binding affinity for WRKY transcription factors. Crucially, quantitative real-time PCR (RT-qPCR) confirmed that accessions harboring Hap1 exhibited significantly elevated TaPTC52 transcript levels compared with Hap2 ( P TaPTC52 in governing grain weight and provide diagnostic functional markers for marker-assisted selection (MAS) and targeted parental selection in wheat breeding programs.",
+    "species_latin": "Triticum aestivum",
+    "species_en": "bread wheat",
+    "species_zh": "面包小麦",
+    "takeaway": "对120份小麦品种重测序并GWAS，定位到5A染色体TaPTC52基因及上游调控SNP，Hap1显著提高千粒重",
+    "conclusion": "TaPTC52为千粒重主效候选基因，其上游24.4 kb处调控SNP的T等位变异（Hap1）破坏WRKY转录因子结合位点，导致基因表达升高、千粒重增加，为小麦分子标记辅助选择提供功能标记",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -810,7 +1125,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "EuropePMC;PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -30480,8 +30795,8 @@
     "authors": "",
     "publish_date": "2022-04-19",
     "added_at": "2026-10-24",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CR01zb2VCNGtaLWc2Ny1SYkc4ckZZUG9UVzBGaXlyMU9tTnV6ZDlENjBUVU91SmUyUXR4UTZ4OTBaeE9rcTAzSEM3dGhOa0pmd2tXU2NibnVpeE5vY0pv?oc=5",
-    "doi": "",
+    "url": "https://doi.org/10.1038/d44148-022-00056-1",
+    "doi": "10.1038/d44148-022-00056-1",
     "pmid": "",
     "abstract": "",
     "species_latin": "",
@@ -30495,7 +30810,8 @@
       "fr"
     ],
     "via": "Google News:fr",
-    "llm_enhanced": true
+    "llm_enhanced": true,
+    "link_kind": "doi"
   },
   {
     "id": "news-20220310-aade9d43ae",
