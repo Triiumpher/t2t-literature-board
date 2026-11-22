@@ -1,0 +1,39 @@
+[
+  {
+    "id": "manual-20261123-cmedcsp18-diamide-resistance",
+    "title": "CmedCSP18介导稻纵卷叶螟对氯虫苯甲酰胺和四氯虫酰胺的抗性",
+    "type": "wechat",
+    "boards": [
+      "cmed",
+      "insecticide"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-11-23",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261022001146757.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对2025年采自湖北荆州、湖南岳阳的稻纵卷叶螟田间种群，研究发现化学感觉蛋白CmedCSP18在抗性种群中组成性过表达；RNAi沉默后幼虫对氯虫苯甲酰胺和四氯虫酰胺的敏感性显著恢复，分子动力学模拟、光谱位移与定点突变证实该蛋白以高亲和力直接结合并隔离双酰胺分子，揭示了一种非靶标位点的生理隔离抗性机制。",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaf folder",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "CmedCSP18以“结合—隔离”方式降低双酰胺在靶标处的有效浓度，是稻纵卷叶螟非代谢抗性的新机制与潜在增效剂靶标。",
+    "conclusion": "荆州与岳阳田间种群对氯虫苯甲酰胺的抗性倍数分别达88.4和166.4，对四氯虫酰胺分别为25.4和8.9；CmedCSP18在抗性种群中高表达并在成虫触角与幼虫脂肪体中富集，RNAi沉默显著提升药剂敏感性，MD模拟与光谱位移证实其与两种双酰胺高亲和力直接结合，Leu62、Val66、Val84定点突变消除结合活性，共注射纯化蛋白可降低幼虫死亡率，表明CmedCSP18通过生理隔离（sequestration）而非代谢解毒介导抗性，为靶向CSP的抗性治理与增效剂开发提供了新靶点。",
+    "keywords": [
+      "稻纵卷叶螟",
+      "Cnaphalocrocis medinalis",
+      "CmedCSP18",
+      "化学感觉蛋白",
+      "双酰胺",
+      "氯虫苯甲酰胺",
+      "四氯虫酰胺",
+      "杀虫剂抗性",
+      "生理隔离",
+      "RNAi",
+      "分子动力学模拟",
+      "非靶标位点抗性",
+      "抗药性机制"
+    ]
+  }
+]
