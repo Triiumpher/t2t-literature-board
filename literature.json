@@ -1,5 +1,86 @@
 [
   {
+    "id": "news-20261122-afec18cf31",
+    "title": "Wolbachia Mosquitoes Cut Dengue and Chikungunya Infections About 69% in Randomized Blood-Test Trial",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Tech Times",
+    "authors": "",
+    "publish_date": "2026-11-22",
+    "added_at": "2026-11-22",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWFmSGw2VWxaN1QyclpUaDBDbkJHaWtOaEV4V2lXYVlVR283VW4xSHJ6SHhwX0Fza1M2WE4wdThiMmpDSmpzWG1MYk9UVlF2dkhVY2lmRzBBcG5nS2ZZQlVDUm1sWnNuWlBEQmVJWVpkakJFbjhXcE14OG9uaGR5dzhKUlJuampycFZQNlFTNDZfOW5lSHc2cDdNVENUeHZyTUN3NHEwdUhrRDRLbERsUnNqaTFFY21CcTFOUUNhX19MR21jdzZBTXJQMV9aeXRaQ1prWkxmWUZvbUphY2p3?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "随机血液检测试验显示，携带沃尔巴克氏体的蚊虫可使登革热和基孔肯雅热感染下降约69%。",
+    "conclusion": "在随机对照血液检测试验中，释放携带沃尔巴克氏体的蚊虫使登革热与基孔肯雅热感染率下降约69%，提示以蚊媒共生菌阻断传播的干预策略具有显著公共卫生效果。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43065325",
+    "title": "Managing crucifer flea beetles (Coleoptera: Chrysomelidae) in oilseed brassicas: effects of cultivar, seed treatment, and foliar insecticide",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of economic entomology",
+    "authors": "Bempong GK, Khadka K, Eigenbrode SD, Adhikari S.",
+    "publish_date": "2026-11-21",
+    "added_at": "2026-11-22",
+    "url": "https://europepmc.org/article/MED/43065325",
+    "doi": "10.1093/jee/toag345",
+    "pmid": "43065325",
+    "abstract": "Crucifer flea beetles (Coleoptera: Chrysomelidae) are major global insect pests in Brassica crops. These beetles damage crops through foliar feeding, producing characteristic shot-hole injury and pits on leaves, which can lead to complete defoliation and significant yield loss. This study assessed variation in crucifer flea beetle injury and associated yield impacts among canola (Brassica napus L.), industrial rapeseed (B. napus L.), yellow mustard (Sinapis alba L.), and oriental mustard (Brassica juncea L.) cultivars commonly grown in the Pacific Northwest, USA. Field experiments were conducted in 2024 and 2025 in Moscow, Idaho, using a split-plot design with 4 replications. Foliar insecticide treatment [Grizzly Too (λ-cyhalothrin)] with two levels (treated and untreated control) was assigned to the main plots, and cultivars were assigned to subplots within each main plot. Six cultivars were evaluated in this study, all with the standard seed treatment commonly used in the region. Additionally, the industrial rapeseed cultivar (i.e., \"Industrious\") was also evaluated without seed treatment to assess the efficacy of seed treatment against crucifer flea beetles. The study detected differences in cultivar susceptibility to flea beetle injury, with damage increasing greatly in late May and early June in both years. Foliar insecticide application reduced flea beetle damage by 66% in each year and increased yield by 38% in 2024 and 78% in 2025 compared with the untreated control. Foliar insecticide efficacy was cultivar-dependent, indicating the importance of integrating insecticide application and cultivar selection in flea beetle management programs. Although only a single cultivar treated with Helix Vibrance (15 mL kg-1 seed) was evaluated, seed-treated plots had lower flea beetle injury than non-seed-treated plots. These findings show that integrating the seed treatment, foliar insecticide applications, and cultivar selection can reduce flea beetle damage and minimize yield losses in oilseed brassicas.",
+    "species_latin": "Brassica napus, Sinapis alba, Brassica juncea",
+    "species_en": "canola/rapeseed, yellow mustard, oriental mustard",
+    "species_zh": "甘蓝型油菜、白芥、芥菜型油菜",
+    "takeaway": "研究比较了四种芸薹属油料作物的品种、种子处理和叶面杀虫剂对跳甲危害及产量的影响，发现叶面喷药可显著减轻危害并提高产量。",
+    "conclusion": "不同品种对跳甲的易感性存在差异；叶面施用λ-氯氟氰菊酯可使危害降低约66%，并使产量提高38%–78%，且其效果因品种而异；种子处理也能减轻危害。将种子处理、叶面施药与品种选择相结合，可有效减少跳甲危害和产量损失。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43064293",
+    "title": "Integrating behavioral and molecular biomarkers reveals neurotoxic effects of common insecticide in big brown bats",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental pollution (Barking, Essex : 1987)",
+    "authors": "Sandoval-Herrera N, Lara-Jacobo L, Vargas Soto JS, Faure PA, Simmons D, Welch KC.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-22",
+    "url": "https://europepmc.org/article/MED/43064293",
+    "doi": "10.1016/j.envpol.2026.129589",
+    "pmid": "43064293",
+    "abstract": "While foraging in croplands, bats are exposed to pesticides that can be neurotoxic even at low concentrations, affecting their physiology and behavior. These sublethal effects are often assessed using molecular biomarkers in isolation, with limited insights into ecological consequences. Here, we used an integrative approach to assess the sublethal effects of chlorpyrifos, a common neurotoxic insecticide, on big brown bats (Eptesicus fuscus). We combined behavioral experiments with molecular biomarkers that could reveal the mechanisms underlying observed changes. We orally exposed bats to chlorpyrifos and evaluated their associative memory in a crawling Y-maze, and their stereotyped flight trajectories. To understand the mechanisms behind these behavioral changes, we quantified brain cholinesterase (ChE) activity and used non-targeted proteomics to identify cellular and molecular biomarkers of neurotoxicity. Exposed bats did not change their flight consistency, but were less explorative, had a slower reflex response, and made more incorrect choices in the Y-maze. Exposed bats had a significant reduction in their ChE activity and showed dysregulation of proteins involved in neurological processes like memory, learning, and sound perception. Our results not only provide a comprehensive understanding of the different ways in which pesticides affect individual performance, they also provide a broad description of the underlying cellular and molecular processes, increasing our mechanistic understanding of these effects. Moreover, our results support the sensitivity of behavior as an ecologically relevant biomarker of toxicity and the importance of considering multiple levels of organization to elucidate the mechanisms underlying altered behavior in wildlife due to human activities.",
+    "species_latin": "Eptesicus fuscus",
+    "species_en": "big brown bat",
+    "species_zh": "大棕蝠",
+    "takeaway": "毒死蜱暴露降低大棕蝠探索性与记忆表现及脑胆碱酯酶活性，并扰动学习记忆相关蛋白。",
+    "conclusion": "毒死蜱亚致死暴露虽不影响飞行一致性，但削弱大棕蝠探索性、反射速度与Y迷宫关联记忆，伴随脑胆碱酯酶活性下降及记忆、学习、声音感知相关蛋白失调；表明行为是生态相关毒性标志物，多层级整合有助揭示农药神经毒性机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261120-18bd365ddb",
     "title": "Pesticide meant to kill invasive slugs harms West’s iconic banana slugs, study finds",
     "type": "news",
@@ -77,7 +158,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -103,7 +184,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -129,7 +210,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -208,6 +289,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43064089",
+    "title": "Sequential mannose glycation and chlorogenic acid complexation of pea protein isolate: Structural modification, mannose-associated macrophage interaction, and emulsion stabilization",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "International journal of biological macromolecules",
+    "authors": "Pei X, Li K, Mi J, Xu J, Chang M, Liu R.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-22",
+    "url": "https://europepmc.org/article/MED/43064089",
+    "doi": "10.1016/j.ijbiomac.2026.155387",
+    "pmid": "43064089",
+    "abstract": "Pea protein isolate (PPI) was sequentially modified by mannose glycation and chlorogenic acid (CGA) complexation to investigate mannose-associated cellular interactions and emulsion stabilization. A PPI-to-mannose mass ratio of 1:2 and a reaction time of 4 h were selected, followed by CGA complexation at a PPI-M:CGA mass ratio of 1: 0.10. To explore the recognition potential of attached mannose, molecular docking identified CD206-compatible O3/O4-Ca2+ contact geometries in representative mannose-glycated vicilin models, while molecular dynamics simulations showed the persistence of these contacts in a selected model. Compared with PPI, PPI-M and PPI-M/C increased RAW264.7 cell-associated fluorescence by 54.8% and 44.7%, respectively; free-mannose pretreatment reduced the corresponding signals by 20.1% and 14.0%. The emulsifying activity index increased from 16.78 to 25.69 m2/g and the emulsion stability index from 29.70 to 53.78 min following sequential modification. PPI-M/C-stabilized emulsions also exhibited favorable storage stability and resistance to pH, thermal, and ionic stresses. Overall, CGA complexation further improved the emulsifying performance of mannose-glycated PPI while retaining enhanced cell-associated fluorescence relative to native PPI. These findings support the development of functionalized PPI-based emulsifiers with complementary cellular-interaction properties.",
+    "species_latin": "Pisum sativum",
+    "species_en": "Pea",
+    "species_zh": "豌豆",
+    "takeaway": "豌豆分离蛋白经甘露糖糖基化与绿原酸复合修饰后，增强细胞结合能力并显著提升乳化稳定性",
+    "conclusion": "顺序修饰可赋予豌豆分离蛋白甘露糖相关细胞识别能力并改善乳化性能；分子对接与动力学提示糖基化蛋白可与CD206形成稳定接触，细胞实验支持甘露糖依赖性结合增强；绿原酸复合进一步提高了乳化活性与稳定性，所得乳化剂具应用潜力",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -591,6 +698,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43063581",
+    "title": "AdaFGNN: An adaptive filtering graph neural network for protein-protein interaction site prediction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Neural networks : the official journal of the International Neural Network Society",
+    "authors": "Zhang Q, Si M, Wang X, Lu X, Wang H, Zhang L.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-22",
+    "url": "https://europepmc.org/article/MED/43063581",
+    "doi": "10.1016/j.neunet.2026.109941",
+    "pmid": "43063581",
+    "abstract": "Accurate identification of protein-protein interaction (PPI) sites is essential for understanding molecular mechanisms and reconstructing cellular interaction networks. Structure-based graph neural networks (GNNs) have become powerful tools for this task by modeling proteins as residue-level graphs. However, from a graph signal processing perspective, conventional graph convolutional operators mainly act as low-pass filters, preserving global structural smoothness while suppressing mid- and high-frequency signals that may encode localized interfacial variations. To address this limitation, we propose the Adaptive Filtering Graph Neural Network (AdaFGNN), a full-spectrum graph filtering framework for residue-level PPI-site prediction. AdaFGNN constructs low-pass, mid-pass, and high-pass graph filters based on the graph Laplacian and applies them at multiple filtering orders to extract multi-band and multi-order residue representations. These raw and filtered features are further transformed into frequency-aware spectral tokens through band-specific normalization, shared projection, and learnable band and filtering-order embeddings. A Transformer encoder models cross-band and cross-order dependencies among the spectral tokens, and a gated attention pooling module adaptively aggregates them into residue-specific representations. To handle severe class imbalance and enhance boundary discrimination, AdaFGNN is optimized with a class-balanced binary objective and a boundary-aware four-class auxiliary task. Extensive experiments on multiple benchmark datasets demonstrate that AdaFGNN consistently outperforms competitive baseline methods, validating the effectiveness of adaptive full-spectrum graph filtering for PPI-site prediction.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "提出全谱图滤波网络AdaFGNN,通过多频段多阶图滤波与Transformer建模,提升蛋白互作位点预测精度。",
+    "conclusion": "传统图卷积仅保留低频信号,忽略编码局部界面变化的中高频信息。AdaFGNN基于图拉普拉斯构建低、中、高通滤波器并多阶应用,生成频谱token,经Transformer与门控注意力池化聚合,结合类别平衡与边界感知辅助任务优化,在多个基准数据集上优于现有方法,验证了自适应全谱图滤波对PPI位点预测的有效性。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1209,6 +1342,32 @@
     "link_kind": ""
   },
   {
+    "id": "pmid-43063827",
+    "title": "Ultrasound-assisted synthesis of chromene-carbohydrazide hybrids as promising larvicidal agents against Culex pipiens: integrated biological and computational evidence for acetylcholinesterase inhibition and oxidative stress",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioorganic chemistry",
+    "authors": "El-Bana GG, Farag B, Mohammed SH, Korol N, Ismail MA, Selim A, Abd-Elhalim BT, Baz MM.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-22",
+    "url": "https://europepmc.org/article/MED/43063827",
+    "doi": "10.1016/j.bioorg.2026.110758",
+    "pmid": "43063827",
+    "abstract": "Developing environmentally friendly larvicides with novel modes of action is necessary because insecticide resistance is widespread in mosquito populations. Despite considerable efforts to discover new mosquito control agents, studies integrating biological efficacy, biochemical mechanisms, computational chemistry, and SAR analyses within a single framework remain limited. Here, we assessed a series of chromene-carbohydrazide derivatives (3a-d, 5, and 7) using third-instar Culex pipiens larvae. Each hybrid exhibited significant concentration- and time-dependent larvicidal activity, with compound 3b showing the highest potency (LC₅₀ = 52.43 and 44.26 μg/mL after 24 and 48 h, respectively), followed by 3c and 3d, while compound 5 was the least active. Several derivatives achieved 100% larval mortality at 500 μg/mL, but they were considerably less potent than the reference Temephos (0.25 μg/mL). Biochemical assessments showed significant inhibition of acetylcholinesterase, α- and β-esterases, digestive enzymes, and antioxidant defenses. Protein, carbohydrate, lipid peroxidation, and protein carbonyl contents were also elevated, indicating severe oxidative stress. Toxicity toward non-target organisms was generally low, although Gambusia affinis exhibited notable sensitivity. Density functional theory showed reduced HOMO-LUMO energy gaps and enhanced electrophilicity among the chromene-carbohydrazide derivatives, with 3c displaying the strongest electron-accepting character. Molecular docking and a 100 ns molecular dynamics simulation showed stable binding of 3b within the acetylcholinesterase active gorge, supporting its inhibitory activity. Collectively, these findings establish chromene-carbohydrazide hybrids, particularly 3b, as promising laboratory larvicidal agents whose mode of action involves, at minimum, acetylcholinesterase inhibition and oxidative stress, with additional downstream effects on detoxification and digestive enzymes. However, this study was conducted only under laboratory conditions and did not assess environmental safety, field efficacy, or practical applicability. Future research should prioritize field validation, formulation optimization, and ecotoxicological risk assessment before operational use in vector control programs.",
+    "species_latin": "Culex pipiens",
+    "species_en": "southern house mosquito",
+    "species_zh": "致倦库蚊",
+    "takeaway": "超声合成的色烯-碳酰肼杂合物对致倦库蚊幼虫有显著杀灭活性，3b最强，机制涉及抑制乙酰胆碱酯酶与氧化应激。",
+    "conclusion": "该类杂合物尤其3b在实验室条件下对致倦库蚊三龄幼虫表现出浓度和时间依赖的杀幼虫活性，其作用至少包括抑制乙酰胆碱酯酶、干扰解毒与消化酶并引发严重氧化应激；计算化学支持3b与酶活性口袋稳定结合。但效力远低于对照药剂，且未评估环境安全与田间效果。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43050787",
     "title": "Malvidin pretreatment is associated with attenuation of myocardial histopathological and immunohistochemical alterations linked to a fipronil-containing formulation in mice",
     "type": "paper",
@@ -1722,6 +1881,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43063850",
+    "title": "Concentration-dependent shift from antagonism to additivity of chromium and banned organochlorine pesticide in vitro mixture cytotoxicity in Indo-Pacific humpback dolphins",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "authors": "Sun X, Wang N, Wang J, Yu X, Xu Z, Liu Z, Luo D, Wu Y.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-22",
+    "url": "https://europepmc.org/article/MED/43063850",
+    "doi": "10.1016/j.aquatox.2026.108092",
+    "pmid": "43063850",
+    "abstract": "Marine cetaceans are chronically exposed to complex contaminant mixtures, yet binary interactions between co-occurring pollutants remain poorly characterized in species-specific models. Here, skin fibroblast cells from the Indo-Pacific humpback dolphin (Sousa chinensis, ScSF cells) were used to evaluate the combined cytotoxicity of hexavalent chromium, Cr(VI), and p,p'-DDT, two contaminants of concern in the Pearl River Estuary. Cells were exposed to single compounds and binary mixtures across different concentrations, durations, and fixed ratios. Joint toxicity was evaluated using toxic-unit isobolograms, concentration addition, and independent action models, together with mechanistic endpoints related to oxidative stress, mitochondrial dysfunction, cell-cycle distribution, and apoptosis. The combined response was strongly concentration- and ratio-dependent. Low-concentration p,p'-DDT partially attenuated Cr(VI)-induced viability loss, whereas high-concentration co-exposure intensified cytotoxicity. Mixture modelling showed no synergism under the tested conditions; interactions shifted from antagonism at lower Cr(VI) proportions toward additivity as the relative Cr(VI) contribution increased. High-level co-exposure induced S-phase accumulation, mitochondrial dysfunction, increased ROS-associated fluorescence, and apoptosis involving mitochondrial- and death-receptor-associated pathways. N-acetylcysteine rescued viability more effectively than the pan-caspase inhibitor Z-VAD-FMK, indicating a predominant role of oxidative stress in co-exposure-induced cytotoxicity. These in vitro findings show that Cr(VI)- p,p'-DDT interactions cannot be represented by a single interaction category. They support incorporating species-specific mixture data into hazard assessment, but direct population-level risk inference requires dosimetry-based QIVIVE and chromium speciation, because the nominal concentrations used here cannot be equated with in vivo tissue doses.",
+    "species_latin": "Sousa chinensis",
+    "species_en": "Indo-Pacific humpback dolphin",
+    "species_zh": "中华白海豚",
+    "takeaway": "在中华白海豚皮肤成纤维细胞中，Cr(VI)与p,p'-DDT的联合毒性随浓度和配比变化，由拮抗转为相加，无协同作用。",
+    "conclusion": "Cr(VI)与p,p'-DDT的混合细胞毒性高度依赖浓度与比例：低浓度DDT可减轻Cr(VI)的毒性，高浓度共暴露则加重损伤；模型拟合未发现协同，随Cr(VI)占比升高由拮抗转为相加。高剂量共暴露引发S期阻滞、线粒体功能障碍、ROS升高及凋亡，NAC的挽救效果优于泛caspase抑制剂，提示氧化应激为主导机制。混合物毒性不能用单一相互作用类型概括，物种特异性数据应纳入危害评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43033574",
     "title": "Characterization, Epidemiology, and Host Range of &lt;i&gt;Alternaria solani&lt;/i&gt; f. sp. &lt;i&gt;lactucae&lt;/i&gt;, the Causal Pathogen of Alternaria leaf spot of lettuce",
     "type": "paper",
@@ -1988,6 +2173,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43024680",
+    "title": "Species-rich and genomically diverse: Comparative genomics reveals how fusions, fissions, and sex chromosomes have shaped beetle evolution",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS genetics",
+    "authors": "Tally DG, Pittman C, Bracewell RR.",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-22",
+    "url": "https://europepmc.org/article/MED/43024680",
+    "doi": "10.1371/journal.pgen.1012371",
+    "pmid": "43024680",
+    "abstract": "Chromosome evolution in animals reflects a balance between long-term conservation of ancestral linkage groups and lineage-specific chromosomal rearrangements that reshape genome structure. Beetles (Coleoptera), the most species-rich animal order, exhibit extensive diversity in karyotype, yet the extent to which their chromosomes retain deep ancestral structure remains unclear. Here, we analyzed 190 chromosome-level genome assemblies spanning 39 families and 16 superfamilies to characterize genome diversity, evaluate the conservation of ancestral linkage groups (Stevens elements), identify neo-sex chromosomes, and explore the role of repetitive elements in driving karyotypic change. Our results reveal that beetle genomes are highly diverse, varying substantially in genome size, chromosome number, GC content, and transposable element (TE) composition. Despite this diversity, Stevens elements appear conserved across much of the radiation, with several superfamilies maintaining strong chromosome synteny over more than 200 million years of evolution. In contrast, some clades, and specifically the leaf beetles (Chrysomelidae), have undergone extensive genomic changes including numerous chromosomal fusions and fissions and changes in genome size. Using synteny-based approaches across beetles, we identified 37 species (approximately 19.5%) having patterns consistent with neo-sex chromosomes, a substantially higher frequency than previous estimates. These putative X-autosome fusions vary in complexity and age, often clustered within lineages that are prone to chromosomal instability. The ancestral X chromosome appears conserved for over 300 million years, with stable gene content and reduced TEs relative to autosomes. These findings help establish beetles as a promising system to uncover the evolutionary forces that maintain and disrupt ancestral linkage groups and drive the formation of neo-sex chromosomes.",
+    "species_latin": "Coleoptera",
+    "species_en": "beetles",
+    "species_zh": "甲虫",
+    "takeaway": "分析190个染色体级甲虫基因组，发现祖先连锁群长期保守，但叶甲类频繁融合分裂，约19.5%物种具新性染色体。",
+    "conclusion": "甲虫基因组高度多样，但Stevens祖先连锁群在多数类群中保守逾2亿年；叶甲科等类群发生大量染色体融合、分裂与基因组大小变化。约19.5%物种存在X-常染色体融合形成的新性染色体，频率高于以往估计，且祖先X染色体保守逾3亿年、转座子较少。甲虫可作为研究祖先连锁群维持与破坏及新性染色体形成的理想体系。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
