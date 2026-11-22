@@ -727,6 +727,35 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20261118-ad7a98cb26",
+    "title": "Overcoming behavioural barriers key to meeting pesticide reduction targets",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "University of Liverpool",
+    "authors": "",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-22",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ09jX1QxdU1CZU1yOUlaelFidlFvWVlCcjJTLURkWUc3Z1RvM1o5RkRyMDF0M0xoNjIzZUp6c2xBOXJzRUxnSzRYZDlXOUQwV1psekdMb0ltVGIxVlF6ZlNCdTlQRUxqWXM0dVlyRXpobThPWHI5dkNJeUZ1SHAwVjBtWGdLSEJZZ2VrMUNicEZIUGZ4MXA0SlZvLU02Yl9KSk9ZbHBFUjhoblNYMDRGbEVxQTlHUQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "文章指出，实现农药减量目标的关键在于克服行为层面的障碍。",
+    "conclusion": "仅凭标题可知，该文主张农药减量政策若要落地，需重点解决使用者的行为障碍，而非只靠技术或法规；具体机制与证据因无摘要无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43061219",
     "title": "Identification and dissection of the thousand-grain weight gene &lt;i&gt;TaPTC52&lt;/i&gt; and its distal functional variant in wheat",
     "type": "paper",
@@ -27425,6 +27454,35 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20260612-49072a48cd",
+    "title": "Commentary: 10 years and millions of mosquitoes later, Project Wolbachia did more than fight dengue",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "CNA",
+    "authors": "",
+    "publish_date": "2026-06-12",
+    "added_at": "2026-11-22",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTZxV1ZTZ2hYUXpUT2QzMHNCWHgxcWJYZHZQUEFXMUV2d2s2b1J0MGtmU2ZfNzB1TzE3TkEwUWRWQ0RkbmM1Sk5ldTVjcjRJYTFyamJhSzBLMDBsS05FOVNleDlGSl9ITVBCZGlYY2Y2Q3BUbElzTEE0UXRNMXh4V3FZSzIteGtMNElDRHBETk5JcDk3ZFVzbg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "mosquito",
+    "species_zh": "蚊子",
+    "takeaway": "评论总结沃尔巴克氏体蚊项目十年成效，指出其作用超出抗击登革热。",
+    "conclusion": "该评论回顾沃尔巴克氏体蚊项目十年大规模释放实践，认为其除降低登革热传播外还带来更广泛影响，提示该技术具多重公共卫生价值。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
