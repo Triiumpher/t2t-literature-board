@@ -701,6 +701,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43067257",
+    "title": "Occurrence and ecological risk of carbamate insecticides in river surface water and adjacent shallow groundwater across urban and agricultural catchments",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of contaminant hydrology",
+    "authors": "An H, Wang X.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-23",
+    "url": "https://europepmc.org/article/MED/43067257",
+    "doi": "10.1016/j.jconhyd.2026.105166",
+    "pmid": "43067257",
+    "abstract": "Carbamate insecticides (CBs) occur widely in aquatic environments, yet their ecological thresholds remain poorly defined due to limited chronic toxicity data and insufficient knowledge of contamination across contrasting land-use watersheds. The occurrence, ecological thresholds, and ecological risks of CBs were systematically investigated in the urbanized Licun River and the predominantly agricultural Wulong River. Species sensitivity distributions (SSDs) were established for 12 representative CBs using a comprehensive toxicity database, while acute toxicity data were converted to chronic endpoints through acute-to-chronic ratios (ACRs), thereby extending the toxicity dataset in a manner analogous to completing missing pieces of a puzzle for more robust ecological threshold derivation. A total of 22 CBs were detected in surface waters, whereas 20 CBs were identified in groundwater. The Licun River exhibited substantially higher contamination levels than the Wulong River, with aldicarb reaching a maximum concentration of 350.26 ng L-1, while dioxacarb predominated in the agricultural watershed (mean 12.98 ng L-1), revealing distinct contamination fingerprints driven by divergent land-use patterns. Furthermore, 12 HC₅ and PNEC values were successfully derived. Deterministic risk quotients identified aldicarb, carbaryl, and propoxur as highest-risk, with chronic RQ > 1.0 for aldicarb at three urban Licun River sites; probabilistic joint probability curves showed catchment-scale chronic risk concentrated in a few compounds whose exposure ranges overlap the steep part of their sensitivity distributions. This study derives robust water quality thresholds for representative CBs and offers an integrated framework for watershed-specific pesticide management.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究城市与农业流域河流及浅层地下水中22种氨基甲酸酯杀虫剂，用SSD与ACR推导阈值，发现城市流域污染更重且涕灭威慢性风险最高。",
+    "conclusion": "城市李村河污染水平显著高于农业五龙河，两者污染谱不同；基于物种敏感度分布与急性慢性比推导出12种氨基甲酸酯的水质阈值，确定性商与概率曲线均显示涕灭威、甲萘威和残杀威风险最高，城市站点涕灭威慢性风险商超1，风险集中于少数暴露范围与敏感度曲线陡峭段重叠的化合物。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43063581",
     "title": "AdaFGNN: An adaptive filtering graph neural network for protein-protein interaction site prediction",
     "type": "paper",
@@ -1100,6 +1126,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43066363",
+    "title": "Nano-enabled neem biopesticides as next-generation agro-inputs for sustainable plant protection",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "PeerJ",
+    "authors": "Muteeb G.",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-23",
+    "url": "https://europepmc.org/article/MED/43066363",
+    "doi": "10.7717/peerj.21858",
+    "pmid": "43066363",
+    "abstract": "Owing to their inherent toxic manifestations, environmental pollution, and resistance development in pests, conventional pesticides have saturated the farming industry, encouraging researchers to look into alternative options. In this regard, Neem (Azadirachta indica)-based biopesticides offers broad-spectrum pest control with beneficial ecotoxicity profiles. Nevertheless, their commercial scalability has been impeded by the instability of their constituents, including rapid photo-degradation, negligible water solubility, and brief field persistence. Thus, nanotechnology presents an impeccable answer to overcome the disadvantages of these biological pesticides. This review critically evaluates neem-based nano-formulations as next-generation pesticides that address these constraints through rational nanocarrier engineering. The state-of-the-art advancements in polymeric, lipid-based, inorganic, and hybrid nanocarriers are systematically examined. This investigation emphasizes the role of carrier chemistry, interfacial architecture, and matrix networking in regulating encapsulation efficiency, release kinetics, photostability, and biological efficacy. Mechanistic insights reveal that nano-encapsulation enhances bioavailability, prolongs residual activity, improves foliar retention, and preserves synergistic interactions, thereby reducing the need for repeated applications and lowering resistance pressure. Altogether, nano-enabled neem formulations exemplify the practical application of nanotechnology in transforming traditional botanical insecticides into precise, environmentally controlled crop protection measures for sustainable and climate-resilient agriculture.",
+    "species_latin": "Azadirachta indica",
+    "species_en": "Neem",
+    "species_zh": "印楝",
+    "takeaway": "综述指出纳米载体包封可提升印楝生物农药的光稳定性、水溶性与田间持效性。",
+    "conclusion": "纳米载体工程能改善印楝活性成分易光解、水溶性差和持效短的缺陷，通过调控包封率、释放动力学与叶面滞留增强生物利用度并延缓抗性，使传统植物源杀虫剂转向精准、环境可控的作物保护手段。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -1910,6 +1962,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43067280",
+    "title": "Recent advances in nanotechnology for enhanced pesticide deposition and precision regulation on target leaf surfaces: tailoring and functionalization",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Advances in colloid and interface science",
+    "authors": "Ding C, Liu L, Huang G, Li J, Cao L, Huang Q.",
+    "publish_date": "2026-11-14",
+    "added_at": "2026-11-23",
+    "url": "https://europepmc.org/article/MED/43067280",
+    "doi": "10.1016/j.cis.2026.104095",
+    "pmid": "43067280",
+    "abstract": "Agrochemicals remain the cornerstone of crop yield security to meet the burgeoning food demands of a growing global population. The physicochemical mismatch at the pesticide-leaf interface leads to a low deposition and retention amount, rendering the delivered dose insufficient to meet pest management demands, severely compromising the utilization efficiency of these agrochemicals. Crop leaves are the core organs ensuring yield and the shared interface for pest infestation and pesticide deposition, having evolved complex biological defense mechanisms (ranging from waxy cuticles to microscopic morphology), which protect against pest invasions but simultaneously pose formidable barriers to aqueous formulations. This interfacial incompatibility precipitates significant active ingredient loss and environmental burdens via droplet rebound and splash. Here, we review the paradigm shift from \"passive wetting\" to \"active interfacial regulation\" enabled by nanotechnology. We elucidate how precise \"lock-and-key\" matching with leaf surface heterogeneity is achieved by tailoring the morphology, surface energy, and functionalization of nanocarriers. By leveraging mechanisms such as mechanical interlocking, biomimetic adhesion, and size mechanism, nanotechnology significantly potentiates on-target deposition and retention. Furthermore, we delineate the trans-interfacial transport pathways of nano-formulations and critically evaluate the dual mandate of maximizing agronomic bio-efficacy while mitigating ecological risks. This review presents a comprehensive framework for the rational design of next-generation green pesticide formulations, establishing a robust foundation for sustainable disease management strategies.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述纳米技术通过调控形貌、表面能与功能化实现与叶面异质性的精准匹配，提升农药沉积与滞留。",
+    "conclusion": "纳米载体经机械互锁、仿生黏附与尺寸效应等机制，实现从被动润湿到主动界面调控的转变，显著提高靶向沉积与滞留，并兼顾生物效能与生态风险，为下一代绿色农药制剂设计提供框架。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43063850",
     "title": "Concentration-dependent shift from antagonism to additivity of chromium and banned organochlorine pesticide in vitro mixture cytotoxicity in Indo-Pacific humpback dolphins",
     "type": "paper",
@@ -2455,7 +2533,7 @@
     "added_at": "2026-11-15",
     "url": "https://doi.org/10.3897/imafungus.17.205844",
     "doi": "10.3897/imafungus.17.205844",
-    "pmid": "",
+    "pmid": "43065679",
     "abstract": "Butyriboletus roseoflavus is an edible ectomycorrhizal bolete that is currently only available from wild collection. To investigate genomic features associated with the ectomycorrhizal nutritional mode, we generated gap-free, haplotype-resolved telomere-to-telomere (T2T) genome assemblies of B. roseoflavus specimen HN25B01 using PacBio HiFi sequencing. The two haplotype assemblies, Hap1 and Hap2, were 31.49 Mb and 32.26 Mb in length, respectively. Phylogenomic analysis placed B. roseoflavus close to Butyriboletus appendiculatus and Butyriboletus subappendiculatus , with their common ancestor estimated to have existed approximately 67 million years ago. Using Hap1 as the representative genome, we compared carbohydrate-active enzymes (CAZymes), secreted proteases, small secreted proteins (SSPs), and secondary metabolite biosynthetic gene clusters across fungi representing ectomycorrhizal, dual symbiotrophic/saprotrophic, and saprotrophic nutritional modes. Seven of the 15 functional categories (CE, GH, PL, AP, GP, SP, and T1PKS) showed significant differences in copy numbers among nutritional modes (Kruskal–Wallis test, p < 0.05). Saprotrophic fungi generally exhibited higher CE, GH, PL, SP, and T1PKS copy numbers, whereas ectomycorrhizal fungi generally exhibited higher AP and GP copy numbers. The B. roseoflavus Hap1 genome contained nine CE, 100 GH, two PL, and 21 SP genes, as well as 108 genes encoding SSPs. Metagenomic analysis revealed differences in microbial community composition between soil associated with the stipe base (SBS) of B. roseoflavus fruiting bodies and the surrounding soil (SS). Nitrogen-fixing and phosphate-solubilizing taxa, including Bradyrhizobium and Paraburkholderia , were more abundant in the SBS samples than in the SS samples. Together, these findings offer a high-quality genomic resource and confirm genomic adaptations to ectomycorrhizal symbiosis, which may facilitate future investigations into the biology, nutritional ecology, and cultivation of B. roseoflavus .",
     "species_latin": "Butyriboletus roseoflavus",
     "species_en": "Pink-yellow bolete",
@@ -2465,7 +2543,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex",
+    "via": "OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -5346,6 +5424,32 @@
       "新型杀虫剂"
     ],
     "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43066312",
+    "title": "Compatibility and Insecticidal Responses of Bacillus thuringiensis in Tank Mixtures with Spray Adjuvants against Spodoptera frugiperda",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "ACS omega",
+    "authors": "Peterlini E, Machado FP, Polanczyk RA, da Costa Ferreira M.",
+    "publish_date": "2026-11-03",
+    "added_at": "2026-11-23",
+    "url": "https://europepmc.org/article/MED/43066312",
+    "doi": "10.1021/acsomega.6c04777",
+    "pmid": "43066312",
+    "abstract": "The fall armyworm, Spodoptera frugiperda, is a major agricultural pest whose management increasingly relies on Bacillus thuringiensis (Bt)-based bioinsecticides. However, tank-mix applications with adjuvants may alter Bt performance. This study evaluated the in vitro compatibility of Bt (Xentari) combined with five commercial adjuvants (Li-700, Fighter, Wetcit Gold, Protac, and Tween 80) and compared the insecticidal responses of these mixtures in laboratory bioassays. In vitro compatibility was assessed using nutrient agar to determine vegetative growth and sporulation, while pH variation was measured in laboratory spray solutions over time. Insecticidal response was evaluated through bioassays on artificial diet with second-instar S. frugiperda, using two complementary approaches: spore suspensions derived from in vitro assays and laboratory assays with spray solutions applied at 0, 2, 6, and 24 h after preparation. Tween 80 increased vegetative growth, whereas Li-700 reduced vegetative growth but enhanced sporulation. Wetcit Gold and Protac completely inhibited Bt development in vitro. Protac reduced solution pH below 2.5, indicating strongly acidic conditions. Under the laboratory conditions evaluated, microbiological compatibility observed in vitro did not consistently correspond directly to the insecticidal responses obtained in the artificial-diet bioassays. All Bt-containing spray solutions resulted in final mortality above 80%. Within the Wetcit Gold treatment, final mortality at 2 h was lower than at 6 and 24 h, while no significant differences among Bt-containing treatments were detected within individual resting times. These findings indicate that microbiological compatibility assays and laboratory bioassays provide complementary information for interpreting Bt-adjuvant interactions.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "研究Bt与五种助剂桶混的相容性及对草地贪夜蛾杀虫效果，发现体外微生物相容性与室内杀虫响应并不一致。",
+    "conclusion": "Tween 80促进Bt营养生长，Li-700抑制生长但促进产孢，Wetcit Gold和Protac完全抑制Bt发育且Protac使溶液强酸化；但体外相容性不能直接预测杀虫效果，所有含Bt喷雾液最终死亡率均超80%，说明微生物相容性试验与生物测定需互补解读。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -8868,6 +8972,43 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261123-cmedcsp18-diamide-resistance",
+    "title": "CmedCSP18介导稻纵卷叶螟对氯虫苯甲酰胺和四氯虫酰胺的抗性",
+    "type": "wechat",
+    "boards": [
+      "cmed",
+      "insecticide"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-10-22",
+    "added_at": "2026-11-23",
+    "url": "https://m.ebiotrade.com/newsf/2026-10/20261022001146757.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "针对2025年采自湖北荆州、湖南岳阳的稻纵卷叶螟田间种群，研究发现化学感觉蛋白CmedCSP18在抗性种群中组成性过表达；RNAi沉默后幼虫对氯虫苯甲酰胺和四氯虫酰胺的敏感性显著恢复，分子动力学模拟、光谱位移与定点突变证实该蛋白以高亲和力直接结合并隔离双酰胺分子，揭示了一种非靶标位点的生理隔离抗性机制。",
+    "species_latin": "Cnaphalocrocis medinalis",
+    "species_en": "rice leaf folder",
+    "species_zh": "稻纵卷叶螟",
+    "takeaway": "CmedCSP18以“结合—隔离”方式降低双酰胺在靶标处的有效浓度，是稻纵卷叶螟非代谢抗性的新机制与潜在增效剂靶标。",
+    "conclusion": "荆州与岳阳田间种群对氯虫苯甲酰胺的抗性倍数分别达88.4和166.4，对四氯虫酰胺分别为25.4和8.9；CmedCSP18在抗性种群中高表达并在成虫触角与幼虫脂肪体中富集，RNAi沉默显著提升药剂敏感性，MD模拟与光谱位移证实其与两种双酰胺高亲和力直接结合，Leu62、Val66、Val84定点突变消除结合活性，共注射纯化蛋白可降低幼虫死亡率，表明CmedCSP18通过生理隔离（sequestration）而非代谢解毒介导抗性，为靶向CSP的抗性治理与增效剂开发提供了新靶点。",
+    "keywords": [
+      "稻纵卷叶螟",
+      "Cnaphalocrocis medinalis",
+      "CmedCSP18",
+      "化学感觉蛋白",
+      "双酰胺",
+      "氯虫苯甲酰胺",
+      "四氯虫酰胺",
+      "杀虫剂抗性",
+      "生理隔离",
+      "RNAi",
+      "分子动力学模拟",
+      "非靶标位点抗性",
+      "抗药性机制"
+    ]
   },
   {
     "id": "news-20261022-98190502ac",
