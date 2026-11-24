@@ -20796,6 +20796,36 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20260904-eabf8d77fe",
+    "title": "Ameliorative potential of antioxidants against pesticide-induced toxicity: new insights and translational perspectives for human health",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Frontiers",
+    "authors": "",
+    "publish_date": "2026-09-04",
+    "added_at": "2026-11-24",
+    "url": "https://doi.org/10.3389/ftox.2026.1945294",
+    "doi": "10.3389/ftox.2026.1945294",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述探讨抗氧化剂缓解农药毒性及其对人类健康的转化前景",
+    "conclusion": "该文为综述性文章，指出抗氧化剂可能减轻农药暴露引起的毒性损伤，并从转化医学角度讨论其在人类健康防护中的应用潜力，但具体机制与证据需见正文。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Frontiers in Toxicology",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42919535",
     "title": "A new nucleopolyhedrovirus isolated from a laboratory population of Cydia pomonella exhibits excellent biological activity",
     "type": "paper",
