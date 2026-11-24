@@ -1,5 +1,419 @@
 [
   {
+    "id": "news-20261124-c58a1993a2",
+    "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "New Hampshire Union Leader",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZVBSc0NRS3JPd0pkak0yZkZsVmIxbWk3ZW1ZbTdrODNNWk94WEo1YVZzbjZNbGIwYTlDSVRmNFJseFoxMmlhV21Yc3gwcHdFQ2JibklZenRzNDNjWmNINnZ0SHpucWQ0NzVHQW5BR3VHNGRfeS1TdzVEYzhuckl0NzhWUzFoZ05tQzM1TFhtcGRjYVZlZXNuazM2MVBlZzh2QWc2dWRQeE5fdXpwSTZLdHIzM09iQmE0T3R0WWhNM2JUQlFRWllYNXNFZUJvRG9FN0dnWk5yTm5ueVhfVlE?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Cannabis sativa",
+    "species_en": "Cannabis",
+    "species_zh": "大麻",
+    "takeaway": "报道称约47万美元的农药检测设备在合法大麻检测中表现不佳，实验室认为其严重失效",
+    "conclusion": "标题信息显示，一款高价农药检测仪器本应用于合法大麻的农药筛查，但多家实验室反映其检测效果很差；具体技术细节、数据与机制因无摘要无法确认，需查阅原文核实。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261124-8b841c0357",
+    "title": "Researchers report Wolbachia-based (wMel) mosquito intervention reduces arboviral infections in Brazil",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Medical Xpress",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnAzLXpxSzNjdXhTSjdwSUI3akp1VThXck15bjNvcXJsR25QdkN5X0wxZGM1b2NUNGlBVE5CWUZXMHJvc25RZWhRUWxYQUZsbUJ6Q2lXYmdvZW11WkxMTWdlY3dxU3dCdGRHZF80cVdlRE43cVdrTTNoYUVBTUpVZ3lQM2wxU3l6ejB3OERwNA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究报道在巴西采用wMel沃尔巴克氏体蚊媒干预可降低虫媒病毒感染",
+    "conclusion": "基于标题可知，在巴西开展的wMel沃尔巴克氏体蚊媒干预与虫媒病毒感染减少相关，提示该生物防控策略可能有助于降低当地虫媒病毒传播风险；具体机制与效应量因无摘要无法确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261124-538d875af6",
+    "title": "Diversified Organic Greenhouse Systems Cut Crop Losses and Pesticide Reliance Over Monocultures",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZG5YbGo0NmFzcnRhcV9pVU01UVdIbGtRalRxSnJlU1dla2labnpwS281dy1kUjBnVXBjR0g0ZFJoRlN6VEwtM214WGdiVnhRSVYwZWpVaWpTbFRWanpYMFRCaFhHVFJGeGgxSy1yMjdQU21JaGc5dFkwSmh2LWkzY2g4bTk2TWVySHBNYkRxQndpbnhvMkRxVDU1OGVHZjdCenJpWi1xMlp1Q1hFOHpsUjh1NFZMeFpaU3RyUg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "有机温室多样化种植体系相比单作可减少作物损失并降低对农药的依赖",
+    "conclusion": "在温室系统中采用多样化有机种植模式，相较单一作物种植能有效降低作物损失，同时减少对化学农药的依赖，提示种植制度多样化是提升有机温室生产可持续性的可行途径。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261124-19a4e150e1",
+    "title": "102 gene-tech pesticide trials alarm NZ organic exporters",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "B2B News",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE5YOUg4bTBlTVJQZHdzRUNodlBjWGozelQ5VjZ6Y1UzaUZmdFpxa01rUFFWNzRkbXBZUXB0N2tnUnV4NGg5eTVnRlJxTEVKM2o1VnhxYlRVVFdZcDFYTTlRcHpjWDhiRzZJU1M1NGM4bE1qVE5qTmpVTHRuZ21NUzY0aFFUVTc2MlhaQXFn?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "新西兰有机出口商对102项基因技术农药试验表达担忧",
+    "conclusion": "标题显示新西兰有机出口行业对102项基因技术农药试验感到不安，可能影响其有机认证与出口贸易；因无摘要，具体机制与结果无法确定。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261124-0336d617dc",
+    "title": "UK-EU SPS deal raises doubts over Britain’s gene-editing and pesticide freedoms",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "FeedNavigator.com",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVTRSX19xZFE3cEcxR0xvblM5WkprT0wxTkd2TDZlamJyaGZLSmZwa1M3VXJFdkhZWEN4MWp3VUNqcTZYbG5UeGxMMmd1QUhVZGRlVmFnWGhmbGdtLVY0MEJ1ekhSMGIzdktQQTQyTl9oWW9tc1BTRmdDakJtNm1iUFkyWFZ5VC1TYlhmUzcwNF9pT0RfSmZlTnpiX3FCenBud3BtUFdzS19ZcWd3VnZUZ3luT3BiaEhGUDVmZ0s3WmtEUlVC?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "英欧SPS协议令外界质疑英国在基因编辑与农药监管上的自主空间",
+    "conclusion": "标题显示，英欧卫生与植物检疫协议引发担忧：英国此前在基因编辑和农药政策上获得的自主权可能受限，具体影响需依据协议细节判断。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261123-f938121443",
+    "title": "‘Wolbachia’ mosquito: The bug that could change everything",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "YaleNews",
+    "authors": "",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdm1IbUxac3JhMV9nU055TUJ0Um02MEx4M29ETDJ0ZTc5Sy1JWmczWnIySDZoczNnSExRMXhnczI1QmoyWkl0ejlxcFE2c05uMWw2M3JVTWU4MUF0SGRCVVRBdHJIV3FLMzYwOXhPbG9RUE5YaTRWZTA5bFZ6Vmh0VFg1cGdWUQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "标题讨论沃尔巴克氏体蚊媒，暗示其可能带来重大变革，但无摘要无法确认具体发现。",
+    "conclusion": "仅凭标题可知，文章聚焦携带沃尔巴克氏体的蚊子，推测其可能在病媒控制或蚊虫生物学上具有颠覆性影响；因缺摘要，无法给出具体机制或结论。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261123-98f4ea91a9",
+    "title": "BJP MLA in critical condition; Doctors confirm pesticide poisoning, probe underway - INDIA - GENERAL",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Kerala Kaumudi",
+    "authors": "",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenRzSjZNVHpCaUFQRDR1VjdacldmWWFqem5pS3dmZlpxazlhNGpFejZqQk54cjdHZU82SFdLcGxFQXl3Q1hrNzhfN1ZpNnNUTUNYanZrV0RRX3FLVTY3ajB0SkxHMVlsTXUzV2pXZ0J6cFYtaGgtR084VFRjbHJOTGMxZ2JObkxWMUV0T0VtSVBxNHNUMkhlem9lMWNiVklnSlFlVnRzek1qUmJ1cWF3R3YwNUZFLTNoajUwdm0tcUNFMUdjLUN1eU12ejRGTWVV?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印度人民党一名议员病情危重，医生确认其中毒由农药引起，相关调查正在进行。",
+    "conclusion": "标题仅报道该议员因农药中毒病危并已启动调查，未涉及具体机制或科学意义，无法得出研究性结论。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261123-4095b938ae",
+    "title": "China Unveils Five-Year Plan for New-Generation Pesticides",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Global Agriculture",
+    "authors": "",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmkxanpSZ2gxaktfc1FlUDFoRmxBNzZjbUhOaWtsYWZ3QUpwOFpJSHhkZVhsNXR2U0Zjd3A5aXJxMGt2OEczaENnVlpyUEFaVVBYUzgtZ3B5X0Q3VmlxcVlvTmxMdDgtUFc5Q2I0aUlVRlZWSVhCbEg0S3RHY0t5bzl2bjM2WDNyb2NHbkNiZ1VYX3Z6b1F2c1huSTdEWlFtd1ZqcEdiMUFlajRQOGpr?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "中国发布新一代农药五年规划，聚焦农药研发升级与农业绿色发展",
+    "conclusion": "该规划旨在推动新一代农药的研发与应用，提升农药产业技术水平，服务农业绿色可持续发展；因仅有标题，具体机制与量化目标未涉及。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43070934",
+    "title": "Instance-Wise Contrastive Graph Neural Network Enables the Discovery of Novel Aedes aegypti Larvicidal Compounds",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Journal of chemical information and modeling",
+    "authors": "Lúcio da Costa KS, Caldeira GHG, Costa VAF, Silva AS, Pereira CDS, Batista BC, Manchein LB, Martin HJ, Rafique J, Braga RC, Muratov E, Saba S, Oliveira GAR, Luz C, Rodrigues J, Neves BJ.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://europepmc.org/article/MED/43070934",
+    "doi": "10.1021/acs.jcim.6c02558",
+    "pmid": "43070934",
+    "abstract": "Aedes aegypti remains a major arboviral vector, making larval control a critical strategy to reduce mosquito populations. However, resistance to commercial larvicides has reduced the long-term effectiveness of current interventions, reinforcing the need for new compounds with improved potency and selectivity. Here, we present an instance-wise contrastive graph neural network (GNN) framework to accelerate the discovery of novel larvicidal compounds. The model was trained on a curated data set of 556 organic compounds organized into LC50-derived multitask classification thresholds and integrated Transformer-inspired graph learning with whole-molecule and fragment-level contrastive regularization. This model achieved strong held-out performance, with global AUC = 0.95 ± 0.01, PR-AUC = 0.93 ± 0.01, MCC = 0.77 ± 0.03, and G-mean = 0.88 ± 0.02, outperforming conventional machine learning and graph-based baselines. Predictive uncertainty analysis and counterfactual maps further supported the interpretation of threshold-sensitive predictions and substructural contribution patterns. The model was applied to screen 1.3 million compounds, resulting in 10 candidates for experimental validation. Three compounds showed measurable larvicidal activity against A. aegypti larvae. Among them, LC-79 emerged as the most promising hit, with 2-day and 5-day LC50 values of 0.24 μg/mL (0.66 μM) and 0.05 μg/mL (0.13 μM), respectively, an IE50 of 0.06 μg/mL (0.16 μM), and rapid larval mortality (LT50 = 1.10 days at 1 μg/mL). LC-79 also showed no measurable acute toxicity to Daphnia magna at the highest tested concentration [EC50-48h > 43 μg/mL (> 119 μM)], resulting in selectivity indices > 180 and > 860 relative to its 2-day and 5-day LC50 values. Overall, this study demonstrates that contrastive graph learning can move beyond retrospective larvicide modeling to experimentally validated hit discovery, identifying LC-79 as a potent and preliminarily selective acylthiourea larvicide candidate for further mechanism-of-action, resistance, and semifield evaluation.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "Yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "用实例级对比图神经网络从130万化合物中筛出埃及伊蚊杀幼虫候选LC-79，活性高且对大型溞毒性低。",
+    "conclusion": "该对比图学习框架在556个化合物上训练后表现优异（AUC=0.95），并成功从130万化合物中筛出10个候选、3个具实测活性；其中LC-79为酰基硫脲类，2天和5天LC50分别达0.24和0.05 μg/mL，致死快，对大型溞EC50>43 μg/mL，选择性指数>180，表明对比图学习可实现经实验验证的杀幼虫先导发现。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43071775",
+    "title": "AlphaFold models of host-pathogen interactions elucidate the prevalence and structural modes of molecular mimicry",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "PLoS computational biology",
+    "authors": "Baptista D, Gomez-Lucas L, Jänes J, Krogan NJ, Amorim MJ, Ivarsson Y, Beltrao P.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://europepmc.org/article/MED/43071775",
+    "doi": "10.1371/journal.pcbi.1014932",
+    "pmid": "43071775",
+    "abstract": "Pathogens exploit host cellular machinery through protein-protein interactions (PPIs), often using molecular mimicry to hijack host cellular processes. While there have been thousands of host-pathogen PPIs determined to date, the lack of structural information for these impedes the study of the prevalence of molecular mimicry and convergent evolution of protein interaction interfaces. To address this, we benchmarked AlphaFold2 and 3 for prediction of structures of host-pathogen interactions observing that accurate models can be retrieved when ranking by modelling confidence, despite an overall low performance. We predicted structures for 6,782 pathogen-human PPIs yielding 803 models of higher confidence. Most pathogen proteins interacting with a common human protein are predicted to do so via the same interface, suggesting a high degree of convergent evolution of protein interaction interfaces. When comparing structural models from host-pathogen and host-host interactions, we observe that a majority of pathogen proteins are predicted to target existing human PPI interfaces. We categorized instances of mimicry into different modes, occurring at different frequencies: 1) via the same domain family (least common); 2) via a similar structural motif; and 3) via a similar linear peptide (most common). We selected examples of linear peptide interactions for binding assay testing, confirming 8 out of 12 predicted interfaces, including 3 viral linear peptide interactions. This validates AlphaFold's ability to model some host-pathogen interactions and the mechanisms underlying molecular mimicry. This work showcases the value of large-scale structural modelling to study convergent evolution of host-pathogen interactions and how molecular mimicry may contribute to infection or host defense.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用AlphaFold预测6,782个病原-人蛋白互作结构，发现分子模拟多借线性肽靶向人互作界面。",
+    "conclusion": "AlphaFold2/3按置信度排序可获部分准确互作模型；多数病原蛋白以相同界面结合同一人蛋白，显示界面趋同演化，且多靶向现有人互作界面。模拟分三类：同结构域家族最少、相似结构基序次之、相似线性肽最多；12例线性肽结合实验验证8例，支持大规模结构建模研究趋同演化与感染机制。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43070974",
+    "title": "PertiNet: Interaction-Aware Multimodal Modeling of Protein-Protein Interactions",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of chemical information and modeling",
+    "authors": "Zhang J, Zhang Z, Cui F, Zhang Q, Yan S.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://europepmc.org/article/MED/43070974",
+    "doi": "10.1021/acs.jcim.6c03062",
+    "pmid": "43070974",
+    "abstract": "Protein-protein interaction (PPI) prediction requires models that combine sequence, structure and functional evidence for proteins excluded from training. We developed PertiNet, which represents these inputs as separate modality tokens, models their interactions and assigns each token a protein-pair-specific weight. On the fixed protein-disjoint Bernett benchmark, PertiNet using sequence and structure achieved AUROC, AUPRC, balanced accuracy and MCC values of 0.71, 0.72, 0.66 and 0.33, respectively. Adding Gene Ontology (GO) annotations increased these values to 0.72, 0.73, 0.67 and 0.35, compared with published TUnA values of 0.70, 0.69, 0.65, and 0.30. Within-study Bernett controls showed that complete fusion improved on concat-MLP with identical sequence and structural inputs, using either the original sequence representation or ESM-2. Matched RBP400 ablations examined the contributions of modalities and fusion components, and Dset_186_72_PDB164 provided a complementary evaluation of residue-level interface localization. These results support integrating structural and functional context with sequence representations through interactions among modality tokens.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "PertiNet用多模态令牌交互建模蛋白互作，整合序列、结构与GO注释，在蛋白不重叠基准上优于TUnA。",
+    "conclusion": "将序列、结构与功能注释分别编码为模态令牌并建模其相互作用、赋予蛋白对特异权重，可提升对训练外蛋白的PPI预测；完整融合优于简单拼接，结构信息与GO注释均有增益，支持多模态交互式整合策略。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43070972",
+    "title": "FamGeo-DDG: A Mutation-Centered Local Geometric-Semantic Framework for Protein-Protein ΔΔG Prediction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of chemical information and modeling",
+    "authors": "Ge W, Zhang L, Yu Q, Shuai J, Zhao Q.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://europepmc.org/article/MED/43070972",
+    "doi": "10.1021/acs.jcim.6c02288",
+    "pmid": "43070972",
+    "abstract": "Protein-protein interactions (PPIs) are central to cellular regulation, immune recognition, and therapeutic design, making accurate prediction of mutation-induced binding free energy changes (ΔΔG) important for variant interpretation and protein engineering. However, ΔΔG prediction remains challenging because mutational effects are often localized, while benchmark performance may be inflated by residual similarity between training and validation complexes. Here, we present FamGeo-DDG, a mutation-centered local geometric-semantic framework for protein-protein ΔΔG prediction. FamGeo-DDG constructs a local residue graph around the mutation site or the union of local neighborhoods surrounding multiple mutation sites and integrates residue substitution information, DSSP-derived structural descriptors, and ESM-2-derived contextual difference features (ΔESM). A local geometric encoder and mutation-centered readout capture structural context and mutation-induced perturbations. For evaluation, we adopt three complementary 5-fold partitioning protocols, the family split, which groups complexes by complex-signature similarity, the MpbPPI split, which directly reuses the partitions provided by MpbPPI, and the structure split, which uses ECOD-guided grouping based on available structural annotations. Under matched 5-fold partitions, we compare FamGeo-DDG with 13 recent and classical baselines, including TopNetTree, GeoPPI, 3D-ΔΔG, DSSA-PPI, MutPPI+, IGMI, Prot-ΔΔG, and Pythia-PPI, and report mean ± standard deviation across folds. On the family split, FamGeo-DDG achieves PCC values of 0.5471 ± 0.1212, 0.4956 ± 0.1299, 0.5486 ± 0.1830, and 0.5168 ± 0.0792 on S645, M1101, S1131, and S4169, respectively. Across multiple data sets and partition protocols, FamGeo-DDG achieves consistent predictive performance, demonstrating the effectiveness of mutation-centered geometric and semantic representations. Ablation analysis and external validation further support the contribution of individual model components and the transferability of FamGeo-DDG across different mutation prediction scenarios.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "FamGeo-DDG以突变位点为中心融合局部几何与ESM-2语义特征预测蛋白-蛋白结合自由能变化，在多数据集上表现稳定。",
+    "conclusion": "该框架围绕突变位点构建局部残基图，整合残基替换、DSSP结构描述与ESM-2上下文差异特征，并经局部几何编码器与突变中心读出捕获结构扰动；在家族划分等多种划分协议下与13个基线比较取得一致性能，消融与外验支持各组件贡献及跨场景可迁移性。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43073189",
+    "title": "Monitoring, Risk Assessment, and Biochemical Mechanism of Resistance to Cyproflanilide, a Novel Meta-Diamide Insecticide, in Spodoptera litura From China",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of applied toxicology : JAT",
+    "authors": "Zhang S, Tang J, Qu C, Wan Y, Wang R.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://europepmc.org/article/MED/43073189",
+    "doi": "10.1002/jat.70522",
+    "pmid": "43073189",
+    "abstract": "Spodoptera litura is one globally notorious polyphagous herbivore which has developed resistance to numerous widely used chemical agents. Cyproflanilide is one new meta-diamide chemical agent with demonstrated efficacy against lepidopteran pests, yet its resistance monitoring and risk of resistance in S. litura remain undetermined. Here, twenty-six continuous generations of cyproflanilide laboratory selections generated one resistant strain and revealed a medium level of resistance risk. Large-scale monitoring of field-evolved resistance from China found that most populations of S. litura displayed high or decreased susceptibility, while the YZ, FZ, and LD populations displayed low-level resistance (RRs = 5.4-, 5.8-, and 5.6-fold, respectively). Using the selected resistant strain (Sel-R with 13.1-fold resistance), we further investigated cross-resistance patterns, resistance inheritance, and biochemical detoxification mechanisms. Cyproflanilide displayed little cross-resistance to all the used pesticides. Genetic analysis, synergism assays, and metabolic enzyme profiling collectively implied that resistance was autosomal, incompletely dominant, and mainly mediated by detoxification of cytochrome P450. The above results offer a general evaluation of cyproflanilide resistance risk and supply a practical foundation for advanced strategies of resistance management.",
+    "species_latin": "Spodoptera litura",
+    "species_en": "tobacco cutworm",
+    "species_zh": "斜纹夜蛾",
+    "takeaway": "经26代室内筛选发现斜纹夜蛾对新型间二酰胺杀虫剂环丙氟虫胺具中等抗性风险，抗性由常染色体不完全显性遗传、主要经细胞色素P450解毒介导。",
+    "conclusion": "斜纹夜蛾对环丙氟虫胺的抗性风险为中等水平，田间多数种群敏感或敏感性下降，仅少数种群呈低水平抗性；抗性遗传为常染色体不完全显性，主要由细胞色素P450解毒代谢增强所致，且与所用其他杀虫剂交互抗性低，为该药抗性治理提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43070313",
+    "title": "Actionable next generation and novel tools for malaria control and elimination",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Critical reviews in microbiology",
+    "authors": "Kojom Foko LP, Sharma A.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-24",
+    "url": "https://europepmc.org/article/MED/43070313",
+    "doi": "10.1080/1040841x.2026.2756959",
+    "pmid": "43070313",
+    "abstract": "The complexity of malaria epidemiology and the declining efficacy of conventional control tools underscore the urgent need for innovative approaches. This review of 20 next-generation and novel interventions, supported by randomized controlled trials where available and complementary observational and implementation evidence, identifies high-impact solutions across malaria control pillars: (1) prevention (RTS,S and R21 vaccines, monoclonal antibodies, and behavior change communication), (2) diagnosis (ultrasensitive rapid diagnostic tests, noninvasive tests, mHealth, and nucleic acid amplification tests), (3) treatment (tafenoquine, high-dose primaquine, biosensor-based glucose-6-phosphate dehydrogenase testing, and triple ACTs), (4) vector control (dual-active long-lasting insecticide treated nets 2.0, spatial repellents, smart textiles, attractive toxic sugar baits, ivermectin, biological larvicides), and (5) surveillance (next-generation sequencing, drones and mobile applications, and digital dashboards). Promising innovations under evaluation include PvSeroTAT serological testing, and triple-artemisinin combination therapies. A critical analysis of each tool is presented to provide a comprehensive view of their evidence base, utility (endemicity level and most prevalent species), associated challenges, and solutions.Clinical Trial Number: not applicable.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述20种疟疾防控新工具，覆盖预防、诊断、治疗、媒介控制与监测五大支柱",
+    "conclusion": "疟疾流行病学复杂且传统工具效力下降，需创新手段。综述评估20种新一代干预措施，涵盖疫苗、单克隆抗体、超敏诊断、新药物方案、双效蚊帐、空间驱避剂、智能纺织品、糖饵、伊维菌素、生物杀幼虫剂及数字监测工具，分析其证据基础、适用流行程度与虫种、挑战及解决方案，为消除疟疾提供可操作路径。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43069535",
+    "title": "Beyond Bioassays: Why are Apiaceae-Derived Mosquitocides yet to Reach Vector Control Programs?",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+    "authors": "Ojo O, Prinsloo G.",
+    "publish_date": "2026-11-22",
+    "added_at": "2026-11-24",
+    "url": "https://europepmc.org/article/MED/43069535",
+    "doi": "10.1177/15303667261508338",
+    "pmid": "43069535",
+    "abstract": "Mosquito-borne diseases remain a major global public health challenge, with their transmission increasingly exacerbated by climate change, urbanization, and the spread of insecticide resistance. Although synthetic insecticides remain central to mosquito control programs, their extensive use has resulted in resistance development, environmental contamination, and adverse effects on nontarget organisms, highlighting the need for safer and more sustainable alternatives. Over the past two decades, medicinal plants of the Apiaceae family have emerged as promising sources of mosquitocidal agents owing to their rich phytochemical diversity and demonstrated larvicidal, ovicidal, adulticidal, and repellent activities against major mosquito vectors, including Aedes, Anopheles, and Culex species. This review examines recent advances (2021-2026) in the mosquitocidal potential of Apiaceae medicinal plants, with particular emphasis on the translational barriers limiting their progression from laboratory discovery to practical vector control applications. Current evidence on phytochemical constituents, biological activities, mechanisms of action, and safety considerations is synthesized alongside critical challenges, including chemical variability, inadequate standardization, essential oil instability, formulation constraints, regulatory hurdles, scalability limitations, and the absence of field-based validation. Emerging strategies to improve formulation stability, quality control, and product development are also discussed. Despite a strong and growing body of laboratory evidence, the translation of Apiaceae-derived mosquitocides into commercially viable vector control products remains limited. Future progress will require multidisciplinary, application-oriented research that integrates formulation science, toxicological assessment, field validation, regulatory readiness, and scalable production systems to bridge the gap between laboratory promise and public health implementation.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述指出伞形科植物杀蚊活性虽在实验室证据充分，但受稳定性、标准化与田间验证等瓶颈制约，尚未进入实际蚊媒控制项目。",
+    "conclusion": "伞形科药用植物对伊蚊、按蚊和库蚊具杀幼虫、杀卵、杀成蚊及驱避活性，但化学变异、标准化不足、精油不稳定、制剂限制、法规障碍、规模化困难及缺乏田间验证阻碍其转化；需整合制剂科学、毒理评估、田间验证与可规模化生产的多学科应用研究。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261122-afec18cf31",
     "title": "Wolbachia Mosquitoes Cut Dengue and Chikungunya Infections About 69% in Randomized Blood-Test Trial",
     "type": "news",
@@ -723,7 +1137,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -1151,7 +1565,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
