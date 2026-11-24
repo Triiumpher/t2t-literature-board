@@ -1,0 +1,139 @@
+[
+  {
+    "id": "manual-20261125-quartet-t2t-toolkit",
+    "title": "《Horticulture Research》刊发园艺学院关于T2T基因组组装与分析工具包quarTeT更新的研究成果",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "安徽农业大学新闻网",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-25",
+    "url": "https://news.ahau.edu.cn/info/1009/144347.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "安徽农业大学岳俊阳团队在Horticulture Research发表论文，系统升级T2T基因组组装与分析工具包quarTeT：新增组装前端粒识别、基于序列重叠的缺口连接模式、多候选端粒重复识别，并支持结合转座元件与基因注释开展着丝粒分析，同时兼容多线程运行、压缩文件读取与多种部署方式。该工具已被全球22个国家的150个课题组用于185个物种的T2T组装、泛基因组构建与多物种比较研究。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "升级后的quarTeT覆盖染色体挂载、缺口填补、端粒鉴定与着丝粒分析全流程，运行效率与易用性同步提升，降低了T2T基因组研究的技术门槛。",
+    "conclusion": "quarTeT更新版在四大模块中引入组装前端粒识别、原始长读长重叠连接、多端粒重复识别与注释驱动的着丝粒分析，并支持多线程与压缩输入；工具已应用于185个物种（111种植物、67种动物、6种真菌、1种细菌），原版工具论文Web of Science被引335次，为T2T组装与泛基因组构建提供高效易用的开源工具支撑。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "quarTeT",
+      "基因组组装",
+      "缺口填补",
+      "端粒识别",
+      "着丝粒分析",
+      "染色体挂载",
+      "长读长",
+      "泛基因组",
+      "开源工具"
+    ]
+  },
+  {
+    "id": "manual-20261125-plant-insect-sensing",
+    "title": "昆虫叮咬，植物有“感觉”？陈晓亚和万里研究团队揭示植物感应害虫新机制",
+    "type": "wechat",
+    "boards": [
+      "cmed"
+    ],
+    "source": "中国科学院分子植物科学卓越创新中心",
+    "authors": "",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-25",
+    "url": "http://www.sippe.ac.cn/tpxw/202611/t20261111_8308089.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中科院分子植物卓越中心陈晓亚团队联合万里团队发现，稻绿蝽取食时向植物分泌T2核酸酶NVR1，其降解植物RNA产生具免疫活性的2′,3′-环核苷酸（2′,3′-cNMP）；该信号被水稻甘氨酸富集RNA结合蛋白NIB1捕获后，NIB1在核内形成凝聚体并招募免疫枢纽EDS1启动抗虫防御。同源T2核酸酶也存在于稻纵卷叶螟和绿盲蝽的口器分泌物中，且感知蛋白识别位点在陆生植物中高度保守，表明这是一条广谱的植物虫咬预警通路。",
+    "species_latin": "Nezara viridula",
+    "species_en": "southern green stink bug",
+    "species_zh": "稻绿蝽",
+    "takeaway": "昆虫口器核酸酶留下的2′,3′-cNMP“分子痕迹”可被植物保守蛋白识别并激活抗虫免疫，稻纵卷叶螟等多种昆虫的口器分泌物中均携带同源酶。",
+    "conclusion": "研究阐明NVR1–2′,3′-cNMP–NIB1–EDS1抗虫信号轴：NVR1降解RNA产生环核苷酸，NIB1结合后核内凝聚并招募EDS1启动下游防御；T2家族核酸酶在稻纵卷叶螟、绿盲蝽口器分泌物中同样存在，NIB1识别2′,3′-cNMP的关键位点在陆生植物中保守，外源施用核酸酶降解产物可增强植物抗虫能力，为抗虫基因发掘、抗虫育种与核酸生物农药迭代提供新思路。",
+    "keywords": [
+      "稻纵卷叶螟",
+      "Cnaphalocrocis medinalis",
+      "植物抗虫免疫",
+      "2′,3′-环核苷酸",
+      "T2核酸酶",
+      "NVR1",
+      "NIB1",
+      "EDS1",
+      "口器分泌物",
+      "稻绿蝽",
+      "Nezara viridula",
+      "核酸生物农药"
+    ]
+  },
+  {
+    "id": "manual-20261125-gpt6-protein-design",
+    "title": "OpenAI发布GPT-6蛋白质设计预印本：湿实验命中率10.9%，低于RFdiffusion的19%",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "凤凰网科技",
+    "authors": "",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-25",
+    "url": "https://original.ifeng.com/c/8yKUsH5Hmk1",
+    "doi": "",
+    "pmid": "",
+    "abstract": "OpenAI发布预印本称GPT-6系列仅凭推理与通用编程工具即可设计新的蛋白质三维结构与氨基酸序列，生成环节无需调用专用生物模型；两轮湿实验中，322个小型结合蛋白（mini binder）设计有35个（10.9%）经实验确认与靶点结合，纳米抗体结合环重设计结合率达70%，治疗性抗体片段66%保留结合能力。其湿实验命中率低于RFdiffusion原始论文报告的19%，但在计算基准MotifBench与自然语言可控性方面占优。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "GPT-6展示了通用大模型自主设计结合蛋白的能力，但湿实验命中率仍落后RFdiffusion等专用模型，序列设计与送测筛选环节依旧依赖专用工具。",
+    "conclusion": "GPT-6.2在五个靶点mini binder设计中取得10.9%湿实验命中率（35/322，五靶点均有阳性），序列重设计在纳米抗体（70%）与治疗性抗体片段（66%）上保持较高结合率；MotifBench计算评估中43.7%的设计同时满足结构保真与形状要求（高于RFdiffusion的27.8%），但完整蛋白结构预测与实验全链条能力仍不及专用模型，且预印本未经同行评审。",
+    "keywords": [
+      "GPT-6",
+      "蛋白质设计",
+      "mini binder",
+      "蛋白结合预测",
+      "RFdiffusion",
+      "湿实验验证",
+      "深度学习",
+      "蛋白质语言模型",
+      "抗体设计",
+      "结合命中率",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "manual-20261125-ai-protein-design",
+    "title": "AI新模型，开始自主进行蛋白质从头设计，人类是否会出局？",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "澎湃新闻（生物世界）",
+    "authors": "",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-25",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34546911",
+    "doi": "",
+    "pmid": "",
+    "abstract": "文章梳理AI蛋白质从头设计的多条产业路径：赛诺菲以基础模型、性质预测与虚拟筛选、从头设计三个方向结合“实验室闭环”开发多特异性药物，Biolojic Design用专用模型开发可结合多个靶点的“多体抗体”，A-Alpha Bio凭借AlphaSeq酵母展示单次生成约百万个定量蛋白互作数据并建立三级设计基准。Anthropic报告Claude自主设计的mini binder在15个靶点中14个成功，1320个设计总体结合率为27%。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "AI蛋白设计正从概念验证走向自主闭环，高质量、大规模的蛋白互作实验数据与统一基准成为决定模型能力的关键。",
+    "conclusion": "多类AI平台已实现结合蛋白与多特异性抗体的从头设计：Claude基于RFdiffusion3、ProteinMPNN等开源工具在24–48小时自主流程中取得27%结合率（354/1320），AlphaSeq library-on-library可规模化测量互作亲和力与脱靶效应；行业仍受限于高质量训练数据不足，微型结合蛋白距成药还需更大模型与更多数据支撑。",
+    "keywords": [
+      "蛋白质从头设计",
+      "AI蛋白设计",
+      "mini binder",
+      "蛋白互作数据",
+      "AlphaSeq",
+      "多特异性抗体",
+      "Claude",
+      "深度学习",
+      "结合亲和力",
+      "实验室闭环",
+      "抗体设计"
+    ]
+  }
+]
