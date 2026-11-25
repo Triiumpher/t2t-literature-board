@@ -1,5 +1,330 @@
 [
   {
+    "id": "manual-20261125-gpt6-protein-design",
+    "title": "OpenAI发布GPT-6蛋白质设计预印本：湿实验命中率10.9%，低于RFdiffusion的19%",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "凤凰网科技",
+    "authors": "",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-25",
+    "url": "https://original.ifeng.com/c/8yKUsH5Hmk1",
+    "doi": "",
+    "pmid": "",
+    "abstract": "OpenAI发布预印本称GPT-6系列仅凭推理与通用编程工具即可设计新的蛋白质三维结构与氨基酸序列，生成环节无需调用专用生物模型；两轮湿实验中，322个小型结合蛋白（mini binder）设计有35个（10.9%）经实验确认与靶点结合，纳米抗体结合环重设计结合率达70%，治疗性抗体片段66%保留结合能力。其湿实验命中率低于RFdiffusion原始论文报告的19%，但在计算基准MotifBench与自然语言可控性方面占优。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "GPT-6展示了通用大模型自主设计结合蛋白的能力，但湿实验命中率仍落后RFdiffusion等专用模型，序列设计与送测筛选环节依旧依赖专用工具。",
+    "conclusion": "GPT-6.2在五个靶点mini binder设计中取得10.9%湿实验命中率（35/322，五靶点均有阳性），序列重设计在纳米抗体（70%）与治疗性抗体片段（66%）上保持较高结合率；MotifBench计算评估中43.7%的设计同时满足结构保真与形状要求（高于RFdiffusion的27.8%），但完整蛋白结构预测与实验全链条能力仍不及专用模型，且预印本未经同行评审。",
+    "keywords": [
+      "GPT-6",
+      "蛋白质设计",
+      "mini binder",
+      "蛋白结合预测",
+      "RFdiffusion",
+      "湿实验验证",
+      "深度学习",
+      "蛋白质语言模型",
+      "抗体设计",
+      "结合命中率",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "manual-20261125-ai-protein-design",
+    "title": "AI新模型，开始自主进行蛋白质从头设计，人类是否会出局？",
+    "type": "wechat",
+    "boards": [
+      "ppi"
+    ],
+    "source": "澎湃新闻（生物世界）",
+    "authors": "",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-25",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34546911",
+    "doi": "",
+    "pmid": "",
+    "abstract": "文章梳理AI蛋白质从头设计的多条产业路径：赛诺菲以基础模型、性质预测与虚拟筛选、从头设计三个方向结合“实验室闭环”开发多特异性药物，Biolojic Design用专用模型开发可结合多个靶点的“多体抗体”，A-Alpha Bio凭借AlphaSeq酵母展示单次生成约百万个定量蛋白互作数据并建立三级设计基准。Anthropic报告Claude自主设计的mini binder在15个靶点中14个成功，1320个设计总体结合率为27%。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "AI蛋白设计正从概念验证走向自主闭环，高质量、大规模的蛋白互作实验数据与统一基准成为决定模型能力的关键。",
+    "conclusion": "多类AI平台已实现结合蛋白与多特异性抗体的从头设计：Claude基于RFdiffusion3、ProteinMPNN等开源工具在24–48小时自主流程中取得27%结合率（354/1320），AlphaSeq library-on-library可规模化测量互作亲和力与脱靶效应；行业仍受限于高质量训练数据不足，微型结合蛋白距成药还需更大模型与更多数据支撑。",
+    "keywords": [
+      "蛋白质从头设计",
+      "AI蛋白设计",
+      "mini binder",
+      "蛋白互作数据",
+      "AlphaSeq",
+      "多特异性抗体",
+      "Claude",
+      "深度学习",
+      "结合亲和力",
+      "实验室闭环",
+      "抗体设计"
+    ]
+  },
+  {
+    "id": "news-20261125-d028626de5",
+    "title": "Altered Orchard Pesticide Regimens Shift Predatory Mite Dominance Away from Biocontrol Agents",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjJlVmtxVDI0YW1pdTRVU19hLVV1QmkySURydlBndWlPenBZWG43czlxUnNDMVRtS0FaNGJNOWM4WEpNcWcxUkVuZG0zOENVSFVDdW50bmpuRWpKS2hnUWZ1d2JFbjVZZ0U2WHpTUUM0MVRYQ182U2hkTDNzVnR0T3A3RlE5X1JzLVB0U0g2eHhfMWRNY0ZmSlFOUUlvcWUzdEI5dEhnZXJUZzFPTXIzeE0tZTJlbjkwQmc?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "predatory mites",
+    "species_zh": "捕食螨",
+    "takeaway": "果园农药方案改变使捕食螨优势种从生防种类转向非生防种类",
+    "conclusion": "标题提示，果园中调整后的农药施用方案会改变捕食螨群落中的优势地位，使原本作为生物防治天敌的捕食螨不再占优，可能削弱果园自然生物防治功能；具体机制与物种需原文数据支持。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261125-8c8e8dc173",
+    "title": "Wolbachia mosquitoes cut dengue infections by 68.5% in Brazil study",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "SSBCrack",
+    "authors": "",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVdqRnBiaC1VdjlTOHRxd3V3bHpielNPeFpLMFVRZ0Vrb3lLMXVMUzhtcGFVLVM1UkFaNnVaUTBnQ1RkNFltR25ndVllVUVYbkxPRmFfVGtmaV9KV213YlJtb3A0aUtkMFkxUTdHWkhYVjFDZkxSOGNUV2RFeUotX1F4N1A2dUJoWlJsYkZzbENSRjBZVTM2VA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴西研究显示，携带沃尔巴克氏体的蚊子使登革热感染下降68.5%",
+    "conclusion": "在巴西开展的实地研究显示，释放携带沃尔巴克氏体（Wolbachia）的蚊子可使登革热感染率下降68.5%，表明利用蚊虫共生菌进行生物防控可有效抑制登革热传播，具有公共卫生应用价值。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261125-2f7ac1c207",
+    "title": "Major Success Sees Viral Infections Fall 68% in Brazil After Releasing Wolbachia-Infected Mosquitoes",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Good News Network",
+    "authors": "",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHJiVTMwcHdFM28xY3JVSGFSenY1QUJVbVRQcXl5b3k0Tlk1ZThyT0dXdzBhWmdnYkx2YmpjbW9uYzJxSkRCc1VRd2prMGZ0LTdzcVBob2kwM3N5U3AxVmlxZUM1TThHMUUxZGdzUU1FdmVfcTNLNjlFUVBDYmpNSjhqZTJKVGg4dEZvZWZHNG5qMDV6LUQ2ZF9UUENQd2tBTjhVNWRTMElMSlRYVDg2ODVxdm5LVG9iOHI1d0JoT0NOREVfRkhjeTFfaVQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴西释放携带沃尔巴克氏体的蚊子后，病毒感染病例下降68%。",
+    "conclusion": "通过释放携带沃尔巴克氏体的蚊子进行生物防控，可显著降低巴西的病毒感染发生率，提示该策略在蚊媒疾病防控中具有应用潜力。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261125-quartet-t2t-toolkit",
+    "title": "《Horticulture Research》刊发园艺学院关于T2T基因组组装与分析工具包quarTeT更新的研究成果",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "安徽农业大学新闻网",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-25",
+    "url": "https://news.ahau.edu.cn/info/1009/144347.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "安徽农业大学岳俊阳团队在Horticulture Research发表论文，系统升级T2T基因组组装与分析工具包quarTeT：新增组装前端粒识别、基于序列重叠的缺口连接模式、多候选端粒重复识别，并支持结合转座元件与基因注释开展着丝粒分析，同时兼容多线程运行、压缩文件读取与多种部署方式。该工具已被全球22个国家的150个课题组用于185个物种的T2T组装、泛基因组构建与多物种比较研究。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "升级后的quarTeT覆盖染色体挂载、缺口填补、端粒鉴定与着丝粒分析全流程，运行效率与易用性同步提升，降低了T2T基因组研究的技术门槛。",
+    "conclusion": "quarTeT更新版在四大模块中引入组装前端粒识别、原始长读长重叠连接、多端粒重复识别与注释驱动的着丝粒分析，并支持多线程与压缩输入；工具已应用于185个物种（111种植物、67种动物、6种真菌、1种细菌），原版工具论文Web of Science被引335次，为T2T组装与泛基因组构建提供高效易用的开源工具支撑。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "quarTeT",
+      "基因组组装",
+      "缺口填补",
+      "端粒识别",
+      "着丝粒分析",
+      "染色体挂载",
+      "长读长",
+      "泛基因组",
+      "开源工具"
+    ]
+  },
+  {
+    "id": "news-20261124-ed8a0a8415",
+    "title": "Costco strawberries from New Zealand fail pesticide tests in Taiwan-News-Radio Taiwan International",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Rti 中央廣播電臺",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xNDZGSWpoRmVKNzBXM2hRY0ZBbHRXcWFzZG5Yc1RJblZpUC12QXdGV2hlckcwWC1USEdsUFFXUzREM0xNWWRaQjJPZ0F5Rmo3T09aY2FRYTdOZmst?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Fragaria × ananassa",
+    "species_en": "Strawberry",
+    "species_zh": "草莓",
+    "takeaway": "台湾检测发现新西兰输台Costco草莓农药残留不合格",
+    "conclusion": "依据标题可知，台湾对新西兰进口、在Costco销售的草莓进行农药残留检测，结果未通过，提示该批次进口草莓存在农药残留超标风险，需关注进口水果的食品安全监管。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261124-dcb9a94615",
+    "title": "Taiwan finds excessive pesticide residues in New Zealand strawberries",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Taiwan News",
+    "authors": "",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GUm1hY21XZmxyVTkwTWxBQ1hFQ3p1R1pZVUpiUWdDaWtWWk5IaDRPYVJiTUlpSWx1ejBhc0tTMzlRYlpzaHhoc3JNUDVuRzAtWUZGelVzVkM?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Fragaria × ananassa",
+    "species_en": "Strawberry",
+    "species_zh": "草莓",
+    "takeaway": "台湾在新西兰进口草莓中检出农药残留超标",
+    "conclusion": "台湾方面对新西兰进口草莓的检测发现农药残留量超过标准限值，提示进口水果存在食品安全风险，需加强边境检验监管。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43074699",
+    "title": "Fisetin attenuates alpha-cypermethrin-induced cerebellar neurotoxicity in male rats through immunohistochemical, ultrastructural, and biochemical study",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Ultrastructural pathology",
+    "authors": "Aboelsoud HA.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/43074699",
+    "doi": "10.1080/01913123.2026.2762754",
+    "pmid": "43074699",
+    "abstract": "Alpha-cypermethrin (α-cyp) is a synthetic pyrethroid widely used to control plant pests, but it has serious side effects on human health, especially the nervous system. Fisetin, a natural flavonoid, has potent neuroprotective effects through its antioxidant, anti-inflammatory, and anti-apoptotic activities. Our study aimed to investigate the possible protective role of fisetin against α-cyp-induced cerebellar toxicity. We randomly assigned 50 adult male Wistar rats to five equal groups and treated them for 4 weeks. The α‑cyp group received 25 mg/kg body weight per day. The α‑cyp + fisetin group received 50 mg/kg body weight per day of fisetin, administered 1 hour before α‑cyp. We evaluated the cerebellar architecture using hematoxylin and eosin and toluidine‑blue staining. We used Holmes' silver staining to visualize cytoplasmic organelles. We assessed BAX protein immunoreactivity and ultrastructure. We measured oxidative stress markers, including malondialdehyde (MDA), superoxide dismutase (SOD), glutathione peroxidase 4 (GPX4), total antioxidant capacity (TAC), and pro-inflammatory mediators and genes, including tumor necrosis factor-alpha (TNF-α), interleukin-1 beta (IL1β), inducible nitric oxide synthase (NOS2), and nuclear factor kappa B (NF-ΚB1). The results indicated that α-cyp exposure induced marked morphological and ultrastructural alterations in the cerebellum, significant oxidative stress, elevated inflammatory cytokine levels, and upregulated apoptotic markers. Conversely, fisetin partially restored all these changes. These findings highlight fisetin as a promising neuroprotective agent against pesticide-induced cerebellar toxicity.",
+    "species_latin": "Rattus norvegicus",
+    "species_en": "Wistar rat",
+    "species_zh": "Wistar大鼠",
+    "takeaway": "非瑟酮可部分逆转α-氯氰菊酯所致大鼠小脑氧化应激、炎症与凋亡损伤",
+    "conclusion": "α-氯氰菊酯暴露引起大鼠小脑组织形态与超微结构损伤、氧化应激增强、炎症因子升高及凋亡标志物上调；预先给予非瑟酮可部分恢复上述改变，提示其通过抗氧化、抗炎和抗凋亡发挥神经保护作用。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43074692",
+    "title": "Maternal pesticide exposure during pregnancy and acute leukemia in Mexicans under 20 years: introducing a novel environmental index",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of environmental health research",
+    "authors": "Mérida-Ortega Á, Ugalde-Resano R, Flores-Lujano J, Núñez-Enríquez JC, López-Carrillo L.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/43074692",
+    "doi": "10.1080/09603123.2026.2766563",
+    "pmid": "43074692",
+    "abstract": "Our objective was to develop a comprehensive environmental maternal pesticide exposure assessment through a novel index to evaluate its association with Acute Leukemia (AL) in Mexicans under 20 years of age. We conducted a case-control study in three states of Mexico, from 2021 to 2024. We included 633 confirmed AL cases and 668 controls. Through direct interviews, we collected information with which we created a novel environmental index of exposure to pesticides in mothers during pregnancy: the way and intensity of pesticide application in their homes and residence proximity to exposure sources. Acute leukemia was 1.69 times more frequent among offspring of mothers who used pesticides during pregnancy, compared to those who did not. We estimated that a one-unit increase in the index was positively associated with AL (OR = 1.20; 95% CI: 1.08, 1.34). The overall results were similar for both leukemia subtypes, acute lymphoid leukemia (ALL) and acute myeloid leukemia (AML), although the associations for AML did not reach p < 0.05. Our results strengthen the existing evidence of a positive association between maternal environmental pesticide exposure during pregnancy and AL in offspring, based on a comprehensive assessment of maternal environmental pesticide exposure using a novel index.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "墨西哥20岁以下人群病例对照研究显示，母亲孕期农药暴露新指数升高与子代急性白血病风险增加相关。",
+    "conclusion": "母亲孕期使用农药者子代急性白血病发生频率约为未使用者的1.69倍，暴露指数每增加1单位，急性白血病风险增加20%，急性淋巴细胞白血病与急性髓系白血病结果方向一致，支持孕期环境农药暴露与子代急性白血病正相关。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43076957",
+    "title": "An Integrated Tick Management (ITM) protocol combining strategic acaricide treatments and pasture management for cattle tick control",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Tropical animal health and production",
+    "authors": "Reck J, Fiori G, Vaz DR, Klafke G, Doyle R, Nava S, Rico I, Feltrin C, de Vargas GK, da Cunha CRV.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/43076957",
+    "doi": "10.1007/s11250-026-05503-x",
+    "pmid": "43076957",
+    "abstract": "The cattle tick Rhipicephalus microplus remains as a challenge for cattle production in tropical and subtropical regions. To date, R. microplus control has relied mainly on chemical acaricides. However, the widespread acaricide resistance has highlighted the need for alternative approaches for sustainable tick control. In this sense, Integrated Tick Management (ITM) is an approach that combines more than one strategy, aiming at long-term control with delayed resistance selection. Here, we evaluated, under field conditions, management practices that combine strategic acaricide treatments with pasture spelling. The approach was based on alternating cattle between infested and presumed tick-free (non-cattle-grazed) paddocks after defined strategic acaricide treatments, thereby allowing a pasture spelling period. Four groups of 20 animals were formed: two managed under ITM conditions, one using only chemical acaricides, and an untreated control group. At the beginning of the spring, the two groups selected for ITM received two successive acaricide treatments. After that, two groups were temporarily moved during summer to presumed tick-free paddocks for 49 days, allowing this time of pasture spelling. One of these paddocks had been previously used for rice cultivation, and the other one for sheep grazing. After this period, cattle returned to the original paddocks. The group treated only with acaricides remained on the same paddock during the entire study period, and received five acaricide treatments during the year. Tick counts were followed for 210 days. Low tick burdens were maintained for prolonged periods in both groups managed under ITM conditions, with overall efficacy values of 93% and 88% during the study period. The group receiving only acaricide treatments showed an overall efficacy of 89%. Additionally, the use of these management practices was followed in three commercial farms for one year. In all three cases, ITM allowed a marked reduction in the number of acaricide treatments per year in comparison with previous years. The present study provides field evidence that integrating strategic chemical treatments with pasture management may be an alternative for tick control in cattle herds in Southern Brazil.",
+    "species_latin": "Rhipicephalus microplus",
+    "species_en": "Cattle tick",
+    "species_zh": "微小扇头蜱",
+    "takeaway": "田间试验表明，将策略性杀螨剂处理与轮牧休牧相结合的蜱综合管理方案，可长期维持低蜱负荷并减少用药次数。",
+    "conclusion": "在牛群中交替使用受染与假定无蜱牧地，并配合策略性杀螨处理，可在210天内维持93%和88%的总体防效，与单纯化学防治相当；三个商业牧场应用一年后杀螨剂使用次数明显下降，说明综合管理是实现可持续蜱控、延缓抗性选择的可行替代方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261124-c58a1993a2",
     "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
     "type": "news",
@@ -145,6 +470,87 @@
     "llm_enhanced": true
   },
   {
+    "id": "news-20261123-2e4c02e971",
+    "title": "Our food exporters have until 29 January to meet Europe’s new pesticide limits",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "EnterpriseAM",
+    "authors": "",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFZMMVZKMmNxS2hmNlFoOEJnYzN2MTVLWlN2UHBvM1pfUkc2OFRLSlpLYS1vUjI4NFpLWjVfbHV1Y2hLc241MkRkYXFORnROdmI5alhmamlyUEZ5akxmcE1CTWNJQlFWZ29nbXdMVk02V1NOS3J5cEUweHR6MmxlNFZTNUh4bG5sd3dsSUlYanRFRlhhM09QMVpIOXZnSl92YXR2eVZEY2t6WVRUdDBrSEw5bjFTTmM?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "欧盟新农药残留限量将于1月29日生效，食品出口方须在此期限前达标。",
+    "conclusion": "标题提示欧盟实施更严格的农药残留限量标准，并设定1月29日为合规截止期，出口方需在此之前调整生产与检测以满足要求，否则可能影响对欧食品贸易。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43073519",
+    "title": "A draft mouse pangenome graph reference",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature genetics",
+    "authors": "Macias-Velasco JF, Garza JE, Zhang W, Wu W, Xu Z, Fu Q, Albracht DA, Tomlinson C, Belter EA, Su H, Vivek N, Kharitonova E, Shen Y, Li Y, Hu M, Li YE, Wang T.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/43073519",
+    "doi": "10.1038/s41588-026-02842-1",
+    "pmid": "43073519",
+    "abstract": "The mouse is a foundational model organism, yet most genomic analyses rely on linear references that fail to capture laboratory-strain genetic diversity. We present three base-level mouse pangenome graphs on the C57BL/6J telomere-to-telomere (mT2T) backbone: a 19-strain draft mouse pangenome; the founder pangenome (FP) of the 8 Collaborative Cross (CC) founders that constitute the CC's enumerable haplotype space; and the CC pangenome, the FP augmented with personalized diploid haplotypes from 40 CC recombinant inbred lines. This personalization recovers per-animal diploid genomes from short-read whole-genome sequencing at 99.2% mean concordance with expected mosaics, with substantial reproducibility in Diversity Outbred animals at very low coverage, providing a cost-effective alternative to per-sample assembly. Alignment to the FP improves both quality and accuracy of read placement compared to GRCm38 or mT2T, reducing reference-allele bias and increasing variant-calling sensitivity. The graphs support haplotype-specific analysis of methylation and allele-specific analysis of expression and chromatin accessibility.",
+    "species_latin": "Mus musculus",
+    "species_en": "House mouse",
+    "species_zh": "小家鼠",
+    "takeaway": "研究构建了基于C57BL/6J的三种小鼠泛基因组图，可低成本还原个体二倍体基因组并提升比对与变异检测。",
+    "conclusion": "以mT2T为骨架构建19品系泛基因组、8个CC奠基者泛基因组及整合40个重组近交系的CC泛基因组，个体化可高一致度还原二倍体基因组，比对质量与变异检测灵敏度优于线性参考，并支持单倍型特异表观分析。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43075072",
+    "title": "Assessment of new information on genetically modified maize MON 89034",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "EFSA journal. European Food Safety Authority",
+    "authors": "EFSA Panel on Genetically Modified Organisms (GMO), Casacuberta J, Barro F, Braeuning A, de Maagd R, Epstein MM, Frenzel T, Gallois JL, Koning F, Messéan A, Moreno FJ, Nogué F, Savoini G, Schulman AH, Tebbe C, Veromann E, Lewandowska A, Papadopoulou N, Raffaello T.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/43075072",
+    "doi": "10.2903/j.efsa.2026.11368",
+    "pmid": "43075072",
+    "abstract": "Genetically modified (GM) maize MON 89034 expresses two insecticidal proteins, Cry1A.105 and Cry2Ab2, to confer protection against certain lepidopteran pests. This event was previously assessed by the GMO Panel as a single event and as part of multiple stacks and was found to be as safe as its conventional counterpart and the tested non-GM reference varieties with respect to potential effects on human health, animal health and the environment. On April 2026, the European Commission requested EFSA to evaluate new N-terminal amino acid sequence information, structural modelling and bioinformatic analysis which revealed that the Cry2Ab2 is expressed in maize MON 89034 in two variants (Cry2Ab2.820 and Cry2Ab2.820.1) differing by one N-terminal amino acid. The sequence difference does not affect the conserved protein core, or the expected mode of action. The updated bioinformatic analyses identified no significant similarities of the newly characterised protein variant to known toxins, allergens or immunogenic gluten-related epitopes. Thus, the EFSA GMO Panel concludes that the new information provided by the applicant on maize MON 89034 does not alter EFSA's previous conclusions. This information will be taken into account in the ongoing assessments of events containing the single maize event MON 89034.",
+    "species_latin": "Zea mays",
+    "species_en": "Maize",
+    "species_zh": "玉米",
+    "takeaway": "新序列分析显示MON 89034玉米中Cry2Ab2存在两种N端差异变体，但不影响安全性评价结论。",
+    "conclusion": "Cry2Ab2在MON 89034玉米中以相差一个N端氨基酸的两种变体表达，该差异不涉及保守蛋白核心或作用方式；生物信息学未发现其与已知毒素、过敏原或免疫原性麸质表位有显著相似性，故EFSA专家组认为新信息不改变此前安全性结论。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261123-f938121443",
     "title": "‘Wolbachia’ mosquito: The bug that could change everything",
     "type": "news",
@@ -280,7 +686,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -358,7 +764,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -384,7 +790,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -2907,6 +3313,41 @@
     "via": "Google News:en",
     "link_kind": "",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261125-plant-insect-sensing",
+    "title": "昆虫叮咬，植物有“感觉”？陈晓亚和万里研究团队揭示植物感应害虫新机制",
+    "type": "wechat",
+    "boards": [
+      "cmed"
+    ],
+    "source": "中国科学院分子植物科学卓越创新中心",
+    "authors": "",
+    "publish_date": "2026-11-12",
+    "added_at": "2026-11-25",
+    "url": "http://www.sippe.ac.cn/tpxw/202611/t20261111_8308089.html",
+    "doi": "",
+    "pmid": "",
+    "abstract": "中科院分子植物卓越中心陈晓亚团队联合万里团队发现，稻绿蝽取食时向植物分泌T2核酸酶NVR1，其降解植物RNA产生具免疫活性的2′,3′-环核苷酸（2′,3′-cNMP）；该信号被水稻甘氨酸富集RNA结合蛋白NIB1捕获后，NIB1在核内形成凝聚体并招募免疫枢纽EDS1启动抗虫防御。同源T2核酸酶也存在于稻纵卷叶螟和绿盲蝽的口器分泌物中，且感知蛋白识别位点在陆生植物中高度保守，表明这是一条广谱的植物虫咬预警通路。",
+    "species_latin": "Nezara viridula",
+    "species_en": "southern green stink bug",
+    "species_zh": "稻绿蝽",
+    "takeaway": "昆虫口器核酸酶留下的2′,3′-cNMP“分子痕迹”可被植物保守蛋白识别并激活抗虫免疫，稻纵卷叶螟等多种昆虫的口器分泌物中均携带同源酶。",
+    "conclusion": "研究阐明NVR1–2′,3′-cNMP–NIB1–EDS1抗虫信号轴：NVR1降解RNA产生环核苷酸，NIB1结合后核内凝聚并招募EDS1启动下游防御；T2家族核酸酶在稻纵卷叶螟、绿盲蝽口器分泌物中同样存在，NIB1识别2′,3′-cNMP的关键位点在陆生植物中保守，外源施用核酸酶降解产物可增强植物抗虫能力，为抗虫基因发掘、抗虫育种与核酸生物农药迭代提供新思路。",
+    "keywords": [
+      "稻纵卷叶螟",
+      "Cnaphalocrocis medinalis",
+      "植物抗虫免疫",
+      "2′,3′-环核苷酸",
+      "T2核酸酶",
+      "NVR1",
+      "NIB1",
+      "EDS1",
+      "口器分泌物",
+      "稻绿蝽",
+      "Nezara viridula",
+      "核酸生物农药"
+    ]
   },
   {
     "id": "pmid-43033708",
@@ -25648,6 +26089,32 @@
     "conclusion": ""
   },
   {
+    "id": "pmid-42568329",
+    "title": "Environmental neonicotinoid exposure and early gonadal development in girls with central precocious puberty",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of pediatric endocrinology & metabolism : JPEM",
+    "authors": "Wang P, Jin X, Yang S, Wang Q.",
+    "publish_date": "2026-08-10",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/42568329",
+    "doi": "10.1515/jpem-2025-0651",
+    "pmid": "42568329",
+    "abstract": "OBJECTIVES: Environmental endocrine disruptors (EDCs), particularly prevalent pesticide residues, are suspected contributors to the increasing incidence of central precocious puberty (CPP). This study explored the associations of urinary neonicotinoid insecticides (NNs) with sex hormones and pelvic ultrasound indicators in girls with CPP. METHODS: Girls were divided into three subgroups: CPP, non-CPP pubertal and prepubertal groups. Urinary levels of nine pesticides were screened via Kruskal-Wallis H test with Dunn's test; only nitenpyram (NIT) with intergroup differences was further analyzed. Stratified correlation and adjusted linear regression assessed links between NIT and sexual development markers, while quartile-based logistic regression examined the dose-response association between NIT and CPP risk. RESULTS: Thiamethoxam (THI), clothianidin (CLO), flupyradifurone (FPF), and sulfoxaflor (SUL) showed a 100 % detection rate, while thiacloprid (THIA) was the least detected (85.8 %). The NIT concentration was significantly higher in the CPP group (p<0.05). Stratified multivariate linear regression adjusted for age and BMI-SDS demonstrated that elevated NIT was independently positively associated with ovarian volume (OV) (B=0.73, 95 % CI: 0.15-1.31, p=0.014, β=0.294) and estradiol (E2) (B=116.64, 95 % CI: 49.58-183.70, p=0.002, β=0.682) only in CPP group, while no significant correlations were detected in non-CPP pubertal or prepubertal groups. Logistic regression revealed a significant ascending dose-response trend between elevated NIT quartiles and CPP risk (p for trend=0.048). CONCLUSIONS: NIT exposure acts as an independent environmental risk factor for CPP in girls, and aggravates sex hormone disturbance and abnormal ovarian development only in children with CPP. Restricting daily children's exposure to NNs is clinically and public health meaningful.",
+    "species_latin": "Homo sapiens",
+    "species_en": "Human",
+    "species_zh": "人",
+    "takeaway": "研究发现尿液中烯啶虫胺水平升高与女童中枢性性早熟风险独立相关，且仅在性早熟组中与卵巢体积和雌二醇升高相关。",
+    "conclusion": "烯啶虫胺暴露是女童中枢性性早熟的独立环境风险因素，仅在已患性早熟的儿童中加重性激素紊乱和卵巢发育异常，提示限制儿童日常新烟碱类农药暴露具有临床与公共卫生意义。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-42579967",
     "title": "In vitro insecticidal and repellent activity of Cymbopogon essential oils and geraniol against cat flea",
     "type": "paper",
@@ -31834,6 +32301,36 @@
     "species_zh": "",
     "takeaway": "沃尔巴克氏体用于蚊虫控制已通过测试验证",
     "conclusion": "标题表明沃尔巴克氏体介导的蚊虫控制策略已接受实证检验，提示该基于共生菌的防控思路具备可评估性与应用前景，但具体机制与效果需依据原文进一步确认。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Science",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20210916-6c508918c7",
+    "title": "Nota Bene: Wolbachia and Wasp Evolution",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Science | AAAS",
+    "authors": "",
+    "publish_date": "2021-09-16",
+    "added_at": "2026-11-25",
+    "url": "https://doi.org/10.1126/science.291.5509.1719",
+    "doi": "10.1126/science.291.5509.1719",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "parasitic wasp",
+    "species_zh": "寄生蜂",
+    "takeaway": "标题提示本文关注沃尔巴克氏体与寄生蜂演化之间的关系。",
+    "conclusion": "由于缺少摘要，仅能从标题推断：文章讨论沃尔巴克氏体这一共生菌如何影响或关联寄生蜂的演化进程，具体机制与结论需查阅正文确认。",
     "keywords": [
       "昆虫性别决定演化机制",
       "全球资讯",
