@@ -1,0 +1,71 @@
+[
+  {
+    "id": "manual-20261126-sinojackia-t2t",
+    "title": "「Plant J.」上海辰山植物园发表濒危秤锤树T2T基因组组装完成揭示着丝粒景观与演化困境",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "搜狐号（生信帮）",
+    "authors": "",
+    "publish_date": "2026-11-07",
+    "added_at": "2026-11-26",
+    "url": "https://news.sohu.com/a/1098510052_122604723",
+    "doi": "",
+    "pmid": "",
+    "abstract": "上海辰山植物园团队联合多家单位在 The Plant Journal 发表濒危植物秤锤树的端粒到端粒基因组，整合 HiFi、ONT 与 Hi-C 得到 961.94 Mb、12 条染色体的无缺口组装，并通过 CENH3 ChIP-seq 解析着丝粒景观。结合 8 个居群 32 个个体的群体分析，揭示倒位多态、重组抑制与 DNA 修复基因有害突变累积共同导致小种群的基因组侵蚀。",
+    "species_latin": "Sinojackia xylocarpa",
+    "species_en": "Jacktree",
+    "species_zh": "秤锤树",
+    "takeaway": "首个安息香科无缺口 T2T 基因组结合 CENH3 着丝粒图谱，揭示小种群濒危植物的基因组侵蚀与进化困境。",
+    "conclusion": "秤锤树 T2T 组装显示着丝粒以 LINE、LTR 等转座元件为主且 chr1 存在异位 CENH3 富集；自然群体中的倒位杂合、局部重组抑制、LTR 增殖和 DNA 修复基因有害突变累积相互叠加，使小种群难以清除有害等位基因，为濒危植物保护基因组学提供了高质量参考。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无缺口基因组",
+      "着丝粒",
+      "CENH3",
+      "转座元件",
+      "倒位多态",
+      "重组抑制",
+      "群体基因组",
+      "濒危植物",
+      "Sinojackia xylocarpa",
+      "秤锤树"
+    ]
+  },
+  {
+    "id": "manual-20261126-matrine-mof-nanopesticide",
+    "title": "林学院樊建庭教授团队在《Journal of Hazardous Materials》发表纳米生物源农药成果",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "浙江农林大学新闻网",
+    "authors": "",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-26",
+    "url": "https://www.zafu.edu.cn/info/1384/123359.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江农林大学樊建庭团队在 Journal of Hazardous Materials 报道一种杂化纳米系统 NU-1000/MN/Ru4，将植物源杀虫剂苦参碱与多金属氧酸盐 Ru4 静电组装并共封装于金属有机框架 NU-1000 中。该系统兼具广谱杀虫活性、可控释放与光稳定性，Ru4 通过破坏害虫肠道菌群并抑制 P450、GST 等解毒代谢发挥增效作用，且能在杀虫后催化苦参碱降解实现无残留。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "MOFs 递送加 POM 增效的苦参碱纳米生物源农药实现高效、无残留害虫防控，为绿色农药设计提供新范式。",
+    "conclusion": "多孔 MOFs 作为递送载体提升苦参碱的渗透性、叶面附着力与光稳定性，兼具抗菌与催化能力的 Ru4 既作增效剂抑制害虫解毒代谢，又作光催化剂在施药后降解残留；短期生物安全性评价显示其生态友好，为生物源杀虫剂高效化与无残留化提供了新思路。",
+    "keywords": [
+      "生物源农药",
+      "植物源农药",
+      "苦参碱",
+      "纳米农药",
+      "金属有机框架",
+      "多金属氧酸盐",
+      "肠道菌群",
+      "解毒代谢",
+      "抗药性治理",
+      "无残留",
+      "绿色农药"
+    ]
+  }
+]
