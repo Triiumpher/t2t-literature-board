@@ -875,6 +875,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43075838",
+    "title": "Computational Discovery of Enzyme-targeted Insecticides and Acaricides: In Silico Strategies for Next-generation Mosquito and Tick Control",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Mini reviews in medicinal chemistry",
+    "authors": "Vijay M, Pandey S, Uttare S, Surendran A, D S, Shende S, Pattar V, Manjunathachar HV.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/43075838",
+    "doi": "10.2174/0113895575533739261113061555",
+    "pmid": "43075838",
+    "abstract": "Vector-borne diseases impose a substantial burden on global public health and livestock productivity. Mosquitoes and ticks serve as major vectors of malaria, arboviral infections, and tickborne diseases, while some vector-associated conditions, including WHO-listed Neglected Tropical Diseases (NTDs), are also transmitted. The continued reliance on chemical insecticides and acaricides has accelerated the emergence of resistance, compromised the efficacy of existing control strategies, and underscored the urgent need for novel, mechanism-driven interventions. Recent advances in computational medicinal chemistry have transformed early-stage discovery by enabling structure- and ligand-based virtual screening, molecular docking, molecular dynamics simulations, free energy calculations, AI/ML, and pharmacophore-driven hit prioritization. These in silico approaches facilitate rapid exploration of chemical space, identification of enzyme-selective inhibitors, and early ADME and eco-safety profiling. This review focuses on enzymatic targets involved in neurophysiological and detoxification enzymes as promising molecular vulnerabilities in arthropod vectors. Key targets, such as acetylcholinesterase, glutathione S-transferases, carboxylesterases, cytochrome P450 monooxygenases, UDP-glycosyltransferases, and emerging metabolic targets, represent promising vulnerabilities for next-generation vector control strategies. By synthesizing current computational methodologies, this review integrates early ADME prediction, ecotoxicological profiling, and resistance modeling, highlighting the translational potential of in silico hits toward experimentally validated, resistance-aware vector control strategies.",
+    "species_latin": "",
+    "species_en": "Mosquitoes and ticks",
+    "species_zh": "蚊和蜱",
+    "takeaway": "综述计算化学方法靶向蚊蜱神经与解毒酶，加速发现抗性感知的新型杀虫杀螨剂。",
+    "conclusion": "乙酰胆碱酯酶、谷胱甘肽S-转移酶、羧酸酯酶、细胞色素P450、UDP-糖基转移酶等可作为蚊蜱防控的分子靶点；虚拟筛选、分子对接、动力学模拟、自由能计算及AI/ML等手段可快速发现酶选择性抑制剂，并整合ADME预测、生态毒理评估与抗性建模，推动计算命中向实验验证转化。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43064293",
     "title": "Integrating behavioral and molecular biomarkers reveals neurotoxic effects of common insecticide in big brown bats",
     "type": "paper",
@@ -1109,6 +1135,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43075681",
+    "title": "Synthesis of Promising S-alkyl Nematicides from Thiosalicylic Acid: Unveiling the Mechanism via Homology Modeling of &lt;i&gt;Meloidogyne incognita&lt;/i&gt; Glutathione-S-Transferase Enzyme and Molecular Docking Studies",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Current organic synthesis",
+    "authors": "Ali S, Iqbal S, Ali SN, Begum S, Iqbal E, Manzar Z, Hasan E.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-25",
+    "url": "https://europepmc.org/article/MED/43075681",
+    "doi": "10.2174/0115701794510776261102163750",
+    "pmid": "43075681",
+    "abstract": "Introduction Meloidogyne incognita is one of the most devastating polyphagous endoparasitic root-knot nematodes (RKN), causing serious harm to crops. The scientific community has serious concerns about the development of alternative chemical and biological modes to control nematicidal damage globally. Methodology In this study, the alkyl (1a to 1i) and aryl (1j & 1k) analogues of thiosalicylic acid (1) are explored as promising pesticidal agents against Meloidogyne incognita for the first time. The synthesized series underwent spectral characterization, DFT modeling, ADMET prediction, and molecular docking. The unavailability of the crystal structure of the glutathione S-transferase (GST) enzyme of Meloidogyne incognita (Mi-GST) has prompted us to construct its homology model for the first time. Results Three compounds (1g), (1j), and (1k) produced mortality rates greater than 90 % at 1.0 % concentration, comparable to standard furadan. Among the synthesized analogues, two aromatic compounds, including 2-((4-nitrobenzyl)thio)benzoic acid (1j) and 2-(benzylthio)benzoic acid (1k) exhibited higher mortality rates than the investigated aliphatic derivatives. Discussion Molecular docking revealed the major contribution of R189 and F184, while the minor contribution came from the Y183 amino acid for the binding of our synthesized derivatives. Moreover, ADMET prediction revealed significant drug-likeness, water solubility, and cell membrane permeability for most of the compounds synthesized. Conclusion Our findings identify promising candidates from thiosalicylic acid, providing strong support for the agrochemical industry against Meloidogyne incognita. This study also provides a detailed prediction of ADMET properties and binding interaction analysis of synthesized derivatives against the modeled Mi-GST enzyme to understand the fundamental pathway for their nematicidal action.",
+    "species_latin": "Meloidogyne incognita",
+    "species_en": "Southern root-knot nematode",
+    "species_zh": "南方根结线虫",
+    "takeaway": "以硫代水杨酸合成系列衍生物杀南方根结线虫，并首次同源建模Mi-GST解析其作用机制",
+    "conclusion": "合成的硫代水杨酸烷基与芳基衍生物具显著杀线虫活性，其中两个芳香族化合物在1.0%浓度下死亡率超90%，与呋喃丹相当；分子对接显示R189、F184为主要结合残基，ADMET预测多数化合物成药性与膜通透性良好，为新型杀线虫剂开发提供依据。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
