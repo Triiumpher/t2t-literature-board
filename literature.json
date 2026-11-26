@@ -1433,6 +1433,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43083636",
+    "title": "Neonicotinoids and Mental Health: Mechanistic, Preclinical and Epidemiological Evidence for a Transdiagnostic Neurodevelopmental Risk",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Toxics",
+    "authors": "Rosas-Sánchez GU, Soria-Fregozo C, Ortíz-Sánchez EH, Avalos-García S, Rodríguez-Landa JF, Germán-Ponciano LJ, Ramos de Robles SL, Flores-Soto ME, Fernández-Demeneghi R, Pérez-Vega MI, Soriano-Hernández AD.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43083636",
+    "doi": "10.3390/toxics14111026",
+    "pmid": "43083636",
+    "abstract": "Neonicotinoid insecticides (imidacloprid, clothianidin, thiacloprid, acetamiprid, thiamethoxam, nitenpyram, dinotefuran) were developed as insect-selective nicotinic acetylcholine receptor (nAChR) agonists and have long been regarded as safe for vertebrates. However, parent compounds and, more potently, desnitro metabolites such as DN-imidacloprid act on mammalian α4β2 and α7 nAChRs with nicotine-like potency, implicating cholinergic circuits central to cognition, mood, and reward. This narrative review synthesizes mechanistic, preclinical, and epidemiological evidence linking neonicotinoid exposure to neuropsychiatric risk. Mechanistically, these compounds promote glial activation, oxidative stress, blood-brain barrier (BBB) disruption, and gut microbiota alterations that converge on hippocampal and limbic dysfunction. Rodent and invertebrate studies show sex-, dose-, and exposure-window-dependent effects on anxiety-, depression-, and cognition-like behaviors, with developmental exposure mirroring prenatal nicotine effects. Human data, although limited, are convergent: poisoning case series document acute neuropsychiatric symptoms; biomonitoring studies in China, Japan, and Sri Lanka associate urinary metabolites with depression, anxiety, and a recognizable \"neo-nicotinic\" symptom cluster; in Mexico, studies of agricultural populations link pesticide mixtures to psychological distress, although neonicotinoid biomarkers have not yet been measured in that setting; and pediatric cohorts in China and Ecuador link prenatal and childhood exposure to impaired neurodevelopment, emotional symptoms, and hyperactivity. Collectively, this evidence is consistent with neonicotinoids being an underrecognized environmental risk factor for neuropsychiatric disorders, although the human data remain too fragmented to support causal inference and underscores the need for dedicated cohorts, expanded biomonitoring, and mechanistic research to inform regulatory assessment.",
+    "species_latin": "Human data",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "新烟碱类杀虫剂经哺乳动物nAChR及神经炎症等机制，或构成被低估的跨诊断神经精神风险因素",
+    "conclusion": "机制、动物和人群证据趋同，提示新烟碱类暴露与焦虑、抑郁及认知发育受损相关，其作用涉及胆碱能信号、胶质激活、氧化应激、血脑屏障破坏和菌群改变；但人类证据尚碎片化，不足以确立因果，亟需专门队列、生物监测和机制研究以支撑监管评估",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43075681",
     "title": "Synthesis of Promising S-alkyl Nematicides from Thiosalicylic Acid: Unveiling the Mechanism via Homology Modeling of &lt;i&gt;Meloidogyne incognita&lt;/i&gt; Glutathione-S-Transferase Enzyme and Molecular Docking Studies",
     "type": "paper",
