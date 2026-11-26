@@ -1,0 +1,38 @@
+[
+  {
+    "id": "manual-20261127-spotted-seal-t2t",
+    "title": "端粒到端粒(T2T)完整基因组组装揭示斑海豹(Phoca largha)染色体水平基因组全景",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-27",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261120035551267.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究团队结合 Illumina、PacBio HiFi、Oxford Nanopore 超长读长与 Hi-C 测序，构建了斑海豹首个端粒到端粒（T2T）水平无间隙基因组，包含 16 条假染色体，基因组大小 2.41 Gb，所有染色体两端均检测到端粒重复且每条染色体均定位着丝粒。共预测 29,083 个蛋白质编码基因，其中 88.03% 获得功能注释，为斑海豹保护遗传学与海洋哺乳动物比较基因组研究提供了高质量基础资源。",
+    "species_latin": "Phoca largha",
+    "species_en": "Spotted seal",
+    "species_zh": "斑海豹",
+    "takeaway": "斑海豹首个 16 条染色体无间隙 T2T 基因组发布，填补了该物种高质量参考基因组的空白。",
+    "conclusion": "最终组装共 2.41 Gb、contig N50 达 188.38 Mb，Merqury 质量值 56.99、BUSCO 完整度 99.3%，重复元件占 31.51%；29,083 个蛋白编码基因中 25,601 个获得功能注释。该 T2T 基因组为斑海豹分子遗传学、种群保护与恢复以及鳍足类比较基因组研究建立了关键基础。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无间隙基因组",
+      "斑海豹",
+      "Phoca largha",
+      "着丝粒",
+      "端粒",
+      "HiFi",
+      "Hi-C",
+      "超长读长",
+      "海洋哺乳动物",
+      "保护基因组",
+      "染色体组装"
+    ]
+  }
+]
