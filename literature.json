@@ -1,5 +1,196 @@
 [
   {
+    "id": "news-20261126-fcd19bd79c",
+    "title": "Review Assesses Pesticide Non-Target Toxicity Across Biological Systems and Mitigation Pathways",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-26",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbU5nM0F6cDBnZEpVcDBBQWh2LXVPTS1aZ1ZoZlBmdmgxS2l0aHp5elFCRlFUVzM1bC05eUlIYTFZS0pRV1N0QTVzVlJwaWZXOWRBRWt2ZGF6ZzRWWG1QbHhoOTd5TXdYdndTS05vRVhzc3Rqam0wckQ1RnhOTzEtYW9IbmlSZE51aGxKaW5GaWpRWHZmTDZPRFdsckhxdzNNZ0h1V3FrSGtUVGVVdVZ1MjBzRFFTU09CQWpLRA?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述评估农药对非靶标生物在多类生物系统中的毒性，并梳理可行的减缓途径。",
+    "conclusion": "该综述系统评估了农药对非靶标生物的毒性效应，涵盖从分子、个体到生态系统的多个层次，并归纳了降低农药非靶标危害的减缓策略，为农药风险评估与生态保护提供参考。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261126-cec46dbea8",
+    "title": "CropLife India seeks five-year data protection to accelerate new pesticide molecules",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AgroSpectrum India",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-26",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2MxLTJvZXppNjNpYXpUbGoycVVELUxOUktxSXpKTVpia2tYZlpsTi1IUDdidW5SbnRVdWZmS1RZMkp1bm5lQ3Q5dlBZeTJyQTFSelVkZGx2MG9rSWJYWGloajVzWHBlbGxqc0M3VzE4NUI0ZWNKOHB5NnBvbVlSNDVsZXJfOGR4c2xpdzdtcDc2NzNwQ3JZRGlJOVpwWTZFY3RsZGRYZUJBYVVZTEZKdVhtYXBsTXZZTWs0THA1Snd4STdBYXY3Zkc3Q0FCUQ?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "印度作物生命协会寻求五年数据保护以加快新农药分子登记",
+    "conclusion": "该报道指出印度作物生命协会呼吁给予新农药分子五年数据保护期，意在通过延长登记数据独占来激励创新并加速新产品上市，具体机制与效果需见全文。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261126-b9ebe350ec",
+    "title": "Review Examines Conductive Polymer Hybrid Composites for Metal Removal and Pesticide Degradation",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-26",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN0t0azBHaVJrWkNnc2lUUkdzWUpfV3ZaYU94NnVCanduNEd4S2Qzb0F3OWRocFcxckxnRHV5SllKZm1KQ0otaklaSGo1c1BENkdEdnJSQzhqZm85NlFIZ1NCVVpyOXM3T3JXRlFubUZMazNWTTZxTkhTdDBCQm5XMFd6YUxUWDhKZVI1OWZGSFdfWWprckNrMHVJN0JGajMzZUFHSXAwYWp5RXZla0tJNHdRU1hYbGFldDBxWC1R?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述探讨导电聚合物杂化复合材料用于去除金属和降解农药。",
+    "conclusion": "该综述聚焦导电聚合物基杂化复合材料在环境治理中的应用，重点考察其去除金属离子与降解农药的能力，为相关材料设计与水处理应用提供参考。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43084775",
+    "title": "Genomics of Water Lilies: Floral Evolution, Polyploidy, Aquatic Adaptation",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "authors": "Chang X, Wen X, Zheng J, Chen Y, Zhang L.",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43084775",
+    "doi": "10.1002/advs.78868",
+    "pmid": "43084775",
+    "abstract": "Water lilies (Nymphaeales), together with Amborellales and Austrobaileyales, constitute the ANA grade, the earliest-diverging lineages of extant flowering plants, and are therefore pivotal for reconstructing the evolution of angiosperms. Over the past 6 years, advances in sequencing technology have propelled water lily genomic research from a single reference genome to nearly 20 genome assemblies spanning the order, five of them telomere-to-telomere (T2T) genomes, and complementary single-cell-scale investigations have substantially advanced water lily genomics. Herein, we review progress in water lily genomics, focusing on the evolutionary assembly of the flower (including its organ-identity toolkit, color and scent pathways), recurrent polyploidization events, and the developmental genetics of the diploid endosperm. We also discuss genome-wide mechanisms for aquatic adaptation and the development of giant leaves and flowers in Victoria, along with putative molecular mechanisms and conceptual models underlying pollination in Victoria. We further highlight how single-cell transcriptomics is being deployed to resolve long-standing questions of petal evolution. Nymphaeales have emerged as the fourth reference lineage of comparative angiosperm biology, alongside eudicots, monocots, and magnoliids, and their genomes supply trait genes for both fundamental plant biology and translational applications.",
+    "species_latin": "Nymphaea",
+    "species_en": "Water lily",
+    "species_zh": "睡莲",
+    "takeaway": "睡莲目基因组研究已积累近20个组装（含5个T2T），揭示花器官演化、多倍化与水生适应机制。",
+    "conclusion": "睡莲目已成为继真双子叶、单子叶和木兰类之后的第四个被子植物比较生物学参考谱系；其基因组解析了花器官身份工具包、花色花香通路、反复多倍化、二倍体胚乳发育遗传及水生适应与巨型叶花形成的全基因组机制，并为基础与应用研究提供性状基因。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43079074",
+    "title": "Integrating passive and grab sampling with target and non-target analysis to profile organic contaminants in an urban South African river system",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Environmental science and pollution research international",
+    "authors": "Mapetla SM, Mofokeng N, Richards H, Ndungu K, Chimuka L.",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43079074",
+    "doi": "10.1007/s11356-026-38419-y",
+    "pmid": "43079074",
+    "abstract": "Urban rivers in developing countries are increasingly burdened by pollution from inadequately treated wastewater, industrial discharges, and other anthropogenic sources. This study investigated the extent of pharmaceutical and pesticide contamination in the heavily polluted Hennops River and its catchment using Chemcatcher passive samplers and grab sampling coupled with solid phase extraction (SPE). Analytical detection was performed using ultra-high-performance liquid chromatography coupled with Quadrupole-Orbitrap high-resolution mass spectrometry (UHPLC-Q-Orbitrap MS). Laboratory calibration of the Chemcatcher samplers for selected pharmaceuticals yielded sampling rates between 0.360 and 0.447 L day⁻ 1 . Estimated time-weighted average (TWA) concentrations ranged from not detected (ND) to 17.9 ng L⁻ 1 , with venlafaxine and dexamethasone representing the lowest and highest concentrations, respectively. SPE extractions resulted in higher absolute concentrations (ND to 84.7 ng L⁻ 1 ), while passive samplers showed higher detection frequencies in suspect screening. A total of 61 pharmaceuticals and 25 pesticides were identified, with Chemcatcher samplers outperforming SPE in capturing trace level contaminants. This study highlights the value of combining passive and grab sampling techniques for comprehensive assessment of pollution in urban water systems.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "研究用Chemcatcher被动采样与抓取采样结合高分辨质谱，在南非Hennops河检出61种药物和25种农药。",
+    "conclusion": "被动采样对痕量污染物的检出频率高于固相萃取抓取采样，二者联用可更全面评估城市河流的药物与农药污染，为发展中国家城市水环境监测提供可行方案。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43086184",
+    "title": "A glutathione/cellulase dual-stimuli responsive dual-fungicide nanoplatform enables synergistic inhibition of Sclerotinia sclerotiorum and boosts rapeseed defense",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Pest management science",
+    "authors": "Zhou S, Liu J, Li X, Zhao Z, Liang A, Li W, Ren J, Pu J, Yu L, Yang F, Yang J, Wang X.",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43086184",
+    "doi": "10.1002/ps.71513",
+    "pmid": "43086184",
+    "abstract": "BACKGROUND: Sclerotinia stem rot, caused by Sclerotinia sclerotiorum, threatens global rapeseed production. Increasing fungicide use accelerates pathogen resistance, necessitating combinations of fungicides with distinct modes of action. Stimuli-responsive nano-formulations co-delivering dual agrochemicals offer a transformative strategy for disease management. Here, we engineered a glutathione (GSH)/cellulase dual-stimuli-responsive nano-formulation, Azo/Bos@DMSNs-EMC, co-encapsulating azoxystrobin (Azo) and boscalid (Bos) for precision control of S. sclerotiorum. RESULTS: The delivery platform utilizes epichlorohydrin-crosslinked carboxymethyl cellulose (EMC)-coated dendritic mesoporous silica nanoparticles, achieving a total drug loading of 15.13%. Under simulated infection conditions (1 mg mL-1 GSH + 0.2 mg mL-1 cellulase), the system exhibited remarkable enzyme-triggered release, discharging 90.5% of Azo and 91.9% of Bos within 72 h. Bioassay results demonstrated that the dual-loaded nanoformulation exhibited a significant synergistic effect. In pot trials, Azo/Bos@DMSNs-EMC maintained 53.6% therapeutic efficacy at 14 days post-treatment, significantly outperforming the commercial suspension concentrate (24.1%). The formulation enhanced plant disease resistance by upregulating defense-related enzymes (SOD, PPO, POD, PAL, GST) and key resistance genes (BnaGSTU5, BnaGSTU25, BnaGSTZ1, BnaPAL1, and BnaSOD3). Furthermore, the nanocarrier exhibited 2.37-fold lower acute toxicity to earthworms than conventional formulations, indicating improved safety for non-target organisms. CONCLUSION: These findings indicate that Azo/Bos@DMSNs-EMC, a dual-stimuli-responsive and dual-loaded pesticide delivery system, not only enables targeted pesticide release within plant tissues and enhances pathogen suppression via fungicide synergism, but also effectively induces and activates endogenous defense enzymes in rapeseed. This technology provides a novel strategy for the eco-friendly control of rapeseed sclerotinia stem rot. © 2026 Society of Chemical Industry.",
+    "species_latin": "Sclerotinia sclerotiorum",
+    "species_en": "Sclerotinia sclerotiorum",
+    "species_zh": "核盘菌",
+    "takeaway": "谷胱甘肽/纤维素酶双响应纳米平台共载嘧菌酯与啶酰菌胺，协同抑制核盘菌并激活油菜防御。",
+    "conclusion": "该双刺激响应纳米制剂在模拟感染条件下实现两种杀菌剂的高效触发释放，表现出协同抑菌作用；盆栽试验中14天防效显著优于商品悬浮剂，并通过上调防御酶及抗性基因增强油菜自身抗病性，同时降低对蚯蚓的急性毒性，为油菜菌核病绿色防控提供新策略。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43084555",
+    "title": "Pyrethroid insecticide exposure enhances the ability of Helicoverpa armigera to counter host plant defenses through symbiotic bacteria",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Gu M, Yang Q, Mbuji AL, Yu J, Kang R, Zhang L, Cai Y, Luo L, Hoffmann AA, Zhang L, Liang P.",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43084555",
+    "doi": "10.1073/pnas.2634296123",
+    "pmid": "43084555",
+    "abstract": "Like plant toxins, synthetic insecticides can exert strong selective pressures on pest populations. While responses to both plant toxins and synthetic insecticides can depend on adaptive changes in the nuclear genotype of the pest species, increasing evidence suggests that symbiotic microbes, particularly gut microbes, can also influence these responses. In the cotton bollworm, Helicoverpa armigera, concentrations of the symbiont Corynebacterium glyciniphilum increased in moth strains that were treated with the pyrethroid pesticide lambda-cyhalothrin (LCH), and they were also high in LCH-resistant strains and in populations exposed to 2-Tridecanone (2-TD), a secondary defense compound that is present in the Solanaceae. This increase enhanced the ability of H. armigera to overcome not only the pesticide but also a key defense mechanism in the solanaceous plants. In field populations of H. armigera, the abundance of C. glyciniphilum was lowest in populations feeding on nonsolanaceous plants that were sensitive to LCH. Based on gene knockouts, the underlying reason for the enhanced defensive capability provided by C. glyciniphilum was attributed to two detoxification enzyme genes (a P450 cytochrome and an esterase) which can metabolize both LCH and 2-TD into nontoxic degradation products. These findings suggest that a common mechanism mediated by a symbiont contributes to the insect's capacity to develop resistance to both a pesticide and a host plant toxin.",
+    "species_latin": "Helicoverpa armigera",
+    "species_en": "Cotton bollworm",
+    "species_zh": "棉铃虫",
+    "takeaway": "棉铃虫共生菌C. glyciniphilum经P450和酯酶基因同时降解菊酯农药与茄科植物毒素2-十三酮，增强抗性。",
+    "conclusion": "拟除虫菊酯类杀虫剂及茄科植物防御物质2-十三酮均能提高棉铃虫体内Corynebacterium glyciniphilum丰度；该共生菌借助一个P450细胞色素基因和一个酯酶基因，将杀虫剂与植物毒素代谢为无毒产物，从而同时赋予宿主对农药和寄主植物防御的抵抗力，揭示共生菌介导的共通抗性机制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261125-gpt6-protein-design",
     "title": "OpenAI发布GPT-6蛋白质设计预印本：湿实验命中率10.9%，低于RFdiffusion的19%",
     "type": "wechat",
@@ -152,6 +343,84 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43078608",
+    "title": "Exploring and visualizing complex pangenome graphs with PanAbyss",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Genome research",
+    "authors": "Graziani F, Zytnicki M.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43078608",
+    "doi": "10.1101/gr.281800.125",
+    "pmid": "43078608",
+    "abstract": "The pangenome paradigm enables a more comprehensive capture of structural variants than traditional linear-reference-based approaches. Recent advances in graph-based pangenome construction and increasing availability of high-quality telomere-to-telomere assemblies now make it possible to represent genomic diversity more effectively, including structural rearrangements and intergenic regions that were previously underexplored. However, few tools allow researchers to interactively explore the complex landscape of a pangenome, particularly for large variation graphs. Here, we present PanAbyss, an application built around a novel data model that enables both the visualization of annotated graph segments and the identification and characterization of regions of interest. This approach allows PanAbyss to offer unique functionalities, including the ability to query a region by annotation, to search for regions shared among specific individuals in the graph, compute proximity trees between individuals, and retrieve sequences associated with targeted regions. PanAbyss thus provides a versatile and user-friendly platform for in-depth pangenome exploration. To illustrate its utility, we present a use case focusing on the identification of structural variants associated with the white head phenotype in cattle, and compare our findings to previously reported results.",
+    "species_latin": "Bos taurus",
+    "species_en": "Cattle",
+    "species_zh": "牛",
+    "takeaway": "PanAbyss以新数据模型实现泛基因组图的可视化与交互探索，可注释查询、个体共享区搜索和邻近树计算。",
+    "conclusion": "PanAbyss提供可视化注释图段并识别目标区域的功能，支持按注释查询、寻找特定个体共享区域、计算个体间邻近树及提取目标序列，并以牛白头表型相关结构变异为例验证其有效性，为大规模泛基因组深入探索提供通用易用平台。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43078217",
+    "title": "Potential Testicular Toxicity in Mice Following Exposure to High Doses of Sulfoxaflor",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Reproductive toxicology (Elmsford, N.Y.)",
+    "authors": "Terayama H, Nagahori K, Kiyoshima D, Sato T, Ueda Y, Nishimaki K, Yamamoto M, Eguchi A, Yamada Y, Ishiwata N, Suzuki T, Suyama K, Todaka E, Sakurai K, Sakabe K.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43078217",
+    "doi": "10.1016/j.reprotox.2026.109422",
+    "pmid": "43078217",
+    "abstract": "Sulfoxaflor, an insecticide, targets the acetylcholine receptor similarly to neonicotinoid insecticides. In rats, sulfoxaflor demonstrates testicular toxicity at doses ranging from 25mg/kg to 500mg/kg, whereas in mice, no testicular toxicity is observed at doses between 10mg/kg and 100mg/kg. Furthermore, experiments involving only low-dose exposure provide insufficient evidence to conclude that no effect on mouse testes exists. We aimed to investigate the effects of high-dose sulfoxaflor administration on the testes in mice, which remains largely unexplored. Institute of Cancer Research mice aged 4 and 10 weeks in all groups received oral administration for a duration of 4 weeks using a probe. Mice were administered sulfoxaflor at concentrations of 350mg/kg and 500mg/kg, 4% propylene glycol to the control group, and distilled water to the normal group, resulting in a total of eight groups (n = 8 per group). Immediately after administration of 500mg/kg sulfoxaflor, three immature mice and four mature mice were found dead. Histological analysis and real-time reverse transcription polymerase chain reaction were conducted. The relative testis weights in the sulfoxaflor-treated groups did not differ significantly from those in the control group. Additionally, no significant differences were observed in mRNA expression levels of various gene markers in the pituitary gland and testis between the sulfoxaflor-treated and control groups. A 4-week administration of high-concentration sulfoxaflor did not adversely affect testicular cells in either mature or immature mice. Little difference was observed when comparing the tissue images across the groups. To provide conclusive evidence, long-term exposure to high concentrations of sulfoxaflor is necessary.",
+    "species_latin": "Mus musculus",
+    "species_en": "Mouse",
+    "species_zh": "小鼠",
+    "takeaway": "小鼠4周口服高剂量氟啶虫胺腈未显著改变睾丸重量与相关基因表达，但500mg/kg可致部分小鼠死亡",
+    "conclusion": "高浓度氟啶虫胺腈连续4周给药未对成熟或未成熟小鼠睾丸细胞产生明显不良影响，组织学与垂体、睾丸基因表达均无显著差异；但500mg/kg剂量下出现死亡，提示高剂量存在全身毒性，睾丸安全性结论仍需长期高浓度暴露实验验证",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43077517",
+    "title": "Photocatalytic Radical Relay Cyclization of N-Allyl Hydrazones with Diazo Compounds: Access to Ester-Containing and Fluorinated Dihydropyrazoles",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "The Journal of organic chemistry",
+    "authors": "Yin L, Sun X, Kang Z, Al-Maharik N, Zhang Q, Fang Z, Li D.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43077517",
+    "doi": "10.1021/acs.joc.6c02082",
+    "pmid": "43077517",
+    "abstract": "A photocatalytic radical relay cyclization of N-allyl hydrazones with diazo compounds was developed for the efficient synthesis of structurally diverse dihydropyrazoles. Under mild photocatalytic conditions in environmentally benign solvents, diazo-derived carbon radicals generated via PCET (proton-coupled electron transfer) - like activation undergo regioselective addition to the C=C bond of N-allyl hydrazones, followed by intramolecular cyclization to furnish dihydropyrazoles. The method features broad substrate scope, low diazo loading, and good tolerance of several halogenated and electron-rich aryl substituents, accommodating diverse diazo compounds, including fluorinated variants, and enabling the rapid incorporation of ester and fluorinated motifs into dihydropyrazole scaffolds. The synthetic utility of this strategy is further demonstrated by late-stage functionalization of bioactive molecules and the concise synthesis of a fluorinated pesticide with an unreported synthetic route.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "光催化N-烯丙基腙与重氮化合物自由基接力环化，高效构建含酯基和含氟二氢吡唑",
+    "conclusion": "该光催化自由基接力环化策略通过PCET类活化产生重氮碳自由基，区域选择性加成到N-烯丙基腙C=C键后分子内环化，条件温和、底物范围广、重氮用量低，可快速引入酯基与含氟片段，并成功用于生物活性分子后期修饰及含氟农药的简洁新路线合成。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -321,7 +590,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -470,6 +739,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43077758",
+    "title": "Integrated in silico and in vivo characterization of trypsin inhibitor-like (TIL) proteins from Rhipicephalus microplus as vaccine candidates",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary parasitology",
+    "authors": "Numan M, Rodríguez-Durán A, Ullah S, Juliano MA, Parizi LF, Tirloni L, da Silva Vaz I.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-26",
+    "url": "https://europepmc.org/article/MED/43077758",
+    "doi": "10.1016/j.vetpar.2026.110984",
+    "pmid": "43077758",
+    "abstract": "Ticks are blood feeding ectoparasites of medical and veterinary importance, and increasing acaricide resistance highlights the need for alternative control strategies such as anti-tick vaccines. This study aimed to perform an integrated in silico and in vivo characterization of trypsin inhibitor-like (TIL) inhibitors, previously identified in the saliva of Rhipicephalus microplus to assess their potential as vaccine candidates. The TIL sequences showed 93.3-100% and 71.8-94.5% similarity with similar proteins from R. microplus and Rhipicephalus linnaei, respectively, and clustered phylogenetically with them. Recombinant proteins were expressed in mammalian expression system and used to immunize rabbits. In an enzymatic assay with α-chymotrypsin, purified immunoglobulins G (IgGs) neutralized the inhibitory activities of TIL-4 and TIL-7 (69.3% and 64.4%, respectively), with reciprocal cross-neutralization (65.3% and 79.4%) and anti-TIL-1, -2 and -3 IgGs did not neutralize their targets. Based on integrated immunological and functional characterization, TIL-7 was selected for rabbit vaccination trial against R. linnaei as a heterologous model for vaccine screening. Two groups of four rabbits (TIL-7-vaccinated and control) were subcutaneously vaccinated and challenged with R. linnaei nymphs and adults. Vaccination reduced egg fertility by 18.5%, indicating partial cross-protection. These findings provide an integrated molecular, structural, and immunological characterization of TIL protease inhibitors from R. microplus and support further evaluation of TIL-7 as a potential anti-tick vaccine candidate against R. microplus in cattle.",
+    "species_latin": "Rhipicephalus microplus",
+    "species_en": "Southern cattle tick",
+    "species_zh": "微小扇头蜱",
+    "takeaway": "微小扇头蜱唾液TIL蛋白经计算与免疫学筛选，TIL-7疫苗使异源蜱卵孵化率降18.5%",
+    "conclusion": "TIL-4和TIL-7的IgG可中和α-糜蛋白酶抑制活性并交叉中和；以TIL-7免疫兔后对异源林奈扇头蜱产生部分交叉保护，卵孵化率下降18.5%，支持其作为抗微小扇头蜱疫苗候选进一步在牛体验证",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261123-2e4c02e971",
     "title": "Our food exporters have until 29 January to meet Europe’s new pesticide limits",
     "type": "news",
@@ -561,7 +856,7 @@
     "authors": "",
     "publish_date": "2026-11-23",
     "added_at": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdm1IbUxac3JhMV9nU055TUJ0Um02MEx4M29ETDJ0ZTc5Sy1JWmczWnIySDZoczNnSExRMXhnczI1QmoyWkl0ejlxcFE2c05uMWw2M3JVTWU4MUF0SGRCVVRBdHJIV3FLMzYwOXhPbG9RUE5YaTRWZTA5bFZ6Vmh0VFg1cGdWUQ?oc=5",
+    "url": "https://news.yale.edu/2026/11/23/wolbachia-mosquito-bug-could-change-everything",
     "doi": "",
     "pmid": "",
     "abstract": "",
@@ -576,7 +871,7 @@
       "en"
     ],
     "via": "Google News:en",
-    "link_kind": "",
+    "link_kind": "search",
     "llm_enhanced": true
   },
   {
@@ -1573,6 +1868,40 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261126-matrine-mof-nanopesticide",
+    "title": "林学院樊建庭教授团队在《Journal of Hazardous Materials》发表纳米生物源农药成果",
+    "type": "wechat",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "浙江农林大学新闻网",
+    "authors": "",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-26",
+    "url": "https://www.zafu.edu.cn/info/1384/123359.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "浙江农林大学樊建庭团队在 Journal of Hazardous Materials 报道一种杂化纳米系统 NU-1000/MN/Ru4，将植物源杀虫剂苦参碱与多金属氧酸盐 Ru4 静电组装并共封装于金属有机框架 NU-1000 中。该系统兼具广谱杀虫活性、可控释放与光稳定性，Ru4 通过破坏害虫肠道菌群并抑制 P450、GST 等解毒代谢发挥增效作用，且能在杀虫后催化苦参碱降解实现无残留。",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "MOFs 递送加 POM 增效的苦参碱纳米生物源农药实现高效、无残留害虫防控，为绿色农药设计提供新范式。",
+    "conclusion": "多孔 MOFs 作为递送载体提升苦参碱的渗透性、叶面附着力与光稳定性，兼具抗菌与催化能力的 Ru4 既作增效剂抑制害虫解毒代谢，又作光催化剂在施药后降解残留；短期生物安全性评价显示其生态友好，为生物源杀虫剂高效化与无残留化提供了新思路。",
+    "keywords": [
+      "生物源农药",
+      "植物源农药",
+      "苦参碱",
+      "纳米农药",
+      "金属有机框架",
+      "多金属氧酸盐",
+      "肠道菌群",
+      "解毒代谢",
+      "抗药性治理",
+      "无残留",
+      "绿色农药"
+    ]
+  },
+  {
     "id": "pmid-43067257",
     "title": "Occurrence and ecological risk of carbamate insecticides in river surface water and adjacent shallow groundwater across urban and agricultural catchments",
     "type": "paper",
@@ -1760,7 +2089,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "OpenAlex;PubMed",
     "llm_enhanced": true
   },
   {
@@ -4956,6 +5285,41 @@
     ],
     "via": "EuropePMC",
     "llm_enhanced": true
+  },
+  {
+    "id": "manual-20261126-sinojackia-t2t",
+    "title": "「Plant J.」上海辰山植物园发表濒危秤锤树T2T基因组组装完成揭示着丝粒景观与演化困境",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "搜狐号（生信帮）",
+    "authors": "",
+    "publish_date": "2026-11-07",
+    "added_at": "2026-11-26",
+    "url": "https://news.sohu.com/a/1098510052_122604723",
+    "doi": "",
+    "pmid": "",
+    "abstract": "上海辰山植物园团队联合多家单位在 The Plant Journal 发表濒危植物秤锤树的端粒到端粒基因组，整合 HiFi、ONT 与 Hi-C 得到 961.94 Mb、12 条染色体的无缺口组装，并通过 CENH3 ChIP-seq 解析着丝粒景观。结合 8 个居群 32 个个体的群体分析，揭示倒位多态、重组抑制与 DNA 修复基因有害突变累积共同导致小种群的基因组侵蚀。",
+    "species_latin": "Sinojackia xylocarpa",
+    "species_en": "Jacktree",
+    "species_zh": "秤锤树",
+    "takeaway": "首个安息香科无缺口 T2T 基因组结合 CENH3 着丝粒图谱，揭示小种群濒危植物的基因组侵蚀与进化困境。",
+    "conclusion": "秤锤树 T2T 组装显示着丝粒以 LINE、LTR 等转座元件为主且 chr1 存在异位 CENH3 富集；自然群体中的倒位杂合、局部重组抑制、LTR 增殖和 DNA 修复基因有害突变累积相互叠加，使小种群难以清除有害等位基因，为濒危植物保护基因组学提供了高质量参考。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无缺口基因组",
+      "着丝粒",
+      "CENH3",
+      "转座元件",
+      "倒位多态",
+      "重组抑制",
+      "群体基因组",
+      "濒危植物",
+      "Sinojackia xylocarpa",
+      "秤锤树"
+    ]
   },
   {
     "id": "pmid-42998311",
