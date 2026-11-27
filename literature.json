@@ -1,5 +1,174 @@
 [
   {
+    "id": "news-20261127-bb79721d58",
+    "title": "Dietary Green Zinc Nanoparticles Counteract Pesticide Toxicity in Common Carp",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-27",
+    "added_at": "2026-11-27",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzBvVXQwVVdSdHFfWk9RT0RISFBYNm9fYlptWmcxSWdIRVVBUG83WTZMYUNBdlR5dHE0R21MS3FJNmlGejFkX2ZzUXU3TG1acEk2RmFwNERjanBySU1RRWo3Y1ZVSmM0dkJxMUI5aWhxc1BYcF85YlBvVFlWcDNhNTNiT0hnNC01eGgyTUdmTzh3ZFMtRUU1YkMxQ1pXaEp5bGhMUg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Cyprinus carpio",
+    "species_en": "Common carp",
+    "species_zh": "鲤鱼",
+    "takeaway": "膳食绿色锌纳米颗粒可缓解鲤鱼农药毒性",
+    "conclusion": "标题提示,在鲤鱼饲料中添加绿色合成的锌纳米颗粒,能够对抗农药引起的毒性损伤,为水产养殖中减轻农药污染危害提供潜在营养干预思路;具体机制与效果需原文数据支持。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261127-9928c03187",
+    "title": "Ecological Intensification Offers Pesticide-Free Pathway to Boost African Plantain Yields",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-27",
+    "added_at": "2026-11-27",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGxiY1FtakVUOWZtSlRSSzFvRVJJTVNmR2JnRUxXbFlJLXh2bVJuWll2cmdGbWtfXy1BM0NHU3VyVl9qVW9pRmh1Sl9ZNWFRR01WMVdIRm8wUjltVFowQTNxZk4wZnpONHZhZGlvUVc1bGFzb0JMUzNQMzdjRGtHdjFxdGwzQkpYQm05SlNQS2hWeHYxZzF3clc1SDNTc1VYLUJYQzk0SngyNjVZeXhqaGhtTk0?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Musa paradisiaca",
+    "species_en": "plantain",
+    "species_zh": "大蕉",
+    "takeaway": "生态集约化或可在不用农药的情况下提高非洲大蕉产量",
+    "conclusion": "标题提示，生态集约化经营有望成为提升非洲大蕉产量的无农药路径，但摘要缺失，具体机制与增产幅度尚无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261126-fedddf39a4",
+    "title": "A telomere-to-telomere genome assembly of native desert-adapted sheep Ovis aries breed “Najdi” from Saudi Arabia",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-27",
+    "url": "https://doi.org/10.1038/s41597-026-08887-5",
+    "doi": "10.1038/s41597-026-08887-5",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Ovis aries",
+    "species_en": "sheep",
+    "species_zh": "绵羊",
+    "takeaway": "沙特研究团队完成沙漠适应绵羊Najdi品种的端粒到端粒全基因组组装。",
+    "conclusion": "该研究构建了沙特本土沙漠适应绵羊Najdi品种的端粒到端粒（T2T）无间隙基因组组装，为解析其沙漠适应性遗传基础及该品种的保护与利用提供高质量参考基因组。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Data",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261126-b030ef94ac",
+    "title": "Cold Plasma Treatments Reduce Organophosphorus Pesticide Residues in Fresh Strawberries",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-27",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVBYaU5FVER3MzAwOVQyQkVVVm1kSjFsR1cwd1hMdDFzdXpVQUV0bWx1YTA2b1pVRTJQanVQcTNmUldhSTRHM3RWc1NGRmhkdVNJUmFiR2Q3RDVNQnQzckNPeHdXNWdCS2tfbFdRUmlySllwY0Qzb3dXOGxnTnRmVzBvR0xBRDl1dXRFQmxDYk9Sb0tYLTBZQjNoLTFhM2toaTJCbUQ1ZkpNeG01cmRzMGFR?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Fragaria ananassa",
+    "species_en": "Strawberry",
+    "species_zh": "草莓",
+    "takeaway": "冷等离子体处理可降低新鲜草莓中的有机磷农药残留。",
+    "conclusion": "仅凭标题可知，研究以新鲜草莓为对象，采用冷等离子体处理，发现其能减少有机磷类农药残留，提示冷等离子体可作为鲜果采后降解农药残留的潜在技术手段；具体降解效率与机制尚待摘要信息确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43097277",
+    "title": "Structure-Guided Screening and Biochemical Validation of 2-Hydroxyquinoline-3-carbaldehydes as Disruptors of the HEG1-KRIT1 Protein-Protein Interaction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Cell biochemistry and biophysics",
+    "authors": "Kamel EM, Alfassam HE, Othman SI, Alharbi HM, Allam AA, Rudayni HA, Lamsabhi AM.",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43097277",
+    "doi": "10.1007/s12013-026-02176-z",
+    "pmid": "43097277",
+    "abstract": "The HEG1-KRIT1 protein-protein interaction is essential for recruitment of KRIT1 to endothelial junctions and regulation of cerebral cavernous malformation (CCM)-associated signaling. Disruption of this interaction represents a useful strategy for developing chemical probes to modulate CCM complex organization and downstream signaling. Here, we identified small-molecule disruptors of the HEG1-KRIT1 interaction using an integrated computational and experimental workflow focused on a library of 2-hydroxyquinoline-3-carbaldehyde derivatives. Drug-likeness, diversity, purchasability, and PAINS/reactivity filters were applied before AutoDock Vina screening against the HEG1/HKi2-binding pocket of the KRIT1 FERM domain. Three candidates, HQC1-HQC3, were prioritized for 1000 ns molecular dynamics simulations, MM/PBSA free-energy analysis, free energy landscape analysis, ADMET prediction, and in vitro validation. Docking predicted that HQC1, HQC2, and HQC3 occupy the KRIT1 binding pocket with affinities comparable to HKi2. MM/PBSA analysis predicted that HQC1 and HQC3 weaken the HEG1-KRIT1 interaction, with positive values of ΔΔGPPI of + 8.80 and + 6.20 kcal/mol, respectively, whereas HKi2 and HQC2 showed negative values of - 0.33 and - 2.30 kcal/mol, indicating little disruption or relative stabilization. MD-based interface analyses showed that HQC1 and HQC3 reduced HEG1-KRIT1 inter-chain contacts and weakened predicted PPI energetics, whereas HQC2 largely preserved the interface. In a bead-based flow-cytometry competition assay, HQC1 and HQC3 inhibited EGFP-KRIT1 FERM binding to HEG1-coated beads with IC₅₀ values of 2.90 ± 0.05 and 3.19 ± 0.15 µM, respectively, compared with 3.81 ± 0.21 µM for HKi2. HQC2 was less potent, with an IC₅₀ of 8.68 ± 1.09 µM. These findings identify HQC1 and HQC3 as promising starting points for optimization of HEG1-KRIT1 disruptors.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "经计算筛选与生化验证，2-羟基喹啉-3-甲醛类化合物HQC1和HQC3可破坏HEG1-KRIT1蛋白互作。",
+    "conclusion": "研究以KRIT1 FERM结构域的HEG1/HKi2结合口袋为靶点，通过分子对接、分子动力学模拟与MM/PBSA分析，从2-羟基喹啉-3-甲醛衍生物库中筛选出HQC1-HQC3；其中HQC1和HQC3降低HEG1-KRIT1界面接触与互作能量，并在珠基流式竞争实验中抑制KRIT1 FERM与HEG1结合，IC50约2.9-3.2 µM，优于HKi2；HQC2作用较弱。该工作为调控CCM相关信号提供了可优化的先导化合物。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43095962",
+    "title": "PABbind: A Hierarchical Geometric Framework for Mutation-Involved Antigen-Antibody Interaction Prediction and SARS-CoV-2 Immune Escape Assessment",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Journal of medicinal chemistry",
+    "authors": "Deng Q, Xiang S, Ge J, Hou T, Lei J, Sun H.",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43095962",
+    "doi": "10.1021/acs.jmedchem.6c01588",
+    "pmid": "43095962",
+    "abstract": "Antibody therapies exhibit remarkable specificity and therapeutic potential, yet their efficacy can be compromised by rapidly emerging antigen mutations that enable immune escape. Therefore, predicting how antigen variants alter antibody recognition is critical for assessing antibody durability, but experimental evaluation of large-scale mutation combinations remains challenging. Here, we develop PABbind, a hierarchical geometric deep-learning model that integrates sequence and structural information to predict antigen-antibody interaction changes using wild-type protein-protein interaction (PPI) structures and mutant sequences. By simultaneously incorporating sequence and structural information and leveraging pretraining on general mutant PPI datasets, PABbind accurately predicts immune escape effects of antigen variants against antibodies using wild-type PPI structures only, enabling large-scale screening of antigen mutations. PABbind demonstrates favorable performance on mutant PPI benchmarks and enables prediction of variant-specific immune escape scores for SARS-CoV-2 antibodies, therefore providing an effective computational framework for large-scale assessment of SARS-CoV-2 antigen variants.",
+    "species_latin": "Severe acute respiratory syndrome coronavirus 2",
+    "species_en": "SARS-CoV-2",
+    "species_zh": "严重急性呼吸综合征冠状病毒2",
+    "takeaway": "PABbind用层级几何深度学习结合序列与结构，仅凭野生型PPI结构预测抗原突变对免疫逃逸的影响",
+    "conclusion": "该模型整合序列与结构信息，并在通用突变PPI数据上预训练，仅需野生型蛋白互作结构即可预测抗原变异导致的抗体识别变化，实现大规模突变筛选；在突变PPI基准上表现良好，可用于评估SARS-CoV-2抗体变异特异性免疫逃逸，为大规模抗原变异评估提供计算框架",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261126-fcd19bd79c",
     "title": "Review Assesses Pesticide Non-Target Toxicity Across Biological Systems and Mitigation Pathways",
     "type": "news",
@@ -109,7 +278,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -161,7 +330,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -187,7 +356,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -343,6 +512,58 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43095301",
+    "title": "Toxicity-Weighted Pesticide Exposure in County-Level Cancer Models: Endpoint Matching, Spatial Dependence, and Geographic Validation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "GeoHealth",
+    "authors": "Joseph N.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43095301",
+    "doi": "10.1029/2026gh002274",
+    "pmid": "43095301",
+    "abstract": "The objective of this study was to evaluate whether toxicity-weighted pesticide exposure improves county-level cancer models, whether endpoint-matched metrics provide different model performance, and whether observed associations persist after accounting for spatial dependence and geographic validation. Data were collected for 3,107 U.S. counties, including USGS pesticide use estimates for 408 compounds during 2010-2012, cancer incidence from NCI and CDC State Cancer Profiles for 2018 to 2022, diabetes and coronary heart disease (CHD) prevalence from CDC PLACES, socioeconomic indicators from the U.S. Census, and climate variables from NOAA. Pesticide exposure was represented using applied mass, chronic reference dose (RfD) weighted load, cancer slope factor weighted load, and cancer weight of evidence. Model performance was assessed using adjusted R 2 , AIC, residual Moran's I, spatial error models, and leave-one-state-out cross validation. Although the RfD weighted load improved model fit for cancer incidence relative to applied mass (ΔAIC = -9.1), cancer-specific weighting did not provide a comparable improvement. The socioeconomic block produced the largest increase in model fit, while climate contributed to smaller improvements. Residual spatial autocorrelation remained strong after covariate adjustment, with Moran's I of 0.656 for the saturated cancer model. In the spatial error model, the coefficient for RfD weighted exposure decreased from β = 8.61 to β = 1.35 and was no longer statistically significant ( p = 0.26). These findings show that toxicity weighting can change exposure priorities, but better model fit does not establish a toxicological or epidemiological relationship.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "美国县级癌症模型显示，按毒性加权的农药暴露虽改善拟合，但控制空间依赖后关联不再显著。",
+    "conclusion": "毒性加权可改变暴露优先级，但模型拟合改善不等于毒理学或流行病学关联；残差空间自相关强，空间误差模型中RfD加权暴露系数由8.61降至1.35且不显著，提示地理验证对因果推断至关重要。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43098012",
+    "title": "Aspartic acid-responsive Leifsonia shinshuensis mitigates imidacloprid phytotoxicity in Brassica oleracea",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of hazardous materials",
+    "authors": "Zhou C, Zhang T, Deng J, Miao P, Pan C, Li D.",
+    "publish_date": "2026-11-24",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43098012",
+    "doi": "10.1016/j.jhazmat.2026.144330",
+    "pmid": "43098012",
+    "abstract": "Plants recruit rhizosphere microorganisms to alleviate pesticide stress, but the chemical signals governing this process remain unclear. We show that imidacloprid (IMI) stress triggers aspartic acid accumulation in root exudates of cabbage, restructuring the rhizosphere bacterial community with enriched Actinomycetes. We isolated a bacterial strain B3 from the treated rhizosphere, identified as Leifsonia shinshuensis, and confirmed that aspartic acid acts as both a chemoattractant and growth promoter for this strain. Inoculation with strain B3 accelerated IMI degradation, reducing pesticide residues in plant tissues by 7.9-43.0%. This was accompanied by enhanced plant amino acid metabolism and enrichment of beneficial rhizobacterial taxa, collectively alleviating IMI-induced oxidative damage. Together, our findings identify aspartic acid as a candidate signal linking root metabolic stress to beneficial bacteria and demonstrate a plant-microbe feedback mechanism that enhances pesticide detoxification under IMI stress.",
+    "species_latin": "Brassica oleracea",
+    "species_en": "cabbage",
+    "species_zh": "甘蓝",
+    "takeaway": "甘蓝受吡虫啉胁迫时根系分泌天冬氨酸招募Leifsonia shinshuensis B3，加速农药降解并缓解氧化损伤",
+    "conclusion": "吡虫啉胁迫诱导甘蓝根系分泌天冬氨酸，该氨基酸作为趋化信号和生长促进因子富集根际放线菌并招募Leifsonia shinshuensis B3；接种B3可加速吡虫啉降解、降低植株组织残留7.9–43.0%，并增强氨基酸代谢与有益菌富集，从而缓解氧化损伤，揭示植物-微生物反馈解毒机制",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -736,6 +957,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43097871",
+    "title": "Nanoemulsions of citrus sinensis and syzygium aromaticum essential oils as acaricides for the control of rabbit sarcoptic mange: An integrated phylogenetic, immunological, oxidative stress, and histopathological evaluation",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Veterinary parasitology",
+    "authors": "Elnabawy RM, Morsi AS, Elleithy EMM, Ramadan RM, Youssef FS, Nasr SAE, Ali AM.",
+    "publish_date": "2026-11-23",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43097871",
+    "doi": "10.1016/j.vetpar.2026.110982",
+    "pmid": "43097871",
+    "abstract": "Sarcoptic mange, caused by Sarcoptes scabiei, remains a major threat to rabbit health and welfare, causing severe skin lesions, systemic inflammation, oxidative stress, and economic losses. The emergence of acaricide tolerance has increased interest in plant-derived alternatives. This study evaluated the potential utility of essential oil nano-emulsions (NEs) formulated from Citrus sinensis (Citrus) and Syzygium aromaticum (Clove) against naturally occurring sarcoptic mange in rabbits. Thirty-two New Zealand rabbits were enrolled in a 21-day trial (n = 8/group), comprising healthy controls, vehicle-treated infested control, rabbits treated with 5% Citrus NE, and rabbits treated with 5% Clove NE. Baseline body weights were descriptively similar among groups (1.23-1.31 kg); rabbits were stratified by initial body weight and lesion severity before allocation, and no formal statistical comparison of baseline weight was performed. Mange infestation was confirmed by microscopic examination and molecular identification of mites. Outcomes included clinical lesion scores, survival, body weight, haematological and biochemical variables, Oxidative stress biomarkers, cytokine gene expression, histopathology, and TNF-α immunohistochemistry. Citrus NE was associated with improved survival compared with the vehicle-treated infested control group (log-rank P = 0.018; hazard ratio = 0.28, 95% CI: 0.09-0.87), whereas Clove NE was not associated with a statistically significant survival benefit (log-rank P = 0.47; hazard ratio = 0.71, 95% CI: 0.28-1.82). The direct Citrus-versus-Clove comparison was not significant (log-rank P = 0.072), and superiority of Citrus NE over Clove NE was not established. Exploratory observations in available samples suggested differences in haematological, biochemical, oxidative-stress, inflammatory, molecular, and histopathological measures between Citrus NE-treated animals and untreated infested controls, with values generally trending toward those observed in healthy rabbits. Because samples were collected at different survival times, treatment-exposure durations, and disease stages, these findings should be interpreted as exploratory biological observations rather than evidence of definitive treatment effects. Overall, the findings provide preliminary evidence that Citrus sinensis nano-emulsion may warrant further investigation as a plant-derived approach for managing rabbit sarcoptic mange. Additional studies with standardized sampling schedules and comprehensive safety assessments are required to confirm efficacy and establish safety.",
+    "species_latin": "Oryctolagus cuniculus",
+    "species_en": "Rabbit",
+    "species_zh": "兔",
+    "takeaway": "橙皮与丁香精油纳米乳治兔疥螨，橙皮纳米乳提高存活率，丁香效果不显著",
+    "conclusion": "橙皮精油纳米乳可改善自然感染疥螨兔的存活率，并在血液、氧化应激、炎症及组织病理指标上呈向健康状态回归的趋势；丁香纳米乳未见显著生存获益，两者优劣未确立，相关生物学差异属探索性。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
@@ -1170,6 +1417,94 @@
     "llm_enhanced": true
   },
   {
+    "id": "manual-20261127-spotted-seal-t2t",
+    "title": "端粒到端粒(T2T)完整基因组组装揭示斑海豹(Phoca largha)染色体水平基因组全景",
+    "type": "wechat",
+    "boards": [
+      "t2t"
+    ],
+    "source": "生物通",
+    "authors": "",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-27",
+    "url": "https://m.ebiotrade.com/newsf/2026-11/20261120035551267.htm",
+    "doi": "",
+    "pmid": "",
+    "abstract": "研究团队结合 Illumina、PacBio HiFi、Oxford Nanopore 超长读长与 Hi-C 测序，构建了斑海豹首个端粒到端粒（T2T）水平无间隙基因组，包含 16 条假染色体，基因组大小 2.41 Gb，所有染色体两端均检测到端粒重复且每条染色体均定位着丝粒。共预测 29,083 个蛋白质编码基因，其中 88.03% 获得功能注释，为斑海豹保护遗传学与海洋哺乳动物比较基因组研究提供了高质量基础资源。",
+    "species_latin": "Phoca largha",
+    "species_en": "Spotted seal",
+    "species_zh": "斑海豹",
+    "takeaway": "斑海豹首个 16 条染色体无间隙 T2T 基因组发布，填补了该物种高质量参考基因组的空白。",
+    "conclusion": "最终组装共 2.41 Gb、contig N50 达 188.38 Mb，Merqury 质量值 56.99、BUSCO 完整度 99.3%，重复元件占 31.51%；29,083 个蛋白编码基因中 25,601 个获得功能注释。该 T2T 基因组为斑海豹分子遗传学、种群保护与恢复以及鳍足类比较基因组研究建立了关键基础。",
+    "keywords": [
+      "T2T",
+      "端粒到端粒",
+      "无间隙基因组",
+      "斑海豹",
+      "Phoca largha",
+      "着丝粒",
+      "端粒",
+      "HiFi",
+      "Hi-C",
+      "超长读长",
+      "海洋哺乳动物",
+      "保护基因组",
+      "染色体组装"
+    ]
+  },
+  {
+    "id": "pmid-43090581",
+    "title": "Effects of Chlorobenzene Fumigation on Mortality of Western Flower Thrips (Thysanoptera: Thripidae) and Postharvest Visual Quality of Select Fresh Produce",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Liu YB.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43090581",
+    "doi": "10.3390/insects17111215",
+    "pmid": "43090581",
+    "abstract": "Chlorobenzene is a newly discovered fumigant for postharvest pest control. In this study, chlorobenzene fumigation was evaluated for its efficacy against western flower thrips and impact on the visual quality of selected fresh products including broccoli, green peppers, apples, navel oranges, and strawberries. In small-scale fumigations in 1.9 L jars at 2 °C, chlorobenzene fumigation was effective against thrips. There was a significant correlation between logarithms of chlorobenzene vapor concentrations and thrips mortality. Complete control of the thrips was achieved in 24 h fumigations with about 600 ppm chlorobenzene. In fumigations in 21.8 L chambers at 2 °C, complete control was achieved in 6 h with about 1150 ppm chlorobenzene. The treatment had no negative effects on the visual quality of green peppers, green apples, or navel oranges. However, there were significant differences among the treatments in color measurements for broccoli and strawberries. The fumigations also caused darker calyxes of strawberries. Fumigations at higher concentrations at 5 °C caused injuries to green peppers, indicating the high sensitivity of some fresh products to chlorobenzene fumigation.",
+    "species_latin": "Frankliniella occidentalis",
+    "species_en": "western flower thrips",
+    "species_zh": "西花蓟马",
+    "takeaway": "氯苯熏蒸可有效杀灭西花蓟马，但部分果蔬外观品质受影响",
+    "conclusion": "在2℃下，氯苯熏蒸对西花蓟马有显著杀灭效果，且浓度对数与死亡率相关；约600 ppm处理24小时或约1150 ppm处理6小时可完全控制。青椒、青苹果和脐橙外观未受影响，但西兰花和草莓颜色有显著变化，草莓萼片变深；5℃下高浓度熏蒸会损伤青椒，表明部分鲜品对氯苯敏感。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43083218",
+    "title": "Advanced Membrane Processes for the Removal of Anthelmintics, Neonicotinoids and Their Mixtures: Retention Mechanisms and Effects on Ecotoxicity",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Membranes",
+    "authors": "Babić Visković B, Mustapić P, Stepan V, Ašperger D, Dolar D.",
+    "publish_date": "2026-11-20",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43083218",
+    "doi": "10.3390/membranes16110395",
+    "pmid": "43083218",
+    "abstract": "Veterinary anthelmintics and neonicotinoid insecticides in aquatic environments pose challenges for conventional wastewater treatment. Six commercial ultrafiltration (UF), nanofiltration (NF), and reverse osmosis (RO) membranes were evaluated for the rejection of three veterinary anthelmintics (albendazole, febantel, and mebendazole) and three neonicotinoid insecticides (acetamiprid, clothianidin, and thiacloprid). The compounds were tested individually and as a six-component mixture in demineralized and model water. After 3 h, rejection of the individual compounds was at least 92.9% with the tight NF membrane ESNA1-LF-LD and 94.1% with the RO membrane ESPA4. Neonicotinoid rejection by the UF membrane did not exceed 9.2%. In the six-component mixture, ESNA1-LF-LD rejected 87.9-94.9% of neonicotinoids and 90.1% to >99.9% of anthelmintics. The RO membranes (XLE and ESPA4) rejected 89.8-94.8% of neonicotinoids and 92.5% to >99.9% of anthelmintics. Fourier transform infrared (FTIR) spectroscopy indicated possible interactions between anthelmintics and the membranes. At the highest sample volume fraction tested, the untreated mixture caused 63.6% inhibition of Vibrio fischeri bioluminescence in demineralized water and 86.8% in model water. No inhibition was detected in the XLE or ESPA4 permeates. Rejection depended on membrane selectivity, compound properties, and water matrix. Combining chemical measurements with ecotoxicity assays provided a broader assessment of membrane treatment performance.",
+    "species_latin": "Vibrio fischeri",
+    "species_en": "Vibrio fischeri",
+    "species_zh": "费氏弧菌",
+    "takeaway": "纳滤与反渗透膜对驱虫药和烟碱类杀虫剂及混合液截留率高，出水不再抑制发光细菌。",
+    "conclusion": "致密纳滤膜ESNA1-LF-LD和反渗透膜XLE、ESPA4对六种目标污染物单组分及混合液均保持高截留率，截留效果受膜选择性、化合物性质和水基质影响；原混合液对费氏弧菌发光有明显抑制，而反渗透出水未检出抑制，说明将化学分析与生态毒性测试结合可更全面评价膜处理效果。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "EuropePMC",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43075838",
     "title": "Computational Discovery of Enzyme-targeted Insecticides and Acaricides: In Silico Strategies for Next-generation Mosquito and Tick Control",
     "type": "paper",
@@ -1430,6 +1765,32 @@
       "新型杀虫剂"
     ],
     "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43056402",
+    "title": "Applications of computer vision in mosquito-borne diseases: A systematic review",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "PLoS neglected tropical diseases",
+    "authors": "Ong SQ, Brkljač B, Djerdj T, Cholvi M, Martinou AF, Williams JJ, Hackenberger DK, Hackenberger BK.",
+    "publish_date": "2026-11-19",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43056402",
+    "doi": "10.1371/journal.pntd.0014870",
+    "pmid": "43056402",
+    "abstract": "Mosquito-borne diseases (MBDs) remain a major global health challenge. Vector surveillance, pathogen detection, and clinical diagnosis are central to control efforts but are limited by labor-intensive workflows and shortages of trained personnel. Computer vision (CV) offers opportunities for scalable automation throughout the MBD management pipeline. We aimed to systematically characterize the applications of computer vision in mosquito-borne diseases research, summarize methodological developments, and identify opportunities and barriers to translating these advances into public health practice. We conducted a systematic review in accordance with PRISMA 2020 guidelines, searching PubMed, Scopus, and IEEE Xplore for studies published between January 1, 2010, and December 31, 2025, that applied computer vision to any aspect of MBD research or control. A total of 1,521 records were screened, and 650 studies met the inclusion criteria. Studies were categorized by computer vision application area, data types, algorithmic approaches, and data acquisition methods. Descriptive quantitative analysis and qualitative thematic synthesis were performed. The use of computer vision in MBD research increased significantly over the review period. Most studies focused on diagnostic applications, particularly Plasmodium detection in malaria microscopy. More recent work incorporated deep learning models for mosquito species classification, UAV- and satellite-based habitat mapping, and smartphone-based non-invasive diagnostic imaging. Emerging areas included 3D mosquito behavioral analysis and Internet of Things-enabled surveillance. Algorithmic approaches evolved from traditional image processing to convolutional neural networks, You Only Look Once (YOLO)-based object detectors, and transformer architectures. However, most models were developed using small, geographically-limited datasets, lacked external or prospective validation, and were rarely evaluated in operational settings, limiting their translational readiness.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "系统综述650项研究显示,计算机视觉在蚊媒病研究中快速增长,但多依赖小样本、缺乏外部验证,转化应用受限。",
+    "conclusion": "计算机视觉已广泛用于疟疾显微镜原虫检测、蚊种分类、栖息地制图与智能手机诊断,算法从传统图像处理演进到卷积网络、YOLO与Transformer;但数据集小且地域局限、缺少外部与前瞻验证、少有实际运行评估,制约其公共卫生转化。",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -3507,6 +3868,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43093509",
+    "title": "Hybrid BiLSTM-Graph Neural Networks Learn Efficient Secondary Structure Representations for Protein-Protein Interface Prediction",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Molecules (Basel, Switzerland)",
+    "authors": "Pancino N, Romagnoli F, Ceroni EG, Gallegati C, Bianchini M.",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43093509",
+    "doi": "10.3390/molecules31224109",
+    "pmid": "43093509",
+    "abstract": "Protein-protein interfaces (PPIs) are essential for numerous biological processes and represent attractive targets for drug discovery and protein engineering. Although recent protein language models have enabled powerful sequence representations for downstream structural prediction tasks, they require substantial computational resources and produce general-purpose embeddings that are not optimized for specific applications. In this work, we investigate whether task-specific representation learning can provide a computationally efficient alternative for PPI prediction. Proteins are represented as graphs of secondary structure elements (SSEs), where each node corresponds to an SSE described by its ordered amino acid sequence and edges encode spatial relationships between neighboring SSEs. We propose an approach based on a hybrid Bidirectional Long Short-Term Memory-Graph Neural Network (BiLSTM-GNN) architecture that learns SSE embeddings directly from residue-level physicochemical descriptors and optimizes them jointly with a downstream graph neural network. The proposed approach is compared with an alternative pipeline based on pretrained ESM2 embeddings while keeping the graph representation and GNN architecture unchanged. Experimental results show that the task-specific BiLSTM encoder achieves competitive predictive performance with respect to the pretrained protein language model, in almost all the considered metrics, in the most challenging evaluation setting while requiring a lower computational effort. These findings suggest that end-to-end task-specific representation learning constitutes an effective and efficient alternative to pretrained protein language models for PPI prediction.",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "用BiLSTM-GNN从二级结构图学习任务特异的蛋白质表示，在蛋白质相互作用界面预测中以更低算力媲美预训练ESM2。",
+    "conclusion": "以二级结构元素为节点、残基理化描述为输入，端到端训练BiLSTM-GNN可获得与预训练蛋白语言模型相当的界面预测性能，且计算开销更低，说明任务特异的表示学习是PPI预测中高效可行的替代方案。",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "PubMed",
     "llm_enhanced": true
   },
   {
