@@ -2255,6 +2255,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43092240",
+    "title": "Network and Matrix-Based Visualization of Plant-Derived Bioactive Compounds for Sustainable Management of Fall Armyworm and Related Pests",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plants (Basel, Switzerland)",
+    "authors": "Khamala AA, Muthamia EK, Okoth PK, Ombura FLO, Khamis FM.",
+    "publish_date": "2026-11-18",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43092240",
+    "doi": "10.3390/plants15223612",
+    "pmid": "43092240",
+    "abstract": "Crop production is continuously under threat from the fall armyworm (Spodoptera frugiperda) and other crop pests. The overuse of chemical insecticides has contributed to cross-resistance, environmental contamination, and non-target effects, and plant-derived toxicants are considered potential alternatives for integrated pest management (IPM). We mapped published evidence on plant sources, active constituents, target organisms, and bioactivity classes using NetworkX-based bipartite networks, heatmaps, and compound-bioactivity matrices built from 54 plant-target records (22 plant taxa, one aggregate monoterpenoid blend, and 35 target organisms). We found that Azadirachta indica and Sphagneticola trilobata are highly networked sources, and our findings further demonstrate that Spodoptera litura, S. frugiperda, and Helicoverpa armigera are major targeted pests by these bioactive compounds. Additionally, Azadirachtin and β-asarone had broader functional profiles compared to other essential-oil constituents, which were found to exhibit contact toxicity. Findings from the network and matrix-based approach provide a basis for prioritizing bioactive compounds for further experimental validation and organizing botanical pesticide evidence. Importantly, the present computational findings should be interpreted as hypothesis-generating and require further experimental proof.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "Fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "用网络与矩阵分析54条植物-靶标记录，发现印楝和蟛蜞菊为高连接植物源，印楝素与β-细辛醚功能谱最广。",
+    "conclusion": "基于NetworkX二部网络、热图与化合物-生物活性矩阵的证据整合表明，印楝和蟛蜞菊是高度网络化的植物源，斜纹夜蛾、草地贪夜蛾和棉铃虫为主要靶标害虫；印楝素和β-细辛醚较其他精油成分具有更广的功能谱，后者表现触杀毒性。该计算框架可为植物源杀虫活性成分的优先级排序与实验验证提供依据，但结果属假设生成性质，仍需实验证实。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "manual-20261126-matrine-mof-nanopesticide",
     "title": "林学院樊建庭教授团队在《Journal of Hazardous Materials》发表纳米生物源农药成果",
     "type": "wechat",
@@ -2717,6 +2743,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43092221",
+    "title": "Plant-Mediated Silver Nanoparticles for Aedes aegypti Control: Larvicidal Efficacy and Mechanisms",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Plants (Basel, Switzerland)",
+    "authors": "Seeniponnalagu S, Rajendran K, Anusuya S, Balasubramani S, Gurusamy D.",
+    "publish_date": "2026-11-17",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43092221",
+    "doi": "10.3390/plants15223591",
+    "pmid": "43092221",
+    "abstract": "Aedes aegypti L. in Hasselquist (Diptera: Culicidae) is a major vector of dengue, chikungunya, Zika, and other arboviral diseases. Increasing insecticide resistance and environmental concerns highlight the need for sustainable vector-control strategies. Phytochemical-mediated silver nanoparticles (AgNPs) are promising bio-larvicidal agents because plant-derived metabolites contribute to nanoparticle formation, stabilization, and biological activity. This review provides a mechanistic and comparative assessment of green-synthesized AgNPs for A. aegypti control. It examines the roles of phytochemicals, including phenolics, flavonoids, terpenoids, and alkaloids, in nanoparticle synthesis and discusses how particle size, morphology, surface chemistry, and synthesis conditions influence larvicidal efficacy. Comparative analysis indicates that reported larvicidal activity varies with extract composition, nanoparticle characteristics, larval stage, exposure duration, and bioassay conditions, limiting direct comparisons of lethal concentrations across studies. Across the studies reviewed, plant-extract composition and synthesis-dependent nanoparticle characteristics emerge as important determinants of activity; however, their effects are difficult to separate from differences in larval stage, exposure duration, tested dose, and bioassay protocol. These methodological and material discrepancies elucidate the variability in reported lethal concentrations and the frequent unreliability of direct efficacy rankings across studies. Major toxicity mechanisms, including reactive oxygen species generation, oxidative stress, membrane disruption, enzyme inhibition, DNA damage, and apoptosis, are examined, with consideration of the distinction between experimentally demonstrated and proposed mechanisms in A. aegypti. The review also evaluates dose-response relationships and potential effects on non-target organisms and aquatic ecosystems. The contribution of plant metabolites to larvicidal activity and the relative roles of nanoparticles and released silver ions remain important research gaps. Challenges in standardization, reproducibility, scale-up, environmental safety, regulatory approval, and field validation are highlighted. Future research should prioritize harmonized synthesis and bioassay protocols, mechanistic validation, comprehensive ecological risk assessment, and field evaluation to support the responsible development of phytogenic AgNPs for mosquito control.",
+    "species_latin": "Aedes aegypti",
+    "species_en": "Yellow fever mosquito",
+    "species_zh": "埃及伊蚊",
+    "takeaway": "综述植物介导银纳米颗粒杀灭埃及伊蚊幼虫，其活性受植物成分与颗粒特性影响，机制涉及氧化应激等。",
+    "conclusion": "植物提取物成分与合成条件决定的纳米颗粒特性是杀蚊幼虫活性的重要决定因素，但受幼虫龄期、暴露时间和生物测定方案差异干扰，难以直接比较不同研究的半数致死浓度；毒性机制包括活性氧生成、氧化应激、膜破坏、酶抑制、DNA损伤和凋亡，其中部分仅为推测；标准化、可重复性、规模化及生态安全性仍是待解问题。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43066363",
     "title": "Nano-enabled neem biopesticides as next-generation agro-inputs for sustainable plant protection",
     "type": "paper",
@@ -3009,6 +3061,58 @@
     ],
     "via": "Google News:ja",
     "link_kind": ""
+  },
+  {
+    "id": "pmid-43091908",
+    "title": "Pulmonary and Systemic Safety Assessment of Two Bacillus thuringiensis Biopesticides After Oral, Intranasal, and Subcutaneous Exposure in BALB/c Mice",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "International journal of molecular sciences",
+    "authors": "Yildiz I, Yigit E, Zihni HC, Tekatli S, Yenilmez E, Sezen K.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43091908",
+    "doi": "10.3390/ijms272210284",
+    "pmid": "43091908",
+    "abstract": "Microbial biopesticides may contain viable microorganisms, requiring safety assessments that address infectivity, pathogenicity, host clearance, and toxicity. However, integrated evaluations of native isolates remain limited. Two microbial biopesticides, Eca9/Mm2 and Eca9/Xd3, formulated using combinations of Bacillus thuringiensis subsp. kurstaki (Eca9) and B. thuringiensis subsp. tenebrionis (Mm2 or Xd3) isolates, were evaluated in female BALB/c mice. Each preparation was administered by oral gavage (100 µL), intranasal instillation (10 µL), and subcutaneous injection (100 µL), with active, heat-inactivated, and shared control groups. Animals were monitored for mortality, clinical signs, and body weight until their designated sampling time points, with a maximum follow-up of 21 days. Microbiological recovery was assessed by heat-selected culturable spore counts in fecal and blood samples following oral and subcutaneous administration and in lung tissue following intranasal administration on days 7, 14, and 21. In intranasally exposed animals, pulmonary TNF-α, MPO, CC16, and ACE2 and serum CRP and PCT were measured by ELISA, while serum ALT, AST activities, and BUN level were determined using an autoanalyzer. Lung histopathology was evaluated by blinded semiquantitative scoring. Each preparation was analyzed separately against the shared control group, without direct statistical comparisons between preparations. No exposure-related mortality or overt clinical signs of toxicity were observed, and percentage body weight gain did not differ from control in any treatment group. Following intranasal administration, pulmonary bacterial load no longer differed significantly from control on day 21 in the Eca9/Mm2 group, whereas it remained significantly elevated in the Eca9/Xd3 group. However, histopathological responses did not parallel bacterial recovery. Active Eca9/Mm2 exhibited significant alveolar septal thickening and interstitial inflammation on day 21 despite pulmonary bacterial recovery no longer differing significantly from control. In contrast, active Eca9/Xd3 produced no significant histopathological changes relative to control; the significant alterations in this preparation were confined to the heat-inactivated form on day 7. These findings indicate that pulmonary bacterial recovery alone is insufficient to establish infection or predict histopathological alterations and that heat-inactivated preparations can elicit biological responses. The results support strain and formulation-specific safety assessments integrating microbiological, biochemical, histopathological, and clinical endpoints.",
+    "species_latin": "Mus musculus",
+    "species_en": "House mouse",
+    "species_zh": "小鼠",
+    "takeaway": "两种含苏云金芽孢杆菌的生物农药经口、鼻、皮下暴露于小鼠，未致死亡或体重异常，但肺部清除与炎症反应因配方而异",
+    "conclusion": "两种生物农药制剂在BALB/c小鼠中均未引起暴露相关死亡或明显毒性，体重增长与对照无差异。经鼻暴露后，Eca9/Mm2组肺部细菌载量第21天恢复至对照水平，但仍出现肺泡间隔增厚和间质炎症；Eca9/Xd3组细菌载量持续升高，却未见显著组织病理改变，提示细菌清除与肺部炎症反应并不一致，不同配方的安全性需分别评估。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43090560",
+    "title": "Evaluating the Insecticidal Potential of Solanum lycocarpum and Curatella americana Leaf Extracts: Histopathological Effects on Culex quinquefasciatus Larvae",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Insects",
+    "authors": "Caetano NDS, Meireles BA, Branco AC, Cassel M.",
+    "publish_date": "2026-11-16",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43090560",
+    "doi": "10.3390/insects17111195",
+    "pmid": "43090560",
+    "abstract": "This study evaluated the larvicidal potential and histopathological impacts of ethanolic extracts from Solanum lycocarpum and Curatella americana against third-instar Culex quinquefasciatus larvae. Laboratory bioassays were conducted to assess mortality and behavioral effects. While no direct larval mortality occurred in this study, lethargy was observed three hours post exposure in treatments involving the highest concentrations (T7 and T8). After specimens were fixed in 70% ethanol, standard histological analysis revealed concentration-dependent changes across both plant extracts. Significant structural alterations were observed in the salivary glands, gastric caeca, Malpighian tubules, and the anterior, mid, and posterior intestines, with the most severe damage appearing to increase with higher extract concentrations. These disruptions affected tissues involved in feeding and development, potentially offering an indirect mechanism for vector control.",
+    "species_latin": "Culex quinquefasciatus",
+    "species_en": "Southern house mosquito",
+    "species_zh": "致倦库蚊",
+    "takeaway": "两种植物叶提取物虽不直接杀灭致倦库蚊幼虫，但高浓度可致其迟钝并损伤多器官组织。",
+    "conclusion": "茄科植物Solanum lycocarpum与Curatella americana的乙醇叶提取物对致倦库蚊三龄幼虫无直接致死作用，但高浓度暴露3小时后幼虫出现迟钝；组织学分析显示唾液腺、胃盲囊、马氏管及前中后肠均出现浓度依赖性结构损伤，破坏摄食与发育相关组织，可能通过间接机制实现病媒控制。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
   },
   {
     "id": "pmid-43063827",
@@ -3892,6 +3996,32 @@
     "conclusion": "以二级结构元素为节点、残基理化描述为输入，端到端训练BiLSTM-GNN可获得与预训练蛋白语言模型相当的界面预测性能，且计算开销更低，说明任务特异的表示学习是PPI预测中高效可行的替代方案。",
     "keywords": [
       "蛋白互作预测"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43092652",
+    "title": "Machine Learning-Assisted Experimental Electronic Nose Measurements for Biopesticide Treatment Discrimination in Tomatoes",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Sensors (Basel, Switzerland)",
+    "authors": "Ayranci AA, Dinçbakır C, Erkmen B.",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-27",
+    "url": "https://europepmc.org/article/MED/43092652",
+    "doi": "10.3390/s26227177",
+    "pmid": "43092652",
+    "abstract": "This study evaluated whether a compact electronic nose could distinguish intact tomatoes treated with wood vinegar or neem oil from those without experimental biopesticide application. The dataset comprised 38 tomatoes and 228 technical runs, including six additional controls measured in triplicate initially and after 16 h: three untreated and three water-sprayed. Six commercial SnO2 sensors recorded voltages during a 180 s cycle. Six classifiers were compared using identical tomato-wise nested cross-validation with three outer folds, two inner folds, and five repetitions. With 54 full-cycle features, linear discriminant analysis (LDA) achieved 97.02% accuracy and 95.72% balanced accuracy; an artificial neural network (ANN) achieved 96.93% and 95.14%, respectively. Paired conditional intervals did not establish superiority of either model. Models trained on the original 32 fruits produced false biopesticide alarms in the new controls, including 17/36 ANN predictions. Incorporating eligible control fruit into training improved matched held-out performance, mainly under the new negative conditions. The separate two-treatment task included 32 fruits. These findings support exploratory recognition of patterns associated with application and show the value of procedural controls. Small control groups, unlogged chamber conditions, and missing chemical reference measurements limit chemical attribution and external screening claims.",
+    "species_latin": "Solanum lycopersicum",
+    "species_en": "Tomato",
+    "species_zh": "番茄",
+    "takeaway": "便携电子鼻结合机器学习可区分木醋液或印楝油处理番茄，LDA准确率约97%，但对照不足易误报。",
+    "conclusion": "基于SnO2传感器阵列与嵌套交叉验证的分类器能识别生物农药处理相关的气味模式，LDA与ANN性能相当；但小样本对照、未记录舱室条件及缺乏化学参照限制了化学归因与外部筛查结论，需纳入程序性对照以降低假阳性。",
+    "keywords": [
+      "新型杀虫剂"
     ],
     "via": "PubMed",
     "llm_enhanced": true
@@ -15805,6 +15935,34 @@
     ],
     "via": "EuropePMC;PubMed",
     "llm_enhanced": true
+  },
+  {
+    "id": "news-20261001-b765896863",
+    "title": "三井化学Ｃ＆Ｌ、新規殺虫剤でグローバル展開加速",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "化学工業日報 電子版",
+    "authors": "",
+    "publish_date": "2026-10-01",
+    "added_at": "2026-11-27",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95OU5wUk9lSFdNWmZ0cVVyVTcxQmFTaFFhdmZfTk12VEhvbld6NWpiX25GUGJLZ3YxZXZ2OXgzZGVlcFFrMXlUVFhDSUdJREVIQm80?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "三井化学Ｃ＆Ｌ、新規殺虫剤でグローバル展開加速",
+    "conclusion": "",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "ja"
+    ],
+    "via": "Google News:ja",
+    "link_kind": ""
   },
   {
     "id": "pmid-42919566",
@@ -32234,6 +32392,36 @@
     ],
     "via": "Google News:es-ES",
     "link_kind": "search",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20240701-000280bb77",
+    "title": "Scoring Functions for Protein-Ligand Binding Affinity Prediction Using Structure-based Deep Learning: A Review",
+    "type": "news",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Frontiers",
+    "authors": "",
+    "publish_date": "2024-07-01",
+    "added_at": "2026-11-27",
+    "url": "https://doi.org/10.3389/fbinf.2022.885983",
+    "doi": "10.3389/fbinf.2022.885983",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "综述基于结构的深度学习打分函数用于蛋白质-配体结合亲和力预测",
+    "conclusion": "该综述系统梳理了以蛋白质-配体三维结构为输入的深度学习打分函数在结合亲和力预测中的应用，总结了相关方法的设计思路与性能特点，为虚拟筛选与药物发现中亲和力预测工具的选用和改进提供参考。",
+    "keywords": [
+      "蛋白互作预测",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Frontiers in Bioinformatics",
     "llm_enhanced": true
   },
   {
