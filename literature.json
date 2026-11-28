@@ -1,5 +1,34 @@
 [
   {
+    "id": "news-20261128-688dac1f53",
+    "title": "Periodic Wolbachia Mosquito Releases Overcome Thermal Infection Loss in Mathematical Models",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-28",
+    "added_at": "2026-11-28",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekdCanhYcGVUWUVCMXcwY25PMnE1azJMNXRTc3oxejdnY2xNUTF0NDlNU3dmOUplbzFEZVJFbVNZd3A5eDNzSFc2Q1hkenpzOWRRUW5TZkFYMUp6ak5Vb21nWFpHbG9lOGkyMlRKYW9wWEt3RmhERWowOHFMTVQyRndnejVGWTNmdGUtSVNmVmN1X24wUGZ4X2FiLVZhU0JjZUpYVDlpeV9vbk50SWNiVGtzcXNYY0E?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "数学模型显示周期性释放沃尔巴克氏体蚊可克服高温导致的感染丢失",
+    "conclusion": "基于数学建模分析，周期性释放携带沃尔巴克氏体的蚊虫能够抵消高温环境造成的感染率下降，为蚊媒种群改造策略在温度波动条件下的稳定性提供理论依据。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261127-7c500d0b54",
     "title": "A complete telomere-to-telomere genome assembly for silver perch ( Bidyanus bidyanus",
     "type": "news",
