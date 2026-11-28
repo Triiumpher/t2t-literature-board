@@ -1,5 +1,90 @@
 [
   {
+    "id": "news-20261127-7c500d0b54",
+    "title": "A complete telomere-to-telomere genome assembly for silver perch ( Bidyanus bidyanus",
+    "type": "news",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Nature",
+    "authors": "",
+    "publish_date": "2026-11-27",
+    "added_at": "2026-11-28",
+    "url": "https://doi.org/10.1038/s41597-026-08895-5",
+    "doi": "10.1038/s41597-026-08895-5",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "Bidyanus bidyanus",
+    "species_en": "Silver perch",
+    "species_zh": "银鲈",
+    "takeaway": "研究完成银鲈端粒到端粒的完整基因组组装，为其遗传研究提供高质量参考。",
+    "conclusion": "该工作构建了银鲈端粒到端粒无间隙基因组，实现全染色体完整组装，为后续遗传育种、比较基因组学及物种保护研究奠定基础。",
+    "keywords": [
+      "T2T 端粒到端粒基因组",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "doi",
+    "journal": "Scientific Data",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261127-2338bec5f3",
+    "title": "Scientists Validate Fast Liquid Chromatography Method for Routine Lufenuron Pesticide Testing",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Bioengineer.org",
+    "authors": "",
+    "publish_date": "2026-11-27",
+    "added_at": "2026-11-28",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0FMOWdTNnZObGpEbU55cnNKOHY0enpQMzVHamRqSzFRNTA3WTdwTzVZMEFqTXl4U2gzS3pma3dxZmlxR0RKRkJnTG9GUmFJZ2E3TDJKTkFVZUk4QzFHcGZnbFJiX1pCZVgwdm5FQW55ME95Mmp1cUo3VFp4alphZFZTYmRLbnY1Y3JVRXlMU1Vya1BTRmhMaHBJMENNMk9ZZk5rX0tHYXdHeXZIakVnbTRvYXJ2Z0piZnc?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "科研人员验证了一种快速液相色谱法，可用于虱螨脲农药的常规检测。",
+    "conclusion": "该研究建立并验证了快速液相色谱方法，适用于虱螨脲农药的日常例行检测，有助于提升农药残留监测效率；摘要缺失，具体验证参数与性能指标无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43102211",
+    "title": "Apo-Tirucallane and Tirucallane Triterpenoids and Glycosides from Munronia pinnata as Inhibitors of Spodoptera frugiperda Growth",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Journal of natural products",
+    "authors": "Jiang H, He X, Hua W, Zhang Y, Yan C, Ren Y, Kong L, Wang M, Luo J.",
+    "publish_date": "2026-11-27",
+    "added_at": "2026-11-28",
+    "url": "https://europepmc.org/article/MED/43102211",
+    "doi": "10.1021/acs.jnatprod.6c00891",
+    "pmid": "43102211",
+    "abstract": "Apo-tirucallane and tirucallane triterpenoids in Meliaceae plants, which serve as key biosynthetic precursors of botanical insecticidal limonoids, have attracted considerable attention of natural product chemists because of their agricultural relevance. A phytochemical investigation of Munronia pinnata led to the discovery of 20 new (apo)-tirucallane triterpenoids and their glycosides, including 11 apo-tirucallane and 9 tirucallane. Their structures were elucidated by spectroscopic analysis, chemical transformations, quantum chemical calculations, and X-ray crystallography. Their activities against Phytophthora sojae and Spodoptera frugiperda were evaluated, and the results revealed that apo-tirucallane aglycones 1, 6, and 9 reduced larval body weight under the experimental conditions.",
+    "species_latin": "Spodoptera frugiperda",
+    "species_en": "Fall armyworm",
+    "species_zh": "草地贪夜蛾",
+    "takeaway": "从羽叶地黄连中分离20个新(apo)-甘遂烷三萜及苷，其中3个苷元抑制草地贪夜蛾幼虫增重。",
+    "conclusion": "研究从Munronia pinnata中鉴定出11个apo-甘遂烷型和9个甘遂烷型三萜及其糖苷，综合波谱、化学转化、量子化学计算与X射线晶体学确定结构；活性测试显示apo-甘遂烷苷元1、6、9能降低草地贪夜蛾幼虫体重，提示该类成分具杀虫潜力。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "news-20261127-bb79721d58",
     "title": "Dietary Green Zinc Nanoparticles Counteract Pesticide Toxicity in Common Carp",
     "type": "news",
@@ -55,6 +140,171 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261126-cb4852eebc",
+    "title": "Wolbachia mosquito release linked to large dengue and chikungunya drops in Brazilian EVITA trial, Science reports",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Digg",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-28",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mMTI3eVBQTXlnajNiQkFpQVpDQzFqcnNBam9EMmlEVkV2X215NHA1YkVvZFJjenlEX3NuY1RfRDlYdVpTMmhqUg?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴西EVITA试验中释放沃尔巴克氏体蚊使登革热和基孔肯雅热大幅下降",
+    "conclusion": "在巴西EVITA试验中，释放携带沃尔巴克氏体的蚊虫后，登革热与基孔肯雅热病例出现大幅下降，提示以蚊媒共生菌改造蚊群可有效抑制相关虫媒病毒传播，具有公共卫生防控意义。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261126-54b6786c01",
+    "title": "Wolbachia mosquitoes cut dengue infections in children by 68.5% in Brazil trial",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "MLQ.ai",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-28",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUpaeGJBWjVvRnRIRjBJM2Y1TkZmQ2JKenFlejlvelo1ODhIMk9SeDZPNjZlRVViZlFxcXpTUzlLOERVb2syTjVuT2UyR0pPbjk0ZVY5VmlXQk4xUWN6aXpRVWwyN3pQMW1HdFZ3V0IwdlF2VDh5T1JidjUxc1hEWVBuSm5HOEstLWFvbTdWY1dwSEhNV0J3ejBTNWRuZGM?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴西试验中，携带沃尔巴克氏体的蚊子使儿童登革热感染率下降68.5%。",
+    "conclusion": "在巴西开展的试验表明，释放携带沃尔巴克氏体的蚊子可显著降低儿童登革热感染率，降幅达68.5%，提示利用蚊媒共生菌进行生物防控是减少登革热传播的有效策略。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20261126-3ba674a5bd",
+    "title": "Brazil Uses Wolbachia Mosquitoes to Fight Dengue, Cuts Infections by 68.5%",
+    "type": "news",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "https://www.businesstimes-bd.com/",
+    "authors": "",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-28",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02cWRaMDBCYWlMSXlVZy1oNTJuV2FVNUhmbEMtcnNaUVU3dEZCT0JPVllLc2JDXzA5WFNJWGhuTW1tVEZ5Z3hhbjZudUNYaXFPQUIydUNiRURvTlk?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "巴西释放携带沃尔巴克氏体的蚊子，使登革热感染下降68.5%",
+    "conclusion": "巴西采用沃尔巴克氏体蚊媒控制策略，通过释放携带该共生菌的蚊子来阻断登革热传播，使感染率下降68.5%，显示该生物防控手段在公共卫生领域具有显著效果。",
+    "keywords": [
+      "昆虫性别决定演化机制",
+      "全球资讯",
+      "en"
+    ],
+    "via": "Google News:en",
+    "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43099931",
+    "title": "Development of Rubus hirsutus as a woody-plant model system",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Molecular plant",
+    "authors": "Liu H, Chen R, Zeng Z, Xu D, Wang L, Liu J, Zhang Y, Chen H, Liu Z, He Y, Liang M, Zhang T, Shang J, Zhao Q, Yuan YW, Ning G.",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-28",
+    "url": "https://europepmc.org/article/MED/43099931",
+    "doi": "10.1016/j.molp.2026.11.011",
+    "pmid": "43099931",
+    "abstract": "Model systems for long-lived woody plants are urgently needed to accelerate research in plant, evolutionary, and synthetic biology. Ideal model systems should combine well-annotated genomes with robust, user-friendly transformation and genome-editing platforms, as well as efficient strategies for multigene pyramiding. Here, we established a model system based on the woody shrub hirsute raspberry (Rubus hirsutus). First, we de novo assembled two telomere-to-telomere (T2T) Rosoideae genomes. Transcriptomic and pan-genomic analyses revealed extensive gene-level and genome-level diversification within these Rosoideae genomes, underpinning remarkable phenotypic variation across hundreds of wild species and thousands of cultivars. We then developed a leaf-based, tissue-culture-free, antibiotic-free transformation method and an Agrobacterium rhizogenes-mediated gene editing approach for R. hirsutus. We used these methods to establish an efficient sequential transformation strategy for multigene pyramiding and also generated early-flowering transgenic lines of R. hirsutus. Using our newly designed system, we rapidly and stably transformed R. hirsutus with approximately 500 genes and functionally characterized a series of genes and regulatory networks. This de novo-designed, long-lived woody-plant model system, which was derived from phylogenetically close but taxonomically diverse lineages, should greatly accelerate the advancement of our fundamental knowledge and advance translational research in plants.",
+    "species_latin": "Rubus hirsutus",
+    "species_en": "hirsute raspberry",
+    "species_zh": "硬毛悬钩子",
+    "takeaway": "以硬毛悬钩子建立木本植物模型系统，完成两个T2T基因组并开发高效转化与多基因聚合平台",
+    "conclusion": "该研究将硬毛悬钩子打造为长寿木本植物模型：组装两个端粒到端粒的蔷薇亚科基因组，揭示基因与基因组层面多样化；建立免组织培养、免抗生素的叶片转化法和发根农杆菌介导的基因编辑，实现多基因顺序聚合与早花品系创制，并快速稳定转化约500个基因、解析多个基因与调控网络，有望加速植物基础与转化研究。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43100030",
+    "title": "Detection of Wolbachia (Rickettsiales: Anaplasmataceae) strain in Aedes albopictus (Diptera: Culicidae) from diverse breeding habitats in Sarawak, Malaysian Borneo: First report on baseline data for dengue vector control strategies",
+    "type": "paper",
+    "boards": [
+      "sexdet"
+    ],
+    "source": "Medical and veterinary entomology",
+    "authors": "Ngui R, Habeebur Rahman SP, Asry AL, Sidi Omar SFN, Yaman K, Bilung LM, Roslan MA, Wan Sulaiman WY, Tan CS.",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-28",
+    "url": "https://europepmc.org/article/MED/43100030",
+    "doi": "10.1111/mve.70144",
+    "pmid": "43100030",
+    "abstract": "Dengue fever remains a major public health issue in Malaysia, and Sarawak reports an increasing number of cases each year. Wolbachia (Rickettsiales: Anaplasmataceae), an endosymbiotic bacterium naturally found in some insect populations, offers a new method for controlling dengue vectors by releasing Wolbachia-infected Aedes mosquitoes. However, there is currently a scarcity of baseline data on natural Wolbachia infection status in mosquito populations from Sarawak. A cross-sectional study was conducted from March to May 2025 across 21 locations within a higher education institution campus in Sarawak. Mosquito larvae and pupae were collected from active breeding sites, reared to adulthood and identified morphologically using taxonomic keys. Wolbachia detection was performed by polymerase chain reaction (PCR) targeting the Wolbachia surface protein (wsp) gene for strains A and B. Additionally, the dengue virus was detected by reverse-transcriptase PCR (RT-PCR). A total of 277 mosquito larvae and pupae were collected from 32 active breeding sites. Fifteen different breeding habitat types were identified, with tires (28.9%) and discarded containers (23.5%) being the most common. Morphological identification of 119 successfully emerged adults revealed that 93.3% (n = 111) were Aedes albopictus and 6.7% (n = 8) were Culex quinquefasciatus. No Aedes aegypti was recorded. Clear water (59.4%) was the predominant water quality at breeding sites, followed by turbid (34.4%) and polluted (6.3%). Wolbachia screening of 14 pooled A. albopictus samples showed an overall pool positivity rate of 42.9% (6/14 pools). As exact pool sizes were not recorded, this value could not be converted to individual-level prevalence and should be interpreted as an upper bound. A single infection with the Wolbachia strain B was detected in two pools, while superinfection with both strains A and B was observed in four pools. No single Wolbachia A infection was detected. Likewise, all samples tested negative for the dengue virus.This study provides the first baseline data on natural Wolbachia infection in A. albopictus populations from Sarawak. The presence of both single and superinfections suggests the potential for utilizing Wolbachia-based vector control strategies in the region. These findings will inform future planning for the release of Wolbachia-infected Aedes mosquitoes as part of integrated dengue control programs in Sarawak.",
+    "species_latin": "Aedes albopictus",
+    "species_en": "Asian tiger mosquito",
+    "species_zh": "白纹伊蚊",
+    "takeaway": "在马来西亚砂拉越校园白纹伊蚊中首次检出天然沃尔巴克氏体B株及A+B超感染，登革病毒均为阴性",
+    "conclusion": "研究首次提供砂拉越白纹伊蚊天然沃尔巴克氏体感染的基线数据：14份混合样本中6份阳性，仅见B株单感染与A+B超感染，未见A株单感染，且全部样本登革病毒阴性，为当地以沃尔巴克氏体策略防控登革热提供参考依据",
+    "keywords": [
+      "昆虫性别决定演化机制"
+    ],
+    "via": "EuropePMC;PubMed",
+    "llm_enhanced": true
+  },
+  {
+    "id": "pmid-43099928",
+    "title": "Quantifying GPCR - G protein binding affinity in living cells via fluorescence image cumulant analysis",
+    "type": "paper",
+    "boards": [
+      "ppi"
+    ],
+    "source": "Biophysical journal",
+    "authors": "Lemay T, Namkung Y, Laporte SA, Wiseman PW.",
+    "publish_date": "2026-11-26",
+    "added_at": "2026-11-28",
+    "url": "https://europepmc.org/article/MED/43099928",
+    "doi": "10.1016/j.bpj.2026.11.024",
+    "pmid": "43099928",
+    "abstract": "Cellular signaling pathways are crucial for cells to be able to respond and adapt to external stimuli and depend on complex networks of finely tuned protein-protein interactions. Much work has been done to map out these pathways, but quantitative information about the strength of each protein complex in situ can be challenging to measure. This is especially true for membrane proteins such as G-protein-coupled receptors (GPCRs) for which in vitro experiments cannot fully replicate cell membrane conditions. To quantify protein-protein interactions in live cells, a Fokker-Planck equation model was developed to extract the dissociation constant (KD) for protein complex binding and dissociation reactions from image cumulant analysis of fluorescence fluctuations. Using two-channel confocal fluorescence microscopy, fluorescently tagged membrane-protein-binding partners are imaged and spatial cumulant analysis is used to count the number of bound and unbound proteins on the membrane. At steady-state conditions, the fluctuations in numbers of bound proteins are fit to a probability distribution and KD is extracted from the fit. This method enables accurate measurement of KD values from computer-generated images based on Gillespie simulations for protein complex number fluctuations. In situ experiments with mScarlet-tagged Gα subunits and mStaygold-tagged GPCRs expressed in HEK293SL cells revealed significant differences in the measured KDs between the Gαq and Gα13 heterotrimeric G proteins to the angiotensin II type 1 receptor, respectively. This fluorescence fluctuation method paired with mathematical model fit provides a new way to measure binding affinities for membrane proteins in live cells.",
+    "species_latin": "Homo sapiens",
+    "species_en": "human",
+    "species_zh": "人",
+    "takeaway": "用荧光图像累积量分析与Fokker-Planck模型在活细胞中定量GPCR与G蛋白结合亲和力",
+    "conclusion": "该研究建立基于双通道共聚焦成像与空间累积量分析的活细胞蛋白结合亲和力测定方法，可从结合蛋白数波动拟合解离常数KD；在HEK293SL细胞中测得Gαq与Gα13对血管紧张素II 1型受体的KD存在显著差异，为膜蛋白原位定量提供新途径",
+    "keywords": [
+      "蛋白互作预测"
+    ],
+    "via": "EuropePMC",
     "llm_enhanced": true
   },
   {
@@ -139,7 +389,7 @@
     "keywords": [
       "蛋白互作预测"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -253,6 +503,32 @@
     ],
     "via": "Google News:en",
     "link_kind": "",
+    "llm_enhanced": true
+  },
+  {
+    "id": "doi-10.1093/hr/uhag495",
+    "title": "A gap-free genome assembly of Populus simonii and genome-wide association study reveal the genetic architecture of branching angle variation",
+    "type": "paper",
+    "boards": [
+      "t2t"
+    ],
+    "source": "Horticulture Research",
+    "authors": "Kewei Cai, Yunchang Zhang, Yirui Sun, Qiushuang Zhao, Xinru Bi, Junbo Chen, Boyuan Feng, Wenjing Gu, Jinwang Zhang, Su Chen, Xiaona Pei, Xiyang Zhao",
+    "publish_date": "2026-11-25",
+    "added_at": "2026-11-28",
+    "url": "https://doi.org/10.1093/hr/uhag495",
+    "doi": "10.1093/hr/uhag495",
+    "pmid": "",
+    "abstract": "Populus simonii is an ecologically and economically important tree species in China, but its genetic improvement has been constrained by limited high-quality genomic resources. Here, we generated a gap-free, haplotype-resolved reference genome for P. simonii and investigated the genetic architecture of branching angle variation. By integrating GWAS, a phenotype-associated genomic differentiation scan between small- and large-angle accessions, and transcriptome profiling, we identified Posim16aG0083200 (PsARF32), an auxin response factor, as a candidate gene associated with branching-angle regulation. PsARF32 localized predominantly to the nucleus, was expressed at higher levels in small-angle accessions, and showed a negative correlation with branching angle. Ectopic expression of PsARF32 in Arabidopsis thaliana significantly reduced branching angles. In juvenile transgenic 84K poplar plantlets, tissue-resolved analysis revealed modest, tissue-specific reductions in IAA content, while the endogenous 84K ortholog of PsSAUR24 was downregulated in selected overexpression lines. Yeast one-hybrid assays demonstrated the binding of PsARF32 to the tested PsSAUR24 promoter fragment, and dual-luciferase assays showed that PsARF32 negatively regulated PsSAUR24 promoter activity. Together, these findings suggest that PsARF32 functions as a negative regulator of branching angle and may regulate this trait through transcriptional repression of PsSAUR24, accompanied by tissue-specific changes in auxin-related physiology. The genome assembly and associated genetic evidence provide valuable resources for understanding tree architecture and facilitating poplar genetic improvement.",
+    "species_latin": "Populus simonii",
+    "species_en": "Simon poplar",
+    "species_zh": "小叶杨",
+    "takeaway": "研究完成小叶杨无间隙基因组组装，通过GWAS锁定PsARF32负调控分枝角度。",
+    "conclusion": "小叶杨高质量无间隙基因组为性状解析提供基础；PsARF32在细胞核中表达，小角度材料中表达更高，异源表达可减小分枝角度，并通过抑制PsSAUR24启动子活性及组织特异性生长素变化调控分枝角度，为杨树株型改良提供基因资源。",
+    "keywords": [
+      "T2T 端粒到端粒基因组"
+    ],
+    "via": "OpenAlex",
     "llm_enhanced": true
   },
   {
@@ -563,7 +839,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -982,7 +1258,7 @@
     "keywords": [
       "新型杀虫剂"
     ],
-    "via": "PubMed",
+    "via": "EuropePMC;PubMed",
     "llm_enhanced": true
   },
   {
@@ -3975,6 +4251,32 @@
     "llm_enhanced": true
   },
   {
+    "id": "pmid-43101856",
+    "title": "Multi-toxicant exposure to beauvericin, arsenic trioxide, and glyphosate enhances cytotoxicity and intracellular ROS levels in NIH-3T3 fibroblast cells",
+    "type": "paper",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "Frontiers in toxicology",
+    "authors": "Ngaokrajang U, Wattanasuntorn P, Poapolathep S, Kiatwuthinon P, Alassane-Kpembi I, Oswald IP, Poapolathep A.",
+    "publish_date": "2026-11-13",
+    "added_at": "2026-11-28",
+    "url": "https://europepmc.org/article/MED/43101856",
+    "doi": "10.3389/ftox.2026.1958355",
+    "pmid": "43101856",
+    "abstract": "INTRODUCTION: Human exposure to environmental contaminants typically occurs through complex chemical mixtures rather than individual compounds; however, the toxicological interactions among co-occurring contaminants remain poorly understood. This study investigated the cytotoxic interactions of the mycotoxin beauvericin (BEA), the pesticide glyphosate (GLY), and arsenic trioxide (ATO) in binary and ternary combinations using NIH-3T3 fibroblasts. METHODS: Cell viability was assessed using the MTT assay. Toxicological interactions were quantitatively characterized using the Chou-Talalay method based on combination index (CI) and dose reduction index (DRI) analyses. Intracellular reactive oxygen species (ROS) generation was measured to evaluate oxidative stress. RESULTS: Among the individual toxicants, ATO exhibited the greatest cytotoxicity, followed by BEA and GLY. Combination analysis revealed distinct interaction profiles depending on mixture composition. BEA + ATO and BEA + GLY consistently exhibited synergistic cytotoxicity, whereas ATO + GLY showed predominantly additive effects. Notably, the ternary mixture displayed a dose-dependent interaction pattern, transitioning from antagonism at a low effect level (IC10) to synergism at a high effect level (IC50). These interaction profiles were accompanied by increased intracellular ROS generation, with synergistic combinations showing higher ROS levels than individual toxicants. DISCUSSION: Overall, these findings demonstrate that the toxicity of chemical mixtures cannot be predicted from the toxicity of individual components alone, as toxicological interactions depend on both mixture composition and effect level. The results highlight the importance of incorporating mixture-specific approaches into cumulative environmental and food safety risk assessment.",
+    "species_latin": "Mus musculus",
+    "species_en": "Mouse embryonic fibroblast",
+    "species_zh": "小鼠胚胎成纤维细胞",
+    "takeaway": "在NIH-3T3成纤维细胞中，BEA与ATO或GLY二元组合呈协同毒性，三元组合随效应水平由拮抗转为协同，并伴随胞内ROS升高。",
+    "conclusion": "三种毒物联合暴露的细胞毒作用无法由单一组分毒性外推：BEA+ATO与BEA+GLY为协同，ATO+GLY以相加为主，三元混合在低效应为拮抗、高效应为协同，且协同组合ROS更高，提示混合物组成与效应水平共同决定相互作用，环境与食品安全风险评估需采用混合物特异性方法。",
+    "keywords": [
+      "新型杀虫剂"
+    ],
+    "via": "PubMed",
+    "llm_enhanced": true
+  },
+  {
     "id": "pmid-43093509",
     "title": "Hybrid BiLSTM-Graph Neural Networks Learn Efficient Secondary Structure Representations for Protein-Protein Interface Prediction",
     "type": "paper",
@@ -4374,7 +4676,7 @@
     "keywords": [
       "T2T 端粒到端粒基因组"
     ],
-    "via": "OpenAlex",
+    "via": "EuropePMC;OpenAlex",
     "llm_enhanced": true
   },
   {
@@ -33414,6 +33716,35 @@
     ],
     "via": "Google News:en",
     "link_kind": "doi",
+    "llm_enhanced": true
+  },
+  {
+    "id": "news-20210530-60b69717cb",
+    "title": "Bayer CropScience Receives EPA Registration for New Insecticide",
+    "type": "news",
+    "boards": [
+      "insecticide"
+    ],
+    "source": "AgriBusiness Global",
+    "authors": "",
+    "publish_date": "2021-05-30",
+    "added_at": "2026-11-28",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzNKX3FJTGN1bXoxeHQ5d1ZpZndkSmtjenhTT3Fqd3hlV2dnWGp4ZWhhTVE3dDFVLTRpbXc1Qi1TYkNCY2pEVzFXcm1ZR3I2UzNyTTRVMHhYM2NwVEM4VXcxSG0wUk5vQmR4TDVVVzM5cW44SHRlMVJzVnFrVzZINnVPQ0hWazlGZWYtNVY0d3hzUVdGOXV6SjVNMjluWHF3ZV9pLXUtc3RCNEJmZ0Zya1pwajA1ZjjSAbwBQVVfeXFMTzF0NzNtclE2Q0VnQTJ6TXZqaFhsS0ZaQU5uc1RfbTJzbS03MUowR2VSVHZob3NTY2xHeGtEMEFFUDFXTXJzQVlPUk5TX1dFNUVtZHBVdGtiODIzWmMyRUpyWFc2NTN3bWlOYXhhNFlTQ2ZTZjYzQWFPalcyRXQxNVhsQkQzU2ZvUldsYlROZXJEN2xic3ZsS3pLODMwVFRVNURHSDlJS3VjWjMzbkFMNnBPVjBvbU91a0ZjSEk?oc=5",
+    "doi": "",
+    "pmid": "",
+    "abstract": "",
+    "species_latin": "",
+    "species_en": "",
+    "species_zh": "",
+    "takeaway": "拜耳作物科学的新杀虫剂获美国环保署登记批准。",
+    "conclusion": "该报道仅说明拜耳作物科学公司的一款新型杀虫剂已通过美国环保署的登记审批，可进入市场应用；摘要未提供有效成分、靶标害虫、作用机制或防效数据，具体科学信息无法确认。",
+    "keywords": [
+      "新型杀虫剂",
+      "全球资讯",
+      "es-MX"
+    ],
+    "via": "Google News:es-MX",
+    "link_kind": "",
     "llm_enhanced": true
   },
   {
